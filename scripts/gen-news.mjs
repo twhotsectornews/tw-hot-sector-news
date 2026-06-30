@@ -23,7 +23,13 @@ const HISTORY_DIR = path.join(DOCS_DIR, "history");
 
 const MAX_KEYWORDS = 12;           // 一班最多搜尋幾個關鍵字（控管 RSS 請求數）
 const MAX_NEWS_PER_KEYWORD = 6;    // 每關鍵字最多取幾則
-const MAX_NEWS_TOTAL = 60;         // 一班最多處理幾則（控管 Gemini 抽取量）
+const MAX_NEWS_TOTAL = 70;         // 一班最多處理幾則（控管 Gemini 抽取量）
+const MAX_DAY_NEWS = 200;          // 一天內累積（跨班 merge）的新聞上限，避免資料檔膨脹
+
+// 「族群焦點」：直接搜尋標題含這些字的「彙整型」新聞（媒體的熱門族群/盤面焦點專欄），
+// 這是使用者字面想要的「標題含熱門族群」結果，永遠置頂為一個獨立分組。
+const ROUNDUP_SECTOR = "📌 熱門族群焦點";
+const ROUNDUP_KEYWORDS = ["熱門族群", "盤面焦點", "強勢族群"];
 
 // 台北時間（cron 在 UTC 跑，這裡統一換算）。
 function taipeiNow() {
@@ -244,15 +250,67 @@ async function readExisting() {
   }
 }
 
+/**
+ * 把（跨班累積、命名漂移的）新聞重新歸到「本班最新族群分類」之下，消除
+ * 軍工/軍工·無人機/無人機·軍工 這種同義族群被拆成多組的問題。
+ * 規則：非 roundup 的新聞，依本班 sectors（強到弱排序）逐一比對關鍵字，
+ * 標題命中第一個族群即歸入；都不中則保留原 sector。
+ */
+function consolidateSectors(news, latestSectors) {
+  const defs = latestSectors.map((s) => ({ sector: s.sector, keywords: s.keywords || [] }));
+  const names = defs.map((d) => d.sector);
+  for (const n of news) {
+    if (n.isRoundup || n.sector === ROUNDUP_SECTOR) {
+      n.sector = ROUNDUP_SECTOR;
+      continue;
+    }
+    const title = n.title || "";
+    const hit = defs.find((d) => d.keywords.some((k) => k && title.includes(k)));
+    if (hit) {
+      n.sector = hit.sector;
+      continue;
+    }
+    // 後備：舊族群名與本班族群名互為子字串者合併（軍工 ⊂ 無人機/軍工）。
+    const cur = n.sector || "";
+    const merged = names.find(
+      (nm) => nm !== cur && Math.min(nm.length, cur.length) >= 2 && (nm.includes(cur) || cur.includes(nm)),
+    );
+    if (merged) n.sector = merged;
+  }
+}
+
+/** 彙整每個族群：新聞數、漲停檔數、去重後的個股清單（漲停在前），供前端做摘要與收合標頭。 */
 function summariseSectors(news) {
   const map = new Map();
   for (const n of news) {
-    const s = map.get(n.sector) ?? { sector: n.sector, newsCount: 0, limitUpCount: 0 };
+    let s = map.get(n.sector);
+    if (!s) s = map.set(n.sector, { sector: n.sector, newsCount: 0, stocks: [], _seen: new Map() }).get(n.sector);
     s.newsCount += 1;
-    s.limitUpCount += (n.stocks ?? []).filter((x) => x.limitUp3d).length;
-    map.set(n.sector, s);
+    for (const st of n.stocks ?? []) {
+      if (!isCommonStock(st.symbol)) continue;
+      const ex = s._seen.get(st.symbol);
+      if (ex) {
+        if (st.limitUp3d) ex.limitUp3d = true;
+      } else {
+        const o = { symbol: st.symbol, name: st.name, limitUp3d: !!st.limitUp3d };
+        s._seen.set(st.symbol, o);
+        s.stocks.push(o);
+      }
+    }
   }
-  return [...map.values()].sort((a, b) => b.limitUpCount - a.limitUpCount || b.newsCount - a.newsCount);
+  const arr = [...map.values()].map((s) => {
+    delete s._seen;
+    s.limitUpCount = s.stocks.filter((x) => x.limitUp3d).length;
+    s.stocks.sort((a, b) => (b.limitUp3d ? 1 : 0) - (a.limitUp3d ? 1 : 0));
+    return s;
+  });
+  arr.sort((a, b) => {
+    const ar = a.sector === ROUNDUP_SECTOR ? 1 : 0;
+    const br = b.sector === ROUNDUP_SECTOR ? 1 : 0;
+    if (ar !== br) return br - ar; // 族群焦點置頂
+    return b.limitUpCount - a.limitUpCount || b.newsCount - a.newsCount; // 再依強勢度
+  });
+  return arr;
 }
 
 async function main() {
@@ -267,27 +325,31 @@ async function main() {
   // 2~3) 抓新聞（每族群每關鍵字），標題過濾、解析真實 URL、去重（以 Google 文章 id 為穩定鍵）
   const seen = new Set();
   const collected = [];
+  const pushItems = async (items, sector, keyword, extra = {}) => {
+    for (const it of items) {
+      if (collected.length >= MAX_NEWS_TOTAL) return false;
+      const gid = googleArticleId(it.link);
+      if (seen.has(gid)) continue;
+      seen.add(gid);
+      const url = await resolveUrl(it.link);
+      collected.push({ gid, title: it.title, url, source: it.source, pubDate: it.pubDate, sector, keyword, ...extra });
+    }
+    return true;
+  };
+
+  // 0) 族群焦點：標題含「熱門族群/盤面焦點/強勢族群」的彙整型新聞，永遠置頂。
+  for (const kw of ROUNDUP_KEYWORDS) {
+    const items = await fetchNewsForKeyword(kw);
+    if (!(await pushItems(items, ROUNDUP_SECTOR, kw, { isRoundup: true }))) break;
+    await sleep(300);
+  }
+
   let kwBudget = MAX_KEYWORDS;
   outer: for (const { sector, keywords } of sectors) {
     for (const kw of keywords) {
       if (kwBudget-- <= 0) break outer;
       const items = await fetchNewsForKeyword(kw);
-      for (const it of items) {
-        if (collected.length >= MAX_NEWS_TOTAL) break outer;
-        const gid = googleArticleId(it.link);
-        if (seen.has(gid)) continue;
-        seen.add(gid);
-        const url = await resolveUrl(it.link);
-        collected.push({
-          gid,
-          title: it.title,
-          url,
-          source: it.source,
-          pubDate: it.pubDate,
-          sector,
-          keyword: kw,
-        });
-      }
+      if (!(await pushItems(items, sector, kw))) break outer;
       await sleep(300); // 對 Google 客氣一點
     }
   }
@@ -344,13 +406,21 @@ async function main() {
     return;
   }
 
+  // 用本班最新族群分類，把累積的新聞重新歸位，消除同義族群被拆成多組。
+  consolidateSectors(mergedNews, sectors);
+
+  // 一天內多班累積有上限，避免資料檔無限膨脹（取最新的 N 則）。
+  const trimmed = mergedNews
+    .sort((a, b) => new Date(b.pubDate || 0) - new Date(a.pubDate || 0))
+    .slice(0, MAX_DAY_NEWS);
+
   const out = {
     asOf: taipeiISO(),
     generatedAt: new Date().toISOString(),
     tradingDaysChecked: tradingDays,
     aiSource: apiKey ? "gemini" : "none",
-    sectors: summariseSectors(mergedNews),
-    news: mergedNews.sort((a, b) => new Date(b.pubDate || 0) - new Date(a.pubDate || 0)),
+    sectors: summariseSectors(trimmed),
+    news: trimmed,
   };
   await fs.writeFile(OUT_FILE, JSON.stringify(out, null, 2), "utf8");
   console.log(`已寫入 ${path.relative(ROOT, OUT_FILE)}：${out.news.length} 則新聞、${out.sectors.length} 個族群。`);

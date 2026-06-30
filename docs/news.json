@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-06-30T20:58:12.151+08:00",
-  "generatedAt": "2026-06-30T12:58:12.151Z",
+  "asOf": "2026-06-30T21:36:25.920+08:00",
+  "generatedAt": "2026-06-30T13:36:25.920Z",
   "tradingDaysChecked": [
     "2026-06-29",
     "2026-06-26",
@@ -9,44 +9,439 @@
   "aiSource": "gemini",
   "sectors": [
     {
-      "sector": "載板",
-      "newsCount": 12,
-      "limitUpCount": 3
-    },
-    {
-      "sector": "軍工",
-      "newsCount": 12,
-      "limitUpCount": 3
-    },
-    {
-      "sector": "玻璃概念股",
-      "newsCount": 6,
+      "sector": "📌 熱門族群焦點",
+      "newsCount": 8,
+      "stocks": [
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "limitUp3d": true
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "6191",
+          "name": "金居",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "1808",
+          "name": "富喬",
+          "limitUp3d": false
+        }
+      ],
       "limitUpCount": 1
     },
     {
+      "sector": "ABF載板",
+      "newsCount": 17,
+      "stocks": [
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "limitUp3d": true
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "limitUp3d": true
+        },
+        {
+          "symbol": "7795",
+          "name": "長廣",
+          "limitUp3d": true
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "4958",
+          "name": "臻鼎-KY",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "4546",
+          "name": "科嶠",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "6263",
+          "name": "迅得",
+          "limitUp3d": false
+        }
+      ],
+      "limitUpCount": 3
+    },
+    {
       "sector": "半導體",
+      "newsCount": 31,
+      "stocks": [
+        {
+          "symbol": "8040",
+          "name": "九暘",
+          "limitUp3d": true
+        },
+        {
+          "symbol": "5434",
+          "name": "崇越",
+          "limitUp3d": true
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "limitUp3d": false
+        }
+      ],
+      "limitUpCount": 2
+    },
+    {
+      "sector": "軍工/無人機",
+      "newsCount": 17,
+      "stocks": [
+        {
+          "symbol": "8033",
+          "name": "雷虎",
+          "limitUp3d": true
+        },
+        {
+          "symbol": "5371",
+          "name": "中光電",
+          "limitUp3d": true
+        },
+        {
+          "symbol": "2634",
+          "name": "漢翔",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "2630",
+          "name": "亞航",
+          "limitUp3d": false
+        }
+      ],
+      "limitUpCount": 2
+    },
+    {
+      "sector": "玻璃陶瓷",
+      "newsCount": 16,
+      "stocks": [
+        {
+          "symbol": "2406",
+          "name": "國碩",
+          "limitUp3d": true
+        },
+        {
+          "symbol": "8027",
+          "name": "鈦昇",
+          "limitUp3d": true
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "3305",
+          "name": "國碩",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "6174",
+          "name": "光鼎",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "3596",
+          "name": "智易",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "6120",
+          "name": "光鼎",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "6271",
+          "name": "同欣電",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "4911",
+          "name": "榮星",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "4916",
+          "name": "榮星",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "limitUp3d": false
+        }
+      ],
+      "limitUpCount": 2
+    },
+    {
+      "sector": "矽晶圓",
       "newsCount": 12,
+      "stocks": [
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "limitUp3d": true
+        },
+        {
+          "symbol": "8180",
+          "name": "富喬",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "2455",
+          "name": "全新",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "1808",
+          "name": "富喬",
+          "limitUp3d": false
+        }
+      ],
+      "limitUpCount": 1
+    },
+    {
+      "sector": "面板",
+      "newsCount": 17,
+      "stocks": [
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "2317",
+          "name": "GIS-KY",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "3008",
+          "name": "先進光",
+          "limitUp3d": false
+        }
+      ],
       "limitUpCount": 0
     },
     {
       "sector": "被動元件",
-      "newsCount": 11,
+      "newsCount": 16,
+      "stocks": [
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "5386",
+          "name": "青雲",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "6548",
+          "name": "蜜望實",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "6138",
+          "name": "茂達",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "6573",
+          "name": "虹揚-KY",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "2481",
+          "name": "強茂",
+          "limitUp3d": false
+        }
+      ],
       "limitUpCount": 0
     },
     {
-      "sector": "光電",
-      "newsCount": 7,
+      "sector": "封測",
+      "newsCount": 9,
+      "stocks": [
+        {
+          "symbol": "4540",
+          "name": "科嶠",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "3680",
+          "name": "家登",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "3131",
+          "name": "弘塑",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "2467",
+          "name": "志聖",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "8150",
+          "name": "南茂",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "2444",
+          "name": "京元電",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "limitUp3d": false
+        }
+      ],
+      "limitUpCount": 0
+    },
+    {
+      "sector": "AI概念股",
+      "newsCount": 1,
+      "stocks": [],
       "limitUpCount": 0
     }
   ],
   "news": [
+    {
+      "gid": "CBMixgNBVV95cUxPTEFLZU84ZEpka1dyY1RJZzBYZmlDanRlUUtKSUxXbVozVnNBY20wMXNqWVJLOU5VLU5vSnBYMzhCMkFTMUw1NHV5T2hlWmtIS3AzYTJ6ZVd6dUtjalRBS2V2MEFTUTFhVnNHM0laTUJBSTh3WXNlNVFDUE15ejA3cHA2TVVjbkpaQUk4R190NVRoakZHbWlyYjFiaE94VGNpc1ljdEdXVE9DNmkzYkxkQnFDazVCM1NfVlNJSDRzSGl3WWVXN2hxVWg1cjRHekRjTUtwTU5pUTlybnFKLWFQeWVGZDVnZ2VuQXR4TGlVYkFpdS14ZXZWc0E5bDFDTFBHQU5ma0wyZ1BtckxIWHZCTEczV2VyR3d6cnRpd2hjRlE4SzhURHVUaVYydE96eWMyMnExdXNFeWdTcURubms3aUwxem42dWowdmZzVHFlMldZX0tDa0h0T3ZhYUFoSS1zYTd6MUVFbEFDM19aZFVUMFU0aVpiVWVnZjJablh1dnBZemRidGdOcjhLYW1kdjMwcHU3d19MenRqR21VVXhnWGJ5ejdPRTZFYXpSY1AxcXRIN1pVNmdjVERiLWNScU9QSnFYRGRB",
+      "title": "5大載板巨頭擴產帶旺！這「先進封裝設備廠」獲法人初評喊價605元 股價4天飆36%改寫新高 - Yahoo股市",
+      "url": "https://tw.stock.yahoo.com/news/5%E5%A4%A7%E8%BC%89%E6%9D%BF%E5%B7%A8%E9%A0%AD%E6%93%B4%E7%94%A2%E5%B8%B6%E6%97%BA-%E9%80%99-%E5%85%88%E9%80%B2%E5%B0%81%E8%A3%9D%E8%A8%AD%E5%82%99%E5%BB%A0-%E7%8D%B2%E6%B3%95%E4%BA%BA%E5%88%9D%E8%A9%95%E5%96%8A%E5%83%B9605%E5%85%83-%E8%82%A1%E5%83%B94%E5%A4%A9%E9%A3%8636-131500043.html",
+      "source": "Yahoo股市",
+      "pubDate": "Tue, 30 Jun 2026 13:15:00 GMT",
+      "sector": "ABF載板",
+      "keyword": "載板",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiT0FVX3lxTE1CZkUwWnNBUmxnWlF6UFdoVWN1UkN3b0ZDaW12YWU4QzdTZFQzWGhUVVBIZXlrX2F4MFFEQTRDTUtZS1IzcERDWVZNVDhPcFU",
+      "title": "上市非主管均薪前十強清一色半導體 聯發科446萬元奪冠、台積電第三 - news.cnyes.com",
+      "url": "https://news.cnyes.com/news/id/6518004",
+      "source": "news.cnyes.com",
+      "pubDate": "Tue, 30 Jun 2026 13:06:14 GMT",
+      "sector": "半導體",
+      "keyword": "半導體",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "reason": "上市非主管均薪奪冠"
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "reason": "上市非主管均薪第三"
+        }
+      ]
+    },
+    {
+      "gid": "CBMijgFBVV95cUxPcVNPdUdRMms3ekxFbWJGQUdpb0hiS2R4aFV2U1B5STRDMzZwNDExaGdOeUd6dGFMVmRyT1Z4VUhVcVhKdlJJMFVyOTM2WTN0TDhIb0RfczltWWY3bmF3RmJQM1ZBQjJLZ1JSVVdUR3NkY2o5cGtQZ1I0SVFCTkN3d0hUbVNCUy1UUF9hTnpB",
+      "title": "英國大撒幣打造「AI無人軍團」：3.5% GDP國防承諾點燃軍工股新戰場 - CMoney投資網誌",
+      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-a9547c88-7483-11f1-94fa-aaccce4e2d16",
+      "source": "CMoney投資網誌",
+      "pubDate": "Tue, 30 Jun 2026 13:00:25 GMT",
+      "sector": "軍工/無人機",
+      "keyword": "軍工",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiggFBVV95cUxNZFlxNXQ3RmNXRWZ1dExLVWg2WXc4STR2Y1Y1LWNuZkY1QV9HNzdxSjRscmNCWXBWZzlxMThkcGhQQkVZTS1qVkRkZ2VMN1NPZXBQejBYTU1OQmpXd0ZraENXSm1fUlotRW1vUkNETTMydTVmUlJLRWtUSWFWMVNpMHRR",
+      "title": "台股ETF人氣飆新高！半導體與高息成焦點-財經焦點情報站 - CMoney投資網誌",
+      "url": "https://cmnews.com.tw/article/forumnews-a841721f-7483-11f1-ab3c-299efc7bf394",
+      "source": "CMoney投資網誌",
+      "pubDate": "Tue, 30 Jun 2026 13:00:23 GMT",
+      "sector": "半導體",
+      "keyword": "半導體",
+      "stocks": []
+    },
     {
       "gid": "CBMiS0FVX3lxTE9uX0gwU3RKcEhVbDVFc28tVUdPU0JWcVRtQUFqOERVQ1lmT0U4cVgxZE9TTklGbXJSZTMwS2ZqRGJmdl9SMk0zWlgxTQ",
       "title": "光電股紅光熠熠！「這檔玻璃基板」攻頂重返百元、國碩、光鼎連飆漲停 「這5檔」也都亮紅燈 - FTNN 新聞網",
       "url": "https://www.ftnn.com.tw/news/557343",
       "source": "FTNN 新聞網",
       "pubDate": "Tue, 30 Jun 2026 12:45:00 GMT",
-      "sector": "玻璃概念股",
+      "sector": "玻璃陶瓷",
       "keyword": "玻璃基板",
       "stocks": [
         {
@@ -67,6 +462,68 @@
       ]
     },
     {
+      "gid": "CBMipANBVV95cUxQUmMwVjVSTDBQOW4zY2pKYmdRY00tOHN3MTBrYm1IMzZXVmwxSHdVeFdHMURWRU8xclFVdDMtN09GV2hpZ1NOS05UQ3NGVlR6RkxBelV0OWFQWEpMWU9qak5fR1ZLa3dhV1dxa1l1REhtRFVTZFFvTUx5VHMteEFST3F2Mmx1N1Zkd3lUVjd4MHhCZVlTazBXb0lMY09fR2tkWHdSby03VXRlWHdNaGItOTZYTW5LRXFMdklGOTgyNVE3RTlpWER3M2V5YzJsNVJJTTkzdko1azMwX3JIWmJORmNDc28tY2JXWXJTUktCTjVTNm05SGpVVmtXSjZObmFXQm9hd291Rnd5eGZxRlBLcl9WNks0d1VtUGF2cHowc3FDcWk2d21OU2RYMHNaU3NPSURkeWRRakxhWU1xNWJhOUdRTHBVbEg3UWZ4UGNnT1FDNlBid3RaRExoYzJTUGQ2QW9xWUY0bTQwbDl6WHdsSHNNMUJINVFJc3NickFrTXUyMjkwSzBfcWNKcUtib1VFVkNyMERQbG13N3VIR2loQ1lyeFo",
+      "title": "光電股紅光熠熠！「這檔玻璃基板」攻頂重返百元、國碩、光鼎連飆漲停 「這5檔」也都亮紅燈 - Yahoo股市",
+      "url": "https://tw.stock.yahoo.com/news/%E5%85%89%E9%9B%BB%E8%82%A1%E7%B4%85%E5%85%89%E7%86%A0%E7%86%A0-%E9%80%99%E6%AA%94%E7%8E%BB%E7%92%83%E5%9F%BA%E6%9D%BF-%E6%94%BB%E9%A0%82%E9%87%8D%E8%BF%94%E7%99%BE%E5%85%83-%E5%9C%8B%E7%A2%A9-%E5%85%89%E9%BC%8E%E9%80%A3%E9%A3%86%E6%BC%B2%E5%81%9C-124500815.html",
+      "source": "Yahoo股市",
+      "pubDate": "Tue, 30 Jun 2026 12:45:00 GMT",
+      "sector": "玻璃陶瓷",
+      "keyword": "玻璃",
+      "stocks": [
+        {
+          "symbol": "3596",
+          "name": "智易",
+          "reason": "玻璃基板攻頂重返百元"
+        },
+        {
+          "symbol": "2406",
+          "name": "國碩",
+          "reason": "光電股連飆漲停",
+          "limitUp3d": true,
+          "limitUpDates": [
+            "2026-06-29"
+          ]
+        },
+        {
+          "symbol": "6120",
+          "name": "光鼎",
+          "reason": "光電股連飆漲停"
+        }
+      ]
+    },
+    {
+      "gid": "CBMi8AFBVV95cUxNWVNHa0pYd2hxZXd0N0t3VThlMmVLYUR4SlhmaGJxUVdheDRQODZyaF8tQWJMcGwxZ3NpNmNjaFEwMFhmT1JZTWQ4V1Z2T3VKYVN0S2hkNlZQTVZCdlYtREtYTHdxQTMyWUw2SWFQRTkxMS1YWXQ2Z1preml3Wm1KVzlKR192cU9xY3owY1BoNXBWTWhSckk3a0VxaE1QV2VwSFU4bUxwRi0yZDg4cGpncFJJMEQ5YnhwLXdqbUlKS2lVZWFxUDQ4VExOcEktR3Vab3o5cW5xenF5SEJfMVQ0bW9ueEkwYkVYTFUzZ2k0MEI",
+      "title": "台歐半導體培訓 成大雙軌並進 - Yahoo新聞",
+      "url": "https://tw.news.yahoo.com/%E5%8F%B0%E6%AD%90%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%9F%B9%E8%A8%93-%E6%88%90%E5%A4%A7%E9%9B%99%E8%BB%8C%E4%B8%A6%E9%80%B2-124340182.html",
+      "source": "Yahoo新聞",
+      "pubDate": "Tue, 30 Jun 2026 12:43:40 GMT",
+      "sector": "半導體",
+      "keyword": "半導體",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiX0FVX3lxTE00RWVjblkzUGNLZ2lmUnJndUVOekRSd0c5ODQwUnFHNkl4TkJNdjZMMTJ5YUdmYUpiYXR5S2dkeVVON0h4U1RzdjNnb09MX01mRGNqa21GNmxuOGUyc2dn",
+      "title": "矽晶圓漲價幅度超預期…野村挺環球晶目標價曝光- 證券 - 工商時報",
+      "url": "https://www.ctee.com.tw/news/20260630701928-430201",
+      "source": "工商時報",
+      "pubDate": "Tue, 30 Jun 2026 12:40:00 GMT",
+      "sector": "矽晶圓",
+      "keyword": "矽晶圓",
+      "stocks": [
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "reason": "矽晶圓漲價幅度超預期，野村看好",
+          "limitUp3d": true,
+          "limitUpDates": [
+            "2026-06-29",
+            "2026-06-26",
+            "2026-06-25"
+          ]
+        }
+      ]
+    },
+    {
       "gid": "CBMiUkFVX3lxTE0tZ0xTSmFJMDItblVNSXhPTVFfTFM3aGxoM3ZGZHVaWTloNXlhM0JZT1FvenRzU0lXOGJQeTBRZ1Y0akZIMkdlXzdieWM0cmw0UUE",
       "title": "AI晶片需求升溫排擠半導體產能汽車供應鏈面臨新挑戰台廠有望受惠 - 蕃新聞",
       "url": "https://n.yam.com/Article/20260630993890",
@@ -77,12 +534,32 @@
       "stocks": []
     },
     {
+      "gid": "CBMilwFBVV95cUxPaDIyTGNrT1BaeFFEbXdyUXFqbDBiNENURExjRHVKc0pfbmtMUmlad1FiNDJ4LUczdktGcmVwdEJLQTVkX24zSFBhMzhCcXNuVHNlcnRjMGdscDRFSzZaN1VVZDVhQTZUQjd3R1pfX0ZNd3gwLVNWX2pMaVBHdlZfaTMyakF1djVmeUpwbEdCbmJDR1lOVXBR",
+      "title": "美股前瞻| 伊朗稱暫無與美方會晤計劃，美股期指轉跌；AI設備需求持續旺盛，半導體材料股盤前走高；伯恩斯坦唱好閃迪至3000美元，SK海力士已遞表納斯達克 - 富途牛牛",
+      "url": "https://news.futunn.com/hk/post/75324574/us-market-preview-iran-says-it-has-no-current-plans",
+      "source": "富途牛牛",
+      "pubDate": "Tue, 30 Jun 2026 12:35:08 GMT",
+      "sector": "半導體",
+      "keyword": "半導體材料",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiYEFVX3lxTE53SkJvWk5oVnlBTnduSjRLM19lMHNjZkFyMzB6ZGUzUENhNW1Rb0Z5TGRtYlRURV9TVWlxeFQzd1JzRmQ4UVJ5ck44THpQTXg4RUNGNmxISTRnYmhoTS1pZA",
+      "title": "獨／公車面板赫見簡體字「熙訊科技」 民眾憂中國駭客入侵 - 民視新聞網",
+      "url": "https://www.ftvnews.com.tw/news/detail/2026630S10M1",
+      "source": "民視新聞網",
+      "pubDate": "Tue, 30 Jun 2026 12:33:16 GMT",
+      "sector": "面板",
+      "keyword": "面板",
+      "stocks": []
+    },
+    {
       "gid": "CBMiXkFVX3lxTE02WmZRSDhtdkxIQmQ2bkhFWWJ6OERlS0U4NUc5SHFkWnNJc3ZBeVFTMHRpZmxra2hRR3JFOHR2RElUWDBLUjdzWWVkMU44TnVQV3dGVGFNYnptcmNMNXc",
       "title": "科嶠聯手全球自動化設備大廠跨足先進封裝供應鏈| 產經 - 中央社 CNA",
       "url": "https://www.cna.com.tw/news/afe/202606300329.aspx",
       "source": "中央社 CNA",
       "pubDate": "Tue, 30 Jun 2026 12:21:00 GMT",
-      "sector": "半導體",
+      "sector": "封測",
       "keyword": "先進封裝",
       "stocks": [
         {
@@ -93,13 +570,43 @@
       ]
     },
     {
+      "gid": "CBMicEFVX3lxTE1fUG92TlBOTi1zNXRqVWRBMFZORDkzblVCbV95aURBSF94cVRjRzI0Y3MyWDdLZWFpNHFZNFlibTRrdzU3QkhPUl9WZlRLakdCQmNoSVl5eDZ0bUlrVXZtc05yMnBiX0FvWGM3YXhCdGg",
+      "title": "羣智諮詢：6月全球顯示器面板市場價格止漲企穩特徵顯現 部分規格有望開始持平 作者 智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
+      "url": "https://hk.investing.com/news/stock-market-news/article-1532277",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "pubDate": "Tue, 30 Jun 2026 12:18:01 GMT",
+      "sector": "面板",
+      "keyword": "面板",
+      "stocks": []
+    },
+    {
       "gid": "CBMiakFVX3lxTE9uUnB2a0ZqWDhrSXZzRHFHVnkzTkhYS2hvbnY2RUdfQmtlVE0wenZ6Nmc1czRWV1dQT3ZGSEVwcVl2elh1M3ptR0FmRUV2MEFjMk55RFNfYm9QM0ZfcXE2aFBRb1piZnJHQ3fSAW9BVV95cUxObzN3cFY4TEpyYVNfS2NpcjlJNHJUaFF3eVp2M1NNSXpSVllSVXBQVVBwVUUzZ2I5T3dQdG5tS09zR2hQUlpEUEFVZEs4Y2F2ajhZNVF0TlZJRy1zNG03N2UzZTY1ODg0UGxsM2NmQUk",
       "title": "藍將無人機條例改列年度預算 政院：排擠社福、影響建軍 - 自由時報",
       "url": "https://news.ltn.com.tw/news/politics/breakingnews/5489338",
       "source": "自由時報",
       "pubDate": "Tue, 30 Jun 2026 12:17:23 GMT",
-      "sector": "軍工",
+      "sector": "軍工/無人機",
       "keyword": "無人機",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiZEFVX3lxTE9taW1kZHZ1dEJsZlpUblJvTi1GQ0tkcVJxUGwxSFRpSU1KZ2JkUlMwT0taZFkzVWQtYnNlaEI1ODd0QTdJWkcyYmRVZ2hsNU56ME5tRlBXQVYwVU1TU0ZLRExwY1o",
+      "title": "蘋果iPhone 18漲價會多少？對比安卓中高階手機漲幅一表看懂 - mrmad.com.tw",
+      "url": "https://mrmad.com.tw/iphone-18-smartphone-price-trends",
+      "source": "mrmad.com.tw",
+      "pubDate": "Tue, 30 Jun 2026 12:15:12 GMT",
+      "sector": "矽晶圓",
+      "keyword": "漲價",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiggFBVV95cUxPS3Z3SEZGUmQ2RHJjV2xDc2w4YUdjZzlFOENLQm95T181Sy03YmpvMWR1ZkdMTGowNy1VU3dNbmViQ0hyMGN4X0pDZ2xhaVZRUWVoUldfSHlfN1JYZ1JMSGoyQnY2NGE4RHFzVEh6a3Q5ZDlnUnpJaEJydTJHbzEtbi1n0gFfQVVfeXFMTlNnTlo1cEl4MERLUTNBMGhERnl0anVGZENqVEVQQnF1Q2RhSVN4MmhyZTZVeGhOdEFNZVlNV3JSaHdkSWQwTVpQbFR5akU1QkpvTUxSVUs1U2dzRkdBdUE",
+      "title": "日級別日出再現！先進封裝、漲價概念成為多方雙主軸 - 經濟日報",
+      "url": "https://money.udn.com/money/story/5607/9598531?from=edn_newestlist_cate_side",
+      "source": "經濟日報",
+      "pubDate": "Tue, 30 Jun 2026 12:09:00 GMT",
+      "sector": "矽晶圓",
+      "keyword": "漲價",
       "stocks": []
     },
     {
@@ -108,7 +615,7 @@
       "url": "https://udn.com/news/story/6656/9598525",
       "source": "UDN",
       "pubDate": "Tue, 30 Jun 2026 12:03:06 GMT",
-      "sector": "軍工",
+      "sector": "軍工/無人機",
       "keyword": "無人機",
       "stocks": []
     },
@@ -118,8 +625,39 @@
       "url": "https://sunmedia.tw/news/Industry-information/1782778601-%E5%8F%B0%E7%81%A3%E6%8A%95%E5%85%A5686%E5%84%84%E5%85%83%E6%89%93%E9%80%A066%E6%9E%B6%E5%8B%87%E9%B7%B9%E9%AB%98%E6%95%99%E6%A9%9F%E5%BC%B7%E5%8C%96%E5%9C%8B%E9%98%B2%E8%87%AA%E4%B8%BB%E8%88%87%E8%88%AA%E5%A4%AA%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95",
       "source": "商傳媒",
       "pubDate": "Tue, 30 Jun 2026 11:50:00 GMT",
-      "sector": "軍工",
+      "sector": "軍工/無人機",
       "keyword": "國防自主",
+      "stocks": []
+    },
+    {
+      "gid": "CBMickFVX3lxTE1BNEZKa0NJc0kxcGw3dV9LTjFCeUJlMXIyUEduaDdCYmJuV1F2eGM1dnYzMVcxMU1LQzlCc3BlbnZmN0t4bmxiSVhBQmotb0x6Sy00OWlQRVBPUjhDNDVPLUtPQmsxbENiZ1VCSTNCbWZrUQ",
+      "title": "電子原物料通膨壓力炸鍋！富喬、全新光電發布漲價最高達 30% 通知 - TechNews 科技新報",
+      "url": "https://finance.technews.tw/2026/06/30/electronic-raw-materials/",
+      "source": "TechNews 科技新報",
+      "pubDate": "Tue, 30 Jun 2026 11:47:28 GMT",
+      "sector": "矽晶圓",
+      "keyword": "光電",
+      "stocks": [
+        {
+          "symbol": "8180",
+          "name": "富喬",
+          "reason": "電子原物料通膨壓力，發布漲價通知"
+        },
+        {
+          "symbol": "2455",
+          "name": "全新",
+          "reason": "電子原物料通膨壓力，發布漲價通知"
+        }
+      ]
+    },
+    {
+      "gid": "CBMiTkFVX3lxTE9TTnhOYUdMdlRlWkJWV2FacmJDUWpWdnM4VTVfMG5jRWFTYkIyVnJYTndVWkNhYVpWYlg4bUUwS0dsNlRweUExNU9ma1RjUQ",
+      "title": "提升綠能發展與居住品質！光電與老宅延壽補助說明會7/5開講 | 徐炳文 | 地方新聞 - Storm.mg",
+      "url": "https://www.storm.mg/article/11145952",
+      "source": "Storm.mg",
+      "pubDate": "Tue, 30 Jun 2026 11:42:14 GMT",
+      "sector": "面板",
+      "keyword": "光電",
       "stocks": []
     },
     {
@@ -128,13 +666,80 @@
       "url": "https://www.ctee.com.tw/news/20260630701822-430501",
       "source": "工商時報",
       "pubDate": "Tue, 30 Jun 2026 11:26:00 GMT",
-      "sector": "半導體",
+      "sector": "封測",
       "keyword": "先進封裝",
       "stocks": [
         {
           "symbol": "3680",
           "name": "家登",
           "reason": "先進封裝「圓轉方」趨勢帶來新商機"
+        }
+      ]
+    },
+    {
+      "gid": "CBMickFVX3lxTE8yaVVpcjdieDYtT3Q0bTEzS3lvaXZ6LU1SV3hxOTZnVHlxZHF1bkNNQVpJc01VOEI0Qkt0MXpJRTB5VjMwMXVIeFRJaFRHeGdlejNrWENWbWlPeHNNTlZVWTJqaEs0dktUcWFjLVFscmswdw",
+      "title": "軍工股噴出！雷虎漲停 漢翔、中光電等強漲 | NOWNEWS今日新聞 - LINE TODAY",
+      "url": "https://today.line.me/tw/v3/article/3N55X5E?referral=TOPIC-drone",
+      "source": "LINE TODAY",
+      "pubDate": "Tue, 30 Jun 2026 11:02:36 GMT",
+      "sector": "軍工/無人機",
+      "keyword": "軍工",
+      "stocks": [
+        {
+          "symbol": "8033",
+          "name": "雷虎",
+          "reason": "軍工股噴出，股價漲停",
+          "limitUp3d": true,
+          "limitUpDates": [
+            "2026-06-29"
+          ]
+        },
+        {
+          "symbol": "2634",
+          "name": "漢翔",
+          "reason": "軍工股噴出，股價強漲"
+        },
+        {
+          "symbol": "5371",
+          "name": "中光電",
+          "reason": "軍工股噴出，股價強漲",
+          "limitUp3d": true,
+          "limitUpDates": [
+            "2026-06-29",
+            "2026-06-26",
+            "2026-06-25"
+          ]
+        }
+      ]
+    },
+    {
+      "gid": "CBMifkFVX3lxTE9YdjdEaTlFcFhTLXhWWFZUWHNOTlhnaVJ3MWNhb0NEZU5LUXNZME1WcjZOZUJwWWd2dnNJWXFYTFM5cEZrZThpbjUzcmZSTTM1Uno5ZEFuN1NpRjlMTjF2ampwTnFibGFlLVlZV2tWN3pobm1qMjJTM1VFa0xMUQ",
+      "title": "【00981A】06/30 操作日報｜經理人轉向買進載板雙雄 - CMoney投資網誌",
+      "url": "https://cmnews.com.tw/article/cmoney-024f1fc0-7473-11f1-9c4b-0ef4c99093b6",
+      "source": "CMoney投資網誌",
+      "pubDate": "Tue, 30 Jun 2026 11:01:13 GMT",
+      "sector": "ABF載板",
+      "keyword": "載板",
+      "stocks": []
+    },
+    {
+      "gid": "CBMifkFVX3lxTE9odWs0ei1YMkNsX2NuaU1VY0ltS2lVWnF6U0QtLUpfcHl1dFJ1a2VZeHpya2ZDYnFIOEpZNmVoYVhnYjRqRHExVnRYU0FZdE95dXZobnVkaXhFQlFvRVlILUxhMEJJbnp5cW16cEtTSVJwN1gzMnhlWWtFMFpLQQ",
+      "title": "【00403A】06/30 操作日報｜資金點火封測雙雄力成與日月光 - CMoney投資網誌",
+      "url": "https://cmnews.com.tw/article/cmoney-f02a0af4-7472-11f1-a871-3f0f638f501c",
+      "source": "CMoney投資網誌",
+      "pubDate": "Tue, 30 Jun 2026 11:00:42 GMT",
+      "sector": "封測",
+      "keyword": "封測",
+      "stocks": [
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "reason": "資金點火封測雙雄"
+        },
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "reason": "資金點火封測雙雄"
         }
       ]
     },
@@ -154,7 +759,7 @@
       "url": "https://money.udn.com/money/story/11162/9598387?from=edn_newestlist_rank",
       "source": "經濟日報",
       "pubDate": "Tue, 30 Jun 2026 11:00:28 GMT",
-      "sector": "半導體",
+      "sector": "封測",
       "keyword": "先進封裝",
       "stocks": [
         {
@@ -170,8 +775,44 @@
       "url": "https://hao.cnyes.com/post/257013",
       "source": "鉅亨號",
       "pubDate": "Tue, 30 Jun 2026 10:59:41 GMT",
-      "sector": "玻璃概念股",
-      "keyword": "玻璃基板",
+      "sector": "玻璃陶瓷",
+      "keyword": "玻璃",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiakFVX3lxTE5aeW5iRklweVRlYXEzdVV3ZXdHN081dHM0NmpYRUJXXzc5ZjZCbXR1ZGM5OVdEeUNlRmJGM0ItSHd0UVFpZWVuTmdsa3RiOXNvTDRsd0dxTVRHRWxhQVRseHVaZGtEX2VFWVE",
+      "title": "方邦股份：FCCL、電阻薄膜、可剝離銅箔等產品驗證週期漫長，後續客户導入存在不確定性風險 - TradingView",
+      "url": "https://tw.tradingview.com/news/gelonghui:5a2311904acdf:0/",
+      "source": "TradingView",
+      "pubDate": "Tue, 30 Jun 2026 10:41:09 GMT",
+      "sector": "被動元件",
+      "keyword": "電阻",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiVkFVX3lxTFBmbnJLb3FnTVFHOUh0UkJYTnNHX3g5Zk80VlJValZJUS1VQU42VzNTaVRyVkxvZW1LZ2NDemJ0b1BVd25DY0dualVWRTBmZW9sY0x5TG93",
+      "title": "南電受惠 ABF 與 BT 載板產能滿載！三大外資喊買目標價上看 1,444 元 | 科技新報 - LINE TODAY",
+      "url": "https://today.line.me/tw/v3/article/2DBBq3O",
+      "source": "LINE TODAY",
+      "pubDate": "Tue, 30 Jun 2026 10:34:06 GMT",
+      "sector": "ABF載板",
+      "keyword": "載板",
+      "stocks": [
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "reason": "受惠ABF與BT載板產能滿載"
+        }
+      ]
+    },
+    {
+      "gid": "CBMikgFBVV95cUxOR0ptc200UGd0YXFkbG1SRWVDQ29JV2QzaFVVcUNzTVF1OFB4NmVlaFBhWEM2R1c2eGhmWXJza0t6SndSRVRTSDE0ZkNTQVVfSDJhakxnaFpucmlnQ3dxUUh4MlJZdHpmTHdZZk40M18tcjBVVVlmUjd4bVNaRE1KcTY4YmNMM19VbkZjeEZiR0tWdw",
+      "title": "傳京東方爭取三星Galaxy S27系列OLED面板訂單告吹 - 台視全球資訊網",
+      "url": "https://www.ttv.com.tw/finance/view/062026301634213AD13209C9411C952704ECE7A42717AC56/588",
+      "source": "台視全球資訊網",
+      "pubDate": "Tue, 30 Jun 2026 10:32:59 GMT",
+      "sector": "面板",
+      "keyword": "面板",
       "stocks": []
     },
     {
@@ -186,7 +827,12 @@
         {
           "symbol": "2327",
           "name": "國巨",
-          "reason": "領軍被動元件族群上演紅燈秀"
+          "reason": "被動元件族群領漲"
+        },
+        {
+          "symbol": "5386",
+          "name": "青雲",
+          "reason": "被動元件族群中唯一跳空跌停"
         }
       ]
     },
@@ -196,8 +842,18 @@
       "url": "https://news.ustv.com.tw/newsdetail/20260630A041",
       "source": "非凡新聞台",
       "pubDate": "Tue, 30 Jun 2026 10:24:09 GMT",
-      "sector": "光電",
-      "keyword": "光通訊",
+      "sector": "玻璃陶瓷",
+      "keyword": "玻璃",
+      "stocks": []
+    },
+    {
+      "gid": "CBMivgRBVV95cUxPaVZmeUQyWW5EUU93OWxXZlpraUNOcHZieTA1MmlMRTFCaVE4RmVrMkNsbTdhemIwTDJ3Z3BXTHBjQTJzMFp6c1BuaDRjQjRSQl84T0pVX2M1emR1cGdtZFNidTcwbnlWbURROTVCNHlORk94S2hCZjY5OGQ1VmRhdVl2c044Z2luVEdkM1U0b1IzRzdRZWVWSHpacVRxTll4OFVEZDVOaXgwUUx4amZnTmkwLXB1QkppRFJHMnpYNHktYm00bXQ1Q0RRb0NFU25jR1RkTFdMVXdaQXd3VTZpNVI1N2ctUTFuMGNTRTZUUDFmdU82V0V3T3VJb25wbVZVb1Vxc0VCbnZELW1ZcE5JTmFrUEZ1a184ZnpKR3ZhU3M0QXNpbjBYMWhmcmNuMWdzcjVOLUh5X2V2aUNuaV9FTHNkMi1OSjZpWVNLQzhGNlRjTkFhVnlNQXZVdElXY0FIby1hZE1EZEZEdTZ0VG41MnRCaWpJR0dzMXVUM29WelJTenBzMlVNNjdBQk5zREZIQTlhczIyMjA0R1hpZUF0WlY4WXNIanQ1aHlGQmhQSzFWTXNRaUhTSjd1VXNxaVJyNjVQRy1SN2hBNUJvZjZJZUkxU3V1bFRRMkFwWWxxMlpFSG83aUdmSXlna1pTZjdSa1BuclRfRkMtOUdsZklGcjdqNEk1ZzVpbHN0LWNJNUg0eW02ZmVEODJWelEwZ1NDSGlFcjZfd0Y2RFItLUEwRm1JVWV4c0Z1UUlYNDFB",
+      "title": "群創為何總在外資一調節就被放大檢視？從面板報價、法人籌碼到景氣循環一次看懂 - CMoney",
+      "url": "https://readmo.cmoney.tw/article/26811d36-1490-4dfd-974a-193bd9a5f10d?title=%E7%BE%A4%E5%89%B5%E7%82%BA%E4%BD%95%E7%B8%BD%E5%9C%A8%E5%A4%96%E8%B3%87%E4%B8%80%E8%AA%BF%E7%AF%80%E5%B0%B1%E8%A2%AB%E6%94%BE%E5%A4%A7%E6%AA%A2%E8%A6%96%EF%BC%9F%E5%BE%9E%E9%9D%A2%E6%9D%BF%E5%A0%B1%E5%83%B9%E3%80%81%E6%B3%95%E4%BA%BA%E7%B1%8C%E7%A2%BC%E5%88%B0%E6%99%AF%E6%B0%A3%E5%BE%AA%E7%92%B0%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%87%82",
+      "source": "CMoney",
+      "pubDate": "Tue, 30 Jun 2026 10:06:55 GMT",
+      "sector": "面板",
+      "keyword": "面板",
       "stocks": []
     },
     {
@@ -206,7 +862,7 @@
       "url": "https://www.ttv.com.tw/finance/view/?i=0620263016193781057ECB504FD89ED3589A698E08999016&from=587",
       "source": "台視全球資訊網",
       "pubDate": "Tue, 30 Jun 2026 10:01:58 GMT",
-      "sector": "半導體",
+      "sector": "封測",
       "keyword": "先進封裝",
       "stocks": []
     },
@@ -216,7 +872,7 @@
       "url": "https://wantrich.chinatimes.com/news/20260630900541-420101",
       "source": "旺得富理財網",
       "pubDate": "Tue, 30 Jun 2026 10:00:12 GMT",
-      "sector": "半導體",
+      "sector": "封測",
       "keyword": "先進封裝",
       "stocks": [
         {
@@ -232,20 +888,40 @@
       ]
     },
     {
+      "gid": "CBMidEFVX3lxTE1fNHp3N3lUdi1rbGtBX0hYTWpReEs2c01iRXN6RDhzMFhKS1BsT1pLcUV1MjltaGtfQWlkdGEydkwxUVRWOUtVMlpOZ2dVb0loYkVrcGQxaEtDUHg0SHRGSms3X2dMUG9MNHZuZ3JQMXFiU21H",
+      "title": "電阻也有「天花板」，首證實電子碰撞造成的電阻率存在物理上限 - TechNews 科技新報",
+      "url": "https://technews.tw/2026/06/30/limit-electron-collide-resistivity/",
+      "source": "TechNews 科技新報",
+      "pubDate": "Tue, 30 Jun 2026 09:56:50 GMT",
+      "sector": "被動元件",
+      "keyword": "電阻",
+      "stocks": []
+    },
+    {
       "gid": "CBMihARBVV95cUxNQ3Rqc01MS3JGQ3VYRFZVSnNOa0UyM25rSngxNVZweElUT0NqQjVpTlZxbTl4aVM1OXY5bmdKa1ZHQ2RtekdHeUZPSHVDUDFaNlY4czV0VlUzMnUwVWRVN3VSWG9hVDM3Rm4yemhaVmRDZUc1cVI0Y1dtWlE5eV9saVRfcEEzZHJiV3djYkhld0JaakRlSlVmb3F6Q25zcTNRWkRSNXJwQ2VIWkpJOVk0eEllOG5hUGpQRXpRUURiVjRaTzhFTm1hY3BjMHFPdHN5YXU3NFRBVDYwaVQya3hYeHEtWlBsczh4TlQxOFV2TmREMHVJa1JPZDdaZGgtejVyREFGN3MzWG9ydlo5THlyVmRTT3FvT3EyY2lmazBWVTdyZ05zRS12NFROX1c2MkdRdXNZUlExNVM5cDc1aVZiRVFSMm9QUERsWFAwZDdEOXZabWQ2aUN4NWFXQ1ZRWmlEZmV2czlJLW9pZzY1OTA2NUtvaFQ0djVTZXdCU21VdVVKanFQd1pmQjJpOXl5SExLWTIxZ2loQ25KUjRyZEVHUklPTlpIY1M4ME1WQThYOVNLNmNvZUZnNnRaaEpXZHNPaHc2aldrQnpWbG1QbThLZ3UtOXlsdm14YlphcTVOZEgybmxGeEhldnlBbXlaTThNNUxpU0R3S1g2UVdQRERqdlh2clI",
       "title": "AI 伺服器熱潮延燒，PCB 大廠臻鼎-KY 為何站上高檔？營收、籌碼與量價一次看懂 - CMoney",
       "url": "https://readmo.cmoney.tw/article/bc4c883c-e973-4cb6-b9fd-bbfa1f2f2150?title=AI+%E4%BC%BA%E6%9C%8D%E5%99%A8%E7%86%B1%E6%BD%AE%E5%BB%B6%E7%87%92%EF%BC%8CPCB+%E5%A4%A7%E5%BB%A0%E8%87%BB%E9%BC%8E-KY+%E7%82%BA%E4%BD%95%E7%AB%99%E4%B8%8A%E9%AB%98%E6%AA%94%EF%BC%9F%E7%87%9F%E6%94%B6%E3%80%81%E7%B1%8C%E7%A2%BC%E8%88%87%E9%87%8F%E5%83%B9%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%87%82",
       "source": "CMoney",
       "pubDate": "Tue, 30 Jun 2026 09:52:17 GMT",
-      "sector": "載板",
+      "sector": "ABF載板",
       "keyword": "PCB",
       "stocks": [
         {
           "symbol": "4958",
           "name": "臻鼎-KY",
-          "reason": "受AI伺服器熱潮延燒，站上高檔"
+          "reason": "AI伺服器熱潮延燒，PCB大廠站上高檔"
         }
       ]
+    },
+    {
+      "gid": "CBMiVkFVX3lxTE9JTW1hQS1Dd244cmE3SF9wODdQalRqaWZNU21pTDFzakRrUnFvdFhkWmNaUmJpVkZxUWlkS0tIdlhMd195UHRmLUtrOW8xNDNhZlFKcVZR",
+      "title": "白委控出國還在搞分裂指名郭昱晴「告洋狀」 本人嗆：要多玻璃心 | TVBS - LINE TODAY",
+      "url": "https://today.line.me/tw/v3/article/kEKREJo",
+      "source": "LINE TODAY",
+      "pubDate": "Tue, 30 Jun 2026 09:37:12 GMT",
+      "sector": "玻璃陶瓷",
+      "keyword": "玻璃",
+      "stocks": []
     },
     {
       "gid": "CBMitAJBVV95cUxPemF0YjlZR2djbnkwaS1keU44VHJBMXVQS011cWVBcUwyN09kZXFKaVZjNG91UXhKVEd5VEduWmZYa1Zfc0E2RFVHNGltYks3RzNvVlVGdTBjWEhDT3hxTlRjVmt5MnluUXA5WGRsZWxPQnhBaHlrYm5Say1mdFJlLXFsQTZtTUJWTEhXT2toZ001QmVFSUZLczRHbV82a3J5ckhTU0xGYkxkVFhERDFYQmZJLWZqajZYcTZWMUpVQXNuOE02LVJqVUVHRkdmUXppNE9jTG1mb3lEQjRSSTdYS2I4ZkRVYkk5RE1fYjRNWXpDR0NUV242S3ktM1JDaV9RYTNEbkNnOXZrZnY5VWJVcXVSa184WU5NZnI5OUZpT2RtVjY5VS1HQzdob0VEWDZZVDE2ZQ",
@@ -258,18 +934,28 @@
       "stocks": []
     },
     {
+      "gid": "CBMi5AJBVV95cUxNWFliemI4bGRqOWljcVhiSWZqOHB5WVUxemV3SG1ENUNGQ2ZUdUxndFpfZkYtX1AxODlWYjNGOGlhM0R5YW1OZnI4MWtfVHhfR1lnZG9fWDNZWmI0LWZTMnVyeDl6RVNJbnNJZU12RXpMWFlHUVRoYzhBTGp3WjQ5Q3VEZ1NKeW5fTUpERlVnLUtMVXl2OG5nLUVoUTZVUXVEVDQ3ZzBZYzEzQlFFRlNFaXNEdXZVVnJMSGFGejlQNmlOeUxhUm5DQ25pUVVreDZTUnRRZHhVNm5PbTNpbXl3QVRqY2VCdDF1X3F1clBqRWh4VUxRdzNZbmFvUTNpUkV4ekNnbHgzWnBMc0ljTkthdmdQQjlLMnpiY1QyaDRLaW5iVGM5THJlcGs4MXcyMlZPVXdvcGhST0szMXJQX1hEMmxwUkxhcnU4cE9ieGhxWTFRZzNNLVJ3aW10bS1aNk9xR2pUOQ",
+      "title": "陳慧嫻深圳巡唱仙氣回歸《玻璃窗的愛》全場感動大合唱- 本地 - 明周娛樂 - Ming Pao Weekly",
+      "url": "https://www.mpweekly.com/entertainment/article/%E9%99%B3%E6%85%A7%E5%AB%BB%E6%B7%B1%E5%9C%B3%E5%B7%A1%E5%94%B1%E4%BB%99%E6%B0%A3%E5%9B%9E%E6%AD%B8-%E3%80%8A%E7%8E%BB%E7%92%83%E7%AA%97%E7%9A%84%E6%84%9B%E3%80%8B%E5%85%A8%E5%A0%B4%E6%84%9F%E5%8B%95",
+      "source": "Ming Pao Weekly",
+      "pubDate": "Tue, 30 Jun 2026 09:30:22 GMT",
+      "sector": "玻璃陶瓷",
+      "keyword": "玻璃",
+      "stocks": []
+    },
+    {
       "gid": "CBMiUkFVX3lxTFBSR05lX0pOc0xrSE1VempCQ2plaHJoODFwVkxvTU5GaElXN3RUMmNQMWw1WWVLNzJIR0FwOFhRZEpWY3Y1Z1VHcFNzd2J3X1BqY1HSAW5BVV95cUxPSmRoaFBuUU1TWmFjdEN6RmYzUW5uQVg3ZFdtVnBfWUd0dG96QjNITjBHNVByOWt0OUcwT2UzdzNtb1pvXzgzcDM2Y3pzUk1Fb05lM2sxRkc1NXo5dno4RW4xemRLeVhuZ1dhR2JJZw",
       "title": "雷虎挾「無人機國家隊」連2根漲停　獲利開獎「單月虧損」 - ETtoday財經雲",
       "url": "https://finance.ettoday.net/news/3192820",
       "source": "ETtoday財經雲",
       "pubDate": "Tue, 30 Jun 2026 09:24:00 GMT",
-      "sector": "軍工",
+      "sector": "軍工/無人機",
       "keyword": "無人機",
       "stocks": [
         {
           "symbol": "8033",
           "name": "雷虎",
-          "reason": "挾「無人機國家隊」題材，股價連2根漲停",
+          "reason": "挾無人機國家隊連2根漲停，但單月虧損",
           "limitUp3d": true,
           "limitUpDates": [
             "2026-06-29"
@@ -278,43 +964,22 @@
       ]
     },
     {
-      "gid": "CBMi9wRBVV95cUxPQlpfemc4T2NaVVhnd3BycmFpb1BRWXZnYW9ZalVZTXRTR3JaM0FrSmMzdG5EQ1pQREZkSG9tSEtXeVpDODA2UUJFc2hEMHZ6M0M5bkh5U3hhQnkwWENoQm9Ydmt4WFc0eVE3MmpVRDVVSnI5RUhRVzg3TkhTS01UQjZXSXh2WjRsamFPUElSc2MxaUN0bXRRcURRVk9Wc3dNdmhiMTN2RC1KWWY5Q191SkFHY3hmdFRwd3dsenRNSGRHYXptaVo5THpKa09TallRNjhwVlltemc2UG5qdFpRLXlhdU1ZNXZ3eGhST3hybWtWR0JzZ3hTclZLU2EtcWZYaFBwYm45NjktSXQyNEhHUkpYWGdwcTdKM2JZaHdLa3NEbk55cjZMQkJzTjJBRVg2cHpWenhfLVdkX3g1dzZiWTR1VHpOaXc0c2N4XzNkQ0dTazFkOENybjNrRGxNdERzRUwwbGxIdU5rV0dYVzZ5THdyMGcxb3RUR0plWl9lUS1kRjhTYmRRSmNsSElGMFVmaUhQYUhCZDJJc0pFLUg4SHF0S1dfcGJuWF95Zi1FZmQ3bnNYNWdyLVZ4b3dLZEVVQklCWXlnRUtzd3JwT2poZmFGYVJWTzRVZTUtaXpscUVSbUNXaUVfQjJTSEdCV0lNalhDcHBoeEhnLWVwdDVsQUVTVHRiNnFrNWVvREZtNFFMZW9yWFlNaUhIbS1hOFlIRGM5OHdnbFR1S2s0TWRqV0o0UVN0V3VtRFlqOW1EMXB0dmZidHBtcGNmdXM3OWZpamkyWGs1TTlDMVI1aEVGY0dlcWdLcEs2blhCV0JzM2lyYWQzdWl3",
-      "title": "無人機條例朝野版本齊發，預算上看2,400億元，台股軍工族群雷虎、中光電、漢翔、亞航等全面引爆｜股市話題 - sinotrade.com.tw",
-      "url": "https://www.sinotrade.com.tw/richclub/hotstock/%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%A2%9D%E4%BE%8B%E6%9C%9D%E9%87%8E%E7%89%88%E6%9C%AC%E9%BD%8A%E7%99%BC-%E9%A0%90%E7%AE%97%E4%B8%8A%E7%9C%8B2-400%E5%84%84%E5%85%83-%E5%8F%B0%E8%82%A1%E8%BB%8D%E5%B7%A5%E6%97%8F%E7%BE%A4%E9%9B%B7%E8%99%8E-%E4%B8%AD%E5%85%89%E9%9B%BB-%E6%BC%A2%E7%BF%94-%E4%BA%9E%E8%88%AA%E7%AD%89%E5%85%A8%E9%9D%A2%E5%BC%95%E7%88%86-%E8%82%A1%E5%B8%82%E8%A9%B1%E9%A1%8C-6a43272f199469d0fd1c410c",
-      "source": "sinotrade.com.tw",
-      "pubDate": "Tue, 30 Jun 2026 09:07:21 GMT",
-      "sector": "軍工",
-      "keyword": "無人機",
+      "gid": "CBMickFVX3lxTE5IT3hVN0JIX1I2ejdLOUJXNEItNHlpT3JrYzFUWko5S05Wc1YyS3BTRWd3a3g2bDhmRTN5WnA1SHB3QXBjdnJyNWRTalpWVE9Tb0ZSOTg4TDRza05lbUVXekZwWUx1YXI3MG02NEp3Vko5QdIBVkFVX3lxTE5TbEg3QjVRRXFQNTc0YlcwR3IwdmRiYWdYdmxjSFBlRzVmalFRRGFCR1pGRkxhbndya3MyS3BhNmhkY3o3MEFFbTUtQVhCOFVPeGN0ZnF3",
+      "title": "成交值前十兩檔 ABF 載板股漲停 外資卻只買欣興 - UDN",
+      "url": "https://udn.com/news/story/7251/9598173?from=udn-relatednews_ch2",
+      "source": "UDN",
+      "pubDate": "Tue, 30 Jun 2026 09:07:49 GMT",
+      "sector": "ABF載板",
+      "keyword": "載板",
       "stocks": [
         {
-          "symbol": "8033",
-          "name": "雷虎",
-          "reason": "無人機條例預算上看2,400億元，軍工族群引爆",
+          "symbol": "3037",
+          "name": "欣興",
+          "reason": "ABF載板股漲停，外資買進",
           "limitUp3d": true,
           "limitUpDates": [
-            "2026-06-29"
-          ]
-        },
-        {
-          "symbol": "5371",
-          "name": "中光電",
-          "reason": "無人機條例預算上看2,400億元，軍工族群引爆",
-          "limitUp3d": true,
-          "limitUpDates": [
-            "2026-06-29",
-            "2026-06-26",
             "2026-06-25"
           ]
-        },
-        {
-          "symbol": "2634",
-          "name": "漢翔",
-          "reason": "無人機條例預算上看2,400億元，軍工族群引爆"
-        },
-        {
-          "symbol": "2630",
-          "name": "亞航",
-          "reason": "無人機條例預算上看2,400億元，軍工族群引爆"
         }
       ]
     },
@@ -334,9 +999,104 @@
       "url": "https://www.nownews.com/amp/news/6851947",
       "source": "NOWnews今日新聞",
       "pubDate": "Tue, 30 Jun 2026 08:57:51 GMT",
-      "sector": "光電",
+      "sector": "面板",
       "keyword": "光通訊",
       "stocks": []
+    },
+    {
+      "gid": "CBMiVkFVX3lxTE8zQWJkbi0ySWwzZmMzMEZjUGM5aWd5U1JyVnN2WWlncHdmdDZkYkxvWURuX2duMzVkd05aYWpFc0FseV9ncGJJdVJqRTNESGszV1J4ZElB0gFWQVVfeXFMTzNBYmRuLTJJbDNmYzMwRmNQYzlpZ3lTUnJWc3ZZaWdwd2Z0NmRiTG9ZRG5fZ24zNWR3TlphakVzQWx5X2dwYkl1UmpFM0RIazNXUnhkSUE",
+      "title": "想跳槽嗎？ 這間上櫃IC設計股價、非主管員工均薪561.7萬都奪冠 - UDN",
+      "url": "https://udn.com/news/amp/story/7269/9598130",
+      "source": "UDN",
+      "pubDate": "Tue, 30 Jun 2026 08:49:53 GMT",
+      "sector": "半導體",
+      "keyword": "IC設計",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiWEFVX3lxTFBIdTQ4RWpSbjZ2cXZMdTJCcTJkdlFjMm4xS0dmSUlZamFIZzZTdVBSZm5fN0pKRXFXOEJ1SnRvVWFDNnItbFp0LXF6aGhmdld3TzZWV191VGo",
+      "title": "封鎖加碼！美擴大軍工黑名單效應 阿里巴巴、騰訊遊說網一夕瓦解 - 梅花新聞網",
+      "url": "https://www.i-meihua.com/Article/Detail/51732",
+      "source": "梅花新聞網",
+      "pubDate": "Tue, 30 Jun 2026 08:45:00 GMT",
+      "sector": "軍工/無人機",
+      "keyword": "軍工",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE9vdkg1V0VWTTl2RENyWjAtaWRzT3BQNk85TzhyZ3pyTmlGSmlTWS1uelhrWEg4bUZiV3h1QUJ5YndWR3QzMURsTlFVdjZMZUtaRXlIbi1aQnI",
+      "title": "【00929賣壓擋不住！矽晶圓族群 含中美晶 全面亮燈漲停】 - CMoney",
+      "url": "https://www.cmoney.tw/forum/article/180294337",
+      "source": "CMoney",
+      "pubDate": "Tue, 30 Jun 2026 08:41:44 GMT",
+      "sector": "矽晶圓",
+      "keyword": "矽晶圓",
+      "stocks": []
+    },
+    {
+      "gid": "CBMingRBVV95cUxNU1RwU2hUelpnaVR4NGdBNHREbzR2ejVTdFF3VmVEMGp5YXpOSlpPaHpmVGxfNEs2dFlYWUxyRTVrZUxpN000MW9feTVEMUtPVU1kalhCbW1ITlJnOXdmRXpzbllibGlWYXdUX1lnWXROc2NVa0xRbHhFTUhoOGY1azJvS3ZFNGNCTUNhTEJIT0l1aUxBa3VObzFsSV9ubUhQU1hCb2RlaEo3TGRzeUt4dU11Q0JnVGZrajJoWm5Ianp6WmdtU29haFNZTnV2czNOR0h3c1R2YmwzQ1dHNjBTc0Y2SHJaN2VsNkdrSF9GbjlwZWUtZDd5SU9nMkFSM3RYbDhydkpJLTVka1llZWFCMzk2ZE5UdG9DQWg0cEtvWUJpYzNtVllrUmh0Tl9udm9va05QSmJnQnJTbUQ2eUF3bnJDd3N3MGVXTjJWWExIQTBEcEw1OHZsZU9EVEVRS1FvTHhHTzMzUmVLSDgxQm03emxDZmN2SGFoOFFweXo3MXlSdUFxRXlWQ2dtWEMzaXZwUkNPb1J5WUlwbS02OUJfSjRFS2c1WHUyV2tMZVNXU29DN1hlWF8weU5UaURGUXR1NVM3QzlaZlRiZkZoNEkzQmhxOHhPd0VZTkhxQ3psdjAxMEkzY2dleVZtZk1va2xranF0alBnWmZrMzlmSDlUWHlEYlVCQ0JZOElrVUhhbHYwUmRUbnByM3o4cmtmQQ",
+      "title": "欣興（3037）＆景碩（3189）｜南電亮眼自結驗證ABF循環，載板雙雄補漲行情正在醞釀【豐學PRIME盤後精選】 - sinotrade.com.tw",
+      "url": "https://www.sinotrade.com.tw/richclub/hotstock/%E6%AC%A3%E8%88%88-3037--%E6%99%AF%E7%A2%A9-3189--%E5%8D%97%E9%9B%BB%E4%BA%AE%E7%9C%BC%E8%87%AA%E7%B5%90%E9%A9%97%E8%AD%89ABF%E5%BE%AA%E7%92%B0-%E8%BC%89%E6%9D%BF%E9%9B%99%E9%9B%84%E8%A3%9C%E6%BC%B2%E8%A1%8C%E6%83%85%E6%AD%A3%E5%9C%A8%E9%86%9E%E9%87%80-%E8%B1%90%E5%AD%B8PRIME%E7%9B%A4%E5%BE%8C%E7%B2%BE%E9%81%B8--6a436cd52d1636d0b2de5673",
+      "source": "sinotrade.com.tw",
+      "pubDate": "Tue, 30 Jun 2026 08:37:22 GMT",
+      "sector": "ABF載板",
+      "keyword": "載板",
+      "stocks": [
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "reason": "ABF載板循環驗證，補漲行情醞釀",
+          "limitUp3d": true,
+          "limitUpDates": [
+            "2026-06-25"
+          ]
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "reason": "ABF載板循環驗證，補漲行情醞釀",
+          "limitUp3d": true,
+          "limitUpDates": [
+            "2026-06-25"
+          ]
+        }
+      ]
+    },
+    {
+      "gid": "CBMiqARBVV95cUxPWV9lS0k3OUJCanRyaWo4aTBKRTQ5NW0xUldQSWdJa1VfU1MzUS1GVzkzUGI1b3VkWlFJcVoxRXNSR2oya3lLSUdOd0dPNTYzNnFTV01pbEN1ek9Zc0hvSmxlVUdMcklldFFmal9uR2E4UHduWUVzbmhEckpJdlBnb0RpeXBNUWlsU0FyODJrbkE5a25PZXhiVHVPMkczTzFIZGdIR2x2SGE0SXVtZGtKVE43V196QUs4elNZSVg4a3haTEhJUGhycWlsYWF1bnBqV1djWkRHLWlMS2tQRUI0V3Y4YmRnd0VNYi1yY1NOSE1xOVJaMVhZelZPS25jUHFLb0tyaDA5ZkxjLWYycTFuSTJQLVR6QkpGc2VkazhLcHA4ZmpPVTFzZ3piN1ZWak9NY3FNTkZUX0tPcWFlMzU1VUptbmZfZ1N5bEVZS09yNk8wQkhnZFdxV0xLRUExZTM0VDJrZjFIVVBzVjFMZm43bjR3YkxkamFLeW5LTnlrMG1uTDFIOWJxaTdldDh4VV9fNnNuSnl0Z2tLXzVwVzVPbm5jeFlQVkpRSzRyMFlPMVhMODlkbVFQaWUxR04zdEk1NVhTeWhtX2FfODE4eFU0RFRsMnNrV0ItS0R2SXoybE5OVnMwdU1WaGVPLXFKU2R6WWpLd2d0UG9NLV9CekltbUhVbXc0TEY0RnU2bnNQY2ROeWlrcUFNNk5LZEhwUmt3SFJjZHhHd0w",
+      "title": "矽電容vs MLCC 完整拆解：AI 供電革命下，台灣晶圓代工與封測的新戰場與受惠地圖｜產業熱話｜豐雲學堂2026 年 06 月 - sinotrade.com.tw",
+      "url": "https://www.sinotrade.com.tw/richclub/industry/%E7%9F%BD%E9%9B%BB%E5%AE%B9-vs-MLCC-%E5%AE%8C%E6%95%B4%E6%8B%86%E8%A7%A3-AI-%E4%BE%9B%E9%9B%BB%E9%9D%A9%E5%91%BD%E4%B8%8B-%E5%8F%B0%E7%81%A3%E6%99%B6%E5%9C%93%E4%BB%A3%E5%B7%A5%E8%88%87%E5%B0%81%E6%B8%AC%E7%9A%84%E6%96%B0%E6%88%B0%E5%A0%B4%E8%88%87%E5%8F%97%E6%83%A0%E5%9C%B0%E5%9C%96-%E7%94%A2%E6%A5%AD%E7%86%B1%E8%A9%B1-6a3cd2dc2d1636d0b2aff7b8",
+      "source": "sinotrade.com.tw",
+      "pubDate": "Tue, 30 Jun 2026 08:35:33 GMT",
+      "sector": "封測",
+      "keyword": "封測",
+      "stocks": []
+    },
+    {
+      "gid": "CBMi0gFBVV95cUxQYTBxX2xFMEZzTld2UlU5VGxxMnNmLVhCWVpFUXRMSncxUEl5RklmQjdKWjhKa29TRzQzaURQdDhIc0RkSmpXWEhtWlI1bHp6RTViQk81Yy10NXFvVWhOaGpobEFJN2Z1ckxMUl81T3ZiTHdnN2Q5a1FQUjRZODg1MXcxcjZjOG5wUGR6VU9kTWdWTnNsZlhsOHh5Qkp0VWNwTDVBSGk0WVFmTEtueTlCZ1EwNVl3a2dYSFFVeThpTmpGR0o0NjlHUVJCZ0NHVmN3Q0E",
+      "title": "成熟製程翻身 研調估：漲價潮上看2027年 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260630900499-420101?utm_source=relatedreading&utm_medium=internal&utm_campaign=auto&utm_content=3",
+      "source": "旺得富理財網",
+      "pubDate": "Tue, 30 Jun 2026 08:23:58 GMT",
+      "sector": "矽晶圓",
+      "keyword": "漲價",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiU0FVX3lxTE9ZUFNxZXdPTTREVGdGVGtGQjBhaHA4d2tNX08xN2VoX1ItYktSSGcwazM4UEdtcmg5TVFDQXZYZkZkSEtBaEJMS0RpcnZwbHVNWnBR",
+      "title": "台光電(2383) 個股概覽 | 個股 - 股市 - CMoney",
+      "url": "https://www.cmoney.tw/finance/2383/f00025",
+      "source": "CMoney",
+      "pubDate": "Tue, 30 Jun 2026 08:17:53 GMT",
+      "sector": "面板",
+      "keyword": "光電",
+      "stocks": [
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "reason": "個股概覽"
+        }
+      ]
     },
     {
       "gid": "CBMickFVX3lxTE84ck9JVzJFRjNacnYxZHNkY3lzTllwdTZCSVFoX2w3MDE0YzJISk9FU0poSFJ3N0VNcFd4YnppWkN1aXR2eEdVb0xFSnhIZGY1aUNaaHVTYjJPcllZTEF4dGpSa2hTYlVpcWNZLW5iVUlQd9IBVkFVX3lxTE9CdWItcDN6OXF4dGxJM1B5OThsV3RuWnJ4aC1jdDhraGpNVUZ3Ul9ZV1NBTkNGbWFVanFtZFFQNnNrckxQUmI4WGFBelhIVWFxU0VPZVV3",
@@ -346,6 +1106,36 @@
       "pubDate": "Tue, 30 Jun 2026 08:04:18 GMT",
       "sector": "被動元件",
       "keyword": "被動元件",
+      "stocks": []
+    },
+    {
+      "gid": "CBMilwFBVV95cUxPdlFnZVpsRE5PZHhMajlwcVlfUS0tUG0zMWtKQXVNc2gyOGs2bG9od3RUcGU3ckpQMGtfVXpjWldmWXEyMVAyQ1JzRW44MFJPdHlLbkVpVDFlN1ZITjRsX0VQQTBuLUxGNjBaNGdXWWMzYkFBbS1pMzkwWXZUQzV0M3dyRE1Gano3Q0JSWjg0X2JiTmx5di1F",
+      "title": "科創板上半年十大牛股出爐 半導體材料與存儲概念齊飛 - 富途牛牛",
+      "url": "https://news.futunn.com/hk/post/75304711/top-10-best-performing-stocks-on-the-star-market-in",
+      "source": "富途牛牛",
+      "pubDate": "Tue, 30 Jun 2026 08:01:18 GMT",
+      "sector": "半導體",
+      "keyword": "半導體材料",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiqwFBVV95cUxORlhOWUtLanhpOXF2SUt0Nkp3aTNOYWdwTkJjOGhqei1GS3ZzdEpuQzdHSC16cGVHSkdiVkRQd0QwZkliTmdoWXk4SUVHNE10M3I3TTM4TWZxbkJPTmZXWjRqeXNvanlEY1VxNzRQZ3AxbDlYRjZxV0lfRTVJTGRkZGE3LWpZaFczNDVNbkotVGp2LTBvOE1GSENzcGE5UkRBTTRXUWgwa0pMWjA",
+      "title": "工研院串聯瑞峰、法國新創，深耕光電共封裝技術 - 台視全球資訊網",
+      "url": "https://www.ttv.com.tw/finance/view/default.asp?i=0620263013396FB01990256C4CBFA1E81402BF9F4608990D&from=587",
+      "source": "台視全球資訊網",
+      "pubDate": "Tue, 30 Jun 2026 07:39:22 GMT",
+      "sector": "面板",
+      "keyword": "光電",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiVkFVX3lxTE9pSzZXWGh2V0M5TkphZFZ4bThxSWFjMXB5RUJLaG81ZWZMUjFzU2czV0NtTnRWRkVQWm43Zk5RWnlnZnB3djJxNl85QU51andQMkNSd1JB",
+      "title": "亞大外文系把半導體變成新語言 - 中央社 CNA",
+      "url": "https://www.cna.com.tw/postwrite/chi/437735",
+      "source": "中央社 CNA",
+      "pubDate": "Tue, 30 Jun 2026 07:35:01 GMT",
+      "sector": "半導體",
+      "keyword": "半導體",
       "stocks": []
     },
     {
@@ -360,24 +1150,44 @@
         {
           "symbol": "2327",
           "name": "國巨",
-          "reason": "領軍被動元件族群大噴發"
+          "reason": "被動元件族群領漲"
         },
         {
           "symbol": "3026",
           "name": "禾伸堂",
-          "reason": "被動元件族群大噴發"
+          "reason": "被動元件族群上漲"
         },
         {
           "symbol": "2492",
           "name": "華新科",
-          "reason": "被動元件族群大噴發"
+          "reason": "被動元件族群上漲"
         },
         {
-          "symbol": "6130",
+          "symbol": "6548",
           "name": "蜜望實",
-          "reason": "被動元件族群大噴發"
+          "reason": "被動元件族群上漲"
         }
       ]
+    },
+    {
+      "gid": "CBMic0FVX3lxTE12WmRFWTMtcEIybHAwU19iUUdoajZOTUYwNWR5R0p3STEtejFReW5WV0JjNE5qY3F5WVRjcGlTZVRhR01wSjkzSHBwRjJQWmo3WFRwcVYtRDdMQjZKUmU5NmNVLTFjVVdlNGduVDJXSDJVM2M",
+      "title": "記憶體荒衝擊擴大！蘋果、微軟相繼漲價，中小企業陷生存危機 - TechNews 科技新報",
+      "url": "https://technews.tw/2026/06/29/apple-microsoft-and-memory-crisis/",
+      "source": "TechNews 科技新報",
+      "pubDate": "Tue, 30 Jun 2026 07:32:20 GMT",
+      "sector": "矽晶圓",
+      "keyword": "漲價",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE5kMHpBeTV3a21mRERxX2tHaXdfVHQ3OHRxSHpCTGM0YmtsU2V1WU1rcG5NdkctNFZNdS1BdXhoSmtwQTJzXzJGV190bW83VFlCNTlFdFZodXA",
+      "title": "LG 發佈可攜式觸控顯示器 StanbyME 2 Max 以高端定位挑戰 Samsung 同類產品 - TechRitual",
+      "url": "https://www.techritual.com/2026/06/30/553772/",
+      "source": "TechRitual",
+      "pubDate": "Tue, 30 Jun 2026 07:09:34 GMT",
+      "sector": "面板",
+      "keyword": "顯示器",
+      "stocks": []
     },
     {
       "gid": "CBMi6gJBVV95cUxQcVg5SjBMdlItQXNORzY2a201bXJDRWlwZndmbTZUVHhDeW1ZZ3ExNHBGNjNneVZ4ZDI0U1hKdFVPUWJQeUhNQktrMTk2YTg3cUY4SjFtdGpXNlprSVJnUjkwQjlpU05HWldHOEx6UmpQbmYwSnc3MUN0bDVuU0JXb2FVQ0NkM3RlREhidkZTSUJDdl9FbV9fcElNRG9obmVuN2JVN1dtTXFOcUowWXRKZ0JLaWRDOGxhMVQ3SmpzWkdXX2FPdmMyc1E5c0d3WXZRQk16bTBXLXpjU2ZKbUJWM2dvZXpib1RzM1FOVjkwOVoxYTZRVmRMNTN2NkVTemRFYWtMUzd5RzBFNVdac2psekl4eVE4d3dCYmJXLUQtMkVRTmNtVF9jb0dUQVJfOUJqUHVuUy1SX0I4RUhMVUIzZE5hRTlFYU9iSnVEcVZTMHdIRlJ0b0QyTjcyNFJ4alpoN2g0b2Y0TmJkQQ",
@@ -385,7 +1195,7 @@
       "url": "https://tw.news.yahoo.com/%E5%9C%8B%E9%98%B2%E8%87%AA%E4%B8%BB%E5%85%BC%E9%A1%A7%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95-%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%A2%9D%E4%BE%8B%E6%9C%9D%E9%87%8E%E7%89%88%E6%9C%AC%E8%B6%85%E7%B4%9A%E6%AF%94-%E6%AF%94-070806386.html",
       "source": "Yahoo新聞",
       "pubDate": "Tue, 30 Jun 2026 07:08:06 GMT",
-      "sector": "軍工",
+      "sector": "軍工/無人機",
       "keyword": "國防自主",
       "stocks": []
     },
@@ -400,12 +1210,22 @@
       "stocks": []
     },
     {
+      "gid": "CBMiYkFVX3lxTE5FTGJlUTVVWmZsbFYyTm8zQ3VCOUlVWWhFY1BieFFGQ0Z2OGRvNTB6SWlBNEVVbW1Od2RIc3p0WklkZUdfX0lUZ0lvNUFFSGJtRFVGblZQdG5OenI2YlpiOUNn0gFnQVVfeXFMT0xFVmJNMzFYS2EtcW5KVFlETnhNbTRRN3Q4N2Jhemg1UHoxY1VLbzFDanZtdGEwcHVyZmFSa1o0dURObExFYjVxaFcwXzB4eVBYZ1d0cWR2V2pxUm1EUmhuRFI4dXF2WQ",
+      "title": "有志一「童」》晶片連結世界：在新加坡分享台灣半導體的關鍵角色與未來合作 - 自由評論網",
+      "url": "https://talk.ltn.com.tw/article/breakingnews/5471098",
+      "source": "自由評論網",
+      "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "sector": "半導體",
+      "keyword": "半導體",
+      "stocks": []
+    },
+    {
       "gid": "CBMigAFBVV95cUxPZzFTbWpJMWFBSmtWaVQ5N0RpLVVJMzd4dnpSeUZHVDlTZGlWUjUwOXM4S3dJYjh6alBRU3pDcS0tbDlVeUtWa3hQTWN4OG14OXE1V1ZoRVZScWNFdEs1QU5leXFpUnFIWWtWRDA1Uy0weUtxaFZQaFlqZFNqTGZ2cQ",
       "title": "南電(8046)領漲ABF載板，AI需求撐住後，關鍵看什麼能續航？-葉冠妤 - CMoney投資網誌",
       "url": "https://cmnews.com.tw/article/yeguanyu-e22d1794-7450-11f1-9e5e-e202aef67185",
       "source": "CMoney投資網誌",
       "pubDate": "Tue, 30 Jun 2026 06:56:56 GMT",
-      "sector": "載板",
+      "sector": "ABF載板",
       "keyword": "ABF載板",
       "stocks": [
         {
@@ -426,13 +1246,43 @@
       "stocks": []
     },
     {
+      "gid": "CBMiVkFVX3lxTE9XUWF5R0FjWldYQi1rSE1JbHBaRU81ZmFLQjJWdnNRb3k2d2dKV09lMEpXZFlSVkdNNDgtYlBQbzBUQ2QyYUx1bmN3MDdUSVEtdkdoOGRB0gFWQVVfeXFMT1dRYXlHQWNaV1hCLWtITUlscFpFTzVmYUtCMlZ2c1FveTZ3Z0pXT2UwSldkWVJWR000OC1iUFBvMFRDZDJhTHVuY3cwN1RJUS12R2g4ZEE",
+      "title": "SEMICON Taiwan 2026揭示15大產業議題 延續台灣半導體優勢 - UDN",
+      "url": "https://udn.com/news/amp/story/7240/9597826",
+      "source": "UDN",
+      "pubDate": "Tue, 30 Jun 2026 06:50:53 GMT",
+      "sector": "半導體",
+      "keyword": "半導體",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiUEFVX3lxTE96OTNvTXlKRjhRQlIxclJhdWJ1c0RFa2l3Ty1wLWdQMmlBbzBVVjJvYWp1cm9oeVF2S3hnWUR6TWIySnE2cWtZaWN3WTNiWXN3",
+      "title": "北約軍費大增仍缺武器盟國籲儘速提升軍工產能| 國際焦點| 全球 - UDN",
+      "url": "https://udn.com/news/story/6809/9597760",
+      "source": "UDN",
+      "pubDate": "Tue, 30 Jun 2026 06:38:48 GMT",
+      "sector": "軍工/無人機",
+      "keyword": "軍工",
+      "stocks": []
+    },
+    {
       "gid": "CBMi6AJBVV95cUxQbTFMeEdQYkliOUplZEFxWkZEQk95aDltVVlPRGtyVnR2N1B4TlpkdFdFV0haUzU4Y0ZhVkZiZEZTSjhIeDA0NWVSZXd1OGt4THFDTXlFNDd6MUtYb2NXd1d5QVdtUnk1VGN3ZnRBcTdjalI2ZTNNMjdUeEhNZmpJa3VEME9jRjBOeGlpelFQMlR6SG5BNm9nWllDdWUtc3o5TFN2LVEwWC03bU9ZNjV6TmtaZ2hqaG9mYXdKU3F2UVJtWlBVOHUyOW94dGxud2tFZ2ZfZXJhaUJlV1JIS0ZuYzhTUW9USzhkNmEwOW9qczI3ZUhUN015YzI3RGd5dDNQVENSb3FTRGRVbUN5SWE3emx5eTBUT1BvajZ2Z0E0OWRISEhiTU9Uc3BHY0FEa3VXN2ZmczhkN2NTUS1kQkFsS1ZjZElLVVRsUWR2Z3NvS3J3QUQ2WFNhMnowZGtVWjl1WUFPX1Zma3M",
       "title": "國民黨無人機條例出爐送案！6年2400億元 防弊罰鍰最高500萬 - Yahoo新聞",
       "url": "https://tw.news.yahoo.com/%E5%9C%8B%E6%B0%91%E9%BB%A8%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%A2%9D%E4%BE%8B%E5%87%BA%E7%88%90%E9%80%81%E6%A1%88-6%E5%B9%B42400%E5%84%84%E5%85%83-%E9%98%B2%E5%BC%8A%E7%BD%B0%E7%B7%A9%E6%9C%80%E9%AB%98500%E8%90%AC-095627666.html",
       "source": "Yahoo新聞",
       "pubDate": "Tue, 30 Jun 2026 06:32:37 GMT",
-      "sector": "軍工",
+      "sector": "軍工/無人機",
       "keyword": "無人機",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiowFBVV95cUxQTWxUVUFXOElneG45N2F2eWtUdUd5UmZnWjEtSlp0Uk1EUGJOTG5md3NkT2FoY21fOWhEU2FzVXFYMlZSQ0g2RUFmODBGMzlpZ2tsMlVRNUtNTWZUak1WekFSMnFtc2x4Z2lnUkdGYmxQSDQ0RzB1R0ZpVWtNc3pOaUhLa3U5QlRzZUdmcFhqTVcyQTJLRTBUcEJiX2RhUVhhRks0",
+      "title": "長光辰芯(03277.HK)炒高逾兩成逼近歷史高 下半年半導體材料景氣惹憧憬 - 富途牛牛",
+      "url": "https://news.futunn.com/hk/post/75297165/chang-guang-chenxin-03277-hk-surged-more-than-20-approaching",
+      "source": "富途牛牛",
+      "pubDate": "Tue, 30 Jun 2026 06:32:11 GMT",
+      "sector": "半導體",
+      "keyword": "半導體材料",
       "stocks": []
     },
     {
@@ -441,7 +1291,7 @@
       "url": "https://cmnews.com.tw/article/cmoney-6a4abefe-744c-11f1-8edf-7eba82a13d22",
       "source": "CMoney投資網誌",
       "pubDate": "Tue, 30 Jun 2026 06:24:57 GMT",
-      "sector": "載板",
+      "sector": "被動元件",
       "keyword": "ABF載板",
       "stocks": []
     },
@@ -461,9 +1311,72 @@
       "url": "https://news.cnyes.com/news/id/6517020",
       "source": "news.cnyes.com",
       "pubDate": "Tue, 30 Jun 2026 06:00:09 GMT",
-      "sector": "光電",
+      "sector": "面板",
       "keyword": "光通訊",
       "stocks": []
+    },
+    {
+      "gid": "CBMidEFVX3lxTE9QUFloT2VoeE5hWVh4ekFOS1ZVNTZkZ1lFZGp4YzE0RGdNWXN2azdfZ0loS0tFNEt2ODV1MjZiMW00ckU2TVRqZFdQb3FDdzZuSDJQazdUekpsbjh3d2FDemJTaERjRnNfMDRPNE9naTNEZ1M10gFWQVVfeXFMTmF4VHdIRzI2UGJpUVI1T1ZCZ2RONEE1eXJIQ2huUEJ6eHZGSHpwbU5YV3dfdzlxUlhVeG5lM1FOcnEydnVpbWhEQk8yOXRVYXdaLUFrR3c",
+      "title": "封測族群火力全開 南茂亮燈漲停 日月光、力成、京元電漲逾8% - UDN",
+      "url": "https://udn.com/news/story/7253/9597668?from=udn-catebreaknews_ch2",
+      "source": "UDN",
+      "pubDate": "Tue, 30 Jun 2026 05:58:13 GMT",
+      "sector": "封測",
+      "keyword": "封測",
+      "stocks": [
+        {
+          "symbol": "8150",
+          "name": "南茂",
+          "reason": "封測族群火力全開，亮燈漲停"
+        },
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "reason": "封測族群火力全開，漲逾8%"
+        },
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "reason": "封測族群火力全開，漲逾8%"
+        },
+        {
+          "symbol": "2444",
+          "name": "京元電",
+          "reason": "封測族群火力全開，漲逾8%"
+        }
+      ]
+    },
+    {
+      "gid": "CBMingNBVV95cUxNX19YbXVySG1iREUyWU54dG5ZY1lwOHBuckJKRTd5TTRKR2hsa21yczZONkJ5d1UwQ3lDRDVDR0daVXdfeDlxRnF6T1cyNXJvMXpHYWw0bE5wV1dVTXZaQ09BdC1KMlk2NVR2eHhXekY0VDB1ZmQtUHNEekVValk1R1laSjdKM29DSzhpS21fVEtIZVpjWGhqYk1pbjQ5cV9YLU1mdnNGN2xQRjRiYzM2MVpzSXRaNDBTeE1YN2pMMlZFM0ltOVZYTXRCRVVHcXR4d2dzekMzSU1VUU9qVzNhS25mbGFYeUhWcXpfaEdMbTJwSHBCSUdMV1ZSU185SUdGc0xNb2dGa0ZXM0tRWmVFT3AwbzZBdFhEMVM2a1M5aW1sMFltOTFwVDBjS1YwLW5RaGNkOHFFbkthdElONjZMbnNBS2pmOU5uc0FidnYwd3NzdWpJVmZ0alZtRXRQbGpHTnVvVno3YWZoczVnbEVuM2FVZVp1d293QTRIZkFLclVpSjZnNzZQOVhKODc4cDdTdk9lZUxMdTh0UEZ4V0E",
+      "title": "AI ASIC 業務爆發，聯發科（2454）獲外資上調目標價至1 萬元｜股市話題｜豐雲學堂2026 年 06 月 - sinotrade.com.tw",
+      "url": "https://www.sinotrade.com.tw/richclub/hotstock/AI-ASIC-%E6%A5%AD%E5%8B%99%E7%88%86%E7%99%BC-%E8%81%AF%E7%99%BC%E7%A7%91-2454-%E7%8D%B2%E5%A4%96%E8%B3%87%E4%B8%8A%E8%AA%BF%E7%9B%AE%E6%A8%99%E5%83%B9%E8%87%B3-1-%E8%90%AC%E5%85%83-%E8%82%A1%E5%B8%82%E8%A9%B1%E9%A1%8C-6a4333ddb2c5f1d094a76df5",
+      "source": "sinotrade.com.tw",
+      "pubDate": "Tue, 30 Jun 2026 05:47:17 GMT",
+      "sector": "半導體",
+      "keyword": "AI ASIC",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "reason": "AI ASIC業務爆發，外資上調目標價"
+        }
+      ]
+    },
+    {
+      "gid": "CBMikgFBVV95cUxNOXg2bkM5anlOazFHWHBiWTBJNkY4UnBjcV9hV0ZpNDZ0aDlOSkpuajd0OVdldDZFbnNKREtRTlNSTFZLUWhXbmtJZy1hcDlyUnZENU5INUZrU05NQnRrT2YyaHFhenhGZ2FRNWUtYWJsQWw4bV80SlpIenFNMjZ6YnIzRkJ2bTJ4emYwSnYxblZ0QQ",
+      "title": "富喬7月起玻纖布漲價 E-glass漲30%、FLD2漲15% - 台視全球資訊網",
+      "url": "https://www.ttv.com.tw/finance/view/06202630115421E53A04EC8E40ABAC5B09744B36E9345EBD/587",
+      "source": "台視全球資訊網",
+      "pubDate": "Tue, 30 Jun 2026 05:46:43 GMT",
+      "sector": "矽晶圓",
+      "keyword": "漲價",
+      "stocks": [
+        {
+          "symbol": "1808",
+          "name": "富喬",
+          "reason": "7月起玻纖布漲價"
+        }
+      ]
     },
     {
       "gid": "CBMiT0FVX3lxTE1BOGFPRHpHeWp6NDRVVHJzZF9LMzl4UE5DVEFfOTkwMmJXLXpSd3VRUTNOLWpvbW5FQ3FoRE40X1JRdGQwT19XR3IxdEJzclk",
@@ -492,8 +1405,92 @@
       "url": "https://udn.com/news/amp/story/7240/9597619",
       "source": "UDN",
       "pubDate": "Tue, 30 Jun 2026 05:35:25 GMT",
-      "sector": "光電",
+      "sector": "面板",
       "keyword": "光通訊",
+      "stocks": []
+    },
+    {
+      "gid": "CBMirgJBVV95cUxOWFA0cFBZOUVwRy1PNlZaeEM3MWhDOXhVWHhQZXhKcXQ0MnVnWGFlYUNkdWlVVm12V1VnWlRTbVVBWHJ2N3VMU3Btbko4NEV3Z0VWMFhubjFWdDIyVEppSHNyY2pBcUhxdldNWHN3TjhSYS1UU2lueVVpMm9aZlVVajk2UGdlNDM1OGR3aThSMDd0d0tocEs3dTRxclJndzdjakF1NG5jSFJhaWE5dUxORHdLSno5MXFrWXBaSHl4NVBzaUswUVV3ZE9TMlBJclRQa1UyMzFnbUloN2hoY25yek9Sekd4clZTOGludGdZclYxWlRlbjI2TlZGalhOeGdaUk9GbnZWNnV5c3VuR2hIMmh3cXFiU0xRUjl3WFd6NW9TZlUyUGhJOTF4VmpMQQ",
+      "title": "送暖孩童! 元大志工領體驗鶯歌陶瓷文化 - MSN",
+      "url": "https://www.msn.com/zh-tw/news/national/%E9%80%81%E6%9A%96%E5%AD%A9%E7%AB%A5%E5%85%83%E5%A4%A7%E5%BF%97%E5%B7%A5%E9%A0%98%E9%AB%94%E9%A9%97%E9%B6%AF%E6%AD%8C%E9%99%B6%E7%93%B7%E6%96%87%E5%8C%96/ar-AA26G9x4",
+      "source": "MSN",
+      "pubDate": "Tue, 30 Jun 2026 05:33:43 GMT",
+      "sector": "玻璃陶瓷",
+      "keyword": "陶瓷",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiWEFVX3lxTFB5emZNY0M4dF9BX2ZwN3lUSEw4OHE1VVBKZkM3bXVBak1xamNtUy05MVhCUloxRV95Zm94ZGFWTUFWMHE2aV9GUlVTLUVibmI3UDY2WGZUaEw",
+      "title": "熱門族群》輝達GTC新AI架構 散熱雙雄帶頭衝 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/ytvagrc0sscc",
+      "source": "自由時報",
+      "pubDate": "Tue, 30 Jun 2026 05:25:04 GMT",
+      "sector": "📌 熱門族群焦點",
+      "keyword": "熱門族群",
+      "isRoundup": true,
+      "stocks": [
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "reason": "輝達GTC新AI架構帶動散熱需求"
+        },
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "reason": "輝達GTC新AI架構帶動散熱需求"
+        }
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTFA2Mld2Sk9DZ3lyV3dpMGV1Y1ZEdUJhLU1DaG9pSXFnQ3dmWmhWRnBKbXlsNV9rZlpvQjltb3Y4S0F2ME5xajBub3VnUHBjNTkwUzJOOEI5Szk",
+      "title": "LG 發佈全新 32 吋便攜觸控顯示器 StanbyME 2 Max 具備 4K 畫質與內置電池 - TechRitual",
+      "url": "https://www.techritual.com/2026/06/30/553734/",
+      "source": "TechRitual",
+      "pubDate": "Tue, 30 Jun 2026 05:24:23 GMT",
+      "sector": "面板",
+      "keyword": "顯示器",
+      "stocks": []
+    },
+    {
+      "gid": "CBMijgFBVV95cUxNek5tSWlLSjdGa29qZFJlbVhFV21HdkJFUkdnQ29qbFN0bmJON3NnUFpmTkhGbEotVTV1R2o4UGRIUE1GMlRBMk4zUzdxd3YzbGU4c0xlX1psNG9yUnh6RE1LbEt1RzlraFNwdW9TWTFDNjRTMTIxUWlTc1MtbGtobnBwOVFFQ041MzJrVUxn",
+      "title": "【13:22 即時新聞】九暘(8040)亮燈漲停至112元，搭IC設計族群反攻＋短線技術面由弱翻多吸引資金迴流 - CMoney投資網誌",
+      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-e9aba9ee-7443-11f1-b161-270d0cec99d6",
+      "source": "CMoney投資網誌",
+      "pubDate": "Tue, 30 Jun 2026 05:24:05 GMT",
+      "sector": "半導體",
+      "keyword": "IC設計",
+      "stocks": [
+        {
+          "symbol": "8040",
+          "name": "九暘",
+          "reason": "搭IC設計族群反攻，技術面由弱翻多",
+          "limitUp3d": true,
+          "limitUpDates": [
+            "2026-06-29",
+            "2026-06-26",
+            "2026-06-25"
+          ]
+        }
+      ]
+    },
+    {
+      "gid": "CBMikgFBVV95cUxNNWZZVXBnZXR4dVhHVVFDTE5YNC05UHA4MUY4d0pXUTBwWDI1MmNJd0lOdjh4cTB4aXhCNWE0ZFZJbDQ2MUVkX1NYdEd1T2FyamlqbnVwNm9WUU9rb19Kbnl4NUhqeTdJRzdLM1lGWERXajhrM0J3VGVrMzloeFJsUE9VdmdLS25pRk15d3hydkl1QQ",
+      "title": "《DJ在線》從圓到方 AI先進封裝改變矽晶圓樣貌? - MoneyDJ",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=2864bbe2-3b6d-423d-891d-4aded70f51ba",
+      "source": "MoneyDJ",
+      "pubDate": "Tue, 30 Jun 2026 05:21:00 GMT",
+      "sector": "矽晶圓",
+      "keyword": "矽晶圓",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiX0FVX3lxTE05UUtiQ3AwMWpvQzdSNERRaGR1SHFSSU4yRnZGN1dvcU1ocDVYVkxpZWJXYnlUby0ybHJmUi1haEtjWWh3TWlKOENFU0d2N2NVRGlFX3hCU0lxSV9OeG9V0gFkQVVfeXFMUERIZ0F4emRNZUR5RFZ5b0kydVB6U3FtNHRYQk5PMXFzT1cyU21ZWjk0ZGFha0NkV0hwMG5FNGJpcEhYd3ZxeEd6emNnbFAzYWNNVkFXdDlIb20xZTJfVGljNzhHeg",
+      "title": "邱銘乾：面板級封裝商機對台灣半導體供應鏈千載難逢 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5488742",
+      "source": "自由財經",
+      "pubDate": "Tue, 30 Jun 2026 05:04:19 GMT",
+      "sector": "半導體",
+      "keyword": "面板",
       "stocks": []
     },
     {
@@ -502,9 +1499,105 @@
       "url": "https://cmnews.com.tw/article/forumnews-a2c162e7-7440-11f1-8da8-c63a30756953",
       "source": "CMoney投資網誌",
       "pubDate": "Tue, 30 Jun 2026 05:00:38 GMT",
-      "sector": "載板",
+      "sector": "ABF載板",
       "keyword": "PCB",
       "stocks": []
+    },
+    {
+      "gid": "CBMi7gJBVV95cUxOc1luSC1QNEl5TldrdEJHOS11MmUtVnF6d1BDN0lJVl9nT2RQNDItaWZENlJSSzh0cDRnXzVxT1UtU1VPLUgtU2UwNTQ5Y0FHY2ZsSnhWZmlYcmszXzRCTnllU0ZzTGZRRHBJY0FJTV9uZnB6RTR4cVRZUDc4RE5EbGtrMWNBWkZnWHJ4c1dTNlp1N2FDeS10eU43OVpfbnJ3em1nUk9ERV9TbVdoNkJGWFotNURtX0RVVE5XVjh3LUtQZkE4ZTBVd29aaW5nTC0waFZ6b3N5WVV4UVQzbm1sNG5hRHdxcVdKeDNXalJRbERjTWpGM3ZScUgzZHhweUttT2RXT2RCbkxuWFNkaVFWU3pUajhmRENNM2g5VkVVOHpCQlpPeEFlS3h3aDlFemRtYXZacGxpVzh0c2x1Yl85c1lsYlZrZFp6UUQ1SXotLU9jOF84UmJyaEN3UUlwaVpqUmNtR1JFQkk0ZFdfUnc",
+      "title": "富喬發出漲價函 7月起玻纖布調漲最高達30％，股價亮燈漲停 - Yahoo新聞",
+      "url": "https://tw.news.yahoo.com/%E5%AF%8C%E5%96%AC%E7%99%BC%E5%87%BA%E6%BC%B2%E5%83%B9%E5%87%BD-7%E6%9C%88%E8%B5%B7%E7%8E%BB%E7%BA%96%E5%B8%83%E8%AA%BF%E6%BC%B2%E6%9C%80%E9%AB%98%E9%81%9430-%E8%82%A1%E5%83%B9%E4%BA%AE%E7%87%88%E6%BC%B2%E5%81%9C-040700462.html",
+      "source": "Yahoo新聞",
+      "pubDate": "Tue, 30 Jun 2026 04:54:08 GMT",
+      "sector": "矽晶圓",
+      "keyword": "漲價",
+      "stocks": [
+        {
+          "symbol": "1808",
+          "name": "富喬",
+          "reason": "發出漲價函，玻纖布調漲"
+        }
+      ]
+    },
+    {
+      "gid": "CBMiggFBVV95cUxQcXI4S0hXX1VWVGwwQndRb3BydG5yRjBNMXZMWmJZYmdZOFV2aW9KMnMteG1NUXM3eE1nTFEzTzFFTUxodkZkZVBFci1MOTYtVGwxclJDc3RMeDRkSHEtbURvSXVuYVNOLXZ6bVVRU2hLWWNEYk13MHVQVDk5dkFuZTln0gFfQVVfeXFMTXFDNTZsVmRqMkk0NTZRd0xudkFqUk05MThabHQtVkloWlEtMW9FZHJxaE41NmpneG9uazFRMHJxRE9IdlowSXlMOVptNTRQQ0hfZVVpQVl6R1JnLWZOa0k",
+      "title": "兩檔面板股成交量分占前兩名 零股成交第一0050、國巨衝上第三 - 經濟日報",
+      "url": "https://money.udn.com/money/story/5607/9597516?from=edn_newestlist_cate_side",
+      "source": "經濟日報",
+      "pubDate": "Tue, 30 Jun 2026 04:52:38 GMT",
+      "sector": "面板",
+      "keyword": "面板",
+      "stocks": [
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "reason": "零股成交量衝上第三"
+        }
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxONTBrZDF3ZWxEb0ZMQlF4Uko2TTJXcktNdmxCeWJCZTVRUm44Zk93TzZ3MkNMaTgxT09ZU0JkOHpTa3pIZzJNV0xHejBmc3RUYXlSRnpiUjRHRFI5Q3JIQ3NVWUF5eWtoTEVrNWxUaWp4d3dUM1hpTmw4RDRpOEpGOVRpcVpERXhx",
+      "title": "《半導體》封測雙雄噴發！外資喊價日月光730元創高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6223399001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 30 Jun 2026 04:52:00 GMT",
+      "sector": "半導體",
+      "keyword": "封測",
+      "stocks": [
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "reason": "封測雙雄噴發，外資喊價創高"
+        }
+      ]
+    },
+    {
+      "gid": "CBMiqANBVV95cUxOR1JyOERDa2c2WUNwR2hvU001QTFvTnJCOWlPQzJhUlNSV3ZaTW9ldk5URE9UU2kyRHR0NjdVR3YwRFBNZDZjbjB5aHBoZ0pxa3p1eTFXWmJjOVYxNVVSQUhfT25USlRXWnVaSnEtenp2bzFqNVhNZ0dET1FCTnFuTmdUMDNKdUNCbnJDbVREVG03R0dvMjRZYzNyRWtubnpqNEFEaDItRXl4YkJlVDRadXFTeVlCb05sV0xoOENRSjhnQ0Ztclp4ajlENDhTZ1dOLUFOZXJvZ1hzZnJXd2E1VWtHNVlpbjJXNTZJSWVIb2NnNHc2WnVTNnFDTGdLSVMwX1hnVXFDZGNCUG1hTHBFSXk2bENsUlhRUXpZUVVsemd4VDdnZTlNY2owdXU3SG04MTFvSm1OY0JGUGlfOV9xbVlqZDNxY21Jdzh1WlVuQzY3RmstaXlZV01SOFdaUjBHV2pTdlZTTnJIWjBta3RKNXRZYmpVOGhERzdZRGd4TWtuQzNXbTBSUWYzc09fTkt1eENrUkJMTVZieDA4SmI2Q3dSX1psTElR",
+      "title": "上市公司員工薪資中位數揭曉 台積電僅排第四！這家IC設計大廠奪魁 - Yahoo新聞",
+      "url": "https://tw.news.yahoo.com/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%93%A1%E5%B7%A5%E8%96%AA%E8%B3%87%E4%B8%AD%E4%BD%8D%E6%95%B8%E6%8F%AD%E6%9B%89-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%83%85%E6%8E%92%E7%AC%AC%E5%9B%9B-%E9%80%99%E5%AE%B6ic%E8%A8%AD%E8%A8%88%E5%A4%A7%E5%BB%A0%E5%A5%AA%E9%AD%81-041858250.html",
+      "source": "Yahoo新聞",
+      "pubDate": "Tue, 30 Jun 2026 04:47:28 GMT",
+      "sector": "半導體",
+      "keyword": "IC設計",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "reason": "上市公司員工薪資中位數排名第四"
+        }
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTE85T0luaVcyZDNZWU5MeldjRkUyVU9NYW9DSDRMR0RyZFhNN2VKR1BTY1NVMlVWeS1YRmxqTUhEeUttRlpHdzNZOG8wX2lvUmJ5Yk5IcFZPLTdUSFJ5c0xIc2trdG1LYzhhVWc",
+      "title": "台股盤中暴拉1,500點！老先覺鐵口直斷直奔5萬3「ABF三雄、矽晶圓集體亮燈」無人機概念股連2日高飛 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260630900342-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Tue, 30 Jun 2026 04:45:11 GMT",
+      "sector": "矽晶圓",
+      "keyword": "矽晶圓",
+      "stocks": []
+    },
+    {
+      "gid": "CBMijgFBVV95cUxNQ3pHSjVrZHVBTmFGdnNEaDFoR2JiZFZ4VkdBVjk4RXNtaDdSY2ZFMFBVWE5QUFE2QTFYTnNlM2V5WmtRa1Z0SnRKbjJOQ3hzbWljVFdFZUNOSVptdFBhd0xzNTBja2lmLW1ReVBVTXkzU2ZwcHZfYkVaS3dva0preVpiODY2S1ZLVXBCZlhn",
+      "title": "【12:24 即時新聞】環球晶(6488)亮燈漲停站穩千金，矽晶圓復甦＋主力低檔吸納推動強彈 - CMoney投資網誌",
+      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-bb5a59e8-743d-11f1-a74d-698b37d8eebe",
+      "source": "CMoney投資網誌",
+      "pubDate": "Tue, 30 Jun 2026 04:39:51 GMT",
+      "sector": "矽晶圓",
+      "keyword": "矽晶圓",
+      "stocks": [
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "reason": "矽晶圓復甦，主力低檔吸納推動強彈",
+          "limitUp3d": true,
+          "limitUpDates": [
+            "2026-06-29",
+            "2026-06-26",
+            "2026-06-25"
+          ]
+        }
+      ]
     },
     {
       "gid": "CBMiXkFVX3lxTE9iakpaWnR2OFFwd0Q0ZXdjT0JwcWZXQ2x4V2JfcUpvVVY2cng3T2RwT0lrazhSaHo2b1kzTm5HNW1BclJtVHRVVkc1SVZtSVdiSTh2WGFoeXM4NkVQSGc",
@@ -512,13 +1605,29 @@
       "url": "https://www.cna.com.tw/news/afe/202606300124.aspx",
       "source": "中央社 CNA",
       "pubDate": "Tue, 30 Jun 2026 04:35:00 GMT",
-      "sector": "載板",
+      "sector": "ABF載板",
       "keyword": "PCB",
       "stocks": [
         {
-          "symbol": "4540",
+          "symbol": "4546",
           "name": "科嶠",
           "reason": "受惠AI相關需求，PCB業務訂單看到下半年"
+        }
+      ]
+    },
+    {
+      "gid": "CBMiT0FVX3lxTFBYWmhHTGp3RkF6VUdta2xLeGI0anBqMldSdzY4aUxaX2IzZmdsalgxZm5lbEtLRm8xbEhoTTJHNVFCZnYzeERoWVA3cWxrRzA",
+      "title": "〈熱門股〉面板雙虎放量續攻成交量居前二大 友達股價過前高 - news.cnyes.com",
+      "url": "https://news.cnyes.com/news/id/6517238",
+      "source": "news.cnyes.com",
+      "pubDate": "Tue, 30 Jun 2026 04:32:55 GMT",
+      "sector": "面板",
+      "keyword": "面板",
+      "stocks": [
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "reason": "面板雙虎放量續攻，股價過前高"
         }
       ]
     },
@@ -538,7 +1647,7 @@
       "url": "https://udn.com/news/story/7251/9597347?list_ch2_index",
       "source": "UDN",
       "pubDate": "Tue, 30 Jun 2026 04:28:44 GMT",
-      "sector": "光電",
+      "sector": "AI概念股",
       "keyword": "矽光子",
       "stocks": []
     },
@@ -548,7 +1657,7 @@
       "url": "https://inews.setn.com/news/1864632",
       "source": "三立新聞網SETN.com",
       "pubDate": "Tue, 30 Jun 2026 04:21:56 GMT",
-      "sector": "載板",
+      "sector": "ABF載板",
       "keyword": "PCB",
       "stocks": []
     },
@@ -558,7 +1667,7 @@
       "url": "https://udn.com/news/amp/story/10930/9597412",
       "source": "UDN",
       "pubDate": "Tue, 30 Jun 2026 04:20:48 GMT",
-      "sector": "軍工",
+      "sector": "軍工/無人機",
       "keyword": "國防自主",
       "stocks": []
     },
@@ -568,7 +1677,7 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=2385558002&PU=0010",
       "source": "富聯網",
       "pubDate": "Tue, 30 Jun 2026 04:15:00 GMT",
-      "sector": "玻璃概念股",
+      "sector": "玻璃陶瓷",
       "keyword": "玻璃基板",
       "stocks": []
     },
@@ -589,22 +1698,71 @@
       ]
     },
     {
+      "gid": "CBMiiAFBVV95cUxOYWotbENycjJRZVZJdWx2VmRjTkswdWlPT2dra0ZfWTJrc2tiMjFhWGZ5dUljazJ6ZXYyWVkybWJ6TEV4aVU5SG82bmEzc3huTEdGVFg3RkRZLUVUY3ozSFVMcjFGMHNMY1dud01fSnowa1NlNDc0U1BLS2t5dW84eWpHTGJXNUJP",
+      "title": "《熱門族群》國巨強飆頂 領集團+被動元件高掛20顆紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6223370001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 30 Jun 2026 04:09:00 GMT",
+      "sector": "📌 熱門族群焦點",
+      "keyword": "熱門族群",
+      "isRoundup": true,
+      "stocks": [
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "reason": "被動元件族群領漲"
+        }
+      ]
+    },
+    {
       "gid": "CBMikgFBVV95cUxQNHZaRlp5anFxd01yYkdCanoxZjlKeUMzS29uRVVHV1RqR3cyUFJkSlRPRkw2LUVSOWVqejhmRDNVamR5YjBzNlUwSUh0TjhqbVhNbjlTMU1vVk1DaURpZEZVd3dFSEYtaU5SVVZUdm41Um0zeDNtZVlfMWRET20yMGtYR3BGZkZETlAxb1Q5eThIUQ",
       "title": "欣興上修資本支出，衝刺ABF載板/台泰擴產 - 台視全球資訊網",
       "url": "https://www.ttv.com.tw/finance/view/0620263010072208102A57A345F38EC708CBFD474EEC7C54/587",
       "source": "台視全球資訊網",
       "pubDate": "Tue, 30 Jun 2026 04:02:35 GMT",
-      "sector": "載板",
+      "sector": "ABF載板",
       "keyword": "ABF載板",
       "stocks": [
         {
           "symbol": "3037",
           "name": "欣興",
-          "reason": "上修資本支出，衝刺ABF載板及台泰擴產",
+          "reason": "上修資本支出，衝刺ABF載板擴產",
           "limitUp3d": true,
           "limitUpDates": [
             "2026-06-25"
           ]
+        }
+      ]
+    },
+    {
+      "gid": "CBMijgFBVV95cUxQUXlRbzVFeDdXYnFyR1RZRTV4Z1BTR1JUeEpnbUxnOXRIek5KQnV6VTkwUjNUZU9JaHhObGxkbk9JWkNlODNhckdKUTZlLWR4bTd3X1VHSXNlLVJpeHlRYnlwY0x5cERCUTVhZW1LMW5qWXBQNW10ZURDd2diaV9YR1l6bTV0VDZrTFpQZlhR",
+      "title": "【06/30 產業即時新聞】傳產-玻璃陶瓷 漲勢凌厲，營建旺季預期與成本改善共振 - CMoney投資網誌",
+      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-7edeb34b-7438-11f1-ae04-fdba2889f07b",
+      "source": "CMoney投資網誌",
+      "pubDate": "Tue, 30 Jun 2026 04:02:22 GMT",
+      "sector": "玻璃陶瓷",
+      "keyword": "玻璃",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNZExfNU9ndUJUTnRIYUJuSXRyNXNqa25wOWZUR0ZFSlhCbTAtUzNfblNybWpiWXdBTTlzMXA0czc3SFU4X0l6X0x1bDBuOW9HTjVwNkhYT3k2MXBNWXlLTjdzaVBkMEI1TV8tTlEteFNEOEpaV01ZYXVoaGRnQ0dhaV8teHJyaGtJ",
+      "title": "《熱門族群》AI帶動PCB上游銅箔、玻纖布 金居、富喬領軍走強 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6223344001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 30 Jun 2026 03:59:00 GMT",
+      "sector": "📌 熱門族群焦點",
+      "keyword": "熱門族群",
+      "isRoundup": true,
+      "stocks": [
+        {
+          "symbol": "6191",
+          "name": "金居",
+          "reason": "AI帶動PCB上游銅箔需求走強"
+        },
+        {
+          "symbol": "1808",
+          "name": "富喬",
+          "reason": "AI帶動PCB上游玻纖布需求走強"
         }
       ]
     },
@@ -614,7 +1772,7 @@
       "url": "https://chtime.ikh.tw/?pn=vw&id=8ta3w18v7oz9",
       "source": "chtime.ikh.tw",
       "pubDate": "Tue, 30 Jun 2026 03:55:54 GMT",
-      "sector": "軍工",
+      "sector": "軍工/無人機",
       "keyword": "國防自主",
       "stocks": []
     },
@@ -624,13 +1782,13 @@
       "url": "https://cmnews.com.tw/article/cmoneyairesearcher-15ff9b4a-7437-11f1-861f-2f28d5d31494",
       "source": "CMoney投資網誌",
       "pubDate": "Tue, 30 Jun 2026 03:52:16 GMT",
-      "sector": "載板",
+      "sector": "ABF載板",
       "keyword": "ABF載板",
       "stocks": [
         {
           "symbol": "7795",
           "name": "長廣",
-          "reason": "ABF載板裝置訂單動能延續，股價突破高檔",
+          "reason": "ABF載板裝置訂單動能延續",
           "limitUp3d": true,
           "limitUpDates": [
             "2026-06-29",
@@ -640,12 +1798,44 @@
       ]
     },
     {
+      "gid": "CBMiZEFVX3lxTE1lMnp6cV9rbVRPN08ydUdhTXFnTVlBMEZlY3dhOWhnX3N0VXRWbTZUSmtwdm9IX3EtdTB2YUVqRUYwN1c2ZC10RUM2bDNBUVFMRTNuNnNBbE1famQwSjRaaHItNlc",
+      "title": "討論牆 | 外資喊衝！聯發科AI ASIC營收上看400億美元 目標價再升級 - LINE TODAY",
+      "url": "https://today.line.me/tw/v3/posts/list/article/5yPPMvK",
+      "source": "LINE TODAY",
+      "pubDate": "Tue, 30 Jun 2026 03:49:06 GMT",
+      "sector": "半導體",
+      "keyword": "AI ASIC",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "reason": "AI ASIC營收上看400億美元，目標價再升級"
+        }
+      ]
+    },
+    {
+      "gid": "CBMijgFBVV95cUxOWkQydC1PTE9memFxTnhRZjVFOWx0WmlsOThwb0lvejNTcjFzcjJGUzZIYTJDYkRVS09Nb0JSVDBnNmx0WWphZzRoampHUnBwRVBrTFBUTWw5MVhEVXExR1FfaHdzQk1JMjJhTmZrR0dzZkRmdmFPbUdrcDFHYmVIcjc1Mk1MRjdJWlNkQ3ZB",
+      "title": "【11:48 即時新聞】創意(3443)亮燈漲停4860，AI ASIC題材＋高成長營收帶動買盤急攻 - CMoney投資網誌",
+      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-9d8749d6-7436-11f1-8a85-4cadfba5a6b5",
+      "source": "CMoney投資網誌",
+      "pubDate": "Tue, 30 Jun 2026 03:48:54 GMT",
+      "sector": "半導體",
+      "keyword": "AI ASIC",
+      "stocks": [
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "reason": "AI ASIC題材及高成長營收帶動買盤"
+        }
+      ]
+    },
+    {
       "gid": "CBMiX0FVX3lxTE5WV0tRZzB0dXhXYnU4c0NfNFlzWFBBODg1ajRrUkx6aUZOcFMxbjY2QlNFaXFHXzhkRU90ZE5uZHhLemJseW1wUHBUcVNWNFNBS2NPcDBMSElMVURzTTRR",
       "title": "藍版無人機條例6年2400億單一採購逾1億須向立院報告| 政治 - 中央社 CNA",
       "url": "https://www.cna.com.tw/news/aipl/202606300102.aspx",
       "source": "中央社 CNA",
       "pubDate": "Tue, 30 Jun 2026 03:48:00 GMT",
-      "sector": "軍工",
+      "sector": "軍工/無人機",
       "keyword": "無人機",
       "stocks": []
     },
@@ -666,12 +1856,54 @@
       ]
     },
     {
+      "gid": "CBMiVkFVX3lxTFBCS251S3NsVmVLM0l1TUNpeFU2Mm9aNW1EU1B3ME9VWjhabzFhdFRncGt2NFNRRWJINmtUZ1VzeVB2WFc4NUl2ZmRfZVl2SUo4eEJqYU930gFWQVVfeXFMUEJLbnVLc2xWZUszSXVNQ2l4VTYyb1o1bURTUHcwT1VaOFpvMWF0VGdwa3Y0U1FFYkg2a1RnVXN5UHZYVzg1SXZmZF9lWXZJSjh4QmphT3c",
+      "title": "AI 散熱新寵是它？陶瓷基板族群噴出 同欣電、榮星等攻漲停 - UDN",
+      "url": "https://udn.com/news/amp/story/7253/9597276",
+      "source": "UDN",
+      "pubDate": "Tue, 30 Jun 2026 03:45:28 GMT",
+      "sector": "玻璃陶瓷",
+      "keyword": "陶瓷基板",
+      "stocks": [
+        {
+          "symbol": "6271",
+          "name": "同欣電",
+          "reason": "AI散熱新寵陶瓷基板族群噴出"
+        },
+        {
+          "symbol": "4911",
+          "name": "榮星",
+          "reason": "AI散熱新寵陶瓷基板族群噴出"
+        }
+      ]
+    },
+    {
+      "gid": "CBMickFVX3lxTFBRdDVUR2h3dmNObmpObmo5RW9EZU9lb29OYnBLVERNLTJPeHhBN3JBREJoNlNMeUxkaVZtczFFUjJ4SGc1SHFZc3IzdHJRWGVYTFRKRWhBNHFUTGtwU2xqcWlNUF9mQmdwZzlWR283dWVEUdIBVkFVX3lxTFBCS251S3NsVmVLM0l1TUNpeFU2Mm9aNW1EU1B3ME9VWjhabzFhdFRncGt2NFNRRWJINmtUZ1VzeVB2WFc4NUl2ZmRfZVl2SUo4eEJqYU93",
+      "title": "AI 散熱新寵是它？陶瓷基板族群噴出 同欣電、榮星等攻漲停 - UDN",
+      "url": "https://udn.com/news/story/7251/9597276?from=udn-relatednews_ch2",
+      "source": "UDN",
+      "pubDate": "Tue, 30 Jun 2026 03:45:28 GMT",
+      "sector": "玻璃陶瓷",
+      "keyword": "陶瓷",
+      "stocks": [
+        {
+          "symbol": "6271",
+          "name": "同欣電",
+          "reason": "陶瓷基板族群噴出攻漲停"
+        },
+        {
+          "symbol": "4916",
+          "name": "榮星",
+          "reason": "陶瓷基板族群噴出攻漲停"
+        }
+      ]
+    },
+    {
       "gid": "CBMiVkFVX3lxTFBrSEk3eDZXVVJpV3FhNmstVXdXektqQmllb0NtME1WT0xWc1ZkOWN5M19LYVpXeHVvUUhWV1pnQjdVSUw0bDZnNWsyV0lXc2Z2Q3J0aE1n0gFWQVVfeXFMUGtISTd4NldVUmlXcWE2ay1Vd1d6S2pCaWVvQ20wTVZPTFZzVmQ5Y3kzX0thWld4dW9RSFZXWmdCN1VJTDRsNmc1azJXSVdzZnZDcnRoTWc",
       "title": "民眾黨版國防自主無人載具條例經濟部主管 政院設戰略委員會督導 - UDN",
       "url": "https://udn.com/news/amp/story/6656/9597268",
       "source": "UDN",
       "pubDate": "Tue, 30 Jun 2026 03:43:48 GMT",
-      "sector": "軍工",
+      "sector": "軍工/無人機",
       "keyword": "國防自主",
       "stocks": []
     },
@@ -681,13 +1913,13 @@
       "url": "https://cmnews.com.tw/article/cmoneyairesearcher-c7f4c956-7433-11f1-9393-afe3debaa0c7",
       "source": "CMoney投資網誌",
       "pubDate": "Tue, 30 Jun 2026 03:28:37 GMT",
-      "sector": "載板",
+      "sector": "ABF載板",
       "keyword": "ABF載板",
       "stocks": [
         {
           "symbol": "3189",
           "name": "景碩",
-          "reason": "ABF載板受AI伺服器需求帶動，月營收創新高",
+          "reason": "ABF載板AI伺服器需求及月營收創新高",
           "limitUp3d": true,
           "limitUpDates": [
             "2026-06-25"
@@ -707,7 +1939,46 @@
         {
           "symbol": "2327",
           "name": "國巨",
-          "reason": "帶頭飆漲，被動元件族群滿血復活"
+          "reason": "被動元件族群領漲"
+        }
+      ]
+    },
+    {
+      "gid": "CBMiX0FVX3lxTE11bjdzQ0VnQWd5bl9nRHUyVkd2V3BSM0xZRkhUTzNoUEsxS3hOLU5aajdHOEFpR1NzN1loTFhVaGVCNWlKU0FSdXhHazY0bVBVU1FjWkdneGMybk9tbmJZ",
+      "title": "PCB載板廠南電漲停創天價！本土、外資法人齊喊買最新目標價出爐- 證券 - 工商時報",
+      "url": "https://www.ctee.com.tw/news/20260630700893-430201",
+      "source": "工商時報",
+      "pubDate": "Tue, 30 Jun 2026 03:15:00 GMT",
+      "sector": "ABF載板",
+      "keyword": "載板",
+      "stocks": [
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "reason": "PCB載板廠漲停創天價"
+        }
+      ]
+    },
+    {
+      "gid": "CBMikgFBVV95cUxOYnpDZnBUaVdkb3hpcWpVa0swTTh4cDRScVU0MHpvNHo1STBaVmQ3bnVROEtjaTNhQ0JMSjRMa0JNazJiQklMdzJzN1M0aldaeVRTTVM3UWNxY3RhVkdaczFyeHNzOGFfRmdZUXhBMVRjUW03YTJ2b25MN3MyS29uN3JwcFdUbEd6NEpTa1ZFaG1NUQ",
+      "title": "《熱門族群》環球晶返千金！矽晶圓火紅再秀5登獎 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6223300001&pu=News_0002_3",
+      "source": "富聯網",
+      "pubDate": "Tue, 30 Jun 2026 03:10:00 GMT",
+      "sector": "📌 熱門族群焦點",
+      "keyword": "熱門族群",
+      "isRoundup": true,
+      "stocks": [
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "reason": "矽晶圓需求火熱，股價重返千金",
+          "limitUp3d": true,
+          "limitUpDates": [
+            "2026-06-29",
+            "2026-06-26",
+            "2026-06-25"
+          ]
         }
       ]
     },
@@ -717,7 +1988,7 @@
       "url": "https://udn.com/news/story/7253/9597151",
       "source": "UDN",
       "pubDate": "Tue, 30 Jun 2026 03:07:34 GMT",
-      "sector": "載板",
+      "sector": "ABF載板",
       "keyword": "PCB",
       "stocks": [
         {
@@ -733,12 +2004,63 @@
       ]
     },
     {
+      "gid": "CBMi9wRBVV95cUxPQlpfemc4T2NaVVhnd3BycmFpb1BRWXZnYW9ZalVZTXRTR3JaM0FrSmMzdG5EQ1pQREZkSG9tSEtXeVpDODA2UUJFc2hEMHZ6M0M5bkh5U3hhQnkwWENoQm9Ydmt4WFc0eVE3MmpVRDVVSnI5RUhRVzg3TkhTS01UQjZXSXh2WjRsamFPUElSc2MxaUN0bXRRcURRVk9Wc3dNdmhiMTN2RC1KWWY5Q191SkFHY3hmdFRwd3dsenRNSGRHYXptaVo5THpKa09TallRNjhwVlltemc2UG5qdFpRLXlhdU1ZNXZ3eGhST3hybWtWR0JzZ3hTclZLU2EtcWZYaFBwYm45NjktSXQyNEhHUkpYWGdwcTdKM2JZaHdLa3NEbk55cjZMQkJzTjJBRVg2cHpWenhfLVdkX3g1dzZiWTR1VHpOaXc0c2N4XzNkQ0dTazFkOENybjNrRGxNdERzRUwwbGxIdU5rV0dYVzZ5THdyMGcxb3RUR0plWl9lUS1kRjhTYmRRSmNsSElGMFVmaUhQYUhCZDJJc0pFLUg4SHF0S1dfcGJuWF95Zi1FZmQ3bnNYNWdyLVZ4b3dLZEVVQklCWXlnRUtzd3JwT2poZmFGYVJWTzRVZTUtaXpscUVSbUNXaUVfQjJTSEdCV0lNalhDcHBoeEhnLWVwdDVsQUVTVHRiNnFrNWVvREZtNFFMZW9yWFlNaUhIbS1hOFlIRGM5OHdnbFR1S2s0TWRqV0o0UVN0V3VtRFlqOW1EMXB0dmZidHBtcGNmdXM3OWZpamkyWGs1TTlDMVI1aEVGY0dlcWdLcEs2blhCV0JzM2lyYWQzdWl3",
+      "title": "無人機條例朝野版本齊發，預算上看2,400億元，台股軍工族群雷虎、中光電、漢翔、亞航等全面引爆｜股市話題 - sinotrade.com.tw",
+      "url": "https://www.sinotrade.com.tw/richclub/hotstock/%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%A2%9D%E4%BE%8B%E6%9C%9D%E9%87%8E%E7%89%88%E6%9C%AC%E9%BD%8A%E7%99%BC-%E9%A0%90%E7%AE%97%E4%B8%8A%E7%9C%8B2-400%E5%84%84%E5%85%83-%E5%8F%B0%E8%82%A1%E8%BB%8D%E5%B7%A5%E6%97%8F%E7%BE%A4%E9%9B%B7%E8%99%8E-%E4%B8%AD%E5%85%89%E9%9B%BB-%E6%BC%A2%E7%BF%94-%E4%BA%9E%E8%88%AA%E7%AD%89%E5%85%A8%E9%9D%A2%E5%BC%95%E7%88%86-%E8%82%A1%E5%B8%82%E8%A9%B1%E9%A1%8C-6a43272f199469d0fd1c410c",
+      "source": "sinotrade.com.tw",
+      "pubDate": "Tue, 30 Jun 2026 03:07:21 GMT",
+      "sector": "軍工/無人機",
+      "keyword": "軍工",
+      "stocks": [
+        {
+          "symbol": "8033",
+          "name": "雷虎",
+          "reason": "無人機條例推升軍工族群",
+          "limitUp3d": true,
+          "limitUpDates": [
+            "2026-06-29"
+          ]
+        },
+        {
+          "symbol": "5371",
+          "name": "中光電",
+          "reason": "無人機條例推升軍工族群",
+          "limitUp3d": true,
+          "limitUpDates": [
+            "2026-06-29",
+            "2026-06-26",
+            "2026-06-25"
+          ]
+        },
+        {
+          "symbol": "2634",
+          "name": "漢翔",
+          "reason": "無人機條例推升軍工族群"
+        },
+        {
+          "symbol": "2630",
+          "name": "亞航",
+          "reason": "無人機條例推升軍工族群"
+        }
+      ]
+    },
+    {
+      "gid": "CBMiXEFVX3lxTE5xZWxIN05NdWxRSnRYT2hPZlQwaFpoU2NLLUU1UzZ5YUFmU2xJTGVZSU9teVRaRmZzSjBUUnh5U3U4R0JUaVZ0VDVBQmdpMlR3NzktOHdXV1d2dHMz",
+      "title": "台股盤中漲逾1600點創史上第3大被動元件、PCB、矽晶圓、無人機4族群狂飆| 財經焦點 - 太報 TaiSounds",
+      "url": "https://www.taisounds.com/news/content/76/264930",
+      "source": "太報 TaiSounds",
+      "pubDate": "Tue, 30 Jun 2026 03:03:54 GMT",
+      "sector": "被動元件",
+      "keyword": "矽晶圓",
+      "stocks": []
+    },
+    {
       "gid": "CBMiqwFBVV95cUxQOGZQUUh2MlBVR1Rpbk9BMHB4NUpTYmFoM2hIbGNranBZOVlOQ2xpb2k0anN6OW9MZlAwWVdjbzUxd1JvRElqRUFLeDJKbzA3c2dKd3lvY3JHWDRGdTZ6ZVcyb08tajdWNjN2NnR2Z2tKNWhoR2dreks3M0dEQmxidTc1TUN0RjRvTE5VZ1ZMUHdNc2E2UmVlaWxPOFBucExKS0pvUml2ODlHRHc",
       "title": "GIS-KY保守看H2；光通訊等新業務進展順利 - 台視全球資訊網",
       "url": "https://www.ttv.com.tw/finance/view/default.asp?i=062026300932C65E3FD93DF0431BAACB50A070872B433154&from=588",
       "source": "台視全球資訊網",
       "pubDate": "Tue, 30 Jun 2026 03:03:53 GMT",
-      "sector": "光電",
+      "sector": "面板",
       "keyword": "光通訊",
       "stocks": [
         {
@@ -749,12 +2071,28 @@
       ]
     },
     {
+      "gid": "CBMikgFBVV95cUxNMlBpbmRSNG5tX0lnTnBDUV9PUU1tcm0tNl9RRVJiUW1oRUFOdkRYV2ZvQ1EyNFRaenFrUlpkWmdWeHQ3R2FoWTNsRC1SSmRzYWIzSVlBY051ZzlrVjdieGpZenNQa3pIbjJERDZoM043TmU0Z1FScUlnbWVuUHVzdERGenFqZW9LUUVTWUJFUHBmZw",
+      "title": "先進光旗下科雅光電引策略投資人，今年拓新客戶- 新聞 - MoneyDJ",
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=2cb9c427-ce94-4708-88b5-88c759be2589",
+      "source": "MoneyDJ",
+      "pubDate": "Tue, 30 Jun 2026 02:50:00 GMT",
+      "sector": "面板",
+      "keyword": "光電",
+      "stocks": [
+        {
+          "symbol": "3008",
+          "name": "先進光",
+          "reason": "旗下科雅光電引策略投資人，今年拓新客戶"
+        }
+      ]
+    },
+    {
       "gid": "CBMiUkFVX3lxTE5jOG9CZjlsRzRQV1BUTWo1OE1ZY3E3c2hQcTI1cTUwT3Z2TjltRGwzTzA1RUtQb2R1a2lVc2o1aGdWOWRYUWY1MFNTNFJHTVRzWGc",
       "title": "高市議會跨黨派慰勞國防自主尖兵 康議長：看不見的堅守 成就看得見的和平 - 蕃新聞",
       "url": "https://n.yam.com/Article/20260630225048",
       "source": "蕃新聞",
       "pubDate": "Tue, 30 Jun 2026 02:35:00 GMT",
-      "sector": "軍工",
+      "sector": "軍工/無人機",
       "keyword": "國防自主",
       "stocks": []
     },
@@ -769,13 +2107,34 @@
       "stocks": []
     },
     {
+      "gid": "CBMiiAFBVV95cUxOcGlTMWdWYVhKNnhSYUN2bnd6RWRGakVEVnhINThaSkVaSGhVOUc1UW4xUU1FME8tWXVJd2xObmtqVUJVdFMtSjRSaG9YTkl2U3FYTFFvQV9jN281c3l2ODhYMGlia3N0dmdDQ0ZPdXE0dGxRZ0dBWEF3ZmUxeGd5V202ZGZNbGRS",
+      "title": "《熱門族群》朝野共識推升無人機產業 概念股連兩日高飛 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6223246001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 30 Jun 2026 02:27:00 GMT",
+      "sector": "📌 熱門族群焦點",
+      "keyword": "熱門族群",
+      "isRoundup": true,
+      "stocks": []
+    },
+    {
       "gid": "CBMijwFBVV95cUxNcXFtaDVWODVOQUdQYWZnTmZEdE1EWl9HVWVac0l4c3N5a1FzMEtzRnNMY2RPYkwtZG9jcUZuUFd1VXFwVWJwX05IV3dIZUQtOW1NUk4xSzlfVUptTndKRnRiNXVDUWdBM2FtdkhPVVNWbHozczBqVGxzZWtnRi1ZUlZsaF9nUlUwcDBaYXRjNA",
       "title": "A股個別發展 玻璃基板概念領漲 - on.cc東網",
       "url": "https://hk.on.cc/hk/bkn/cnt/finance/20260630/bkn-20260630093207239-0630_00842_001.html",
       "source": "on.cc東網",
       "pubDate": "Tue, 30 Jun 2026 01:56:18 GMT",
-      "sector": "玻璃概念股",
+      "sector": "玻璃陶瓷",
       "keyword": "玻璃基板",
+      "stocks": []
+    },
+    {
+      "gid": "CBMijgFBVV95cUxQSDQwaC1CeFhNR0REVUYwaklvbm8xTk1oTGJnelRMVDRwVjg3aG9KN29iVjJ1MnFnR0JoNnUtd0hWclZpVkZZUkE0V0QtVUJLbk5CZFRxTGhpVV9OdXlYZzZYcGpGU3JYODdPMUlSUkVuMXRtWEVXQTZWOVh2dHhBd3lLY2JKYXFIbTVDT0d3",
+      "title": "【06/30 產業即時新聞】電阻族群盤中強勢表態，漲價題材點燃市場買氣 - CMoney投資網誌",
+      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-f23995ea-7424-11f1-9c92-f19612053bba",
+      "source": "CMoney投資網誌",
+      "pubDate": "Tue, 30 Jun 2026 01:42:25 GMT",
+      "sector": "被動元件",
+      "keyword": "電阻",
       "stocks": []
     },
     {
@@ -795,6 +2154,28 @@
       ]
     },
     {
+      "gid": "CBMijgFBVV95cUxPcnJpSEUxQ2hFSlFZdlhfR0pmd1UwcWN0a3Q0cWU1VTVRTEpHQlZjM2tkVklRVWhNZkJRVzUtclc2akJaRnVDQ2pucnFyWUtOTDJuak9tcnNfX1pYZDJYZjdPeFdpODRkSnhORzRmUFQ4SDRUb3RlczlBTk9MUzIwbU5VOEpLVDU5V04tREFR",
+      "title": "【06/30 產業即時新聞】電子上游-ABF族群受Nvidia財報激勵強勢表態，法人買盤助攻重回盤面焦點。 - CMoney投資網誌",
+      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-474ce560-7423-11f1-a8e3-4bb9a4f5144f",
+      "source": "CMoney投資網誌",
+      "pubDate": "Tue, 30 Jun 2026 01:30:29 GMT",
+      "sector": "📌 熱門族群焦點",
+      "keyword": "盤面焦點",
+      "isRoundup": true,
+      "stocks": []
+    },
+    {
+      "gid": "CBMiZ0FVX3lxTE9TX2ljc3I5eVExQks4OC1LZWpFMDFsRXZLemg0czRKVnBBZDhaSEw5cWNHaGRuVzE5MU9uUDFqeGotaW0xWHlMV0RGcXJNODlyU2JtOXduS2J4YmEtUEpuZHExcno5am8",
+      "title": "【06/30 產業即時新聞】電子上游-ABF族群受Nvidia財報激勵強勢表態，法人買盤助攻重回盤面焦點。 - CMoney",
+      "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1226806",
+      "source": "CMoney",
+      "pubDate": "Tue, 30 Jun 2026 01:30:29 GMT",
+      "sector": "📌 熱門族群焦點",
+      "keyword": "盤面焦點",
+      "isRoundup": true,
+      "stocks": []
+    },
+    {
       "gid": "CBMieEFVX3lxTFBSb1F6NWVneGhGVC1xYV9ZQW5FNkdTa29HdzBjTEt3TUlMVm5hb3NIbFRqcnd2R0tWVHNCT28zUTRNZWgtczhSM3M4XzRJSmpBc0ZxN1lSb0FXOFNQeExaU2tCM0QtbF9UMWhScnhsZlE2NXE2bFFubA",
       "title": "【IPO前哨】麥格米特赴港，AI電源能否撐起新估值？ - 財華網",
       "url": "https://www.finet.hk/newscenter/news_content/6a431922230829983c60be7b",
@@ -805,18 +2186,105 @@
       "stocks": []
     },
     {
+      "gid": "CBMipAJBVV95cUxOSVdQNnJESm9FSkVYV25mWE1iaXpKN2RlOExZMUppXzRweU1BZGpyU1Y5RDVjOURvNndlUW5zZ3JLQlJyZ1EyUG1jeVd3WmpqeGpnNlpKSVZtcE1mMTYyZ0RYVTd2R0daTnVmTV81c05ZVG5ZRDFZUWZlUzM5aG5kTmN5VmQxMnYxUHJ6Q1pObEh5NmFSclU5UnVXd1BDYnRDNzBBNmxkNjlkdmlYWFJaX1RfcnVtTmtNamhFdXQxRWFaRDlIRDNnU2tKVU5iLTd4MUhOMlhfa0pJaFU3YklMY1IyTUFqVjRQc3dscTFoWTVuN0MxT2xfSnRCY0p0WFo0Qnp4bWVFYlFlaTcxQnFkLVFhcWxoUmN1TzZUNjNZUXU2WUZC",
+      "title": "機器人、軍工都上榜！這「碳化矽大廠」6天飆60%、大量90天漲238% 15檔注意股一次看 - Yahoo股市",
+      "url": "https://tw.stock.yahoo.com/news/%E6%A9%9F%E5%99%A8%E4%BA%BA-%E8%BB%8D%E5%B7%A5%E9%83%BD%E4%B8%8A%E6%A6%9C-%E9%80%99-%E7%A2%B3%E5%8C%96%E7%9F%BD%E5%A4%A7%E5%BB%A0-6%E5%A4%A9%E9%A3%8660-002000349.html",
+      "source": "Yahoo股市",
+      "pubDate": "Tue, 30 Jun 2026 01:07:30 GMT",
+      "sector": "軍工/無人機",
+      "keyword": "軍工",
+      "stocks": []
+    },
+    {
+      "gid": "CBMid0FVX3lxTE1HS1Q1TEVHUGxWcTZjaHo1OXNlSXFYLXpGZEFZdzBMTkN5emozdmYwZG1PcG1ZNmwyekxmMkhpeGx3QTJ2NVVCVHpVMld3dmRuT0dvUFRsYzR2WXhsZkZGcEF1SlNpLV84X0R4c3RXWkFiWENIdk1J",
+      "title": "新股資訊 | 「電子陶瓷材料提供商」三環集團啓動招股，擬7月9日上市，一手認購金額10131.16港元 - 富途牛牛",
+      "url": "https://q.futunn.com/feed/116836300292100?futusource=news_topic_page",
+      "source": "富途牛牛",
+      "pubDate": "Tue, 30 Jun 2026 00:47:41 GMT",
+      "sector": "玻璃陶瓷",
+      "keyword": "陶瓷",
+      "stocks": []
+    },
+    {
+      "gid": "CBMicEFVX3lxTE1HVUg3cGVvREJsWEVxM1pYTVk5OXZ4dlA4QXlVaWFoUlJVUkhLWHMzLUttbzljc3A5TVdmb3BtUjZWOWRYb2lvMFVuR1RWRmVWUkdnLWRodTJQTVRSQXhmempFMGZJWERjWHpHVE1WRHo",
+      "title": "“瓷的未來”2026景德鎮國際陶瓷藝術雙年展開幕 - 人民网－江西频道",
+      "url": "http://jx.people.com.cn/BIG5/n2/2026/0630/c186330-41624984.html",
+      "source": "人民网－江西频道",
+      "pubDate": "Tue, 30 Jun 2026 00:47:00 GMT",
+      "sector": "玻璃陶瓷",
+      "keyword": "陶瓷",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOdGFaSEY4cnlNRmw4eDRKUkdlYUVka2s0TGtlLWNFUkp3ZHJkR1IxM19DXzVLeGRGdmxidE9jYXNUMHBvRlNDZzRyYWoxYVBwME9zZ3NicHVOYXFGdkpkUUtJa1NhYWloV0JrYjlCbVNGR0oyTGpldWxzcVkwQmdqNzZKSGZSSlMz",
+      "title": "《熱門族群》需求回溫 自行車雙雄權證強 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6222927001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 29 Jun 2026 23:59:00 GMT",
+      "sector": "📌 熱門族群焦點",
+      "keyword": "熱門族群",
+      "isRoundup": true,
+      "stocks": []
+    },
+    {
+      "gid": "CBMiS0FVX3lxTE5zQk4wRTFid25ycjIwbFpnRG1Tb3YxdXJHWFJCaks3eWJwOTJYWnhPVkgyRGlvbktGSXBWbVpPNV9SNDBaV3Z6cmkzSQ",
+      "title": "目標價飆到1萬元瘋了！外資看好「這IC設計大廠」ASIC大爆發 2028年營收估衝400億美元 - FTNN 新聞網",
+      "url": "https://www.ftnn.com.tw/news/557110",
+      "source": "FTNN 新聞網",
+      "pubDate": "Mon, 29 Jun 2026 23:50:00 GMT",
+      "sector": "半導體",
+      "keyword": "IC設計",
+      "stocks": []
+    },
+    {
+      "gid": "CBMifkFVX3lxTE5MY01FVjJ2RTNFSnFqSnhHejdUR0Zyc1NMdGUtRW4yU240Vm5qX2RGaDE2R2VOMHB4YllNc19RbEhadkR6eHlOdUdGUE5jLWhMbjJVTTNDTUhxdHJodEEtNEU1UXlLYWRZdXlreFljOF9PS0ZqWFFJWWVsRjIyQQ",
+      "title": "半導體材料需求升溫！崇越(5434)攻上漲停！-CMoney官方 - CMoney投資網誌",
+      "url": "https://cmnews.com.tw/article/cmoney-4be7d0a8-7414-11f1-8100-e2d302a8d2e9",
+      "source": "CMoney投資網誌",
+      "pubDate": "Mon, 29 Jun 2026 23:43:14 GMT",
+      "sector": "半導體",
+      "keyword": "半導體材料",
+      "stocks": [
+        {
+          "symbol": "5434",
+          "name": "崇越",
+          "reason": "半導體材料需求升溫，股價攻上漲停",
+          "limitUp3d": true,
+          "limitUpDates": [
+            "2026-06-29"
+          ]
+        }
+      ]
+    },
+    {
       "gid": "CBMi4AJBVV95cUxNLXRNdjVpMUR0YzNmeVpBc3k3Y25Mb1YzRXB6VmNpTXEwTENZS1l2cjktSjRTMVhpWGd2c1J1NGYxM2FQQ0F4eThIcHpJcGZZbjl0VFRTNU1STXZGVDAwSWwta3dnYmxYM0lxUGpvSEp0VFhSYW5DT3BvdFpZcXhXMjRKMFdOZ3JFV0VmYkNFb2k3dUx3X0V6LWlGMXhabndSWWN3TnEtSFBUS0UzS2xBTmJzZktST3BxU0lWNnhCcWU1eUNoMEJRZ3hEamNuY0ptRlg3M3BoYXJwck5pOUZqQmxIOXJWemNQbENEdUFTS1A4TUZ2WXU5a0pEVXlaT3BkdnpBa01hT3FGY1IzU0FiT3pLbFJNZUx2T1hHSlB0ZHozSlYwd2o0VHFMSFEteEMwQ2MtUkdKVzZTVjhwODhhcVdiT0xRaUw2MXZrZmtvMWYzUHR6QXNsWVhwdmk5UjZW",
       "title": "近1600億設備商機來襲！迅得與「這2家PCB大廠」一路旺到2028年迎「最強接單潮」投資人抓緊了 - Yahoo股市",
       "url": "https://tw.stock.yahoo.com/news/%E8%BF%911600%E5%84%84%E8%A8%AD%E5%82%99%E5%95%86%E6%A9%9F%E4%BE%86%E8%A5%B2-%E8%BF%85%E5%BE%97%E8%88%87-%E9%80%992%E5%AE%B6pcb%E5%A4%A7%E5%BB%A0-%E8%B7%AF%E6%97%BA%E5%88%B02028%E5%B9%B4-%E8%BF%8E-225000819.html",
       "source": "Yahoo股市",
       "pubDate": "Mon, 29 Jun 2026 22:50:00 GMT",
-      "sector": "載板",
+      "sector": "ABF載板",
       "keyword": "PCB",
       "stocks": [
         {
-          "symbol": "6278",
+          "symbol": "6263",
           "name": "迅得",
-          "reason": "受惠近1600億設備商機，訂單旺到2028年"
+          "reason": "受惠設備商機，與PCB大廠合作迎最強接單潮"
+        }
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE51Rm5kOWNKTHBJSFhDVm1mS2o5cml5WS1KaGhqVGlMdllsMm1jUnFLVFRXaE04aW1WbDdrZ2RFcGF0STFLdU94eFI1bTNNMUhwanNaRjdpREo",
+      "title": "AI ASIC商機看俏 外資調升聯發科目標價到1萬 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/hphn3mgftwrp",
+      "source": "自由時報",
+      "pubDate": "Mon, 29 Jun 2026 22:38:13 GMT",
+      "sector": "半導體",
+      "keyword": "AI ASIC",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "reason": "AI ASIC商機看俏，外資調升目標價到1萬"
         }
       ]
     },
@@ -826,7 +2294,7 @@
       "url": "https://today.line.me/tw/v3/posts/list/article/DR67ZrX",
       "source": "LINE TODAY",
       "pubDate": "Mon, 29 Jun 2026 22:18:17 GMT",
-      "sector": "玻璃概念股",
+      "sector": "玻璃陶瓷",
       "keyword": "玻璃基板",
       "stocks": [
         {
@@ -837,13 +2305,49 @@
       ]
     },
     {
+      "gid": "CBMiW0FVX3lxTE1IS2daWjFCenNIUm5uSldhaTQwek5VOEFyblpPN19kTnk1eXVTQzdJOHNzakxUZWI1NjFIbjRJUVJfY2FaczVObWQ2MDQ0cVpRRGNaUUc0aUxEVGfSAVtBVV95cUxNSEtnWloxQnpzSFJubkpXYWk0MHpOVThBcm5aTzdfZE55NXl1U0M3SThzc2pMVGViNTYxSG40SVFSX2NhWnM1Tm1kNjA0NHFaUURjWlFHNGlMRFRn",
+      "title": "AI ASIC商機看俏 外資調升聯發科目標價到1萬 - 自由財經",
+      "url": "https://ec.ltn.com.tw/amp/article/paper/1760816",
+      "source": "自由財經",
+      "pubDate": "Mon, 29 Jun 2026 21:30:00 GMT",
+      "sector": "半導體",
+      "keyword": "AI ASIC",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "reason": "AI ASIC商機看俏，外資調升目標價到1萬"
+        }
+      ]
+    },
+    {
       "gid": "CBMiX0FVX3lxTE81djZraU5Za250Uy1odUVla19zbGhfMDFIZnZZSVREVUQ4MkdQQ0RJUFI4Ni1Ua2xQbEhDTWhXeGJ4SVF0NlBvbEpVNlJmVWJrZzl4TTM0VzN1NWlXNVg4",
       "title": "康寧新組件掀革命光通訊族群承壓- 日報 - 工商時報",
       "url": "https://www.ctee.com.tw/news/20260630700232-439901",
       "source": "工商時報",
       "pubDate": "Mon, 29 Jun 2026 19:00:00 GMT",
-      "sector": "光電",
+      "sector": "面板",
       "keyword": "光通訊",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiUEFVX3lxTFBPZjE2MHI5c2NXZlcxTVhTSzQ2RlM2VmI3aGZPTXRpV0NHT1JoS3VMbk1LU0tOX1EweXBaWGNUZEw2bWw3YjdOeldTa0NiS0Q0",
+      "title": "TOTO半導體材料擴產計劃：日本陶瓷技術的華麗轉身與東南亞機遇 - heatalk.com",
+      "url": "https://www.heatalk.com/20260630/13081/",
+      "source": "heatalk.com",
+      "pubDate": "Mon, 29 Jun 2026 18:30:57 GMT",
+      "sector": "半導體",
+      "keyword": "陶瓷",
+      "stocks": []
+    },
+    {
+      "gid": "CBMiggFBVV95cUxPeUxBeWFOTEJGcFhsU1AtLWF2cHpBY0drbHF6Z2dNVnFTdV85cFdsV3dHa3FUOE14c3N1T3l4SVU4VVhIX0g2NTZCaEV6cUo3enYzZDhUTENNT0s1MWVNcUNILW9PUTJvMDNJQWRkbEFxWUdQY0dZNllmTnQ3dnphSkln",
+      "title": "AI效應擴散：半導體材料與封裝廠迎新局-財經焦點情報站 - CMoney投資網誌",
+      "url": "https://cmnews.com.tw/article/forumnews-7566636a-73e4-11f1-9181-decefb1aa82f",
+      "source": "CMoney投資網誌",
+      "pubDate": "Mon, 29 Jun 2026 18:00:48 GMT",
+      "sector": "半導體",
+      "keyword": "半導體材料",
       "stocks": []
     },
     {
@@ -852,7 +2356,7 @@
       "url": "https://cmnews.com.tw/article/xumingzhe-43a3cb04-73d1-11f1-b020-7765bfffa8a0",
       "source": "CMoney投資網誌",
       "pubDate": "Mon, 29 Jun 2026 15:43:24 GMT",
-      "sector": "玻璃概念股",
+      "sector": "玻璃陶瓷",
       "keyword": "玻璃基板",
       "stocks": [
         {
@@ -874,9 +2378,41 @@
       "url": "https://today.line.me/tw/v3/posts/list/article/5yPPrDV",
       "source": "LINE TODAY",
       "pubDate": "Mon, 29 Jun 2026 15:32:25 GMT",
-      "sector": "載板",
+      "sector": "ABF載板",
       "keyword": "ABF載板",
       "stocks": []
+    },
+    {
+      "gid": "CBMiUkFVX3lxTE9IVVZTYXRWeEZOZll6SlFUQnltcFNYZVpJdlR1aEF2UWNacXdVTDJ3R19DSzctNVRaQzlrYjdXNTRUTU8tWEZlSE4wNzd6ekwxaXfSAVJBVV95cUxPSFVWU2F0VnhGTmZZekpRVEJ5bXBTWGVaSXZUdWhBdlFjWnF3VUwyd0dfQ0s3LTVUWkM5a2I3VzU0VE1PLVhGZUhOMDc3enpMMWl3",
+      "title": "GIS押光通訊！股價反彈　CW Laser封測明年上半年將量產 - NOWnews今日新聞",
+      "url": "https://www.nownews.com/amp/news/6851663",
+      "source": "NOWnews今日新聞",
+      "pubDate": "Mon, 29 Jun 2026 14:51:07 GMT",
+      "sector": "封測",
+      "keyword": "封測",
+      "stocks": [
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "reason": "GIS押光通訊，CW Laser封測明年上半年量產"
+        }
+      ]
+    },
+    {
+      "gid": "CBMiV0FVX3lxTE9sdWE4TDZYTExDVFdmWGpEWDRmZUxMcE5wM3pUeE1NUWJFS3ZfRUlxMWcxU3JUd3pTYi1qYUc0V3kzRHpDcUU4amE2Smd4MFl5bHZhZXNHdw",
+      "title": "外資喊衝！聯發科AI ASIC營收上看400億美元 目標價再升級 - 四季線上4gTV",
+      "url": "https://www.4gtv.tv/article/2026062912000024",
+      "source": "四季線上4gTV",
+      "pubDate": "Mon, 29 Jun 2026 14:26:15 GMT",
+      "sector": "半導體",
+      "keyword": "AI ASIC",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "reason": "AI ASIC營收上看400億美元，目標價再升級"
+        }
+      ]
     }
   ]
 }
