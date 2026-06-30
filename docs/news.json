@@ -381,6 +381,16 @@
       "newsCount": 1,
       "stocks": [],
       "limitUpCount": 0
+    },
+    {
+      "sector": "軍工",
+      "newsCount": 6,
+      "limitUpCount": 0
+    },
+    {
+      "sector": "軍工/無人機",
+      "newsCount": 1,
+      "limitUpCount": 0
     }
   ],
   "news": [
@@ -563,9 +573,9 @@
       "keyword": "先進封裝",
       "stocks": [
         {
-          "symbol": "4540",
+          "symbol": "6118",
           "name": "科嶠",
-          "reason": "聯手自動化設備大廠跨足先進封裝供應鏈"
+          "reason": "聯手全球自動化設備大廠跨足先進封裝供應鏈"
         }
       ]
     },
@@ -672,7 +682,7 @@
         {
           "symbol": "3680",
           "name": "家登",
-          "reason": "先進封裝「圓轉方」趨勢帶來新商機"
+          "reason": "先進封裝「圓轉方」勢在必行，台供應鏈迎新機"
         }
       ]
     },
@@ -816,6 +826,16 @@
       "stocks": []
     },
     {
+      "gid": "CBMikgFBVV95cUxOR0ptc200UGd0YXFkbG1SRWVDQ29JV2QzaFVVcUNzTVF1OFB4NmVlaFBhWEM2R1c2eGhmWXJza0t6SndSRVRTSDE0ZkNTQVVfSDJhakxnaFpucmlnQ3dxUUh4MlJZdHpmTHdZZk40M18tcjBVVVlmUjd4bVNaRE1KcTY4YmNMM19VbkZjeEZiR0tWdw",
+      "title": "傳京東方爭取三星Galaxy S27系列OLED面板訂單告吹 - 台視全球資訊網",
+      "url": "https://www.ttv.com.tw/finance/view/062026301634213AD13209C9411C952704ECE7A42717AC56/588",
+      "source": "台視全球資訊網",
+      "pubDate": "Tue, 30 Jun 2026 10:32:59 GMT",
+      "sector": "光電/面板",
+      "keyword": "面板",
+      "stocks": []
+    },
+    {
       "gid": "CBMiX0FVX3lxTE1LRExIUENhY0dCT1JuQnBYY1AzNHdSR2h4MHA3b0RaUmR2RmVQV3ZLOG5pUll6bDRGLUxmdEhsSTR1TTZDMEFTQUtYUWdhT1BIUUUzNjJVeTl6aVpuVVJF",
       "title": "6／30台股雷達｜國巨領軍被動元件上演紅燈秀青雲卻跳空跌停關鍵原因曝- 證券 - 工商時報",
       "url": "https://www.ctee.com.tw/news/20260630701746-430204",
@@ -857,6 +877,48 @@
       "stocks": []
     },
     {
+      "gid": "CBMijgFBVV95cUxOb2FSdkNWZVZ3dlRtS2RlaXZ3N1RHeHRlaHpXTHRuRTVtWmF2SmtrNnpFMVFSVE5iMnpLVWFkbkpzelEzRURkc3VrTi1RX0xmX0NXUllYS2owMjFRcjlBMHVxMXlwY3JZRjdLUnlkckdYVVNsN0JpcEp6ZnRpU3FabkFWU01sZl9HQUo4NVd3",
+      "title": "被動元件掀超級循環! 國巨領軍19檔齊亮紅燈| 科技 - 非凡新聞台",
+      "url": "https://news.ustv.com.tw/newsdetail/20260630A087?listOnly=true&type=144&newsall=true&",
+      "source": "非凡新聞台",
+      "pubDate": "Tue, 30 Jun 2026 10:19:42 GMT",
+      "sector": "被動元件",
+      "keyword": "被動元件",
+      "stocks": [
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "reason": "被動元件大廠，領軍族群上漲"
+        }
+      ]
+    },
+    {
+      "gid": "CBMilgFBVV95cUxNT1N4QXBnN0NKUHVjT05XMzQ1Mm9NR3ZKbW5UcU9FdGtxeDAtYXAtNHhBUDkwTU5CU3NKcmFUR2FTS0JhRjZyR3VaX0hRekkwaDloeUR1aEE3a1VXa212cmFEZk1qbDk0RzFzRVZVRnRjdGZSeS1nWGN0V2tGSThoeHFXSGJCdkkyS1dmLWx3bVl0MXlWNFE",
+      "title": "【數據看盤】超13億元資金買入多氟多，多家機構聯手外資搶籌玻璃基板人氣股 - 富途牛牛",
+      "url": "https://news.futunn.com/hk/post/75314575/data-snapshot-over-rmb-1-3-billion-in-funds-flowed",
+      "source": "富途牛牛",
+      "pubDate": "Tue, 30 Jun 2026 10:09:45 GMT",
+      "sector": "玻璃概念股",
+      "keyword": "玻璃基板",
+      "stocks": []
+    },
+    {
+      "gid": "CBMivgRBVV95cUxPaVZmeUQyWW5EUU93OWxXZlpraUNOcHZieTA1MmlMRTFCaVE4RmVrMkNsbTdhemIwTDJ3Z3BXTHBjQTJzMFp6c1BuaDRjQjRSQl84T0pVX2M1emR1cGdtZFNidTcwbnlWbURROTVCNHlORk94S2hCZjY5OGQ1VmRhdVl2c044Z2luVEdkM1U0b1IzRzdRZWVWSHpacVRxTll4OFVEZDVOaXgwUUx4amZnTmkwLXB1QkppRFJHMnpYNHktYm00bXQ1Q0RRb0NFU25jR1RkTFdMVXdaQXd3VTZpNVI1N2ctUTFuMGNTRTZUUDFmdU82V0V3T3VJb25wbVZVb1Vxc0VCbnZELW1ZcE5JTmFrUEZ1a184ZnpKR3ZhU3M0QXNpbjBYMWhmcmNuMWdzcjVOLUh5X2V2aUNuaV9FTHNkMi1OSjZpWVNLQzhGNlRjTkFhVnlNQXZVdElXY0FIby1hZE1EZEZEdTZ0VG41MnRCaWpJR0dzMXVUM29WelJTenBzMlVNNjdBQk5zREZIQTlhczIyMjA0R1hpZUF0WlY4WXNIanQ1aHlGQmhQSzFWTXNRaUhTSjd1VXNxaVJyNjVQRy1SN2hBNUJvZjZJZUkxU3V1bFRRMkFwWWxxMlpFSG83aUdmSXlna1pTZjdSa1BuclRfRkMtOUdsZklGcjdqNEk1ZzVpbHN0LWNJNUg0eW02ZmVEODJWelEwZ1NDSGlFcjZfd0Y2RFItLUEwRm1JVWV4c0Z1UUlYNDFB",
+      "title": "群創為何總在外資一調節就被放大檢視？從面板報價、法人籌碼到景氣循環一次看懂 - CMoney",
+      "url": "https://readmo.cmoney.tw/article/26811d36-1490-4dfd-974a-193bd9a5f10d?title=%E7%BE%A4%E5%89%B5%E7%82%BA%E4%BD%95%E7%B8%BD%E5%9C%A8%E5%A4%96%E8%B3%87%E4%B8%80%E8%AA%BF%E7%AF%80%E5%B0%B1%E8%A2%AB%E6%94%BE%E5%A4%A7%E6%AA%A2%E8%A6%96%EF%BC%9F%E5%BE%9E%E9%9D%A2%E6%9D%BF%E5%A0%B1%E5%83%B9%E3%80%81%E6%B3%95%E4%BA%BA%E7%B1%8C%E7%A2%BC%E5%88%B0%E6%99%AF%E6%B0%A3%E5%BE%AA%E7%92%B0%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%87%82",
+      "source": "CMoney",
+      "pubDate": "Tue, 30 Jun 2026 10:06:55 GMT",
+      "sector": "光電/面板",
+      "keyword": "面板",
+      "stocks": [
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "reason": "面板股，外資調節被放大檢視"
+        }
+      ]
+    },
+    {
       "gid": "CBMinAFBVV95cUxOSEE2c2t4eEw4R1lvdWswQVpYMXM1dHJwanZlaEpDLXdqUHo3cjhyMHF3OWJxeUFkazVVbDFOOVo0cHY1YWtXeE5mMk03VHRkZVVUQnU1akhKNHpUZ0pTdTdsekpmUS1lal9LM1doOHJTQmxxYmtiekxicnNpSVljX2Zxa2hxckltQnlNMEJBbzlaeFU1Njh4YnNISUE",
       "title": "SEMICON展聚焦15大產業議題 智慧製造/先進封裝為焦點 - 台視全球資訊網",
       "url": "https://www.ttv.com.tw/finance/view/?i=0620263016193781057ECB504FD89ED3589A698E08999016&from=587",
@@ -878,12 +940,12 @@
         {
           "symbol": "3131",
           "name": "弘塑",
-          "reason": "受惠先進封裝三國殺開打"
+          "reason": "先進封裝三國殺開打，受惠股"
         },
         {
           "symbol": "2467",
           "name": "志聖",
-          "reason": "受惠先進封裝三國殺開打"
+          "reason": "先進封裝三國殺開打，受惠股"
         }
       ]
     },
@@ -1200,6 +1262,22 @@
       "stocks": []
     },
     {
+      "gid": "CBMiugJBVV95cUxORFA2eHNsZGFRMDAtTnZYMWhxM296cnZ0b0I4VnNBQjBjem1rcFJwQlNQNHFOMXFpamJubEdvcXBfengzSEVMTjktR0dHTXR6SUM3SjctQ0FMM3ZzanQ4eG9MNlY1dEhncUJFaWpGSkl0VDBfM2c4R2VGa3hVNExvRzF3aEpWQVhGTXAwOENoZ3FZWUV1QVc3Z09MQVdoeGc3d2lmcWxzcXd5dlU0QTJQdGZla0pyemFUOTJSYjNzSnhOVHIwNXdvempORlFTQXZvWFUzTWg4cFVDeW5VUzN6Q3ZLYzNtM0NWcHh6Ui02aU5jcmc0Qzk0eVVEWlY2RzJnY2phUDlaNVR5NDcxbkc2SnZLVW9GMHZaMGNGbk9lT0xUVTkxdzhObGhNbjN0VUx5WHhqQzlCeFV2Zw",
+      "title": "家登：先進封裝往方形基板發展是必走之路 (圖) - Yahoo新聞",
+      "url": "https://tw.news.yahoo.com/%E5%AE%B6%E7%99%BB-%E5%85%88%E9%80%B2%E5%B0%81%E8%A3%9D%E5%BE%80%E6%96%B9%E5%BD%A2%E5%9F%BA%E6%9D%BF%E7%99%BC%E5%B1%95%E6%98%AF%E5%BF%85%E8%B5%B0%E4%B9%8B%E8%B7%AF-%E5%9C%96-063532503.html",
+      "source": "Yahoo新聞",
+      "pubDate": "Tue, 30 Jun 2026 07:05:44 GMT",
+      "sector": "玻璃概念股",
+      "keyword": "先進封裝",
+      "stocks": [
+        {
+          "symbol": "3680",
+          "name": "家登",
+          "reason": "先進封裝往方形基板發展是必走之路"
+        }
+      ]
+    },
+    {
       "gid": "CBMijgFBVV95cUxOVjI2OTctZzhtME1sX1VKQ044LUFwa1FGV2U2ZkEtNV9vVUJNSGQzS2Y5RFVtXzk3NzRNUXBkN1A2UF9WOWJZV25aaFVUdlNjUmVKc19TVTZsX2dXX213S3U5M3pfZW5tUnRHbHN0WngtVXJKV1kyYjdTTzRoaFZVOWY1Q0lwWUVtYTlvd1Nn",
       "title": "AI晶片「不賣身」風暴：Tenstorrent硬拚Qualcomm、Nvidia 引爆新一輪算力戰局 - CMoney投資網誌",
       "url": "https://cmnews.com.tw/article/cmoneyairesearcher-6088f7ec-7451-11f1-819a-51e33eef926d",
@@ -1231,7 +1309,7 @@
         {
           "symbol": "8046",
           "name": "南電",
-          "reason": "領漲ABF載板，受AI需求支撐"
+          "reason": "領漲ABF載板，AI需求支撐"
         }
       ]
     },
@@ -1672,6 +1750,16 @@
       "stocks": []
     },
     {
+      "gid": "CBMiqANBVV95cUxOR1JyOERDa2c2WUNwR2hvU001QTFvTnJCOWlPQzJhUlNSV3ZaTW9ldk5URE9UU2kyRHR0NjdVR3YwRFBNZDZjbjB5aHBoZ0pxa3p1eTFXWmJjOVYxNVVSQUhfT25USlRXWnVaSnEtenp2bzFqNVhNZ0dET1FCTnFuTmdUMDNKdUNCbnJDbVREVG03R0dvMjRZYzNyRWtubnpqNEFEaDItRXl4YkJlVDRadXFTeVlCb05sV0xoOENRSjhnQ0Ztclp4ajlENDhTZ1dOLUFOZXJvZ1hzZnJXd2E1VWtHNVlpbjJXNTZJSWVIb2NnNHc2WnVTNnFDTGdLSVMwX1hnVXFDZGNCUG1hTHBFSXk2bENsUlhRUXpZUVVsemd4VDdnZTlNY2owdXU3SG04MTFvSm1OY0JGUGlfOV9xbVlqZDNxY21Jdzh1WlVuQzY3RmstaXlZV01SOFdaUjBHV2pTdlZTTnJIWjBta3RKNXRZYmpVOGhERzdZRGd4TWtuQzNXbTBSUWYzc09fTkt1eENrUkJMTVZieDA4SmI2Q3dSX1psTElR",
+      "title": "上市公司員工薪資中位數揭曉 台積電僅排第四！這家IC設計大廠奪魁 - Yahoo新聞",
+      "url": "https://tw.news.yahoo.com/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%93%A1%E5%B7%A5%E8%96%AA%E8%B3%87%E4%B8%AD%E4%BD%8D%E6%95%B8%E6%8F%AD%E6%9B%89-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%83%85%E6%8E%92%E7%AC%AC%E5%9B%9B-%E9%80%99%E5%AE%B6ic%E8%A8%AD%E8%A8%88%E5%A4%A7%E5%BB%A0%E5%A5%AA%E9%AD%81-041858250.html",
+      "source": "Yahoo新聞",
+      "pubDate": "Tue, 30 Jun 2026 04:18:58 GMT",
+      "sector": "半導體",
+      "keyword": "IC設計",
+      "stocks": []
+    },
+    {
       "gid": "CBMiiAFBVV95cUxQUDd3TXloU2ZDOUVodlE5U1puT0E1Zk4weVkya3lzU3dpeEpIVGIwYUlaS3VsRXNCaHhBVkhPa2REMTJGNk1QSmNQR1VfclZHUzFlQnlnd08xOUs4Vk9YTHljZHVWc1VHdGlwWExYeTg1YUNhOWxwdF9nYkZVVXlXNXRmUk5tUlVu",
       "title": "陸股：算力硬體、CPO與玻璃基板爆發，科創50上半場飆3.51%破頂，創指漲3.06% - 富聯網",
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=2385558002&PU=0010",
@@ -1908,6 +1996,44 @@
       "stocks": []
     },
     {
+      "gid": "CBMiT0FVX3lxTE5mZnZxbXBQVW1MdEhObmJSQlNvQmhqaXRlQ054OS15TjhqVklBOHA3VDJycVlXZzY4ZkhiWEZHSFpxbnJRRXNEaHdZMXhZS00",
+      "title": "《價值型投資 最新產業研究報告》環球晶、台勝科、漢磊 AI電力升級，第三代半導體供應鏈轉機浮現 - news.cnyes.com",
+      "url": "https://news.cnyes.com/news/id/6517182",
+      "source": "news.cnyes.com",
+      "pubDate": "Tue, 30 Jun 2026 03:35:07 GMT",
+      "sector": "矽晶圓",
+      "keyword": "環球晶",
+      "stocks": [
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "reason": "AI電力升級，第三代半導體供應鏈轉機",
+          "limitUp3d": true,
+          "limitUpDates": [
+            "2026-06-29",
+            "2026-06-26",
+            "2026-06-25"
+          ]
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "reason": "AI電力升級，第三代半導體供應鏈轉機"
+        },
+        {
+          "symbol": "5425",
+          "name": "漢磊",
+          "reason": "AI電力升級，第三代半導體供應鏈轉機",
+          "limitUp3d": true,
+          "limitUpDates": [
+            "2026-06-29",
+            "2026-06-26",
+            "2026-06-25"
+          ]
+        }
+      ]
+    },
+    {
       "gid": "CBMijgFBVV95cUxNc3Y4RDJDNUxQWTZleXE3b2xJa0VXWHdEcWhDb05aVHdFR2ZIZ1N3TkIwY2VfbC1FVFk0eDBkT0VoRm9vazVPVzNNSUhOVzVfWnhkc0JlMk5Wbm5hSGdmUm0xSXdOZ0tIY0JHa3JPWmFTN0JKMDV3VHU1TVJWbWsyLTl0anZTdmFSUTFEdjJR",
       "title": "【11:28 即時新聞】景碩(3189)亮燈漲停至891元，ABF載板AI伺服器需求＋月營收連創新高支撐多頭結構 - CMoney投資網誌",
       "url": "https://cmnews.com.tw/article/cmoneyairesearcher-c7f4c956-7433-11f1-9393-afe3debaa0c7",
@@ -1994,7 +2120,7 @@
         {
           "symbol": "8046",
           "name": "南電",
-          "reason": "ABF載板三雄之一，股價亮燈漲停"
+          "reason": "ABF載板大漲，股價亮燈漲停"
         },
         {
           "symbol": "4958",
@@ -2300,7 +2426,7 @@
         {
           "symbol": "3481",
           "name": "群創",
-          "reason": "搶進台積電CoPoS供應鏈，布局玻璃基板技術"
+          "reason": "搶進台積電CoPoS供應鏈，玻璃基板布局曝光"
         }
       ]
     },
@@ -2362,7 +2488,7 @@
         {
           "symbol": "8027",
           "name": "鈦昇",
-          "reason": "玻璃基板題材升溫",
+          "reason": "玻璃基板題材升溫，市場關注",
           "limitUp3d": true,
           "limitUpDates": [
             "2026-06-29",
