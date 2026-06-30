@@ -63,6 +63,11 @@
           "symbol": "2630",
           "name": "亞航",
           "limitUp3d": false
+        },
+        {
+          "symbol": "2481",
+          "name": "強茂",
+          "limitUp3d": false
         }
       ],
       "limitUpCount": 3
@@ -70,6 +75,33 @@
     {
       "sector": "PCB / 載板",
       "newsCount": 5,
+      "stocks": [
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "limitUp3d": true
+        },
+        {
+          "symbol": "5483",
+          "name": "中美晶",
+          "limitUp3d": true
+        },
+        {
+          "symbol": "5434",
+          "name": "崇越",
+          "limitUp3d": true
+        },
+        {
+          "symbol": "1808",
+          "name": "富喬",
+          "limitUp3d": false
+        }
+      ],
+      "limitUpCount": 3
+    },
+    {
+      "sector": "ABF載板",
+      "newsCount": 12,
       "stocks": [
         {
           "symbol": "3037",
@@ -153,7 +185,7 @@
           "limitUp3d": false
         }
       ],
-      "limitUpCount": 1
+      "limitUpCount": 0
     },
     {
       "sector": "散熱",
@@ -870,7 +902,7 @@
         {
           "symbol": "3037",
           "name": "欣興",
-          "reason": "南電亮眼自結驗證ABF循環，載板雙雄補漲行情醞釀",
+          "reason": "南電自結驗證ABF循環，載板雙雄補漲",
           "limitUp3d": true,
           "limitUpDates": [
             "2026-06-25"
@@ -879,7 +911,7 @@
         {
           "symbol": "3189",
           "name": "景碩",
-          "reason": "南電亮眼自結驗證ABF循環，載板雙雄補漲行情醞釀",
+          "reason": "南電自結驗證ABF循環，載板雙雄補漲",
           "limitUp3d": true,
           "limitUpDates": [
             "2026-06-25"
@@ -1194,7 +1226,7 @@
         {
           "symbol": "3037",
           "name": "欣興",
-          "reason": "上修資本支出，衝刺ABF載板/台泰擴產",
+          "reason": "上修資本支出，衝刺ABF載板產能",
           "limitUp3d": true,
           "limitUpDates": [
             "2026-06-25"
@@ -1383,6 +1415,41 @@
           "symbol": "2408",
           "name": "南亞科",
           "reason": "韓國記憶體大擴產，短線有壓"
+        }
+      ]
+    },
+    {
+      "gid": "CBMi9wRBVV95cUxPQlpfemc4T2NaVVhnd3BycmFpb1BRWXZnYW9ZalVZTXRTR3JaM0FrSmMzdG5EQ1pQREZkSG9tSEtXeVpDODA2UUJFc2hEMHZ6M0M5bkh5U3hhQnkwWENoQm9Ydmt4WFc0eVE3MmpVRDVVSnI5RUhRVzg3TkhTS01UQjZXSXh2WjRsamFPUElSc2MxaUN0bXRRcURRVk9Wc3dNdmhiMTN2RC1KWWY5Q191SkFHY3hmdFRwd3dsenRNSGRHYXptaVo5THpKa09TallRNjhwVlltemc2UG5qdFpRLXlhdU1ZNXZ3eGhST3hybWtWR0JzZ3hTclZLU2EtcWZYaFBwYm45NjktSXQyNEhHUkpYWGdwcTdKM2JZaHdLa3NEbk55cjZMQkJzTjJBRVg2cHpWenhfLVdkX3g1dzZiWTR1VHpOaXc0c2N4XzNkQ0dTazFkOENybjNrRGxNdERzRUwwbGxIdU5rV0dYVzZ5THdyMGcxb3RUR0plWl9lUS1kRjhTYmRRSmNsSElGMFVmaUhQYUhCZDJJc0pFLUg4SHF0S1dfcGJuWF95Zi1FZmQ3bnNYNWdyLVZ4b3dLZEVVQklCWXlnRUtzd3JwT2poZmFGYVJWTzRVZTUtaXpscUVSbUNXaUVfQjJTSEdCV0lNalhDcHBoeEhnLWVwdDVsQUVTVHRiNnFrNWVvREZtNFFMZW9yWFlNaUhIbS1hOFlIRGM5OHdnbFR1S2s0TWRqV0o0UVN0V3VtRFlqOW1EMXB0dmZidHBtcGNmdXM3OWZpamkyWGs1TTlDMVI1aEVGY0dlcWdLcEs2blhCV0JzM2lyYWQzdWl3",
+      "title": "無人機條例朝野版本齊發，預算上看2,400億元，台股軍工族群雷虎、中光電、漢翔、亞航等全面引爆｜股市話題 - sinotrade.com.tw",
+      "url": "https://www.sinotrade.com.tw/richclub/hotstock/%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%A2%9D%E4%BE%8B%E6%9C%9D%E9%87%8E%E7%89%88%E6%9C%AC%E9%BD%8A%E7%99%BC-%E9%A0%90%E7%AE%97%E4%B8%8A%E7%9C%8B2-400%E5%84%84%E5%85%83-%E5%8F%B0%E8%82%A1%E8%BB%8D%E5%B7%A5%E6%97%8F%E7%BE%A4%E9%9B%B7%E8%99%8E-%E4%B8%AD%E5%85%89%E9%9B%BB-%E6%BC%A2%E7%BF%94-%E4%BA%9E%E8%88%AA%E7%AD%89%E5%85%A8%E9%9D%A2%E5%BC%95%E7%88%86-%E8%82%A1%E5%B8%82%E8%A9%B1%E9%A1%8C-6a43272f199469d0fd1c410c",
+      "source": "sinotrade.com.tw",
+      "pubDate": "Tue, 30 Jun 2026 03:07:21 GMT",
+      "sector": "無人機/軍工",
+      "keyword": "無人機",
+      "stocks": [
+        {
+          "symbol": "8033",
+          "name": "雷虎",
+          "reason": "無人機條例推升軍工族群",
+          "limitUp3d": true,
+          "limitUpDates": [
+            "2026-06-29"
+          ]
+        },
+        {
+          "symbol": "2383",
+          "name": "中光電",
+          "reason": "無人機條例推升軍工族群"
+        },
+        {
+          "symbol": "2634",
+          "name": "漢翔",
+          "reason": "無人機條例推升軍工族群"
+        },
+        {
+          "symbol": "2630",
+          "name": "亞航",
+          "reason": "無人機條例推升軍工族群"
         }
       ]
     },
