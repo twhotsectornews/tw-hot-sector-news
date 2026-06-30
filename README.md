@@ -20,22 +20,25 @@
 
 資料管線（scripts/，Node，無 npm 依賴）
   gen-news.mjs   每班執行：
-    1. Gemini(grounded) 判定今日強勢族群 + 搜尋關鍵字（失敗→內建後備清單）
-    2. Google News RSS 抓新聞（只留「標題含關鍵字」者），解析轉址 → 真實文章 URL，去重
+    0. 族群焦點：抓標題含「熱門族群/盤面焦點/強勢族群」的彙整型專欄，置頂分組
+    1. 用「固定族群清單」CANONICAL_SECTORS（程式內維護）逐族群搜 Google News
+    2. 只留「標題含族群關鍵字」者，解析轉址 → 真實文章 URL，去重
     3. Gemini 逐則抽出提到的個股 + 原因
     4. TWSE/TPEx OpenAPI 取近 3 交易日全市場 → 標記「近 3 日漲停」(漲跌幅 ≥ 9.5%)
-    5. merge 進當日 docs/news.json（以 URL 去重、累積整天輪班；跨日封存至 history/）
+    5. 依固定清單歸位、依「漲停家數」排強勢度；merge 進當日 docs/news.json（跨日封存 history/）
   lib/core.mjs   getJson / getText / callGemini / 指定日全市場抓取（移植自 TwStockRank）
 ```
 
-設計取捨：**新聞與 URL 一律來自 Google News RSS**（真實標題＋連結），**Gemini 只做語意判讀**（選族群、抽個股與原因），避免 AI 幻覺網址。漲停判定走交易所 OpenAPI，零金鑰。
+設計取捨：
+- **族群分組用固定清單**（`CANONICAL_SECTORS`，在 `scripts/gen-news.mjs`）：分組永遠穩定一致、不會像 AI 動態命名那樣漂移；**強勢度用「近 3 日漲停家數」客觀排序**。要新增/調整族群只改這份清單的 `keywords`。
+- **新聞與 URL 一律來自 Google News RSS**（真實標題＋連結），**Gemini 只做語意判讀**（抽個股與原因），避免 AI 幻覺網址。漲停判定走交易所 OpenAPI，零金鑰。
 
 ---
 
 ## 本機開發
 
 ```bash
-# 1) 產生資料（需 Node 20+）。GEMINI_API_KEY 可選；不帶則走後備族群清單、個股留空。
+# 1) 產生資料（需 Node 20+）。GEMINI_API_KEY 可選；不帶仍會抓新聞分族群，只是個股/原因留空。
 GEMINI_API_KEY=xxxx node scripts/gen-news.mjs
 #   或把金鑰放 .env.local：  GEMINI_API_KEY=xxxx
 
