@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-06-30T22:00:27.613+08:00",
-  "generatedAt": "2026-06-30T14:00:27.613Z",
+  "asOf": "2026-06-30T22:03:18.876+08:00",
+  "generatedAt": "2026-06-30T14:03:18.876Z",
   "tradingDaysChecked": [
     "2026-06-29",
     "2026-06-26",
@@ -13,9 +13,24 @@
       "newsCount": 8,
       "stocks": [
         {
+          "symbol": "8358",
+          "name": "金居",
+          "limitUp3d": true
+        },
+        {
           "symbol": "6488",
           "name": "環球晶",
           "limitUp3d": true
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "limitUp3d": false
         },
         {
           "symbol": "2327",
@@ -23,85 +38,16 @@
           "limitUp3d": false
         },
         {
-          "symbol": "6191",
-          "name": "金居",
-          "limitUp3d": false
-        },
-        {
           "symbol": "1808",
           "name": "富喬",
           "limitUp3d": false
         }
       ],
-      "limitUpCount": 1
-    },
-    {
-      "sector": "軍工 / 無人機",
-      "newsCount": 6,
-      "stocks": [
-        {
-          "symbol": "8033",
-          "name": "雷虎",
-          "limitUp3d": true
-        },
-        {
-          "symbol": "5371",
-          "name": "中光電",
-          "limitUp3d": true
-        },
-        {
-          "symbol": "5314",
-          "name": "世紀",
-          "limitUp3d": true
-        },
-        {
-          "symbol": "2634",
-          "name": "漢翔",
-          "limitUp3d": false
-        },
-        {
-          "symbol": "2630",
-          "name": "亞航",
-          "limitUp3d": false
-        },
-        {
-          "symbol": "2481",
-          "name": "強茂",
-          "limitUp3d": false
-        }
-      ],
-      "limitUpCount": 3
+      "limitUpCount": 2
     },
     {
       "sector": "PCB / 載板",
-      "newsCount": 5,
-      "stocks": [
-        {
-          "symbol": "6488",
-          "name": "環球晶",
-          "limitUp3d": true
-        },
-        {
-          "symbol": "5483",
-          "name": "中美晶",
-          "limitUp3d": true
-        },
-        {
-          "symbol": "5434",
-          "name": "崇越",
-          "limitUp3d": true
-        },
-        {
-          "symbol": "1808",
-          "name": "富喬",
-          "limitUp3d": false
-        }
-      ],
-      "limitUpCount": 3
-    },
-    {
-      "sector": "ABF載板",
-      "newsCount": 12,
+      "newsCount": 6,
       "stocks": [
         {
           "symbol": "3037",
@@ -117,6 +63,11 @@
           "symbol": "7795",
           "name": "長廣",
           "limitUp3d": true
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "limitUp3d": false
         }
       ],
       "limitUpCount": 3
@@ -134,6 +85,43 @@
           "symbol": "5483",
           "name": "中美晶",
           "limitUp3d": true
+        },
+        {
+          "symbol": "3016",
+          "name": "嘉晶",
+          "limitUp3d": false
+        }
+      ],
+      "limitUpCount": 2
+    },
+    {
+      "sector": "軍工 / 無人機",
+      "newsCount": 6,
+      "stocks": [
+        {
+          "symbol": "8033",
+          "name": "雷虎",
+          "limitUp3d": true
+        },
+        {
+          "symbol": "5371",
+          "name": "中光電",
+          "limitUp3d": true
+        },
+        {
+          "symbol": "2634",
+          "name": "漢翔",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "2630",
+          "name": "亞航",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "6605",
+          "name": "世紀",
+          "limitUp3d": false
         }
       ],
       "limitUpCount": 2
@@ -153,6 +141,11 @@
           "limitUp3d": true
         },
         {
+          "symbol": "6170",
+          "name": "光鼎",
+          "limitUp3d": false
+        },
+        {
           "symbol": "3481",
           "name": "群創",
           "limitUp3d": false
@@ -162,7 +155,7 @@
     },
     {
       "sector": "AI 伺服器",
-      "newsCount": 7,
+      "newsCount": 8,
       "stocks": [
         {
           "symbol": "3189",
@@ -170,13 +163,18 @@
           "limitUp3d": true
         },
         {
+          "symbol": "5386",
+          "name": "青雲",
+          "limitUp3d": false
+        },
+        {
           "symbol": "2356",
           "name": "英業達",
           "limitUp3d": false
         },
         {
-          "symbol": "5386",
-          "name": "青雲",
+          "symbol": "6168",
+          "name": "是方",
           "limitUp3d": false
         },
         {
@@ -185,7 +183,7 @@
           "limitUp3d": false
         }
       ],
-      "limitUpCount": 0
+      "limitUpCount": 1
     },
     {
       "sector": "散熱",
@@ -233,7 +231,7 @@
     },
     {
       "sector": "光通訊 / CPO",
-      "newsCount": 7,
+      "newsCount": 8,
       "stocks": [
         {
           "symbol": "3363",
@@ -249,11 +247,48 @@
       "limitUpCount": 0
     },
     {
+      "sector": "先進封裝 / 封測",
+      "newsCount": 7,
+      "stocks": [
+        {
+          "symbol": "3587",
+          "name": "家登",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "4540",
+          "name": "科嶠",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "3131",
+          "name": "弘塑",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "2467",
+          "name": "志聖",
+          "limitUp3d": false
+        },
+        {
+          "symbol": "7822",
+          "name": "倍利科",
+          "limitUp3d": false
+        }
+      ],
+      "limitUpCount": 0
+    },
+    {
       "sector": "重電 / 電力",
       "newsCount": 6,
       "stocks": [
         {
-          "symbol": "6728",
+          "symbol": "4556",
           "name": "上洋",
           "limitUp3d": false
         }
@@ -267,38 +302,6 @@
         {
           "symbol": "6289",
           "name": "聯嘉",
-          "limitUp3d": false
-        }
-      ],
-      "limitUpCount": 0
-    },
-    {
-      "sector": "先進封裝 / 封測",
-      "newsCount": 6,
-      "stocks": [
-        {
-          "symbol": "4540",
-          "name": "科嶠",
-          "limitUp3d": false
-        },
-        {
-          "symbol": "3587",
-          "name": "家登",
-          "limitUp3d": false
-        },
-        {
-          "symbol": "2330",
-          "name": "台積電",
-          "limitUp3d": false
-        },
-        {
-          "symbol": "3556",
-          "name": "弘塑",
-          "limitUp3d": false
-        },
-        {
-          "symbol": "2467",
-          "name": "志聖",
           "limitUp3d": false
         }
       ],
@@ -351,7 +354,7 @@
           "limitUp3d": false
         },
         {
-          "symbol": "6275",
+          "symbol": "6108",
           "name": "蜜望實",
           "limitUp3d": false
         }
@@ -361,11 +364,33 @@
     {
       "sector": "綠能 / 儲能",
       "newsCount": 5,
-      "stocks": [],
+      "stocks": [
+        {
+          "symbol": "6943",
+          "name": "台普威",
+          "limitUp3d": false
+        }
+      ],
       "limitUpCount": 0
     }
   ],
   "news": [
+    {
+      "gid": "CBMickFVX3lxTE0wdk5kbjRibmd3a0g2YlZjenlrN2lZR3lyMjM4QnYtLVYwbjZsVG9OM2dDRDNXR1VrMEVEQWRQbXliS05XQ2pPLUIwSzM2WjhnS3F1a3hkTzRsSmdLUzgtRENvMjVSdnhuUktqZU9EbDhfd9IBVkFVX3lxTE4zd0tMMThfMHlmYTU2TkpGUXVQOU9yblBCUDkwZ2dkckttLXFyMkQ1OEZlSmEyMUlFM0dxOUluSnozWkROeXFyLUlGVW5lLTloT1NGOUJB",
+      "title": "高階AI伺服器非法出口案...青雲主管、美超微2業務員 法官裁定收押禁見 - UDN",
+      "url": "https://udn.com/news/story/7321/9598693?from=udn-relatednews_ch2",
+      "source": "UDN",
+      "pubDate": "Tue, 30 Jun 2026 13:55:13 GMT",
+      "sector": "AI 伺服器",
+      "keyword": "AI伺服器",
+      "stocks": [
+        {
+          "symbol": "5386",
+          "name": "青雲",
+          "reason": "涉高階AI伺服器非法出口案遭收押禁見"
+        }
+      ]
+    },
     {
       "gid": "CBMiUEFVX3lxTE8wcGNuQnBJVVdxSmdhMUNYbDVQYWdXVS1ma2tlWHd2YlRGRjhMWEkxWUo0UXpUMHM3cEh5VFBBeWs0cTBqV21pV210ZHV1ZHpY0gFWQVVfeXFMUDJTY2NQQ3JSd2s3ZllPLUZETzIxekgtQlo3Tkc4bmlaLTRNMDN0MFBDZHc4eVNuNHI5RlFiUU1zQ0tpQnBnZUR0V3U4bk9fMTcyeFN2SFE",
       "title": "上洋攜手三菱重工搶攻分散式能源 助用電大戶打造綠能微電網 - UDN",
@@ -376,7 +401,7 @@
       "keyword": "電網",
       "stocks": [
         {
-          "symbol": "6728",
+          "symbol": "4556",
           "name": "上洋",
           "reason": "攜手三菱重工搶攻分散式能源，助用電大戶打造綠能微電網"
         }
@@ -424,11 +449,16 @@
         {
           "symbol": "2406",
           "name": "國碩",
-          "reason": "玻璃基板題材，股價連飆漲停",
+          "reason": "玻璃基板題材帶動股價飆漲",
           "limitUp3d": true,
           "limitUpDates": [
             "2026-06-29"
           ]
+        },
+        {
+          "symbol": "6170",
+          "name": "光鼎",
+          "reason": "玻璃基板題材帶動股價飆漲"
         }
       ]
     },
@@ -455,6 +485,16 @@
       ]
     },
     {
+      "gid": "CBMijgNBVV95cUxPYXdObjlwWkZXc0l4U3VZVU9NRXg3UjBPVFh5MURkLS1EU1V1VERDN0N4VXhIbV90cFB5enU2ZURhcHltMjdKTmt3WkVtbTRZU3F3ek5sY3lSRTFFclBKZWxKR2lBdy11ZEJxaUxXYktrQVM2cDlsNjU3RzNCMUtzczd3MDJHX202UGlKei1UdXdDZzIzS0c0OXRTYjYxWGhWMF9aOEJRTUFYaXZnUVZzODUzSjN6b3dtTWJCVkpwSFVueWYweFFIcmhyZV94M0szUVZqbU8xeHUwQXIwLTFKdWc1X0pXZ1VSS1FRU1hSenNraDgzeGhzZ2ZhZld2X2dTSmxEXzN0QXQxQUdzMFcwLTVOU05RMHppVk9DRTVvdjFRVHE4WTFjaDdpaDBPRXY5WjRjR3g2eExDRUtXclRMN1pZMC1hRGdiSHZNUkhDYUdvOVZOVEhnVEszeXE1QTZGSi1hdXVjUWQtcjNoVGkzWXNnbjJsWWxVamRrUjVzQTVmLVRTUXFfbXpoYkpoQQ",
+      "title": "CPO雜音引發光學股急跌，市場其實在重新定價什麼？ - CMoney",
+      "url": "https://readmo.cmoney.tw/article/871b194b-cabd-43e3-9b48-386c549bf3ab?title=CPO%E9%9B%9C%E9%9F%B3%E5%BC%95%E7%99%BC%E5%85%89%E5%AD%B8%E8%82%A1%E6%80%A5%E8%B7%8C%EF%BC%8C%E5%B8%82%E5%A0%B4%E5%85%B6%E5%AF%A6%E5%9C%A8%E9%87%8D%E6%96%B0%E5%AE%9A%E5%83%B9%E4%BB%80%E9%BA%BC%EF%BC%9F",
+      "source": "CMoney",
+      "pubDate": "Tue, 30 Jun 2026 12:35:46 GMT",
+      "sector": "光通訊 / CPO",
+      "keyword": "CPO",
+      "stocks": []
+    },
+    {
       "gid": "CBMiT0FVX3lxTE9BSW5oZVFEbFpRaFlJdTRIMVZsOF9YN0VOTHRPb1dsbHBmVU1Yb1JkRkYtaXFhNzJSd2dzbndJbXFUNlV5NmhnQWJPcUdsMHM",
       "title": "藍白各提無人機條例 綠營：樂見討論但憂排擠效應 - 公視新聞網PNN",
       "url": "https://news.pts.org.tw/article/815383",
@@ -463,22 +503,6 @@
       "sector": "軍工 / 無人機",
       "keyword": "無人機",
       "stocks": []
-    },
-    {
-      "gid": "CBMiXkFVX3lxTE02WmZRSDhtdkxIQmQ2bkhFWWJ6OERlS0U4NUc5SHFkWnNJc3ZBeVFTMHRpZmxra2hRR3JFOHR2RElUWDBLUjdzWWVkMU44TnVQV3dGVGFNYnptcmNMNXc",
-      "title": "科嶠聯手全球自動化設備大廠跨足先進封裝供應鏈| 產經 - 中央社 CNA",
-      "url": "https://www.cna.com.tw/news/afe/202606300329.aspx",
-      "source": "中央社 CNA",
-      "pubDate": "Tue, 30 Jun 2026 12:21:00 GMT",
-      "sector": "先進封裝 / 封測",
-      "keyword": "先進封裝",
-      "stocks": [
-        {
-          "symbol": "4540",
-          "name": "科嶠",
-          "reason": "聯手全球自動化設備大廠，跨足先進封裝供應鏈"
-        }
-      ]
     },
     {
       "gid": "CBMiVkFVX3lxTE5vSjJnZVpUVWpYNFNYc2NxcDd5WlhmZ3hrTXluUVNTcUNGVFJuTnp6aGNlX21wZi1WdTE0WGtVLTJHbEE2dlE0ckVOcVBPZnBsWFNyTDFn0gFWQVVfeXFMTm9KMmdlWlRValg0U1hzY3FwN3laWGZneGtNeW5RU1NxQ0ZUUm5OenpoY2VfbXBmLVZ1MTRYa1UtMkdsQTZ2UTRyRU5xUE9mcGxYU3JMMWc",
@@ -522,7 +546,7 @@
         {
           "symbol": "3587",
           "name": "家登",
-          "reason": "先進封裝「圓轉方」勢在必行，台供應鏈迎新機"
+          "reason": "先進封裝「圓轉方」勢在必行，供應鏈迎新機"
         }
       ]
     },
@@ -538,7 +562,7 @@
         {
           "symbol": "3363",
           "name": "上詮",
-          "reason": "牽手台積電CPO，光通訊價值鏈改寫"
+          "reason": "牽手台積電CPO，光通訊價值鏈有望改寫"
         }
       ]
     },
@@ -599,7 +623,7 @@
           "reason": "涉AI伺服器出口案遭搜索"
         },
         {
-          "symbol": "6117",
+          "symbol": "6168",
           "name": "是方",
           "reason": "涉AI伺服器出口案遭搜索，澄清僅提供機房服務"
         }
@@ -618,6 +642,22 @@
           "symbol": "2330",
           "name": "台積電",
           "reason": "先進製程與CoWoS產能滿載，長線挑戰3,500元"
+        }
+      ]
+    },
+    {
+      "gid": "CBMiXkFVX3lxTE02WmZRSDhtdkxIQmQ2bkhFWWJ6OERlS0U4NUc5SHFkWnNJc3ZBeVFTMHRpZmxra2hRR3JFOHR2RElUWDBLUjdzWWVkMU44TnVQV3dGVGFNYnptcmNMNXc",
+      "title": "科嶠聯手全球自動化設備大廠跨足先進封裝供應鏈| 產經 - 中央社 CNA",
+      "url": "https://www.cna.com.tw/news/afe/202606300329.aspx",
+      "source": "中央社 CNA",
+      "pubDate": "Tue, 30 Jun 2026 10:49:00 GMT",
+      "sector": "先進封裝 / 封測",
+      "keyword": "先進封裝",
+      "stocks": [
+        {
+          "symbol": "4540",
+          "name": "科嶠",
+          "reason": "聯手全球自動化設備大廠，跨足先進封裝供應鏈"
         }
       ]
     },
@@ -684,7 +724,7 @@
         {
           "symbol": "5386",
           "name": "青雲",
-          "reason": "跳空跌停"
+          "reason": "跳空跌停，原因待查"
         }
       ]
     },
@@ -718,14 +758,14 @@
       "keyword": "先進封裝",
       "stocks": [
         {
-          "symbol": "3556",
+          "symbol": "3131",
           "name": "弘塑",
-          "reason": "先進封裝三國殺受惠股"
+          "reason": "先進封裝三國殺開打，受惠股"
         },
         {
           "symbol": "2467",
           "name": "志聖",
-          "reason": "先進封裝三國殺受惠股"
+          "reason": "先進封裝三國殺開打，受惠股"
         }
       ]
     },
@@ -783,7 +823,7 @@
         {
           "symbol": "8033",
           "name": "雷虎",
-          "reason": "挾「無人機國家隊」連2根漲停，獲利單月虧損",
+          "reason": "挾「無人機國家隊」連2根漲停",
           "limitUp3d": true,
           "limitUpDates": [
             "2026-06-29"
@@ -808,47 +848,6 @@
       ]
     },
     {
-      "gid": "CBMi9wRBVV95cUxPQlpfemc4T2NaVVhnd3BycmFpb1BRWXZnYW9ZalVZTXRTR3JaM0FrSmMzdG5EQ1pQREZkSG9tSEtXeVpDODA2UUJFc2hEMHZ6M0M5bkh5U3hhQnkwWENoQm9Ydmt4WFc0eVE3MmpVRDVVSnI5RUhRVzg3TkhTS01UQjZXSXh2WjRsamFPUElSc2MxaUN0bXRRcURRVk9Wc3dNdmhiMTN2RC1KWWY5Q191SkFHY3hmdFRwd3dsenRNSGRHYXptaVo5THpKa09TallRNjhwVlltemc2UG5qdFpRLXlhdU1ZNXZ3eGhST3hybWtWR0JzZ3hTclZLU2EtcWZYaFBwYm45NjktSXQyNEhHUkpYWGdwcTdKM2JZaHdLa3NEbk55cjZMQkJzTjJBRVg2cHpWenhfLVdkX3g1dzZiWTR1VHpOaXc0c2N4XzNkQ0dTazFkOENybjNrRGxNdERzRUwwbGxIdU5rV0dYVzZ5THdyMGcxb3RUR0plWl9lUS1kRjhTYmRRSmNsSElGMFVmaUhQYUhCZDJJc0pFLUg4SHF0S1dfcGJuWF95Zi1FZmQ3bnNYNWdyLVZ4b3dLZEVVQklCWXlnRUtzd3JwT2poZmFGYVJWTzRVZTUtaXpscUVSbUNXaUVfQjJTSEdCV0lNalhDcHBoeEhnLWVwdDVsQUVTVHRiNnFrNWVvREZtNFFMZW9yWFlNaUhIbS1hOFlIRGM5OHdnbFR1S2s0TWRqV0o0UVN0V3VtRFlqOW1EMXB0dmZidHBtcGNmdXM3OWZpamkyWGs1TTlDMVI1aEVGY0dlcWdLcEs2blhCV0JzM2lyYWQzdWl3",
-      "title": "無人機條例朝野版本齊發，預算上看2,400億元，台股軍工族群雷虎、中光電、漢翔、亞航等全面引爆｜股市話題 - sinotrade.com.tw",
-      "url": "https://www.sinotrade.com.tw/richclub/hotstock/%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%A2%9D%E4%BE%8B%E6%9C%9D%E9%87%8E%E7%89%88%E6%9C%AC%E9%BD%8A%E7%99%BC-%E9%A0%90%E7%AE%97%E4%B8%8A%E7%9C%8B2-400%E5%84%84%E5%85%83-%E5%8F%B0%E8%82%A1%E8%BB%8D%E5%B7%A5%E6%97%8F%E7%BE%A4%E9%9B%B7%E8%99%8E-%E4%B8%AD%E5%85%89%E9%9B%BB-%E6%BC%A2%E7%BF%94-%E4%BA%9E%E8%88%AA%E7%AD%89%E5%85%A8%E9%9D%A2%E5%BC%95%E7%88%86-%E8%82%A1%E5%B8%82%E8%A9%B1%E9%A1%8C-6a43272f199469d0fd1c410c",
-      "source": "sinotrade.com.tw",
-      "pubDate": "Tue, 30 Jun 2026 09:07:21 GMT",
-      "sector": "軍工 / 無人機",
-      "keyword": "無人機",
-      "stocks": [
-        {
-          "symbol": "8033",
-          "name": "雷虎",
-          "reason": "無人機條例推升，軍工族群引爆",
-          "limitUp3d": true,
-          "limitUpDates": [
-            "2026-06-29"
-          ]
-        },
-        {
-          "symbol": "5371",
-          "name": "中光電",
-          "reason": "無人機條例推升，軍工族群引爆",
-          "limitUp3d": true,
-          "limitUpDates": [
-            "2026-06-29",
-            "2026-06-26",
-            "2026-06-25"
-          ]
-        },
-        {
-          "symbol": "2634",
-          "name": "漢翔",
-          "reason": "無人機條例推升，軍工族群引爆"
-        },
-        {
-          "symbol": "2630",
-          "name": "亞航",
-          "reason": "無人機條例推升，軍工族群引爆"
-        }
-      ]
-    },
-    {
       "gid": "CBMiVkFVX3lxTE8zQWJkbi0ySWwzZmMzMEZjUGM5aWd5U1JyVnN2WWlncHdmdDZkYkxvWURuX2duMzVkd05aYWpFc0FseV9ncGJJdVJqRTNESGszV1J4ZElB0gFWQVVfeXFMTzNBYmRuLTJJbDNmYzMwRmNQYzlpZ3lTUnJWc3ZZaWdwd2Z0NmRiTG9ZRG5fZ24zNWR3TlphakVzQWx5X2dwYkl1UmpFM0RIazNXUnhkSUE",
       "title": "想跳槽嗎？ 這間上櫃IC設計股價、非主管員工均薪561.7萬都奪冠 - UDN",
       "url": "https://udn.com/news/amp/story/7269/9598130",
@@ -867,6 +866,22 @@
       "sector": "矽晶圓",
       "keyword": "矽晶圓",
       "stocks": [
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "reason": "矽晶圓族群全面亮燈漲停",
+          "limitUp3d": true,
+          "limitUpDates": [
+            "2026-06-29",
+            "2026-06-26",
+            "2026-06-25"
+          ]
+        },
+        {
+          "symbol": "3016",
+          "name": "嘉晶",
+          "reason": "矽晶圓族群全面亮燈漲停"
+        },
         {
           "symbol": "5483",
           "name": "中美晶",
@@ -974,7 +989,7 @@
           "reason": "被動元件大噴發"
         },
         {
-          "symbol": "6275",
+          "symbol": "6108",
           "name": "蜜望實",
           "reason": "被動元件大噴發"
         }
@@ -999,6 +1014,22 @@
       "sector": "AI 伺服器",
       "keyword": "AI伺服器",
       "stocks": []
+    },
+    {
+      "gid": "CBMigAFBVV95cUxPZzFTbWpJMWFBSmtWaVQ5N0RpLVVJMzd4dnpSeUZHVDlTZGlWUjUwOXM4S3dJYjh6alBRU3pDcS0tbDlVeUtWa3hQTWN4OG14OXE1V1ZoRVZScWNFdEs1QU5leXFpUnFIWWtWRDA1Uy0weUtxaFZQaFlqZFNqTGZ2cQ",
+      "title": "南電(8046)領漲ABF載板，AI需求撐住後，關鍵看什麼能續航？-葉冠妤 - CMoney投資網誌",
+      "url": "https://cmnews.com.tw/article/yeguanyu-e22d1794-7450-11f1-9e5e-e202aef67185",
+      "source": "CMoney投資網誌",
+      "pubDate": "Tue, 30 Jun 2026 06:56:56 GMT",
+      "sector": "PCB / 載板",
+      "keyword": "ABF載板",
+      "stocks": [
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "reason": "領漲ABF載板，AI需求支撐"
+        }
+      ]
     },
     {
       "gid": "CBMi6gJBVV95cUxNalRGRFlRNGtYbG5IRXo2WWxZU1h0UzhrS1FwT3I5V3JsWVpQS0JNdFdaMlIyQ0kzWndxUHNIXzN6djd4amR0eHFrb09naTlzN1JVN3pBa0g2MnNIZG40cU9oSmU4eUR0TFBMbVg3ZGRqWUY5YXlzbUM5LXR0QVZCVW9mWDJjaFN5c29DNHRuaGtERUtGSTJDOF9GVl9KLVJYczB2ZUQ4UXp2SmxWVlJTR3FnbVczbjEyby14cUIycm1kcWcxMTNFdzAxdzdrbDIwSkI3M05PZkRWSk1xWHc0djBFV2dCZF9mSnFUSnNWaGZacDhwWjJMQkJla1p6NFRBQjRqSnVSNEdMS3JiLTRUWWFnSUxXcGxlY3RGNjl6czNsMHc2S013Z2FOMXhtZ2ZNSWhmOUt2Z3VVUWY2OVMybjZOSzRxZ3hnOXo1MFRfcUJsQ3JfYUhYcDEydTEwLVk4ZEhiZXEteTJvUQ",
@@ -1051,6 +1082,22 @@
       "stocks": []
     },
     {
+      "gid": "CBMib0FVX3lxTE54SmRJSzViaFZ3d05xYkFPNTMyU0wxZ0Y2S2FBQXMzaFBpN3pGNVp3NUYzamh0Sm93enE5QVdXTHc3VzN2S0RyMGtoQnE4b19QVU9PeFFzaEZ0NDVPOUhJNjJvMmd3anNmVS1COUhOUQ",
+      "title": "CoWoS產能大爆發！AI智慧檢測新星倍利科(7822) 迎來黃金成長期 - 理財周刊",
+      "url": "https://www.moneyweekly.com.tw/ArticleData/Info/Article/234984",
+      "source": "理財周刊",
+      "pubDate": "Tue, 30 Jun 2026 05:56:26 GMT",
+      "sector": "先進封裝 / 封測",
+      "keyword": "CoWoS",
+      "stocks": [
+        {
+          "symbol": "7822",
+          "name": "倍利科",
+          "reason": "AI智慧檢測新星，迎來黃金成長期"
+        }
+      ]
+    },
+    {
       "gid": "CBMiakFVX3lxTE03a0R5X0Z0QkRzeGlEbXFoOWF2LXVhNjBoUWo4ZVpyRU9OZ1ZzcUdBNEdnWnhXQ1NEblVjamsteXNPWEM3SGxOWDZjWDRUbGxSV21ZTjdHdE5LcWtwTVM5RkszQzBnQUtHLWc",
       "title": "美超微踩紅線！AI暴漲神股出事了「全因高層幹了這件事...」若遭斷貨散熱、板卡台廠恐全遭殃- 上市櫃 - 旺得富理財網",
       "url": "https://wantrich.chinatimes.com/news/20260630900387-420101",
@@ -1069,7 +1116,18 @@
       "sector": "📌 熱門族群焦點",
       "keyword": "熱門族群",
       "isRoundup": true,
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "reason": "輝達GTC新AI架構帶動散熱需求"
+        },
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "reason": "輝達GTC新AI架構帶動散熱需求"
+        }
+      ]
     },
     {
       "gid": "CBMijgFBVV95cUxNek5tSWlLSjdGa29qZFJlbVhFV21HdkJFUkdnQ29qbFN0bmJON3NnUFpmTkhGbEotVTV1R2o4UGRIUE1GMlRBMk4zUzdxd3YzbGU4c0xlX1psNG9yUnh6RE1LbEt1RzlraFNwdW9TWTFDNjRTMTIxUWlTc1MtbGtobnBwOVFFQ041MzJrVUxn",
@@ -1083,7 +1141,7 @@
         {
           "symbol": "8040",
           "name": "九暘",
-          "reason": "亮燈漲停，搭IC設計族群反攻",
+          "reason": "搭IC設計族群反攻，技術面由弱翻多",
           "limitUp3d": true,
           "limitUpDates": [
             "2026-06-29",
@@ -1121,7 +1179,19 @@
       "pubDate": "Tue, 30 Jun 2026 04:45:11 GMT",
       "sector": "矽晶圓",
       "keyword": "矽晶圓",
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "5483",
+          "name": "中美晶",
+          "reason": "矽晶圓族群集體亮燈",
+          "limitUp3d": true,
+          "limitUpDates": [
+            "2026-06-29",
+            "2026-06-26",
+            "2026-06-25"
+          ]
+        }
+      ]
     },
     {
       "gid": "CBMijgFBVV95cUxNQ3pHSjVrZHVBTmFGdnNEaDFoR2JiZFZ4VkdBVjk4RXNtaDdSY2ZFMFBVWE5QUFE2QTFYTnNlM2V5WmtRa1Z0SnRKbjJOQ3hzbWljVFdFZUNOSVptdFBhd0xzNTBja2lmLW1ReVBVTXkzU2ZwcHZfYkVaS3dva0preVpiODY2S1ZLVXBCZlhn",
@@ -1135,7 +1205,7 @@
         {
           "symbol": "6488",
           "name": "環球晶",
-          "reason": "亮燈漲停站穩千金，矽晶圓復甦推動強彈",
+          "reason": "矽晶圓復甦，主力低檔吸納推動強彈",
           "limitUp3d": true,
           "limitUpDates": [
             "2026-06-29",
@@ -1210,7 +1280,7 @@
         {
           "symbol": "2327",
           "name": "國巨",
-          "reason": "被動元件族群領漲"
+          "reason": "被動元件族群強勢上漲"
         }
       ]
     },
@@ -1226,7 +1296,7 @@
         {
           "symbol": "3037",
           "name": "欣興",
-          "reason": "上修資本支出，衝刺ABF載板產能",
+          "reason": "上修資本支出，衝刺ABF載板/台泰擴產",
           "limitUp3d": true,
           "limitUpDates": [
             "2026-06-25"
@@ -1242,7 +1312,13 @@
       "pubDate": "Tue, 30 Jun 2026 04:00:00 GMT",
       "sector": "綠能 / 儲能",
       "keyword": "儲能",
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "6943",
+          "name": "台普威",
+          "reason": "靠一條龍服務搶占儲能兆元市場"
+        }
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxNZExfNU9ndUJUTnRIYUJuSXRyNXNqa25wOWZUR0ZFSlhCbTAtUzNfblNybWpiWXdBTTlzMXA0czc3SFU4X0l6X0x1bDBuOW9HTjVwNkhYT3k2MXBNWXlLTjdzaVBkMEI1TV8tTlEteFNEOEpaV01ZYXVoaGRnQ0dhaV8teHJyaGtJ",
@@ -1255,14 +1331,20 @@
       "isRoundup": true,
       "stocks": [
         {
-          "symbol": "6191",
+          "symbol": "8358",
           "name": "金居",
-          "reason": "AI帶動銅箔需求走強"
+          "reason": "AI帶動PCB上游銅箔需求走強",
+          "limitUp3d": true,
+          "limitUpDates": [
+            "2026-06-29",
+            "2026-06-26",
+            "2026-06-25"
+          ]
         },
         {
           "symbol": "1808",
           "name": "富喬",
-          "reason": "AI帶動玻纖布需求走強"
+          "reason": "AI帶動PCB上游玻纖布需求走強"
         }
       ]
     },
@@ -1278,7 +1360,7 @@
         {
           "symbol": "7795",
           "name": "長廣",
-          "reason": "亮燈漲停，ABF載板裝置訂單動能延續",
+          "reason": "ABF載板裝置訂單動能延續",
           "limitUp3d": true,
           "limitUpDates": [
             "2026-06-29",
@@ -1309,12 +1391,12 @@
         {
           "symbol": "6271",
           "name": "同欣電",
-          "reason": "陶瓷基板族群噴出，攻漲停"
+          "reason": "陶瓷基板族群受AI散熱需求噴出"
         },
         {
           "symbol": "3551",
           "name": "榮星",
-          "reason": "陶瓷基板族群噴出，攻漲停"
+          "reason": "陶瓷基板族群受AI散熱需求噴出"
         }
       ]
     },
@@ -1330,7 +1412,7 @@
         {
           "symbol": "2406",
           "name": "國碩",
-          "reason": "搶攻AI散熱，股價大漲",
+          "reason": "搶攻AI散熱市場，股價大漲",
           "limitUp3d": true,
           "limitUpDates": [
             "2026-06-29"
@@ -1350,7 +1432,7 @@
         {
           "symbol": "3189",
           "name": "景碩",
-          "reason": "亮燈漲停，ABF載板AI伺服器需求支撐多頭",
+          "reason": "ABF載板AI伺服器需求及月營收創新高",
           "limitUp3d": true,
           "limitUpDates": [
             "2026-06-25"
@@ -1387,7 +1469,7 @@
         {
           "symbol": "6488",
           "name": "環球晶",
-          "reason": "矽晶圓需求回溫，股價重返千金",
+          "reason": "矽晶圓族群火紅，股價重返千金",
           "limitUp3d": true,
           "limitUpDates": [
             "2026-06-29",
@@ -1424,32 +1506,38 @@
       "url": "https://www.sinotrade.com.tw/richclub/hotstock/%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%A2%9D%E4%BE%8B%E6%9C%9D%E9%87%8E%E7%89%88%E6%9C%AC%E9%BD%8A%E7%99%BC-%E9%A0%90%E7%AE%97%E4%B8%8A%E7%9C%8B2-400%E5%84%84%E5%85%83-%E5%8F%B0%E8%82%A1%E8%BB%8D%E5%B7%A5%E6%97%8F%E7%BE%A4%E9%9B%B7%E8%99%8E-%E4%B8%AD%E5%85%89%E9%9B%BB-%E6%BC%A2%E7%BF%94-%E4%BA%9E%E8%88%AA%E7%AD%89%E5%85%A8%E9%9D%A2%E5%BC%95%E7%88%86-%E8%82%A1%E5%B8%82%E8%A9%B1%E9%A1%8C-6a43272f199469d0fd1c410c",
       "source": "sinotrade.com.tw",
       "pubDate": "Tue, 30 Jun 2026 03:07:21 GMT",
-      "sector": "無人機/軍工",
+      "sector": "軍工 / 無人機",
       "keyword": "無人機",
       "stocks": [
         {
           "symbol": "8033",
           "name": "雷虎",
-          "reason": "無人機條例推升軍工族群",
+          "reason": "無人機條例朝野版本齊發，軍工族群引爆",
           "limitUp3d": true,
           "limitUpDates": [
             "2026-06-29"
           ]
         },
         {
-          "symbol": "2383",
+          "symbol": "5371",
           "name": "中光電",
-          "reason": "無人機條例推升軍工族群"
+          "reason": "無人機條例朝野版本齊發，軍工族群引爆",
+          "limitUp3d": true,
+          "limitUpDates": [
+            "2026-06-29",
+            "2026-06-26",
+            "2026-06-25"
+          ]
         },
         {
           "symbol": "2634",
           "name": "漢翔",
-          "reason": "無人機條例推升軍工族群"
+          "reason": "無人機條例朝野版本齊發，軍工族群引爆"
         },
         {
           "symbol": "2630",
           "name": "亞航",
-          "reason": "無人機條例推升軍工族群"
+          "reason": "無人機條例朝野版本齊發，軍工族群引爆"
         }
       ]
     },
@@ -1485,7 +1573,7 @@
         {
           "symbol": "5371",
           "name": "中光電",
-          "reason": "無人機大軍起飛，股價齊噴",
+          "reason": "國家級助攻，無人機大軍起飛",
           "limitUp3d": true,
           "limitUpDates": [
             "2026-06-29",
@@ -1494,20 +1582,14 @@
           ]
         },
         {
-          "symbol": "5314",
+          "symbol": "6605",
           "name": "世紀",
-          "reason": "無人機大軍起飛，股價齊噴",
-          "limitUp3d": true,
-          "limitUpDates": [
-            "2026-06-29",
-            "2026-06-26",
-            "2026-06-25"
-          ]
+          "reason": "國家級助攻，無人機大軍起飛"
         },
         {
           "symbol": "2634",
           "name": "漢翔",
-          "reason": "無人機大軍起飛，股價齊噴"
+          "reason": "國家級助攻，無人機大軍起飛"
         }
       ]
     },
@@ -1523,7 +1605,7 @@
         {
           "symbol": "6791",
           "name": "虎門科技",
-          "reason": "工業4.0接單已滿，開始布局CPO商機"
+          "reason": "開始布局CPO商機"
         }
       ]
     },
@@ -1633,7 +1715,7 @@
         {
           "symbol": "3481",
           "name": "群創",
-          "reason": "搶進台積電CoPoS供應鏈，玻璃基板技術布局曝光"
+          "reason": "搶進台積電CoPoS供應鏈，布局玻璃基板"
         }
       ]
     },
