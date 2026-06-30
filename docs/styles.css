@@ -106,20 +106,26 @@ main { max-width: 920px; margin: 0 auto; padding: 14px 16px; }
 .chev { grid-area: chev; width: 12px; height: 12px; border-right: 2px solid var(--text-dim); border-bottom: 2px solid var(--text-dim); transform: rotate(-45deg); transition: transform .15s; }
 .sector[open] > summary .chev { transform: rotate(45deg); }
 .sector-name { grid-area: name; font-size: 16px; font-weight: 700; }
-.sector-badges { grid-area: badges; display: flex; gap: 6px; align-items: center; }
+.sector-badges { grid-area: badges; display: flex; gap: 8px; align-items: center; white-space: nowrap; }
 .b-lu { color: var(--up); font-weight: 700; font-size: 12.5px; }
 .b-news { color: var(--text-dim); font-size: 12px; }
+
+.body { padding: 4px 14px 12px; }
+.block-title { color: var(--text-dim); font-size: 12px; margin: 10px 0 6px; }
+.pct { color: var(--up); font-weight: 700; font-size: 12px; }
+.pill-n { color: var(--text-dim); font-size: 11px; }
 
 /* 收合時也可見的強勢股預覽 */
 .preview { grid-area: preview; display: flex; flex-wrap: wrap; gap: 5px; align-items: center; margin-top: 2px; }
 .preview .more { color: var(--text-dim); font-size: 12px; }
 
-.news-list { padding: 4px 14px 8px; }
-.news { padding: 11px 0; border-top: 1px solid var(--border); }
+.news-list { }
+.news { padding: 7px 0; border-top: 1px solid var(--border); font-size: 14px; }
 .news:first-child { border-top: none; }
-.news-title { font-size: 14.5px; font-weight: 600; }
-.news-sub { color: var(--text-dim); font-size: 11.5px; margin: 3px 0 8px; }
+.news a { font-weight: 600; }
+.news-sub { color: var(--text-dim); font-size: 11.5px; margin-left: 4px; }
 
+.stocks { display: flex; flex-wrap: wrap; gap: 6px; }
 .stocks, .preview { line-height: 2; }
 .chip {
   display: inline-flex;

@@ -1,20 +1,19 @@
-// 熱門族群新聞彙整 —— 每班（台北 11/12/13/14 點）執行一次。
+// 今日漲停看板 + 熱門族群新聞 —— 每班（台北 11/12/13/14 點）執行一次。
 //
-// 流程：
-//  1) 用 Gemini（grounded）判定「今日台股強勢/熱門族群」+ 搜尋關鍵字（失敗則用內建後備清單）。
-//  2) 對每個關鍵字打 Google News RSS，取真實新聞（標題/連結/來源/時間）；只留「標題含關鍵字」者。
-//  3) 解析 Google News 轉址 → 真實文章 URL；跨族群以最終 URL 去重。
-//  4) 用 Gemini（無 grounding）逐則抽出提到的個股（代碼+名稱）與被提及原因。
-//  5) 打 TWSE/TPEx OpenAPI 取近 3 個交易日全市場資料 → 標記個股「近 3 日漲停」。
-//  6) merge 進當日 docs/news.json（以 URL 去重、累積整天輪班）；跨日則封存舊檔。
+// 核心＝「今日漲停股，依族群分組」：
+//  1) 取今日全市場漲停股（盤中用 TWSE MIS 即時、盤後用 dated）。
+//  2) 用 Gemini 把每檔漲停股分到族群（被動元件/AI伺服器/散熱…）+ 一句話原因；不確定者用官方產業別。
+//  3) 依「漲停家數」排出強勢族群。
+//  4) 為有漲停的族群＋「熱門族群焦點」抓 Google News（真實文章 URL）當佐證新聞。
+//  5) 輸出 docs/news.json：sectors[] = { 族群, 漲停股清單, 相關新聞 }；新聞跨班累積、跨日封存。
 //
-// 韌性：Gemini / RSS 任一步失敗時，盡量保留既有 news.json，不覆蓋成空、不讓整個 job fail。
+// 韌性：任一步失敗時盡量保留既有 news.json，不覆蓋成空、不讓整個 job fail。
 
 import { promises as fs } from "node:fs";
 import path from "node:path";
 import {
   ROOT, sleep, readKey, getText, callGemini, candidateText, parseJsonObjects,
-  isCommonStock, getRecentLimitUps,
+  getTodayLimitUps, getStockUniverse,
 } from "./lib/core.mjs";
 
 const DOCS_DIR = path.join(ROOT, "docs");
@@ -69,11 +68,12 @@ const CANONICAL_SECTORS = [
   { sector: "半導體 / 晶圓代工", keywords: ["晶圓代工", "半導體"] },
 ];
 
-/** 把一則新聞標題歸到第一個命中的 canonical 族群；都不中回 null。 */
-function classifyByTitle(title) {
-  const t = title || "";
-  const hit = CANONICAL_SECTORS.find((d) => d.keywords.some((k) => t.includes(k)));
-  return hit ? hit.sector : null;
+// 官方產業別 → canonical 族群名（讓「Gemini 分到 canonical」與「退回官方產業」不會分成兩組）。
+const INDUSTRY_TO_CANON = {
+  "半導體": "半導體 / 晶圓代工",
+};
+function normalizeSectorName(name) {
+  return INDUSTRY_TO_CANON[name] || name;
 }
 
 // ───────────────────────── 2~3) Google News RSS ─────────────────────────
@@ -178,47 +178,46 @@ async function fetchNewsForKeyword(keyword) {
   return items;
 }
 
-// ───────────────────────── 4) Gemini 抽出個股 + 原因 ─────────────────────────
+// ───────────────────────── 漲停股 → 族群分類 + 原因（Gemini） ─────────────────────────
 
-async function extractStocks(news, apiKey) {
-  if (!apiKey || news.length === 0) return new Map();
-  const lines = news
-    .map((n, i) => `${i + 1}. [${n.sector}] ${n.title}（來源：${n.source || "—"}）`)
-    .join("\n");
-  const prompt = `以下是台股新聞標題（編號. [所屬族群] 標題）：
+/**
+ * 把今日漲停股逐檔分到「族群」並給一句話原因。
+ * 族群優先從 CANONICAL_SECTORS 名稱挑（精細、與新聞分組一致）；Gemini 不確定者退回官方產業別。
+ * 回傳 [{ symbol, name, pct, sector, reason }]。
+ */
+async function classifyLimitUps(ups, universe, apiKey) {
+  const fallback = (sym) => normalizeSectorName(universe.get(sym)?.industry || "其他");
+  if (!apiKey || ups.length === 0) {
+    return ups.map((u) => ({ ...u, sector: fallback(u.symbol), reason: "" }));
+  }
+  const names = CANONICAL_SECTORS.map((s) => s.sector).join("、");
+  const lines = ups.map((u) => `${u.symbol} ${u.name}`).join("\n");
+  const prompt = `以下是今天台股「漲停」的個股（代碼 名稱）：
 ${lines}
 
-請逐則判斷：這則新聞提到、且「直接相關」的台股上市櫃個股有哪些？逐檔給代碼（4 位數字）、名稱、以及「為何被提及／利多或利空題材」一句話（25 字內、繁體中文、務實具體）。
-若某則新聞沒有明確點到個股，stocks 給空陣列。代碼務必正確（台股 4 位數字）。
-只輸出 JSON 陣列，每元素對應一則新聞：[{"i":1,"stocks":[{"symbol":"3017","name":"奇鋐","reason":"AI散熱訂單擴張"}]}]，不要任何其他文字或 markdown。`;
+逐檔做兩件事，繁體中文：
+1. sector：從這份族群清單挑「一個」最貼切的：${names}。若都不貼切就回空字串 ""。同族群務必用清單上「完全一致」的字串。
+2. reason：一句話（20 字內）說明今天為何強勢/漲停的可能題材或催化劑（用你的知識，務實具體）。
+只輸出 JSON 陣列：[{"symbol":"2327","sector":"被動元件","reason":"MLCC 漲價、記憶體外溢題材"}]，不要其他文字或 markdown。`;
   const body = {
     contents: [{ parts: [{ text: prompt }] }],
-    generationConfig: {
-      responseMimeType: "application/json",
-      temperature: 0.3,
-      maxOutputTokens: 8192,
-      thinkingConfig: { thinkingBudget: 0 },
-    },
+    generationConfig: { responseMimeType: "application/json", temperature: 0.3, maxOutputTokens: 8192, thinkingConfig: { thinkingBudget: 0 } },
   };
-  const byIndex = new Map();
+  const map = new Map();
   try {
     const data = await callGemini(apiKey, body);
     for (const it of parseJsonObjects(candidateText(data))) {
-      const i = Number(it.i);
-      if (!Number.isInteger(i)) continue;
-      const stocks = (Array.isArray(it.stocks) ? it.stocks : [])
-        .map((s) => ({
-          symbol: String(s.symbol ?? "").trim(),
-          name: String(s.name ?? "").trim(),
-          reason: String(s.reason ?? "").trim(),
-        }))
-        .filter((s) => isCommonStock(s.symbol));
-      byIndex.set(i, stocks);
+      if (it.symbol) map.set(String(it.symbol).trim(), { sector: String(it.sector ?? "").trim(), reason: String(it.reason ?? "").trim() });
     }
   } catch (e) {
-    console.warn(`Gemini 個股抽取失敗：${e.message}（新聞仍會列出，個股留空）`);
+    console.warn(`漲停分類失敗：${e.message}（改用官方產業別分組）`);
   }
-  return byIndex;
+  const canonSet = new Set(CANONICAL_SECTORS.map((s) => s.sector));
+  return ups.map((u) => {
+    const c = map.get(u.symbol);
+    const sector = c && canonSet.has(c.sector) ? c.sector : fallback(u.symbol);
+    return { ...u, sector, reason: c?.reason || "" };
+  });
 }
 
 // ───────────────────────── merge 與輸出 ─────────────────────────
@@ -232,59 +231,58 @@ async function readExisting() {
 }
 
 /**
- * 把（跨班累積、可能仍帶舊標籤的）新聞統一歸到 canonical 族群之下，回傳保留的新聞。
- * roundup 永遠保留並置於 📌 族群焦點；其餘依標題分類，標題不含任何 canonical 關鍵字者捨棄
- * （只會是舊版動態標籤的殘留；本班抓的新聞一定含關鍵字、不受影響）。分組因此永遠穩定一致。
+ * 組出每個族群的卡片：{ sector, limitUpStocks(漲停股，依漲幅排序), news(相關新聞), 計數 }。
+ * 排序：📌 族群焦點置頂 → 漲停家數多者優先 → 新聞多者優先。
  */
-function bucketIntoCanonical(news) {
-  const kept = [];
-  for (const n of news) {
-    if (n.isRoundup || n.sector === ROUNDUP_SECTOR) {
-      n.sector = ROUNDUP_SECTOR;
-      kept.push(n);
-      continue;
-    }
-    const c = classifyByTitle(n.title);
-    if (c) {
-      n.sector = c;
-      kept.push(n);
-    }
-  }
-  return kept;
-}
-
-/** 彙整每個族群：新聞數、漲停檔數、去重後的個股清單（漲停在前），供前端做摘要與收合標頭。 */
-function summariseSectors(news) {
+function buildSectors(classified, news) {
   const map = new Map();
-  for (const n of news) {
-    let s = map.get(n.sector);
-    if (!s) s = map.set(n.sector, { sector: n.sector, newsCount: 0, stocks: [], _seen: new Map() }).get(n.sector);
-    s.newsCount += 1;
-    for (const st of n.stocks ?? []) {
-      if (!isCommonStock(st.symbol)) continue;
-      const ex = s._seen.get(st.symbol);
-      if (ex) {
-        if (st.limitUp3d) ex.limitUp3d = true;
-      } else {
-        const o = { symbol: st.symbol, name: st.name, limitUp3d: !!st.limitUp3d };
-        s._seen.set(st.symbol, o);
-        s.stocks.push(o);
-      }
-    }
+  const get = (s) => {
+    if (!map.has(s)) map.set(s, { sector: s, limitUpStocks: [], news: [] });
+    return map.get(s);
+  };
+  for (const c of classified) {
+    get(c.sector).limitUpStocks.push({ symbol: c.symbol, name: c.name, pct: Math.round(c.pct * 10) / 10, reason: c.reason });
   }
-  const arr = [...map.values()].map((s) => {
-    delete s._seen;
-    s.limitUpCount = s.stocks.filter((x) => x.limitUp3d).length;
-    s.stocks.sort((a, b) => (b.limitUp3d ? 1 : 0) - (a.limitUp3d ? 1 : 0));
+  for (const n of news) get(n.sector).news.push(n);
+
+  let arr = [...map.values()].map((s) => {
+    s.limitUpStocks.sort((a, b) => b.pct - a.pct);
+    s.limitUpCount = s.limitUpStocks.length;
+    s.newsCount = s.news.length;
     return s;
   });
-  arr.sort((a, b) => {
+
+  // 把「沒新聞、且漲停 ≤ 2 檔」的零碎產業別併進「其他」，避免一堆 1 檔的長尾分組。
+  const OTHER = "其他";
+  const keep = [];
+  let other = map.get(OTHER) || { sector: OTHER, limitUpStocks: [], news: [] };
+  let folded = false;
+  for (const s of arr) {
+    if (s.sector === OTHER) { folded = true; continue; }
+    if (s.sector !== ROUNDUP_SECTOR && s.newsCount === 0 && s.limitUpCount <= 2) {
+      other.limitUpStocks.push(...s.limitUpStocks);
+      folded = true;
+    } else {
+      keep.push(s);
+    }
+  }
+  if (folded && other.limitUpStocks.length) {
+    other.limitUpStocks.sort((a, b) => b.pct - a.pct);
+    other.limitUpCount = other.limitUpStocks.length;
+    other.newsCount = 0;
+    keep.push(other);
+  }
+
+  keep.sort((a, b) => {
     const ar = a.sector === ROUNDUP_SECTOR ? 1 : 0;
     const br = b.sector === ROUNDUP_SECTOR ? 1 : 0;
-    if (ar !== br) return br - ar; // 族群焦點置頂
-    return b.limitUpCount - a.limitUpCount || b.newsCount - a.newsCount; // 再依強勢度
+    if (ar !== br) return br - ar;
+    const ao = a.sector === OTHER ? 1 : 0;
+    const bo = b.sector === OTHER ? 1 : 0;
+    if (ao !== bo) return ao - bo; // 其他永遠墊底
+    return b.limitUpCount - a.limitUpCount || b.newsCount - a.newsCount;
   });
-  return arr;
+  return keep;
 }
 
 async function main() {
@@ -293,84 +291,55 @@ async function main() {
   await fs.mkdir(DOCS_DIR, { recursive: true });
   await fs.mkdir(HISTORY_DIR, { recursive: true });
 
-  // 1) 固定族群分類
-  const sectors = CANONICAL_SECTORS;
+  // 1) 今日漲停看板（盤中 MIS 即時 / 盤後 dated）
+  const universe = await getStockUniverse();
+  const { date: marketDate, intraday, limitUps } = await getTodayLimitUps();
+  console.log(`市場日 ${marketDate}（${intraday ? "盤中即時" : "盤後"}）：今日漲停 ${limitUps.length} 檔。`);
 
-  // 2~3) 抓新聞（每族群每關鍵字），標題過濾、解析真實 URL、去重（以 Google 文章 id 為穩定鍵）
+  // 2) 把漲停股分到族群 + 一句話原因
+  const classified = await classifyLimitUps(limitUps, universe, apiKey);
+  const hotSectors = new Set(classified.map((c) => c.sector));
+  console.log(`分到 ${hotSectors.size} 個族群：${[...hotSectors].slice(0, 12).join("、")}`);
+
+  // 3) 為「族群焦點」＋「今天有漲停的 canonical 族群」抓佐證新聞（真實文章 URL）
   const seen = new Set();
   const collected = [];
-  const pushItems = async (items, sector, keyword, extra = {}) => {
+  const collect = async (items, sector, { isRoundup = false, max = MAX_PER_SECTOR } = {}) => {
+    let added = 0;
     for (const it of items) {
-      if (collected.length >= MAX_NEWS_TOTAL) return false;
+      if (collected.length >= MAX_NEWS_TOTAL || added >= max) break;
       const gid = googleArticleId(it.link);
       if (seen.has(gid)) continue;
       seen.add(gid);
       const url = await resolveUrl(it.link);
-      collected.push({ gid, title: it.title, url, source: it.source, pubDate: it.pubDate, sector, keyword, ...extra });
+      collected.push({ gid, title: it.title, url, source: it.source, pubDate: it.pubDate, sector, ...(isRoundup ? { isRoundup: true } : {}) });
+      added++;
     }
-    return true;
+    return added;
   };
 
-  // 0) 族群焦點：標題含「熱門族群/盤面焦點/強勢族群」的彙整型新聞，永遠置頂。
   for (const kw of ROUNDUP_KEYWORDS) {
-    const items = await fetchNewsForKeyword(kw);
-    if (!(await pushItems(items, ROUNDUP_SECTOR, kw, { isRoundup: true }))) break;
-    await sleep(300);
+    await collect(await fetchNewsForKeyword(kw), ROUNDUP_SECTOR, { isRoundup: true, max: 8 });
+    await sleep(250);
   }
-
-  // 每個族群最多收 MAX_PER_SECTOR 則，確保各族群都有覆蓋（不被前面的族群塞滿額度）。
-  outer: for (const { sector, keywords } of sectors) {
+  for (const def of CANONICAL_SECTORS) {
+    if (collected.length >= MAX_NEWS_TOTAL) break;
+    if (!hotSectors.has(def.sector)) continue; // 只抓今天有漲停的族群，聚焦今日強勢
     let perSec = 0;
-    for (const kw of keywords) {
-      if (collected.length >= MAX_NEWS_TOTAL) break outer;
-      if (perSec >= MAX_PER_SECTOR) break;
-      const items = await fetchNewsForKeyword(kw);
-      for (const it of items) {
-        if (collected.length >= MAX_NEWS_TOTAL || perSec >= MAX_PER_SECTOR) break;
-        const gid = googleArticleId(it.link);
-        if (seen.has(gid)) continue;
-        seen.add(gid);
-        const url = await resolveUrl(it.link);
-        collected.push({ gid, title: it.title, url, source: it.source, pubDate: it.pubDate, sector, keyword: kw });
-        perSec++;
-      }
-      await sleep(250); // 對 Google 客氣一點
+    for (const kw of def.keywords) {
+      if (perSec >= MAX_PER_SECTOR || collected.length >= MAX_NEWS_TOTAL) break;
+      perSec += await collect(await fetchNewsForKeyword(kw), def.sector, { max: MAX_PER_SECTOR - perSec });
+      await sleep(250);
     }
   }
-  console.log(`本班抓到 ${collected.length} 則新聞（去重後）。`);
+  console.log(`本班抓到 ${collected.length} 則佐證新聞。`);
 
-  // 4) Gemini 抽出個股 + 原因
-  const stocksByIndex = await extractStocks(collected, apiKey);
-  collected.forEach((n, i) => {
-    n.stocks = stocksByIndex.get(i + 1) ?? [];
-  });
-
-  // 5) 近 3 日漲停標記
-  let tradingDays = [];
-  try {
-    const { tradingDays: td, limitUps } = await getRecentLimitUps({ days: 3 });
-    tradingDays = td;
-    console.log(`近 3 交易日 ${td.join("、") || "（無）"}，共 ${limitUps.size} 檔曾漲停。`);
-    for (const n of collected) {
-      for (const s of n.stocks) {
-        const hit = limitUps.get(s.symbol);
-        if (hit) {
-          s.limitUp3d = true;
-          s.limitUpDates = hit.dates;
-        }
-      }
-    }
-  } catch (e) {
-    console.warn(`近 3 日漲停資料抓取失敗：${e.message}（略過漲停標記）`);
-  }
-
-  // 6) merge 進當日 news.json（跨日封存舊檔）
+  // 4) 新聞跨班累積（同日 merge、跨日封存）；只保留屬於今日強勢族群或焦點者
   const existing = await readExisting();
   let priorNews = [];
   if (existing && typeof existing.asOf === "string" && existing.asOf.slice(0, 10) === today) {
     priorNews = Array.isArray(existing.news) ? existing.news : [];
   } else if (existing?.asOf) {
-    // 跨日：把舊的整天結果封存。
     const oldDate = existing.asOf.slice(0, 10);
     try {
       await fs.writeFile(path.join(HISTORY_DIR, `${oldDate}.json`), JSON.stringify(existing, null, 2), "utf8");
@@ -378,36 +347,32 @@ async function main() {
     } catch {}
   }
 
-  const keyOf = (n) => n.gid || n.url;
-  const byKey = new Map();
-  for (const n of priorNews) byKey.set(keyOf(n), n);
-  for (const n of collected) byKey.set(keyOf(n), n); // 新資料覆蓋（含最新漲停標記）
-  const mergedNews = [...byKey.values()];
-
-  // 若本班完全沒抓到、且已有當日資料 → 保留既有，不覆蓋成空。
-  if (collected.length === 0 && priorNews.length > 0) {
-    console.log("本班無新增新聞，保留既有當日資料。");
+  // 完全沒漲停資料且沒新聞、又已有當日資料 → 保留既有，不覆蓋成空。
+  if (limitUps.length === 0 && collected.length === 0 && (existing?.sectors?.length ?? 0) > 0) {
+    console.log("本班無漲停與新聞資料，保留既有當日內容。");
     return;
   }
 
-  // 統一歸到固定 canonical 族群（分組永遠穩定），捨棄不屬任何族群的舊殘留。
-  const canonical = bucketIntoCanonical(mergedNews);
-
-  // 一天內多班累積有上限，避免資料檔無限膨脹（取最新的 N 則）。
-  const trimmed = canonical
+  const allowed = new Set([...hotSectors, ROUNDUP_SECTOR]);
+  const byKey = new Map();
+  for (const n of priorNews) byKey.set(n.gid || n.url, n);
+  for (const n of collected) byKey.set(n.gid || n.url, n);
+  const mergedNews = [...byKey.values()]
+    .filter((n) => allowed.has(n.sector))
     .sort((a, b) => new Date(b.pubDate || 0) - new Date(a.pubDate || 0))
     .slice(0, MAX_DAY_NEWS);
 
   const out = {
     asOf: taipeiISO(),
     generatedAt: new Date().toISOString(),
-    tradingDaysChecked: tradingDays,
+    marketDate,
+    intraday,
+    limitUpTotal: classified.length,
     aiSource: apiKey ? "gemini" : "none",
-    sectors: summariseSectors(trimmed),
-    news: trimmed,
+    sectors: buildSectors(classified, mergedNews),
   };
   await fs.writeFile(OUT_FILE, JSON.stringify(out, null, 2), "utf8");
-  console.log(`已寫入 ${path.relative(ROOT, OUT_FILE)}：${out.news.length} 則新聞、${out.sectors.length} 個族群。`);
+  console.log(`已寫入 ${path.relative(ROOT, OUT_FILE)}：漲停 ${classified.length} 檔 / ${out.sectors.length} 族群 / 新聞 ${mergedNews.length} 則。`);
 }
 
 main().catch((e) => {

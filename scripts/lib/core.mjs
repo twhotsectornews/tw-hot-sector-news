@@ -26,6 +26,29 @@ export function isCommonStock(code) {
   return /^[1-9]\d{3}$/.test(String(code ?? "").trim());
 }
 
+/** 台北今日 YYYY-MM-DD。 */
+export function taipeiToday() {
+  return fmtDate(new Date(Date.now() + 8 * 3600_000));
+}
+
+// MOPS 產業別代碼 → 名稱（漲停個股無 AI 分類時的後備族群）。
+const INDUSTRY_NAMES = {
+  "01": "水泥", "02": "食品", "03": "塑膠", "04": "紡織", "05": "電機機械",
+  "06": "電器電纜", "08": "玻璃陶瓷", "09": "造紙", "10": "鋼鐵", "11": "橡膠",
+  "12": "汽車", "14": "建材營造", "15": "航運", "16": "觀光餐旅", "17": "金融保險",
+  "18": "貿易百貨", "19": "綜合", "20": "其他", "21": "化學", "22": "生技醫療",
+  "23": "油電燃氣", "24": "半導體", "25": "電腦及週邊", "26": "光電", "27": "通信網路",
+  "28": "電子零組件", "29": "電子通路", "30": "資訊服務", "31": "其他電子",
+  "32": "文化創意", "33": "農業科技", "34": "電子商務", "35": "綠能環保",
+  "36": "數位雲端", "37": "運動休閒", "38": "居家生活", "80": "管理股票",
+};
+/** 產業別代碼 → 名稱（找不到原樣回傳）。 */
+export function industryName(code) {
+  const c = String(code ?? "").trim();
+  if (!c) return "其他";
+  return INDUSTRY_NAMES[c.padStart(2, "0")] ?? INDUSTRY_NAMES[c] ?? c;
+}
+
 /** 民國日期 "1150612" → "2026-06-12"。 */
 export function rocToISO(roc) {
   const s = String(roc ?? "").trim();
@@ -227,7 +250,8 @@ export function changePctOf(r) {
  * @returns { tradingDays: string[], limitUps: Map<symbol, { name, dates: string[], maxPct }> }
  */
 export async function getRecentLimitUps({ days = 3, threshold = 9.5, startFrom = null, maxLookback = 12 } = {}) {
-  const start = startFrom ? new Date(startFrom + "T00:00:00Z") : new Date(Date.now() - 86_400_000);
+  // 預設從「台北今日」往回找（含今日；今日盤後 dated 有資料才會被算進）。
+  const start = startFrom ? new Date(startFrom + "T00:00:00Z") : new Date(Date.now() + 8 * 3600_000);
   const tradingDays = [];
   const limitUps = new Map();
 
@@ -259,6 +283,105 @@ export async function getRecentLimitUps({ days = 3, threshold = 9.5, startFrom =
     }
   }
   return { tradingDays, limitUps };
+}
+
+// ───────────────────────── 今日漲停（盤中即時 / 盤後 dated） ─────────────────────────
+
+/** 全市場普通股清單：symbol → { name, market:"tse"|"otc", industry }。 */
+export async function getStockUniverse() {
+  const map = new Map();
+  try {
+    const listed = await getJson("https://openapi.twse.com.tw/v1/opendata/t187ap03_L");
+    for (const r of listed) {
+      const code = String(r["公司代號"] ?? "").trim();
+      if (!isCommonStock(code)) continue;
+      map.set(code, { name: (r["公司簡稱"] || "").trim(), market: "tse", industry: industryName(r["產業別"]) });
+    }
+  } catch (e) {
+    console.warn(`  上市清單抓取失敗：${e.message}`);
+  }
+  try {
+    const otc = await getJson("https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap03_O");
+    for (const r of otc) {
+      const code = String(r.SecuritiesCompanyCode ?? "").trim();
+      if (!isCommonStock(code)) continue;
+      map.set(code, { name: (r.CompanyAbbreviation || r.CompanyName || "").trim(), market: "otc", industry: industryName(r.SecuritiesIndustryCode) });
+    }
+  } catch (e) {
+    console.warn(`  上櫃清單抓取失敗：${e.message}`);
+  }
+  return map;
+}
+
+/** 用 TWSE MIS 即時行情，掃全市場找出「此刻漲停」的個股。回傳 Map symbol → { name, pct }。 */
+export async function fetchLimitUpsMIS(universe) {
+  const channels = [...universe.entries()].map(([code, v]) => `${v.market}_${code}.tw`);
+  const out = new Map();
+  const BATCH = 50;
+  for (let i = 0; i < channels.length; i += BATCH) {
+    const exch = channels.slice(i, i + BATCH).join("|");
+    let data;
+    try {
+      data = await getJson(
+        `https://mis.twse.com.tw/stock/api/getStockInfo.jsp?json=1&delay=0&ex_ch=${exch}&_=${Date.now()}`,
+        { retries: 2, timeoutMs: 15_000 },
+      );
+    } catch {
+      continue;
+    }
+    for (const m of data?.msgArray ?? []) {
+      const z = parseFloat(m.z), u = parseFloat(m.u), y = parseFloat(m.y);
+      if (!Number.isFinite(z) || !Number.isFinite(u)) continue;
+      if (z >= u - 0.001) {
+        const pct = Number.isFinite(y) && y > 0 ? ((z - y) / y) * 100 : 0;
+        out.set(String(m.c).trim(), { name: (m.n || "").trim(), pct });
+      }
+    }
+    await sleep(150);
+  }
+  return out;
+}
+
+/**
+ * 今日漲停清單（盤中也能用）。優先順序：
+ *  1) 今日盤後 dated（收盤後才有）→ 由漲跌幅 ≥ 9.4% 判定。
+ *  2) 盤中 → TWSE MIS 即時掃全市場（漲停價 == 現價）。
+ *  3) 都拿不到 → 退回最近一個完成交易日。
+ * 回傳 { date, intraday, limitUps: [{ symbol, name, pct }] }。
+ */
+export async function getTodayLimitUps() {
+  const today = taipeiToday();
+
+  // 1) 盤後 dated
+  const dated = await fetchAllByDate(today).catch(() => []);
+  if (dated.length) {
+    const ups = [];
+    for (const r of dated) {
+      const pct = changePctOf(r);
+      if (pct >= 9.4) ups.push({ symbol: r.symbol, name: r.name, pct });
+    }
+    if (ups.length) return { date: today, intraday: false, limitUps: ups };
+  }
+
+  // 2) 盤中即時（MIS）
+  const universe = await getStockUniverse();
+  if (universe.size) {
+    const m = await fetchLimitUpsMIS(universe);
+    if (m.size) {
+      const ups = [...m.entries()].map(([symbol, v]) => ({
+        symbol, name: v.name || universe.get(symbol)?.name || symbol, pct: v.pct,
+      }));
+      return { date: today, intraday: true, limitUps: ups };
+    }
+  }
+
+  // 3) 退回最近完成交易日
+  const { tradingDays, limitUps } = await getRecentLimitUps({
+    days: 1, startFrom: fmtDate(new Date(Date.now() + 8 * 3600_000 - 86_400_000)),
+  });
+  const date = tradingDays[0] || today;
+  const ups = [...limitUps.entries()].map(([symbol, v]) => ({ symbol, name: v.name, pct: v.maxPct }));
+  return { date, intraday: false, limitUps: ups };
 }
 
 // ───────────────────────── Gemini ─────────────────────────
