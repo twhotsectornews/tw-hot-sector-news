@@ -1,0 +1,59 @@
+name: update-hot-sector-news
+
+on:
+  workflow_dispatch:          # 主要：由 cron-job.org 在台北 11/12/13/14 點觸發
+  schedule:
+    # GitHub 內建 cron 為 best-effort 後備（曾觀察到漏跑）。UTC = 台北 -8。
+    # 台北 11/12/13/14 點 → UTC 03/04/05/06。僅平日。
+    - cron: "0 3,4,5,6 * * 1-5"
+  push:
+    branches: [main]          # 改程式碼即重新部署頁面
+
+permissions:
+  contents: write             # commit 回 news.json
+  pages: write
+  id-token: write
+
+concurrency:
+  group: hot-sector-news
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate news.json
+        id: gen
+        continue-on-error: true   # 抓取/AI 失敗不阻擋既有頁面部署
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/gen-news.mjs
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/news.json docs/history || true
+          if git diff --staged --quiet; then
+            echo "no data changes"
+          else
+            git commit -m "chore(data): 更新熱門族群新聞 [skip ci]"
+            git push
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4

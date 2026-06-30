@@ -1,0 +1,106 @@
+:root {
+  --bg: #0a0e17;
+  --bg-card: #121826;
+  --bg-card-2: #1a2233;
+  --border: #243049;
+  --text: #e6ebf5;
+  --text-dim: #8a96ad;
+  --up: #ff5b5b;      /* 台股慣例：漲紅 */
+  --down: #2ecc71;    /* 跌綠 */
+  --accent: #ffb020;
+  --link: #6db3ff;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, "Segoe UI", "Microsoft JhengHei", "PingFang TC", Roboto, sans-serif;
+  line-height: 1.5;
+}
+
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(10, 14, 23, 0.92);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--border);
+  padding: 14px 16px;
+}
+.topbar h1 { margin: 0; font-size: 20px; }
+.status { color: var(--text-dim); font-size: 13px; margin-top: 4px; }
+
+main { max-width: 880px; margin: 0 auto; padding: 16px; }
+
+.loading { color: var(--text-dim); padding: 40px 0; text-align: center; }
+
+.sector {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  margin-bottom: 18px;
+  overflow: hidden;
+}
+.sector-head {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  padding: 12px 16px;
+  background: var(--bg-card-2);
+  border-bottom: 1px solid var(--border);
+}
+.sector-name { font-size: 17px; font-weight: 700; }
+.sector-meta { color: var(--text-dim); font-size: 13px; }
+.sector-meta .lu { color: var(--up); font-weight: 600; }
+
+.news {
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border);
+}
+.news:last-child { border-bottom: none; }
+.news-title { font-size: 15px; font-weight: 600; }
+.news-sub { color: var(--text-dim); font-size: 12px; margin: 3px 0 8px; }
+
+.stocks { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--bg-card-2);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 4px 10px;
+  font-size: 13px;
+}
+.chip .code { font-weight: 700; font-family: ui-monospace, "SFMono-Regular", Menlo, monospace; }
+.chip .reason { color: var(--text-dim); }
+.chip.limitup {
+  border-color: var(--up);
+  background: rgba(255, 91, 91, 0.12);
+}
+.badge-lu {
+  background: var(--up);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  border-radius: 4px;
+  padding: 1px 5px;
+}
+.no-stocks { color: var(--text-dim); font-size: 12px; font-style: italic; }
+
+.footer {
+  max-width: 880px;
+  margin: 8px auto 40px;
+  padding: 0 16px;
+  color: var(--text-dim);
+  font-size: 12px;
+}
+.footer p { margin: 4px 0; }
+
+.empty { color: var(--text-dim); text-align: center; padding: 40px 0; }

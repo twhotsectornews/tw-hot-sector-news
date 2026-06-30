@@ -1,0 +1,14 @@
+{
+  "name": "tw-hot-sector-news",
+  "version": "1.0.0",
+  "private": true,
+  "description": "每日盤中彙整台股強勢族群新聞，列出提及個股、原因，並標記近 3 日漲停。",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "gen": "node scripts/gen-news.mjs",
+    "serve": "node --version >/dev/null; python -m http.server 8080 --directory docs"
+  }
+}
