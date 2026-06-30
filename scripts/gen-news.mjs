@@ -279,6 +279,40 @@ function consolidateSectors(news, latestSectors) {
   }
 }
 
+/**
+ * 把「極小族群」（≤ smallMax 則）併入「有共同 2 字詞、且更大」的族群，
+ * 收掉 玻璃概念股(1) / AI概念股(1) 這種落單分組。roundup 不動。
+ */
+function mergeSmallSectors(news, { smallMax = 2 } = {}) {
+  const count = new Map();
+  for (const n of news) {
+    if (n.sector === ROUNDUP_SECTOR) continue;
+    count.set(n.sector, (count.get(n.sector) || 0) + 1);
+  }
+  const sectors = [...count.keys()];
+  const grams = (s) => {
+    const g = new Set();
+    for (let i = 0; i < s.length - 1; i++) g.add(s.slice(i, i + 2));
+    return g;
+  };
+  const gramMap = new Map(sectors.map((s) => [s, grams(s)]));
+  const remap = new Map();
+  for (const s of sectors) {
+    if (count.get(s) > smallMax) continue;
+    let best = null, bestCount = count.get(s);
+    for (const t of sectors) {
+      if (t === s || count.get(t) <= count.get(s)) continue; // 只併入「更大」者
+      let shared = false;
+      for (const g of gramMap.get(s)) if (gramMap.get(t).has(g)) { shared = true; break; }
+      if (shared && count.get(t) > bestCount) { best = t; bestCount = count.get(t); }
+    }
+    if (best) remap.set(s, best);
+  }
+  if (remap.size === 0) return;
+  const resolve = (x) => { const seen = new Set(); while (remap.has(x) && !seen.has(x)) { seen.add(x); x = remap.get(x); } return x; };
+  for (const n of news) if (remap.has(n.sector)) n.sector = resolve(n.sector);
+}
+
 /** 彙整每個族群：新聞數、漲停檔數、去重後的個股清單（漲停在前），供前端做摘要與收合標頭。 */
 function summariseSectors(news) {
   const map = new Map();
@@ -408,6 +442,7 @@ async function main() {
 
   // 用本班最新族群分類，把累積的新聞重新歸位，消除同義族群被拆成多組。
   consolidateSectors(mergedNews, sectors);
+  mergeSmallSectors(mergedNews);
 
   // 一天內多班累積有上限，避免資料檔無限膨脹（取最新的 N 則）。
   const trimmed = mergedNews
