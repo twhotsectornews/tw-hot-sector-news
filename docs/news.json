@@ -1,9 +1,49 @@
 {
-  "asOf": "2026-07-01T08:20:55.972+08:00",
-  "generatedAt": "2026-07-01T00:20:55.972Z",
+  "asOf": "2026-07-01T11:01:55.523+08:00",
+  "generatedAt": "2026-07-01T03:01:55.523Z",
   "keyword": "熱門族群",
   "aiSource": "gemini",
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOSkh6eVlVUlF1aGpaUFh3YjM3aXZqMnl0azQ5aWpwQlY1VkVFVkZzdUFMN3dwM0thMUlkN2FTUXR5ZExFamFqX196TlExV1FKYTZrU04yMUlmREJRcF9ETHJnNURyUTlSTzI3eWVrZEd1cUxCQ0kxMW1aTmlOR3d3VHpxTzJZTmQz",
+      "tkey": "熱門族群半導體擴產熱弘塑、聖暉吸金",
+      "title": "《熱門族群》半導體擴產熱 弘塑、聖暉吸金 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6224174001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 01 Jul 2026 00:16:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3131",
+          "name": "弘塑",
+          "point": "產能接近滿載、接單逾去年"
+        },
+        {
+          "symbol": "5536",
+          "name": "聖暉*",
+          "point": "在手訂單逾500億元"
+        }
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPV25FeGVPMG9NaUlLVGxiUzNfSU1pQXNxZVVnY3o0aWxCTThzZlJENktFdnhjU0R6N0JaVGRkcEpoQ252N0xSLV9jYldPQUl2S19ycGI2cXU3U2hINVRLUlhtaW9yeUdRSkJtNG1SSmtNSlZWanl1ckplczQ2S3B5enhOT2o1THVw",
+      "tkey": "熱門族群無人機紅火研華、聯發科權證靚",
+      "title": "《熱門族群》無人機紅火 研華、聯發科權證靚 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6224175001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 01 Jul 2026 00:16:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2395",
+          "name": "研華",
+          "point": "積極布局、獲利挑戰新高"
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "積極布局、發表Genio平台"
+        }
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOTVNMeGhpX0l3M3Fpa3JCYjdPS04wdVpRaTNibEhPUFZWMmVzdzFKOVVIUnlDN1ZHTldIU0VwbVdIQVdBYmxjMFJPV3JmTmVBOFBKWUhXUmpEX3ZDSG5tdndKaERNc185azBkbzhXNnl6ckZ0eXZmNEtzY1ZvOE9fU1U1RmdBQXZt",
       "tkey": "熱門族群被動元件狂飆Q2十大飆股囊括六席",
@@ -15,40 +55,32 @@
         {
           "symbol": "3026",
           "name": "禾伸堂",
-          "point": "強漲512%、MLCC量價齊揚",
-          "limitUp": true,
-          "pct": 9.9
+          "point": "Q2十大飆股、強漲512%"
         },
         {
           "symbol": "6173",
           "name": "信昌電",
-          "point": "大漲4倍、AI引爆高階被動元件需求",
-          "limitUp": true,
-          "pct": 9.9
+          "point": "Q2十大飆股、大漲4倍"
         },
         {
           "symbol": "2492",
           "name": "華新科",
-          "point": "上漲逾3.5倍、AI占比15-20%",
-          "limitUp": true,
-          "pct": 9.9
+          "point": "Q2十大飆股、上漲逾3.5倍"
         },
         {
           "symbol": "2327",
           "name": "國巨",
-          "point": "上漲逾3.5倍、迎接AI動能",
-          "limitUp": true,
-          "pct": 9.6
+          "point": "Q2十大飆股、上漲逾3.5倍"
         },
         {
           "symbol": "6834",
           "name": "天二科技",
-          "point": "擠進前十大個股"
+          "point": "Q2十大飆股"
         },
         {
           "symbol": "2478",
           "name": "大毅",
-          "point": "擠進前十大個股",
+          "point": "Q2十大飆股",
           "limitUp": true,
           "pct": 10
         }
@@ -74,9 +106,7 @@
         {
           "symbol": "2327",
           "name": "國巨",
-          "point": "強飆頂、鞏固千金寶座",
-          "limitUp": true,
-          "pct": 9.6
+          "point": "強飆頂、鞏固千金寶座"
         },
         {
           "symbol": "2375",
@@ -114,51 +144,39 @@
         {
           "symbol": "5228",
           "name": "鈺鎧",
-          "point": "強閃紅燈",
-          "limitUp": true,
-          "pct": 10
+          "point": "強閃紅燈"
         },
         {
           "symbol": "3357",
           "name": "臺慶科",
-          "point": "強閃紅燈",
-          "limitUp": true,
-          "pct": 10
+          "point": "強閃紅燈"
         },
         {
           "symbol": "6127",
           "name": "九豪",
-          "point": "強閃紅燈",
-          "limitUp": true,
-          "pct": 9.9
+          "point": "強閃紅燈"
         },
         {
           "symbol": "8043",
           "name": "蜜望實",
           "point": "強閃紅燈",
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.8
         },
         {
           "symbol": "2492",
           "name": "華新科",
-          "point": "強閃紅燈",
-          "limitUp": true,
-          "pct": 9.9
+          "point": "強閃紅燈"
         },
         {
           "symbol": "6173",
           "name": "信昌電",
-          "point": "強閃紅燈",
-          "limitUp": true,
-          "pct": 9.9
+          "point": "強閃紅燈"
         },
         {
           "symbol": "3236",
           "name": "千如",
-          "point": "強閃紅燈",
-          "limitUp": true,
-          "pct": 9.9
+          "point": "強閃紅燈"
         },
         {
           "symbol": "3090",
@@ -168,16 +186,12 @@
         {
           "symbol": "8042",
           "name": "金山電",
-          "point": "強閃紅燈",
-          "limitUp": true,
-          "pct": 9.8
+          "point": "強閃紅燈"
         },
         {
           "symbol": "3026",
           "name": "禾伸堂",
-          "point": "強閃紅燈",
-          "limitUp": true,
-          "pct": 9.9
+          "point": "強閃紅燈"
         }
       ]
     },
@@ -192,23 +206,17 @@
         {
           "symbol": "8358",
           "name": "金居",
-          "point": "強攻漲停、專攻高頻高速傳輸特殊銅箔",
-          "limitUp": true,
-          "pct": 9.9
+          "point": "強攻漲停、受惠AI伺服器"
         },
         {
           "symbol": "1815",
           "name": "富喬",
-          "point": "盤中越走越高",
-          "limitUp": true,
-          "pct": 9.9
+          "point": "盤中越走越高"
         },
         {
           "symbol": "1802",
           "name": "台玻",
-          "point": "直逼漲停",
-          "limitUp": true,
-          "pct": 10
+          "point": "直逼漲停"
         },
         {
           "symbol": "5340",
@@ -223,7 +231,7 @@
         {
           "symbol": "6213",
           "name": "聯茂",
-          "point": "股價表現最為強勢"
+          "point": "股價表現強勢"
         },
         {
           "symbol": "2383",
@@ -233,7 +241,7 @@
         {
           "symbol": "6672",
           "name": "騰輝-KY",
-          "point": "股價表現亦強勢"
+          "point": "股價表現強勢"
         }
       ]
     },
@@ -248,44 +256,36 @@
         {
           "symbol": "6488",
           "name": "環球晶",
-          "point": "返千金、觸及漲停",
-          "limitUp": true,
-          "pct": 9.8
+          "point": "觸及漲停、重返千金"
         },
         {
           "symbol": "6182",
           "name": "合晶",
-          "point": "觸及漲停",
-          "limitUp": true,
-          "pct": 9.8
+          "point": "觸及漲停"
         },
         {
           "symbol": "3532",
           "name": "台勝科",
           "point": "觸及漲停",
           "limitUp": true,
-          "pct": 10
+          "pct": 9.9
         },
         {
           "symbol": "3016",
           "name": "嘉晶",
-          "point": "觸及漲停",
-          "limitUp": true,
-          "pct": 9.9
+          "point": "觸及漲停"
         },
         {
           "symbol": "3707",
           "name": "漢磊",
-          "point": "觸及漲停",
-          "limitUp": true,
-          "pct": 10
+          "point": "觸及漲停"
         },
         {
           "symbol": "5483",
           "name": "中美晶",
           "point": "大漲9%",
           "limitUp": true,
-          "pct": 9.8
+          "pct": 10
         }
       ]
     },
@@ -300,16 +300,12 @@
         {
           "symbol": "8033",
           "name": "雷虎",
-          "point": "率先強勢漲停",
-          "limitUp": true,
-          "pct": 9.7
+          "point": "率先強勢漲停"
         },
         {
           "symbol": "2630",
           "name": "亞航",
-          "point": "率先強勢漲停",
-          "limitUp": true,
-          "pct": 9.9
+          "point": "率先強勢漲停"
         },
         {
           "symbol": "2634",
@@ -319,9 +315,7 @@
         {
           "symbol": "5371",
           "name": "中光電",
-          "point": "盤中大漲9%",
-          "limitUp": true,
-          "pct": 10
+          "point": "盤中大漲9%"
         },
         {
           "symbol": "7402",
@@ -336,14 +330,14 @@
         {
           "symbol": "5314",
           "name": "世紀",
-          "point": "大漲8%",
-          "limitUp": true,
-          "pct": 9.9
+          "point": "大漲8%"
         },
         {
           "symbol": "2645",
           "name": "長榮航太",
-          "point": "漲逾5%"
+          "point": "漲逾5%",
+          "limitUp": true,
+          "pct": 10
         }
       ]
     },
@@ -358,12 +352,12 @@
         {
           "symbol": "9914",
           "name": "美利達",
-          "point": "大漲5.98％、收78元"
+          "point": "大漲5.98%、營運改善"
         },
         {
           "symbol": "9921",
           "name": "巨大",
-          "point": "收紅、終場收77.1元"
+          "point": "收紅、需求回溫"
         }
       ]
     },
@@ -378,44 +372,57 @@
         {
           "symbol": "4991",
           "name": "環宇-KY",
-          "point": "全面承壓、下跌2％～5％",
-          "limitUp": true,
-          "pct": 9.8
+          "point": "全面承壓、股價回檔"
         },
         {
           "symbol": "6442",
           "name": "光聖",
-          "point": "全面承壓、下跌2％～5％"
+          "point": "全面承壓、股價回檔"
         },
         {
           "symbol": "3450",
           "name": "聯鈞",
-          "point": "全面承壓、下跌2％～5％"
+          "point": "全面承壓、股價回檔"
+        },
+        {
+          "symbol": "3380",
+          "name": "上詮",
+          "point": "走弱"
+        },
+        {
+          "symbol": "4979",
+          "name": "華星光",
+          "point": "走弱"
+        },
+        {
+          "symbol": "3163",
+          "name": "波若威",
+          "point": "FAU核心組裝供應鏈"
+        },
+        {
+          "symbol": "3234",
+          "name": "光環",
+          "point": "下跌2%～5%"
         },
         {
           "symbol": "3406",
-          "name": "光環",
-          "point": "下跌2％～5％"
-        },
-        {
-          "symbol": "3481",
           "name": "聯光通",
-          "point": "下跌2％～5％"
+          "point": "下跌2%～5%"
         },
         {
           "symbol": "2455",
           "name": "全新",
-          "point": "下跌2％～5％"
+          "point": "下跌2%～5%"
         },
         {
           "symbol": "3105",
           "name": "穩懋",
-          "point": "下跌2％～5％"
+          "point": "下跌2%～5%"
         },
         {
-          "symbol": "3004",
+          "symbol": "3674",
           "name": "康聯訊",
-          "point": "下跌2％～5％"
+          "point": "下跌2%～5%"
         },
         {
           "symbol": "2345",
@@ -428,24 +435,21 @@
           "point": "走弱"
         },
         {
-          "symbol": "3363",
-          "name": "上詮",
+          "symbol": "6265",
+          "name": "方土昶",
           "point": "走弱"
         },
         {
-          "symbol": "6265",
+          "symbol": "4908",
           "name": "前鼎",
           "point": "走弱"
         },
         {
-          "symbol": "6209",
-          "name": "台聯電",
-          "point": "走弱"
-        },
-        {
-          "symbol": "4979",
-          "name": "華星光",
-          "point": "走弱"
+          "symbol": "6207",
+          "name": "雷科",
+          "point": "走弱",
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "4971",
@@ -465,7 +469,7 @@
         {
           "symbol": "3491",
           "name": "昇達科",
-          "point": "一度逼近漲停"
+          "point": "領漲、一度逼近漲停"
         },
         {
           "symbol": "7717",
