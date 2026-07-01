@@ -17,15 +17,19 @@ function relTime(p) {
   return d.toLocaleDateString("zh-TW", { timeZone: "Asia/Taipei" });
 }
 
-function stockChip(s) {
-  const lu = s.limitUp ? `<span class="badge-lu">🔴漲停${typeof s.pct === "number" ? " +" + s.pct.toFixed(1) + "%" : ""}</span>` : "";
-  const point = s.point ? `<span class="reason">— ${esc(s.point)}</span>` : "";
-  return `<span class="chip ${s.limitUp ? "limitup" : ""}"><span class="code">${esc(s.symbol)}</span><span class="name">${esc(s.name)}</span>${point}${lu}</span>`;
+function stockRow(s) {
+  const lu = s.limitUp
+    ? `<span class="lu">漲停${typeof s.pct === "number" ? ` +${s.pct.toFixed(1)}%` : ""}</span>`
+    : `<span class="lu-none"></span>`;
+  const point = s.point ? `<span class="point">${esc(s.point)}</span>` : "";
+  return `<li class="stk${s.limitUp ? " is-lu" : ""}">` +
+    `<span class="tkr"><span class="code">${esc(s.symbol)}</span><span class="name">${esc(s.name)}</span></span>` +
+    `${lu}${point}</li>`;
 }
 
 function newsCard(n) {
   const stocks = (n.stocks || []).length
-    ? `<div class="stocks">${n.stocks.map(stockChip).join("")}</div>`
+    ? `<ul class="stocks">${n.stocks.map(stockRow).join("")}</ul>`
     : `<div class="no-stocks">（本則未明確點到個股）</div>`;
   const sub = [n.source, relTime(n.pubDate)].filter(Boolean).join("・");
   return `<article class="news">
