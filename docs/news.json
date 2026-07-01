@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-01T13:02:29.190+08:00",
-  "generatedAt": "2026-07-01T05:02:29.190Z",
+  "asOf": "2026-07-01T14:01:49.557+08:00",
+  "generatedAt": "2026-07-01T06:01:49.557Z",
   "keyword": "熱門族群",
   "aiSource": "gemini",
   "news": [
@@ -74,98 +74,7 @@
       "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6223370001&PU=0010",
       "source": "富聯網",
       "pubDate": "Tue, 30 Jun 2026 04:09:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2327",
-          "name": "國巨",
-          "point": "強飆頂、鞏固千金寶座"
-        },
-        {
-          "symbol": "2375",
-          "name": "凱美",
-          "point": "齊攻漲停",
-          "limitUp": true,
-          "pct": 9.9
-        },
-        {
-          "symbol": "6271",
-          "name": "同欣電",
-          "point": "齊攻漲停",
-          "limitUp": true,
-          "pct": 9.9
-        },
-        {
-          "symbol": "8261",
-          "name": "富鼎",
-          "point": "齊攻漲停",
-          "limitUp": true,
-          "pct": 10
-        },
-        {
-          "symbol": "6138",
-          "name": "茂達",
-          "point": "跟進走強"
-        },
-        {
-          "symbol": "2478",
-          "name": "大毅",
-          "point": "強閃紅燈",
-          "limitUp": true,
-          "pct": 10
-        },
-        {
-          "symbol": "5228",
-          "name": "鈺鎧",
-          "point": "強閃紅燈"
-        },
-        {
-          "symbol": "3357",
-          "name": "臺慶科",
-          "point": "強閃紅燈"
-        },
-        {
-          "symbol": "6127",
-          "name": "九豪",
-          "point": "強閃紅燈"
-        },
-        {
-          "symbol": "8043",
-          "name": "蜜望實",
-          "point": "強閃紅燈",
-          "limitUp": true,
-          "pct": 9.8
-        },
-        {
-          "symbol": "2492",
-          "name": "華新科",
-          "point": "強閃紅燈"
-        },
-        {
-          "symbol": "6173",
-          "name": "信昌電",
-          "point": "強閃紅燈"
-        },
-        {
-          "symbol": "3236",
-          "name": "千如",
-          "point": "強閃紅燈"
-        },
-        {
-          "symbol": "3090",
-          "name": "日電貿",
-          "point": "強閃紅燈"
-        },
-        {
-          "symbol": "8042",
-          "name": "金山電",
-          "point": "強閃紅燈"
-        },
-        {
-          "symbol": "3026",
-          "name": "禾伸堂",
-          "point": "強閃紅燈"
-        }
-      ]
+      "stocks": []
     },
     {
       "gid": "CBMiiAFBVV95cUxNZExfNU9ndUJUTnRIYUJuSXRyNXNqa25wOWZUR0ZFSlhCbTAtUzNfblNybWpiWXdBTTlzMXA0czc3SFU4X0l6X0x1bDBuOW9HTjVwNkhYT3k2MXBNWXlLTjdzaVBkMEI1TV8tTlEteFNEOEpaV01ZYXVoaGRnQ0dhaV8teHJyaGtJ",
