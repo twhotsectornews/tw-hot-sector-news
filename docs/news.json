@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-01T14:01:49.557+08:00",
-  "generatedAt": "2026-07-01T06:01:49.557Z",
+  "asOf": "2026-07-01T15:18:30.590+08:00",
+  "generatedAt": "2026-07-01T07:18:30.590Z",
   "keyword": "熱門族群",
   "aiSource": "gemini",
   "news": [
@@ -11,7 +11,55 @@
       "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6224518001&PU=0010",
       "source": "富聯網",
       "pubDate": "Wed, 01 Jul 2026 03:55:00 GMT",
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "2250",
+          "name": "IKKA-KY",
+          "point": "機器人族群紅燈",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "6658",
+          "name": "聯策",
+          "point": "AI半導體設備合作，連閃兩顆紅燈",
+          "limitUp": true,
+          "pct": 9.8
+        },
+        {
+          "symbol": "2464",
+          "name": "盟立",
+          "point": "半導體封裝自動化需求，放量衝頂",
+          "limitUp": true,
+          "pct": 9.8
+        },
+        {
+          "symbol": "2233",
+          "name": "宇隆",
+          "point": "機器人族群紅燈",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "3594",
+          "name": "磐儀",
+          "point": "機器人族群紅燈"
+        },
+        {
+          "symbol": "3577",
+          "name": "泓格",
+          "point": "機器人族群紅燈",
+          "limitUp": true,
+          "pct": 9.7
+        },
+        {
+          "symbol": "4542",
+          "name": "科嶠",
+          "point": "攜手美商半導體自動化設備大廠",
+          "limitUp": true,
+          "pct": 9.9
+        }
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxPXzhyT3B5aTlHY3FqQ2JrSjVLcUlIVXJiaVhDbFNUVU9vNGs3Y2hURGZEdTNuYmFFb2RLSnZSeC1TWlN5TUxtbVhFMGRZMU5MN2dadm1KVHFfOVlMRDBGSWp6bXN3QjBTNkRHSk96c0h2TURNN3ZHR0hSOEM2emxVMVFBVTRPVGhl",
@@ -20,7 +68,63 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6224513001&PU=1002",
       "source": "富聯網",
       "pubDate": "Wed, 01 Jul 2026 03:47:00 GMT",
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "記憶體族群重挫"
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "記憶體族群重挫"
+        },
+        {
+          "symbol": "3006",
+          "name": "南亞科",
+          "point": "記憶體族群重挫"
+        },
+        {
+          "symbol": "3006",
+          "name": "南亞科",
+          "point": "股價下殺"
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "股價下殺"
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "股價下殺"
+        },
+        {
+          "symbol": "3188",
+          "name": "晶豪科",
+          "point": "股價下殺"
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "跌逾6%"
+        },
+        {
+          "symbol": "2451",
+          "name": "創見",
+          "point": "記憶體族群走弱"
+        },
+        {
+          "symbol": "3260",
+          "name": "威剛",
+          "point": "記憶體族群走弱"
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "記憶體族群走弱"
+        }
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxPaHVMOFdSQ3MwQmV0TEFzMnNEbW54NG5XTW5naXFYOHp4Y0NxcHU5NHM3TGVRQm9WWDU0MHZXczNmYXRTQkdPLWZwRUZFdk8tV3VzYzdfUHFULU8wVGNjWGpUV2NxN1QtS3VDZl9wdllvNUtHM0ZxaXdWQkc0MjBfeEIyTms3aEda",
@@ -29,7 +133,56 @@
       "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6224454001&PU=0010",
       "source": "富聯網",
       "pubDate": "Wed, 01 Jul 2026 02:58:00 GMT",
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "8033",
+          "name": "雷虎",
+          "point": "無人機族群高掛3顆紅燈",
+          "limitUp": true,
+          "pct": 9.7
+        },
+        {
+          "symbol": "2645",
+          "name": "長榮航太",
+          "point": "無人機族群亮燈攻頂",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "4916",
+          "name": "事欣科",
+          "point": "無人機族群亮燈攻頂",
+          "limitUp": true,
+          "pct": 9.8
+        },
+        {
+          "symbol": "7402",
+          "name": "邑錡",
+          "point": "無人機族群亮燈攻頂",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "5371",
+          "name": "中光電",
+          "point": "無人機族群秀出半顆紅燈"
+        },
+        {
+          "symbol": "2630",
+          "name": "亞航",
+          "point": "無人機族群秀出半顆紅燈"
+        },
+        {
+          "symbol": "6618",
+          "name": "永虹先進",
+          "point": "無人機族群秀出半顆紅燈"
+        },
+        {
+          "symbol": "4541",
+          "name": "晟田",
+          "point": "無人機族群秀出半顆紅燈"
+        }
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxOSkh6eVlVUlF1aGpaUFh3YjM3aXZqMnl0azQ5aWpwQlY1VkVFVkZzdUFMN3dwM0thMUlkN2FTUXR5ZExFamFqX196TlExV1FKYTZrU04yMUlmREJRcF9ETHJnNURyUTlSTzI3eWVrZEd1cUxCQ0kxMW1aTmlOR3d3VHpxTzJZTmQz",
@@ -38,7 +191,18 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6224174001&PU=1002",
       "source": "富聯網",
       "pubDate": "Wed, 01 Jul 2026 00:16:00 GMT",
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "3131",
+          "name": "弘塑",
+          "point": "半導體擴產商機，營運具成長空間"
+        },
+        {
+          "symbol": "5536",
+          "name": "聖暉*",
+          "point": "半導體擴產商機，營運具成長空間"
+        }
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxPV25FeGVPMG9NaUlLVGxiUzNfSU1pQXNxZVVnY3o0aWxCTThzZlJENktFdnhjU0R6N0JaVGRkcEpoQ252N0xSLV9jYldPQUl2S19ycGI2cXU3U2hINVRLUlhtaW9yeUdRSkJtNG1SSmtNSlZWanl1ckplczQ2S3B5enhOT2o1THVw",
@@ -47,7 +211,18 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6224175001&PU=1002",
       "source": "富聯網",
       "pubDate": "Wed, 01 Jul 2026 00:16:00 GMT",
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "2395",
+          "name": "研華",
+          "point": "積極布局無人機應用"
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "積極布局無人機應用"
+        }
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxOTVNMeGhpX0l3M3Fpa3JCYjdPS04wdVpRaTNibEhPUFZWMmVzdzFKOVVIUnlDN1ZHTldIU0VwbVdIQVdBYmxjMFJPV3JmTmVBOFBKWUhXUmpEX3ZDSG5tdndKaERNc185azBkbzhXNnl6ckZ0eXZmNEtzY1ZvOE9fU1U1RmdBQXZt",
@@ -56,7 +231,40 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6224163001&PU=1002",
       "source": "富聯網",
       "pubDate": "Wed, 01 Jul 2026 00:08:00 GMT",
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "point": "被動元件強漲512%"
+        },
+        {
+          "symbol": "6173",
+          "name": "信昌電",
+          "point": "被動元件大漲4倍以上",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "被動元件上漲超過3.5倍"
+        },
+        {
+          "symbol": "2327",
+          "name": "國巨*",
+          "point": "被動元件上漲超過3.5倍"
+        },
+        {
+          "symbol": "6834",
+          "name": "天二科技",
+          "point": "被動元件擠進前十大飆股"
+        },
+        {
+          "symbol": "2478",
+          "name": "大毅",
+          "point": "被動元件擠進前十大飆股"
+        }
+      ]
     },
     {
       "gid": "CBMiWEFVX3lxTFB5emZNY0M4dF9BX2ZwN3lUSEw4OHE1VVBKZkM3bXVBak1xamNtUy05MVhCUloxRV95Zm94ZGFWTUFWMHE2aV9GUlVTLUVibmI3UDY2WGZUaEw",
@@ -74,7 +282,96 @@
       "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6223370001&PU=0010",
       "source": "富聯網",
       "pubDate": "Tue, 30 Jun 2026 04:09:00 GMT",
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "2327",
+          "name": "國巨*",
+          "point": "強飆頂，鞏固千金寶座"
+        },
+        {
+          "symbol": "2375",
+          "name": "凱美",
+          "point": "齊攻漲停",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "6271",
+          "name": "同欣電",
+          "point": "齊攻漲停"
+        },
+        {
+          "symbol": "8261",
+          "name": "富鼎",
+          "point": "齊攻漲停",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "6138",
+          "name": "茂達",
+          "point": "跟進走強"
+        },
+        {
+          "symbol": "2478",
+          "name": "大毅",
+          "point": "強閃紅燈"
+        },
+        {
+          "symbol": "5228",
+          "name": "鈺鎧",
+          "point": "強閃紅燈"
+        },
+        {
+          "symbol": "3357",
+          "name": "臺慶科",
+          "point": "強閃紅燈"
+        },
+        {
+          "symbol": "6127",
+          "name": "九豪",
+          "point": "強閃紅燈"
+        },
+        {
+          "symbol": "8043",
+          "name": "蜜望實",
+          "point": "強閃紅燈",
+          "limitUp": true,
+          "pct": 9.8
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "強閃紅燈"
+        },
+        {
+          "symbol": "6173",
+          "name": "信昌電",
+          "point": "強閃紅燈",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "3236",
+          "name": "千如",
+          "point": "強閃紅燈"
+        },
+        {
+          "symbol": "3090",
+          "name": "日電貿",
+          "point": "強閃紅燈"
+        },
+        {
+          "symbol": "8042",
+          "name": "金山電",
+          "point": "強閃紅燈"
+        },
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "point": "強閃紅燈"
+        }
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxNZExfNU9ndUJUTnRIYUJuSXRyNXNqa25wOWZUR0ZFSlhCbTAtUzNfblNybWpiWXdBTTlzMXA0czc3SFU4X0l6X0x1bDBuOW9HTjVwNkhYT3k2MXBNWXlLTjdzaVBkMEI1TV8tTlEteFNEOEpaV01ZYXVoaGRnQ0dhaV8teHJyaGtJ",
@@ -83,7 +380,48 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6223344001&PU=0010",
       "source": "富聯網",
       "pubDate": "Tue, 30 Jun 2026 03:59:00 GMT",
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "8358",
+          "name": "金居",
+          "point": "銅箔廠強攻漲停"
+        },
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "玻纖布廠盤中越走越高"
+        },
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "盤中直逼漲停"
+        },
+        {
+          "symbol": "5340",
+          "name": "建榮",
+          "point": "玻纖布廠隨勢強攻"
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "CCL廠一度漲停"
+        },
+        {
+          "symbol": "6213",
+          "name": "聯茂",
+          "point": "CCL廠股價表現強勢"
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "AI伺服器高階CCL龍頭，下挫修正"
+        },
+        {
+          "symbol": "6672",
+          "name": "騰輝-KY",
+          "point": "特殊應用利基型基板，股價強勢"
+        }
+      ]
     },
     {
       "gid": "CBMikgFBVV95cUxOYnpDZnBUaVdkb3hpcWpVa0swTTh4cDRScVU0MHpvNHo1STBaVmQ3bnVROEtjaTNhQ0JMSjRMa0JNazJiQklMdzJzN1M0aldaeVRTTVM3UWNxY3RhVkdaczFyeHNzOGFfRmdZUXhBMVRjUW03YTJ2b25MN3MyS29uN3JwcFdUbEd6NEpTa1ZFaG1NUQ",
@@ -92,7 +430,46 @@
       "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6223300001&pu=News_0002_3",
       "source": "富聯網",
       "pubDate": "Tue, 30 Jun 2026 03:10:00 GMT",
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "point": "矽晶圓觸及漲停，重返千金",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "6182",
+          "name": "合晶",
+          "point": "矽晶圓觸及漲停",
+          "limitUp": true,
+          "pct": 9.8
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "矽晶圓觸及漲停",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "3016",
+          "name": "嘉晶",
+          "point": "矽晶圓觸及漲停"
+        },
+        {
+          "symbol": "3707",
+          "name": "漢磊",
+          "point": "矽晶圓觸及漲停"
+        },
+        {
+          "symbol": "5483",
+          "name": "中美晶",
+          "point": "矽晶圓大漲9%",
+          "limitUp": true,
+          "pct": 10
+        }
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxOcGlTMWdWYVhKNnhSYUN2bnd6RWRGakVEVnhINThaSkVaSGhVOUc1UW4xUU1FME8tWXVJd2xObmtqVUJVdFMtSjRSaG9YTkl2U3FYTFFvQV9jN281c3l2ODhYMGlia3N0dmdDQ0ZPdXE0dGxRZ0dBWEF3ZmUxeGd5V202ZGZNbGRS",
@@ -101,7 +478,54 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6223246001&PU=1002",
       "source": "富聯網",
       "pubDate": "Tue, 30 Jun 2026 02:27:00 GMT",
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "8033",
+          "name": "雷虎",
+          "point": "無人機概念股率先強勢漲停",
+          "limitUp": true,
+          "pct": 9.7
+        },
+        {
+          "symbol": "2630",
+          "name": "亞航",
+          "point": "無人機概念股率先強勢漲停"
+        },
+        {
+          "symbol": "2634",
+          "name": "漢翔",
+          "point": "無人機概念股盤中大漲9%"
+        },
+        {
+          "symbol": "5371",
+          "name": "中光電",
+          "point": "無人機概念股盤中大漲9%"
+        },
+        {
+          "symbol": "7402",
+          "name": "邑錡",
+          "point": "無人機概念股同步亮燈漲停",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "4541",
+          "name": "晟田",
+          "point": "無人機概念股盤中急拉漲停"
+        },
+        {
+          "symbol": "5314",
+          "name": "世紀*",
+          "point": "無人機概念股大漲8%"
+        },
+        {
+          "symbol": "2645",
+          "name": "長榮航太",
+          "point": "無人機概念股漲逾5%",
+          "limitUp": true,
+          "pct": 10
+        }
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxOdGFaSEY4cnlNRmw4eDRKUkdlYUVka2s0TGtlLWNFUkp3ZHJkR1IxM19DXzVLeGRGdmxidE9jYXNUMHBvRlNDZzRyYWoxYVBwME9zZ3NicHVOYXFGdkpkUUtJa1NhYWloV0JrYjlCbVNGR0oyTGpldWxzcVkwQmdqNzZKSGZSSlMz",
@@ -110,7 +534,18 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6222927001&PU=1002",
       "source": "富聯網",
       "pubDate": "Mon, 29 Jun 2026 23:59:00 GMT",
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "9914",
+          "name": "美利達",
+          "point": "自行車股價齊步彈升，大漲5.98%"
+        },
+        {
+          "symbol": "9921",
+          "name": "巨大",
+          "point": "自行車股價齊步彈升，收紅"
+        }
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxQYkVLTlZtY2NzWmhRZWVRVHZnakItY3BPWWstYnVtZTdMcjFnZnhScFhkaWp4a2hGa01LbVlUMEQtTU5HSkdMb1NzcXJGak1sZFBvc3JfeF9RZ0hwd1NlZV9OUzVpZkQwWVppdDlzNXg3b1U5Q0NNcnRYa3gwVDZQdFZCX3o1UzVR",
@@ -119,7 +554,85 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6222908001&PU=1002",
       "source": "富聯網",
       "pubDate": "Mon, 29 Jun 2026 23:52:00 GMT",
-      "stocks": []
+      "stocks": [
+        {
+          "symbol": "4991",
+          "name": "環宇-KY",
+          "point": "光通訊族群受到利空消息重擊"
+        },
+        {
+          "symbol": "6442",
+          "name": "光聖",
+          "point": "光通訊族群受到利空消息重擊"
+        },
+        {
+          "symbol": "3450",
+          "name": "聯鈞",
+          "point": "光通訊族群受到利空消息重擊"
+        },
+        {
+          "symbol": "3406",
+          "name": "光環",
+          "point": "股價同步回檔下跌"
+        },
+        {
+          "symbol": "3406",
+          "name": "聯光通",
+          "point": "股價同步回檔下跌"
+        },
+        {
+          "symbol": "2455",
+          "name": "全新",
+          "point": "股價同步回檔下跌"
+        },
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "股價同步回檔下跌"
+        },
+        {
+          "symbol": "3674",
+          "name": "康聯訊",
+          "point": "股價同步回檔下跌"
+        },
+        {
+          "symbol": "2345",
+          "name": "智邦",
+          "point": "股價走弱"
+        },
+        {
+          "symbol": "6170",
+          "name": "統新",
+          "point": "股價走弱"
+        },
+        {
+          "symbol": "6289",
+          "name": "上詮",
+          "point": "股價走弱"
+        },
+        {
+          "symbol": "6265",
+          "name": "前鼎",
+          "point": "股價走弱"
+        },
+        {
+          "symbol": "6207",
+          "name": "台聯電",
+          "point": "股價走弱",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "4979",
+          "name": "華星光",
+          "point": "股價走弱"
+        },
+        {
+          "symbol": "4971",
+          "name": "IET-KY",
+          "point": "股價走弱"
+        }
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxNYmI0UlZEWXdvbmFpaFFhU2hQQzhwVFBxMERfaVRKc2ZUbDhMZHBRWVZkb0hnX1hKU2ZYMVpKQWdWb2h2TmM1allBdndncW1sVEUyVUtqVGpsNmN5LUhsY2JsMVIzTHE1WnhhYmJ4NnJZVXFXaVdsX0dESWI0T3VpT0VHMktqRm0x",
