@@ -384,6 +384,88 @@ export async function getTodayLimitUps() {
   return { date, intraday: false, limitUps: ups };
 }
 
+// ───────────────────────── 月K 創新高型態（Yahoo Finance，還原權值） ─────────────────────────
+// 沿用 TW_STOCK_RADAR/config.py 的分級門檻（只取型態分級，不含 12月均線/18根/流動性 等輔助條件）。
+export const NEW_HIGH_TOLERANCE = 0.005;   // dist >= -0.5% → 創新高
+export const NEAR_HIGH_FLOOR = -0.10;      // >= -10% → 逼近新高
+export const PULLBACK_FLOOR = -0.15;       // >= -15% 且前高在近 N 月內 → 高檔修正
+export const PULLBACK_RECENT_MONTHS = 3;
+
+const YF_UA =
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36";
+
+async function yahooChart(sym) {
+  for (const host of ["query1", "query2"]) {
+    try {
+      const r = await fetch(
+        `https://${host}.finance.yahoo.com/v8/finance/chart/${sym}?interval=1mo&range=max`,
+        { headers: { "User-Agent": YF_UA }, signal: AbortSignal.timeout(20_000) },
+      );
+      if (r.status === 404) return null; // 該後綴查無此檔
+      if (!r.ok) continue;
+      const j = await r.json();
+      const res = j?.chart?.result?.[0];
+      if (res?.timestamp) return res;
+    } catch {
+      // 換下一台主機
+    }
+  }
+  return null;
+}
+
+/** 抓某代號的「還原權值」月K，回 [{adjHigh, adjClose}]（時間序，最後一根最新）；查無回 []。 */
+export async function fetchMonthlyYahoo(symbol, market) {
+  const suffixes = market === "otc" ? ["TWO", "TW"] : ["TW", "TWO"];
+  for (const sfx of suffixes) {
+    const res = await yahooChart(`${symbol}.${sfx}`);
+    if (!res) continue;
+    const q = res.indicators?.quote?.[0] ?? {};
+    const adj = res.indicators?.adjclose?.[0]?.adjclose;
+    const bars = [];
+    for (let i = 0; i < res.timestamp.length; i++) {
+      const c = q.close?.[i], h = q.high?.[i];
+      const a = adj ? adj[i] : c;
+      if (c > 0 && h > 0 && a > 0) bars.push({ adjHigh: h * (a / c), adjClose: a });
+    }
+    if (bars.length) return bars;
+  }
+  return [];
+}
+
+/** 由還原月K判定創新高型態。回 { status, dist } 或 null（不符三型態）。 */
+export function monthlyPattern(bars) {
+  if (!bars || bars.length === 0) return null;
+  let ath = 0, athIdx = 0;
+  bars.forEach((b, i) => { if (b.adjHigh > ath) { ath = b.adjHigh; athIdx = i; } });
+  if (ath <= 0) return null;
+  const last = bars[bars.length - 1].adjClose;
+  const dist = last / ath - 1;
+  const monthsSinceAth = bars.length - 1 - athIdx;
+  let status = null;
+  if (dist >= -NEW_HIGH_TOLERANCE) status = "創新高";
+  else if (dist >= NEAR_HIGH_FLOOR) status = "逼近新高";
+  else if (dist >= PULLBACK_FLOOR && monthsSinceAth <= PULLBACK_RECENT_MONTHS) status = "高檔修正";
+  else return null;
+  return { status, dist };
+}
+
+/** 批次判定一組代號的月K型態。回 Map<symbol, { status, dist }>（只含符合三型態者）。 */
+export async function classifyMentioned(symbols, universe) {
+  const out = new Map();
+  for (const sym of symbols) {
+    let bars = [];
+    try {
+      bars = await fetchMonthlyYahoo(sym, universe.get(sym)?.market);
+    } catch {
+      bars = [];
+    }
+    const p = monthlyPattern(bars);
+    if (p) out.set(sym, p);
+    await sleep(150);
+  }
+  return out;
+}
+
 // ───────────────────────── Gemini ─────────────────────────
 
 export const GEMINI_MODEL = "gemini-2.5-flash";

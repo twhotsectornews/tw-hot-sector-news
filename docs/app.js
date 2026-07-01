@@ -17,6 +17,15 @@ function relTime(p) {
   return d.toLocaleDateString("zh-TW", { timeZone: "Asia/Taipei" });
 }
 
+const STATUS_CLASS = { "創新高": "st-new", "逼近新高": "st-near", "高檔修正": "st-pull" };
+
+function patternTag(s) {
+  if (!s.status) return `<span class="tag"></span>`;
+  const cls = STATUS_CLASS[s.status] || "st-near";
+  const tip = typeof s.dist === "number" ? `距歷史高點 ${s.dist}%` : "";
+  return `<span class="tag ${cls}" title="${esc(tip)}">${esc(s.status)}</span>`;
+}
+
 function stockRow(s) {
   const lu = s.limitUp
     ? `<span class="lu">漲停${typeof s.pct === "number" ? ` +${s.pct.toFixed(1)}%` : ""}</span>`
@@ -24,7 +33,7 @@ function stockRow(s) {
   const point = s.point ? `<span class="point">${esc(s.point)}</span>` : "";
   return `<li class="stk${s.limitUp ? " is-lu" : ""}">` +
     `<span class="tkr"><span class="code">${esc(s.symbol)}</span><span class="name">${esc(s.name)}</span></span>` +
-    `${lu}${point}</li>`;
+    `${patternTag(s)}${lu}${point}</li>`;
 }
 
 function newsCard(n) {
@@ -41,7 +50,7 @@ function newsCard(n) {
 
 function render(data) {
   const news = data.news || [];
-  $status.innerHTML = `更新 ${esc(fmtTime(data.asOf))}　·　${news.length} 則熱門族群新聞` +
+  $status.innerHTML = `更新 ${esc(fmtTime(data.asOf))}　·　${news.length} 則　·　僅顯示<b>月K創新高型態</b>個股` +
     (data.aiSource === "none" ? "　·　（未啟用 AI 個股判讀）" : "");
 
   if (!news.length) {

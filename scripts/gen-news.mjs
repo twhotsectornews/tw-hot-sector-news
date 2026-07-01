@@ -9,7 +9,7 @@ import { promises as fs } from "node:fs";
 import path from "node:path";
 import {
   ROOT, sleep, readKey, getText, callGemini, candidateText, parseJsonObjects,
-  isCommonStock, getTodayLimitUps,
+  isCommonStock, getTodayLimitUps, getStockUniverse, classifyMentioned,
 } from "./lib/core.mjs";
 
 const DOCS_DIR = path.join(ROOT, "docs");
@@ -224,6 +224,36 @@ async function main() {
   }
   for (const n of news) if (!Array.isArray(n.stocks)) n.stocks = [];
 
+  // 3.5) 月K創新高型態過濾：只留「創新高／逼近新高／高檔修正」的個股（硬過濾），整則空了就丟。
+  //      只判定「還沒有 status」的個股（既有的沿用上一班結果，省 Yahoo 請求）。
+  const toClassify = [...new Set(news.flatMap((n) => n.stocks.filter((s) => !s.status).map((s) => s.symbol)))];
+  let filterOk = true;
+  if (toClassify.length) {
+    try {
+      const universe = await getStockUniverse();
+      const pat = await classifyMentioned(toClassify, universe);
+      for (const n of news) for (const s of n.stocks) {
+        if (!s.status && pat.has(s.symbol)) {
+          const p = pat.get(s.symbol);
+          s.status = p.status;
+          s.dist = Math.round(p.dist * 1000) / 10; // 距高點 %（一位小數）
+        }
+      }
+      console.log(`月K型態判定 ${toClassify.length} 檔，符合 ${pat.size} 檔。`);
+      // 疑似資料源異常（要判定的不少卻全部落空）→ 本班不硬過濾，避免站台被清空。
+      if (pat.size === 0 && toClassify.length >= 8) filterOk = false;
+    } catch (e) {
+      console.warn(`月K型態判定失敗：${e.message}`);
+      filterOk = false;
+    }
+  }
+  if (filterOk) {
+    for (const n of news) n.stocks = n.stocks.filter((s) => s.status);
+    news = news.filter((n) => n.stocks.length > 0);
+  } else {
+    console.warn("月K型態資料疑似異常，本班跳過硬過濾（保留內容、下一班重試）。");
+  }
+
   // 4) 今日漲停標記（盤中 MIS 即時、盤後 dated；取全市場漲停集合再標在被提到的個股上）
   const mentioned = new Set(news.flatMap((n) => n.stocks.map((s) => s.symbol)));
   if (mentioned.size) {
@@ -248,6 +278,7 @@ async function main() {
     asOf: taipeiISO(),
     generatedAt: new Date().toISOString(),
     keyword: KEYWORD,
+    filter: "月K創新高型態（含逼近新高、高檔修正）",
     aiSource: apiKey ? "gemini" : "none",
     news,
   };
