@@ -110,37 +110,69 @@ function titleKey(title) {
   return String(title).replace(/\s*[-–—]\s*[^-–—]+$/, "").replace(/[《》「」【】\s]/g, "").trim();
 }
 
-// ───────────────────────── Gemini：抽個股 + 重點 ─────────────────────────
+// ───────────────────────── Gemini：抽個股 + 重點 + 題材背景 ─────────────────────────
 
-async function extractStocks(news, apiKey) {
-  if (!apiKey || news.length === 0) return new Map();
-  const blocks = news
+// 題材標籤固定字彙（前端好上色；Gemini 只能從這裡挑）
+const THEME_TAGS = ["需求驅動", "國際大廠", "政策關稅", "循環位置"];
+// 免費版 gemini-2.5-flash 每日只有 20 次請求（GenerateRequestsPerDayPerProjectPerModel），所以要「省請求次數」而非分很多小批。
+// 一批塞多一點（≈一次一班的量），配大 maxOutputTokens 避免截斷；4 班/日 × ≤2 批 = ≤8 次/日，留餘裕。
+const GEMINI_CHUNK = 20;
+
+/** 對一小批新聞打一次 Gemini，回傳陣列，第 k 元素對應 chunk[k]（照輸入順序、最多 chunk.length 個）。 */
+async function extractChunk(chunk, apiKey) {
+  const blocks = chunk
     .map((n, i) => `【${i + 1}】標題：${n.title}\n內文：${n.body || "（無）"}`)
     .join("\n\n");
   const prompt = `以下是台股「熱門族群」彙整新聞，每則有標題與內文摘錄：
 
 ${blocks}
 
-請逐則列出文中「明確點名」的台股個股（代碼 4 碼 + 名稱），以及該檔「被點名的重點」一句話（15 字內、繁體中文、務實具體，例如「亮燈漲停、被動元件漲價」）。同一則的個股請盡量列全（標題與內文都要看）。查無明確個股就給空陣列。
-只輸出 JSON 陣列，每元素對應一則：[{"i":1,"stocks":[{"symbol":"2327","name":"國巨","point":"領被動元件漲停"}]}]，不要任何其他文字或 markdown。`;
+請逐則輸出三項：
+1. stocks：文中「明確點名」的台股個股（代碼 4 碼 + 名稱），以及該檔「被點名的重點」一句話（15 字內、繁體中文、務實具體，例如「亮燈漲停、被動元件漲價」）。同一則盡量列全（標題與內文都要看），查無明確個股就給空陣列。
+2. background：這個族群「背後的故事」1～2 句（繁體中文，共 60 字內、務實）。可用產業常識補充文章沒寫、但業界公認的重點：帶動需求的國際題材（如 AI 伺服器、HPC、車用復甦）、該族群的國際指標大廠（如 MLCC 的村田、記憶體的三星／SK 海力士／美光）、相關政府政策或關稅地緣、以及產業目前的循環位置（谷底翻揚／景氣復甦／供給吃緊）。務實客觀，不要杜撰具體數字或財測，講不確定的就別寫。
+3. themeTags：從固定清單挑 0～3 個最貼切的：${JSON.stringify(THEME_TAGS)}（只能用清單內的字，其他不要）。
+
+只輸出 JSON 陣列，每元素對應一則，例如：
+[{"i":1,"stocks":[{"symbol":"2327","name":"國巨","point":"領被動元件漲停"}],"background":"被動元件受 AI 伺服器與車用需求帶動漲價，國際 MLCC 龍頭村田缺貨外溢，國巨為台系指標，產業自谷底回升。","themeTags":["需求驅動","國際大廠","循環位置"]}]
+不要任何其他文字或 markdown。`;
   const body = {
     contents: [{ parts: [{ text: prompt }] }],
-    generationConfig: { responseMimeType: "application/json", temperature: 0.2, maxOutputTokens: 8192, thinkingConfig: { thinkingBudget: 0 } },
+    generationConfig: { responseMimeType: "application/json", temperature: 0.3, maxOutputTokens: 32768, thinkingConfig: { thinkingBudget: 0 } },
   };
+  const data = await callGemini(apiKey, body);
+  const parsed = parseJsonObjects(candidateText(data));
+  // 嚴格依「陣列順序」對位（responseMimeType:json 照輸入順序回；Gemini 常漏 i 欄位、偶爾多吐幾筆），
+  // 只取前 chunk.length 筆、按位置對應，避免多吐的物件把索引擠歪或溢位到別批。
+  return parsed.slice(0, chunk.length).map((it) => {
+    if (!it || typeof it !== "object") return null;
+    const seen = new Set();
+    const stocks = (Array.isArray(it.stocks) ? it.stocks : [])
+      .map((s) => ({ symbol: String(s.symbol ?? "").trim(), name: String(s.name ?? "").trim(), point: String(s.point ?? "").trim() }))
+      .filter((s) => isCommonStock(s.symbol) && !seen.has(s.symbol) && seen.add(s.symbol));
+    const background = String(it.background ?? "").trim();
+    const themeTags = (Array.isArray(it.themeTags) ? it.themeTags : [])
+      .map((t) => String(t ?? "").trim())
+      .filter((t) => THEME_TAGS.includes(t));
+    return { stocks, background, themeTags: [...new Set(themeTags)] };
+  });
+}
+
+/** 分批抽取，回傳 Map<news 1-based index, {stocks,background,themeTags}>。分批是為了避免單次回應被截斷。 */
+async function extractStocks(news, apiKey) {
   const byIndex = new Map();
-  try {
-    const data = await callGemini(apiKey, body);
-    for (const it of parseJsonObjects(candidateText(data))) {
-      const i = Number(it.i);
-      if (!Number.isInteger(i)) continue;
-      const stocks = (Array.isArray(it.stocks) ? it.stocks : [])
-        .map((s) => ({ symbol: String(s.symbol ?? "").trim(), name: String(s.name ?? "").trim(), point: String(s.point ?? "").trim() }))
-        .filter((s) => isCommonStock(s.symbol));
-      byIndex.set(i, stocks);
+  if (!apiKey || news.length === 0) return byIndex;
+  for (let base = 0; base < news.length; base += GEMINI_CHUNK) {
+    const chunk = news.slice(base, base + GEMINI_CHUNK);
+    try {
+      const results = await extractChunk(chunk, apiKey);
+      results.forEach((v, k) => { if (v) byIndex.set(base + k + 1, v); });
+      if (results.every((v) => !v)) console.warn(`  Gemini 這批（${base + 1}~${base + chunk.length}）解析不到內容，將於下一班重試。`);
+    } catch (e) {
+      console.warn(`  Gemini 抽取失敗（第 ${base + 1}~${base + chunk.length} 則，本批略過）：${e.message}`);
     }
-  } catch (e) {
-    console.warn(`Gemini 個股抽取失敗：${e.message}`);
+    await sleep(300);
   }
+  console.log(`Gemini 題材/個股抽取：${news.length} 則 → 成功 ${byIndex.size} 則。`);
   return byIndex;
 }
 
@@ -202,10 +234,21 @@ async function main() {
     return;
   }
 
-  // 以 gid / 標題去重合併（新資料在前）
+  // 以 gid / 標題去重合併。fresh 帶最新中繼資料，但要「沿用上一班已抽好的個股/背景/型態」，
+  // 否則每班重抓的 fresh（無 stocks/background）會蓋掉已完成的結果，導致每班重打 Gemini、且遇 429 就整批變空。
+  const priorByKey = new Map(prior.map((n) => [n.gid || titleKey(n.title), n]));
   const byKey = new Map();
   for (const n of prior) byKey.set(n.gid || titleKey(n.title), n);
-  for (const n of fresh) byKey.set(n.gid || n.tkey, n);
+  for (const n of fresh) {
+    const key = n.gid || n.tkey;
+    const p = priorByKey.get(key);
+    if (p && Array.isArray(p.stocks) && p.background) {
+      n.stocks = p.stocks;
+      n.background = p.background;
+      n.themeTags = p.themeTags;
+    }
+    byKey.set(key, n);
+  }
   let news = [...byKey.values()];
   // 二次以「標題」去重（跨來源同篇）
   const tseen = new Set();
@@ -216,18 +259,26 @@ async function main() {
     return true;
   });
 
-  // 3) 抽個股 + 重點（只對還沒抽過的新聞打 Gemini，省成本）
-  const need = news.filter((n) => !Array.isArray(n.stocks));
+  // 3) 抽個股 + 重點 + 題材背景（只對還沒抽過或上班留白的新聞打 Gemini：留白視為尚未完成，下一班重試）
+  const need = news.filter((n) => !Array.isArray(n.stocks) || !n.background);
   if (need.length) {
     const map = await extractStocks(need, apiKey);
-    need.forEach((n, i) => { n.stocks = map.get(i + 1) ?? []; });
+    need.forEach((n, i) => {
+      const r = map.get(i + 1) ?? { stocks: [], background: "", themeTags: [] };
+      n.stocks = r.stocks;
+      n.background = r.background;
+      n.themeTags = r.themeTags;
+    });
   }
-  for (const n of news) if (!Array.isArray(n.stocks)) n.stocks = [];
+  for (const n of news) {
+    if (!Array.isArray(n.stocks)) n.stocks = [];
+    if (typeof n.background !== "string") n.background = "";
+    if (!Array.isArray(n.themeTags)) n.themeTags = [];
+  }
 
-  // 3.5) 月K創新高型態過濾：只留「創新高／逼近新高／高檔修正」的個股（硬過濾），整則空了就丟。
-  //      只判定「還沒有 status」的個股（既有的沿用上一班結果，省 Yahoo 請求）。
+  // 3.5) 月K型態標記（軟標記，不再隱藏）：把「創新高／逼近新高／高檔修正」標到個股上供前端凸顯。
+  //      只判定「還沒有 status」的個股（既有沿用上一班結果，省 Yahoo 請求）。抓不到就沒有標記，個股與新聞一律保留。
   const toClassify = [...new Set(news.flatMap((n) => n.stocks.filter((s) => !s.status).map((s) => s.symbol)))];
-  let filterOk = true;
   if (toClassify.length) {
     try {
       const universe = await getStockUniverse();
@@ -239,19 +290,10 @@ async function main() {
           s.dist = Math.round(p.dist * 1000) / 10; // 距高點 %（一位小數）
         }
       }
-      console.log(`月K型態判定 ${toClassify.length} 檔，符合 ${pat.size} 檔。`);
-      // 疑似資料源異常（要判定的不少卻全部落空）→ 本班不硬過濾，避免站台被清空。
-      if (pat.size === 0 && toClassify.length >= 8) filterOk = false;
+      console.log(`月K型態標記 ${toClassify.length} 檔，符合型態 ${pat.size} 檔。`);
     } catch (e) {
-      console.warn(`月K型態判定失敗：${e.message}`);
-      filterOk = false;
+      console.warn(`月K型態標記失敗（本班個股無型態標，不影響顯示）：${e.message}`);
     }
-  }
-  if (filterOk) {
-    for (const n of news) n.stocks = n.stocks.filter((s) => s.status);
-    news = news.filter((n) => n.stocks.length > 0);
-  } else {
-    console.warn("月K型態資料疑似異常，本班跳過硬過濾（保留內容、下一班重試）。");
   }
 
   // 4) 今日漲停標記（盤中 MIS 即時、盤後 dated；取全市場漲停集合再標在被提到的個股上）
@@ -274,16 +316,28 @@ async function main() {
   news.sort((a, b) => new Date(b.pubDate || 0) - new Date(a.pubDate || 0));
   news = news.slice(0, MAX_NEWS).map(({ body, ...n }) => n);
 
+  // 保護：若本班「有背景的則數」比既有檔案還少（多半是 Gemini 429/暫時失敗），不要用較空的結果覆蓋，
+  //       保留既有較完整內容，等下一班補齊。（同日、且既有已有內容時才比較。）
+  const bgCount = news.filter((n) => n.background).length;
+  if (existing && existing.asOf?.slice(0, 10) === today) {
+    const priorBg = (existing.news || []).filter((n) => n.background).length;
+    if (priorBg > bgCount) {
+      console.warn(`本班有背景 ${bgCount} 則 < 既有 ${priorBg} 則（疑似 AI 暫時失敗），保留既有檔、不覆蓋。`);
+      return;
+    }
+  }
+
   const out = {
     asOf: taipeiISO(),
     generatedAt: new Date().toISOString(),
     keyword: KEYWORD,
-    filter: "月K創新高型態（含逼近新高、高檔修正）",
+    filter: "全部熱門族群新聞 ＋ 題材背景；個股標月K型態（創新高/逼近/修正）與當日漲停",
+    note: "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
     aiSource: apiKey ? "gemini" : "none",
     news,
   };
   await fs.writeFile(OUT_FILE, JSON.stringify(out, null, 2), "utf8");
-  console.log(`已寫入 ${path.relative(ROOT, OUT_FILE)}：${news.length} 則熱門族群新聞。`);
+  console.log(`已寫入 ${path.relative(ROOT, OUT_FILE)}：${news.length} 則熱門族群新聞（有背景 ${bgCount} 則）。`);
 }
 
 main().catch((e) => {

@@ -36,6 +36,20 @@ function stockRow(s) {
     `${patternTag(s)}${lu}${point}</li>`;
 }
 
+const THEME_TAG_CLASS = { "需求驅動": "tt-demand", "國際大廠": "tt-global", "政策關稅": "tt-policy", "循環位置": "tt-cycle" };
+
+function themeBlock(n) {
+  const bg = (n.background || "").trim();
+  const tags = (n.themeTags || [])
+    .map((t) => `<span class="ttag ${THEME_TAG_CLASS[t] || ""}">${esc(t)}</span>`)
+    .join("");
+  if (!bg && !tags) return "";
+  return `<div class="theme">
+    ${bg ? `<p class="theme-text">${esc(bg)} <span class="theme-ai">AI 整理</span></p>` : ""}
+    ${tags ? `<div class="ttags">${tags}</div>` : ""}
+  </div>`;
+}
+
 function newsCard(n) {
   const stocks = (n.stocks || []).length
     ? `<ul class="stocks">${n.stocks.map(stockRow).join("")}</ul>`
@@ -44,14 +58,15 @@ function newsCard(n) {
   return `<article class="news">
     <div class="news-title"><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a></div>
     <div class="news-sub">${esc(sub)}</div>
+    ${themeBlock(n)}
     ${stocks}
   </article>`;
 }
 
 function render(data) {
   const news = data.news || [];
-  $status.innerHTML = `更新 ${esc(fmtTime(data.asOf))}　·　${news.length} 則　·　僅顯示<b>月K創新高型態</b>個股` +
-    (data.aiSource === "none" ? "　·　（未啟用 AI 個股判讀）" : "");
+  $status.innerHTML = `更新 ${esc(fmtTime(data.asOf))}　·　${news.length} 則　·　<b>族群題材</b>＋個股標月K型態與漲停` +
+    (data.aiSource === "none" ? "　·　（未啟用 AI 判讀）" : "");
 
   if (!news.length) {
     $app.innerHTML = `<div class="empty">目前尚無「熱門族群」新聞，請稍後再回來看看。</div>`;
