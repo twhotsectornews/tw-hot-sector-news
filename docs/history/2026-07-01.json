@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "updatedAt": "2026-07-02T15:47:56.616Z",
+  "updatedAt": "2026-07-02T16:02:32.719Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQSTB4bkxOb0VZZXl1ckQtbkVjdVloN0ZST2lpVFFIWmxldmg4WmE1cVVCM2lvUy0yd2ZNdW95UnZ0ZURaTnhtbjRTaWRsYUFPay1DMXNraVNON1VFUTFfckxvUFB2V19DS1lrSGxBcDdIUEJzV19NV2pEN0pvN0JLS0ozb1QxdGY2",
@@ -16,8 +16,9 @@
           "point": "機器人族群紅燈",
           "limitUp": true,
           "pct": 9.9,
-          "lu5": 1,
+          "lu5": 2,
           "lu5d": [
+            "7/2",
             "7/1"
           ]
         },
@@ -29,11 +30,10 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.8,
-          "lu5": 3,
+          "lu5": 2,
           "lu5d": [
             "7/1",
-            "6/30",
-            "6/25"
+            "6/30"
           ]
         },
         {
@@ -74,11 +74,11 @@
           "pct": 9.7,
           "lu5": 5,
           "lu5d": [
+            "7/2",
             "7/1",
             "6/30",
             "6/29",
-            "6/26",
-            "6/25"
+            "6/26"
           ]
         }
       ],
