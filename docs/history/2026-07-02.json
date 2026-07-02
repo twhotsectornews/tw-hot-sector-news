@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "updatedAt": "2026-07-02T18:18:28.261Z",
+  "updatedAt": "2026-07-02T18:55:12.169Z",
   "news": [
     {
       "gid": "CBMijwFBVV95cUxPQ2hCUlBxS3cyYUhyRm93U3hOQWJWUk41bkNvZVdZVWdpNGlaSFJHYktmeDZGVDJCRjhjUmdFYTdUWnliZUtVNGlFdk9OUTcxUUQwbEM2RmtvT1BuU19CbWQzWG9rb3hJN0xXb2hFVDVTdHQtMGstT0JlRS14R1JOQXFOSHNvTXU4dE5DbDFndw",
@@ -26,10 +26,9 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.8,
-          "lu5": 2,
+          "lu5": 1,
           "lu5d": [
-            "7/2",
-            "6/30"
+            "7/2"
           ]
         },
         {
@@ -46,13 +45,9 @@
           "dist": -6.6,
           "limitUp": true,
           "pct": 9.9,
-          "lu5": 5,
+          "lu5": 1,
           "lu5d": [
-            "7/2",
-            "7/1",
-            "6/30",
-            "6/29",
-            "6/26"
+            "7/2"
           ]
         }
       ],
@@ -138,12 +133,7 @@
           "point": "強彈7%挺進歷史高",
           "status": "逼近新高",
           "dist": -1.5,
-          "limitUp": false,
-          "lu5": 2,
-          "lu5d": [
-            "7/1",
-            "6/30"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "6505",
@@ -169,12 +159,7 @@
           "point": "盤中翻黑",
           "status": "逼近新高",
           "dist": -4.5,
-          "limitUp": false,
-          "lu5": 2,
-          "lu5d": [
-            "7/1",
-            "6/30"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "2408",
@@ -188,11 +173,7 @@
           "point": "回測5日線關卡",
           "status": "高檔修正",
           "dist": -10.9,
-          "limitUp": false,
-          "lu5": 1,
-          "lu5d": [
-            "6/30"
-          ]
+          "limitUp": false
         }
       ],
       "background": "台塑集團受惠除息、填息行情，塑化景氣落底、油價利差改善，南亞受AI電子材料需求升溫。",
@@ -249,12 +230,7 @@
           "symbol": "2406",
           "name": "國碩",
           "point": "太陽能股逆勢走強",
-          "limitUp": false,
-          "lu5": 2,
-          "lu5d": [
-            "6/30",
-            "6/29"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "6409",
@@ -311,13 +287,9 @@
           "dist": 0,
           "limitUp": true,
           "pct": 10,
-          "lu5": 5,
+          "lu5": 1,
           "lu5d": [
-            "7/2",
-            "7/1",
-            "6/30",
-            "6/29",
-            "6/26"
+            "7/2"
           ]
         },
         {
@@ -326,12 +298,7 @@
           "point": "矽晶圓漲價訊號",
           "status": "逼近新高",
           "dist": -4.5,
-          "limitUp": false,
-          "lu5": 2,
-          "lu5d": [
-            "7/1",
-            "6/30"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3016",
@@ -341,10 +308,9 @@
           "dist": -12.4,
           "limitUp": true,
           "pct": 9.8,
-          "lu5": 2,
+          "lu5": 1,
           "lu5d": [
-            "7/2",
-            "6/30"
+            "7/2"
           ]
         },
         {
@@ -390,11 +356,9 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.9,
-          "lu5": 3,
+          "lu5": 1,
           "lu5d": [
-            "7/2",
-            "7/1",
-            "6/30"
+            "7/2"
           ]
         },
         {
@@ -405,10 +369,9 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.8,
-          "lu5": 2,
+          "lu5": 1,
           "lu5d": [
-            "7/2",
-            "6/30"
+            "7/2"
           ]
         },
         {
@@ -419,13 +382,9 @@
           "dist": -6.6,
           "limitUp": true,
           "pct": 9.9,
-          "lu5": 5,
+          "lu5": 1,
           "lu5d": [
-            "7/2",
-            "7/1",
-            "6/30",
-            "6/29",
-            "6/26"
+            "7/2"
           ]
         },
         {
@@ -442,13 +401,9 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.9,
-          "lu5": 5,
+          "lu5": 1,
           "lu5d": [
-            "7/2",
-            "7/1",
-            "6/30",
-            "6/29",
-            "6/26"
+            "7/2"
           ]
         },
         {
@@ -459,13 +414,9 @@
           "dist": -0.8,
           "limitUp": true,
           "pct": 10,
-          "lu5": 5,
+          "lu5": 1,
           "lu5d": [
-            "7/2",
-            "7/1",
-            "6/30",
-            "6/29",
-            "6/26"
+            "7/2"
           ]
         },
         {
@@ -474,13 +425,9 @@
           "point": "電源管理IC與MOSFET相關",
           "limitUp": true,
           "pct": 9.7,
-          "lu5": 5,
+          "lu5": 1,
           "lu5d": [
-            "7/2",
-            "7/1",
-            "6/30",
-            "6/29",
-            "6/26"
+            "7/2"
           ]
         }
       ],
@@ -554,13 +501,9 @@
           "point": "概念股同步表態",
           "limitUp": true,
           "pct": 10,
-          "lu5": 5,
+          "lu5": 1,
           "lu5d": [
-            "7/2",
-            "7/1",
-            "6/30",
-            "6/29",
-            "6/26"
+            "7/2"
           ]
         }
       ],
@@ -583,11 +526,7 @@
           "point": "外資調升目標價至1,550元",
           "status": "高檔修正",
           "dist": -10.9,
-          "limitUp": false,
-          "lu5": 1,
-          "lu5d": [
-            "6/30"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3037",
@@ -595,11 +534,7 @@
           "point": "外資調升目標價至1,500元",
           "status": "高檔修正",
           "dist": -13.4,
-          "limitUp": false,
-          "lu5": 1,
-          "lu5d": [
-            "6/30"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3189",
@@ -607,11 +542,7 @@
           "point": "外資調升目標價至1,100元",
           "status": "高檔修正",
           "dist": -11.6,
-          "limitUp": false,
-          "lu5": 1,
-          "lu5d": [
-            "6/30"
-          ]
+          "limitUp": false
         }
       ],
       "background": "ABF載板受AI GPU、ASIC與CPU需求持續攀升，市場供給吃緊將延續至2027年，支撐價格上漲。",
