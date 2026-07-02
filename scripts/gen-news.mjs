@@ -10,6 +10,7 @@ import path from "node:path";
 import {
   ROOT, sleep, readKey, getText, callGemini, candidateText, parseJsonObjects,
   isCommonStock, getTodayLimitUps, getStockUniverse, classifyMentioned,
+  GEMINI_MODEL, GEMINI_FALLBACK_MODEL,
 } from "./lib/core.mjs";
 
 const DOCS_DIR = path.join(ROOT, "docs");
@@ -139,7 +140,19 @@ ${blocks}
     contents: [{ parts: [{ text: prompt }] }],
     generationConfig: { responseMimeType: "application/json", temperature: 0.3, maxOutputTokens: 32768, thinkingConfig: { thinkingBudget: 0 } },
   };
-  const data = await callGemini(apiKey, body);
+  // 主模型（flash）配額用盡就換備援（flash-lite，配額獨立）；兩個都失敗才丟出（本批下一班重試）。
+  let data;
+  const models = [GEMINI_MODEL, GEMINI_FALLBACK_MODEL];
+  for (let m = 0; m < models.length; m++) {
+    try {
+      data = await callGemini(apiKey, body, models[m]);
+      if (m > 0) console.log(`  （改用備援模型 ${models[m]} 成功）`);
+      break;
+    } catch (e) {
+      if (m === models.length - 1) throw e;
+      console.warn(`  主模型 ${models[m]} 失敗（${e.message.slice(0, 70)}）→ 改試備援 ${models[m + 1]}`);
+    }
+  }
   const parsed = parseJsonObjects(candidateText(data));
   // 嚴格依「陣列順序」對位（responseMimeType:json 照輸入順序回；Gemini 常漏 i 欄位、偶爾多吐幾筆），
   // 只取前 chunk.length 筆、按位置對應，避免多吐的物件把索引擠歪或溢位到別批。

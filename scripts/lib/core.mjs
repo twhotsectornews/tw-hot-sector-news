@@ -469,10 +469,12 @@ export async function classifyMentioned(symbols, universe) {
 // ───────────────────────── Gemini ─────────────────────────
 
 export const GEMINI_MODEL = "gemini-2.5-flash";
+// 備援：免費版每個模型各自有每日請求配額，flash 用完時改打 flash-lite（配額獨立、通常更寬）。
+export const GEMINI_FALLBACK_MODEL = "gemini-2.5-flash-lite";
 
-/** 呼叫 Gemini generateContent，對 429/500/503 退避重試。 */
-export async function callGemini(apiKey, body) {
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${apiKey}`;
+/** 呼叫 Gemini generateContent，對「暫時性」429/500/503 退避重試；每日配額用盡（RESOURCE_EXHAUSTED）不重試、直接丟出讓上層換模型。 */
+export async function callGemini(apiKey, body, model = GEMINI_MODEL) {
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
   for (let attempt = 0; ; attempt++) {
     const res = await fetch(url, {
       method: "POST",
@@ -480,14 +482,16 @@ export async function callGemini(apiKey, body) {
       body: JSON.stringify(body),
     });
     if (res.ok) return res.json();
-    if ([429, 500, 503].includes(res.status) && attempt < 4) {
-      const wait = 5_000 * (attempt + 1);
-      console.warn(`  Gemini HTTP ${res.status}，${wait / 1000}s 後重試（第 ${attempt + 1} 次）…`);
+    const t = await res.text().catch(() => "");
+    // 每日配額用盡（PerDay / RESOURCE_EXHAUSTED）→ 等再久也沒用，立刻丟出換備援模型。
+    const dailyExhausted = res.status === 429 && /PerDay|RequestsPerDay|RESOURCE_EXHAUSTED/i.test(t);
+    if (!dailyExhausted && [429, 500, 503].includes(res.status) && attempt < 3) {
+      const wait = 4_000 * (attempt + 1);
+      console.warn(`  Gemini(${model}) HTTP ${res.status}，${wait / 1000}s 後重試（第 ${attempt + 1} 次）…`);
       await sleep(wait);
       continue;
     }
-    const t = await res.text().catch(() => "");
-    throw new Error(`Gemini HTTP ${res.status}: ${t.slice(0, 200)}`);
+    throw new Error(`Gemini HTTP ${res.status}: ${t.slice(0, 160)}`);
   }
 }
 
