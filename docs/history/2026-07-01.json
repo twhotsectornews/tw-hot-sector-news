@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "updatedAt": "2026-07-02T18:55:12.170Z",
+  "updatedAt": "2026-07-02T23:28:07.287Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQSTB4bkxOb0VZZXl1ckQtbkVjdVloN0ZST2lpVFFIWmxldmg4WmE1cVVCM2lvUy0yd2ZNdW95UnZ0ZURaTnhtbjRTaWRsYUFPay1DMXNraVNON1VFUTFfckxvUFB2V19DS1lrSGxBcDdIUEJzV19NV2pEN0pvN0JLS0ozb1QxdGY2",
@@ -16,9 +16,10 @@
           "point": "機器人族群紅燈",
           "limitUp": true,
           "pct": 9.9,
-          "lu5": 1,
+          "lu5": 2,
           "lu5d": [
-            "7/2"
+            "7/2",
+            "7/1"
           ]
         },
         {
@@ -28,7 +29,12 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 9.8
+          "pct": 9.8,
+          "lu5": 2,
+          "lu5d": [
+            "7/1",
+            "6/30"
+          ]
         },
         {
           "symbol": "2464",
@@ -37,14 +43,23 @@
           "status": "逼近新高",
           "dist": -5.9,
           "limitUp": true,
-          "pct": 9.8
+          "pct": 9.8,
+          "lu5": 1,
+          "lu5d": [
+            "7/1"
+          ]
         },
         {
           "symbol": "2233",
           "name": "宇隆",
           "point": "機器人族群紅燈",
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "lu5": 2,
+          "lu5d": [
+            "7/1",
+            "6/30"
+          ]
         },
         {
           "symbol": "3594",
@@ -57,9 +72,13 @@
           "point": "機器人族群紅燈",
           "limitUp": true,
           "pct": 9.7,
-          "lu5": 1,
+          "lu5": 5,
           "lu5d": [
-            "7/2"
+            "7/2",
+            "7/1",
+            "6/30",
+            "6/29",
+            "6/26"
           ]
         }
       ],
@@ -137,7 +156,13 @@
           "status": "逼近新高",
           "dist": -2.6,
           "limitUp": true,
-          "pct": 9.7
+          "pct": 9.7,
+          "lu5": 3,
+          "lu5d": [
+            "7/1",
+            "6/30",
+            "6/29"
+          ]
         },
         {
           "symbol": "2645",
@@ -146,7 +171,11 @@
           "status": "逼近新高",
           "dist": -8.3,
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "lu5": 1,
+          "lu5d": [
+            "7/1"
+          ]
         },
         {
           "symbol": "4916",
@@ -155,7 +184,11 @@
           "status": "高檔修正",
           "dist": -11.8,
           "limitUp": true,
-          "pct": 9.8
+          "pct": 9.8,
+          "lu5": 1,
+          "lu5d": [
+            "7/1"
+          ]
         },
         {
           "symbol": "7402",
@@ -172,7 +205,11 @@
         {
           "symbol": "2630",
           "name": "亞航",
-          "point": "跟進秀出半顆紅燈"
+          "point": "跟進秀出半顆紅燈",
+          "lu5": 1,
+          "lu5d": [
+            "6/30"
+          ]
         },
         {
           "symbol": "6618",
@@ -260,7 +297,11 @@
           "name": "禾伸堂",
           "point": "強漲512%",
           "status": "逼近新高",
-          "dist": -1.7
+          "dist": -1.7,
+          "lu5": 1,
+          "lu5d": [
+            "6/30"
+          ]
         },
         {
           "symbol": "6173",
@@ -276,14 +317,22 @@
           "name": "華新科",
           "point": "上漲超過3.5倍",
           "status": "逼近新高",
-          "dist": -6.5
+          "dist": -6.5,
+          "lu5": 1,
+          "lu5d": [
+            "6/30"
+          ]
         },
         {
           "symbol": "2327",
           "name": "國巨",
           "point": "上漲超過3.5倍",
           "status": "逼近新高",
-          "dist": -6.6
+          "dist": -6.6,
+          "lu5": 1,
+          "lu5d": [
+            "6/30"
+          ]
         },
         {
           "symbol": "6834",
@@ -297,7 +346,11 @@
           "name": "大毅",
           "point": "擠進前十大個股",
           "status": "高檔修正",
-          "dist": -11
+          "dist": -11,
+          "lu5": 1,
+          "lu5d": [
+            "6/30"
+          ]
         }
       ],
       "background": "被動元件產業受AI伺服器需求與原料成本上升雙重驅動，MLCC量價齊揚，產業迎來「超級循環」，展望未來3-5年動能。",
