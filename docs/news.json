@@ -1,11 +1,91 @@
 {
-  "asOf": "2026-07-02T13:02:54.912+08:00",
-  "generatedAt": "2026-07-02T05:02:54.912Z",
+  "asOf": "2026-07-02T14:01:55.647+08:00",
+  "generatedAt": "2026-07-02T06:01:55.647Z",
   "keyword": "熱門族群",
   "filter": "全部熱門族群新聞 ＋ 題材背景；個股標月K型態（創新高/逼近/修正）與當日漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "news": [
+    {
+      "gid": "CBMijwFBVV95cUxPQ2hCUlBxS3cyYUhyRm93U3hOQWJWUk41bkNvZVdZVWdpNGlaSFJHYktmeDZGVDJCRjhjUmdFYTdUWnliZUtVNGlFdk9OUTcxUUQwbEM2RmtvT1BuU19CbWQzWG9rb3hJN0xXb2hFVDVTdHQtMGstT0JlRS14R1JOQXFOSHNvTXU4dE5DbDFndw",
+      "tkey": "熱門族群功率元件爆搶料德微、強茂、穩得及台半樂透",
+      "title": "《熱門族群》功率元件爆搶料 德微、強茂、穩得及台半樂透 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6225793001&pu=News_0031",
+      "source": "富聯網",
+      "pubDate": "Thu, 02 Jul 2026 04:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3675",
+          "name": "德微",
+          "point": "功率元件訂單滿手全面漲價",
+          "status": "逼近新高",
+          "dist": -8.6
+        },
+        {
+          "symbol": "2481",
+          "name": "強茂",
+          "point": "功率元件訂單滿手全面漲價",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 9.8
+        },
+        {
+          "symbol": "6761",
+          "name": "穩得",
+          "point": "功率元件訂單滿手全面漲價"
+        },
+        {
+          "symbol": "5425",
+          "name": "台半",
+          "point": "功率元件訂單滿手全面漲價",
+          "status": "逼近新高",
+          "dist": -6.6
+        }
+      ],
+      "background": "歐洲美洲加速AI資料中心與電網去中化，汰除大陸功率元件，設備交期拉長，供不應求缺口擴大。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQZTRscl9hdnl3YkZsZmszeEJJcENpbTV3YnVfTkwwa0xpY0FFQThzdktqMUxyWEphTWpUQmZPVnNWaWdiOHh2TDN1ZWFHYXVKeHhxYXVwTm9WMmNXNzN2V29nRTE5UXlIbEZ6cW1vS0twYVpkSVkwVnE1STVOQWpsMlFZd0lNSkVs",
+      "tkey": "熱門族群陸廠銷美受阻！太陽能逆變器迎千億轉單旭隼、全漢逆漲",
+      "title": "《熱門族群》陸廠銷美受阻！太陽能逆變器迎千億轉單 旭隼、全漢逆漲 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6225772001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 02 Jul 2026 04:26:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6409",
+          "name": "旭隼",
+          "point": "太陽能逆變器迎千億轉單"
+        },
+        {
+          "symbol": "3015",
+          "name": "全漢",
+          "point": "太陽能逆變器迎千億轉單",
+          "status": "逼近新高",
+          "dist": -4.4
+        },
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "point": "太陽能逆變器迎千億轉單"
+        },
+        {
+          "symbol": "1514",
+          "name": "亞力",
+          "point": "太陽能逆變器迎千億轉單"
+        }
+      ],
+      "background": "美國擬禁止中國製太陽能逆變器進口，台灣廠可望受惠轉單，市場規模上看千億元。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPT212amFIaElOT3lpYTNPaUhnanFuckt2aDExb0NFVjBGaHlzQXNwRnkzZ2VBUkZpRnVHQVdhb2F2TEFoZUd6TlJQZnpzNkNZZmNMVFpjb29LVVJmWXI3NWhudTVpdTdkR1pzbjBtSWlnSUYxZkllazFSUHVDZ3NKRm9vOWUySm9P",
       "tkey": "熱門族群太陽能股逆勢吸金！國碩走強、旭隼受惠轉單題材",
@@ -56,7 +136,9 @@
         {
           "symbol": "1301",
           "name": "台塑",
-          "point": "除息填息補漲攻漲停"
+          "point": "除息填息補漲攻漲停",
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "1326",
@@ -124,7 +206,9 @@
           "name": "嘉晶",
           "point": "盤初閃紅燈",
           "status": "高檔修正",
-          "dist": -12.4
+          "dist": -12.4,
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "3707",
@@ -167,14 +251,16 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 10
+          "pct": 9.9
         },
         {
           "symbol": "2481",
           "name": "強茂",
           "point": "AI伺服器電源應用營收占比提升",
           "status": "逼近新高",
-          "dist": -2.4
+          "dist": -2.4,
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "5425",
@@ -244,12 +330,16 @@
         {
           "symbol": "4585",
           "name": "達明",
-          "point": "概念股同步表態"
+          "point": "概念股同步表態",
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "1597",
           "name": "直得",
-          "point": "概念股同步表態，亮燈漲停"
+          "point": "概念股同步表態，亮燈漲停",
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "8374",
@@ -263,7 +353,7 @@
           "name": "泓格",
           "point": "概念股同步表態，亮燈漲停",
           "limitUp": true,
-          "pct": 10
+          "pct": 9.7
         }
       ],
       "background": "人形機器人應用從展示、工業試點進一步走向量產與消費端，帶動市場想像空間升溫，台廠供應鏈逐步卡位成形。",
@@ -357,7 +447,7 @@
           "name": "泓格",
           "point": "機器人族群紅燈",
           "limitUp": true,
-          "pct": 10
+          "pct": 9.7
         }
       ],
       "background": "人形機器人發展元年，AI教父黃仁勳看好其推理能力，特斯拉預計第三季量產，匯豐投信推出相關基金，吸引資金卡位。",
@@ -655,7 +745,7 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 10
+          "pct": 9.9
         },
         {
           "symbol": "6138",
@@ -856,7 +946,9 @@
           "name": "嘉晶",
           "point": "觸及漲停",
           "status": "高檔修正",
-          "dist": -14.1
+          "dist": -14.1,
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "3707",
