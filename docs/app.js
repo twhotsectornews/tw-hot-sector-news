@@ -27,9 +27,15 @@ function patternTag(s) {
 }
 
 function stockRow(s) {
-  const lu = s.limitUp
-    ? `<span class="lu">漲停${typeof s.pct === "number" ? ` +${s.pct.toFixed(1)}%` : ""}</span>`
-    : `<span class="lu-none"></span>`;
+  const luTip = s.lu5 ? `近5交易日漲停：${(s.lu5d || []).join("、")}` : "";
+  let lu;
+  if (s.limitUp) {
+    lu = `<span class="lu" title="${esc(luTip)}">漲停${typeof s.pct === "number" ? ` +${s.pct.toFixed(1)}%` : ""}</span>`;
+  } else if (s.lu5) {
+    lu = `<span class="lu lu-past" title="${esc(luTip)}">5日${s.lu5}停</span>`;
+  } else {
+    lu = `<span class="lu-none"></span>`;
+  }
   const point = s.point ? `<span class="point">${esc(s.point)}</span>` : "";
   return `<li class="stk${s.limitUp ? " is-lu" : ""}">` +
     `<span class="tkr"><span class="code">${esc(s.symbol)}</span><span class="name">${esc(s.name)}</span></span>` +
@@ -63,27 +69,73 @@ function newsCard(n) {
   </article>`;
 }
 
+// 台北日輔助（與後端一致：pubDate → YYYY-MM-DD）
+const tpDay = (ms) => new Date(ms + 8 * 3600e3).toISOString().slice(0, 10);
+function newsDay(n) {
+  const t = new Date(n.pubDate ?? 0).getTime();
+  return Number.isFinite(t) && t > 0 ? tpDay(t) : tpDay(Date.now());
+}
+function dayLabel(day) {
+  const today = tpDay(Date.now()), yesterday = tpDay(Date.now() - 86400e3);
+  const wd = new Intl.DateTimeFormat("zh-TW", { weekday: "short", timeZone: "Asia/Taipei" })
+    .format(new Date(day + "T12:00:00+08:00"));
+  const md = `${+day.slice(5, 7)}/${+day.slice(8, 10)}`;
+  if (day === today) return `今天 ${md}（${wd}）`;
+  if (day === yesterday) return `昨天 ${md}（${wd}）`;
+  return `${md}（${wd}）`;
+}
+
+/** 資料過期提示：平日超過 26 小時沒更新就示警（跨週末放寬到 78 小時）。 */
+function staleBanner(asOf) {
+  const t = new Date(asOf).getTime();
+  if (!Number.isFinite(t)) return "";
+  const hrs = (Date.now() - t) / 3600e3;
+  const dow = new Date(Date.now() + 8 * 3600e3).getUTCDay(); // 台北星期（0=日）
+  const limit = (dow === 0 || dow === 6 || dow === 1) ? 78 : 26;
+  if (hrs <= limit) return "";
+  return `<div class="stale">⚠ 資料已約 ${Math.round(hrs)} 小時未更新，來源或排程可能暫時故障。</div>`;
+}
+
 function render(data) {
   const news = data.news || [];
-  $status.innerHTML = `更新 ${esc(fmtTime(data.asOf))}　·　${news.length} 則　·　<b>族群題材</b>＋個股標月K型態與漲停` +
+  $status.innerHTML = `更新 ${esc(fmtTime(data.asOf))}　·　${news.length} 則　·　<b>族群題材</b>＋月K型態、漲停與近5日漲停` +
     (data.aiSource === "none" ? "　·　（未啟用 AI 判讀）" : "");
 
   if (!news.length) {
-    $app.innerHTML = `<div class="empty">目前尚無「熱門族群」新聞，請稍後再回來看看。</div>`;
+    $app.innerHTML = staleBanner(data.asOf) +
+      `<div class="empty">目前尚無「熱門族群」新聞，請稍後再回來看看。</div>`;
     return;
   }
 
-  $app.innerHTML = `
+  // 按台北日分組（資料端已排序、只留今天＋前一發布日）
+  const groups = new Map();
+  for (const n of news) {
+    const d = newsDay(n);
+    if (!groups.has(d)) groups.set(d, []);
+    groups.get(d).push(n);
+  }
+  const sections = [...groups.entries()].map(([d, items]) => `
+    <section class="day-sec">
+      <h2 class="day-head">${esc(dayLabel(d))}<span class="day-count">${items.length} 則</span></h2>
+      ${items.map(newsCard).join("")}
+    </section>`).join("");
+
+  $app.innerHTML = staleBanner(data.asOf) + `
     <div class="toolbar">
       <input id="filter" class="filter" type="search" placeholder="篩選：股號 / 股名 / 標題…" />
     </div>
-    <div id="list">${news.map(newsCard).join("")}</div>`;
+    <div id="list">${sections}</div>`;
 
   const $filter = document.getElementById("filter");
   $filter.addEventListener("input", () => {
     const q = $filter.value.trim().toLowerCase();
     document.querySelectorAll("#list .news").forEach((el) => {
       el.style.display = !q || el.textContent.toLowerCase().includes(q) ? "" : "none";
+    });
+    // 整組都被濾掉時連日期標頭一起藏
+    document.querySelectorAll("#list .day-sec").forEach((sec) => {
+      const any = [...sec.querySelectorAll(".news")].some((el) => el.style.display !== "none");
+      sec.style.display = any ? "" : "none";
     });
   });
 }

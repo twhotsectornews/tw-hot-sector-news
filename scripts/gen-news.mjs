@@ -1,15 +1,15 @@
 // 熱門族群焦點 —— 每班（台北 11/12/13/14 點）執行一次。力求簡單，只做一件事：
 //  1) 抓「標題含『熱門族群』」的彙整型新聞（富聯網《熱門族群》等專欄）。
-//  2) 讀該篇內文，用 Gemini 逐則抽出「提到的個股 + 重點（為何被點名）」。
-//  3) 用證交所 MIS 即時，替被提到的個股標記「今日漲停」。
-//  4) 輸出 docs/news.json：news[] = { title, url, source, pubDate, stocks:[{symbol,name,point,limitUp,pct}] }。
-// 跨班累積、跨日封存。任一步失敗盡量保留既有、不覆蓋成空。
+//  2) 讀該篇內文，用 Gemini 逐則抽出「提到的個股 + 重點」＋族群題材背景。
+//  3) 標記「今日漲停」（只動今日新聞）與「近 5 個交易日漲停」（所有個股）。
+//  4) 輸出 docs/news.json：只保留「今天＋前一個發布日」兩組，其餘按 pubDate 分日封存到 docs/history/。
+// 跨班累積、已完成的新聞不重抽也不重打轉址。任一步失敗盡量保留既有、不退化。
 
 import { promises as fs } from "node:fs";
 import path from "node:path";
 import {
   ROOT, sleep, readKey, getText, callGemini, candidateText, parseJsonObjects,
-  isCommonStock, getTodayLimitUps, getStockUniverse, classifyMentioned,
+  isCommonStock, getTodayLimitUps, getRecentLimitUps, getStockUniverse, classifyMentioned,
   GEMINI_MODEL, GEMINI_FALLBACK_MODEL,
 } from "./lib/core.mjs";
 
@@ -18,13 +18,17 @@ const OUT_FILE = path.join(DOCS_DIR, "news.json");
 const HISTORY_DIR = path.join(DOCS_DIR, "history");
 
 const KEYWORD = "熱門族群";   // 標題必須含這四個字（使用者明確要求）
-const MAX_NEWS = 40;          // 一天內最多保留幾則
-const BODY_CHARS = 1600;      // 餵給 Gemini 的內文擷取長度
+const MAX_NEWS = 40;          // 頁面（兩日組）最多保留幾則
+const BODY_CHARS = 3000;      // 餵給 Gemini 的內文擷取長度（彙整型專欄常列 10+ 檔，太短會漏抽後半的個股）
+const KEEP_DAY_GROUPS = 2;    // 頁面保留幾個「日組」（今天＋前一個發布日）
+const KEEP_MAX_AGE_DAYS = 4;  // 日組最舊只回看幾天（涵蓋週一顯示上週五）
 
 // ───────────────────────── 台北時間 ─────────────────────────
 const taipeiNow = () => new Date(Date.now() + 8 * 3600_000);
 const taipeiISO = (d = taipeiNow()) => d.toISOString().replace("Z", "+08:00");
 const taipeiDate = (d = taipeiNow()) => d.toISOString().slice(0, 10);
+/** 任意毫秒時戳 → 台北日 YYYY-MM-DD。 */
+const taipeiDayOf = (ms) => new Date(ms + 8 * 3600_000).toISOString().slice(0, 10);
 
 // ───────────────────────── Google News RSS ─────────────────────────
 
@@ -153,6 +157,10 @@ ${blocks}
       console.warn(`  主模型 ${models[m]} 失敗（${e.message.slice(0, 70)}）→ 改試備援 ${models[m + 1]}`);
     }
   }
+  // 回應不完整（被 maxOutputTokens 截斷等）→ 視為本批失敗：截斷的巢狀 JSON 會被容錯解析
+  // 抽成內層碎片、看似成功實為空白，寧可拋錯讓下一班重試。
+  const finish = data?.candidates?.[0]?.finishReason;
+  if (finish && finish !== "STOP") throw new Error(`回應不完整（finishReason=${finish}）`);
   const parsed = parseJsonObjects(candidateText(data));
   // 嚴格依「陣列順序」對位（responseMimeType:json 照輸入順序回；Gemini 常漏 i 欄位、偶爾多吐幾筆），
   // 只取前 chunk.length 筆、按位置對應，避免多吐的物件把索引擠歪或溢位到別批。
@@ -199,11 +207,38 @@ async function readExisting() {
   }
 }
 
+/** 新聞屬於哪個台北日（依 pubDate；無法解析就當今天，維持可見）。 */
+function newsDay(n, today) {
+  const t = new Date(n.pubDate ?? 0).getTime();
+  return Number.isFinite(t) && t > 0 ? taipeiDayOf(t) : today;
+}
+
+/** 新聞是否已完成抽取（有個股陣列＋有背景）。 */
+const isComplete = (n) => Array.isArray(n?.stocks) && !!n?.background;
+
+/** 把某日的新聞 upsert 進 docs/history/<day>.json（以 gid 合併，不重複、不遺失）。 */
+async function upsertHistory(day, items) {
+  const file = path.join(HISTORY_DIR, `${day}.json`);
+  let old = null;
+  try { old = JSON.parse(await fs.readFile(file, "utf8")); } catch {}
+  const byGid = new Map((old?.news ?? []).map((n) => [n.gid || titleKey(n.title), n]));
+  for (const n of items) byGid.set(n.gid || titleKey(n.title), n);
+  const merged = [...byGid.values()]
+    .sort((a, b) => new Date(b.pubDate || 0) - new Date(a.pubDate || 0))
+    .map(({ body, ...n }) => n);
+  await fs.writeFile(file, JSON.stringify({ date: day, updatedAt: new Date().toISOString(), news: merged }, null, 2), "utf8");
+}
+
 async function main() {
   const apiKey = await readKey("GEMINI_API_KEY");
   const today = taipeiDate();
   await fs.mkdir(DOCS_DIR, { recursive: true });
   await fs.mkdir(HISTORY_DIR, { recursive: true });
+
+  // 0) 先讀既有檔（跨日也沿用；封存改在寫檔時按 pubDate 分日處理，不再依賴 asOf 跨日時序）
+  const existing = await readExisting();
+  const prior = Array.isArray(existing?.news) ? existing.news : [];
+  const priorByKey = new Map(prior.map((n) => [n.gid || titleKey(n.title), n]));
 
   // 1) 抓「標題含 熱門族群」的新聞
   const q = encodeURIComponent(`${KEYWORD} when:2d`);
@@ -216,54 +251,34 @@ async function main() {
   }
   console.log(`標題含「${KEYWORD}」的新聞：${raw.length} 則。`);
 
-  // 解析真實 URL、抓內文、以「文章 id + 標題」去重
+  // 1.5) 逐則處理（以「文章 id + 標題」去重）：
+  //      已完成的沿用既有、不重打轉址與內文（省每班 ~3 次 HTTP/則）；只補救仍是 google 轉址的網址。
   const seenGid = new Set(), seenTitle = new Set();
-  const fresh = [];
+  const fresh = [];   // 本班需要（重）抽取的項目
   for (const it of raw) {
     const gid = googleArticleId(it.link);
     const tkey = titleKey(it.title);
     if (seenGid.has(gid) || seenTitle.has(tkey)) continue;
     seenGid.add(gid); seenTitle.add(tkey);
+    const p = priorByKey.get(gid);
+    if (p && isComplete(p)) {
+      if (/news\.google\.com/.test(p.url || "")) {
+        const u = await resolveUrl(it.link);
+        if (!/news\.google\.com/.test(u)) p.url = u;
+      }
+      continue;
+    }
     const url = await resolveUrl(it.link);
     const bodyText = await fetchArticleText(url);
     fresh.push({ gid, tkey, title: it.title, url, source: it.source, pubDate: it.pubDate, body: bodyText });
   }
 
-  // 2) 合併既有（同日累積；跨日封存）
-  const existing = await readExisting();
-  let prior = [];
-  if (existing && existing.asOf?.slice(0, 10) === today) {
-    prior = Array.isArray(existing.news) ? existing.news : [];
-  } else if (existing?.asOf) {
-    const oldDate = existing.asOf.slice(0, 10);
-    try {
-      await fs.writeFile(path.join(HISTORY_DIR, `${oldDate}.json`), JSON.stringify(existing, null, 2), "utf8");
-      console.log(`封存前一日 ${oldDate}。`);
-    } catch {}
-  }
-
-  if (fresh.length === 0 && prior.length > 0) {
-    console.log("本班無新增新聞，保留既有當日內容。");
-    return;
-  }
-
-  // 以 gid / 標題去重合併。fresh 帶最新中繼資料，但要「沿用上一班已抽好的個股/背景/型態」，
-  // 否則每班重抓的 fresh（無 stocks/background）會蓋掉已完成的結果，導致每班重打 Gemini、且遇 429 就整批變空。
-  const priorByKey = new Map(prior.map((n) => [n.gid || titleKey(n.title), n]));
+  // 2) 合併：既有全保留（含昨日組），fresh 蓋掉同 gid 的未完成版本
   const byKey = new Map();
   for (const n of prior) byKey.set(n.gid || titleKey(n.title), n);
-  for (const n of fresh) {
-    const key = n.gid || n.tkey;
-    const p = priorByKey.get(key);
-    if (p && Array.isArray(p.stocks) && p.background) {
-      n.stocks = p.stocks;
-      n.background = p.background;
-      n.themeTags = p.themeTags;
-    }
-    byKey.set(key, n);
-  }
+  for (const n of fresh) byKey.set(n.gid || n.tkey, n);
   let news = [...byKey.values()];
-  // 二次以「標題」去重（跨來源同篇）
+  // 二次以「標題」去重（跨來源同篇；既有在前，故保留已完成版本）
   const tseen = new Set();
   news = news.filter((n) => {
     const k = n.tkey || titleKey(n.title);
@@ -272,12 +287,13 @@ async function main() {
     return true;
   });
 
-  // 3) 抽個股 + 重點 + 題材背景（只對還沒抽過或上班留白的新聞打 Gemini：留白視為尚未完成，下一班重試）
-  const need = news.filter((n) => !Array.isArray(n.stocks) || !n.background);
+  // 3) 抽個股 + 重點 + 題材背景（只對未完成的打 Gemini；本班失敗「保留原值」下一班重試，絕不清空既有）
+  const need = news.filter((n) => !isComplete(n));
   if (need.length) {
     const map = await extractStocks(need, apiKey);
     need.forEach((n, i) => {
-      const r = map.get(i + 1) ?? { stocks: [], background: "", themeTags: [] };
+      const r = map.get(i + 1);
+      if (!r) return; // 本批失敗 → 不動原值
       n.stocks = r.stocks;
       n.background = r.background;
       n.themeTags = r.themeTags;
@@ -289,8 +305,7 @@ async function main() {
     if (!Array.isArray(n.themeTags)) n.themeTags = [];
   }
 
-  // 3.5) 月K型態標記（軟標記，不再隱藏）：把「創新高／逼近新高／高檔修正」標到個股上供前端凸顯。
-  //      只判定「還沒有 status」的個股（既有沿用上一班結果，省 Yahoo 請求）。抓不到就沒有標記，個股與新聞一律保留。
+  // 3.5) 月K型態標記（軟標記）：只判定「還沒有 status」的個股（既有沿用，省 Yahoo 請求）。
   const toClassify = [...new Set(news.flatMap((n) => n.stocks.filter((s) => !s.status).map((s) => s.symbol)))];
   if (toClassify.length) {
     try {
@@ -309,48 +324,93 @@ async function main() {
     }
   }
 
-  // 4) 今日漲停標記（盤中 MIS 即時、盤後 dated；取全市場漲停集合再標在被提到的個股上）
-  const mentioned = new Set(news.flatMap((n) => n.stocks.map((s) => s.symbol)));
-  if (mentioned.size) {
+  // 4a) 今日漲停：只動「今日新聞」的個股，先清再標（漲停打開會撤銷）；
+  //     拿到的資料若不是今天的（收盤後 MIS 失效時的回退），一律不動既有標記，避免昨日資料誤標今天。
+  const todayNews = news.filter((n) => newsDay(n, today) === today);
+  if (todayNews.some((n) => n.stocks.length)) {
     try {
       const { date, intraday, limitUps } = await getTodayLimitUps();
-      const pctBy = new Map(limitUps.map((u) => [u.symbol, u.pct]));
-      let hitCount = 0;
-      for (const n of news) for (const s of n.stocks) {
-        if (pctBy.has(s.symbol)) { s.limitUp = true; s.pct = Math.round(pctBy.get(s.symbol) * 10) / 10; hitCount++; }
+      if (date === today) {
+        for (const n of todayNews) for (const s of n.stocks) { s.limitUp = false; delete s.pct; }
+        const pctBy = new Map(limitUps.map((u) => [u.symbol, u.pct]));
+        let hitCount = 0;
+        for (const n of todayNews) for (const s of n.stocks) {
+          if (pctBy.has(s.symbol)) { s.limitUp = true; s.pct = Math.round(pctBy.get(s.symbol) * 10) / 10; hitCount++; }
+        }
+        console.log(`市場日 ${date}（${intraday ? "盤中即時" : "盤後"}）漲停 ${limitUps.length} 檔；今日新聞個股命中 ${hitCount} 檔。`);
+      } else {
+        console.warn(`今日漲停資料不可得（最近資料日 ${date}），保留既有標記。`);
       }
-      console.log(`市場日 ${date}（${intraday ? "盤中即時" : "盤後"}）漲停 ${limitUps.length} 檔；被提到的個股命中漲停 ${hitCount} 檔。`);
     } catch (e) {
-      console.warn(`漲停標記失敗：${e.message}`);
+      console.warn(`今日漲停標記失敗：${e.message}`);
     }
   }
 
-  // 5) 排序（新到舊）、上限、輸出（body 不寫進檔案，省空間）
+  // 4b) 近 5 個交易日漲停註記（不含今日；今日由 4a 標）。這是個股的滾動屬性，所有新聞的個股都標。
+  if (news.some((n) => n.stocks.length)) {
+    try {
+      const yesterday = taipeiDayOf(Date.now() - 86_400_000);
+      const { tradingDays, limitUps: lu } = await getRecentLimitUps({ days: 5, startFrom: yesterday, maxLookback: 14 });
+      for (const n of news) for (const s of n.stocks) {
+        delete s.lu5; delete s.lu5d;
+        const rec = lu.get(s.symbol);
+        if (rec) {
+          s.lu5 = rec.dates.length;
+          s.lu5d = rec.dates.map((d) => `${+d.slice(5, 7)}/${+d.slice(8, 10)}`); // 新到舊，如 ["7/1","6/27"]
+        }
+      }
+      console.log(`近5交易日（${tradingDays.at(-1)}～${tradingDays[0]}）漲停 ${lu.size} 檔已對照。`);
+    } catch (e) {
+      console.warn(`近5日漲停註記失敗（保留原標記）：${e.message}`);
+    }
+  }
+
+  // 5) 分日組：頁面留「最新 KEEP_DAY_GROUPS 組」（最舊回看 KEEP_MAX_AGE_DAYS 天），非今日的組同步封存到 history/。
   news.sort((a, b) => new Date(b.pubDate || 0) - new Date(a.pubDate || 0));
-  news = news.slice(0, MAX_NEWS).map(({ body, ...n }) => n);
-
-  // 保護：若本班「有背景的則數」比既有檔案還少（多半是 Gemini 429/暫時失敗），不要用較空的結果覆蓋，
-  //       保留既有較完整內容，等下一班補齊。（同日、且既有已有內容時才比較。）
-  const bgCount = news.filter((n) => n.background).length;
-  if (existing && existing.asOf?.slice(0, 10) === today) {
-    const priorBg = (existing.news || []).filter((n) => n.background).length;
-    if (priorBg > bgCount) {
-      console.warn(`本班有背景 ${bgCount} 則 < 既有 ${priorBg} 則（疑似 AI 暫時失敗），保留既有檔、不覆蓋。`);
-      return;
+  const groups = new Map(); // day → items（已排序，day 由新到舊出現）
+  for (const n of news) {
+    const d = newsDay(n, today);
+    if (!groups.has(d)) groups.set(d, []);
+    groups.get(d).push(n);
+  }
+  const cutoff = taipeiDayOf(Date.now() - KEEP_MAX_AGE_DAYS * 86_400_000);
+  const keepDays = [...groups.keys()].filter((d) => d >= cutoff).slice(0, KEEP_DAY_GROUPS);
+  for (const [d, items] of groups) {
+    if (d === today) continue; // 今日組還在累積中，明天以後再進封存
+    try {
+      await upsertHistory(d, items);
+    } catch (e) {
+      console.warn(`封存 ${d} 失敗：${e.message}`);
     }
   }
+  news = keepDays.flatMap((d) => groups.get(d)).slice(0, MAX_NEWS).map(({ body, ...n }) => n);
 
+  // 6) 防退化守門：既有檔裡「已完成」且仍該保留的新聞，本班不能弄丟或變不完整（被封存出場屬正常）。
+  const outByGid = new Map(news.map((n) => [n.gid, n]));
+  let regressed = 0;
+  for (const p of prior) {
+    if (!isComplete(p)) continue;
+    if (!keepDays.includes(newsDay(p, today))) continue;
+    const o = outByGid.get(p.gid);
+    if (!o || !isComplete(o)) regressed++;
+  }
+  if (regressed > 0) {
+    console.warn(`偵測到 ${regressed} 則已完成新聞將退化/遺失，本班不覆蓋（保留既有檔，下一班重試）。`);
+    return;
+  }
+
+  const bgCount = news.filter((n) => n.background).length;
   const out = {
     asOf: taipeiISO(),
     generatedAt: new Date().toISOString(),
     keyword: KEYWORD,
-    filter: "全部熱門族群新聞 ＋ 題材背景；個股標月K型態（創新高/逼近/修正）與當日漲停",
+    filter: "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近5日漲停",
     note: "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
     aiSource: apiKey ? "gemini" : "none",
     news,
   };
   await fs.writeFile(OUT_FILE, JSON.stringify(out, null, 2), "utf8");
-  console.log(`已寫入 ${path.relative(ROOT, OUT_FILE)}：${news.length} 則熱門族群新聞（有背景 ${bgCount} 則）。`);
+  console.log(`已寫入 ${path.relative(ROOT, OUT_FILE)}：${news.length} 則（${keepDays.join("、")}；有背景 ${bgCount} 則）。`);
 }
 
 main().catch((e) => {

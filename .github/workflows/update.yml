@@ -57,3 +57,11 @@ jobs:
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
+
+      # 放在最後：資料產生失敗時讓整個 run 轉紅（GitHub 會寄通知信），
+      # 但因為排在 deploy 之後，既有頁面照常部署、不受影響。
+      - name: Alert if generation failed
+        if: steps.gen.outcome == 'failure'
+        run: |
+          echo "::error::gen-news.mjs 失敗，資料未更新（頁面仍為既有內容）"
+          exit 1

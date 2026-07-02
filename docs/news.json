@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-07-02T14:48:53.342+08:00",
-  "generatedAt": "2026-07-02T06:48:53.342Z",
+  "asOf": "2026-07-02T22:39:08.015+08:00",
+  "generatedAt": "2026-07-02T14:39:08.015Z",
   "keyword": "熱門族群",
-  "filter": "全部熱門族群新聞 ＋ 題材背景；個股標月K型態（創新高/逼近/修正）與當日漲停",
+  "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近5日漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "news": [
@@ -17,33 +17,49 @@
         {
           "symbol": "3675",
           "name": "德微",
-          "point": "功率元件訂單滿手全面漲價",
+          "point": "訂單滿手啟動漲價",
           "status": "逼近新高",
-          "dist": -8.6
+          "dist": -8.6,
+          "limitUp": false
         },
         {
           "symbol": "2481",
           "name": "強茂",
-          "point": "功率元件訂單滿手全面漲價",
+          "point": "訂單滿手啟動漲價",
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 9.8
+          "pct": 9.8,
+          "lu5": 1,
+          "lu5d": [
+            "6/30"
+          ]
         },
         {
           "symbol": "6761",
           "name": "穩得",
-          "point": "功率元件訂單滿手全面漲價"
+          "point": "訂單滿手啟動漲價",
+          "limitUp": false
         },
         {
           "symbol": "5425",
           "name": "台半",
-          "point": "功率元件訂單滿手全面漲價",
+          "point": "訂單滿手啟動漲價",
           "status": "逼近新高",
-          "dist": -6.6
+          "dist": -6.6,
+          "limitUp": true,
+          "pct": 9.9,
+          "lu5": 5,
+          "lu5d": [
+            "7/1",
+            "6/30",
+            "6/29",
+            "6/26",
+            "6/24"
+          ]
         }
       ],
-      "background": "歐洲美洲加速AI資料中心與電網去中化，汰除大陸功率元件，設備交期拉長，供不應求缺口擴大。",
+      "background": "功率元件受AI資料中心與能源電網「去中化」加速，設備交期拉長，導致供不應求與搶貨潮。",
       "themeTags": [
         "需求驅動",
         "政策關稅"
@@ -60,29 +76,32 @@
         {
           "symbol": "6409",
           "name": "旭隼",
-          "point": "太陽能逆變器迎千億轉單"
+          "point": "攻上差一檔漲停",
+          "limitUp": false
         },
         {
           "symbol": "3015",
           "name": "全漢",
-          "point": "太陽能逆變器迎千億轉單",
+          "point": "早盤拉出近8％漲幅",
           "status": "逼近新高",
-          "dist": -4.4
+          "dist": -4.4,
+          "limitUp": false
         },
         {
           "symbol": "2308",
           "name": "台達電",
-          "point": "太陽能逆變器迎千億轉單"
+          "point": "有望大啖去中化紅利",
+          "limitUp": false
         },
         {
           "symbol": "1514",
           "name": "亞力",
-          "point": "太陽能逆變器迎千億轉單"
+          "point": "有望大啖去中化紅利",
+          "limitUp": false
         }
       ],
-      "background": "美國擬禁止中國製太陽能逆變器進口，台灣廠可望受惠轉單，市場規模上看千億元。",
+      "background": "美國擬禁中國製太陽能逆變器進口，台灣廠商迎千億元轉單商機，受惠於「去中化」政策。",
       "themeTags": [
-        "需求驅動",
         "政策關稅"
       ]
     },
@@ -99,7 +118,11 @@
           "name": "台塑",
           "point": "續強亮燈攻頂",
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "lu5": 1,
+          "lu5d": [
+            "6/24"
+          ]
         },
         {
           "symbol": "1326",
@@ -111,49 +134,102 @@
         {
           "symbol": "1303",
           "name": "南亞",
-          "point": "聯袂強彈半根停板",
+          "point": "強彈7%挺進歷史高",
           "status": "逼近新高",
-          "dist": -1.5
+          "dist": -1.5,
+          "limitUp": false,
+          "lu5": 2,
+          "lu5d": [
+            "7/1",
+            "6/30"
+          ]
         },
         {
           "symbol": "6505",
           "name": "台塑化",
-          "point": "聯袂強彈半根停板"
+          "point": "聯袂強彈半根停板",
+          "limitUp": false
         },
         {
           "symbol": "1434",
           "name": "福懋",
-          "point": "同步走強"
+          "point": "同步走強",
+          "limitUp": false
         },
         {
           "symbol": "8131",
           "name": "福懋科",
-          "point": "同步走強"
+          "point": "同步走強",
+          "limitUp": false
         },
         {
           "symbol": "3532",
           "name": "台勝科",
           "point": "盤中翻黑",
           "status": "逼近新高",
-          "dist": -4.5
+          "dist": -4.5,
+          "limitUp": false,
+          "lu5": 2,
+          "lu5d": [
+            "7/1",
+            "6/30"
+          ]
         },
         {
           "symbol": "2408",
           "name": "南亞科",
-          "point": "記憶體利空股價跌跌不休"
+          "point": "股價跌跌不休",
+          "limitUp": false
         },
         {
           "symbol": "8046",
           "name": "南電",
-          "point": "遭獲利下車回測5日線",
+          "point": "回測5日線關卡",
           "status": "高檔修正",
-          "dist": -10.9
+          "dist": -10.9,
+          "limitUp": false,
+          "lu5": 1,
+          "lu5d": [
+            "6/30"
+          ]
         }
       ],
-      "background": "台塑集團受惠塑化營運獲利持穩、電子、半導體、新能源轉型題材，加上除息行情接棒，塑化景氣落底、油價與利差改善預期，帶動市場重新評價轉機題材。",
+      "background": "台塑集團受惠除息、填息行情，塑化景氣落底、油價利差改善，南亞受AI電子材料需求升溫。",
       "themeTags": [
         "需求驅動",
         "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTFBOeWtaMHBsbTFFZFlkNUFrWHFFZGJ1RzBFT2JUUDJZbkVoeS1tUEU1OGF1WV9hdVkyLWxjX2RmYjFEOU5JRVZTOTA4T0FYa1BaMEVRN3UzV0NGZFVDcWRWQ01UYW1CT09ndEE",
+      "tkey": "熱門族群台塑四寶強勢點火台塑、台化盤中雙觸漲停-上市櫃",
+      "title": "《熱門族群》台塑四寶強勢點火台塑、台化盤中雙觸漲停- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260702900280-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Thu, 02 Jul 2026 04:13:07 GMT",
+      "stocks": [
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "盤中雙觸漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "lu5": 1,
+          "lu5d": [
+            "6/24"
+          ]
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "盤中雙觸漲停",
+          "limitUp": true,
+          "pct": 9.9
+        }
+      ],
+      "background": "台塑四寶受惠於塑化營運獲利持穩，加上電子、半導體、新能源轉型題材，帶動除息行情發酵。",
+      "themeTags": [
+        "需求驅動"
       ]
     },
     {
@@ -167,73 +243,43 @@
         {
           "symbol": "2406",
           "name": "國碩",
-          "point": "布局高附加價值領域"
-        },
-        {
-          "symbol": "3576",
-          "name": "聯合再生",
-          "point": "具備鈣鈦礦相關技術"
+          "point": "太陽能股逆勢走強",
+          "limitUp": false,
+          "lu5": 2,
+          "lu5d": [
+            "6/30",
+            "6/29"
+          ]
         },
         {
           "symbol": "6409",
           "name": "旭隼",
-          "point": "受惠轉單題材高漲"
+          "point": "受惠轉單題材漲幅逾5%",
+          "limitUp": false
+        },
+        {
+          "symbol": "3576",
+          "name": "聯合再生",
+          "point": "太陽能股展現抗跌力道",
+          "limitUp": false
         },
         {
           "symbol": "6244",
           "name": "茂迪",
-          "point": "具備鈣鈦礦相關技術"
+          "point": "具鈣鈦礦相關技術",
+          "limitUp": false
         },
         {
           "symbol": "6443",
           "name": "元晶",
-          "point": "具備鈣鈦礦相關技術"
+          "point": "具鈣鈦礦相關技術",
+          "limitUp": false
         }
       ],
-      "background": "全球淨零碳排趨勢推動綠能政策，鈣鈦礦太陽能電池為產業升級方向。美國政策變化有望帶來轉單商機。",
-      "themeTags": [
-        "政策關稅"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNZnNNTnBfS3hDMnJIY3JRemFLTlA1SGd3Yk1aN3lnRkdYRzlXOHVZUHdLcUp5eC1BRWNOVnRYREk0cnJjbzF1cmJ3QTBYamtwTzJMSTlES0h5SzBaWVhUSlItaFk4SEJmMHVxR2NXaHc1dHNaaURJYWlNMzhkRHVUNzgxalAtcDhJ",
-      "tkey": "熱門族群台塑四寶強勢點火台塑、台化盤中雙觸漲停",
-      "title": "《熱門族群》台塑四寶強勢點火 台塑、台化盤中雙觸漲停 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6225741001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Thu, 02 Jul 2026 04:02:00 GMT",
-      "stocks": [
-        {
-          "symbol": "1301",
-          "name": "台塑",
-          "point": "除息填息補漲攻漲停",
-          "limitUp": true,
-          "pct": 9.9
-        },
-        {
-          "symbol": "1326",
-          "name": "台化",
-          "point": "裝置復產轉型觸漲停",
-          "limitUp": true,
-          "pct": 9.9
-        },
-        {
-          "symbol": "1303",
-          "name": "南亞",
-          "point": "AI材料需求升溫強勢",
-          "status": "逼近新高",
-          "dist": -0.8
-        },
-        {
-          "symbol": "6505",
-          "name": "台塑化",
-          "point": "煉油利差支撐同步走高"
-        }
-      ],
-      "background": "受惠除息填息行情、塑化景氣落底預期，加上AI電子材料需求帶動，集團營運展望正向。",
+      "background": "太陽能族群受能源轉型與綠能政策支撐，美國政策變化帶來轉單契機，鈣鈦礦電池為產業升級方向。",
       "themeTags": [
         "需求驅動",
-        "循環位置"
+        "政策關稅"
       ]
     },
     {
@@ -247,29 +293,40 @@
         {
           "symbol": "6488",
           "name": "環球晶",
-          "point": "釋出漲價訊號、股價登歷史高",
-          "status": "逼近新高",
-          "dist": -1.3,
-          "limitUp": true,
-          "pct": 10
+          "point": "矽晶圓漲價登歷史高",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false
         },
         {
           "symbol": "6182",
           "name": "合晶",
-          "point": "亮出第三顆紅燈、股價站18年新高",
+          "point": "亮出第三顆紅燈站18年新高",
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 9.8
+          "pct": 10,
+          "lu5": 5,
+          "lu5d": [
+            "7/1",
+            "6/30",
+            "6/29",
+            "6/26",
+            "6/24"
+          ]
         },
         {
           "symbol": "3532",
           "name": "台勝科",
-          "point": "釋出漲價訊號",
+          "point": "矽晶圓漲價訊號",
           "status": "逼近新高",
-          "dist": -4.7,
-          "limitUp": true,
-          "pct": 9.9
+          "dist": -4.5,
+          "limitUp": false,
+          "lu5": 2,
+          "lu5d": [
+            "7/1",
+            "6/30"
+          ]
         },
         {
           "symbol": "3016",
@@ -278,22 +335,26 @@
           "status": "高檔修正",
           "dist": -12.4,
           "limitUp": true,
-          "pct": 9.8
+          "pct": 9.8,
+          "lu5": 1,
+          "lu5d": [
+            "6/30"
+          ]
         },
         {
           "symbol": "3707",
           "name": "漢磊",
-          "point": "全村紅通通"
+          "point": "全村紅通通",
+          "limitUp": false
         },
         {
           "symbol": "5483",
           "name": "中美晶",
           "point": "全村紅通通",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         }
       ],
-      "background": "矽晶圓受惠於AI龐大需求與記憶體、晶圓代工廠需求推升，供需結構明顯改善，產業邁入新一波復甦循環。",
+      "background": "矽晶圓受AI需求驅動，記憶體與晶圓代工需求推升現貨價，產業邁入新一波復甦循環，供需結構改善。",
       "themeTags": [
         "需求驅動",
         "循環位置"
@@ -310,9 +371,10 @@
         {
           "symbol": "3675",
           "name": "德微",
-          "point": "不畏處置強攻、專攻AI電力保護",
+          "point": "強攻AI電力保護與ESD元件",
           "status": "逼近新高",
-          "dist": -8
+          "dist": -8.6,
+          "limitUp": false
         },
         {
           "symbol": "8261",
@@ -321,60 +383,103 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "lu5": 2,
+          "lu5d": [
+            "7/1",
+            "6/30"
+          ]
         },
         {
           "symbol": "2481",
           "name": "強茂",
-          "point": "AI伺服器電源應用營收占比提升",
-          "status": "逼近新高",
-          "dist": -2.4,
+          "point": "AI伺服器電源應用營收提升",
+          "status": "創新高",
+          "dist": 0,
           "limitUp": true,
-          "pct": 9.8
+          "pct": 9.8,
+          "lu5": 1,
+          "lu5d": [
+            "6/30"
+          ]
         },
         {
           "symbol": "5425",
           "name": "台半",
-          "point": "IDM垂直整合與分離式元件廠代表",
+          "point": "IDM垂直整合與分離式元件廠",
           "status": "逼近新高",
-          "dist": -9.4
+          "dist": -6.6,
+          "limitUp": true,
+          "pct": 9.9,
+          "lu5": 5,
+          "lu5d": [
+            "7/1",
+            "6/30",
+            "6/29",
+            "6/26",
+            "6/24"
+          ]
         },
         {
           "symbol": "8255",
           "name": "朋程",
-          "point": "IDM垂直整合與分離式元件廠代表"
+          "point": "IDM垂直整合與分離式元件廠",
+          "limitUp": false
         },
         {
           "symbol": "6435",
           "name": "大中",
-          "point": "盤中一度亮燈",
+          "point": "MOSFET大廠一度亮燈",
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "lu5": 5,
+          "lu5d": [
+            "7/1",
+            "6/30",
+            "6/29",
+            "6/26",
+            "6/24"
+          ]
         },
         {
           "symbol": "6138",
           "name": "茂達",
-          "point": "聯袂大漲",
+          "point": "電源管理IC與MOSFET相關",
           "status": "逼近新高",
           "dist": -0.8,
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "lu5": 5,
+          "lu5d": [
+            "7/1",
+            "6/30",
+            "6/29",
+            "6/26",
+            "6/24"
+          ]
         },
         {
           "symbol": "5299",
           "name": "杰力",
-          "point": "聯袂大漲",
+          "point": "電源管理IC與MOSFET相關",
           "limitUp": true,
-          "pct": 9.7
+          "pct": 9.7,
+          "lu5": 5,
+          "lu5d": [
+            "7/1",
+            "6/30",
+            "6/29",
+            "6/26",
+            "6/24"
+          ]
         }
       ],
-      "background": "功率元件搭上AI伺服器高壓電源升級及電動車需求，受國際大廠英飛凌、TI帶動漲價循環，台廠迎來基本面與轉單題材。",
+      "background": "功率元件搭上AI伺服器高壓電源架構升級、電動車需求，國際大廠帶動漲價循環，台廠受惠轉單。",
       "themeTags": [
         "需求驅動",
-        "國際大廠",
-        "循環位置"
+        "國際大廠"
       ]
     },
     {
@@ -388,12 +493,13 @@
         {
           "symbol": "6215",
           "name": "和椿",
-          "point": "優必選在台代理商，股價強攻漲停"
+          "point": "股價強攻漲停",
+          "limitUp": false
         },
         {
           "symbol": "2359",
           "name": "所羅門",
-          "point": "概念股同步表態，亮燈漲停",
+          "point": "概念股同步表態",
           "limitUp": true,
           "pct": 9.7
         },
@@ -407,26 +513,34 @@
         {
           "symbol": "1597",
           "name": "直得",
-          "point": "概念股同步表態，亮燈漲停",
+          "point": "概念股同步表態",
           "limitUp": true,
           "pct": 9.8
         },
         {
           "symbol": "8374",
           "name": "羅昇",
-          "point": "概念股同步表態，亮燈漲停",
+          "point": "概念股同步表態",
           "limitUp": true,
           "pct": 9.9
         },
         {
           "symbol": "3577",
           "name": "泓格",
-          "point": "概念股同步表態，亮燈漲停",
+          "point": "概念股同步表態",
           "limitUp": true,
-          "pct": 9.7
+          "pct": 10,
+          "lu5": 5,
+          "lu5d": [
+            "7/1",
+            "6/30",
+            "6/29",
+            "6/26",
+            "6/24"
+          ]
         }
       ],
-      "background": "人形機器人應用從展示、工業試點進一步走向量產與消費端，帶動市場想像空間升溫，台廠供應鏈逐步卡位成形。",
+      "background": "人形機器人熱潮受陸系大廠推出新品帶動，應用從展示走向量產與消費端，台廠供應鏈卡位。",
       "themeTags": [
         "需求驅動"
       ]
@@ -442,26 +556,41 @@
         {
           "symbol": "8046",
           "name": "南電",
-          "point": "外資調升目標價至1,550元，投資評等「買進」",
+          "point": "外資調升目標價至1,550元",
           "status": "高檔修正",
-          "dist": -10.1
+          "dist": -10.9,
+          "limitUp": false,
+          "lu5": 1,
+          "lu5d": [
+            "6/30"
+          ]
         },
         {
           "symbol": "3037",
           "name": "欣興",
-          "point": "外資調升目標價至1,500元，投資評等「買進」",
+          "point": "外資調升目標價至1,500元",
           "status": "高檔修正",
-          "dist": -12
+          "dist": -13.4,
+          "limitUp": false,
+          "lu5": 1,
+          "lu5d": [
+            "6/30"
+          ]
         },
         {
           "symbol": "3189",
           "name": "景碩",
-          "point": "外資調升目標價至1,100元，投資評等「買進」",
+          "point": "外資調升目標價至1,100元",
           "status": "高檔修正",
-          "dist": -10
+          "dist": -11.6,
+          "limitUp": false,
+          "lu5": 1,
+          "lu5d": [
+            "6/30"
+          ]
         }
       ],
-      "background": "ABF載板受AI GPU、ASIC與CPU需求持續攀升帶動，市場供給吃緊將延續至2027年，支撐價格上漲。",
+      "background": "ABF載板受AI GPU、ASIC與CPU需求持續攀升，市場供給吃緊將延續至2027年，支撐價格上漲。",
       "themeTags": [
         "需求驅動",
         "循環位置"
@@ -480,7 +609,11 @@
           "name": "IKKA-KY",
           "point": "機器人族群紅燈",
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "lu5": 1,
+          "lu5d": [
+            "7/1"
+          ]
         },
         {
           "symbol": "6658",
@@ -489,7 +622,12 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 9.8
+          "pct": 9.8,
+          "lu5": 2,
+          "lu5d": [
+            "7/1",
+            "6/30"
+          ]
         },
         {
           "symbol": "2464",
@@ -498,14 +636,23 @@
           "status": "逼近新高",
           "dist": -5.9,
           "limitUp": true,
-          "pct": 9.8
+          "pct": 9.8,
+          "lu5": 1,
+          "lu5d": [
+            "7/1"
+          ]
         },
         {
           "symbol": "2233",
           "name": "宇隆",
           "point": "機器人族群紅燈",
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "lu5": 2,
+          "lu5d": [
+            "7/1",
+            "6/30"
+          ]
         },
         {
           "symbol": "3594",
@@ -517,7 +664,15 @@
           "name": "泓格",
           "point": "機器人族群紅燈",
           "limitUp": true,
-          "pct": 9.7
+          "pct": 9.7,
+          "lu5": 5,
+          "lu5d": [
+            "7/1",
+            "6/30",
+            "6/29",
+            "6/26",
+            "6/24"
+          ]
         }
       ],
       "background": "人形機器人發展元年，AI教父黃仁勳看好其推理能力，特斯拉預計第三季量產，匯豐投信推出相關基金，吸引資金卡位。",
@@ -594,7 +749,13 @@
           "status": "逼近新高",
           "dist": -2.6,
           "limitUp": true,
-          "pct": 9.7
+          "pct": 9.7,
+          "lu5": 3,
+          "lu5d": [
+            "7/1",
+            "6/30",
+            "6/29"
+          ]
         },
         {
           "symbol": "2645",
@@ -603,7 +764,11 @@
           "status": "逼近新高",
           "dist": -8.3,
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "lu5": 1,
+          "lu5d": [
+            "7/1"
+          ]
         },
         {
           "symbol": "4916",
@@ -612,7 +777,11 @@
           "status": "高檔修正",
           "dist": -11.8,
           "limitUp": true,
-          "pct": 9.8
+          "pct": 9.8,
+          "lu5": 1,
+          "lu5d": [
+            "7/1"
+          ]
         },
         {
           "symbol": "7402",
@@ -629,7 +798,11 @@
         {
           "symbol": "2630",
           "name": "亞航",
-          "point": "跟進秀出半顆紅燈"
+          "point": "跟進秀出半顆紅燈",
+          "lu5": 1,
+          "lu5d": [
+            "6/30"
+          ]
         },
         {
           "symbol": "6618",
@@ -717,7 +890,11 @@
           "name": "禾伸堂",
           "point": "強漲512%",
           "status": "逼近新高",
-          "dist": -1.7
+          "dist": -1.7,
+          "lu5": 1,
+          "lu5d": [
+            "6/30"
+          ]
         },
         {
           "symbol": "6173",
@@ -733,373 +910,50 @@
           "name": "華新科",
           "point": "上漲超過3.5倍",
           "status": "逼近新高",
-          "dist": -6.5
+          "dist": -6.5,
+          "lu5": 1,
+          "lu5d": [
+            "6/30"
+          ]
         },
         {
           "symbol": "2327",
           "name": "國巨",
           "point": "上漲超過3.5倍",
           "status": "逼近新高",
-          "dist": -6.6
+          "dist": -6.6,
+          "lu5": 1,
+          "lu5d": [
+            "6/30"
+          ]
         },
         {
           "symbol": "6834",
           "name": "天二科技",
           "point": "擠進前十大個股",
           "status": "逼近新高",
-          "dist": -3.1
+          "dist": -3.1,
+          "lu5": 1,
+          "lu5d": [
+            "6/24"
+          ]
         },
         {
           "symbol": "2478",
           "name": "大毅",
           "point": "擠進前十大個股",
           "status": "高檔修正",
-          "dist": -11
+          "dist": -11,
+          "lu5": 1,
+          "lu5d": [
+            "6/30"
+          ]
         }
       ],
       "background": "被動元件產業受AI伺服器需求與原料成本上升雙重驅動，MLCC量價齊揚，產業迎來「超級循環」，展望未來3-5年動能。",
       "themeTags": [
         "需求驅動",
         "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTFB5emZNY0M4dF9BX2ZwN3lUSEw4OHE1VVBKZkM3bXVBak1xamNtUy05MVhCUloxRV95Zm94ZGFWTUFWMHE2aV9GUlVTLUVibmI3UDY2WGZUaEw",
-      "tkey": "熱門族群輝達GTC新AI架構散熱雙雄帶頭衝",
-      "title": "熱門族群》輝達GTC新AI架構 散熱雙雄帶頭衝 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/ytvagrc0sscc",
-      "source": "自由時報",
-      "pubDate": "Tue, 30 Jun 2026 05:25:04 GMT",
-      "stocks": [],
-      "background": "輝達GTC大會發表新AI架構，帶動散熱雙雄股價上漲，反映AI伺服器對散熱技術的需求。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxOYWotbENycjJRZVZJdWx2VmRjTkswdWlPT2dra0ZfWTJrc2tiMjFhWGZ5dUljazJ6ZXYyWVkybWJ6TEV4aVU5SG82bmEzc3huTEdGVFg3RkRZLUVUY3ozSFVMcjFGMHNMY1dud01fSnowa1NlNDc0U1BLS2t5dW84eWpHTGJXNUJP",
-      "tkey": "熱門族群國巨強飆頂領集團+被動元件高掛20顆紅燈",
-      "title": "《熱門族群》國巨強飆頂 領集團+被動元件高掛20顆紅燈 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6223370001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Tue, 30 Jun 2026 04:09:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2327",
-          "name": "國巨",
-          "point": "強飆頂，鞏固千金寶座",
-          "status": "逼近新高",
-          "dist": -6.6
-        },
-        {
-          "symbol": "2375",
-          "name": "凱美",
-          "point": "齊攻漲停",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 9.9
-        },
-        {
-          "symbol": "6271",
-          "name": "同欣電",
-          "point": "齊攻漲停",
-          "status": "逼近新高",
-          "dist": -2
-        },
-        {
-          "symbol": "8261",
-          "name": "富鼎",
-          "point": "齊攻漲停",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 9.9
-        },
-        {
-          "symbol": "6138",
-          "name": "茂達",
-          "point": "跟進走強",
-          "status": "逼近新高",
-          "dist": -9.8,
-          "limitUp": true,
-          "pct": 10
-        },
-        {
-          "symbol": "2478",
-          "name": "大毅",
-          "point": "強閃紅燈",
-          "status": "高檔修正",
-          "dist": -11
-        },
-        {
-          "symbol": "5228",
-          "name": "鈺鎧",
-          "point": "強閃紅燈",
-          "status": "高檔修正",
-          "dist": -13.9
-        },
-        {
-          "symbol": "3357",
-          "name": "臺慶科",
-          "point": "強閃紅燈"
-        },
-        {
-          "symbol": "6127",
-          "name": "九豪",
-          "point": "強閃紅燈",
-          "status": "逼近新高",
-          "dist": -5
-        },
-        {
-          "symbol": "8043",
-          "name": "蜜望實",
-          "point": "強閃紅燈",
-          "status": "高檔修正",
-          "dist": -11.1,
-          "limitUp": true,
-          "pct": 9.8
-        },
-        {
-          "symbol": "2492",
-          "name": "華新科",
-          "point": "強閃紅燈",
-          "status": "逼近新高",
-          "dist": -6.5
-        },
-        {
-          "symbol": "6173",
-          "name": "信昌電",
-          "point": "強閃紅燈",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 10
-        },
-        {
-          "symbol": "3236",
-          "name": "千如",
-          "point": "強閃紅燈",
-          "status": "逼近新高",
-          "dist": -3.6
-        },
-        {
-          "symbol": "3090",
-          "name": "日電貿",
-          "point": "強閃紅燈",
-          "status": "高檔修正",
-          "dist": -12.1
-        },
-        {
-          "symbol": "8042",
-          "name": "金山電",
-          "point": "強閃紅燈",
-          "status": "逼近新高",
-          "dist": -1.9
-        },
-        {
-          "symbol": "3026",
-          "name": "禾伸堂",
-          "point": "強閃紅燈",
-          "status": "逼近新高",
-          "dist": -1.7
-        }
-      ],
-      "background": "AI應用外溢被動元件，產業迎來「超級循環」，日本鋁電廠Rubycon發出漲價通知，國巨積極打造關鍵零組件平台型集團。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNZExfNU9ndUJUTnRIYUJuSXRyNXNqa25wOWZUR0ZFSlhCbTAtUzNfblNybWpiWXdBTTlzMXA0czc3SFU4X0l6X0x1bDBuOW9HTjVwNkhYT3k2MXBNWXlLTjdzaVBkMEI1TV8tTlEteFNEOEpaV01ZYXVoaGRnQ0dhaV8teHJyaGtJ",
-      "tkey": "熱門族群AI帶動PCB上游銅箔、玻纖布金居、富喬領軍走強",
-      "title": "《熱門族群》AI帶動PCB上游銅箔、玻纖布 金居、富喬領軍走強 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6223344001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Tue, 30 Jun 2026 03:59:00 GMT",
-      "stocks": [
-        {
-          "symbol": "8358",
-          "name": "金居",
-          "point": "早盤一度強攻漲停價600元"
-        },
-        {
-          "symbol": "1815",
-          "name": "富喬",
-          "point": "盤中越走越高"
-        },
-        {
-          "symbol": "1802",
-          "name": "台玻",
-          "point": "直逼漲停",
-          "status": "高檔修正",
-          "dist": -12.4
-        },
-        {
-          "symbol": "5340",
-          "name": "建榮",
-          "point": "早盤亦隨勢強攻"
-        },
-        {
-          "symbol": "6274",
-          "name": "台燿",
-          "point": "一度漲停",
-          "status": "高檔修正",
-          "dist": -12
-        },
-        {
-          "symbol": "6213",
-          "name": "聯茂",
-          "point": "股價表現最為強勢",
-          "status": "逼近新高",
-          "dist": -6.2
-        },
-        {
-          "symbol": "2383",
-          "name": "台光電",
-          "point": "下挫修正",
-          "status": "逼近新高",
-          "dist": -8.4
-        },
-        {
-          "symbol": "6672",
-          "name": "騰輝-KY",
-          "point": "股價表現亦強勢",
-          "status": "高檔修正",
-          "dist": -12
-        }
-      ],
-      "background": "AI伺服器、高速網通與車用電子需求爆發，帶動PCB上游銅箔、玻纖布等關鍵材料規格升級與漲價潮。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxPaUVBZ0JFcVFtdnhsV1BwUFhVeDgxZ0dZcEp3akcwcllMRDJHNXRhbFFCOVpQYXM2RWt2akJSSmJJVlhBWmlSQl9GVktranlWU3FZOUVzQ3JQbDhyS29ZSkQyXzk3ZWFhZmlwX2pkOG5yWWRtTVVpX2ZRYVRIU3M3UGZCWDZiSlJS",
-      "tkey": "熱門族群環球晶返千金！矽晶圓火紅再秀5登獎",
-      "title": "《熱門族群》環球晶返千金！矽晶圓火紅再秀5登獎 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6223300001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Tue, 30 Jun 2026 03:10:00 GMT",
-      "stocks": [
-        {
-          "symbol": "6488",
-          "name": "環球晶",
-          "point": "觸及漲停，重返千金俱樂部",
-          "status": "逼近新高",
-          "dist": -5.6,
-          "limitUp": true,
-          "pct": 10
-        },
-        {
-          "symbol": "6182",
-          "name": "合晶",
-          "point": "觸及漲停",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 9.8
-        },
-        {
-          "symbol": "3532",
-          "name": "台勝科",
-          "point": "觸及漲停",
-          "status": "逼近新高",
-          "dist": -6.1,
-          "limitUp": true,
-          "pct": 9.9
-        },
-        {
-          "symbol": "3016",
-          "name": "嘉晶",
-          "point": "觸及漲停",
-          "status": "高檔修正",
-          "dist": -14.1,
-          "limitUp": true,
-          "pct": 9.8
-        },
-        {
-          "symbol": "3707",
-          "name": "漢磊",
-          "point": "觸及漲停"
-        },
-        {
-          "symbol": "5483",
-          "name": "中美晶",
-          "point": "大漲9%",
-          "limitUp": true,
-          "pct": 10
-        }
-      ],
-      "background": "矽晶圓產業歷經庫存調整後，景氣回升態勢明朗，成熟與先進製程需求同步回升，能源、運費與原材料成本居高不下，業者釋出漲價訊號。",
-      "themeTags": [
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxOcGlTMWdWYVhKNnhSYUN2bnd6RWRGakVEVnhINThaSkVaSGhVOUc1UW4xUU1FME8tWXVJd2xObmtqVUJVdFMtSjRSaG9YTkl2U3FYTFFvQV9jN281c3l2ODhYMGlia3N0dmdDQ0ZPdXE0dGxRZ0dBWEF3ZmUxeGd5V202ZGZNbGRS",
-      "tkey": "熱門族群朝野共識推升無人機產業概念股連兩日高飛",
-      "title": "《熱門族群》朝野共識推升無人機產業 概念股連兩日高飛 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6223246001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Tue, 30 Jun 2026 02:27:00 GMT",
-      "stocks": [
-        {
-          "symbol": "8033",
-          "name": "雷虎",
-          "point": "率先強勢漲停",
-          "status": "逼近新高",
-          "dist": -2.6,
-          "limitUp": true,
-          "pct": 9.7
-        },
-        {
-          "symbol": "2630",
-          "name": "亞航",
-          "point": "率先強勢漲停"
-        },
-        {
-          "symbol": "2634",
-          "name": "漢翔",
-          "point": "盤中大漲9%"
-        },
-        {
-          "symbol": "5371",
-          "name": "中光電",
-          "point": "盤中大漲9%"
-        },
-        {
-          "symbol": "7402",
-          "name": "邑錡",
-          "point": "同步亮燈漲停",
-          "limitUp": true,
-          "pct": 10
-        },
-        {
-          "symbol": "4541",
-          "name": "晟田",
-          "point": "盤中急拉漲停"
-        },
-        {
-          "symbol": "5314",
-          "name": "世紀*",
-          "point": "大漲8%"
-        },
-        {
-          "symbol": "2645",
-          "name": "長榮航太",
-          "point": "漲逾5%",
-          "status": "逼近新高",
-          "dist": -8.3,
-          "limitUp": true,
-          "pct": 10
-        }
-      ],
-      "background": "朝野對發展國防自主無人機形成高度共識，預算規模提高至2400億元，激勵相關概念股連續兩日大漲。",
-      "themeTags": [
-        "政策關稅"
       ]
     }
   ]
