@@ -1,11 +1,89 @@
 {
-  "asOf": "2026-07-02T12:03:41.270+08:00",
-  "generatedAt": "2026-07-02T04:03:41.270Z",
+  "asOf": "2026-07-02T13:02:54.912+08:00",
+  "generatedAt": "2026-07-02T05:02:54.912Z",
   "keyword": "熱門族群",
   "filter": "全部熱門族群新聞 ＋ 題材背景；個股標月K型態（創新高/逼近/修正）與當日漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPT212amFIaElOT3lpYTNPaUhnanFuckt2aDExb0NFVjBGaHlzQXNwRnkzZ2VBUkZpRnVHQVdhb2F2TEFoZUd6TlJQZnpzNkNZZmNMVFpjb29LVVJmWXI3NWhudTVpdTdkR1pzbjBtSWlnSUYxZkllazFSUHVDZ3NKRm9vOWUySm9P",
+      "tkey": "熱門族群太陽能股逆勢吸金！國碩走強、旭隼受惠轉單題材",
+      "title": "《熱門族群》太陽能股逆勢吸金！國碩走強、旭隼受惠轉單題材 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6225758001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 02 Jul 2026 04:11:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2406",
+          "name": "國碩",
+          "point": "布局高附加價值領域"
+        },
+        {
+          "symbol": "3576",
+          "name": "聯合再生",
+          "point": "具備鈣鈦礦相關技術"
+        },
+        {
+          "symbol": "6409",
+          "name": "旭隼",
+          "point": "受惠轉單題材高漲"
+        },
+        {
+          "symbol": "6244",
+          "name": "茂迪",
+          "point": "具備鈣鈦礦相關技術"
+        },
+        {
+          "symbol": "6443",
+          "name": "元晶",
+          "point": "具備鈣鈦礦相關技術"
+        }
+      ],
+      "background": "全球淨零碳排趨勢推動綠能政策，鈣鈦礦太陽能電池為產業升級方向。美國政策變化有望帶來轉單商機。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNZnNNTnBfS3hDMnJIY3JRemFLTlA1SGd3Yk1aN3lnRkdYRzlXOHVZUHdLcUp5eC1BRWNOVnRYREk0cnJjbzF1cmJ3QTBYamtwTzJMSTlES0h5SzBaWVhUSlItaFk4SEJmMHVxR2NXaHc1dHNaaURJYWlNMzhkRHVUNzgxalAtcDhJ",
+      "tkey": "熱門族群台塑四寶強勢點火台塑、台化盤中雙觸漲停",
+      "title": "《熱門族群》台塑四寶強勢點火 台塑、台化盤中雙觸漲停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6225741001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 02 Jul 2026 04:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "除息填息補漲攻漲停"
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "裝置復產轉型觸漲停",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "AI材料需求升溫強勢",
+          "status": "逼近新高",
+          "dist": -0.8
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "煉油利差支撐同步走高"
+        }
+      ],
+      "background": "受惠除息填息行情、塑化景氣落底預期，加上AI電子材料需求帶動，集團營運展望正向。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNSjdTUDZkRjZ5QkpjWERQUE5jVDFkdkxfdHB0Z052blZFeHZTazFLdUZraG15RnFJQmNOVktZcHNFTjFXbFlmaVctNEdiSm10OFF3cDVLUVpDMEhrdFp2NjdvNy0ycXNYeEs1YWtaSWY3cTQtakVPSC1hTmVSTGZDbHVwSzlueXA4",
       "tkey": "熱門族群記憶體復刻版？矽晶圓嗨不停合晶3燈獎、環球晶登天",
@@ -115,19 +193,25 @@
           "name": "大中",
           "point": "盤中一度亮燈",
           "status": "創新高",
-          "dist": 0
+          "dist": 0,
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6138",
           "name": "茂達",
           "point": "聯袂大漲",
           "status": "逼近新高",
-          "dist": -0.8
+          "dist": -0.8,
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "5299",
           "name": "杰力",
-          "point": "聯袂大漲"
+          "point": "聯袂大漲",
+          "limitUp": true,
+          "pct": 9.7
         }
       ],
       "background": "功率元件搭上AI伺服器高壓電源升級及電動車需求，受國際大廠英飛凌、TI帶動漲價循環，台廠迎來基本面與轉單題材。",
@@ -179,7 +263,7 @@
           "name": "泓格",
           "point": "概念股同步表態，亮燈漲停",
           "limitUp": true,
-          "pct": 9.7
+          "pct": 10
         }
       ],
       "background": "人形機器人應用從展示、工業試點進一步走向量產與消費端，帶動市場想像空間升溫，台廠供應鏈逐步卡位成形。",
@@ -273,7 +357,7 @@
           "name": "泓格",
           "point": "機器人族群紅燈",
           "limitUp": true,
-          "pct": 9.7
+          "pct": 10
         }
       ],
       "background": "人形機器人發展元年，AI教父黃仁勳看好其推理能力，特斯拉預計第三季量產，匯豐投信推出相關基金，吸引資金卡位。",
@@ -578,7 +662,9 @@
           "name": "茂達",
           "point": "跟進走強",
           "status": "逼近新高",
-          "dist": -9.8
+          "dist": -9.8,
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "2478",
