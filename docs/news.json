@@ -1,11 +1,97 @@
 {
-  "asOf": "2026-07-02T08:16:39.667+08:00",
-  "generatedAt": "2026-07-02T00:16:39.667Z",
+  "asOf": "2026-07-02T11:02:59.043+08:00",
+  "generatedAt": "2026-07-02T03:02:59.043Z",
   "keyword": "熱門族群",
   "filter": "全部熱門族群新聞 ＋ 題材背景；個股標月K型態（創新高/逼近/修正）與當日漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPYW9WOHI4NU5RTElGeUJGSXR1MGJqem5FaXRIT2FlOWp0UTVwbnd1SXJ4aHRfMjZfbXVUX19ZeFBXNTQtWVpYRWZKN2tGVW1zQm4tQVJSZ3FuSWZRaWdsSkhCY3hneWFCR3MxNVZFVDBoZ21LQzRpbTNCejNXRjRhcGduZjMtbEoy",
+      "tkey": "熱門族群人形機器人熱潮和椿發功點出一串紅燈",
+      "title": "《熱門族群》人形機器人熱潮 和椿發功點出一串紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6225636001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 02 Jul 2026 02:28:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6215",
+          "name": "和椿",
+          "point": "優必選在台代理商，股價強攻漲停"
+        },
+        {
+          "symbol": "2359",
+          "name": "所羅門",
+          "point": "概念股同步表態，亮燈漲停",
+          "limitUp": true,
+          "pct": 9.7
+        },
+        {
+          "symbol": "4585",
+          "name": "達明",
+          "point": "概念股同步表態"
+        },
+        {
+          "symbol": "1597",
+          "name": "直得",
+          "point": "概念股同步表態，亮燈漲停"
+        },
+        {
+          "symbol": "8374",
+          "name": "羅昇",
+          "point": "概念股同步表態，亮燈漲停",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "3577",
+          "name": "泓格",
+          "point": "概念股同步表態，亮燈漲停",
+          "limitUp": true,
+          "pct": 10
+        }
+      ],
+      "background": "人形機器人應用從展示、工業試點進一步走向量產與消費端，帶動市場想像空間升溫，台廠供應鏈逐步卡位成形。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNd2M0cGRQVDBmdGVHbW8xUmZCZGw0a2tLUl91SDJIa3FBUFQtY1Ixb1Qya0lLV1hOZXNRYzNTMEl5bGlQTGhoLWhJMG1TUlNQY1h0LTM4S0U4Tks1WnBoYmFxUTlOcXltampFZXFhQURLX1ExVkRCMkdqT0JPR2hGVVdkQmtCTktJ",
+      "tkey": "熱門族群外資調升ABF三雄目標價",
+      "title": "《熱門族群》外資調升ABF三雄目標價 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6225310001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 02 Jul 2026 00:00:00 GMT",
+      "stocks": [
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "外資調升目標價至1,550元，投資評等「買進」",
+          "status": "高檔修正",
+          "dist": -10.1
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "外資調升目標價至1,500元，投資評等「買進」",
+          "status": "高檔修正",
+          "dist": -12
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "外資調升目標價至1,100元，投資評等「買進」",
+          "status": "高檔修正",
+          "dist": -10
+        }
+      ],
+      "background": "ABF載板受AI GPU、ASIC與CPU需求持續攀升帶動，市場供給吃緊將延續至2027年，支撐價格上漲。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQSTB4bkxOb0VZZXl1ckQtbkVjdVloN0ZST2lpVFFIWmxldmg4WmE1cVVCM2lvUy0yd2ZNdW95UnZ0ZURaTnhtbjRTaWRsYUFPay1DMXNraVNON1VFUTFfckxvUFB2V19DS1lrSGxBcDdIUEJzV19NV2pEN0pvN0JLS0ozb1QxdGY2",
       "tkey": "熱門族群機器人添喜！紅燈接力秀1檔先飛天",
@@ -56,7 +142,7 @@
           "name": "泓格",
           "point": "機器人族群紅燈",
           "limitUp": true,
-          "pct": 9.7
+          "pct": 10
         }
       ],
       "background": "人形機器人發展元年，AI教父黃仁勳看好其推理能力，特斯拉預計第三季量產，匯豐投信推出相關基金，吸引資金卡位。",
@@ -551,7 +637,9 @@
         {
           "symbol": "3016",
           "name": "嘉晶",
-          "point": "觸及漲停"
+          "point": "觸及漲停",
+          "status": "高檔修正",
+          "dist": -14.1
         },
         {
           "symbol": "3707",
