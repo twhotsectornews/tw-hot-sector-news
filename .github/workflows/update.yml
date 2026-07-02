@@ -1,11 +1,15 @@
 name: update-hot-sector-news
 
 on:
-  workflow_dispatch:          # 主要：由 cron-job.org 在台北 11/12/13/14 點觸發
+  workflow_dispatch:          # 主要：由 cron-job.org 觸發
   schedule:
-    # GitHub 內建 cron 為 best-effort 後備（曾觀察到漏跑）。UTC = 台北 -8。
-    # 台北 11/12/13/14 點 → UTC 03/04/05/06。僅平日。
+    # GitHub 內建 cron 為 best-effort 後備（曾觀察到漏跑）。UTC = 台北 -8。僅平日。
+    # 盤中：台北 11/12/13/14 點 → UTC 03/04/05/06（漲停用 MIS 即時，隨盤面亮燈/撤銷）。
     - cron: "0 3,4,5,6 * * 1-5"
+    # 盤後：台北 17:10、18:40 → UTC 09:10、10:40。證交所正式盤後資料 16:30–18:00 發布，
+    # 這兩班把當日漲停定版（17:10 若還沒發布會自動保留既有標記，18:40 補上）。
+    - cron: "10 9 * * 1-5"
+    - cron: "40 10 * * 1-5"
   push:
     branches: [main]          # 改程式碼即重新部署頁面
 
