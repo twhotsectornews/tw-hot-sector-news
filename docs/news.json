@@ -1,11 +1,142 @@
 {
-  "asOf": "2026-07-02T11:02:59.043+08:00",
-  "generatedAt": "2026-07-02T03:02:59.043Z",
+  "asOf": "2026-07-02T12:03:41.270+08:00",
+  "generatedAt": "2026-07-02T04:03:41.270Z",
   "keyword": "熱門族群",
   "filter": "全部熱門族群新聞 ＋ 題材背景；個股標月K型態（創新高/逼近/修正）與當日漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNSjdTUDZkRjZ5QkpjWERQUE5jVDFkdkxfdHB0Z052blZFeHZTazFLdUZraG15RnFJQmNOVktZcHNFTjFXbFlmaVctNEdiSm10OFF3cDVLUVpDMEhrdFp2NjdvNy0ycXNYeEs1YWtaSWY3cTQtakVPSC1hTmVSTGZDbHVwSzlueXA4",
+      "tkey": "熱門族群記憶體復刻版？矽晶圓嗨不停合晶3燈獎、環球晶登天",
+      "title": "《熱門族群》記憶體復刻版？矽晶圓嗨不停 合晶3燈獎、環球晶登天 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6225696001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 02 Jul 2026 03:14:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "point": "釋出漲價訊號、股價登歷史高",
+          "status": "逼近新高",
+          "dist": -1.3,
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "6182",
+          "name": "合晶",
+          "point": "亮出第三顆紅燈、股價站18年新高",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 9.8
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "釋出漲價訊號",
+          "status": "逼近新高",
+          "dist": -4.7,
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "3016",
+          "name": "嘉晶",
+          "point": "盤初閃紅燈",
+          "status": "高檔修正",
+          "dist": -12.4
+        },
+        {
+          "symbol": "3707",
+          "name": "漢磊",
+          "point": "全村紅通通"
+        },
+        {
+          "symbol": "5483",
+          "name": "中美晶",
+          "point": "全村紅通通",
+          "limitUp": true,
+          "pct": 10
+        }
+      ],
+      "background": "矽晶圓受惠於AI龐大需求與記憶體、晶圓代工廠需求推升，供需結構明顯改善，產業邁入新一波復甦循環。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxObWNaZlVFNU9xd0x0NnppYWVjdlNpeVJIRUhncVA4aktKcFVTdl9udzJhTE82bkZJbGRXbHJ3NDhtZnhuekdMSXljcy02Y0xOZ3I0aF9jd3R0Vi03anVRd1hham0xUFFvQzZmOEVtV0FYVTlHSmhkcjdlek1EMGVlSmFlQXRKaExs",
+      "tkey": "熱門族群功率元件搭AI狂飆噴出！德微、富鼎領漲",
+      "title": "《熱門族群》功率元件搭AI狂飆噴出！ 德微、富鼎領漲 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6225653001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 02 Jul 2026 02:40:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3675",
+          "name": "德微",
+          "point": "不畏處置強攻、專攻AI電力保護",
+          "status": "逼近新高",
+          "dist": -8
+        },
+        {
+          "symbol": "8261",
+          "name": "富鼎",
+          "point": "強攻漲停再創新高",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "2481",
+          "name": "強茂",
+          "point": "AI伺服器電源應用營收占比提升",
+          "status": "逼近新高",
+          "dist": -2.4
+        },
+        {
+          "symbol": "5425",
+          "name": "台半",
+          "point": "IDM垂直整合與分離式元件廠代表",
+          "status": "逼近新高",
+          "dist": -9.4
+        },
+        {
+          "symbol": "8255",
+          "name": "朋程",
+          "point": "IDM垂直整合與分離式元件廠代表"
+        },
+        {
+          "symbol": "6435",
+          "name": "大中",
+          "point": "盤中一度亮燈",
+          "status": "創新高",
+          "dist": 0
+        },
+        {
+          "symbol": "6138",
+          "name": "茂達",
+          "point": "聯袂大漲",
+          "status": "逼近新高",
+          "dist": -0.8
+        },
+        {
+          "symbol": "5299",
+          "name": "杰力",
+          "point": "聯袂大漲"
+        }
+      ],
+      "background": "功率元件搭上AI伺服器高壓電源升級及電動車需求，受國際大廠英飛凌、TI帶動漲價循環，台廠迎來基本面與轉單題材。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPYW9WOHI4NU5RTElGeUJGSXR1MGJqem5FaXRIT2FlOWp0UTVwbnd1SXJ4aHRfMjZfbXVUX19ZeFBXNTQtWVpYRWZKN2tGVW1zQm4tQVJSZ3FuSWZRaWdsSkhCY3hneWFCR3MxNVZFVDBoZ21LQzRpbTNCejNXRjRhcGduZjMtbEoy",
       "tkey": "熱門族群人形機器人熱潮和椿發功點出一串紅燈",
@@ -48,7 +179,7 @@
           "name": "泓格",
           "point": "概念股同步表態，亮燈漲停",
           "limitUp": true,
-          "pct": 10
+          "pct": 9.7
         }
       ],
       "background": "人形機器人應用從展示、工業試點進一步走向量產與消費端，帶動市場想像空間升溫，台廠供應鏈逐步卡位成形。",
@@ -142,7 +273,7 @@
           "name": "泓格",
           "point": "機器人族群紅燈",
           "limitUp": true,
-          "pct": 10
+          "pct": 9.7
         }
       ],
       "background": "人形機器人發展元年，AI教父黃仁勳看好其推理能力，特斯拉預計第三季量產，匯豐投信推出相關基金，吸引資金卡位。",
