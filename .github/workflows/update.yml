@@ -44,6 +44,8 @@ jobs:
             echo "no data changes"
           else
             git commit -m "chore(data): 更新熱門族群新聞 [skip ci]"
+            # rerun／並行 run 可能已推過資料 commit → 先 rebase（衝突時以本次新產資料為準）再推
+            git pull --rebase -X theirs origin main || true
             git push
           fi
 
