@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-03T12:04:19.704+08:00",
-  "generatedAt": "2026-07-03T04:04:19.704Z",
+  "asOf": "2026-07-03T13:02:45.908+08:00",
+  "generatedAt": "2026-07-03T05:02:45.908Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近5日漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -17,39 +17,48 @@
         {
           "symbol": "3363",
           "name": "上詮",
-          "point": "率先攻頂掌舵、快攻漲停"
+          "point": "率先攻頂掌舵、快攻漲停",
+          "limitUp": false
         },
         {
           "symbol": "4991",
           "name": "環宇-KY",
-          "point": "率先攻頂掌舵"
+          "point": "率先攻頂掌舵",
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "1717",
           "name": "長興",
           "point": "緊隨其後跟進走強",
           "status": "高檔修正",
-          "dist": -11.8
+          "dist": -11.8,
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "3081",
           "name": "聯亞",
-          "point": "緊隨其後跟進走強"
+          "point": "緊隨其後跟進走強",
+          "limitUp": false
         },
         {
           "symbol": "4979",
           "name": "華星光",
-          "point": "緊隨其後跟進走強、獲利大幅成長"
+          "point": "緊隨其後跟進走強、獲利大幅成長",
+          "limitUp": false
         },
         {
           "symbol": "4903",
           "name": "聯光通",
-          "point": "緊隨其後跟進走強"
+          "point": "緊隨其後跟進走強",
+          "limitUp": false
         },
         {
           "symbol": "3163",
           "name": "波若威",
-          "point": "緊隨其後跟進走強、轉虧為盈"
+          "point": "緊隨其後跟進走強、轉虧為盈",
+          "limitUp": false
         }
       ],
       "background": "矽光子技術因AI模型擴大對高頻寬、低延遲傳輸需求而受重視，CPO將成高速互連主流，輝達新平台量產帶動產業進入收割期。",
@@ -72,12 +81,14 @@
           "name": "台積電",
           "point": "外資調升目標價，看好AI需求",
           "status": "逼近新高",
-          "dist": -3.9
+          "dist": -3.9,
+          "limitUp": false
         },
         {
           "symbol": "2379",
           "name": "瑞昱",
-          "point": "2027年規格升級為主要驅動力"
+          "point": "2027年規格升級為主要驅動力",
+          "limitUp": false
         }
       ],
       "background": "半導體產業受惠於AI需求強勁，晶圓代工龍頭台積電先進製程產能吃緊，預期將調漲價格。網通晶片廠瑞昱則受惠於Wi-Fi 7及10G PON升級。",
@@ -100,14 +111,16 @@
           "name": "矽格",
           "point": "AI、ASIC、HPC為成長引擎",
           "status": "逼近新高",
-          "dist": -2.3
+          "dist": -2.3,
+          "limitUp": false
         },
         {
           "symbol": "3711",
           "name": "日月光投控",
           "point": "受惠CoWoS擴產與先進封裝",
           "status": "逼近新高",
-          "dist": -7.8
+          "dist": -7.8,
+          "limitUp": false
         }
       ],
       "background": "半導體測試需求因全球AI晶片、HPC與矽光子發展而大增，台積電持續擴大CoWoS先進封裝委外訂單，帶動封測產業成長。",
@@ -128,12 +141,14 @@
         {
           "symbol": "4130",
           "name": "健亞",
-          "point": "與易威合併案續推"
+          "point": "與易威合併案續推",
+          "limitUp": false
         },
         {
           "symbol": "1799",
           "name": "易威",
-          "point": "與健亞合併案續推"
+          "point": "與健亞合併案續推",
+          "limitUp": false
         }
       ],
       "background": "健亞與易威的合併案因假處分遭駁回而得以繼續推進，股份轉換作業將依既定時程進行，預計7月完成終止上櫃。",
@@ -150,24 +165,28 @@
         {
           "symbol": "6409",
           "name": "旭隼",
-          "point": "太陽能逆變器營收占比高，受惠轉單"
+          "point": "太陽能逆變器營收占比高，受惠轉單",
+          "limitUp": false
         },
         {
           "symbol": "3015",
           "name": "全漢",
           "point": "太陽能逆變器銷售全球，受惠轉單",
           "status": "逼近新高",
-          "dist": -4.7
+          "dist": -4.7,
+          "limitUp": false
         },
         {
           "symbol": "2308",
           "name": "台達電",
-          "point": "綠能與智慧電網策略合作"
+          "point": "綠能與智慧電網策略合作",
+          "limitUp": false
         },
         {
           "symbol": "1514",
           "name": "亞力",
-          "point": "專注併網型逆變器研發"
+          "point": "專注併網型逆變器研發",
+          "limitUp": false
         }
       ],
       "background": "美國擬禁止中國製太陽能逆變器進口，為降低電網資安風險，台灣廠商有望大啖千億元轉單商機，旭隼、全漢等受惠最大。",
@@ -186,22 +205,26 @@
         {
           "symbol": "6180",
           "name": "橘子",
-          "point": "長青IP「新楓之谷」夏季改版"
+          "point": "長青IP「新楓之谷」夏季改版",
+          "limitUp": false
         },
         {
           "symbol": "3083",
           "name": "網龍",
-          "point": "推AI情感互動遊戲與經典IP新作"
+          "point": "推AI情感互動遊戲與經典IP新作",
+          "limitUp": false
         },
         {
           "symbol": "3546",
           "name": "宇峻",
-          "point": "多款新產品與國際版遊戲推出"
+          "point": "多款新產品與國際版遊戲推出",
+          "limitUp": false
         },
         {
           "symbol": "7584",
           "name": "樂意",
-          "point": "代理新作下載表現優於預期"
+          "point": "代理新作下載表現優於預期",
+          "limitUp": false
         }
       ],
       "background": "暑假為遊戲產業傳統旺季，學生族群上線時間增加，多家遊戲廠商推出新遊戲、大型改版活動及經典IP續作，預期第三季營收將明顯升溫。",
