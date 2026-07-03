@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "updatedAt": "2026-07-03T06:39:34.429Z",
+  "updatedAt": "2026-07-03T09:41:42.493Z",
   "news": [
     {
       "gid": "CBMijwFBVV95cUxPQ2hCUlBxS3cyYUhyRm93U3hOQWJWUk41bkNvZVdZVWdpNGlaSFJHYktmeDZGVDJCRjhjUmdFYTdUWnliZUtVNGlFdk9OUTcxUUQwbEM2RmtvT1BuU19CbWQzWG9rb3hJN0xXb2hFVDVTdHQtMGstT0JlRS14R1JOQXFOSHNvTXU4dE5DbDFndw",
@@ -26,11 +26,10 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.8,
-          "lu5": 3,
+          "lu5": 2,
           "lu5d": [
             "7/2",
-            "6/30",
-            "6/29"
+            "6/30"
           ]
         },
         {
@@ -46,15 +45,7 @@
           "status": "逼近新高",
           "dist": -6.6,
           "limitUp": true,
-          "pct": 9.9,
-          "lu5": 5,
-          "lu5d": [
-            "7/2",
-            "7/1",
-            "6/30",
-            "6/29",
-            "6/26"
-          ]
+          "pct": 9.9
         }
       ],
       "background": "功率元件受AI資料中心與能源電網「去中化」加速，設備交期拉長，導致供不應求與搶貨潮。",
@@ -140,11 +131,10 @@
           "status": "逼近新高",
           "dist": -1.5,
           "limitUp": false,
-          "lu5": 3,
+          "lu5": 2,
           "lu5d": [
             "7/1",
-            "6/30",
-            "6/29"
+            "6/30"
           ]
         },
         {
@@ -252,9 +242,10 @@
           "name": "國碩",
           "point": "太陽能股逆勢走強",
           "limitUp": false,
-          "lu5": 1,
+          "lu5": 2,
           "lu5d": [
-            "6/30"
+            "6/30",
+            "6/29"
           ]
         },
         {
@@ -393,12 +384,11 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.9,
-          "lu5": 4,
+          "lu5": 3,
           "lu5d": [
             "7/2",
             "7/1",
-            "6/30",
-            "6/29"
+            "6/30"
           ]
         },
         {
@@ -409,11 +399,10 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.8,
-          "lu5": 3,
+          "lu5": 2,
           "lu5d": [
             "7/2",
-            "6/30",
-            "6/29"
+            "6/30"
           ]
         },
         {
@@ -423,15 +412,7 @@
           "status": "逼近新高",
           "dist": -6.6,
           "limitUp": true,
-          "pct": 9.9,
-          "lu5": 5,
-          "lu5d": [
-            "7/2",
-            "7/1",
-            "6/30",
-            "6/29",
-            "6/26"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "8255",
@@ -446,15 +427,7 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 9.9,
-          "lu5": 5,
-          "lu5d": [
-            "7/2",
-            "7/1",
-            "6/30",
-            "6/29",
-            "6/26"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6138",
@@ -463,30 +436,14 @@
           "status": "逼近新高",
           "dist": -0.8,
           "limitUp": true,
-          "pct": 10,
-          "lu5": 5,
-          "lu5d": [
-            "7/2",
-            "7/1",
-            "6/30",
-            "6/29",
-            "6/26"
-          ]
+          "pct": 10
         },
         {
           "symbol": "5299",
           "name": "杰力",
           "point": "電源管理IC與MOSFET相關",
           "limitUp": true,
-          "pct": 9.7,
-          "lu5": 5,
-          "lu5d": [
-            "7/2",
-            "7/1",
-            "6/30",
-            "6/29",
-            "6/26"
-          ]
+          "pct": 9.7
         }
       ],
       "background": "功率元件搭上AI伺服器高壓電源架構升級、電動車需求，國際大廠帶動漲價循環，台廠受惠轉單。",
@@ -558,15 +515,7 @@
           "name": "泓格",
           "point": "概念股同步表態",
           "limitUp": true,
-          "pct": 10,
-          "lu5": 5,
-          "lu5d": [
-            "7/2",
-            "7/1",
-            "6/30",
-            "6/29",
-            "6/26"
-          ]
+          "pct": 10
         }
       ],
       "background": "人形機器人熱潮受陸系大廠推出新品帶動，應用從展示走向量產與消費端，台廠供應鏈卡位。",
