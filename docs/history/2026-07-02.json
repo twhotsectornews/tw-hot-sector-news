@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "updatedAt": "2026-07-03T06:03:53.406Z",
+  "updatedAt": "2026-07-03T06:39:34.429Z",
   "news": [
     {
       "gid": "CBMijwFBVV95cUxPQ2hCUlBxS3cyYUhyRm93U3hOQWJWUk41bkNvZVdZVWdpNGlaSFJHYktmeDZGVDJCRjhjUmdFYTdUWnliZUtVNGlFdk9OUTcxUUQwbEM2RmtvT1BuU19CbWQzWG9rb3hJN0xXb2hFVDVTdHQtMGstT0JlRS14R1JOQXFOSHNvTXU4dE5DbDFndw",
@@ -26,10 +26,11 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.8,
-          "lu5": 2,
+          "lu5": 3,
           "lu5d": [
             "7/2",
-            "6/30"
+            "6/30",
+            "6/29"
           ]
         },
         {
@@ -139,10 +140,11 @@
           "status": "逼近新高",
           "dist": -1.5,
           "limitUp": false,
-          "lu5": 2,
+          "lu5": 3,
           "lu5d": [
             "7/1",
-            "6/30"
+            "6/30",
+            "6/29"
           ]
         },
         {
@@ -250,10 +252,9 @@
           "name": "國碩",
           "point": "太陽能股逆勢走強",
           "limitUp": false,
-          "lu5": 2,
+          "lu5": 1,
           "lu5d": [
-            "6/30",
-            "6/29"
+            "6/30"
           ]
         },
         {
@@ -392,11 +393,12 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.9,
-          "lu5": 3,
+          "lu5": 4,
           "lu5d": [
             "7/2",
             "7/1",
-            "6/30"
+            "6/30",
+            "6/29"
           ]
         },
         {
@@ -407,10 +409,11 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.8,
-          "lu5": 2,
+          "lu5": 3,
           "lu5d": [
             "7/2",
-            "6/30"
+            "6/30",
+            "6/29"
           ]
         },
         {
