@@ -229,6 +229,64 @@ async function upsertHistory(day, items) {
   await fs.writeFile(file, JSON.stringify({ date: day, updatedAt: new Date().toISOString(), news: merged }, null, 2), "utf8");
 }
 
+/**
+ * 7日常客榜：近 7 個日曆天（含今日）被點名 ≥ 2「天」的個股（同日多則只算 1 天）。
+ * 資料＝當前 news（今＋昨日組）＋ history/<day>.json；跨來源以 gid 去重（昨日組兩邊都有）。
+ */
+async function buildHot7(news, today) {
+  const windowDays = [];
+  for (let i = 0; i < 7; i++) windowDays.push(taipeiDayOf(Date.now() - i * 86_400_000));
+  const windowSet = new Set(windowDays);
+
+  // 1) 窗口內新聞、gid 去重（當前 news 先放＝標記最新版優先）
+  const byGid = new Map();
+  const put = (n) => {
+    const d = newsDay(n, today);
+    if (!windowSet.has(d)) return;
+    const key = n.gid || titleKey(n.title);
+    if (!byGid.has(key)) byGid.set(key, { day: d, stocks: Array.isArray(n.stocks) ? n.stocks : [] });
+  };
+  for (const n of news) put(n);
+  for (const d of windowDays) {
+    if (d === today) continue; // 今日組只存在於當前 news
+    try {
+      const h = JSON.parse(await fs.readFile(path.join(HISTORY_DIR, `${d}.json`), "utf8"));
+      for (const n of h.news ?? []) put(n);
+    } catch {} // 檔案不存在＝那天沒新聞
+  }
+
+  // 2) 以「天」彙總；latest 取最新一天的 stock 物件（帶型態/漲停標記供前端顯示）
+  const acc = new Map();
+  for (const { day, stocks } of byGid.values()) {
+    for (const s of stocks) {
+      let a = acc.get(s.symbol);
+      if (!a) acc.set(s.symbol, (a = { name: s.name, daySet: new Set(), mentions: 0, latest: s, latestDay: day }));
+      a.daySet.add(day);
+      a.mentions++;
+      if (day > a.latestDay) { a.latest = s; a.latestDay = day; a.name = s.name || a.name; }
+    }
+  }
+
+  // 3) ≥ 2 天者輸出，天數多→則數多排序
+  return [...acc.entries()]
+    .filter(([, a]) => a.daySet.size >= 2)
+    .sort((x, y) => y[1].daySet.size - x[1].daySet.size || y[1].mentions - x[1].mentions)
+    .slice(0, 30)
+    .map(([symbol, a]) => ({
+      symbol,
+      name: a.name,
+      days: a.daySet.size,
+      dates: [...a.daySet].sort().reverse().map((d) => `${+d.slice(5, 7)}/${+d.slice(8, 10)}`),
+      mentions: a.mentions,
+      status: a.latest.status,
+      dist: a.latest.dist,
+      limitUp: a.latest.limitUp,
+      pct: a.latest.pct,
+      luw: a.latest.luw,
+      luwd: a.latest.luwd,
+    }));
+}
+
 async function main() {
   const apiKey = await readKey("GEMINI_API_KEY");
   const today = taipeiDate();
@@ -400,6 +458,15 @@ async function main() {
     return;
   }
 
+  // 7) 7日常客榜（近 7 天被點名 ≥ 2 天）；失敗不影響主流程
+  let hot7 = [];
+  try {
+    hot7 = await buildHot7(news, today);
+    console.log(`7日常客：${hot7.length} 檔（出現 ≥ 2 天）。`);
+  } catch (e) {
+    console.warn(`7日常客統計失敗（本班榜單留空）：${e.message}`);
+  }
+
   const bgCount = news.filter((n) => n.background).length;
   const out = {
     asOf: taipeiISO(),
@@ -408,6 +475,7 @@ async function main() {
     filter: "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
     note: "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
     aiSource: apiKey ? "gemini" : "none",
+    hot7,
     news,
   };
   await fs.writeFile(OUT_FILE, JSON.stringify(out, null, 2), "utf8");

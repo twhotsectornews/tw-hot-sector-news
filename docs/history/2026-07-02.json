@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "updatedAt": "2026-07-03T12:44:10.467Z",
+  "updatedAt": "2026-07-03T17:34:31.026Z",
   "news": [
     {
       "gid": "CBMijwFBVV95cUxPQ2hCUlBxS3cyYUhyRm93U3hOQWJWUk41bkNvZVdZVWdpNGlaSFJHYktmeDZGVDJCRjhjUmdFYTdUWnliZUtVNGlFdk9OUTcxUUQwbEM2RmtvT1BuU19CbWQzWG9rb3hJN0xXb2hFVDVTdHQtMGstT0JlRS14R1JOQXFOSHNvTXU4dE5DbDFndw",
@@ -26,11 +26,10 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.8,
-          "luw": 3,
+          "luw": 2,
           "luwd": [
             "7/2",
-            "6/30",
-            "6/29"
+            "6/30"
           ]
         },
         {
@@ -120,8 +119,9 @@
           "point": "跟進鎖紅燈",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "7/3",
             "7/2"
           ]
         },
@@ -132,11 +132,10 @@
           "status": "逼近新高",
           "dist": -1.5,
           "limitUp": false,
-          "luw": 3,
+          "luw": 2,
           "luwd": [
             "7/1",
-            "6/30",
-            "6/29"
+            "6/30"
           ]
         },
         {
@@ -220,8 +219,9 @@
           "point": "盤中雙觸漲停",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "7/3",
             "7/2"
           ]
         }
@@ -244,9 +244,10 @@
           "name": "國碩",
           "point": "太陽能股逆勢走強",
           "limitUp": false,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
-            "6/30"
+            "6/30",
+            "6/29"
           ]
         },
         {
@@ -306,11 +307,11 @@
           "pct": 10,
           "luw": 5,
           "luwd": [
+            "7/3",
             "7/2",
             "7/1",
             "6/30",
-            "6/29",
-            "6/26"
+            "6/29"
           ]
         },
         {
@@ -385,12 +386,11 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.9,
-          "luw": 4,
+          "luw": 3,
           "luwd": [
             "7/2",
             "7/1",
-            "6/30",
-            "6/29"
+            "6/30"
           ]
         },
         {
@@ -401,11 +401,10 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.8,
-          "luw": 3,
+          "luw": 2,
           "luwd": [
             "7/2",
-            "6/30",
-            "6/29"
+            "6/30"
           ]
         },
         {

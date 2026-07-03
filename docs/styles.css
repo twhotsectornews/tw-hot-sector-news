@@ -67,6 +67,17 @@ main { max-width: 760px; margin: 0 auto; padding: 8px 18px; }
   font-size: 13px;
 }
 
+/* 7日常客榜：淡金框區塊，與新聞流區隔 */
+.hot7 {
+  margin: 14px 0 4px;
+  padding: 10px 14px 12px;
+  background: rgba(255, 204, 69, .04);
+  border: 1px solid rgba(255, 204, 69, .14);
+  border-radius: 10px;
+}
+.hot7 .day-head { margin: 0 0 4px; padding: 0 0 6px; border-bottom: 1px solid rgba(255, 255, 255, .05); }
+.h7 { flex: none; width: 3.6em; color: #ffcc45; font-weight: 700; font-size: 12.5px; }
+
 /* 日期分組標頭 */
 .day-sec + .day-sec { margin-top: 8px; }
 .day-head {

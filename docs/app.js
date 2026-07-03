@@ -26,20 +26,28 @@ function patternTag(s) {
   return `<span class="tag ${cls}" title="${esc(tip)}">${esc(s.status)}</span>`;
 }
 
-function stockRow(s) {
+/** 漲停欄：今日漲停（紅）＞ 近一週漲停（淡紅）＞ 空。 */
+function luCell(s) {
   const luTip = s.luw ? `近一週漲停：${(s.luwd || []).join("、")}` : "";
-  let lu;
-  if (s.limitUp) {
-    lu = `<span class="lu" title="${esc(luTip)}">漲停${typeof s.pct === "number" ? ` +${s.pct.toFixed(1)}%` : ""}</span>`;
-  } else if (s.luw) {
-    lu = `<span class="lu lu-past" title="${esc(luTip)}">週${s.luw}停</span>`;
-  } else {
-    lu = `<span class="lu-none"></span>`;
-  }
+  if (s.limitUp) return `<span class="lu" title="${esc(luTip)}">漲停${typeof s.pct === "number" ? ` +${s.pct.toFixed(1)}%` : ""}</span>`;
+  if (s.luw) return `<span class="lu lu-past" title="${esc(luTip)}">週${s.luw}停</span>`;
+  return `<span class="lu-none"></span>`;
+}
+
+function stockRow(s) {
   const point = s.point ? `<span class="point">${esc(s.point)}</span>` : "";
   return `<li class="stk${s.limitUp ? " is-lu" : ""}">` +
     `<span class="tkr"><span class="code">${esc(s.symbol)}</span><span class="name">${esc(s.name)}</span></span>` +
-    `${patternTag(s)}${lu}${point}</li>`;
+    `${patternTag(s)}${luCell(s)}${point}</li>`;
+}
+
+/** 7日常客榜的一列：代碼名稱 │ ×N天 │ 型態 │ 漲停。 */
+function hot7Row(s) {
+  const tip = `出現日：${(s.dates || []).join("、")}（共 ${s.mentions ?? "?"} 則）`;
+  return `<li class="stk${s.limitUp ? " is-lu" : ""}">` +
+    `<span class="tkr"><span class="code">${esc(s.symbol)}</span><span class="name">${esc(s.name)}</span></span>` +
+    `<span class="h7" title="${esc(tip)}">×${s.days}天</span>` +
+    `${patternTag(s)}${luCell(s)}</li>`;
 }
 
 const THEME_TAG_CLASS = { "需求驅動": "tt-demand", "國際大廠": "tt-global", "政策關稅": "tt-policy", "循環位置": "tt-cycle" };
@@ -120,7 +128,15 @@ function render(data) {
       ${items.map(newsCard).join("")}
     </section>`).join("");
 
-  $app.innerHTML = staleBanner(data.asOf) + `
+  // 7日常客榜（近 7 天出現 ≥ 2 天的個股）
+  const hot7 = data.hot7 || [];
+  const hot7Html = hot7.length ? `
+    <section class="hot7">
+      <h2 class="day-head">🔥 7日常客<span class="day-count">近 7 天出現 ≥ 2 天・依天數排序</span></h2>
+      <ul class="stocks">${hot7.map(hot7Row).join("")}</ul>
+    </section>` : "";
+
+  $app.innerHTML = staleBanner(data.asOf) + hot7Html + `
     <div class="toolbar">
       <input id="filter" class="filter" type="search" placeholder="篩選：股號 / 股名 / 標題…" />
     </div>
@@ -137,6 +153,15 @@ function render(data) {
       const any = [...sec.querySelectorAll(".news")].some((el) => el.style.display !== "none");
       sec.style.display = any ? "" : "none";
     });
+    // 常客榜同步篩選；全空就藏整個區塊
+    document.querySelectorAll(".hot7 .stk").forEach((el) => {
+      el.style.display = !q || el.textContent.toLowerCase().includes(q) ? "" : "none";
+    });
+    const hotSec = document.querySelector(".hot7");
+    if (hotSec) {
+      const any = [...hotSec.querySelectorAll(".stk")].some((el) => el.style.display !== "none");
+      hotSec.style.display = any ? "" : "none";
+    }
   });
 }
 
