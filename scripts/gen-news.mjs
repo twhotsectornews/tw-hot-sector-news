@@ -346,22 +346,23 @@ async function main() {
     }
   }
 
-  // 4b) 近 5 個交易日漲停註記（不含今日；今日由 4a 標）。這是個股的滾動屬性，所有新聞的個股都標。
+  // 4b) 近一週漲停註記（過去 7 個日曆天內的交易日，不含今日；今日由 4a 標）。個股的滾動屬性，所有新聞的個股都標。
   if (news.some((n) => n.stocks.length)) {
     try {
       const yesterday = taipeiDayOf(Date.now() - 86_400_000);
-      const { tradingDays, limitUps: lu } = await getRecentLimitUps({ days: 5, startFrom: yesterday, maxLookback: 14 });
+      const { tradingDays, limitUps: lu } = await getRecentLimitUps({ days: 7, startFrom: yesterday, maxLookback: 7 });
       for (const n of news) for (const s of n.stocks) {
-        delete s.lu5; delete s.lu5d;
+        delete s.lu5; delete s.lu5d; // 舊欄位（近5交易日版），過渡期清掉
+        delete s.luw; delete s.luwd;
         const rec = lu.get(s.symbol);
         if (rec) {
-          s.lu5 = rec.dates.length;
-          s.lu5d = rec.dates.map((d) => `${+d.slice(5, 7)}/${+d.slice(8, 10)}`); // 新到舊，如 ["7/1","6/27"]
+          s.luw = rec.dates.length;
+          s.luwd = rec.dates.map((d) => `${+d.slice(5, 7)}/${+d.slice(8, 10)}`); // 新到舊，如 ["7/1","6/27"]
         }
       }
-      console.log(`近5交易日（${tradingDays.at(-1)}～${tradingDays[0]}）漲停 ${lu.size} 檔已對照。`);
+      console.log(`近一週（${tradingDays.at(-1)}～${tradingDays[0]}，${tradingDays.length} 個交易日）漲停 ${lu.size} 檔已對照。`);
     } catch (e) {
-      console.warn(`近5日漲停註記失敗（保留原標記）：${e.message}`);
+      console.warn(`近一週漲停註記失敗（保留原標記）：${e.message}`);
     }
   }
 
@@ -404,7 +405,7 @@ async function main() {
     asOf: taipeiISO(),
     generatedAt: new Date().toISOString(),
     keyword: KEYWORD,
-    filter: "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近5日漲停",
+    filter: "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
     note: "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
     aiSource: apiKey ? "gemini" : "none",
     news,

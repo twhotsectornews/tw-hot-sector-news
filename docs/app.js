@@ -27,12 +27,12 @@ function patternTag(s) {
 }
 
 function stockRow(s) {
-  const luTip = s.lu5 ? `近5交易日漲停：${(s.lu5d || []).join("、")}` : "";
+  const luTip = s.luw ? `近一週漲停：${(s.luwd || []).join("、")}` : "";
   let lu;
   if (s.limitUp) {
     lu = `<span class="lu" title="${esc(luTip)}">漲停${typeof s.pct === "number" ? ` +${s.pct.toFixed(1)}%` : ""}</span>`;
-  } else if (s.lu5) {
-    lu = `<span class="lu lu-past" title="${esc(luTip)}">5日${s.lu5}停</span>`;
+  } else if (s.luw) {
+    lu = `<span class="lu lu-past" title="${esc(luTip)}">週${s.luw}停</span>`;
   } else {
     lu = `<span class="lu-none"></span>`;
   }
@@ -98,7 +98,7 @@ function staleBanner(asOf) {
 
 function render(data) {
   const news = data.news || [];
-  $status.innerHTML = `更新 ${esc(fmtTime(data.asOf))}　·　${news.length} 則　·　<b>族群題材</b>＋月K型態、漲停與近5日漲停` +
+  $status.innerHTML = `更新 ${esc(fmtTime(data.asOf))}　·　${news.length} 則　·　<b>族群題材</b>＋月K型態、漲停與近一週漲停` +
     (data.aiSource === "none" ? "　·　（未啟用 AI 判讀）" : "");
 
   if (!news.length) {

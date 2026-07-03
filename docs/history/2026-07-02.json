@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "updatedAt": "2026-07-03T12:40:02.603Z",
+  "updatedAt": "2026-07-03T12:41:35.937Z",
   "news": [
     {
       "gid": "CBMijwFBVV95cUxPQ2hCUlBxS3cyYUhyRm93U3hOQWJWUk41bkNvZVdZVWdpNGlaSFJHYktmeDZGVDJCRjhjUmdFYTdUWnliZUtVNGlFdk9OUTcxUUQwbEM2RmtvT1BuU19CbWQzWG9rb3hJN0xXb2hFVDVTdHQtMGstT0JlRS14R1JOQXFOSHNvTXU4dE5DbDFndw",
@@ -26,11 +26,10 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.8,
-          "lu5": 3,
-          "lu5d": [
+          "luw": 2,
+          "luwd": [
             "7/2",
-            "6/30",
-            "6/29"
+            "6/30"
           ]
         },
         {
@@ -109,8 +108,8 @@
           "point": "續強亮燈攻頂",
           "limitUp": true,
           "pct": 9.9,
-          "lu5": 1,
-          "lu5d": [
+          "luw": 1,
+          "luwd": [
             "7/2"
           ]
         },
@@ -120,8 +119,8 @@
           "point": "跟進鎖紅燈",
           "limitUp": true,
           "pct": 9.9,
-          "lu5": 1,
-          "lu5d": [
+          "luw": 1,
+          "luwd": [
             "7/2"
           ]
         },
@@ -132,11 +131,10 @@
           "status": "逼近新高",
           "dist": -1.5,
           "limitUp": false,
-          "lu5": 3,
-          "lu5d": [
+          "luw": 2,
+          "luwd": [
             "7/1",
-            "6/30",
-            "6/29"
+            "6/30"
           ]
         },
         {
@@ -164,8 +162,8 @@
           "status": "逼近新高",
           "dist": -4.5,
           "limitUp": false,
-          "lu5": 2,
-          "lu5d": [
+          "luw": 2,
+          "luwd": [
             "7/1",
             "6/30"
           ]
@@ -183,8 +181,8 @@
           "status": "高檔修正",
           "dist": -10.9,
           "limitUp": false,
-          "lu5": 1,
-          "lu5d": [
+          "luw": 1,
+          "luwd": [
             "6/30"
           ]
         }
@@ -209,8 +207,8 @@
           "point": "盤中雙觸漲停",
           "limitUp": true,
           "pct": 9.9,
-          "lu5": 1,
-          "lu5d": [
+          "luw": 1,
+          "luwd": [
             "7/2"
           ]
         },
@@ -220,8 +218,8 @@
           "point": "盤中雙觸漲停",
           "limitUp": true,
           "pct": 9.9,
-          "lu5": 1,
-          "lu5d": [
+          "luw": 1,
+          "luwd": [
             "7/2"
           ]
         }
@@ -244,9 +242,10 @@
           "name": "國碩",
           "point": "太陽能股逆勢走強",
           "limitUp": false,
-          "lu5": 1,
-          "lu5d": [
-            "6/30"
+          "luw": 2,
+          "luwd": [
+            "6/30",
+            "6/29"
           ]
         },
         {
@@ -304,8 +303,8 @@
           "dist": 0,
           "limitUp": true,
           "pct": 10,
-          "lu5": 5,
-          "lu5d": [
+          "luw": 5,
+          "luwd": [
             "7/2",
             "7/1",
             "6/30",
@@ -320,8 +319,8 @@
           "status": "逼近新高",
           "dist": -4.5,
           "limitUp": false,
-          "lu5": 2,
-          "lu5d": [
+          "luw": 2,
+          "luwd": [
             "7/1",
             "6/30"
           ]
@@ -334,8 +333,8 @@
           "dist": -12.4,
           "limitUp": true,
           "pct": 9.8,
-          "lu5": 2,
-          "lu5d": [
+          "luw": 2,
+          "luwd": [
             "7/2",
             "6/30"
           ]
@@ -385,12 +384,11 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.9,
-          "lu5": 4,
-          "lu5d": [
+          "luw": 3,
+          "luwd": [
             "7/2",
             "7/1",
-            "6/30",
-            "6/29"
+            "6/30"
           ]
         },
         {
@@ -401,11 +399,10 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.8,
-          "lu5": 3,
-          "lu5d": [
+          "luw": 2,
+          "luwd": [
             "7/2",
-            "6/30",
-            "6/29"
+            "6/30"
           ]
         },
         {
@@ -475,8 +472,8 @@
           "point": "概念股同步表態",
           "limitUp": true,
           "pct": 9.7,
-          "lu5": 1,
-          "lu5d": [
+          "luw": 1,
+          "luwd": [
             "7/2"
           ]
         },
@@ -486,8 +483,8 @@
           "point": "概念股同步表態",
           "limitUp": true,
           "pct": 10,
-          "lu5": 1,
-          "lu5d": [
+          "luw": 1,
+          "luwd": [
             "7/2"
           ]
         },
@@ -497,8 +494,8 @@
           "point": "概念股同步表態",
           "limitUp": true,
           "pct": 9.8,
-          "lu5": 1,
-          "lu5d": [
+          "luw": 1,
+          "luwd": [
             "7/2"
           ]
         },
@@ -508,8 +505,8 @@
           "point": "概念股同步表態",
           "limitUp": true,
           "pct": 9.9,
-          "lu5": 1,
-          "lu5d": [
+          "luw": 1,
+          "luwd": [
             "7/2"
           ]
         },
@@ -541,8 +538,8 @@
           "status": "高檔修正",
           "dist": -10.9,
           "limitUp": false,
-          "lu5": 1,
-          "lu5d": [
+          "luw": 1,
+          "luwd": [
             "6/30"
           ]
         },
@@ -553,8 +550,8 @@
           "status": "高檔修正",
           "dist": -13.4,
           "limitUp": false,
-          "lu5": 1,
-          "lu5d": [
+          "luw": 1,
+          "luwd": [
             "6/30"
           ]
         },
@@ -565,8 +562,8 @@
           "status": "高檔修正",
           "dist": -11.6,
           "limitUp": false,
-          "lu5": 1,
-          "lu5d": [
+          "luw": 1,
+          "luwd": [
             "6/30"
           ]
         }
