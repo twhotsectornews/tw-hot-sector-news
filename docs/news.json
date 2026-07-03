@@ -1,11 +1,66 @@
 {
-  "asOf": "2026-07-03T18:42:29.707+08:00",
-  "generatedAt": "2026-07-03T10:42:29.707Z",
+  "asOf": "2026-07-03T19:41:19.048+08:00",
+  "generatedAt": "2026-07-03T11:41:19.048Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近5日漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "news": [
+    {
+      "gid": "CBMiakFVX3lxTFAwbUNqaTcxdWNmU1d3MUc4T2k5dVRHTDd1NzVFQWZWR0ZSQUtocDBRYURJT1ljQ05BQ0lhUVVUVmkwTFRmRENVT0RLcWx5aVh3bmxGYlZITWxvNHdqVUtxWHY2NkdlSC1aYkE",
+      "tkey": "熱門族群台塑四寶三紅一黑！台化再攻漲停南亞獨跌拉回-上市櫃",
+      "title": "《熱門族群》台塑四寶三紅一黑！台化再攻漲停南亞獨跌拉回- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260703900241-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Fri, 03 Jul 2026 03:39:22 GMT",
+      "stocks": [
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "再攻漲停，為四寶最強指標",
+          "limitUp": true,
+          "pct": 9.9,
+          "lu5": 1,
+          "lu5d": [
+            "7/2"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "獨跌拉回，處置交易期間",
+          "status": "逼近新高",
+          "dist": -1.5,
+          "limitUp": false,
+          "lu5": 2,
+          "lu5d": [
+            "7/1",
+            "6/30"
+          ]
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "維持買盤熱度，股價續強",
+          "limitUp": false,
+          "lu5": 1,
+          "lu5d": [
+            "7/2"
+          ]
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "加入多方行列，維持紅盤",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶受資金回流低基期傳產與塑化族群帶動，市場預期基本面回溫，石化利差改善，且部分公司具AI材料題材。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPUll6NDBfREJFRVhmb3lrZTF1MjVWMEFaSDlYVEJvSzhzb3JIb1YwWWhaSlRmdHZzQ0l1OEk2TmJVWm9LVWZETm5HdmM2bXh0TV90dG5xLWNfYTFDMno5VU5NeXhQQTRZaEhTeUJ4b3RqRUhTZkVRNXo4TUdKU19GY29iaHpnMzEz",
       "tkey": "熱門族群矽光子醒了？2顆紅燈鎖好鎖滿",
@@ -25,8 +80,8 @@
             "7/2",
             "7/1",
             "6/30",
-            "6/26",
-            "6/25"
+            "6/29",
+            "6/26"
           ]
         },
         {
@@ -40,8 +95,8 @@
             "7/2",
             "7/1",
             "6/30",
-            "6/26",
-            "6/25"
+            "6/29",
+            "6/26"
           ]
         },
         {
@@ -183,11 +238,7 @@
           "symbol": "6409",
           "name": "旭隼",
           "point": "太陽能逆變器營收占比高，受惠轉單",
-          "limitUp": false,
-          "lu5": 1,
-          "lu5d": [
-            "6/25"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3015",
@@ -317,11 +368,7 @@
           "symbol": "6409",
           "name": "旭隼",
           "point": "攻上差一檔漲停",
-          "limitUp": false,
-          "lu5": 1,
-          "lu5d": [
-            "6/25"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3015",
@@ -386,8 +433,9 @@
           "status": "逼近新高",
           "dist": -1.5,
           "limitUp": false,
-          "lu5": 1,
+          "lu5": 2,
           "lu5d": [
+            "7/1",
             "6/30"
           ]
         },
@@ -416,8 +464,9 @@
           "status": "逼近新高",
           "dist": -4.5,
           "limitUp": false,
-          "lu5": 1,
+          "lu5": 2,
           "lu5d": [
+            "7/1",
             "6/30"
           ]
         },
@@ -495,20 +544,17 @@
           "name": "國碩",
           "point": "太陽能股逆勢走強",
           "limitUp": false,
-          "lu5": 1,
+          "lu5": 2,
           "lu5d": [
-            "6/30"
+            "6/30",
+            "6/29"
           ]
         },
         {
           "symbol": "6409",
           "name": "旭隼",
           "point": "受惠轉單題材漲幅逾5%",
-          "limitUp": false,
-          "lu5": 1,
-          "lu5d": [
-            "6/25"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3576",
@@ -564,8 +610,8 @@
             "7/2",
             "7/1",
             "6/30",
-            "6/26",
-            "6/25"
+            "6/29",
+            "6/26"
           ]
         },
         {
@@ -575,8 +621,9 @@
           "status": "逼近新高",
           "dist": -4.5,
           "limitUp": false,
-          "lu5": 1,
+          "lu5": 2,
           "lu5d": [
+            "7/1",
             "6/30"
           ]
         },
@@ -639,9 +686,10 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.9,
-          "lu5": 2,
+          "lu5": 3,
           "lu5d": [
             "7/2",
+            "7/1",
             "6/30"
           ]
         },
@@ -726,10 +774,9 @@
           "point": "概念股同步表態",
           "limitUp": true,
           "pct": 9.7,
-          "lu5": 2,
+          "lu5": 1,
           "lu5d": [
-            "7/2",
-            "7/1"
+            "7/2"
           ]
         },
         {
@@ -805,10 +852,9 @@
           "status": "高檔修正",
           "dist": -13.4,
           "limitUp": false,
-          "lu5": 2,
+          "lu5": 1,
           "lu5d": [
-            "6/30",
-            "6/25"
+            "6/30"
           ]
         },
         {
@@ -818,10 +864,9 @@
           "status": "高檔修正",
           "dist": -11.6,
           "limitUp": false,
-          "lu5": 2,
+          "lu5": 1,
           "lu5d": [
-            "6/30",
-            "6/25"
+            "6/30"
           ]
         }
       ],
