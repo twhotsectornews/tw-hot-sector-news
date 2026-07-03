@@ -14,9 +14,7 @@ on:
     branches: [main]          # 改程式碼即重新部署頁面
 
 permissions:
-  contents: write             # commit 回 news.json
-  pages: write
-  id-token: write
+  contents: write             # commit 回 news.json（頁面由 Pages branch 模式直接 serve main:/docs，push 即發布）
 
 concurrency:
   group: hot-sector-news
@@ -53,19 +51,9 @@ jobs:
             git push
           fi
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: docs
-
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
-
-      # 放在最後：資料產生失敗時讓整個 run 轉紅（GitHub 會寄通知信），
-      # 但因為排在 deploy 之後，既有頁面照常部署、不受影響。
+      # 部署改用 Pages「branch 模式」直接 serve main:/docs（上面 commit 推上去即自動發布），
+      # 不再走 actions 的 artifact 部署管線（該管線 2026-07 曾連續抽風、狂寄失敗信）。
+      # 這步只在「資料產生失敗」時讓 run 轉紅寄信 —— 紅信 = 真的要處理。
       - name: Alert if generation failed
         if: steps.gen.outcome == 'failure'
         run: |
