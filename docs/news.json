@@ -1,11 +1,64 @@
 {
-  "asOf": "2026-07-03T11:05:40.686+08:00",
-  "generatedAt": "2026-07-03T03:05:40.686Z",
+  "asOf": "2026-07-03T12:04:19.704+08:00",
+  "generatedAt": "2026-07-03T04:04:19.704Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近5日漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPUll6NDBfREJFRVhmb3lrZTF1MjVWMEFaSDlYVEJvSzhzb3JIb1YwWWhaSlRmdHZzQ0l1OEk2TmJVWm9LVWZETm5HdmM2bXh0TV90dG5xLWNfYTFDMno5VU5NeXhQQTRZaEhTeUJ4b3RqRUhTZkVRNXo4TUdKU19GY29iaHpnMzEz",
+      "tkey": "熱門族群矽光子醒了？2顆紅燈鎖好鎖滿",
+      "title": "《熱門族群》矽光子醒了？2顆紅燈鎖好鎖滿 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6226913001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 03 Jul 2026 03:31:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3363",
+          "name": "上詮",
+          "point": "率先攻頂掌舵、快攻漲停"
+        },
+        {
+          "symbol": "4991",
+          "name": "環宇-KY",
+          "point": "率先攻頂掌舵"
+        },
+        {
+          "symbol": "1717",
+          "name": "長興",
+          "point": "緊隨其後跟進走強",
+          "status": "高檔修正",
+          "dist": -11.8
+        },
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "緊隨其後跟進走強"
+        },
+        {
+          "symbol": "4979",
+          "name": "華星光",
+          "point": "緊隨其後跟進走強、獲利大幅成長"
+        },
+        {
+          "symbol": "4903",
+          "name": "聯光通",
+          "point": "緊隨其後跟進走強"
+        },
+        {
+          "symbol": "3163",
+          "name": "波若威",
+          "point": "緊隨其後跟進走強、轉虧為盈"
+        }
+      ],
+      "background": "矽光子技術因AI模型擴大對高頻寬、低延遲傳輸需求而受重視，CPO將成高速互連主流，輝達新平台量產帶動產業進入收割期。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNV0E0MkJaeTZBUU9JQUhtVEhKcE5HVlZERUhtaGV1T1RKNXU1MG9zUnNmc0hOcV9mNXllcTltY2lmbzhnc2FnRFBhVmdvaFk3SVJuNENTMDVrMlUxcDBmTHdycVMtQXFhNE90Mk1MZDQwTmVfTk5CMDZVdWZqSFBIWURTRHhQS0xJ",
       "tkey": "熱門族群半導體再聚焦台積電、瑞昱看旺",
