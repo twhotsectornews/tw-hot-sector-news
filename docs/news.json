@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-04T14:10:51.656+08:00",
-  "generatedAt": "2026-07-04T06:10:51.656Z",
+  "asOf": "2026-07-04T17:44:45.389+08:00",
+  "generatedAt": "2026-07-04T09:44:45.389Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -34,10 +34,9 @@
       "mentions": 3,
       "limitUp": true,
       "pct": 9.9,
-      "luw": 2,
+      "luw": 1,
       "luwd": [
-        "7/3",
-        "7/2"
+        "7/3"
       ]
     },
     {
@@ -49,11 +48,7 @@
         "7/2"
       ],
       "mentions": 3,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/2"
-      ]
+      "limitUp": false
     },
     {
       "symbol": "6409",
@@ -83,6 +78,70 @@
         "7/1",
         "6/30"
       ]
+    },
+    {
+      "symbol": "2359",
+      "name": "所羅門",
+      "days": 2,
+      "dates": [
+        "7/4",
+        "7/2"
+      ],
+      "mentions": 2
+    },
+    {
+      "symbol": "2464",
+      "name": "盟立",
+      "days": 2,
+      "dates": [
+        "7/4",
+        "7/1"
+      ],
+      "mentions": 2,
+      "luw": 1,
+      "luwd": [
+        "7/1"
+      ]
+    },
+    {
+      "symbol": "8374",
+      "name": "羅昇",
+      "days": 2,
+      "dates": [
+        "7/4",
+        "7/2"
+      ],
+      "mentions": 2
+    },
+    {
+      "symbol": "1597",
+      "name": "直得",
+      "days": 2,
+      "dates": [
+        "7/4",
+        "7/2"
+      ],
+      "mentions": 2
+    },
+    {
+      "symbol": "6215",
+      "name": "和椿",
+      "days": 2,
+      "dates": [
+        "7/4",
+        "7/2"
+      ],
+      "mentions": 2
+    },
+    {
+      "symbol": "2454",
+      "name": "聯發科",
+      "days": 2,
+      "dates": [
+        "7/4",
+        "7/1"
+      ],
+      "mentions": 2
     },
     {
       "symbol": "3037",
@@ -356,77 +415,71 @@
       "mentions": 2,
       "limitUp": true,
       "pct": 10
-    },
-    {
-      "symbol": "5371",
-      "name": "中光電",
-      "days": 2,
-      "dates": [
-        "7/1",
-        "6/30"
-      ],
-      "mentions": 2
-    },
-    {
-      "symbol": "2630",
-      "name": "亞航",
-      "days": 2,
-      "dates": [
-        "7/1",
-        "6/30"
-      ],
-      "mentions": 2
-    },
-    {
-      "symbol": "4541",
-      "name": "晟田",
-      "days": 2,
-      "dates": [
-        "7/1",
-        "6/30"
-      ],
-      "mentions": 2
-    },
-    {
-      "symbol": "3026",
-      "name": "禾伸堂",
-      "days": 2,
-      "dates": [
-        "7/1",
-        "6/30"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -1.7
-    },
-    {
-      "symbol": "6173",
-      "name": "信昌電",
-      "days": 2,
-      "dates": [
-        "7/1",
-        "6/30"
-      ],
-      "mentions": 2,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": true,
-      "pct": 10
-    },
-    {
-      "symbol": "2492",
-      "name": "華新科",
-      "days": 2,
-      "dates": [
-        "7/1",
-        "6/30"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -6.5
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNWXVsMkhYRmdMby1CU3lTbUFGak9OaXk5Vnh5ajE0V3ltWWZTRGt1X0VaRldnZTBuWFkxQUZhcS02VmhkU3F2cVc5UFBmdGVGdk5wOUtLS1A1UGJIbUVrV3NpQks2aVItWU0xWWlXWjU4V2stSlZQSnZIMmYwQ2tOZmxJR2JKa29w",
+      "tkey": "熱門族群Optimus進度緩慢概念股承壓",
+      "title": "《熱門族群》Optimus進度緩慢 概念股承壓 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6227856001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sat, 04 Jul 2026 07:39:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2359",
+          "name": "所羅門",
+          "point": "Optimus進度緩慢股價承壓"
+        },
+        {
+          "symbol": "2464",
+          "name": "盟立",
+          "point": "Optimus進度緩慢股價承壓",
+          "luw": 1,
+          "luwd": [
+            "7/1"
+          ]
+        },
+        {
+          "symbol": "8374",
+          "name": "羅昇",
+          "point": "Optimus進度緩慢股價承壓"
+        },
+        {
+          "symbol": "1597",
+          "name": "直得",
+          "point": "Optimus進度緩慢股價承壓"
+        },
+        {
+          "symbol": "6215",
+          "name": "和椿",
+          "point": "Optimus進度緩慢股價承壓"
+        }
+      ],
+      "background": "特斯拉人形機器人Optimus量產進度緩慢，製造難度高，導致相關概念股承壓。台灣業者具備成本與製造優勢，未來有望爭取國際訂單。",
+      "themeTags": [
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
+      "tkey": "熱門族群龍頭聯發科創新高IC設計股搶發AI財",
+      "title": "熱門族群》龍頭聯發科創新高 IC設計股搶發AI財 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/k0bsc03rnawt",
+      "source": "自由時報",
+      "pubDate": "Sat, 04 Jul 2026 04:09:02 GMT",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "股價創新高"
+        }
+      ],
+      "background": "IC設計產業受惠於AI技術發展，特別是AI晶片需求強勁，龍頭聯發科表現亮眼，帶動整體族群。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQeXhnSnkzaG53R0RiWFpoYllDUnRidU9FQmJtQkVNczhjVEdlYnRUMlRiWUJaVXFNdmdTQlYzVnltNWxaUHNqSVBPX2tRUXVTYkJCRFJDdUJVejBOQ2djZ2stVHdvbUw3eW81RVVBVUlNZGo1Y0FjSEdOOHJPeklycEJuZk1DSzg2",
       "tkey": "熱門族群韓廠傳砍價載板三雄漲價恐回吐",
@@ -492,10 +545,9 @@
           "point": "再攻漲停，為四寶最強指標",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "7/3",
-            "7/2"
+            "7/3"
           ]
         },
         {
@@ -515,11 +567,7 @@
           "symbol": "1301",
           "name": "台塑",
           "point": "維持買盤熱度，股價續強",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/2"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "6505",
@@ -548,10 +596,9 @@
           "point": "率先攻頂掌舵、快攻漲停",
           "limitUp": true,
           "pct": 9.8,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "7/3",
-            "7/2",
             "7/1",
             "6/30",
             "6/29"
@@ -563,10 +610,9 @@
           "point": "率先攻頂掌舵",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "7/3",
-            "7/2",
             "7/1",
             "6/30",
             "6/29"

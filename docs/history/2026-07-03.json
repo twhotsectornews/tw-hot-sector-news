@@ -1,6 +1,6 @@
 {
   "date": "2026-07-03",
-  "updatedAt": "2026-07-04T06:10:51.651Z",
+  "updatedAt": "2026-07-04T09:44:45.386Z",
   "news": [
     {
       "gid": "CBMiakFVX3lxTFAwbUNqaTcxdWNmU1d3MUc4T2k5dVRHTDd1NzVFQWZWR0ZSQUtocDBRYURJT1ljQ05BQ0lhUVVUVmkwTFRmRENVT0RLcWx5aVh3bmxGYlZITWxvNHdqVUtxWHY2NkdlSC1aYkE",
@@ -16,10 +16,9 @@
           "point": "再攻漲停，為四寶最強指標",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "7/3",
-            "7/2"
+            "7/3"
           ]
         },
         {
@@ -39,11 +38,7 @@
           "symbol": "1301",
           "name": "台塑",
           "point": "維持買盤熱度，股價續強",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/2"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "6505",
@@ -72,10 +67,9 @@
           "point": "率先攻頂掌舵、快攻漲停",
           "limitUp": true,
           "pct": 9.8,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "7/3",
-            "7/2",
             "7/1",
             "6/30",
             "6/29"
@@ -87,10 +81,9 @@
           "point": "率先攻頂掌舵",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "7/3",
-            "7/2",
             "7/1",
             "6/30",
             "6/29"
