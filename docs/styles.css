@@ -67,16 +67,39 @@ main { max-width: 760px; margin: 0 auto; padding: 8px 18px; }
   font-size: 13px;
 }
 
-/* 7日常客榜：淡金框區塊，與新聞流區隔 */
+/* 7日常客榜：淡金框、可收合（summary 一行摘要），展開為多欄緊湊格 */
 .hot7 {
   margin: 14px 0 4px;
-  padding: 10px 14px 12px;
+  padding: 9px 14px;
   background: rgba(255, 204, 69, .04);
   border: 1px solid rgba(255, 204, 69, .14);
   border-radius: 10px;
 }
-.hot7 .day-head { margin: 0 0 4px; padding: 0 0 6px; border-bottom: 1px solid rgba(255, 255, 255, .05); }
-.h7 { flex: none; width: 3.6em; color: #ffcc45; font-weight: 700; font-size: 12.5px; }
+.hot7 summary {
+  cursor: pointer;
+  font-size: 13.5px;
+  font-weight: 700;
+  list-style: none;
+  user-select: none;
+}
+.hot7 summary::-webkit-details-marker { display: none; }
+.hot7 summary::before { content: "▸"; display: inline-block; margin-right: 7px; color: #ffcc45; transition: transform .15s; }
+.hot7[open] summary::before { transform: rotate(90deg); }
+.hot7 summary b { color: #ffcc45; }
+.hot7 summary .day-count { font-weight: 400; }
+.h7grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(158px, 1fr));
+  gap: 1px 16px;
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 1px solid rgba(255, 255, 255, .05);
+}
+.h7c { display: flex; align-items: baseline; gap: 6px; font-size: 13px; padding: 2px 0; min-width: 0; }
+.h7c .code { font-family: ui-monospace, "SFMono-Regular", Menlo, monospace; font-weight: 700; font-size: 12.5px; }
+.h7c.is-lu .code { color: var(--up); }
+.h7c .name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.h7n { margin-left: auto; color: #ffcc45; font-weight: 700; font-size: 12px; }
 
 /* 日期分組標頭 */
 .day-sec + .day-sec { margin-top: 8px; }

@@ -41,13 +41,18 @@ function stockRow(s) {
     `${patternTag(s)}${luCell(s)}${point}</li>`;
 }
 
-/** 7日常客榜的一列：代碼名稱 │ ×N天 │ 型態 │ 漲停。 */
-function hot7Row(s) {
-  const tip = `出現日：${(s.dates || []).join("、")}（共 ${s.mentions ?? "?"} 則）`;
-  return `<li class="stk${s.limitUp ? " is-lu" : ""}">` +
-    `<span class="tkr"><span class="code">${esc(s.symbol)}</span><span class="name">${esc(s.name)}</span></span>` +
-    `<span class="h7" title="${esc(tip)}">×${s.days}天</span>` +
-    `${patternTag(s)}${luCell(s)}</li>`;
+/** 7日常客榜的一格（緊湊多欄）：代碼 名稱 ×N；細節放 tooltip。 */
+function hot7Cell(s) {
+  const tip = [
+    `出現日：${(s.dates || []).join("、")}（共 ${s.mentions ?? "?"} 則）`,
+    s.status ? `月K：${s.status}` : "",
+    s.limitUp ? "今日漲停" : "",
+    s.luw ? `近一週漲停：${(s.luwd || []).join("、")}` : "",
+  ].filter(Boolean).join("\n");
+  return `<div class="h7c${s.limitUp ? " is-lu" : ""}" title="${esc(tip)}">` +
+    `<span class="code">${esc(s.symbol)}</span>` +
+    `<span class="name">${esc(s.name)}</span>` +
+    `<span class="h7n">×${s.days}</span></div>`;
 }
 
 const THEME_TAG_CLASS = { "需求驅動": "tt-demand", "國際大廠": "tt-global", "政策關稅": "tt-policy", "循環位置": "tt-cycle" };
@@ -128,13 +133,14 @@ function render(data) {
       ${items.map(newsCard).join("")}
     </section>`).join("");
 
-  // 7日常客榜（近 7 天出現 ≥ 2 天的個股）
+  // 7日常客榜（近 7 天出現 ≥ 2 天的個股）：預設收合，展開為多欄緊湊格
   const hot7 = data.hot7 || [];
+  const topNames = hot7.slice(0, 4).map((s) => s.name).join("、");
   const hot7Html = hot7.length ? `
-    <section class="hot7">
-      <h2 class="day-head">🔥 7日常客<span class="day-count">近 7 天出現 ≥ 2 天・依天數排序</span></h2>
-      <ul class="stocks">${hot7.map(hot7Row).join("")}</ul>
-    </section>` : "";
+    <details class="hot7" id="hot7">
+      <summary>🔥 7日常客 <b>${hot7.length}</b> 檔<span class="day-count">近 7 天出現 ≥ 2 天・${esc(topNames)}…</span></summary>
+      <div class="h7grid">${hot7.map(hot7Cell).join("")}</div>
+    </details>` : "";
 
   $app.innerHTML = staleBanner(data.asOf) + hot7Html + `
     <div class="toolbar">
@@ -153,16 +159,26 @@ function render(data) {
       const any = [...sec.querySelectorAll(".news")].some((el) => el.style.display !== "none");
       sec.style.display = any ? "" : "none";
     });
-    // 常客榜同步篩選；全空就藏整個區塊
-    document.querySelectorAll(".hot7 .stk").forEach((el) => {
+    // 常客榜同步篩選；有命中就自動展開，全空就藏整個區塊
+    document.querySelectorAll(".hot7 .h7c").forEach((el) => {
       el.style.display = !q || el.textContent.toLowerCase().includes(q) ? "" : "none";
     });
-    const hotSec = document.querySelector(".hot7");
+    const hotSec = document.getElementById("hot7");
     if (hotSec) {
-      const any = [...hotSec.querySelectorAll(".stk")].some((el) => el.style.display !== "none");
+      const any = [...hotSec.querySelectorAll(".h7c")].some((el) => el.style.display !== "none");
       hotSec.style.display = any ? "" : "none";
+      if (q && any) hotSec.open = true;
     }
   });
+
+  // 常客榜收合狀態記住（下次打開維持你上次的選擇）
+  const $h7 = document.getElementById("hot7");
+  if ($h7) {
+    try { if (localStorage.getItem("hot7open") === "1") $h7.open = true; } catch {}
+    $h7.addEventListener("toggle", () => {
+      try { localStorage.setItem("hot7open", $h7.open ? "1" : "0"); } catch {}
+    });
+  }
 }
 
 async function load() {
