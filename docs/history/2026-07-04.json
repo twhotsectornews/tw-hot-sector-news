@@ -1,0 +1,137 @@
+{
+  "date": "2026-07-04",
+  "updatedAt": "2026-07-05T03:03:21.340Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNWXVsMkhYRmdMby1CU3lTbUFGak9OaXk5Vnh5ajE0V3ltWWZTRGt1X0VaRldnZTBuWFkxQUZhcS02VmhkU3F2cVc5UFBmdGVGdk5wOUtLS1A1UGJIbUVrV3NpQks2aVItWU0xWWlXWjU4V2stSlZQSnZIMmYwQ2tOZmxJR2JKa29w",
+      "tkey": "熱門族群Optimus進度緩慢概念股承壓",
+      "title": "《熱門族群》Optimus進度緩慢 概念股承壓 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6227856001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sat, 04 Jul 2026 07:39:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2359",
+          "name": "所羅門",
+          "point": "Optimus進度緩慢股價承壓",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/2"
+          ]
+        },
+        {
+          "symbol": "2464",
+          "name": "盟立",
+          "point": "Optimus進度緩慢股價承壓",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/1"
+          ]
+        },
+        {
+          "symbol": "8374",
+          "name": "羅昇",
+          "point": "Optimus進度緩慢股價承壓",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/2"
+          ]
+        },
+        {
+          "symbol": "1597",
+          "name": "直得",
+          "point": "Optimus進度緩慢股價承壓",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/2"
+          ]
+        },
+        {
+          "symbol": "6215",
+          "name": "和椿",
+          "point": "Optimus進度緩慢股價承壓",
+          "limitUp": false
+        }
+      ],
+      "background": "特斯拉人形機器人Optimus量產進度緩慢，製造難度高，導致相關概念股承壓。台灣業者具備成本與製造優勢，未來有望爭取國際訂單。",
+      "themeTags": [
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
+      "tkey": "熱門族群龍頭聯發科創新高IC設計股搶發AI財",
+      "title": "熱門族群》龍頭聯發科創新高 IC設計股搶發AI財 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/k0bsc03rnawt",
+      "source": "自由時報",
+      "pubDate": "Sat, 04 Jul 2026 04:09:02 GMT",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "股價創新高",
+          "limitUp": false
+        }
+      ],
+      "background": "IC設計產業受惠於AI技術發展，特別是AI晶片需求強勁，龍頭聯發科表現亮眼，帶動整體族群。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQeXhnSnkzaG53R0RiWFpoYllDUnRidU9FQmJtQkVNczhjVEdlYnRUMlRiWUJaVXFNdmdTQlYzVnltNWxaUHNqSVBPX2tRUXVTYkJCRFJDdUJVejBOQ2djZ2stVHdvbUw3eW81RVVBVUlNZGo1Y0FjSEdOOHJPeklycEJuZk1DSzg2",
+      "tkey": "熱門族群韓廠傳砍價載板三雄漲價恐回吐",
+      "title": "《熱門族群》韓廠傳砍價 載板三雄漲價恐回吐 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6227815001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sat, 04 Jul 2026 03:49:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "韓廠傳砍價，漲價恐回吐",
+          "status": "高檔修正",
+          "dist": -14.2,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "6/30"
+          ]
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "韓廠傳砍價，漲價恐回吐",
+          "status": "逼近新高",
+          "dist": -7.8,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "6/30"
+          ]
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "韓廠傳砍價，漲價恐回吐",
+          "status": "高檔修正",
+          "dist": -11.3,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "6/30"
+          ]
+        }
+      ],
+      "background": "記憶體價格飆漲，南韓三星、SK海力士要求上游載板供應商降價，恐使載板廠上半年報價漲幅回吐，影響載板三雄。",
+      "themeTags": [
+        "國際大廠",
+        "循環位置"
+      ]
+    }
+  ]
+}
