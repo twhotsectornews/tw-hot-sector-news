@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-06T11:04:13.823+08:00",
-  "generatedAt": "2026-07-06T03:04:13.823Z",
+  "asOf": "2026-07-06T12:03:05.571+08:00",
+  "generatedAt": "2026-07-06T04:03:05.571Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -15,7 +15,8 @@
         "7/2",
         "7/1"
       ],
-      "mentions": 3
+      "mentions": 3,
+      "limitUp": false
     },
     {
       "symbol": "3189",
@@ -27,6 +28,7 @@
         "7/2"
       ],
       "mentions": 3,
+      "limitUp": false,
       "luw": 1,
       "luwd": [
         "6/30"
@@ -206,7 +208,8 @@
         "7/6",
         "7/1"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "8131",
@@ -218,7 +221,9 @@
       ],
       "mentions": 2,
       "status": "逼近新高",
-      "dist": -3.7
+      "dist": -3.7,
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "2451",
@@ -228,7 +233,8 @@
         "7/6",
         "7/1"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "2337",
@@ -238,7 +244,8 @@
         "7/6",
         "7/1"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "4585",
@@ -280,7 +287,6 @@
         "7/1"
       ],
       "mentions": 2,
-      "limitUp": false,
       "luw": 1,
       "luwd": [
         "7/1"
@@ -295,7 +301,6 @@
         "7/2"
       ],
       "mentions": 2,
-      "limitUp": false,
       "luw": 1,
       "luwd": [
         "7/2"
@@ -310,7 +315,6 @@
         "7/2"
       ],
       "mentions": 2,
-      "limitUp": false,
       "luw": 1,
       "luwd": [
         "7/2"
@@ -324,8 +328,7 @@
         "7/4",
         "7/1"
       ],
-      "mentions": 2,
-      "limitUp": false
+      "mentions": 2
     },
     {
       "symbol": "3037",
@@ -456,17 +459,20 @@
         {
           "symbol": "3481",
           "name": "群創",
-          "point": "爆量走強，一度站上70元關卡"
+          "point": "爆量走強，一度站上70元關卡",
+          "limitUp": false
         },
         {
           "symbol": "2409",
           "name": "友達",
-          "point": "爆量走強，穩守30元之上"
+          "point": "爆量走強，穩守30元之上",
+          "limitUp": false
         },
         {
           "symbol": "6116",
           "name": "彩晶",
-          "point": "同步走強，盤中漲幅逾3%"
+          "point": "同步走強，盤中漲幅逾3%",
+          "limitUp": false
         }
       ],
       "background": "面板族群受惠於報價回升與大型運動賽事帶動需求，加上雙虎積極轉型，營運有望淡季不淡。",
@@ -486,12 +492,14 @@
         {
           "symbol": "2408",
           "name": "南亞科",
-          "point": "美系外資調升投資評等至增持"
+          "point": "美系外資調升投資評等至增持",
+          "limitUp": false
         },
         {
           "symbol": "2344",
           "name": "華邦電",
-          "point": "美系外資同步調升目標價"
+          "point": "美系外資同步調升目標價",
+          "limitUp": false
         },
         {
           "symbol": "8150",
@@ -499,6 +507,8 @@
           "point": "記憶體封測觸及漲停",
           "status": "創新高",
           "dist": 0,
+          "limitUp": true,
+          "pct": 10,
           "luw": 1,
           "luwd": [
             "6/30"
@@ -509,24 +519,29 @@
           "name": "福懋科",
           "point": "記憶體封測觸及漲停",
           "status": "逼近新高",
-          "dist": -3.7
+          "dist": -3.7,
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "2451",
           "name": "創見",
-          "point": "上漲約半根漲停"
+          "point": "上漲約半根漲停",
+          "limitUp": false
         },
         {
           "symbol": "2337",
           "name": "旺宏",
-          "point": "獲得美系外資維持首選"
+          "point": "獲得美系外資維持首選",
+          "limitUp": false
         },
         {
           "symbol": "8112",
           "name": "至上",
           "point": "開盤不到15分鐘即完成填息",
           "status": "高檔修正",
-          "dist": -10.2
+          "dist": -10.2,
+          "limitUp": false
         }
       ],
       "background": "DRAM需求受AI伺服器與邊緣運算帶動，供給轉向高階產品，推升DRAM、NAND價格持續上漲，三星預計第三季上調記憶體價格。",
@@ -561,6 +576,7 @@
           "symbol": "3189",
           "name": "景碩",
           "point": "受惠BT載板價格調漲，營運成長動能備受期待",
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "6/30"
@@ -569,12 +585,14 @@
         {
           "symbol": "3044",
           "name": "健鼎",
-          "point": "受惠DDR5、NAND及AI記憶體模組出貨增加"
+          "point": "受惠DDR5、NAND及AI記憶體模組出貨增加",
+          "limitUp": false
         },
         {
           "symbol": "6278",
           "name": "台表科",
           "point": "DDR5相關SMT業務穩定成長",
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "6/30"
@@ -600,14 +618,16 @@
           "name": "中華電",
           "point": "Hami Video上半年訂閱數大幅成長七成",
           "status": "逼近新高",
-          "dist": -3.4
+          "dist": -3.4,
+          "limitUp": false
         },
         {
           "symbol": "4904",
           "name": "遠傳",
           "point": "friDay影音付費會員較去年增長24％",
           "status": "逼近新高",
-          "dist": -7.9
+          "dist": -7.9,
+          "limitUp": false
         }
       ],
       "background": "電信三雄OTT平台受惠於熱門韓劇、國際體育賽事轉播及多元節目內容，付費會員與觀看時長顯著成長，短影音普及也改變觀看習慣。",

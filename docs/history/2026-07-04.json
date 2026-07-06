@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "updatedAt": "2026-07-06T03:04:13.820Z",
+  "updatedAt": "2026-07-06T04:03:05.568Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNWXVsMkhYRmdMby1CU3lTbUFGak9OaXk5Vnh5ajE0V3ltWWZTRGt1X0VaRldnZTBuWFkxQUZhcS02VmhkU3F2cVc5UFBmdGVGdk5wOUtLS1A1UGJIbUVrV3NpQks2aVItWU0xWWlXWjU4V2stSlZQSnZIMmYwQ2tOZmxJR2JKa29w",
@@ -13,8 +13,7 @@
         {
           "symbol": "2359",
           "name": "所羅門",
-          "point": "Optimus進度緩慢股價承壓",
-          "limitUp": false,
+          "point": "股價收黑跌逾3%",
           "luw": 1,
           "luwd": [
             "7/2"
@@ -23,8 +22,7 @@
         {
           "symbol": "2464",
           "name": "盟立",
-          "point": "Optimus進度緩慢股價承壓",
-          "limitUp": false,
+          "point": "股價收黑跌逾3%",
           "luw": 1,
           "luwd": [
             "7/1"
@@ -33,8 +31,7 @@
         {
           "symbol": "8374",
           "name": "羅昇",
-          "point": "Optimus進度緩慢股價承壓",
-          "limitUp": false,
+          "point": "股價收黑",
           "luw": 1,
           "luwd": [
             "7/2"
@@ -43,8 +40,7 @@
         {
           "symbol": "1597",
           "name": "直得",
-          "point": "Optimus進度緩慢股價承壓",
-          "limitUp": false,
+          "point": "股價收黑",
           "luw": 1,
           "luwd": [
             "7/2"
@@ -53,11 +49,10 @@
         {
           "symbol": "6215",
           "name": "和椿",
-          "point": "Optimus進度緩慢股價承壓",
-          "limitUp": false
+          "point": "股價收黑"
         }
       ],
-      "background": "特斯拉人形機器人Optimus量產進度緩慢，製造難度高，導致相關概念股承壓。台灣業者具備成本與製造優勢，未來有望爭取國際訂單。",
+      "background": "特斯拉人形機器人Optimus量產進度緩慢，製造難度高，導致相關概念股承壓。儘管如此，特斯拉仍視其為核心產品線，台灣業者有望受惠於零組件與製造優勢。",
       "themeTags": [
         "國際大廠"
       ]
@@ -73,13 +68,13 @@
         {
           "symbol": "2454",
           "name": "聯發科",
-          "point": "股價創新高",
-          "limitUp": false
+          "point": "股價創新高"
         }
       ],
-      "background": "IC設計產業受惠於AI技術發展，特別是AI晶片需求強勁，龍頭聯發科表現亮眼，帶動整體族群。",
+      "background": "IC設計產業受惠於AI技術發展，特別是AI晶片需求強勁，龍頭聯發科表現亮眼，帶動族群搶攻AI商機。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "國際大廠"
       ]
     },
     {
