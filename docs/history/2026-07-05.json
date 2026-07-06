@@ -1,0 +1,149 @@
+{
+  "date": "2026-07-05",
+  "updatedAt": "2026-07-06T03:04:13.818Z",
+  "news": [
+    {
+      "gid": "CBMiX0FVX3lxTE1yNFE5SHBkZHZaMFBncXd5ZF8wN0I0SlcxUzZLZkFudS1mZ0NfS0sxdDhFempvN2p5cFh1QldBSVpINzMwX0k0NVJzOXNTSUsweDZiUnVIdS01ZDFsT1hn0gFkQVVfeXFMTVZTa0NCYm9JY3VLVlhxUHRWcGRMeFo2Q3hTVkxnQUxJN1pReXEzTzNvUGVXblJFRUIyQlYwSVRiUC1Dc0ZkNkdDY3duQ2cxT1I4T0dDbFljcVRoMHNCRURoV0J0bA",
+      "tkey": "熱門族群AI技術落地規模擴大機器人族群添柴火",
+      "title": "熱門族群》AI技術落地規模擴大 機器人族群添柴火 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5493169",
+      "source": "自由財經",
+      "pubDate": "Sat, 04 Jul 2026 23:10:00 GMT",
+      "stocks": [
+        {
+          "symbol": "4585",
+          "name": "達明",
+          "point": "母集團導入機械手臂，股價強漲",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/2"
+          ]
+        },
+        {
+          "symbol": "6215",
+          "name": "和椿",
+          "point": "新舊世代交接行情看旺，大漲",
+          "limitUp": false
+        },
+        {
+          "symbol": "2359",
+          "name": "所羅門",
+          "point": "AI 客戶重購率高，週線大漲",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/2"
+          ]
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "旗下廣宇有新業務支撐",
+          "limitUp": false
+        },
+        {
+          "symbol": "2328",
+          "name": "廣宇",
+          "point": "軸向磁通電機新業務支撐展望",
+          "limitUp": false
+        }
+      ],
+      "background": "AI 技術落地擴大，人形機器人受惠於智慧製造與自動化趨勢。輝達推動實體 AI 布局，帶動零組件、控制系統、視覺辨識供應鏈。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiZEFVX3lxTE1CNlZlWGZ5NGt5Q01naFU5MFFzajFvdURUcmhobkdFdGdfaVNMbUJ3S1hWOUR5SVpVUjJFbm9zU1ppdXpaajVieVk0Z1VQc1dta2dVTklYcHloX1dKWXRwa19DZmvSAWRBVV95cUxNQjZWZVhmeTRreUNNZ2hVOTBRc2oxb3VEVHJoaG5HRXRnX2lTTG1Cd0tYVjlEeUlaVVIyRW5vc1NaaXV6Wmo1YnlZNGdVUHNXbWtnVU5JWHB5aF9XSll0cGtfQ2Zr",
+      "tkey": "熱門族群無人機條例朝野版本齊發軍工股亮燈表態",
+      "title": "熱門族群》 無人機條例朝野版本齊發 軍工股亮燈表態 - 自由財經",
+      "url": "https://ec.ltn.com.tw/amp/article/breakingnews/5493004",
+      "source": "自由財經",
+      "pubDate": "Sat, 04 Jul 2026 23:00:00 GMT",
+      "stocks": [
+        {
+          "symbol": "8033",
+          "name": "雷虎",
+          "point": "無人機條例激勵，股價亮燈漲停",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 4,
+          "luwd": [
+            "7/3",
+            "7/1",
+            "6/30",
+            "6/29"
+          ]
+        },
+        {
+          "symbol": "2634",
+          "name": "漢翔",
+          "point": "無人機條例激勵，股價亮燈漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "7/3"
+          ]
+        },
+        {
+          "symbol": "2630",
+          "name": "亞航",
+          "point": "無人機條例激勵，股價亮燈漲停",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 2,
+          "luwd": [
+            "7/3",
+            "6/30"
+          ]
+        },
+        {
+          "symbol": "2645",
+          "name": "長榮航太",
+          "point": "無人機條例激勵，股價亮燈漲停",
+          "status": "逼近新高",
+          "dist": -2.7,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "7/3",
+            "7/1"
+          ]
+        },
+        {
+          "symbol": "6753",
+          "name": "龍德造船",
+          "point": "無人機條例激勵，股價亮燈漲停",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "7/3"
+          ]
+        },
+        {
+          "symbol": "2208",
+          "name": "台船",
+          "point": "無人機條例激勵，股價亮燈漲停",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 2,
+          "luwd": [
+            "7/3",
+            "6/30"
+          ]
+        }
+      ],
+      "background": "無人機條例草案進入聯席審查，政府大力支持國防自主。軍工股受政策利多激勵，股價反應題材，後續表現可期。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    }
+  ]
+}
