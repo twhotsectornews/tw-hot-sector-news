@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-06T13:03:58.139+08:00",
-  "generatedAt": "2026-07-06T05:03:58.139Z",
+  "asOf": "2026-07-06T14:02:49.985+08:00",
+  "generatedAt": "2026-07-06T06:02:49.985Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -222,7 +222,8 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -3.7,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "2451",
@@ -448,6 +449,54 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxNeW1qUTVWNm9sdHRaeXdMN0ZlTkYyWXJOZ0lnM2MwUVVydmVQWUtGUEpnVWpLa1IySVZDRDBoeXFJdUpsZTY4N3BxVWQwRDNzUlpMNUlSTm04VGIzclBkVWFVWEtSYmtodXZ6M3U0SHNuUnlNSFVqbXB6ckRGTjFRY24zakU2Z1hm",
+      "tkey": "熱門族群網通業罕見漲價潮友訊、合勤控等台廠股價反下跌",
+      "title": "《熱門族群》網通業罕見漲價潮 友訊、合勤控等台廠股價反下跌 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6229464001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 06 Jul 2026 05:17:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2332",
+          "name": "友訊",
+          "point": "漲價潮股價反下跌",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/3"
+          ]
+        },
+        {
+          "symbol": "3704",
+          "name": "合勤控",
+          "point": "漲價潮股價反下跌",
+          "limitUp": false
+        },
+        {
+          "symbol": "6263",
+          "name": "普萊德",
+          "point": "報價可望受牽動",
+          "status": "高檔修正",
+          "dist": -10.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "3047",
+          "name": "訊舟",
+          "point": "報價可望受牽動",
+          "limitUp": false
+        },
+        {
+          "symbol": "2357",
+          "name": "華碩",
+          "point": "報價可望受牽動",
+          "limitUp": false
+        }
+      ],
+      "background": "網通業罕見漲價潮，日廠NEC開第一槍，台灣廠報價也將受牽動，但市場反應平淡。",
+      "themeTags": []
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNa1ZSLS1uUVZyUnVkc1dPbldjMEhXdG8xMmxHcHhVRTFhNTFldzZuSk9TZERpbDFTdmFtaEZ4YWJuQVVhUENGVjRfZGplV0JDaWRFM3Nia2hBelFvVWlnckNtblRGSnpFRDlpUUZ1cmNlTTZYenJ0Y3FNRUJlQUdIcENMQ045dkJM",
       "tkey": "熱門族群外資大賣擋不住人氣面板雙虎爆量走強",
       "title": "《熱門族群》外資大賣擋不住人氣 面板雙虎爆量走強 - 富聯網",
@@ -519,7 +568,8 @@
           "point": "記憶體封測觸及漲停",
           "status": "逼近新高",
           "dist": -3.7,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "2451",

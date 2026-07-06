@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "updatedAt": "2026-07-06T05:03:58.136Z",
+  "updatedAt": "2026-07-06T06:02:49.981Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNWXVsMkhYRmdMby1CU3lTbUFGak9OaXk5Vnh5ajE0V3ltWWZTRGt1X0VaRldnZTBuWFkxQUZhcS02VmhkU3F2cVc5UFBmdGVGdk5wOUtLS1A1UGJIbUVrV3NpQks2aVItWU0xWWlXWjU4V2stSlZQSnZIMmYwQ2tOZmxJR2JKa29w",
@@ -13,7 +13,7 @@
         {
           "symbol": "2359",
           "name": "所羅門",
-          "point": "股價收黑跌逾3%",
+          "point": "Optimus進度緩慢概念股承壓",
           "luw": 1,
           "luwd": [
             "7/2"
@@ -22,7 +22,7 @@
         {
           "symbol": "2464",
           "name": "盟立",
-          "point": "股價收黑跌逾3%",
+          "point": "Optimus進度緩慢概念股承壓",
           "luw": 1,
           "luwd": [
             "7/1"
@@ -31,7 +31,7 @@
         {
           "symbol": "8374",
           "name": "羅昇",
-          "point": "股價收黑",
+          "point": "Optimus進度緩慢概念股承壓",
           "luw": 1,
           "luwd": [
             "7/2"
@@ -40,7 +40,7 @@
         {
           "symbol": "1597",
           "name": "直得",
-          "point": "股價收黑",
+          "point": "Optimus進度緩慢概念股承壓",
           "luw": 1,
           "luwd": [
             "7/2"
@@ -49,13 +49,11 @@
         {
           "symbol": "6215",
           "name": "和椿",
-          "point": "股價收黑"
+          "point": "Optimus進度緩慢概念股承壓"
         }
       ],
-      "background": "特斯拉人形機器人Optimus量產進度緩慢，製造難度高，導致相關概念股承壓。台灣業者因成本及製造優勢，未來有機會參與國際大廠量產。",
-      "themeTags": [
-        "國際大廠"
-      ]
+      "background": "特斯拉執行長馬斯克坦言人形機器人Optimus量產進度緩慢，製造難度高於電動車，概念股承壓。",
+      "themeTags": []
     },
     {
       "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
