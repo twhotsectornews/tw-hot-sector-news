@@ -1,11 +1,51 @@
 {
-  "asOf": "2026-07-07T12:03:03.326+08:00",
-  "generatedAt": "2026-07-07T04:03:03.326Z",
+  "asOf": "2026-07-07T13:04:10.273+08:00",
+  "generatedAt": "2026-07-07T05:04:10.273Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "8033",
+      "name": "雷虎",
+      "days": 3,
+      "dates": [
+        "7/7",
+        "7/5",
+        "7/1"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -9,
+      "limitUp": false,
+      "luw": 3,
+      "luwd": [
+        "7/3",
+        "7/1",
+        "6/30"
+      ]
+    },
+    {
+      "symbol": "2645",
+      "name": "長榮航太",
+      "days": 3,
+      "dates": [
+        "7/7",
+        "7/5",
+        "7/1"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -9.9,
+      "limitUp": false,
+      "luw": 3,
+      "luwd": [
+        "7/6",
+        "7/3",
+        "7/1"
+      ]
+    },
     {
       "symbol": "2408",
       "name": "南亞科",
@@ -28,7 +68,11 @@
         "7/2"
       ],
       "mentions": 3,
-      "limitUp": false
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "6/30"
+      ]
     },
     {
       "symbol": "6215",
@@ -119,6 +163,57 @@
       "limitUp": false
     },
     {
+      "symbol": "5371",
+      "name": "中光電",
+      "days": 2,
+      "dates": [
+        "7/7",
+        "7/1"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "7/6",
+        "7/3",
+        "7/2",
+        "7/1",
+        "6/30"
+      ]
+    },
+    {
+      "symbol": "4541",
+      "name": "晟田",
+      "days": 2,
+      "dates": [
+        "7/7",
+        "7/1"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -9.5,
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "7/6",
+        "7/3",
+        "7/2",
+        "7/1",
+        "6/30"
+      ]
+    },
+    {
+      "symbol": "7402",
+      "name": "邑錡",
+      "days": 2,
+      "dates": [
+        "7/7",
+        "7/1"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "6138",
       "name": "茂達",
       "days": 2,
@@ -129,13 +224,14 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -7.9,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 3,
+      "limitUp": false,
+      "luw": 5,
       "luwd": [
         "7/6",
         "7/3",
-        "7/2"
+        "7/2",
+        "7/1",
+        "6/30"
       ]
     },
     {
@@ -150,10 +246,12 @@
       "status": "逼近新高",
       "dist": -8.1,
       "limitUp": false,
-      "luw": 2,
+      "luw": 4,
       "luwd": [
         "7/6",
-        "7/2"
+        "7/2",
+        "7/1",
+        "6/30"
       ]
     },
     {
@@ -223,26 +321,6 @@
       ]
     },
     {
-      "symbol": "8033",
-      "name": "雷虎",
-      "days": 2,
-      "dates": [
-        "7/5",
-        "7/1"
-      ],
-      "mentions": 2,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 3,
-      "luwd": [
-        "7/3",
-        "7/1",
-        "6/30"
-      ]
-    },
-    {
       "symbol": "2630",
       "name": "亞航",
       "days": 2,
@@ -257,26 +335,6 @@
       "luwd": [
         "7/3",
         "6/30"
-      ]
-    },
-    {
-      "symbol": "2645",
-      "name": "長榮航太",
-      "days": 2,
-      "dates": [
-        "7/5",
-        "7/1"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -2.7,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 3,
-      "luwd": [
-        "7/6",
-        "7/3",
-        "7/1"
       ]
     },
     {
@@ -400,32 +458,125 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "1514",
-      "name": "亞力",
-      "days": 2,
-      "dates": [
-        "7/3",
-        "7/2"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3577",
-      "name": "泓格",
-      "days": 2,
-      "dates": [
-        "7/2",
-        "7/1"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 10
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPbnR5MlA4anlnd0llWEl1UlVmTks3RlZtMkhzc3FrRXBMYzJKZU15REVXWUpIeC1CZmYzdjBoUFNRV2hzWG9pX0NLSFZFZEg0MkQxUXdFNnRrRUFPeEtMeWtmYk5JYURiOGdRZFlKc0lMNU5wNHlmd0g1azhOdzlRNTUxdlpxeFFD",
+      "tkey": "熱門族群無人機真摔？雷虎、中光電近跌停2檔逆風飛",
+      "title": "《熱門族群》無人機真摔？雷虎、中光電近跌停 2檔逆風飛 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6230866001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 07 Jul 2026 04:36:00 GMT",
+      "stocks": [
+        {
+          "symbol": "8033",
+          "name": "雷虎",
+          "point": "無人機概念股重挫",
+          "status": "逼近新高",
+          "dist": -9,
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "7/3",
+            "7/1",
+            "6/30"
+          ]
+        },
+        {
+          "symbol": "5371",
+          "name": "中光電",
+          "point": "無人機概念股重挫",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "7/6",
+            "7/3",
+            "7/2",
+            "7/1",
+            "6/30"
+          ]
+        },
+        {
+          "symbol": "2360",
+          "name": "致茂",
+          "point": "營收登峰卻摔跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2645",
+          "name": "長榮航太",
+          "point": "無人機概念股重挫",
+          "status": "逼近新高",
+          "dist": -9.9,
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "7/6",
+            "7/3",
+            "7/1"
+          ]
+        },
+        {
+          "symbol": "4541",
+          "name": "晟田",
+          "point": "無人機概念股低飛",
+          "status": "逼近新高",
+          "dist": -9.5,
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "7/6",
+            "7/3",
+            "7/2",
+            "7/1",
+            "6/30"
+          ]
+        },
+        {
+          "symbol": "7402",
+          "name": "邑錡",
+          "point": "無人機概念股低飛",
+          "limitUp": false
+        },
+        {
+          "symbol": "1409",
+          "name": "新纖",
+          "point": "跨入AI伺服器供應鏈",
+          "status": "逼近新高",
+          "dist": -5.6,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "7/3",
+            "7/2"
+          ]
+        },
+        {
+          "symbol": "2458",
+          "name": "義隆",
+          "point": "預期無人機營收成長數倍",
+          "status": "逼近新高",
+          "dist": -4.8,
+          "limitUp": false
+        }
+      ],
+      "background": "無人機條例草案推動，軍工股原受追捧，但地緣政治緊張引發盤勢重挫，相關概念股跟隨大盤回檔。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOMTFUbzZEd19xbXJiS29xNUh1MmtlT1NNZ3FfZVZ2WFBPc2FjeFFYZmNlU0xpOVlQUTFrUVd5VjdkTmZsVm53MlBLXzdFYjZPRGZoV2xuYWRPRXlEcktYdnduYWxiQzlIeHRvYUIxazRqZlJlUWtldlFoSkdocUl2WDh3S05Ya0NX",
+      "tkey": "熱門族群擁抱漲價、業績題材CCL三雄揚升聯茂登天價",
+      "title": "《熱門族群》擁抱漲價、業績題材 CCL三雄揚升 聯茂登天價 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6230821001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 07 Jul 2026 03:56:00 GMT",
+      "stocks": [],
+      "background": "",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxQLUFTQjdnaDg1amdRMUZJeDVqd0Jld3ZQMURVRUdESmpKMUk5dG0zcEJKdmJRQkFYZHVWSHV4YWI3SnBnQzBLNXR0QkdPaGE3dElzT3Z5cjlMekVpeFdWMG9wQ2VuUmZaMVNONlpJUENONmlPZVFDY1NjRTM1dEhFTVY1OXRBZ2li",
       "tkey": "熱門族群藥華藥登天生技7燈獎走紅毯",
@@ -433,9 +584,103 @@
       "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6230784001&PU=0010",
       "source": "富聯網",
       "pubDate": "Tue, 07 Jul 2026 03:22:00 GMT",
-      "stocks": [],
-      "background": "",
-      "themeTags": []
+      "stocks": [
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "point": "獲三張藥證，營收創高",
+          "status": "逼近新高",
+          "dist": -2.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "1795",
+          "name": "美時",
+          "point": "聯手走高，扮演傳產領頭羊",
+          "limitUp": false
+        },
+        {
+          "symbol": "3176",
+          "name": "基亞",
+          "point": "聯手走高，扮演傳產領頭羊",
+          "limitUp": false
+        },
+        {
+          "symbol": "6841",
+          "name": "長佳智能",
+          "point": "聯手走高，扮演傳產領頭羊",
+          "limitUp": false
+        },
+        {
+          "symbol": "7799",
+          "name": "禾榮科",
+          "point": "簽署MOU，加速產品布局",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/6"
+          ]
+        },
+        {
+          "symbol": "6919",
+          "name": "康霈",
+          "point": "亞洲生技大會概念股",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "7827",
+          "name": "漢康-KY",
+          "point": "亞洲生技大會概念股",
+          "status": "逼近新高",
+          "dist": -5.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "4169",
+          "name": "泰宗",
+          "point": "亞洲生技大會概念股",
+          "status": "逼近新高",
+          "dist": -0.7,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "7/6",
+            "7/3"
+          ]
+        },
+        {
+          "symbol": "6712",
+          "name": "長聖",
+          "point": "亞洲生技大會概念股",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "6617",
+          "name": "共信-KY",
+          "point": "亞洲生技大會概念股",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "7/6",
+            "7/3",
+            "7/2",
+            "7/1",
+            "6/30"
+          ]
+        },
+        {
+          "symbol": "6945",
+          "name": "圓祥生技",
+          "point": "亞洲生技大會概念股",
+          "limitUp": false
+        }
+      ],
+      "background": "亞洲生技大會將登場，吸引資金卡位生技概念股。藥華藥獲多國藥證且營收創高，表現亮眼。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxObVlPZWlKdDdndDdrV3lLT0MxUnR6cTZwNkJTQW1JVVUwdG5SM1hGdE5NbWdnbklYUTJQQjNVTUotREV4Ujg1dVlIRkh0Tzk0R0VRYW03VmJYWUd6SHB0RkVDWkQ2SDRNeGxlUGRVcEpWbHU3U2E0SVVNOWV6NTFxMVN5RGhfX0Zu",
@@ -521,13 +766,14 @@
           "point": "風扇馬達驅動IC、電源管理IC需求穩健",
           "status": "逼近新高",
           "dist": -7.9,
-          "limitUp": true,
-          "pct": 10,
-          "luw": 3,
+          "limitUp": false,
+          "luw": 5,
           "luwd": [
             "7/6",
             "7/3",
-            "7/2"
+            "7/2",
+            "7/1",
+            "6/30"
           ]
         },
         {
@@ -537,10 +783,12 @@
           "status": "逼近新高",
           "dist": -8.1,
           "limitUp": false,
-          "luw": 2,
+          "luw": 4,
           "luwd": [
             "7/6",
-            "7/2"
+            "7/2",
+            "7/1",
+            "6/30"
           ]
         }
       ],
@@ -561,7 +809,11 @@
           "symbol": "3443",
           "name": "創意",
           "point": "CPU需求強勁、北美車用專案Tape-out",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "6/30"
+          ]
         },
         {
           "symbol": "3529",
@@ -685,9 +937,10 @@
           "dist": 0,
           "limitUp": true,
           "pct": 10,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
-            "7/6"
+            "7/6",
+            "6/30"
           ]
         },
         {
@@ -756,7 +1009,11 @@
           "symbol": "3189",
           "name": "景碩",
           "point": "受惠BT載板價格調漲，營運成長動能備受期待",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "6/30"
+          ]
         },
         {
           "symbol": "3044",
@@ -768,7 +1025,11 @@
           "symbol": "6278",
           "name": "台表科",
           "point": "DDR5相關SMT業務穩定成長",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "6/30"
+          ]
         }
       ],
       "background": "AI應用持續推升記憶體需求，HBM、DDR5等產品價格維持高檔，帶動載板及PCB報價走揚，DRAM市場供給持續吃緊。",
