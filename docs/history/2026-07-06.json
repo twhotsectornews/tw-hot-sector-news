@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "updatedAt": "2026-07-07T06:07:17.123Z",
+  "updatedAt": "2026-07-07T06:36:15.283Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNeW1qUTVWNm9sdHRaeXdMN0ZlTkYyWXJOZ0lnM2MwUVVydmVQWUtGUEpnVWpLa1IySVZDRDBoeXFJdUpsZTY4N3BxVWQwRDNzUlpMNUlSTm04VGIzclBkVWFVWEtSYmtodXZ6M3U0SHNuUnlNSFVqbXB6ckRGTjFRY24zakU2Z1hm",
@@ -14,7 +14,11 @@
           "symbol": "2332",
           "name": "友訊",
           "point": "漲價潮股價反下跌",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/3"
+          ]
         },
         {
           "symbol": "3704",

@@ -1,6 +1,6 @@
 {
   "date": "2026-07-05",
-  "updatedAt": "2026-07-07T05:04:10.269Z",
+  "updatedAt": "2026-07-07T06:36:15.285Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE8yWHNiNmZQR0lkTzVDSmdVbFN4cGpSQl9wTjczUEw2aTMxWk0zNjRSdU95QjdPczJQbkxfNUloamFyeUNfcXVOd0NESVVSYzd5SWlUbHY0WnI",
@@ -9,34 +9,10 @@
       "url": "https://stock.ltn.com.tw/article/brxsuwzf7cys",
       "source": "自由時報",
       "pubDate": "Sun, 05 Jul 2026 09:02:13 GMT",
-      "stocks": [
-        {
-          "symbol": "6213",
-          "name": "聯茂",
-          "point": "CCL龍頭調漲售價，股價登天價",
-          "status": "高檔修正",
-          "dist": -10.4,
-          "luw": 1,
-          "luwd": [
-            "7/3"
-          ]
-        },
-        {
-          "symbol": "6274",
-          "name": "台燿",
-          "point": "CCL廠營收創歷史新高"
-        },
-        {
-          "symbol": "2383",
-          "name": "台光電",
-          "point": "CCL廠營收創歷史新高",
-          "status": "高檔修正",
-          "dist": -13.3
-        }
-      ],
-      "background": "CCL產業受AI伺服器需求帶動，加上原物料上漲，龍頭廠再發漲價通知，台廠營收同步創高。",
+      "stocks": [],
+      "background": "無人機產業受惠於政府政策推動，國防自主需求增加，軍工股因此受到市場關注。朝野版本齊發的無人機條例，預期將為產業帶來新的發展機會。",
       "themeTags": [
-        "需求驅動"
+        "政策關稅"
       ]
     },
     {

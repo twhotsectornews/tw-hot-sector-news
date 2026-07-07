@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-07T14:07:17.127+08:00",
-  "generatedAt": "2026-07-07T06:07:17.127Z",
+  "asOf": "2026-07-07T14:36:15.289+08:00",
+  "generatedAt": "2026-07-07T06:36:15.289Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -19,8 +19,10 @@
       "status": "逼近新高",
       "dist": -9,
       "limitUp": false,
-      "luw": 1,
+      "luw": 3,
       "luwd": [
+        "7/3",
+        "7/1",
         "6/30"
       ]
     },
@@ -37,9 +39,11 @@
       "status": "逼近新高",
       "dist": -9.9,
       "limitUp": false,
-      "luw": 1,
+      "luw": 3,
       "luwd": [
-        "7/6"
+        "7/6",
+        "7/3",
+        "7/1"
       ]
     },
     {
@@ -167,10 +171,14 @@
         "7/1"
       ],
       "mentions": 2,
-      "limitUp": false,
-      "luw": 2,
+      "limitUp": true,
+      "pct": 9.6,
+      "luw": 5,
       "luwd": [
         "7/6",
+        "7/3",
+        "7/2",
+        "7/1",
         "6/30"
       ]
     },
@@ -185,10 +193,14 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -9.5,
-      "limitUp": false,
-      "luw": 2,
+      "limitUp": true,
+      "pct": 9.9,
+      "luw": 5,
       "luwd": [
         "7/6",
+        "7/3",
+        "7/2",
+        "7/1",
         "6/30"
       ]
     },
@@ -214,10 +226,14 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -7.9,
-      "limitUp": false,
-      "luw": 2,
+      "limitUp": true,
+      "pct": 10,
+      "luw": 5,
       "luwd": [
         "7/6",
+        "7/3",
+        "7/2",
+        "7/1",
         "6/30"
       ]
     },
@@ -233,9 +249,10 @@
       "status": "逼近新高",
       "dist": -8.1,
       "limitUp": false,
-      "luw": 2,
+      "luw": 3,
       "luwd": [
         "7/6",
+        "7/1",
         "6/30"
       ]
     },
@@ -461,8 +478,10 @@
           "status": "逼近新高",
           "dist": -9,
           "limitUp": false,
-          "luw": 1,
+          "luw": 3,
           "luwd": [
+            "7/3",
+            "7/1",
             "6/30"
           ]
         },
@@ -470,10 +489,14 @@
           "symbol": "5371",
           "name": "中光電",
           "point": "無人機概念股重挫",
-          "limitUp": false,
-          "luw": 2,
+          "limitUp": true,
+          "pct": 9.6,
+          "luw": 5,
           "luwd": [
             "7/6",
+            "7/3",
+            "7/2",
+            "7/1",
             "6/30"
           ]
         },
@@ -490,9 +513,11 @@
           "status": "逼近新高",
           "dist": -9.9,
           "limitUp": false,
-          "luw": 1,
+          "luw": 3,
           "luwd": [
-            "7/6"
+            "7/6",
+            "7/3",
+            "7/1"
           ]
         },
         {
@@ -501,10 +526,14 @@
           "point": "無人機概念股低飛",
           "status": "逼近新高",
           "dist": -9.5,
-          "limitUp": false,
-          "luw": 2,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
           "luwd": [
             "7/6",
+            "7/3",
+            "7/2",
+            "7/1",
             "6/30"
           ]
         },
@@ -520,7 +549,11 @@
           "point": "跨入AI伺服器供應鏈",
           "status": "逼近新高",
           "dist": -5.6,
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/3"
+          ]
         },
         {
           "symbol": "2458",
@@ -547,7 +580,8 @@
         {
           "symbol": "6245",
           "name": "聯茂",
-          "point": "CCL三雄揚升、聯茂登天價"
+          "point": "CCL三雄揚升、聯茂登天價",
+          "limitUp": false
         }
       ],
       "background": "CCL（銅箔基板）受惠於伺服器、網通等產業需求成長，加上部分原物料價格上漲，帶動 CCL 報價調升，產業景氣 outlook 樂觀。",
@@ -613,7 +647,8 @@
           "point": "亞洲生技大會概念股",
           "status": "逼近新高",
           "dist": -5.6,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "4169",
@@ -621,27 +656,32 @@
           "point": "亞洲生技大會概念股",
           "status": "逼近新高",
           "dist": -0.7,
-          "limitUp": false,
-          "luw": 1,
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 2,
           "luwd": [
-            "7/6"
+            "7/6",
+            "7/3"
           ]
         },
         {
           "symbol": "6712",
           "name": "長聖",
           "point": "亞洲生技大會概念股",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "6617",
           "name": "共信-KY",
           "point": "亞洲生技大會概念股",
-          "limitUp": false,
-          "luw": 2,
+          "limitUp": true,
+          "pct": 9.6,
+          "luw": 5,
           "luwd": [
             "7/6",
+            "7/3",
+            "7/2",
+            "7/1",
             "6/30"
           ]
         },
@@ -737,10 +777,14 @@
           "point": "風扇馬達驅動IC、電源管理IC需求穩健",
           "status": "逼近新高",
           "dist": -7.9,
-          "limitUp": false,
-          "luw": 2,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
           "luwd": [
             "7/6",
+            "7/3",
+            "7/2",
+            "7/1",
             "6/30"
           ]
         },
@@ -751,9 +795,10 @@
           "status": "逼近新高",
           "dist": -8.1,
           "limitUp": false,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
             "7/6",
+            "7/1",
             "6/30"
           ]
         }
@@ -806,7 +851,11 @@
           "symbol": "2332",
           "name": "友訊",
           "point": "漲價潮股價反下跌",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/3"
+          ]
         },
         {
           "symbol": "3704",
