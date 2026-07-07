@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-07T11:02:52.203+08:00",
-  "generatedAt": "2026-07-07T03:02:52.203Z",
+  "asOf": "2026-07-07T12:03:03.326+08:00",
+  "generatedAt": "2026-07-07T04:03:03.326Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -28,11 +28,7 @@
         "7/2"
       ],
       "mentions": 3,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "6/30"
-      ]
+      "limitUp": false
     },
     {
       "symbol": "6215",
@@ -133,14 +129,13 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -7.9,
-      "limitUp": false,
-      "luw": 5,
+      "limitUp": true,
+      "pct": 10,
+      "luw": 3,
       "luwd": [
         "7/6",
         "7/3",
-        "7/2",
-        "7/1",
-        "6/30"
+        "7/2"
       ]
     },
     {
@@ -155,12 +150,10 @@
       "status": "逼近新高",
       "dist": -8.1,
       "limitUp": false,
-      "luw": 4,
+      "luw": 2,
       "luwd": [
         "7/6",
-        "7/2",
-        "7/1",
-        "6/30"
+        "7/2"
       ]
     },
     {
@@ -434,6 +427,17 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxQLUFTQjdnaDg1amdRMUZJeDVqd0Jld3ZQMURVRUdESmpKMUk5dG0zcEJKdmJRQkFYZHVWSHV4YWI3SnBnQzBLNXR0QkdPaGE3dElzT3Z5cjlMekVpeFdWMG9wQ2VuUmZaMVNONlpJUENONmlPZVFDY1NjRTM1dEhFTVY1OXRBZ2li",
+      "tkey": "熱門族群藥華藥登天生技7燈獎走紅毯",
+      "title": "《熱門族群》藥華藥登天 生技7燈獎走紅毯 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6230784001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 07 Jul 2026 03:22:00 GMT",
+      "stocks": [],
+      "background": "",
+      "themeTags": []
+    },
+    {
       "gid": "CBMiiAFBVV95cUxObVlPZWlKdDdndDdrV3lLT0MxUnR6cTZwNkJTQW1JVVUwdG5SM1hGdE5NbWdnbklYUTJQQjNVTUotREV4Ujg1dVlIRkh0Tzk0R0VRYW03VmJYWUd6SHB0RkVDWkQ2SDRNeGxlUGRVcEpWbHU3U2E0SVVNOWV6NTFxMVN5RGhfX0Zu",
       "tkey": "熱門族群出貨升溫特化族群6月業績報喜",
       "title": "《熱門族群》出貨升溫 特化族群6月業績報喜 - 富聯網",
@@ -517,14 +521,13 @@
           "point": "風扇馬達驅動IC、電源管理IC需求穩健",
           "status": "逼近新高",
           "dist": -7.9,
-          "limitUp": false,
-          "luw": 5,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 3,
           "luwd": [
             "7/6",
             "7/3",
-            "7/2",
-            "7/1",
-            "6/30"
+            "7/2"
           ]
         },
         {
@@ -534,12 +537,10 @@
           "status": "逼近新高",
           "dist": -8.1,
           "limitUp": false,
-          "luw": 4,
+          "luw": 2,
           "luwd": [
             "7/6",
-            "7/2",
-            "7/1",
-            "6/30"
+            "7/2"
           ]
         }
       ],
@@ -560,11 +561,7 @@
           "symbol": "3443",
           "name": "創意",
           "point": "CPU需求強勁、北美車用專案Tape-out",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "6/30"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3529",
@@ -688,10 +685,9 @@
           "dist": 0,
           "limitUp": true,
           "pct": 10,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "7/6",
-            "6/30"
+            "7/6"
           ]
         },
         {
@@ -760,11 +756,7 @@
           "symbol": "3189",
           "name": "景碩",
           "point": "受惠BT載板價格調漲，營運成長動能備受期待",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "6/30"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3044",
@@ -776,11 +768,7 @@
           "symbol": "6278",
           "name": "台表科",
           "point": "DDR5相關SMT業務穩定成長",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "6/30"
-          ]
+          "limitUp": false
         }
       ],
       "background": "AI應用持續推升記憶體需求，HBM、DDR5等產品價格維持高檔，帶動載板及PCB報價走揚，DRAM市場供給持續吃緊。",
