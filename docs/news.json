@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-06T22:10:05.659+08:00",
-  "generatedAt": "2026-07-06T14:10:05.659Z",
+  "asOf": "2026-07-07T11:02:52.203+08:00",
+  "generatedAt": "2026-07-07T03:02:52.203Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -60,66 +60,6 @@
       "luw": 1,
       "luwd": [
         "7/2"
-      ]
-    },
-    {
-      "symbol": "8033",
-      "name": "雷虎",
-      "days": 3,
-      "dates": [
-        "7/5",
-        "7/1",
-        "6/30"
-      ],
-      "mentions": 3,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 4,
-      "luwd": [
-        "7/3",
-        "7/1",
-        "6/30",
-        "6/29"
-      ]
-    },
-    {
-      "symbol": "2630",
-      "name": "亞航",
-      "days": 3,
-      "dates": [
-        "7/5",
-        "7/1",
-        "6/30"
-      ],
-      "mentions": 3,
-      "limitUp": true,
-      "pct": 9.8,
-      "luw": 2,
-      "luwd": [
-        "7/3",
-        "6/30"
-      ]
-    },
-    {
-      "symbol": "2645",
-      "name": "長榮航太",
-      "days": 3,
-      "dates": [
-        "7/5",
-        "7/1",
-        "6/30"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -2.7,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 2,
-      "luwd": [
-        "7/3",
-        "7/1"
       ]
     },
     {
@@ -183,19 +123,42 @@
       "limitUp": false
     },
     {
-      "symbol": "3532",
-      "name": "台勝科",
+      "symbol": "6138",
+      "name": "茂達",
       "days": 2,
       "dates": [
-        "7/2",
-        "6/30"
+        "7/7",
+        "7/2"
       ],
-      "mentions": 3,
+      "mentions": 2,
       "status": "逼近新高",
-      "dist": -4.5,
+      "dist": -7.9,
       "limitUp": false,
-      "luw": 2,
+      "luw": 5,
       "luwd": [
+        "7/6",
+        "7/3",
+        "7/2",
+        "7/1",
+        "6/30"
+      ]
+    },
+    {
+      "symbol": "8261",
+      "name": "富鼎",
+      "days": 2,
+      "dates": [
+        "7/7",
+        "7/2"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -8.1,
+      "limitUp": false,
+      "luw": 4,
+      "luwd": [
+        "7/6",
+        "7/2",
         "7/1",
         "6/30"
       ]
@@ -223,7 +186,11 @@
       "status": "逼近新高",
       "dist": -3.7,
       "limitUp": true,
-      "pct": 9.9
+      "pct": 9.9,
+      "luw": 1,
+      "luwd": [
+        "7/6"
+      ]
     },
     {
       "symbol": "2451",
@@ -263,19 +230,60 @@
       ]
     },
     {
-      "symbol": "2634",
-      "name": "漢翔",
+      "symbol": "8033",
+      "name": "雷虎",
       "days": 2,
       "dates": [
         "7/5",
+        "7/1"
+      ],
+      "mentions": 2,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": true,
+      "pct": 9.9,
+      "luw": 3,
+      "luwd": [
+        "7/3",
+        "7/1",
         "6/30"
+      ]
+    },
+    {
+      "symbol": "2630",
+      "name": "亞航",
+      "days": 2,
+      "dates": [
+        "7/5",
+        "7/1"
       ],
       "mentions": 2,
       "limitUp": true,
-      "pct": 9.9,
-      "luw": 1,
+      "pct": 9.8,
+      "luw": 2,
       "luwd": [
-        "7/3"
+        "7/3",
+        "6/30"
+      ]
+    },
+    {
+      "symbol": "2645",
+      "name": "長榮航太",
+      "days": 2,
+      "dates": [
+        "7/5",
+        "7/1"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -2.7,
+      "limitUp": true,
+      "pct": 9.9,
+      "luw": 3,
+      "luwd": [
+        "7/6",
+        "7/3",
+        "7/1"
       ]
     },
     {
@@ -412,42 +420,165 @@
       "limitUp": false
     },
     {
-      "symbol": "6488",
-      "name": "環球晶",
+      "symbol": "3577",
+      "name": "泓格",
       "days": 2,
       "dates": [
         "7/2",
-        "6/30"
+        "7/1"
       ],
       "mentions": 2,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": false
-    },
-    {
-      "symbol": "6182",
-      "name": "合晶",
-      "days": 2,
-      "dates": [
-        "7/2",
-        "6/30"
-      ],
-      "mentions": 2,
-      "status": "創新高",
-      "dist": 0,
       "limitUp": true,
-      "pct": 10,
-      "luw": 5,
-      "luwd": [
-        "7/3",
-        "7/2",
-        "7/1",
-        "6/30",
-        "6/29"
-      ]
+      "pct": 10
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxObVlPZWlKdDdndDdrV3lLT0MxUnR6cTZwNkJTQW1JVVUwdG5SM1hGdE5NbWdnbklYUTJQQjNVTUotREV4Ujg1dVlIRkh0Tzk0R0VRYW03VmJYWUd6SHB0RkVDWkQ2SDRNeGxlUGRVcEpWbHU3U2E0SVVNOWV6NTFxMVN5RGhfX0Zu",
+      "tkey": "熱門族群出貨升溫特化族群6月業績報喜",
+      "title": "《熱門族群》出貨升溫 特化族群6月業績報喜 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6230355001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 07 Jul 2026 00:01:00 GMT",
+      "stocks": [
+        {
+          "symbol": "4749",
+          "name": "新應材",
+          "point": "半導體先進製程推進，6月營收創新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "1727",
+          "name": "中華化",
+          "point": "先進製程認證與特用化學品需求回升",
+          "status": "高檔修正",
+          "dist": -13.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "4755",
+          "name": "三福化",
+          "point": "回收顯影劑工程設備驗收，營收年增",
+          "limitUp": false
+        },
+        {
+          "symbol": "1342",
+          "name": "八貫",
+          "point": "醫療及軍工產品出貨穩健增加，營收創新高",
+          "limitUp": false
+        }
+      ],
+      "background": "特用化學品族群受惠半導體先進製程與醫療軍工產品出貨升溫，帶動6月營收報喜，部分公司積極擴產以滿足未來需求。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPVEZ5YVA3QU5HdTZ0dTRBSVNNZG9BblFjVTl6ZmNyazI2bWZZQmJ3aXhzQWFNT3FxVzhWX0RxS2FuZ1U5S1RPc0N3ZGdUcVlMZWJBc2tBODRLR1BlY1IxVlpESElFa3hLcGxuV2QxWU1Yd0UzUjdMcThjNTFndUdYck5LcEVHYlJL",
+      "tkey": "熱門族群半導體訂單增上銀、大銀進補",
+      "title": "《熱門族群》半導體訂單增 上銀、大銀進補 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6230353001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 07 Jul 2026 00:01:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2049",
+          "name": "上銀",
+          "point": "半導體、大型基礎建設、自動化及AI相關產業訂單增長",
+          "limitUp": false
+        },
+        {
+          "symbol": "4576",
+          "name": "大銀微系統",
+          "point": "半導體、高階電子製造設備、PCB產業訂單持續挹注",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/2"
+          ]
+        }
+      ],
+      "background": "半導體產業訂單顯著增長，特別是AI伺服器、散熱及AI接頭等需求熱絡，帶動上銀與大銀微系統營收報喜，訂單能見度高。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNdmtaR2ZBN0NwUk1XOHRIdFg1bUxJSVRSMXd0emZLOFlvQUd1Tnk5OXlTRzlsOUtDNDR5OURrSFp4N0NfbDR4UExmSWZZU2ZkTkVFLXpleFY1Tm1fRFNtaGtVWUtLdl9YVUJwWlViNWRmU3FoU2c0cWEyWi1uOXdaU2c3eWY2bUt2",
+      "tkey": "熱門族群AI帶旺國巨版圖概念股告捷",
+      "title": "《熱門族群》AI帶旺國巨版圖 概念股告捷 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6230334001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 06 Jul 2026 23:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6138",
+          "name": "茂達",
+          "point": "風扇馬達驅動IC、電源管理IC需求穩健",
+          "status": "逼近新高",
+          "dist": -7.9,
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "7/6",
+            "7/3",
+            "7/2",
+            "7/1",
+            "6/30"
+          ]
+        },
+        {
+          "symbol": "8261",
+          "name": "富鼎",
+          "point": "功率MOSFET應用涵蓋電源供應器、工控",
+          "status": "逼近新高",
+          "dist": -8.1,
+          "limitUp": false,
+          "luw": 4,
+          "luwd": [
+            "7/6",
+            "7/2",
+            "7/1",
+            "6/30"
+          ]
+        }
+      ],
+      "background": "AI伺服器功耗攀升，帶動電源管理IC與功率元件需求提升，泛國巨集團旗下公司受惠，產業成長動能受關注。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNeWZQOVVuNTJJU1lTRFlUSXo0MVFtXzhYOFJNdW5MNjgxdzZTUFlhN2RiSHlEN18yOG5HdkRYWlczV0ZuVVdYZmpLTGtZOTNZUlZ3dU1PZzFMcjRkVVFFckVOX21ucDExR3lsbFNQWXVDdVgyZHBSZTBaQy1fQjNOUUpYSGJhYzkz",
+      "tkey": "熱門族群ASIC延燒創意、力旺H2火",
+      "title": "《熱門族群》ASIC延燒 創意、力旺H2火 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6230332001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 06 Jul 2026 23:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "point": "CPU需求強勁、北美車用專案Tape-out",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "6/30"
+          ]
+        },
+        {
+          "symbol": "3529",
+          "name": "力旺",
+          "point": "權利金動能來自MTP產品與PUF貢獻擴大",
+          "limitUp": false
+        }
+      ],
+      "background": "AI運算需求擴散至雲端服務商自研晶片，帶動ASIC設計服務與矽智財授權升溫，台積電先進製程擴充提升台廠競爭力。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNeW1qUTVWNm9sdHRaeXdMN0ZlTkYyWXJOZ0lnM2MwUVVydmVQWUtGUEpnVWpLa1IySVZDRDBoeXFJdUpsZTY4N3BxVWQwRDNzUlpMNUlSTm04VGIzclBkVWFVWEtSYmtodXZ6M3U0SHNuUnlNSFVqbXB6ckRGTjFRY24zakU2Z1hm",
       "tkey": "熱門族群網通業罕見漲價潮友訊、合勤控等台廠股價反下跌",
@@ -557,8 +688,9 @@
           "dist": 0,
           "limitUp": true,
           "pct": 10,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "7/6",
             "6/30"
           ]
         },
@@ -569,7 +701,11 @@
           "status": "逼近新高",
           "dist": -3.7,
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "7/6"
+          ]
         },
         {
           "symbol": "2451",
@@ -694,149 +830,6 @@
       "background": "精密機械與工具機業者積極開發AI、機器人相關產品與生產設備，切入AI伺服器水冷散熱、機殼、滑軌及半導體晶圓機器人等應用，搶食AI與機器人產業大餅。",
       "themeTags": [
         "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiX0FVX3lxTE1yNFE5SHBkZHZaMFBncXd5ZF8wN0I0SlcxUzZLZkFudS1mZ0NfS0sxdDhFempvN2p5cFh1QldBSVpINzMwX0k0NVJzOXNTSUsweDZiUnVIdS01ZDFsT1hn0gFkQVVfeXFMTVZTa0NCYm9JY3VLVlhxUHRWcGRMeFo2Q3hTVkxnQUxJN1pReXEzTzNvUGVXblJFRUIyQlYwSVRiUC1Dc0ZkNkdDY3duQ2cxT1I4T0dDbFljcVRoMHNCRURoV0J0bA",
-      "tkey": "熱門族群AI技術落地規模擴大機器人族群添柴火",
-      "title": "熱門族群》AI技術落地規模擴大 機器人族群添柴火 - 自由財經",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5493169",
-      "source": "自由財經",
-      "pubDate": "Sat, 04 Jul 2026 23:10:00 GMT",
-      "stocks": [
-        {
-          "symbol": "4585",
-          "name": "達明",
-          "point": "母集團導入機械手臂，股價強漲",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/2"
-          ]
-        },
-        {
-          "symbol": "6215",
-          "name": "和椿",
-          "point": "新舊世代交接行情看旺，大漲",
-          "limitUp": false
-        },
-        {
-          "symbol": "2359",
-          "name": "所羅門",
-          "point": "AI 客戶重購率高，週線大漲",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/2"
-          ]
-        },
-        {
-          "symbol": "2317",
-          "name": "鴻海",
-          "point": "旗下廣宇有新業務支撐",
-          "limitUp": false
-        },
-        {
-          "symbol": "2328",
-          "name": "廣宇",
-          "point": "軸向磁通電機新業務支撐展望",
-          "limitUp": false
-        }
-      ],
-      "background": "AI 技術落地擴大，人形機器人受惠於智慧製造與自動化趨勢。輝達推動實體 AI 布局，帶動零組件、控制系統、視覺辨識供應鏈。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiZEFVX3lxTE1CNlZlWGZ5NGt5Q01naFU5MFFzajFvdURUcmhobkdFdGdfaVNMbUJ3S1hWOUR5SVpVUjJFbm9zU1ppdXpaajVieVk0Z1VQc1dta2dVTklYcHloX1dKWXRwa19DZmvSAWRBVV95cUxNQjZWZVhmeTRreUNNZ2hVOTBRc2oxb3VEVHJoaG5HRXRnX2lTTG1Cd0tYVjlEeUlaVVIyRW5vc1NaaXV6Wmo1YnlZNGdVUHNXbWtnVU5JWHB5aF9XSll0cGtfQ2Zr",
-      "tkey": "熱門族群無人機條例朝野版本齊發軍工股亮燈表態",
-      "title": "熱門族群》 無人機條例朝野版本齊發 軍工股亮燈表態 - 自由財經",
-      "url": "https://ec.ltn.com.tw/amp/article/breakingnews/5493004",
-      "source": "自由財經",
-      "pubDate": "Sat, 04 Jul 2026 23:00:00 GMT",
-      "stocks": [
-        {
-          "symbol": "8033",
-          "name": "雷虎",
-          "point": "無人機條例激勵，股價亮燈漲停",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 4,
-          "luwd": [
-            "7/3",
-            "7/1",
-            "6/30",
-            "6/29"
-          ]
-        },
-        {
-          "symbol": "2634",
-          "name": "漢翔",
-          "point": "無人機條例激勵，股價亮燈漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "7/3"
-          ]
-        },
-        {
-          "symbol": "2630",
-          "name": "亞航",
-          "point": "無人機條例激勵，股價亮燈漲停",
-          "limitUp": true,
-          "pct": 9.8,
-          "luw": 2,
-          "luwd": [
-            "7/3",
-            "6/30"
-          ]
-        },
-        {
-          "symbol": "2645",
-          "name": "長榮航太",
-          "point": "無人機條例激勵，股價亮燈漲停",
-          "status": "逼近新高",
-          "dist": -2.7,
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 2,
-          "luwd": [
-            "7/3",
-            "7/1"
-          ]
-        },
-        {
-          "symbol": "6753",
-          "name": "龍德造船",
-          "point": "無人機條例激勵，股價亮燈漲停",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 1,
-          "luwd": [
-            "7/3"
-          ]
-        },
-        {
-          "symbol": "2208",
-          "name": "台船",
-          "point": "無人機條例激勵，股價亮燈漲停",
-          "limitUp": true,
-          "pct": 9.8,
-          "luw": 2,
-          "luwd": [
-            "7/3",
-            "6/30"
-          ]
-        }
-      ],
-      "background": "無人機條例草案進入聯席審查，政府大力支持國防自主。軍工股受政策利多激勵，股價反應題材，後續表現可期。",
-      "themeTags": [
-        "政策關稅"
       ]
     }
   ]
