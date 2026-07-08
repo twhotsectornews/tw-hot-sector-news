@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "updatedAt": "2026-07-08T06:01:53.786Z",
+  "updatedAt": "2026-07-08T08:16:50.180Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPbnR5MlA4anlnd0llWEl1UlVmTks3RlZtMkhzc3FrRXBMYzJKZU15REVXWUpIeC1CZmYzdjBoUFNRV2hzWG9pX0NLSFZFZEg0MkQxUXdFNnRrRUFPeEtMeWtmYk5JYURiOGdRZFlKc0lMNU5wNHlmd0g1azhOdzlRNTUxdlpxeFFD",
@@ -61,7 +61,12 @@
           "symbol": "7402",
           "name": "邑錡",
           "point": "無人機概念股低飛",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "7/7",
+            "7/2"
+          ]
         },
         {
           "symbol": "1409",
@@ -199,45 +204,21 @@
           "name": "長聖",
           "point": "亞洲生技大會概念股",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "7/7",
-            "7/6",
-            "7/3",
-            "7/2",
-            "7/1"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6617",
           "name": "共信-KY",
           "point": "亞洲生技大會概念股",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "7/7",
-            "7/6",
-            "7/3",
-            "7/2",
-            "7/1"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6945",
           "name": "圓祥生技",
           "point": "亞洲生技大會概念股",
           "limitUp": true,
-          "pct": 9.6,
-          "luw": 5,
-          "luwd": [
-            "7/7",
-            "7/6",
-            "7/3",
-            "7/2",
-            "7/1"
-          ]
+          "pct": 9.6
         }
       ],
       "background": "亞洲生技大會將登場，吸引資金卡位生技概念股。藥華藥獲多國藥證且營收創高，表現亮眼。",
