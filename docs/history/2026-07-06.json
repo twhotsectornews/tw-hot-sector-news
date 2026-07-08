@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "updatedAt": "2026-07-08T04:02:31.142Z",
+  "updatedAt": "2026-07-08T05:02:32.883Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNeW1qUTVWNm9sdHRaeXdMN0ZlTkYyWXJOZ0lnM2MwUVVydmVQWUtGUEpnVWpLa1IySVZDRDBoeXFJdUpsZTY4N3BxVWQwRDNzUlpMNUlSTm04VGIzclBkVWFVWEtSYmtodXZ6M3U0SHNuUnlNSFVqbXB6ckRGTjFRY24zakU2Z1hm",
@@ -13,7 +13,7 @@
         {
           "symbol": "2332",
           "name": "友訊",
-          "point": "開高走低，將適度調整售價",
+          "point": "網通產品報價可望受牽動",
           "luw": 1,
           "luwd": [
             "7/3"
@@ -22,30 +22,29 @@
         {
           "symbol": "3704",
           "name": "合勤控",
-          "point": "開高走低，有望受惠漲價潮"
+          "point": "網通產品報價可望受牽動"
         },
         {
           "symbol": "6263",
           "name": "普萊德",
-          "point": "網通品牌廠，後續報價動向受關注",
-          "status": "高檔修正",
-          "dist": -11.5
+          "point": "網通產品報價可望受牽動",
+          "status": "逼近新高",
+          "dist": -9.6
         },
         {
           "symbol": "3047",
           "name": "訊舟",
-          "point": "網通品牌廠，後續報價動向受關注"
+          "point": "網通產品報價可望受牽動"
         },
         {
           "symbol": "2357",
           "name": "華碩",
-          "point": "開高走低，有望受惠漲價潮"
+          "point": "網通產品報價可望受牽動"
         }
       ],
-      "background": "網通產業面臨罕見漲價潮，日本NEC率先調高消費性網通產品報價，台灣網通品牌廠有望跟進，但市場反應平淡。",
+      "background": "網通業因日本大廠NEC開出漲價第一槍，帶動台灣網通品牌廠報價可能調整，但市場反應平淡，股價甚至開高走低。",
       "themeTags": [
-        "國際大廠",
-        "循環位置"
+        "國際大廠"
       ]
     },
     {
