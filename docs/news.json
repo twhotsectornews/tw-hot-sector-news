@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-08T11:02:03.110+08:00",
-  "generatedAt": "2026-07-08T03:02:03.110Z",
+  "asOf": "2026-07-08T12:02:31.145+08:00",
+  "generatedAt": "2026-07-08T04:02:31.145Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -330,6 +330,63 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQSXJzbFNMbVNYR0NscUJmSXZLN05odG5VUFVZbUdtVjZMektxc0VTMDNXVjlkSW05WE9JNXNjMnVLN1cwekpLZmpQNHZDaHJXMDE3VXZYSXBYVnhFVFhaUW9wRDk2ZXBMZFo5VWJncS14alZ4S0h5c282ajA3SW9VU0pmWkVXMWQz",
+      "tkey": "熱門族群45K保衛戰！BBU見火種2檔績優生攻頂插旗",
+      "title": "《熱門族群》45K保衛戰！BBU見火種 2檔績優生攻頂插旗 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6232204001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 08 Jul 2026 02:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3211",
+          "name": "順達",
+          "point": "亮燈觸頂、H1營收年增21.8%",
+          "status": "高檔修正",
+          "dist": -10.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "4931",
+          "name": "新盛力",
+          "point": "亮燈觸頂、H1營收年增7成",
+          "status": "逼近新高",
+          "dist": -4.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "6781",
+          "name": "AES-KY",
+          "point": "6月及H1營收寫歷史新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "6121",
+          "name": "新普",
+          "point": "股價氣色紅潤、表現抗跌",
+          "status": "逼近新高",
+          "dist": -8.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "3323",
+          "name": "加百裕",
+          "point": "股價氣色紅潤、表現抗跌",
+          "limitUp": false
+        },
+        {
+          "symbol": "5309",
+          "name": "系統電",
+          "point": "股價氣色紅潤、表現抗跌",
+          "limitUp": false
+        }
+      ],
+      "background": "BBU（大型不斷電系統）受惠於資料中心、AI伺服器等需求火熱，訂單規格提升，供應商積極擴產，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiWEFVX3lxTE9HZGZFVFJDS0I1Y2RZQW1xSDUtb29GUUx4a0hxUlBNMlp6TXFERWpUWXBrOGxRZXJBX19LSTc4SHR6Q0RabHZOY3Jienp2RmlGZV9BaUtTd0Q",
       "tkey": "熱門族群低軌衛星產業發燒太空板PCB前景看俏",
