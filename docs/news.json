@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-09T12:05:00.770+08:00",
-  "generatedAt": "2026-07-09T04:05:00.771Z",
+  "asOf": "2026-07-09T13:02:57.080+08:00",
+  "generatedAt": "2026-07-09T05:02:57.080Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -18,6 +18,7 @@
       "mentions": 4,
       "status": "逼近新高",
       "dist": -4.5,
+      "limitUp": false,
       "luw": 3,
       "luwd": [
         "7/8",
@@ -37,6 +38,7 @@
       "mentions": 4,
       "status": "逼近新高",
       "dist": -4.6,
+      "limitUp": false,
       "luw": 2,
       "luwd": [
         "7/8",
@@ -53,7 +55,8 @@
       ],
       "mentions": 3,
       "status": "逼近新高",
-      "dist": -7.1
+      "dist": -7.1,
+      "limitUp": false
     },
     {
       "symbol": "5371",
@@ -63,7 +66,8 @@
         "7/9",
         "7/7"
       ],
-      "mentions": 3
+      "mentions": 3,
+      "limitUp": false
     },
     {
       "symbol": "2412",
@@ -92,6 +96,40 @@
       "limitUp": false
     },
     {
+      "symbol": "2408",
+      "name": "南亞科",
+      "days": 2,
+      "dates": [
+        "7/9",
+        "7/6"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 10
+    },
+    {
+      "symbol": "2344",
+      "name": "華邦電",
+      "days": 2,
+      "dates": [
+        "7/9",
+        "7/6"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2337",
+      "name": "旺宏",
+      "days": 2,
+      "dates": [
+        "7/9",
+        "7/6"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "3481",
       "name": "群創",
       "days": 2,
@@ -99,7 +137,8 @@
         "7/9",
         "7/6"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "2409",
@@ -109,7 +148,8 @@
         "7/9",
         "7/6"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "3189",
@@ -151,6 +191,54 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxQblFIMzBxaHBKUUxPYkNkcFl1RGhHUllMX2FBT1ZuSjJ2S09MTG51ZXdPbXBkWkgzZjhJdFJVVGNDU3lia1NsNGZpVG9jbVBScG5BZmxJVTZVUTV0ZUNqQ0tSNVlYR1d5djdGdGVUSnVhcmtQamJLb19pQlZWQV9nZXh3eGV3amJS",
+      "tkey": "熱門族群SK海力士將赴美IPO台記憶體族群拉炮慶祝2檔攻頂",
+      "title": "《熱門族群》SK海力士將赴美IPO 台記憶體族群拉炮慶祝 2檔攻頂 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6233936001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 09 Jul 2026 04:03:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "率先攻頂、秒填息",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "3006",
+          "name": "晶豪科",
+          "point": "率先攻頂、營收創高",
+          "status": "高檔修正",
+          "dist": -12.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "一度逼近漲停、營收創高",
+          "limitUp": false
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "股價上漲、營收創高",
+          "limitUp": false
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "股價上漲",
+          "limitUp": false
+        }
+      ],
+      "background": "SK海力士赴美IPO激勵，加上DDR4、NOR Flash及SLC NAND報價具續漲空間，記憶體產業景氣復甦。",
+      "themeTags": [
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxQV2RoX1NNNHF3akROMmlhczh0emI1WUptRUY3UE15aHg4R0lqRERFQ1VQVTZhQVBzbHNvRGxQRVdjRFdRWVhNZ2R4bkpuWUlnWEszbXJJTkp2MEVoZFJ1YU0wbi1aMVJmZThLbjRxRUNEOFpvWjJHWjhMTjIzcmt5OGIwX2tYcGZW",
       "tkey": "熱門族群面板虎嘯！群創靠外資翻多、友達放量領漲",
       "title": "《熱門族群》面板虎嘯！ 群創靠外資翻多、友達放量領漲 - 富聯網",
@@ -161,12 +249,14 @@
         {
           "symbol": "3481",
           "name": "群創",
-          "point": "獲外資翻多買超，股價突破5日線"
+          "point": "獲外資翻多買超，股價突破5日線",
+          "limitUp": false
         },
         {
           "symbol": "2409",
           "name": "友達",
-          "point": "股價大漲逾8%，站回32元之上"
+          "point": "股價大漲逾8%，站回32元之上",
+          "limitUp": false
         }
       ],
       "background": "面板產業正從傳統顯示市場轉向高附加價值應用，受AI、先進封裝、智慧座艙及光通訊等新需求崛起帶動。",
@@ -187,14 +277,16 @@
           "name": "環球晶",
           "point": "6月營收亮眼激勵亮燈攻頂",
           "status": "逼近新高",
-          "dist": -2.2
+          "dist": -2.2,
+          "limitUp": false
         },
         {
           "symbol": "3532",
           "name": "台勝科",
           "point": "亮燈攻頂",
           "status": "高檔修正",
-          "dist": -10.3
+          "dist": -10.3,
+          "limitUp": false
         },
         {
           "symbol": "6182",
@@ -202,6 +294,7 @@
           "point": "大漲7%，逼近前高174元",
           "status": "逼近新高",
           "dist": -2.3,
+          "limitUp": false,
           "luw": 5,
           "luwd": [
             "7/8",
@@ -232,6 +325,7 @@
           "point": "無人機政策利多預期延燒，帶量再攻新高",
           "status": "逼近新高",
           "dist": -4.5,
+          "limitUp": false,
           "luw": 3,
           "luwd": [
             "7/8",
@@ -245,6 +339,7 @@
           "point": "一度再攻波段最高價",
           "status": "逼近新高",
           "dist": -4.6,
+          "limitUp": false,
           "luw": 2,
           "luwd": [
             "7/8",
@@ -256,24 +351,28 @@
           "name": "晟田",
           "point": "強彈攻漲停",
           "status": "逼近新高",
-          "dist": -7.1
+          "dist": -7.1,
+          "limitUp": false
         },
         {
           "symbol": "8383",
           "name": "千附",
           "point": "補漲急攻頂",
           "status": "逼近新高",
-          "dist": -9.5
+          "dist": -9.5,
+          "limitUp": false
         },
         {
           "symbol": "3005",
           "name": "神基",
-          "point": "盤中漲逾5%"
+          "point": "盤中漲逾5%",
+          "limitUp": false
         },
         {
           "symbol": "3004",
           "name": "豐達科",
           "point": "盤中漲逾5%",
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "7/3"
@@ -282,7 +381,8 @@
         {
           "symbol": "5371",
           "name": "中光電",
-          "point": "一度反攻百元關卡後震盪"
+          "point": "一度反攻百元關卡後震盪",
+          "limitUp": false
         }
       ],
       "background": "台灣無人機政策利多延燒，政府規劃投入特別預算強化國防自主，目標打造台灣成為全球無人機「非紅供應鏈」亞太製造中心。",
@@ -385,21 +485,24 @@
           "name": "中華電",
           "point": "除息首日未能展現填息氣勢",
           "status": "逼近新高",
-          "dist": -6.3
+          "dist": -6.3,
+          "limitUp": false
         },
         {
           "symbol": "3045",
           "name": "台灣大",
           "point": "除息首日未能展現填息氣勢",
           "status": "高檔修正",
-          "dist": -10.4
+          "dist": -10.4,
+          "limitUp": false
         },
         {
           "symbol": "4904",
           "name": "遠傳",
           "point": "除息首日貼息",
           "status": "高檔修正",
-          "dist": -13.6
+          "dist": -13.6,
+          "limitUp": false
         }
       ],
       "background": "電信股具備低波動、高現金流及穩定配息特色，是中長線資金配置核心，但短線受大盤氣氛、資金輪動影響。",
