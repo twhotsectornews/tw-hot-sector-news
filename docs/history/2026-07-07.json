@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "updatedAt": "2026-07-08T12:07:26.121Z",
+  "updatedAt": "2026-07-09T03:04:16.586Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPbnR5MlA4anlnd0llWEl1UlVmTks3RlZtMkhzc3FrRXBMYzJKZU15REVXWUpIeC1CZmYzdjBoUFNRV2hzWG9pX0NLSFZFZEg0MkQxUXdFNnRrRUFPeEtMeWtmYk5JYURiOGdRZFlKc0lMNU5wNHlmd0g1azhOdzlRNTUxdlpxeFFD",
@@ -19,8 +19,8 @@
           "limitUp": false,
           "luw": 2,
           "luwd": [
-            "7/3",
-            "7/1"
+            "7/8",
+            "7/3"
           ]
         },
         {
@@ -44,9 +44,9 @@
           "limitUp": false,
           "luw": 3,
           "luwd": [
+            "7/8",
             "7/6",
-            "7/3",
-            "7/1"
+            "7/3"
           ]
         },
         {
@@ -64,11 +64,11 @@
           "limitUp": false,
           "luw": 5,
           "luwd": [
+            "7/8",
             "7/7",
             "7/6",
             "7/3",
-            "7/2",
-            "7/1"
+            "7/2"
           ]
         },
         {
@@ -322,11 +322,10 @@
           "status": "逼近新高",
           "dist": -8.1,
           "limitUp": false,
-          "luw": 3,
+          "luw": 2,
           "luwd": [
             "7/6",
-            "7/2",
-            "7/1"
+            "7/2"
           ]
         }
       ],
