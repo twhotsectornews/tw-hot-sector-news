@@ -1,11 +1,70 @@
 {
-  "asOf": "2026-07-09T11:04:16.589+08:00",
-  "generatedAt": "2026-07-09T03:04:16.589Z",
+  "asOf": "2026-07-09T12:05:00.770+08:00",
+  "generatedAt": "2026-07-09T04:05:00.771Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "2645",
+      "name": "長榮航太",
+      "days": 3,
+      "dates": [
+        "7/9",
+        "7/7",
+        "7/5"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -4.5,
+      "luw": 3,
+      "luwd": [
+        "7/8",
+        "7/6",
+        "7/3"
+      ]
+    },
+    {
+      "symbol": "8033",
+      "name": "雷虎",
+      "days": 3,
+      "dates": [
+        "7/9",
+        "7/7",
+        "7/5"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -4.6,
+      "luw": 2,
+      "luwd": [
+        "7/8",
+        "7/3"
+      ]
+    },
+    {
+      "symbol": "4541",
+      "name": "晟田",
+      "days": 2,
+      "dates": [
+        "7/9",
+        "7/7"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -7.1
+    },
+    {
+      "symbol": "5371",
+      "name": "中光電",
+      "days": 2,
+      "dates": [
+        "7/9",
+        "7/7"
+      ],
+      "mentions": 3
+    },
     {
       "symbol": "2412",
       "name": "中華電",
@@ -14,7 +73,7 @@
         "7/9",
         "7/6"
       ],
-      "mentions": 2,
+      "mentions": 3,
       "status": "逼近新高",
       "dist": -6.3,
       "limitUp": false
@@ -27,47 +86,30 @@
         "7/9",
         "7/6"
       ],
-      "mentions": 2,
+      "mentions": 3,
       "status": "高檔修正",
       "dist": -13.6,
       "limitUp": false
     },
     {
-      "symbol": "8033",
-      "name": "雷虎",
+      "symbol": "3481",
+      "name": "群創",
       "days": 2,
       "dates": [
-        "7/7",
-        "7/5"
+        "7/9",
+        "7/6"
       ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -9,
-      "limitUp": false,
-      "luw": 2,
-      "luwd": [
-        "7/8",
-        "7/3"
-      ]
+      "mentions": 2
     },
     {
-      "symbol": "2645",
-      "name": "長榮航太",
+      "symbol": "2409",
+      "name": "友達",
       "days": 2,
       "dates": [
-        "7/7",
-        "7/5"
+        "7/9",
+        "7/6"
       ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -9.9,
-      "limitUp": false,
-      "luw": 3,
-      "luwd": [
-        "7/8",
-        "7/6",
-        "7/3"
-      ]
+      "mentions": 2
     },
     {
       "symbol": "3189",
@@ -108,6 +150,146 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQV2RoX1NNNHF3akROMmlhczh0emI1WUptRUY3UE15aHg4R0lqRERFQ1VQVTZhQVBzbHNvRGxQRVdjRFdRWVhNZ2R4bkpuWUlnWEszbXJJTkp2MEVoZFJ1YU0wbi1aMVJmZThLbjRxRUNEOFpvWjJHWjhMTjIzcmt5OGIwX2tYcGZW",
+      "tkey": "熱門族群面板虎嘯！群創靠外資翻多、友達放量領漲",
+      "title": "《熱門族群》面板虎嘯！ 群創靠外資翻多、友達放量領漲 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6233892001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 09 Jul 2026 03:21:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "point": "獲外資翻多買超，股價突破5日線"
+        },
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "股價大漲逾8%，站回32元之上"
+        }
+      ],
+      "background": "面板產業正從傳統顯示市場轉向高附加價值應用，受AI、先進封裝、智慧座艙及光通訊等新需求崛起帶動。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNVW1aMlZsc2p0MHUtREFsNmVqTWFkNUFPUlVJTlBjb1M4Z0ZtMVhZMVZXVXZGX3dVOXdXN3llOG9VSEIyNktCdzc0T1hUTFByRnpMdi13UVlyeUw4TmJFN2U4X3RHb1VfdzZqenNkNUYxYUZKWUZ6c0RaMGJnZEVLVGRRM0lBR0g0",
+      "tkey": "熱門族群矽晶圓紅咚咚！環球晶鎖漲停、合晶砲火猛",
+      "title": "《熱門族群》矽晶圓紅咚咚！環球晶鎖漲停、合晶砲火猛 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6233888001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 09 Jul 2026 03:17:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "point": "6月營收亮眼激勵亮燈攻頂",
+          "status": "逼近新高",
+          "dist": -2.2
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "亮燈攻頂",
+          "status": "高檔修正",
+          "dist": -10.3
+        },
+        {
+          "symbol": "6182",
+          "name": "合晶",
+          "point": "大漲7%，逼近前高174元",
+          "status": "逼近新高",
+          "dist": -2.3,
+          "luw": 5,
+          "luwd": [
+            "7/8",
+            "7/7",
+            "7/6",
+            "7/3",
+            "7/2"
+          ]
+        }
+      ],
+      "background": "AI伺服器、高效能運算與先進製程需求持續擴大，市場提前反映矽晶圓需求改善與獲利回升空間，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQMGpCVzdibTM4X3FQaXJsck80MWd4Qm9iWlFjV0R2QUdlNHhza3BENE1BZmE2V2xZUlNhX2Nqemh4T2JTeDVBUV9CcnZ6N0ZvbFVVWEVUZExBcjhjeEpKZ0ZkeWhUdVAyMEp0ck8wYWM3bEJNc1BFTFFpdlF4NDM1eGdhR2o0UVd0",
+      "tkey": "熱門族群政策點火！長榮航太創高軍工高檔震盪",
+      "title": "《熱門族群》政策點火！長榮航太創高 軍工高檔震盪 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6233863001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 09 Jul 2026 03:01:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2645",
+          "name": "長榮航太",
+          "point": "無人機政策利多預期延燒，帶量再攻新高",
+          "status": "逼近新高",
+          "dist": -4.5,
+          "luw": 3,
+          "luwd": [
+            "7/8",
+            "7/6",
+            "7/3"
+          ]
+        },
+        {
+          "symbol": "8033",
+          "name": "雷虎",
+          "point": "一度再攻波段最高價",
+          "status": "逼近新高",
+          "dist": -4.6,
+          "luw": 2,
+          "luwd": [
+            "7/8",
+            "7/3"
+          ]
+        },
+        {
+          "symbol": "4541",
+          "name": "晟田",
+          "point": "強彈攻漲停",
+          "status": "逼近新高",
+          "dist": -7.1
+        },
+        {
+          "symbol": "8383",
+          "name": "千附",
+          "point": "補漲急攻頂",
+          "status": "逼近新高",
+          "dist": -9.5
+        },
+        {
+          "symbol": "3005",
+          "name": "神基",
+          "point": "盤中漲逾5%"
+        },
+        {
+          "symbol": "3004",
+          "name": "豐達科",
+          "point": "盤中漲逾5%",
+          "luw": 1,
+          "luwd": [
+            "7/3"
+          ]
+        },
+        {
+          "symbol": "5371",
+          "name": "中光電",
+          "point": "一度反攻百元關卡後震盪"
+        }
+      ],
+      "background": "台灣無人機政策利多延燒，政府規劃投入特別預算強化國防自主，目標打造台灣成為全球無人機「非紅供應鏈」亞太製造中心。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNRkUybUZPMEFDNmd0dkllbVFHT2tLYV84aDF3R0ZYemppY3RxRjZVaE01dEIwX3gzbU5Wc1c0WXd3b3owVW5xNEtwR0hGNTA0bXNYcnhlRTdHMDBXa1ROeERMalRERkNGQXJENHEtUzVZUDNDNVFrWHZ1LV9IWlNSN2JZYTBDZlNx",
       "tkey": "熱門族群千億營收引爆買盤英業達漲停領軍電子五哥表現分化",
@@ -188,6 +370,39 @@
         }
       ],
       "background": "電信三雄近期接力除息，但高股息題材未能立即轉化為強勁填息行情，市場資金焦點集中於成長股。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiX0FVX3lxTFBIMktUZmN5aWoxMmRTc3NaZFpyRW5LSU10MC02LVJXU3hMQXUzQkkwRldrcFlwUEQtVENqRUtLVTBnek9UU3Q0RTFlQm04VVhMRTI0QTh2bjYwZWoyZGZr",
+      "tkey": "熱門族群高息光環不靈？電信三雄除息接力卻貼息-證券",
+      "title": "《熱門族群》高息光環不靈？電信三雄除息接力卻貼息- 證券 - 工商時報",
+      "url": "https://www.ctee.com.tw/news/20260709700914-430201",
+      "source": "工商時報",
+      "pubDate": "Thu, 09 Jul 2026 02:17:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2412",
+          "name": "中華電",
+          "point": "除息首日未能展現填息氣勢",
+          "status": "逼近新高",
+          "dist": -6.3
+        },
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "point": "除息首日未能展現填息氣勢",
+          "status": "高檔修正",
+          "dist": -10.4
+        },
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "point": "除息首日貼息",
+          "status": "高檔修正",
+          "dist": -13.6
+        }
+      ],
+      "background": "電信股具備低波動、高現金流及穩定配息特色，是中長線資金配置核心，但短線受大盤氣氛、資金輪動影響。",
       "themeTags": []
     },
     {

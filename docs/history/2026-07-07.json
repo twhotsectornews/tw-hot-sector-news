@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "updatedAt": "2026-07-09T03:04:16.586Z",
+  "updatedAt": "2026-07-09T04:05:00.767Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPbnR5MlA4anlnd0llWEl1UlVmTks3RlZtMkhzc3FrRXBMYzJKZU15REVXWUpIeC1CZmYzdjBoUFNRV2hzWG9pX0NLSFZFZEg0MkQxUXdFNnRrRUFPeEtMeWtmYk5JYURiOGdRZFlKc0lMNU5wNHlmd0g1azhOdzlRNTUxdlpxeFFD",
@@ -94,6 +94,92 @@
         }
       ],
       "background": "無人機條例草案推動，軍工股原受追捧，但地緣政治緊張引發盤勢重挫，相關概念股跟隨大盤回檔。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQalpTcy11anJ5Q1djWS1rNHl0cnc1cDR3U1BJTTZvekt3VlJPZFVMN0l2SFg0cW56QkxHTWtlcElhbGdoLV84ckN4WndsM21TZzJ2RUVKbFIzeVo0a1lVX3h2NXhwM2I1VGJ4MFBvSTdUVkZOdVY4STI1VmU5UmNWaExNNnBINDZ4",
+      "tkey": "熱門族群無人機真摔？雷虎、中光電近跌停2檔逆風飛",
+      "title": "《熱門族群》無人機真摔？雷虎、中光電近跌停 2檔逆風飛 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6230866001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 07 Jul 2026 04:36:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2360",
+          "name": "致茂",
+          "point": "不敵賣壓摔跌停"
+        },
+        {
+          "symbol": "5371",
+          "name": "中光電",
+          "point": "重挫"
+        },
+        {
+          "symbol": "2645",
+          "name": "長榮航太",
+          "point": "跟進躺平",
+          "status": "逼近新高",
+          "dist": -4.5,
+          "luw": 3,
+          "luwd": [
+            "7/8",
+            "7/6",
+            "7/3"
+          ]
+        },
+        {
+          "symbol": "8033",
+          "name": "雷虎",
+          "point": "大跌9%",
+          "status": "逼近新高",
+          "dist": -4.6,
+          "luw": 2,
+          "luwd": [
+            "7/8",
+            "7/3"
+          ]
+        },
+        {
+          "symbol": "4541",
+          "name": "晟田",
+          "point": "低飛",
+          "status": "逼近新高",
+          "dist": -7.1
+        },
+        {
+          "symbol": "7402",
+          "name": "邑錡",
+          "point": "低飛",
+          "luw": 5,
+          "luwd": [
+            "7/8",
+            "7/7",
+            "7/6",
+            "7/3",
+            "7/2"
+          ]
+        },
+        {
+          "symbol": "1409",
+          "name": "新纖",
+          "point": "傳材料應用於無人機領域，吸引買盤",
+          "luw": 2,
+          "luwd": [
+            "7/3",
+            "7/2"
+          ]
+        },
+        {
+          "symbol": "2458",
+          "name": "義隆",
+          "point": "無人機相關營收預期成長數倍，盤初亮燈觸頂",
+          "status": "逼近新高",
+          "dist": -5.9
+        }
+      ],
+      "background": "無人機族群受台灣國防自主政策利多追捧，但地緣政治緊張與大盤震盪引發賣壓，部分個股獲利了結。",
       "themeTags": [
         "政策關稅"
       ]
