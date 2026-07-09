@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-09T20:14:25.864+08:00",
-  "generatedAt": "2026-07-09T12:14:25.864Z",
+  "asOf": "2026-07-09T21:35:41.724+08:00",
+  "generatedAt": "2026-07-09T13:35:41.724Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -53,7 +53,7 @@
         "7/9",
         "7/3"
       ],
-      "mentions": 3,
+      "mentions": 4,
       "limitUp": false,
       "luw": 1,
       "luwd": [
@@ -68,7 +68,7 @@
         "7/9",
         "7/3"
       ],
-      "mentions": 3,
+      "mentions": 4,
       "status": "逼近新高",
       "dist": -9.3,
       "limitUp": false
@@ -81,7 +81,7 @@
         "7/9",
         "7/3"
       ],
-      "mentions": 3,
+      "mentions": 4,
       "limitUp": false,
       "luw": 2,
       "luwd": [
@@ -97,7 +97,7 @@
         "7/9",
         "7/3"
       ],
-      "mentions": 3,
+      "mentions": 4,
       "limitUp": false
     },
     {
@@ -245,6 +245,53 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiakFVX3lxTE1CaUtpRjRvRkZDRFpfa2xiS3lNb1NRZklfYlJkSkN0Z1lwem90Z1dkYkhqY2xJaVIyd3Vsa2YyQ2hsWWp5YU11bTQ3eEVGaUdpQjVhSTM0cU1mYUo2cHRxUWR0aXVZWmxjX2c",
+      "tkey": "熱門族群美伊和解油價回落台塑四寶6月營收分歧、台塑化最抗跌-上市櫃",
+      "title": "《熱門族群》美伊和解油價回落台塑四寶6月營收分歧、台塑化最抗跌- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260709900433-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Thu, 09 Jul 2026 07:32:32 GMT",
+      "stocks": [
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "6月營收月減6.5％",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/2"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "6月營收月減5.9％",
+          "status": "逼近新高",
+          "dist": -9.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "6月營收月增1.0％",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "7/3",
+            "7/2"
+          ]
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "6月營收月增10.2％",
+          "limitUp": false
+        }
+      ],
+      "background": "美伊和解導致國際原油、輕油及石化原料價格回落，影響台塑四寶6月營收表現分歧，台塑化因煉廠定檢完成、原油到貨量增加而營收成長。",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxOcVNNamZpWFVKX3RuNE1EcVhwRmVkLWhsMkF3aHZCTTFRUXR1MUxvRHljY2J6UTVBbGhEQUJfRmNYZTFpWjV5N3BrbFBNblJnc21raVI5YzJ1bnlFNEJhb19GSVRXTl9PZlM1N0dzV3JUOTQxOTBibk1BdjJsWEFwSHhoNlphLUYw",
       "tkey": "熱門族群美伊和解油價回落台塑四寶6月營收分歧、台塑化最抗跌",
