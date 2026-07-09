@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-09T13:02:57.080+08:00",
-  "generatedAt": "2026-07-09T05:02:57.080Z",
+  "asOf": "2026-07-09T14:02:15.892+08:00",
+  "generatedAt": "2026-07-09T06:02:15.892Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -211,7 +211,8 @@
           "point": "率先攻頂、營收創高",
           "status": "高檔修正",
           "dist": -12.9,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "2344",
@@ -294,7 +295,8 @@
           "point": "大漲7%，逼近前高174元",
           "status": "逼近新高",
           "dist": -2.3,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "7/8",
@@ -538,7 +540,8 @@
           "point": "6月營收月增年增，表現突出",
           "status": "逼近新高",
           "dist": -7.1,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "7/8",
@@ -623,8 +626,7 @@
           "symbol": "8042",
           "name": "金山電",
           "point": "Q2營收創歷史新高",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "2428",
