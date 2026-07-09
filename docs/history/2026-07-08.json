@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "updatedAt": "2026-07-09T06:34:16.035Z",
+  "updatedAt": "2026-07-09T09:42:39.643Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQSXJzbFNMbVNYR0NscUJmSXZLN05odG5VUFVZbUdtVjZMektxc0VTMDNXVjlkSW05WE9JNXNjMnVLN1cwekpLZmpQNHZDaHJXMDE3VXZYSXBYVnhFVFhaUW9wRDk2ZXBMZFo5VWJncS14alZ4S0h5c282ajA3SW9VU0pmWkVXMWQz",
@@ -17,15 +17,7 @@
           "status": "高檔修正",
           "dist": -10.7,
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "7/8",
-            "7/7",
-            "7/6",
-            "7/3",
-            "7/2"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "4931",
@@ -34,15 +26,7 @@
           "status": "逼近新高",
           "dist": -4.2,
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "7/8",
-            "7/7",
-            "7/6",
-            "7/3",
-            "7/2"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6781",

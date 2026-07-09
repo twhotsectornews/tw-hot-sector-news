@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-09T14:34:16.038+08:00",
-  "generatedAt": "2026-07-09T06:34:16.038Z",
+  "asOf": "2026-07-09T17:42:39.647+08:00",
+  "generatedAt": "2026-07-09T09:42:39.647Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -44,6 +44,61 @@
         "7/8",
         "7/3"
       ]
+    },
+    {
+      "symbol": "1301",
+      "name": "台塑",
+      "days": 2,
+      "dates": [
+        "7/9",
+        "7/3"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/2"
+      ]
+    },
+    {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 2,
+      "dates": [
+        "7/9",
+        "7/3"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -9.3,
+      "limitUp": false
+    },
+    {
+      "symbol": "1326",
+      "name": "台化",
+      "days": 2,
+      "dates": [
+        "7/9",
+        "7/3"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "7/3",
+        "7/2"
+      ]
+    },
+    {
+      "symbol": "6505",
+      "name": "台塑化",
+      "days": 2,
+      "dates": [
+        "7/9",
+        "7/3"
+      ],
+      "mentions": 3,
+      "limitUp": false
     },
     {
       "symbol": "4541",
@@ -191,6 +246,105 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxOcVNNamZpWFVKX3RuNE1EcVhwRmVkLWhsMkF3aHZCTTFRUXR1MUxvRHljY2J6UTVBbGhEQUJfRmNYZTFpWjV5N3BrbFBNblJnc21raVI5YzJ1bnlFNEJhb19GSVRXTl9PZlM1N0dzV3JUOTQxOTBibk1BdjJsWEFwSHhoNlphLUYw",
+      "tkey": "熱門族群美伊和解油價回落台塑四寶6月營收分歧、台塑化最抗跌",
+      "title": "《熱門族群》美伊和解油價回落 台塑四寶6月營收分歧、台塑化最抗跌 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6234407001&PU=0031",
+      "source": "富聯網",
+      "pubDate": "Thu, 09 Jul 2026 07:20:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "6月營收月減",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/2"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "6月營收月減但電子材料強勁",
+          "status": "逼近新高",
+          "dist": -9.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "6月營收月增",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "7/3",
+            "7/2"
+          ]
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "6月營收月增一成",
+          "limitUp": false
+        }
+      ],
+      "background": "美伊和解導致油價回落，台塑四寶6月營收表現分歧，台塑化因煉廠定檢完成及原油到貨銷售量放大，營收最抗跌。",
+      "themeTags": [
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQaHpWYlFLRnZUQXl6cUFzTWZuekE5N2Q4b2xvZ2MwdXYxWk1GamdEMS1zWU9zdmJEV3ozMEJaUU9lYjZZWXVDeGRxRmVOWXZzRUdaRWx0ZFp0bVlETmtfS1ZQZmpjSE1ZQ3p2UkZhazRmRFBOYWFvRGNuc3FEMGVlTUxpVFhSZkZI",
+      "tkey": "熱門族群台塑四寶Q2合計大賺642億元南亞EPS創新高",
+      "title": "《熱門族群》台塑四寶Q2合計大賺642億元 南亞EPS創新高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6234312001&PU=0033",
+      "source": "富聯網",
+      "pubDate": "Thu, 09 Jul 2026 06:58:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "第二季本業轉虧為盈",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/2"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "第二季EPS創新高",
+          "status": "逼近新高",
+          "dist": -9.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "第二季獲利減少",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "7/3",
+            "7/2"
+          ]
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "第二季獲利略增",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶第二季受惠石化產品價格走揚、庫存利益及AI高階材料需求爆發，整體營運回溫，其中南亞在電子材料與轉投資雙引擎帶動下獲利創新高。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxQblFIMzBxaHBKUUxPYkNkcFl1RGhHUllMX2FBT1ZuSjJ2S09MTG51ZXdPbXBkWkgzZjhJdFJVVGNDU3lia1NsNGZpVG9jbVBScG5BZmxJVTZVUTV0ZUNqQ0tSNVlYR1d5djdGdGVUSnVhcmtQamJLb19pQlZWQV9nZXh3eGV3amJS",
       "tkey": "熱門族群SK海力士將赴美IPO台記憶體族群拉炮慶祝2檔攻頂",
       "title": "《熱門族群》SK海力士將赴美IPO 台記憶體族群拉炮慶祝 2檔攻頂 - 富聯網",
@@ -279,7 +433,16 @@
           "point": "6月營收亮眼激勵亮燈攻頂",
           "status": "逼近新高",
           "dist": -2.2,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 5,
+          "luwd": [
+            "7/8",
+            "7/7",
+            "7/6",
+            "7/3",
+            "7/2"
+          ]
         },
         {
           "symbol": "3532",
@@ -295,16 +458,7 @@
           "point": "大漲7%，逼近前高174元",
           "status": "逼近新高",
           "dist": -2.3,
-          "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "7/8",
-            "7/7",
-            "7/6",
-            "7/3",
-            "7/2"
-          ]
+          "limitUp": false
         }
       ],
       "background": "AI伺服器、高效能運算與先進製程需求持續擴大，市場提前反映矽晶圓需求改善與獲利回升空間，產業景氣復甦。",
@@ -362,7 +516,16 @@
           "point": "補漲急攻頂",
           "status": "逼近新高",
           "dist": -9.5,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "7/8",
+            "7/7",
+            "7/6",
+            "7/3",
+            "7/2"
+          ]
         },
         {
           "symbol": "3005",
@@ -540,16 +703,7 @@
           "point": "6月營收月增年增，表現突出",
           "status": "逼近新高",
           "dist": -7.1,
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "7/8",
-            "7/7",
-            "7/6",
-            "7/3",
-            "7/2"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "6202",
@@ -626,7 +780,16 @@
           "symbol": "8042",
           "name": "金山電",
           "point": "Q2營收創歷史新高",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "7/8",
+            "7/7",
+            "7/6",
+            "7/3",
+            "7/2"
+          ]
         },
         {
           "symbol": "2428",
@@ -739,15 +902,7 @@
           "status": "高檔修正",
           "dist": -10.7,
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "7/8",
-            "7/7",
-            "7/6",
-            "7/3",
-            "7/2"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "4931",
@@ -756,15 +911,7 @@
           "status": "逼近新高",
           "dist": -4.2,
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "7/8",
-            "7/7",
-            "7/6",
-            "7/3",
-            "7/2"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6781",
