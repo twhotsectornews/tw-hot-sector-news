@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-11T13:31:55.511+08:00",
-  "generatedAt": "2026-07-11T05:31:55.511Z",
+  "asOf": "2026-07-11T14:01:56.321+08:00",
+  "generatedAt": "2026-07-11T06:01:56.321Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -19,9 +19,10 @@
       "status": "逼近新高",
       "dist": -4.5,
       "limitUp": false,
-      "luw": 1,
+      "luw": 2,
       "luwd": [
-        "7/8"
+        "7/8",
+        "7/6"
       ]
     },
     {
@@ -154,6 +155,19 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE90VTMtTEJTMXdYaVd0bURQVVBIcnZsak54TlRlZEx6VVZsN3hMaXVmVUtMQzBkd1MxMzZlOWdlYnVUbk1sYm5vdkJwX0xLeVdXNS1zV1N3aXM",
+      "tkey": "熱門族群TouchTaiwan將登場！三利多加持面板雙虎成盤面焦點",
+      "title": "熱門族群》Touch Taiwan將登場！三利多加持面板雙虎成盤面焦點 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/6ymyhepvfwpz",
+      "source": "自由時報",
+      "pubDate": "Fri, 10 Jul 2026 21:00:11 GMT",
+      "stocks": [],
+      "background": "Touch Taiwan展覽將登場，預期將聚焦面板產業新技術與應用，為面板雙虎帶來利多，產業有望受惠於新技術發展。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiakFVX3lxTE1rVlk2MThrVUlSR3VGVDBNV1NxVmJaZUlQTkludkM1ZXgzbVRWNTNaaDFhdldrM1AxWFlWTS1fY1RIbUx4NTFxeDlwSXNqa1BiUi1hcEt1RFBoVlVGOHZlY0piOWtDemtsYWc",
       "tkey": "熱門族群石化旺季不旺？台塑四寶Q3展望分化南亞電子材料超搶戲-上市櫃",
@@ -414,11 +428,12 @@
           "dist": -2.2,
           "limitUp": true,
           "pct": 9.8,
-          "luw": 3,
+          "luw": 4,
           "luwd": [
             "7/9",
             "7/8",
-            "7/7"
+            "7/7",
+            "7/6"
           ]
         },
         {
@@ -459,9 +474,10 @@
           "status": "逼近新高",
           "dist": -4.5,
           "limitUp": false,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
-            "7/8"
+            "7/8",
+            "7/6"
           ]
         },
         {
@@ -492,11 +508,12 @@
           "dist": -9.5,
           "limitUp": true,
           "pct": 9.9,
-          "luw": 3,
+          "luw": 4,
           "luwd": [
             "7/9",
             "7/8",
-            "7/7"
+            "7/7",
+            "7/6"
           ]
         },
         {
@@ -746,11 +763,12 @@
           "point": "Q2營收創歷史新高",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 3,
+          "luw": 4,
           "luwd": [
             "7/9",
             "7/8",
-            "7/7"
+            "7/7",
+            "7/6"
           ]
         },
         {
@@ -842,78 +860,6 @@
       "background": "輝達下一代Rosa CPU傳採台積電A16製程，導入晶背供電技術，推升CMP製程與耗材需求，台積電提高在地化供應比重。",
       "themeTags": [
         "國際大廠",
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxQSXJzbFNMbVNYR0NscUJmSXZLN05odG5VUFVZbUdtVjZMektxc0VTMDNXVjlkSW05WE9JNXNjMnVLN1cwekpLZmpQNHZDaHJXMDE3VXZYSXBYVnhFVFhaUW9wRDk2ZXBMZFo5VWJncS14alZ4S0h5c282ajA3SW9VU0pmWkVXMWQz",
-      "tkey": "熱門族群45K保衛戰！BBU見火種2檔績優生攻頂插旗",
-      "title": "《熱門族群》45K保衛戰！BBU見火種 2檔績優生攻頂插旗 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6232204001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Wed, 08 Jul 2026 02:56:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3211",
-          "name": "順達",
-          "point": "亮燈觸頂、H1營收年增21.8%",
-          "status": "高檔修正",
-          "dist": -10.7,
-          "limitUp": true,
-          "pct": 9.9
-        },
-        {
-          "symbol": "4931",
-          "name": "新盛力",
-          "point": "亮燈觸頂、H1營收年增7成",
-          "status": "逼近新高",
-          "dist": -4.2,
-          "limitUp": true,
-          "pct": 9.9
-        },
-        {
-          "symbol": "6781",
-          "name": "AES-KY",
-          "point": "6月及H1營收寫歷史新高",
-          "limitUp": false
-        },
-        {
-          "symbol": "6121",
-          "name": "新普",
-          "point": "股價氣色紅潤、表現抗跌",
-          "status": "逼近新高",
-          "dist": -8.9,
-          "limitUp": false
-        },
-        {
-          "symbol": "3323",
-          "name": "加百裕",
-          "point": "股價氣色紅潤、表現抗跌",
-          "limitUp": false
-        },
-        {
-          "symbol": "5309",
-          "name": "系統電",
-          "point": "股價氣色紅潤、表現抗跌",
-          "limitUp": false
-        }
-      ],
-      "background": "BBU（大型不斷電系統）受惠於資料中心、AI伺服器等需求火熱，訂單規格提升，供應商積極擴產，產業景氣復甦。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTE9HZGZFVFJDS0I1Y2RZQW1xSDUtb29GUUx4a0hxUlBNMlp6TXFERWpUWXBrOGxRZXJBX19LSTc4SHR6Q0RabHZOY3Jienp2RmlGZV9BaUtTd0Q",
-      "tkey": "熱門族群低軌衛星產業發燒太空板PCB前景看俏",
-      "title": "熱門族群》低軌衛星產業發燒 太空板PCB前景看俏 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/j2srhbjxzeyj",
-      "source": "自由時報",
-      "pubDate": "Tue, 07 Jul 2026 22:20:30 GMT",
-      "stocks": [],
-      "background": "低軌衛星產業因全球通訊需求成長而發燒，相關PCB板材需求看漲，為新興太空科技應用帶來商機。",
-      "themeTags": [
         "需求驅動"
       ]
     }
