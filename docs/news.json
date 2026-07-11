@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-10T20:56:19.565+08:00",
-  "generatedAt": "2026-07-10T12:56:19.565Z",
+  "asOf": "2026-07-11T11:01:10.738+08:00",
+  "generatedAt": "2026-07-11T03:01:10.738Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -19,11 +19,10 @@
       "status": "逼近新高",
       "dist": -4.5,
       "limitUp": false,
-      "luw": 3,
+      "luw": 2,
       "luwd": [
         "7/8",
-        "7/6",
-        "7/3"
+        "7/6"
       ]
     },
     {
@@ -39,10 +38,9 @@
       "status": "逼近新高",
       "dist": -4.6,
       "limitUp": false,
-      "luw": 2,
+      "luw": 1,
       "luwd": [
-        "7/8",
-        "7/3"
+        "7/8"
       ]
     },
     {
@@ -154,43 +152,6 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "3189",
-      "name": "景碩",
-      "days": 2,
-      "dates": [
-        "7/6",
-        "7/4"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "6215",
-      "name": "和椿",
-      "days": 2,
-      "dates": [
-        "7/5",
-        "7/4"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2359",
-      "name": "所羅門",
-      "days": 2,
-      "dates": [
-        "7/5",
-        "7/4"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/2"
-      ]
     }
   ],
   "news": [
@@ -217,11 +178,7 @@
         {
           "symbol": "1326",
           "name": "台化",
-          "point": "油價落底，芳香烴展望佳",
-          "luw": 1,
-          "luwd": [
-            "7/3"
-          ]
+          "point": "油價落底，芳香烴展望佳"
         },
         {
           "symbol": "6505",
@@ -266,11 +223,7 @@
           "symbol": "1326",
           "name": "台化",
           "point": "6月營收月增1.0％",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/3"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "6505",
@@ -308,11 +261,7 @@
           "symbol": "1326",
           "name": "台化",
           "point": "6月營收月增",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/3"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "6505",
@@ -352,11 +301,7 @@
           "symbol": "1326",
           "name": "台化",
           "point": "第二季獲利減少",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/3"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "6505",
@@ -470,13 +415,12 @@
           "dist": -2.2,
           "limitUp": true,
           "pct": 9.8,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "7/9",
             "7/8",
             "7/7",
-            "7/6",
-            "7/3"
+            "7/6"
           ]
         },
         {
@@ -517,11 +461,10 @@
           "status": "逼近新高",
           "dist": -4.5,
           "limitUp": false,
-          "luw": 3,
+          "luw": 2,
           "luwd": [
             "7/8",
-            "7/6",
-            "7/3"
+            "7/6"
           ]
         },
         {
@@ -531,10 +474,9 @@
           "status": "逼近新高",
           "dist": -4.6,
           "limitUp": false,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "7/8",
-            "7/3"
+            "7/8"
           ]
         },
         {
@@ -553,13 +495,12 @@
           "dist": -9.5,
           "limitUp": true,
           "pct": 9.9,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "7/9",
             "7/8",
             "7/7",
-            "7/6",
-            "7/3"
+            "7/6"
           ]
         },
         {
@@ -572,11 +513,7 @@
           "symbol": "3004",
           "name": "豐達科",
           "point": "盤中漲逾5%",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/3"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "5371",
@@ -813,13 +750,12 @@
           "point": "Q2營收創歷史新高",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "7/9",
             "7/8",
             "7/7",
-            "7/6",
-            "7/3"
+            "7/6"
           ]
         },
         {
@@ -828,11 +764,7 @@
           "point": "Q2營收創歷史新高",
           "status": "逼近新高",
           "dist": -8.9,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/3"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3624",
