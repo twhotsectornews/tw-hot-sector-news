@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-12T14:02:46.794+08:00",
-  "generatedAt": "2026-07-12T06:02:46.794Z",
+  "asOf": "2026-07-12T15:59:13.519+08:00",
+  "generatedAt": "2026-07-12T07:59:13.519Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -237,6 +237,32 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOS0o1SGs4SVBPd2NaaS1wSkxSbTRxdnJ6MnBVWDBWYk5OWG9rREh5QnQzQ1UxYWVwcTJvekVFSmNBeGhNOWRtdEotWU53MlZhTU5kd2h3V2ZnenAyLS1XMDhzcXlaUHNFcEdRY2Z2dVZfQWtmdkRsMmdFTllZQ3NfcEtod2hTU3Vk",
+      "tkey": "熱門族群PCB製程用量增尖點、凱崴進補",
+      "title": "《熱門族群》PCB製程用量增 尖點、凱崴進補 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6235331001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sun, 12 Jul 2026 06:39:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6109",
+          "name": "尖點",
+          "point": "受惠產品組合改善與訂單外溢效應",
+          "limitUp": false
+        },
+        {
+          "symbol": "5498",
+          "name": "凱崴",
+          "point": "受惠產品組合改善與訂單外溢效應",
+          "limitUp": false
+        }
+      ],
+      "background": "AI伺服器PCB朝高層數、厚板及高階材料發展，帶動鑽孔製程難度與耗材需求提升，PCB鑽針用量增加。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiX0FVX3lxTE9OWDNhMV9pVEFrWUpNeElqU2kxaTA5a3ZJRXJ0bmZsazZmUWptNF9takRFbk1GODlKMEJDWXRZVTVxM1JfNkN2Q2lLODA2YkVzNFVsUXc2VGNMOG5yME400gFkQVVfeXFMUF92d2tXa005VDZrSFJzMXV5WjRzM3p0aGpjSXpwMnlaOVJOemhHdmN3UlhEbVNGa01vZTNHS1V5LUF3Y2syci03bXctRm9Nd1pHblo4TGlYdUdzRmVyNHAwU1hHTA",
       "tkey": "熱門族群矽晶圓迎最強復甦AI需求催動新一波漲價行情",
