@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-12T15:59:13.519+08:00",
-  "generatedAt": "2026-07-12T07:59:13.519Z",
+  "asOf": "2026-07-12T17:43:55.750+08:00",
+  "generatedAt": "2026-07-12T09:43:55.750Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -237,6 +237,17 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOUDVkSHZ1blFyNjJ5dFVzT0dtVWhBakFOVk9hWHNiUnJzbklNS01vLS1iNkhTZnRrdDhreF9rbVFSd1NkMnZ6SDBYYWlEUml1aExqcWRyTWFlQkFYYjJzcmd6V1RmUERKcFhoRG9haW9SdXZJcWFNdFE5OHRsREZhblJxWEpVQ2JN",
+      "tkey": "熱門族群供給吃緊載板三雄訂單上看2028年",
+      "title": "《熱門族群》供給吃緊 載板三雄訂單上看2028年 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6235351001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sun, 12 Jul 2026 08:11:00 GMT",
+      "stocks": [],
+      "background": "",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxOS0o1SGs4SVBPd2NaaS1wSkxSbTRxdnJ6MnBVWDBWYk5OWG9rREh5QnQzQ1UxYWVwcTJvekVFSmNBeGhNOWRtdEotWU53MlZhTU5kd2h3V2ZnenAyLS1XMDhzcXlaUHNFcEdRY2Z2dVZfQWtmdkRsMmdFTllZQ3NfcEtod2hTU3Vk",
       "tkey": "熱門族群PCB製程用量增尖點、凱崴進補",
