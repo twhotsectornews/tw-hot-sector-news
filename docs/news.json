@@ -1,11 +1,32 @@
 {
-  "asOf": "2026-07-13T11:02:36.724+08:00",
-  "generatedAt": "2026-07-13T03:02:36.724Z",
+  "asOf": "2026-07-13T12:03:44.261+08:00",
+  "generatedAt": "2026-07-13T04:03:44.261Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "6488",
+      "name": "環球晶",
+      "days": 3,
+      "dates": [
+        "7/13",
+        "7/12",
+        "7/9"
+      ],
+      "mentions": 4,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": false,
+      "luw": 4,
+      "luwd": [
+        "7/9",
+        "7/8",
+        "7/7",
+        "7/6"
+      ]
+    },
     {
       "symbol": "3532",
       "name": "台勝科",
@@ -15,7 +36,7 @@
         "7/12",
         "7/9"
       ],
-      "mentions": 3,
+      "mentions": 4,
       "status": "逼近新高",
       "dist": -3.8,
       "limitUp": false
@@ -29,32 +50,11 @@
         "7/12",
         "7/9"
       ],
-      "mentions": 3,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": false
-    },
-    {
-      "symbol": "6488",
-      "name": "環球晶",
-      "days": 3,
-      "dates": [
-        "7/13",
-        "7/12",
-        "7/9"
-      ],
-      "mentions": 3,
+      "mentions": 4,
       "status": "創新高",
       "dist": 0,
       "limitUp": true,
-      "pct": 10,
-      "luw": 4,
-      "luwd": [
-        "7/9",
-        "7/8",
-        "7/7",
-        "7/6"
-      ]
+      "pct": 9.9
     },
     {
       "symbol": "1303",
@@ -78,7 +78,8 @@
         "7/9"
       ],
       "mentions": 5,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "1326",
@@ -89,7 +90,8 @@
         "7/9"
       ],
       "mentions": 5,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "6505",
@@ -238,6 +240,129 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxOODhqU3VRQ1pZZENhQmF2QmNmQ0dwbHdmYkNZVHU3VGpacV9FM2xIdEVYYzVRbmk0ZE1oOXJNX0tnUkJjUm9xSGhVbGVJNUdZWktCakZKd0t6VUVHQjdLQ1Y0NFlwMFY0SGd1MEVTc2RoYU1IUHZKcWFQZjdyV0JHVXBjNHlTRFg1",
+      "tkey": "熱門族群所羅門鎖紅燈機器人要噴了？",
+      "title": "《熱門族群》所羅門鎖紅燈 機器人要噴了？ - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6236314001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 13 Jul 2026 03:23:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2359",
+          "name": "所羅門",
+          "point": "鎖紅燈，列入四足機器人國家隊",
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "跳空漲停，CPO訂單到手",
+          "limitUp": false
+        },
+        {
+          "symbol": "3498",
+          "name": "陽程",
+          "point": "觸頂，機器人概念股",
+          "limitUp": false
+        },
+        {
+          "symbol": "6609",
+          "name": "瀧澤科",
+          "point": "觸頂，機器人概念股",
+          "limitUp": false
+        },
+        {
+          "symbol": "4513",
+          "name": "福裕",
+          "point": "觸頂，機器人概念股",
+          "limitUp": false
+        },
+        {
+          "symbol": "3577",
+          "name": "泓格",
+          "point": "觸頂，機器人概念股",
+          "limitUp": false
+        }
+      ],
+      "background": "機器人產業受特斯拉人形機器人Optimus量產及美國、大陸業者IPO推進，全球市場由概念進階至量產，台灣政策亦全面啟動。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTE4wRXI0NVpLQV9fdXNwOEFBZ1M3NndGbnlnYVk1Njc4YWFyUUNIN3c1eTU2TkFLYlVlck50aVVES2FvZHRrY1M2aTNKWm9tUHkzYU9RZVRycmcxMktNSFhoRXhVbGtIa3gxbWc",
+      "tkey": "熱門族群矽晶圓族群齊亮燈攻頂環球晶飆新天價-上市櫃",
+      "title": "《熱門族群》矽晶圓族群齊亮燈攻頂環球晶飆新天價- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260713900275-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Mon, 13 Jul 2026 02:29:52 GMT",
+      "stocks": [
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "point": "飆新天價，與美光深化策略合作",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false,
+          "luw": 4,
+          "luwd": [
+            "7/9",
+            "7/8",
+            "7/7",
+            "7/6"
+          ]
+        },
+        {
+          "symbol": "5483",
+          "name": "中美晶",
+          "point": "亮燈漲停，營收登近2年高",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "3707",
+          "name": "漢磊",
+          "point": "亮燈漲停，營收成長動能增溫",
+          "limitUp": false
+        },
+        {
+          "symbol": "3016",
+          "name": "嘉晶",
+          "point": "亮燈漲停，營運預期有不錯表現",
+          "status": "高檔修正",
+          "dist": -12.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "亮燈漲停，營收雙創近2年半高",
+          "status": "逼近新高",
+          "dist": -3.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "6182",
+          "name": "合晶",
+          "point": "亮燈漲停，衝上18年半高",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 9.9
+        }
+      ],
+      "background": "矽晶圓族群受惠AI復甦帶動先進製程需求，環球晶與美光深化合作，產業市況需求復甦，營運成長動能持續增溫。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxOZUUtb0M0X3Ywc0Utai1SVXloZnR3b1ljUmZCTFozVnZYVnBUSHV4WHBwQjN1SUJGTlQ4LXZVWEQ2UTctMV9Ma0thSjZDUlk4TlNrZTZaR0k4UzJBUEpnM2FtX1FTVG1wWjcyU2JDX1ByUGZaeElsd1J4RHlXckp4am41X2tUbTVM",
       "tkey": "熱門族群矽晶圓族群齊亮燈攻頂環球晶飆新天價",
       "title": "《熱門族群》矽晶圓族群齊亮燈攻頂 環球晶飆新天價 - 富聯網",
@@ -251,8 +376,7 @@
           "point": "股價亮燈漲停",
           "status": "高檔修正",
           "dist": -12.7,
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "3532",
@@ -274,7 +398,8 @@
           "point": "股價亮燈漲停",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "6182",
@@ -282,7 +407,8 @@
           "point": "股價亮燈漲停",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6488",
@@ -290,8 +416,7 @@
           "point": "股價亮燈漲停，飆新天價",
           "status": "創新高",
           "dist": 0,
-          "limitUp": true,
-          "pct": 10,
+          "limitUp": false,
           "luw": 4,
           "luwd": [
             "7/9",
@@ -378,13 +503,15 @@
           "symbol": "1301",
           "name": "台塑",
           "point": "同步亮燈漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "1326",
           "name": "台化",
           "point": "同步亮燈漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "6505",
