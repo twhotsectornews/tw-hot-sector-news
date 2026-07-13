@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-13T13:03:21.299+08:00",
-  "generatedAt": "2026-07-13T05:03:21.299Z",
+  "asOf": "2026-07-13T14:01:14.615+08:00",
+  "generatedAt": "2026-07-13T06:01:14.615Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -163,6 +163,48 @@
       "limitUp": false
     },
     {
+      "symbol": "8046",
+      "name": "南電",
+      "days": 2,
+      "dates": [
+        "7/13",
+        "7/12"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -4.9,
+      "luw": 1,
+      "luwd": [
+        "7/9"
+      ]
+    },
+    {
+      "symbol": "3037",
+      "name": "欣興",
+      "days": 2,
+      "dates": [
+        "7/13",
+        "7/12"
+      ],
+      "mentions": 2
+    },
+    {
+      "symbol": "3189",
+      "name": "景碩",
+      "days": 2,
+      "dates": [
+        "7/13",
+        "7/12"
+      ],
+      "mentions": 2,
+      "status": "高檔修正",
+      "dist": -12.8,
+      "luw": 1,
+      "luwd": [
+        "7/8"
+      ]
+    },
+    {
       "symbol": "2408",
       "name": "南亞科",
       "days": 2,
@@ -238,6 +280,54 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPcnJPSnVKcDZ0SEpidzI5TXVkazJZMmx3RW5DNFhZM3Q1TzFNSVBCRVNyYlE3WGoxREdlTFVyYTBreThJd0NOTjVIM25neTVkQThpMU9ub3ViOW8zRU9PM2RfSnVmMml0NElVYllWSURDNGZ5MDF2Y3daM0s0STB1ZUxnbW1kdHFZ",
+      "tkey": "熱門族群缺口擴大載板族群嗨漲2檔先亮燈",
+      "title": "《熱門族群》缺口擴大 載板族群嗨漲 2檔先亮燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6236386001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 13 Jul 2026 04:21:00 GMT",
+      "stocks": [
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "亮漲停燈",
+          "status": "逼近新高",
+          "dist": -4.9,
+          "luw": 1,
+          "luwd": [
+            "7/9"
+          ]
+        },
+        {
+          "symbol": "4958",
+          "name": "臻鼎-KY",
+          "point": "亮漲停燈",
+          "status": "逼近新高",
+          "dist": -2
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "漲逾8%"
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "勁揚逾半根",
+          "status": "高檔修正",
+          "dist": -12.8,
+          "luw": 1,
+          "luwd": [
+            "7/8"
+          ]
+        }
+      ],
+      "background": "載板產業受GPU、ASIC及伺服器CPU平台升級帶動，ABF載板供不應求，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOODhqU3VRQ1pZZENhQmF2QmNmQ0dwbHdmYkNZVHU3VGpacV9FM2xIdEVYYzVRbmk0ZE1oOXJNX0tnUkJjUm9xSGhVbGVJNUdZWktCakZKd0t6VUVHQjdLQ1Y0NFlwMFY0SGd1MEVTc2RoYU1IUHZKcWFQZjdyV0JHVXBjNHlTRFg1",
       "tkey": "熱門族群所羅門鎖紅燈機器人要噴了？",
@@ -550,6 +640,19 @@
       "themeTags": [
         "需求驅動",
         "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTFBITlVYN0ZDUXk3c18tdzNzX2VIXzhhMUlpZ0pBLVpmMllMZGdIdlB3SzVySFRTVk9sREV5S2dHN0h6Wm8yVDRrUWpGZWtMWXpJeGJGbHFzZW0",
+      "tkey": "熱門族群AIASIC訂單強勁矽智財族群蓄勢待發",
+      "title": "熱門族群》AI ASIC訂單強勁 矽智財族群蓄勢待發 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/ubmjyhj3tbmq",
+      "source": "自由時報",
+      "pubDate": "Sun, 12 Jul 2026 17:15:53 GMT",
+      "stocks": [],
+      "background": "AI ASIC訂單強勁，矽智財族群受惠於AI晶片設計需求，產業前景看好。",
+      "themeTags": [
+        "需求驅動"
       ]
     },
     {
