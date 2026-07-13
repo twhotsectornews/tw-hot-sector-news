@@ -1,0 +1,166 @@
+{
+  "date": "2026-07-12",
+  "updatedAt": "2026-07-13T03:02:36.718Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOUDVkSHZ1blFyNjJ5dFVzT0dtVWhBakFOVk9hWHNiUnJzbklNS01vLS1iNkhTZnRrdDhreF9rbVFSd1NkMnZ6SDBYYWlEUml1aExqcWRyTWFlQkFYYjJzcmd6V1RmUERKcFhoRG9haW9SdXZJcWFNdFE5OHRsREZhblJxWEpVQ2JN",
+      "tkey": "熱門族群供給吃緊載板三雄訂單上看2028年",
+      "title": "《熱門族群》供給吃緊 載板三雄訂單上看2028年 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6235351001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sun, 12 Jul 2026 08:11:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "ABF載板訂單能見度提升",
+          "limitUp": false
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "ABF載板訂單能見度提升",
+          "status": "逼近新高",
+          "dist": -5.4,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "7/9"
+          ]
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "ABF載板訂單能見度提升",
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -11.5,
+          "luw": 1,
+          "luwd": [
+            "7/8"
+          ]
+        }
+      ],
+      "background": "AI晶片朝大型化、多晶粒及高層數封裝發展，帶動ABF載板需求面積與層數同步增加，產業供給吃緊，訂單能見度高。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOS0o1SGs4SVBPd2NaaS1wSkxSbTRxdnJ6MnBVWDBWYk5OWG9rREh5QnQzQ1UxYWVwcTJvekVFSmNBeGhNOWRtdEotWU53MlZhTU5kd2h3V2ZnenAyLS1XMDhzcXlaUHNFcEdRY2Z2dVZfQWtmdkRsMmdFTllZQ3NfcEtod2hTU3Vk",
+      "tkey": "熱門族群PCB製程用量增尖點、凱崴進補",
+      "title": "《熱門族群》PCB製程用量增 尖點、凱崴進補 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6235331001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sun, 12 Jul 2026 06:39:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6109",
+          "name": "尖點",
+          "point": "受惠產品組合改善與訂單外溢效應",
+          "limitUp": false
+        },
+        {
+          "symbol": "5498",
+          "name": "凱崴",
+          "point": "受惠產品組合改善與訂單外溢效應",
+          "limitUp": false
+        }
+      ],
+      "background": "AI伺服器PCB朝高層數、厚板及高階材料發展，帶動鑽孔製程難度與耗材需求提升，PCB鑽針用量增加。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiX0FVX3lxTE9OWDNhMV9pVEFrWUpNeElqU2kxaTA5a3ZJRXJ0bmZsazZmUWptNF9takRFbk1GODlKMEJDWXRZVTVxM1JfNkN2Q2lLODA2YkVzNFVsUXc2VGNMOG5yME400gFkQVVfeXFMUF92d2tXa005VDZrSFJzMXV5WjRzM3p0aGpjSXpwMnlaOVJOemhHdmN3UlhEbVNGa01vZTNHS1V5LUF3Y2syci03bXctRm9Nd1pHblo4TGlYdUdzRmVyNHAwU1hHTA",
+      "tkey": "熱門族群矽晶圓迎最強復甦AI需求催動新一波漲價行情",
+      "title": "熱門族群》矽晶圓迎最強復甦 AI需求催動新一波漲價行情 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5501073",
+      "source": "自由財經",
+      "pubDate": "Sat, 11 Jul 2026 23:31:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "point": "股價逆勢揚升，一度創1380元新天價",
+          "status": "逼近新高",
+          "dist": -2.2,
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 4,
+          "luwd": [
+            "7/9",
+            "7/8",
+            "7/7",
+            "7/6"
+          ]
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "第二季營收衝上近10季高點",
+          "status": "高檔修正",
+          "dist": -12.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "6182",
+          "name": "合晶",
+          "point": "第二季營收創近14季以來新高",
+          "status": "逼近新高",
+          "dist": -1.4,
+          "limitUp": false
+        }
+      ],
+      "background": "矽晶圓產業受AI與先進製程需求強勁帶動，車用、工業等成熟製程也回溫，現貨價上漲，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiX0FVX3lxTFBJYUJoV3dvNHNjMFcwR2l1Y1Q1TDJJSmQxRGxwbVJ4WFp0U3dlZWdkOTNfUERta0d0VllXYVlwSUxDdW5NTHk5NktNbWU5LXN2Zm1paGJRc3c1ckFnanRj0gFkQVVfeXFMT2F0UzBLUWtDWEJDanJQU19jSmQ5SnhENUttbFpfUkd6QnlxOS1ueld3LUhvV0hoUzlYNmZoSEtkVXhQWjhpSGhJYWdDLVhKZnVCYU1GYkk3ZjA0TDBWYVZpNmJ0UQ",
+      "tkey": "熱門族群AI資料中心帶動BBU需求電池模組族群氣勢大振",
+      "title": "熱門族群》AI資料中心帶動BBU需求 電池模組族群氣勢大振 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5500571",
+      "source": "自由財經",
+      "pubDate": "Sat, 11 Jul 2026 23:00:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3211",
+          "name": "順達",
+          "point": "週漲13%最強，營運重心轉向BBU",
+          "status": "逼近新高",
+          "dist": -5.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "8038",
+          "name": "長園科",
+          "point": "週漲近11%，切入BBU商機",
+          "limitUp": false
+        },
+        {
+          "symbol": "4931",
+          "name": "新盛力",
+          "point": "漲逾7%，BBU營收比重持續提升",
+          "status": "高檔修正",
+          "dist": -10.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "6781",
+          "name": "AES-KY",
+          "point": "6月營收創單月新高，積極耕耘BBU",
+          "limitUp": false
+        }
+      ],
+      "background": "AI資料中心功率密度提升，帶動BBU（電池備援電力模組）需求，BBU供應鏈產品升級，營運持續向上。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}
