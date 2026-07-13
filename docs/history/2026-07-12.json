@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "updatedAt": "2026-07-13T06:04:45.496Z",
+  "updatedAt": "2026-07-13T09:00:44.106Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOUDVkSHZ1blFyNjJ5dFVzT0dtVWhBakFOVk9hWHNiUnJzbklNS01vLS1iNkhTZnRrdDhreF9rbVFSd1NkMnZ6SDBYYWlEUml1aExqcWRyTWFlQkFYYjJzcmd6V1RmUERKcFhoRG9haW9SdXZJcWFNdFE5OHRsREZhblJxWEpVQ2JN",
@@ -111,7 +111,14 @@
           "point": "第二季營收創近14季以來新高",
           "status": "逼近新高",
           "dist": -1.4,
-          "limitUp": false
+          "limitUp": false,
+          "luw": 4,
+          "luwd": [
+            "7/9",
+            "7/8",
+            "7/7",
+            "7/6"
+          ]
         }
       ],
       "background": "矽晶圓產業受AI與先進製程需求強勁帶動，車用、工業等成熟製程也回溫，現貨價上漲，產業景氣復甦。",

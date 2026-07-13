@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-13T14:04:45.499+08:00",
-  "generatedAt": "2026-07-13T06:04:45.499Z",
+  "asOf": "2026-07-13T17:00:44.109+08:00",
+  "generatedAt": "2026-07-13T09:00:44.109Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -56,7 +56,14 @@
       "status": "創新高",
       "dist": 0,
       "limitUp": true,
-      "pct": 9.9
+      "pct": 9.9,
+      "luw": 4,
+      "luwd": [
+        "7/9",
+        "7/8",
+        "7/7",
+        "7/6"
+      ]
     },
     {
       "symbol": "1303",
@@ -66,7 +73,7 @@
         "7/13",
         "7/9"
       ],
-      "mentions": 5,
+      "mentions": 6,
       "status": "創新高",
       "dist": -0.2,
       "limitUp": true,
@@ -80,7 +87,7 @@
         "7/13",
         "7/9"
       ],
-      "mentions": 5,
+      "mentions": 6,
       "limitUp": true,
       "pct": 9.9
     },
@@ -92,7 +99,7 @@
         "7/13",
         "7/9"
       ],
-      "mentions": 5,
+      "mentions": 6,
       "limitUp": false
     },
     {
@@ -103,7 +110,7 @@
         "7/13",
         "7/9"
       ],
-      "mentions": 5,
+      "mentions": 6,
       "limitUp": false
     },
     {
@@ -372,14 +379,28 @@
           "name": "瀧澤科",
           "point": "觸頂，機器人概念股",
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "luw": 4,
+          "luwd": [
+            "7/9",
+            "7/8",
+            "7/7",
+            "7/6"
+          ]
         },
         {
           "symbol": "4513",
           "name": "福裕",
           "point": "觸頂，機器人概念股",
           "limitUp": true,
-          "pct": 9.8
+          "pct": 9.8,
+          "luw": 4,
+          "luwd": [
+            "7/9",
+            "7/8",
+            "7/7",
+            "7/6"
+          ]
         },
         {
           "symbol": "3577",
@@ -426,7 +447,14 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "luw": 4,
+          "luwd": [
+            "7/9",
+            "7/8",
+            "7/7",
+            "7/6"
+          ]
         },
         {
           "symbol": "3707",
@@ -459,7 +487,14 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "luw": 4,
+          "luwd": [
+            "7/9",
+            "7/8",
+            "7/7",
+            "7/6"
+          ]
         }
       ],
       "background": "矽晶圓族群受惠AI復甦帶動先進製程需求，環球晶與美光深化合作，產業市況需求復甦，營運成長動能持續增溫。",
@@ -508,7 +543,14 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "luw": 4,
+          "luwd": [
+            "7/9",
+            "7/8",
+            "7/7",
+            "7/6"
+          ]
         },
         {
           "symbol": "6182",
@@ -517,7 +559,14 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "luw": 4,
+          "luwd": [
+            "7/9",
+            "7/8",
+            "7/7",
+            "7/6"
+          ]
         },
         {
           "symbol": "6488",
@@ -594,6 +643,49 @@
       ]
     },
     {
+      "gid": "CBMiakFVX3lxTE9xMkVOc1lCUlkxd215bzJhZUh0QUtSYzJUT0hOYlBwNC1Id1ZVdFpwYV9KSGZMTkN5WjBYZGZOdmlfX0g2NjYxQm51UlpzQ2JYUmE5VUp3ZjhvSmdVMld0VTI5cjdtX2otbUE",
+      "tkey": "熱門族群南亞掀漲停潮台塑四寶全面噴出-上市櫃",
+      "title": "《熱門族群》南亞掀漲停潮台塑四寶全面噴出- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260713900256-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Mon, 13 Jul 2026 02:04:52 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "第二季財報亮眼，股價攻上漲停",
+          "status": "創新高",
+          "dist": -0.2,
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "同步亮燈漲停",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "同步亮燈漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "盤中漲幅高達9%",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶受惠AI高階電子材料需求強勁及轉投資收益挹注，第二季營運明顯回升，整體石化景氣逐步復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxOdW1uU0lWMkxPS2RkUGtzUDlpbmRpNlhQXzRmbnNDSmNaRzAwNl9oeXBFSDhvY3Z0c0N1aG51YjEtZHZ4bGwxaVlKUnJVTk5mQkIxenBWQWR2cWt4c001MGFSRWdidlhYd0hLbS14bXZCTi1mcEN3R0QxWms3MVBFMDdfek1YaTJI",
       "tkey": "熱門族群南亞掀漲停潮台塑四寶全面噴出",
       "title": "《熱門族群》南亞掀漲停潮 台塑四寶全面噴出 - 富聯網",
@@ -631,6 +723,35 @@
         }
       ],
       "background": "台塑四寶受惠AI高階電子材料需求強勁，加上美伊戰爭導致石化原料供應吃緊、油價走揚，帶動第二季營運明顯回升，成功扭轉虧損局面。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTE1MRHRFU25MQVpWVGYxN0J5RkdBajVUUTgxdkhTX2V1VWpyOTk3aDl0cWhRZ2RaRVYyelBJdmpidV9WeXpRaWItTkdRRzZack82b2dhYno2YjdadF9pM0x4RzJ1UThNVjJSRlE",
+      "tkey": "熱門族群客貨運雙引擎催動航空雙雄6月營收創新高-上市櫃",
+      "title": "《熱門族群》客貨運雙引擎催動航空雙雄6月營收創新高- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260713900128-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Mon, 13 Jul 2026 00:44:51 GMT",
+      "stocks": [
+        {
+          "symbol": "2618",
+          "name": "長榮航",
+          "point": "6月客貨運營收創歷史新高",
+          "status": "逼近新高",
+          "dist": -9.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "2610",
+          "name": "華航",
+          "point": "6月合併營收創單月新高",
+          "limitUp": false
+        }
+      ],
+      "background": "航空雙雄受惠暑假出遊潮帶動客運需求，以及AI供應鏈相關產品推升貨運量能，客貨運雙引擎營收創高。",
       "themeTags": [
         "需求驅動",
         "循環位置"
@@ -787,7 +908,14 @@
           "point": "第二季營收創近14季以來新高",
           "status": "逼近新高",
           "dist": -1.4,
-          "limitUp": false
+          "limitUp": false,
+          "luw": 4,
+          "luwd": [
+            "7/9",
+            "7/8",
+            "7/7",
+            "7/6"
+          ]
         }
       ],
       "background": "矽晶圓產業受AI與先進製程需求強勁帶動，車用、工業等成熟製程也回溫，現貨價上漲，產業景氣復甦。",
