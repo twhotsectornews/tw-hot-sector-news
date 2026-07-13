@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-13T12:03:44.261+08:00",
-  "generatedAt": "2026-07-13T04:03:44.261Z",
+  "asOf": "2026-07-13T13:03:21.299+08:00",
+  "generatedAt": "2026-07-13T05:03:21.299Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -90,8 +90,7 @@
         "7/9"
       ],
       "mentions": 5,
-      "limitUp": true,
-      "pct": 10
+      "limitUp": false
     },
     {
       "symbol": "6505",
@@ -269,7 +268,8 @@
           "symbol": "6609",
           "name": "瀧澤科",
           "point": "觸頂，機器人概念股",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "4513",
@@ -320,8 +320,7 @@
           "point": "亮燈漲停，營收登近2年高",
           "status": "創新高",
           "dist": 0,
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "3707",
@@ -398,8 +397,7 @@
           "point": "股價亮燈漲停",
           "status": "創新高",
           "dist": 0,
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "6182",
@@ -510,8 +508,7 @@
           "symbol": "1326",
           "name": "台化",
           "point": "同步亮燈漲停",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "6505",
