@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-13T14:01:14.615+08:00",
-  "generatedAt": "2026-07-13T06:01:14.615Z",
+  "asOf": "2026-07-13T14:04:45.499+08:00",
+  "generatedAt": "2026-07-13T06:04:45.499Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -18,7 +18,8 @@
       "mentions": 4,
       "status": "創新高",
       "dist": 0,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 4,
       "luwd": [
         "7/9",
@@ -39,7 +40,8 @@
       "mentions": 4,
       "status": "逼近新高",
       "dist": -3.8,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "6182",
@@ -67,7 +69,8 @@
       "mentions": 5,
       "status": "創新高",
       "dist": -0.2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "1301",
@@ -173,6 +176,7 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -4.9,
+      "limitUp": false,
       "luw": 1,
       "luwd": [
         "7/9"
@@ -186,7 +190,8 @@
         "7/13",
         "7/12"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "3189",
@@ -199,6 +204,7 @@
       "mentions": 2,
       "status": "高檔修正",
       "dist": -12.8,
+      "limitUp": false,
       "luw": 1,
       "luwd": [
         "7/8"
@@ -291,9 +297,10 @@
         {
           "symbol": "8046",
           "name": "南電",
-          "point": "亮漲停燈",
+          "point": "載板族群受惠缺口擴大亮燈",
           "status": "逼近新高",
           "dist": -4.9,
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "7/9"
@@ -302,30 +309,35 @@
         {
           "symbol": "4958",
           "name": "臻鼎-KY",
-          "point": "亮漲停燈",
+          "point": "載板族群受惠缺口擴大亮燈",
           "status": "逼近新高",
-          "dist": -2
+          "dist": -2,
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "3037",
           "name": "欣興",
-          "point": "漲逾8%"
+          "point": "載板族群受惠缺口擴大漲逾8%",
+          "limitUp": false
         },
         {
           "symbol": "3189",
           "name": "景碩",
-          "point": "勁揚逾半根",
+          "point": "載板族群受惠缺口擴大勁揚逾半根",
           "status": "高檔修正",
           "dist": -12.8,
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "7/8"
           ]
         }
       ],
-      "background": "載板產業受GPU、ASIC及伺服器CPU平台升級帶動，ABF載板供不應求，產業景氣復甦。",
+      "background": "GPU、ASIC及伺服器CPU平台升級帶動ABF載板需求強勁，供不應求缺口擴大，報價走升，訂單能見度已達2028年。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "循環位置"
       ]
     },
     {
@@ -346,7 +358,8 @@
           "symbol": "3008",
           "name": "大立光",
           "point": "跳空漲停，CPO訂單到手",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "3498",
@@ -365,7 +378,8 @@
           "symbol": "4513",
           "name": "福裕",
           "point": "觸頂，機器人概念股",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "3577",
@@ -395,7 +409,8 @@
           "point": "飆新天價，與美光深化策略合作",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 4,
           "luwd": [
             "7/9",
@@ -410,7 +425,8 @@
           "point": "亮燈漲停，營收登近2年高",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "3707",
@@ -424,7 +440,8 @@
           "point": "亮燈漲停，營運預期有不錯表現",
           "status": "高檔修正",
           "dist": -12.7,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "3532",
@@ -432,7 +449,8 @@
           "point": "亮燈漲停，營收雙創近2年半高",
           "status": "逼近新高",
           "dist": -3.8,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6182",
@@ -465,7 +483,8 @@
           "point": "股價亮燈漲停",
           "status": "高檔修正",
           "dist": -12.7,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "3532",
@@ -473,7 +492,8 @@
           "point": "股價亮燈漲停",
           "status": "逼近新高",
           "dist": -3.8,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "3707",
@@ -487,7 +507,8 @@
           "point": "股價亮燈漲停",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "6182",
@@ -504,7 +525,8 @@
           "point": "股價亮燈漲停，飆新天價",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 4,
           "luwd": [
             "7/9",
@@ -585,7 +607,8 @@
           "point": "股價攻上漲停",
           "status": "創新高",
           "dist": -0.2,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "1301",
