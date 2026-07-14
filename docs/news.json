@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-14T12:03:01.271+08:00",
-  "generatedAt": "2026-07-14T04:03:01.271Z",
+  "asOf": "2026-07-14T13:03:39.907+08:00",
+  "generatedAt": "2026-07-14T05:03:39.907Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -185,6 +185,39 @@
       "limitUp": false
     },
     {
+      "symbol": "3481",
+      "name": "群創",
+      "days": 2,
+      "dates": [
+        "7/14",
+        "7/9"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2409",
+      "name": "友達",
+      "days": 2,
+      "dates": [
+        "7/14",
+        "7/9"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "5371",
+      "name": "中光電",
+      "days": 2,
+      "dates": [
+        "7/14",
+        "7/9"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "8383",
       "name": "千附",
       "days": 2,
@@ -195,7 +228,8 @@
       "mentions": 2,
       "status": "創新高",
       "dist": 0,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 4,
       "luwd": [
         "7/13",
@@ -370,6 +404,50 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxOY1FnWnZaekRtc2lpR3RJUmFNTE5fVnphY3VOTV9kZGdCdF9tVmJpaE55QXhVRVhoQ3JmOE13UzlpLUg5UkY1MnJEZS1JLTFLVjVHVmNyeDA1bHc3eDFwbjZZQWxTOXVFeVVDU1NnYVQ0V3lXS2VKTmJtNHpMX3N0WmVCNjJXMmpP",
+      "tkey": "熱門族群群創殺跌停！面板綠光罩頂1檔無人機概念逆飛5%",
+      "title": "《熱門族群》群創殺跌停！面板綠光罩頂 1檔無人機概念逆飛5% - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6237770001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 14 Jul 2026 03:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "point": "CoPoS技術為AI晶片先進封裝重要夥伴",
+          "limitUp": false
+        },
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "MicroLED CPO模組等光通訊題材增溫",
+          "limitUp": false
+        },
+        {
+          "symbol": "6116",
+          "name": "彩晶",
+          "point": "第二季營收季增1.82％",
+          "limitUp": false
+        },
+        {
+          "symbol": "2429",
+          "name": "銘旺科",
+          "point": "搭上無人機題材逆勢強彈5%",
+          "limitUp": false
+        },
+        {
+          "symbol": "5371",
+          "name": "中光電",
+          "point": "搭上無人機題材相對抗跌",
+          "limitUp": false
+        }
+      ],
+      "background": "面板產業受消費電子關鍵零件漲價影響，下半年展望保守；無人機概念股則因題材發酵而相對抗跌。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMikgFBVV95cUxNbGRQLTZYcVdEOG1vN3RaSjBHOWhtOFNOMkozMnRkR0tNOUc0MXBRekxGTUNZWlVDdUJTa2NJeHlhRzBxR2NjbE02Q3FKVjJrbGUzWlRzX0lhSGVJdGcyeXZmLTd4SVNMN2ZscDdkYkF3amxjLU5ZVlpwNTVjNmU4RVNONnhBeHVucnRVb2Q5TjRsUQ",
       "tkey": "熱門族群資金轉進綠能躲空襲太陽能兩檔強勢矽晶圓指標1利多",
       "title": "《熱門族群》資金轉進綠能躲空襲 太陽能兩檔強勢 矽晶圓指標1利多 - 富聯網",
@@ -445,7 +523,8 @@
           "point": "亮燈攻頂，月飆3成",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "7/13"
@@ -457,7 +536,8 @@
           "point": "亮燈攻頂",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 4,
           "luwd": [
             "7/13",
@@ -476,7 +556,9 @@
           "symbol": "6829",
           "name": "千附精密",
           "point": "亮燈攻頂",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -9.3
         },
         {
           "symbol": "6928",
@@ -766,6 +848,20 @@
       "background": "電信三雄上半年營運表現亮眼，受惠資通訊業務、手機銷售、電信本業穩健成長，以及企業專案、數位生活業務挹注。",
       "themeTags": [
         "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE1KRTV3bGdxeFpKLTBURldqM0JoeWZrM3p2RTYzbi1GYU5DVTVOVUFmeHdtRTZNME1CZHpaeE1IalZ4c3dlYkpaczEyZmRIQmFkYnl3dko5bDM",
+      "tkey": "熱門族群汽車零組件帶量長紅防漲多拉回修正",
+      "title": "熱門族群》汽車零組件帶量長紅 防漲多拉回修正 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/6eqsjzymmmwb",
+      "source": "自由時報",
+      "pubDate": "Mon, 13 Jul 2026 16:55:11 GMT",
+      "stocks": [],
+      "background": "汽車零組件產業受惠於全球車市復甦與電動車滲透率提升，需求持續增長，但需留意短期漲多後的修正風險。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
       ]
     },
     {

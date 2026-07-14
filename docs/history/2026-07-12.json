@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "updatedAt": "2026-07-14T04:03:01.268Z",
+  "updatedAt": "2026-07-14T05:03:39.904Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOUDVkSHZ1blFyNjJ5dFVzT0dtVWhBakFOVk9hWHNiUnJzbklNS01vLS1iNkhTZnRrdDhreF9rbVFSd1NkMnZ6SDBYYWlEUml1aExqcWRyTWFlQkFYYjJzcmd6V1RmUERKcFhoRG9haW9SdXZJcWFNdFE5OHRsREZhblJxWEpVQ2JN",
@@ -13,14 +13,14 @@
         {
           "symbol": "3037",
           "name": "欣興",
-          "point": "營運能見度同步提升"
+          "point": "載板三雄之一，營運能見度提升"
         },
         {
           "symbol": "8046",
           "name": "南電",
-          "point": "營運能見度同步提升",
+          "point": "載板三雄之一，營運能見度提升",
           "status": "逼近新高",
-          "dist": -8.8,
+          "dist": -2.3,
           "luw": 1,
           "luwd": [
             "7/9"
@@ -29,14 +29,14 @@
         {
           "symbol": "3189",
           "name": "景碩",
-          "point": "營運能見度同步提升",
+          "point": "載板三雄之一，營運能見度提升",
           "luw": 1,
           "luwd": [
             "7/8"
           ]
         }
       ],
-      "background": "AI晶片大型化、多晶粒及高層數封裝趨勢，使單顆晶片ABF載板面積與層數同步增加，導致ABF載板供給吃緊，訂單能見度上看2028年。",
+      "background": "AI晶片大型化、多晶粒及高層數封裝，帶動ABF載板需求，產業供給吃緊，訂單能見度延伸至2028年。",
       "themeTags": [
         "需求驅動",
         "循環位置"
@@ -77,7 +77,7 @@
       "pubDate": "Sun, 12 Jul 2026 06:39:00 GMT",
       "stocks": [
         {
-          "symbol": "6108",
+          "symbol": "3305",
           "name": "尖點",
           "point": "高階鍍膜鑽針占比已超過五成"
         },
@@ -87,7 +87,7 @@
           "point": "可望承接部分中低階白針需求"
         }
       ],
-      "background": "AI伺服器PCB朝高層數、厚板及高階材料發展，導致鑽孔製程難度與耗材需求提升，特別是高階鑽針用量增加，帶動相關供應商受惠。",
+      "background": "AI伺服器PCB朝高層數、厚板及高階材料發展，帶動鑽孔製程難度與耗材需求提升，鑽針雙雄受惠產品組合改善。",
       "themeTags": [
         "需求驅動"
       ]
