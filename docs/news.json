@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-14T13:22:00.750+08:00",
-  "generatedAt": "2026-07-14T05:22:00.750Z",
+  "asOf": "2026-07-14T14:03:00.292+08:00",
+  "generatedAt": "2026-07-14T06:03:00.292Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -126,6 +126,45 @@
       "limitUp": false
     },
     {
+      "symbol": "3045",
+      "name": "台灣大",
+      "days": 2,
+      "dates": [
+        "7/14",
+        "7/9"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -9.2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2412",
+      "name": "中華電",
+      "days": 2,
+      "dates": [
+        "7/14",
+        "7/9"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -6.7,
+      "limitUp": false
+    },
+    {
+      "symbol": "4904",
+      "name": "遠傳",
+      "days": 2,
+      "dates": [
+        "7/14",
+        "7/9"
+      ],
+      "mentions": 4,
+      "status": "高檔修正",
+      "dist": -13,
+      "limitUp": false
+    },
+    {
       "symbol": "5483",
       "name": "中美晶",
       "days": 2,
@@ -144,45 +183,6 @@
         "7/8",
         "7/7"
       ]
-    },
-    {
-      "symbol": "3045",
-      "name": "台灣大",
-      "days": 2,
-      "dates": [
-        "7/14",
-        "7/9"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -10,
-      "limitUp": false
-    },
-    {
-      "symbol": "2412",
-      "name": "中華電",
-      "days": 2,
-      "dates": [
-        "7/14",
-        "7/9"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -7,
-      "limitUp": false
-    },
-    {
-      "symbol": "4904",
-      "name": "遠傳",
-      "days": 2,
-      "dates": [
-        "7/14",
-        "7/9"
-      ],
-      "mentions": 3,
-      "status": "高檔修正",
-      "dist": -12.8,
-      "limitUp": false
     },
     {
       "symbol": "3481",
@@ -228,7 +228,8 @@
       "mentions": 2,
       "status": "創新高",
       "dist": 0,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 4,
       "luwd": [
         "7/13",
@@ -268,7 +269,8 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -1.4,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "6770",
@@ -432,7 +434,8 @@
           "symbol": "2429",
           "name": "銘旺科",
           "point": "搭上無人機題材逆勢強彈5%",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "5371",
@@ -522,7 +525,8 @@
           "point": "亮燈攻頂，月飆3成",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "7/13"
@@ -534,7 +538,8 @@
           "point": "亮燈攻頂",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 4,
           "luwd": [
             "7/13",
@@ -547,15 +552,17 @@
           "symbol": "2630",
           "name": "亞航",
           "point": "亮燈攻頂",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6829",
           "name": "千附精密",
           "point": "亮燈攻頂",
-          "limitUp": false,
+          "limitUp": true,
           "status": "逼近新高",
-          "dist": -9.3
+          "dist": -9.3,
+          "pct": 9.9
         },
         {
           "symbol": "6928",
@@ -679,7 +686,8 @@
           "point": "6月營收改寫歷史新高",
           "status": "逼近新高",
           "dist": -1.4,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6150",
@@ -808,6 +816,42 @@
         "需求驅動",
         "循環位置"
       ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTFBVcVpvMk5GUGpQNnRlSVVrQXVSQ2VKb2hPRXhLQi1ZSVR2bWZZdjlONjBtWTVVR3ZCcjJjVTNtN1JwbEEzRGU3MDRLRUN6SF9vTGlUNjV0UmY3NGN1eVpoV0MzWVpOdnRkY0E",
+      "tkey": "熱門族群電信三雄H1獲利台灣大EPS2.86元奪冠、中華電遠傳超標-上市櫃",
+      "title": "《熱門族群》電信三雄H1獲利台灣大EPS 2.86元奪冠、中華電遠傳超標- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260714900066-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Mon, 13 Jul 2026 23:55:33 GMT",
+      "stocks": [
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "point": "上半年EPS 2.86元居冠",
+          "status": "逼近新高",
+          "dist": -9.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "2412",
+          "name": "中華電",
+          "point": "上半年EPS 2.68元超越財測",
+          "status": "逼近新高",
+          "dist": -6.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "point": "上半年EPS 2.14元超越財測",
+          "status": "高檔修正",
+          "dist": -13,
+          "limitUp": false
+        }
+      ],
+      "background": "電信三雄受惠資通訊業務、手機銷售及核心電信本業穩健成長，獲利表現亮眼，各項財務指標均超越年度財測目標。",
+      "themeTags": []
     },
     {
       "gid": "CBMikgFBVV95cUxOVHZMeFJRWXRwUnpxR2R2SlZLbW04ZjRxRTV2U0xDNG0zTXFUajFpUFdSWFlNVHNXQmFCTldDV1pDSUVjd0Rvb292aHZuendSSjZwM3d5U0kxTGhrV2VvTS02eUlfR2l0dVdYWTZNMEdKdVgxMHgyOE8xemdJTmM1eTgyMnZHa3l4eXJxZ1l5cUllQQ",
