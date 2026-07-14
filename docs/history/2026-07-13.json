@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "updatedAt": "2026-07-14T06:03:00.287Z",
+  "updatedAt": "2026-07-14T07:47:36.095Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPcnJPSnVKcDZ0SEpidzI5TXVkazJZMmx3RW5DNFhZM3Q1TzFNSVBCRVNyYlE3WGoxREdlTFVyYTBreThJd0NOTjVIM25neTVkQThpMU9ub3ViOW8zRU9PM2RfSnVmMml0NElVYllWSURDNGZ5MDF2Y3daM0s0STB1ZUxnbW1kdHFZ",
@@ -96,14 +96,7 @@
           "name": "瀧澤科",
           "point": "觸頂，機器人概念股",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 4,
-          "luwd": [
-            "7/13",
-            "7/9",
-            "7/8",
-            "7/7"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "4513",
@@ -148,14 +141,7 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "7/13",
-            "7/9",
-            "7/8",
-            "7/7"
-          ]
+          "pct": 10
         },
         {
           "symbol": "5483",
@@ -164,14 +150,7 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "7/13",
-            "7/9",
-            "7/8",
-            "7/7"
-          ]
+          "pct": 10
         },
         {
           "symbol": "3707",
@@ -212,14 +191,7 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 4,
-          "luwd": [
-            "7/13",
-            "7/9",
-            "7/8",
-            "7/7"
-          ]
+          "pct": 9.9
         }
       ],
       "background": "矽晶圓族群受惠AI復甦帶動先進製程需求，環球晶與美光深化合作，產業市況需求復甦，營運成長動能持續增溫。",
@@ -276,14 +248,7 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "7/13",
-            "7/9",
-            "7/8",
-            "7/7"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6182",
@@ -292,14 +257,7 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 4,
-          "luwd": [
-            "7/13",
-            "7/9",
-            "7/8",
-            "7/7"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6488",
@@ -308,14 +266,7 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "7/13",
-            "7/9",
-            "7/8",
-            "7/7"
-          ]
+          "pct": 10
         }
       ],
       "background": "矽晶圓族群受惠AI、HPC與數據中心應用帶動的先進記憶體需求成長，市況需求復甦，環球晶與美光深化合作，強化供應韌性。",
