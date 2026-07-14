@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "updatedAt": "2026-07-13T13:03:18.928Z",
+  "updatedAt": "2026-07-14T03:02:35.213Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOUDVkSHZ1blFyNjJ5dFVzT0dtVWhBakFOVk9hWHNiUnJzbklNS01vLS1iNkhTZnRrdDhreF9rbVFSd1NkMnZ6SDBYYWlEUml1aExqcWRyTWFlQkFYYjJzcmd6V1RmUERKcFhoRG9haW9SdXZJcWFNdFE5OHRsREZhblJxWEpVQ2JN",
@@ -91,10 +91,10 @@
           "pct": 9.8,
           "luw": 4,
           "luwd": [
+            "7/13",
             "7/9",
             "7/8",
-            "7/7",
-            "7/6"
+            "7/7"
           ]
         },
         {
@@ -103,7 +103,11 @@
           "point": "第二季營收衝上近10季高點",
           "status": "高檔修正",
           "dist": -12.5,
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
         },
         {
           "symbol": "6182",
@@ -114,10 +118,10 @@
           "limitUp": false,
           "luw": 4,
           "luwd": [
+            "7/13",
             "7/9",
             "7/8",
-            "7/7",
-            "7/6"
+            "7/7"
           ]
         }
       ],
