@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-14T11:02:35.216+08:00",
-  "generatedAt": "2026-07-14T03:02:35.216Z",
+  "asOf": "2026-07-14T12:03:01.271+08:00",
+  "generatedAt": "2026-07-14T04:03:01.271Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,17 +9,17 @@
     {
       "symbol": "6488",
       "name": "環球晶",
-      "days": 3,
+      "days": 4,
       "dates": [
+        "7/14",
         "7/13",
         "7/12",
         "7/9"
       ],
-      "mentions": 4,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": true,
-      "pct": 10,
+      "mentions": 5,
+      "status": "高檔修正",
+      "dist": -11.7,
+      "limitUp": false,
       "luw": 4,
       "luwd": [
         "7/13",
@@ -126,6 +126,26 @@
       "limitUp": false
     },
     {
+      "symbol": "5483",
+      "name": "中美晶",
+      "days": 2,
+      "dates": [
+        "7/14",
+        "7/13"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -5.7,
+      "limitUp": false,
+      "luw": 4,
+      "luwd": [
+        "7/13",
+        "7/9",
+        "7/8",
+        "7/7"
+      ]
+    },
+    {
       "symbol": "3045",
       "name": "台灣大",
       "days": 2,
@@ -163,6 +183,46 @@
       "status": "高檔修正",
       "dist": -12.8,
       "limitUp": false
+    },
+    {
+      "symbol": "8383",
+      "name": "千附",
+      "days": 2,
+      "dates": [
+        "7/14",
+        "7/9"
+      ],
+      "mentions": 2,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": false,
+      "luw": 4,
+      "luwd": [
+        "7/13",
+        "7/9",
+        "7/8",
+        "7/7"
+      ]
+    },
+    {
+      "symbol": "4541",
+      "name": "晟田",
+      "days": 2,
+      "dates": [
+        "7/14",
+        "7/9"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -5.8,
+      "limitUp": false,
+      "luw": 4,
+      "luwd": [
+        "7/13",
+        "7/9",
+        "7/8",
+        "7/7"
+      ]
     },
     {
       "symbol": "6907",
@@ -309,6 +369,166 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMikgFBVV95cUxNbGRQLTZYcVdEOG1vN3RaSjBHOWhtOFNOMkozMnRkR0tNOUc0MXBRekxGTUNZWlVDdUJTa2NJeHlhRzBxR2NjbE02Q3FKVjJrbGUzWlRzX0lhSGVJdGcyeXZmLTd4SVNMN2ZscDdkYkF3amxjLU5ZVlpwNTVjNmU4RVNONnhBeHVucnRVb2Q5TjRsUQ",
+      "tkey": "熱門族群資金轉進綠能躲空襲太陽能兩檔強勢矽晶圓指標1利多",
+      "title": "《熱門族群》資金轉進綠能躲空襲 太陽能兩檔強勢 矽晶圓指標1利多 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6237758001&pu=News_0002_2",
+      "source": "富聯網",
+      "pubDate": "Tue, 14 Jul 2026 03:41:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6477",
+          "name": "安集",
+          "point": "綠能概念股逆勢吸引買盤",
+          "limitUp": false
+        },
+        {
+          "symbol": "3576",
+          "name": "聯合再生",
+          "point": "綠能概念股逆勢吸引買盤",
+          "limitUp": false
+        },
+        {
+          "symbol": "6869",
+          "name": "雲豹能源",
+          "point": "稍早飆漲9.26%衝上75.5元",
+          "limitUp": false
+        },
+        {
+          "symbol": "5483",
+          "name": "中美晶",
+          "point": "兼具太陽能與半導體雙重題材",
+          "status": "逼近新高",
+          "dist": -5.7,
+          "limitUp": false,
+          "luw": 4,
+          "luwd": [
+            "7/13",
+            "7/9",
+            "7/8",
+            "7/7"
+          ]
+        },
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "point": "與美光簽署10年矽晶圓供貨協議",
+          "status": "高檔修正",
+          "dist": -11.7,
+          "limitUp": false,
+          "luw": 4,
+          "luwd": [
+            "7/13",
+            "7/9",
+            "7/8",
+            "7/7"
+          ]
+        }
+      ],
+      "background": "在台股大跌之際，資金轉進具政策與產業題材支撐的綠能概念股避險，其中太陽能與矽晶圓因個別利多消息受買盤青睞。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOdkhJbEx3NXBnRFhSTy1MS19TT2Q0VjI1TEVZVk9JQUhIbF90ZDdfUzFXcjVVQU1ycjhSb3VYVjNjWE9JMkwwMzZFOVFMV3JpWGU1Q2FsRGNOcjhLU3E5Zm14Y0RKcE1BWW5SNkRWaDRhVWo3ZFdiYlRRWENjYS1URmZIRWk1RHo1",
+      "tkey": "熱門族群無人機逆風飛！5檔強閃紅燈小尖兵月飆3成",
+      "title": "《熱門族群》無人機逆風飛！5檔強閃紅燈 小尖兵月飆3成 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6237699001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 14 Jul 2026 02:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1810",
+          "name": "和成",
+          "point": "亮燈攻頂，月飆3成",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        },
+        {
+          "symbol": "8383",
+          "name": "千附",
+          "point": "亮燈攻頂",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false,
+          "luw": 4,
+          "luwd": [
+            "7/13",
+            "7/9",
+            "7/8",
+            "7/7"
+          ]
+        },
+        {
+          "symbol": "2630",
+          "name": "亞航",
+          "point": "亮燈攻頂",
+          "limitUp": false
+        },
+        {
+          "symbol": "6829",
+          "name": "千附精密",
+          "point": "亮燈攻頂",
+          "limitUp": false
+        },
+        {
+          "symbol": "6928",
+          "name": "攸泰科技",
+          "point": "亮燈攻頂",
+          "limitUp": false
+        },
+        {
+          "symbol": "2634",
+          "name": "漢翔",
+          "point": "自主研發無人機反制系統成熟",
+          "status": "逼近新高",
+          "dist": -7,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        },
+        {
+          "symbol": "6477",
+          "name": "安集",
+          "point": "強守紅盤",
+          "limitUp": false
+        },
+        {
+          "symbol": "5314",
+          "name": "世紀*",
+          "point": "強守紅盤",
+          "limitUp": false
+        },
+        {
+          "symbol": "4541",
+          "name": "晟田",
+          "point": "強守紅盤",
+          "status": "逼近新高",
+          "dist": -5.8,
+          "limitUp": false,
+          "luw": 4,
+          "luwd": [
+            "7/13",
+            "7/9",
+            "7/8",
+            "7/7"
+          ]
+        }
+      ],
+      "background": "地緣政治風險加劇，各國國防預算與無人機採購力道加大，台灣政府擴大軍購預算及無人機特別條例審查，帶動軍工股逆勢上漲。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNUG1QbEE2SHpaX2pJY2M5MWtaTFZZSFdZekpFLV81TUduemFqbkh3S1gyZ25BTTRvcjd4SFkya1ZQSzN1T29aWmp3X3FDX0pTblRNYW9qWnhoSVI2MHZ1RUJxUFg5dUs4dUZwa01Uc0xmTXJIeE52cHBqdDg2dDdzT1pBSFhpZkNL",
       "tkey": "熱門族群自行車雙雄下半年迎成長",
@@ -1079,6 +1299,33 @@
       "themeTags": [
         "需求驅動",
         "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE5IZ2ZjcTRIUnFGZllrOVo5bzZBUER0cV9xWXRzOXZXTnNJNlQ4WHQydXBoN2ZQZHR4My15RDZXcjJCNjFRVkpXcFd4V2VHTW5wejBObGVLalY",
+      "tkey": "熱門族群矽晶圓迎最強復甦AI需求催動新一波漲價行情",
+      "title": "熱門族群》矽晶圓迎最強復甦 AI需求催動新一波漲價行情 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/jgklzmscxwyq",
+      "source": "自由時報",
+      "pubDate": "Sun, 12 Jul 2026 20:11:16 GMT",
+      "stocks": [],
+      "background": "AI需求持續增長，帶動矽晶圓產業迎來最強復甦，預期將催動新一波漲價行情。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE5BQjZ3eXhxaW1KQjB0VGdDSC0yOS1BTUR0cXZqa0dnelVncWF2UHFMV0xKdFhYZjJBRlRZbFVYU1BPQkI5cTNBUUhIbDVHV05HZVFEVEZhYVE",
+      "tkey": "熱門族群AI資料中心帶動BBU需求電池模組族群氣勢大振",
+      "title": "熱門族群》AI資料中心帶動BBU需求 電池模組族群氣勢大振 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/dqdvu8nlt2rl",
+      "source": "自由時報",
+      "pubDate": "Sun, 12 Jul 2026 18:34:15 GMT",
+      "stocks": [],
+      "background": "AI資料中心快速發展，對備用電池單元（BBU）的需求大幅增加，推動電池模組族群氣勢大振。",
+      "themeTags": [
+        "需求驅動"
       ]
     },
     {

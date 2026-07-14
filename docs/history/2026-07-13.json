@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "updatedAt": "2026-07-14T03:02:35.211Z",
+  "updatedAt": "2026-07-14T04:03:01.267Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPcnJPSnVKcDZ0SEpidzI5TXVkazJZMmx3RW5DNFhZM3Q1TzFNSVBCRVNyYlE3WGoxREdlTFVyYTBreThJd0NOTjVIM25neTVkQThpMU9ub3ViOW8zRU9PM2RfSnVmMml0NElVYllWSURDNGZ5MDF2Y3daM0s0STB1ZUxnbW1kdHFZ",
@@ -533,6 +533,33 @@
       "themeTags": [
         "需求驅動",
         "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE5IZ2ZjcTRIUnFGZllrOVo5bzZBUER0cV9xWXRzOXZXTnNJNlQ4WHQydXBoN2ZQZHR4My15RDZXcjJCNjFRVkpXcFd4V2VHTW5wejBObGVLalY",
+      "tkey": "熱門族群矽晶圓迎最強復甦AI需求催動新一波漲價行情",
+      "title": "熱門族群》矽晶圓迎最強復甦 AI需求催動新一波漲價行情 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/jgklzmscxwyq",
+      "source": "自由時報",
+      "pubDate": "Sun, 12 Jul 2026 20:11:16 GMT",
+      "stocks": [],
+      "background": "AI需求持續增長，帶動矽晶圓產業迎來最強復甦，預期將催動新一波漲價行情。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE5BQjZ3eXhxaW1KQjB0VGdDSC0yOS1BTUR0cXZqa0dnelVncWF2UHFMV0xKdFhYZjJBRlRZbFVYU1BPQkI5cTNBUUhIbDVHV05HZVFEVEZhYVE",
+      "tkey": "熱門族群AI資料中心帶動BBU需求電池模組族群氣勢大振",
+      "title": "熱門族群》AI資料中心帶動BBU需求 電池模組族群氣勢大振 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/dqdvu8nlt2rl",
+      "source": "自由時報",
+      "pubDate": "Sun, 12 Jul 2026 18:34:15 GMT",
+      "stocks": [],
+      "background": "AI資料中心快速發展，對備用電池單元（BBU）的需求大幅增加，推動電池模組族群氣勢大振。",
+      "themeTags": [
+        "需求驅動"
       ]
     },
     {
