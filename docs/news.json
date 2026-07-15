@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-15T12:05:56.393+08:00",
-  "generatedAt": "2026-07-15T04:05:56.393Z",
+  "asOf": "2026-07-15T13:03:54.887+08:00",
+  "generatedAt": "2026-07-15T05:03:54.887Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -20,6 +20,64 @@
       "status": "高檔修正",
       "dist": -11.7,
       "limitUp": false
+    },
+    {
+      "symbol": "6505",
+      "name": "台塑化",
+      "days": 3,
+      "dates": [
+        "7/15",
+        "7/13",
+        "7/9"
+      ],
+      "mentions": 7,
+      "limitUp": false
+    },
+    {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 3,
+      "dates": [
+        "7/15",
+        "7/13",
+        "7/9"
+      ],
+      "mentions": 7,
+      "status": "逼近新高",
+      "dist": -1.3,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/13"
+      ]
+    },
+    {
+      "symbol": "1326",
+      "name": "台化",
+      "days": 3,
+      "dates": [
+        "7/15",
+        "7/13",
+        "7/9"
+      ],
+      "mentions": 7,
+      "limitUp": false
+    },
+    {
+      "symbol": "1301",
+      "name": "台塑",
+      "days": 3,
+      "dates": [
+        "7/15",
+        "7/13",
+        "7/9"
+      ],
+      "mentions": 7,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/13"
+      ]
     },
     {
       "symbol": "6770",
@@ -77,8 +135,7 @@
         "7/9"
       ],
       "mentions": 3,
-      "limitUp": true,
-      "pct": 9.7
+      "limitUp": false
     },
     {
       "symbol": "2408",
@@ -106,62 +163,6 @@
         "7/9"
       ],
       "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 2,
-      "dates": [
-        "7/13",
-        "7/9"
-      ],
-      "mentions": 6,
-      "status": "創新高",
-      "dist": -0.2,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 1,
-      "luwd": [
-        "7/13"
-      ]
-    },
-    {
-      "symbol": "1301",
-      "name": "台塑",
-      "days": 2,
-      "dates": [
-        "7/13",
-        "7/9"
-      ],
-      "mentions": 6,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 1,
-      "luwd": [
-        "7/13"
-      ]
-    },
-    {
-      "symbol": "1326",
-      "name": "台化",
-      "days": 2,
-      "dates": [
-        "7/13",
-        "7/9"
-      ],
-      "mentions": 6,
-      "limitUp": false
-    },
-    {
-      "symbol": "6505",
-      "name": "台塑化",
-      "days": 2,
-      "dates": [
-        "7/13",
-        "7/9"
-      ],
-      "mentions": 6,
       "limitUp": false
     },
     {
@@ -307,6 +308,55 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxQZEFIaW9uX2FKSXhqNUhLdHFoOF80MFNUYnhOSFJodGY5VXFLYlR1ZTVnNmxyNnkxZTloX1lTR0RsUGx1UkJNYV9YMEdYcHhvdWtZdG9EY1pmZVUwOElWdlBpZUlpa255RENTeU1KdnhOS3BGc3RuRjNqcl9OQ1N1TFlJaTZnTjFw",
+      "tkey": "熱門族群台塑四寶瘋漲！利多齊發2檔逼近漲停",
+      "title": "《熱門族群》台塑四寶瘋漲！利多齊發 2檔逼近漲停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6239043001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Wed, 15 Jul 2026 04:21:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "盤中最高衝上72.7元，漲幅逼近漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "最高攻抵230元，漲幅一度超過9.5%",
+          "status": "逼近新高",
+          "dist": -1.3,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "最高來到72.4元，漲幅逾8%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "盤中最高則達66元，上漲近4%",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        }
+      ],
+      "background": "台塑四寶受惠國際油價走揚、第二季獲利回溫，南亞AI電子材料需求升溫，營運明顯改善。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxOVEpDa2RWdVY5ME92dTZQWjR4YkFkRXg4ekVqNHdMZG1NeHpxWDN6VUUyNnVtSHRaMUxSWXdmRjhtOFhRYkFhU0xqdmYwbHdPWlpKd3B4bDJLczN2cVVDVkUwQ0JZME1HbEdZY05yNzlUN21pZ213SGhFR2w4OU81aUd5VkJ6aVBk",
       "tkey": "熱門族群美系外資：ODM廠Q2出貨優於預期Q3年減15%",
       "title": "《熱門族群》美系外資：ODM廠Q2出貨優於預期 Q3年減15% - 富聯網",
@@ -335,8 +385,7 @@
           "symbol": "2344",
           "name": "華邦電",
           "point": "率先亮燈漲停",
-          "limitUp": true,
-          "pct": 9.7
+          "limitUp": false
         },
         {
           "symbol": "2408",
@@ -392,7 +441,8 @@
           "symbol": "1444",
           "name": "力麗",
           "point": "加工絲產能利用率維持8成高檔",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "1455",
