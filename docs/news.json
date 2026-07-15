@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-15T11:03:37.324+08:00",
-  "generatedAt": "2026-07-15T03:03:37.324Z",
+  "asOf": "2026-07-15T12:05:56.393+08:00",
+  "generatedAt": "2026-07-15T04:05:56.393Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -77,7 +77,8 @@
         "7/9"
       ],
       "mentions": 3,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.7
     },
     {
       "symbol": "2408",
@@ -306,6 +307,17 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxOVEpDa2RWdVY5ME92dTZQWjR4YkFkRXg4ekVqNHdMZG1NeHpxWDN6VUUyNnVtSHRaMUxSWXdmRjhtOFhRYkFhU0xqdmYwbHdPWlpKd3B4bDJLczN2cVVDVkUwQ0JZME1HbEdZY05yNzlUN21pZ213SGhFR2w4OU81aUd5VkJ6aVBk",
+      "tkey": "熱門族群美系外資：ODM廠Q2出貨優於預期Q3年減15%",
+      "title": "《熱門族群》美系外資：ODM廠Q2出貨優於預期 Q3年減15% - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6238943001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 15 Jul 2026 03:00:00 GMT",
+      "stocks": [],
+      "background": "ODM廠受零組件供應緊張影響，優先生產高階機種，預計第三季出貨量年減15%。",
+      "themeTags": []
+    },
+    {
       "gid": "CBMiiAFBVV95cUxORm4wZGNYZ1hXaFBZM2xLSG9HNDJicHlDZ3o3RnJqdmFKRExoNkpPYTNUdFRoRGtBTTZBWm9jNWdYWktIM3dVek5hMjMxMTJ3UGNXaGJrVUljeTFwZE9mT19kWW1mNVk3Y0JrRUtiejMwSWNmU0pRMl96aHpscXdHdDlVWWdKM2hy",
       "tkey": "熱門族群記憶體四雄噴漲反攻力積電、華邦電率先亮燈",
       "title": "《熱門族群》記憶體四雄噴漲反攻 力積電、華邦電率先亮燈 - 富聯網",
@@ -323,7 +335,8 @@
           "symbol": "2344",
           "name": "華邦電",
           "point": "率先亮燈漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.7
         },
         {
           "symbol": "2408",

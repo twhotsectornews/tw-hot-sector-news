@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "updatedAt": "2026-07-15T03:03:37.320Z",
+  "updatedAt": "2026-07-15T04:05:56.390Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPcnJPSnVKcDZ0SEpidzI5TXVkazJZMmx3RW5DNFhZM3Q1TzFNSVBCRVNyYlE3WGoxREdlTFVyYTBreThJd0NOTjVIM25neTVkQThpMU9ub3ViOW8zRU9PM2RfSnVmMml0NElVYllWSURDNGZ5MDF2Y3daM0s0STB1ZUxnbW1kdHFZ",
@@ -13,10 +13,9 @@
         {
           "symbol": "8046",
           "name": "南電",
-          "point": "載板族群受惠缺口擴大亮燈",
-          "status": "逼近新高",
-          "dist": -4.9,
-          "limitUp": false,
+          "point": "載板族群嗨漲亮燈",
+          "status": "創新高",
+          "dist": 0,
           "luw": 1,
           "luwd": [
             "7/9"
@@ -25,11 +24,9 @@
         {
           "symbol": "4958",
           "name": "臻鼎-KY",
-          "point": "載板族群受惠缺口擴大亮燈",
+          "point": "載板族群嗨漲亮燈",
           "status": "逼近新高",
-          "dist": -2,
-          "limitUp": true,
-          "pct": 9.9,
+          "dist": -3.8,
           "luw": 1,
           "luwd": [
             "7/13"
@@ -38,23 +35,21 @@
         {
           "symbol": "3037",
           "name": "欣興",
-          "point": "載板族群受惠缺口擴大漲逾8%",
-          "limitUp": false
+          "point": "營收創歷史新高"
         },
         {
           "symbol": "3189",
           "name": "景碩",
-          "point": "載板族群受惠缺口擴大勁揚逾半根",
+          "point": "勁揚逾半根",
           "status": "高檔修正",
-          "dist": -12.8,
-          "limitUp": false,
+          "dist": -10.3,
           "luw": 1,
           "luwd": [
             "7/8"
           ]
         }
       ],
-      "background": "GPU、ASIC及伺服器CPU平台升級帶動ABF載板需求強勁，供不應求缺口擴大，報價走升，訂單能見度已達2028年。",
+      "background": "AI伺服器、高階IC需求強勁帶動ABF載板供不應求，報價走升，預計2027-2028年缺口擴大。",
       "themeTags": [
         "需求驅動",
         "循環位置"
