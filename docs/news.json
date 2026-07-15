@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-15T14:01:49.123+08:00",
-  "generatedAt": "2026-07-15T06:01:49.123Z",
+  "asOf": "2026-07-15T15:50:34.136+08:00",
+  "generatedAt": "2026-07-15T07:50:34.136Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -22,17 +22,20 @@
       "limitUp": false
     },
     {
-      "symbol": "6505",
-      "name": "台塑化",
+      "symbol": "1301",
+      "name": "台塑",
       "days": 3,
       "dates": [
         "7/15",
         "7/13",
         "7/9"
       ],
-      "mentions": 7,
-      "limitUp": true,
-      "pct": 10
+      "mentions": 8,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/13"
+      ]
     },
     {
       "symbol": "1303",
@@ -43,9 +46,9 @@
         "7/13",
         "7/9"
       ],
-      "mentions": 7,
+      "mentions": 8,
       "status": "逼近新高",
-      "dist": -1.3,
+      "dist": -1.1,
       "limitUp": false,
       "luw": 1,
       "luwd": [
@@ -61,24 +64,21 @@
         "7/13",
         "7/9"
       ],
-      "mentions": 7,
+      "mentions": 8,
       "limitUp": false
     },
     {
-      "symbol": "1301",
-      "name": "台塑",
+      "symbol": "6505",
+      "name": "台塑化",
       "days": 3,
       "dates": [
         "7/15",
         "7/13",
         "7/9"
       ],
-      "mentions": 7,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/13"
-      ]
+      "mentions": 8,
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "6770",
@@ -218,7 +218,14 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -5.7,
-      "limitUp": false
+      "limitUp": false,
+      "luw": 4,
+      "luwd": [
+        "7/14",
+        "7/13",
+        "7/9",
+        "7/8"
+      ]
     },
     {
       "symbol": "3481",
@@ -265,14 +272,7 @@
       "status": "創新高",
       "dist": 0,
       "limitUp": true,
-      "pct": 9.9,
-      "luw": 4,
-      "luwd": [
-        "7/14",
-        "7/13",
-        "7/9",
-        "7/8"
-      ]
+      "pct": 9.9
     },
     {
       "symbol": "4541",
@@ -310,6 +310,55 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPSXltNnVoZi1wdjJ4VVdlWGtMTzFqY0VfLXdLamNtUGNpeERkdVRucEdFcE5UckxNSy1LV2ZCTC1vck03SmdDT2dDUy00dlF6U0pQMzk4R25rOUd1b1VWNVpURlJoZXZlR0I3NWt2aEZjbDFBWGgyV1NzNnVvd2tiOFd0c05CVzJG",
+      "tkey": "熱門族群拍板4.5%台塑員工薪情好！麥寮廠月薪破7.5萬",
+      "title": "《熱門族群》拍板4.5%台塑員工薪情好！ 麥寮廠月薪破7.5萬 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6239049001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 15 Jul 2026 04:31:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "第二季獲利回升，EPS 1.67元",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "第二季獲利回升，EPS 3.37元",
+          "status": "逼近新高",
+          "dist": -1.1,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "第二季獲利回升，EPS 1.04元",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "第二季獲利回升，EPS 2.18元",
+          "limitUp": true,
+          "pct": 10
+        }
+      ],
+      "background": "台塑四寶第二季獲利回升，主要受惠於AI資料中心、高速運算需求帶動電子材料需求，以及低成本原料庫存效益與國際油價走揚。企業調薪以反映物價上漲壓力並提升人才競爭力。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQZEFIaW9uX2FKSXhqNUhLdHFoOF80MFNUYnhOSFJodGY5VXFLYlR1ZTVnNmxyNnkxZTloX1lTR0RsUGx1UkJNYV9YMEdYcHhvdWtZdG9EY1pmZVUwOElWdlBpZUlpa255RENTeU1KdnhOS3BGc3RuRjNqcl9OQ1N1TFlJaTZnTjFw",
       "tkey": "熱門族群台塑四寶瘋漲！利多齊發2檔逼近漲停",
@@ -599,7 +648,14 @@
           "point": "兼具太陽能與半導體雙重題材",
           "status": "逼近新高",
           "dist": -5.7,
-          "limitUp": false
+          "limitUp": false,
+          "luw": 4,
+          "luwd": [
+            "7/14",
+            "7/13",
+            "7/9",
+            "7/8"
+          ]
         },
         {
           "symbol": "6488",
@@ -644,14 +700,7 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 4,
-          "luwd": [
-            "7/14",
-            "7/13",
-            "7/9",
-            "7/8"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "2630",
@@ -671,14 +720,7 @@
           "limitUp": true,
           "status": "逼近新高",
           "dist": -9.3,
-          "pct": 9.9,
-          "luw": 4,
-          "luwd": [
-            "7/14",
-            "7/13",
-            "7/9",
-            "7/8"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6928",

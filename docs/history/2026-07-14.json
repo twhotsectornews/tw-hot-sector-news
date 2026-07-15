@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "updatedAt": "2026-07-15T06:01:49.118Z",
+  "updatedAt": "2026-07-15T07:50:34.131Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOY1FnWnZaekRtc2lpR3RJUmFNTE5fVnphY3VOTV9kZGdCdF9tVmJpaE55QXhVRVhoQ3JmOE13UzlpLUg5UkY1MnJEZS1JLTFLVjVHVmNyeDA1bHc3eDFwbjZZQWxTOXVFeVVDU1NnYVQ0V3lXS2VKTmJtNHpMX3N0WmVCNjJXMmpP",
@@ -83,7 +83,14 @@
           "point": "兼具太陽能與半導體雙重題材",
           "status": "逼近新高",
           "dist": -5.7,
-          "limitUp": false
+          "limitUp": false,
+          "luw": 4,
+          "luwd": [
+            "7/14",
+            "7/13",
+            "7/9",
+            "7/8"
+          ]
         },
         {
           "symbol": "6488",
@@ -128,14 +135,7 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 4,
-          "luwd": [
-            "7/14",
-            "7/13",
-            "7/9",
-            "7/8"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "2630",
@@ -155,14 +155,7 @@
           "limitUp": true,
           "status": "逼近新高",
           "dist": -9.3,
-          "pct": 9.9,
-          "luw": 4,
-          "luwd": [
-            "7/14",
-            "7/13",
-            "7/9",
-            "7/8"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6928",
