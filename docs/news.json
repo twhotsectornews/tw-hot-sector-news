@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-15T13:03:54.887+08:00",
-  "generatedAt": "2026-07-15T05:03:54.887Z",
+  "asOf": "2026-07-15T13:23:06.018+08:00",
+  "generatedAt": "2026-07-15T05:23:06.018Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -89,7 +89,8 @@
         "7/9"
       ],
       "mentions": 4,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "3532",
@@ -379,7 +380,8 @@
           "symbol": "6770",
           "name": "力積電",
           "point": "開盤攻上漲停鎖住買盤",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "2344",
@@ -441,8 +443,7 @@
           "symbol": "1444",
           "name": "力麗",
           "point": "加工絲產能利用率維持8成高檔",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "1455",
@@ -481,7 +482,8 @@
           "symbol": "6770",
           "name": "昇達科",
           "point": "融資維持率逼近警戒線",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "3406",
