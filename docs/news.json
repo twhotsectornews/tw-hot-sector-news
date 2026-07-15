@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-15T13:23:06.018+08:00",
-  "generatedAt": "2026-07-15T05:23:06.018Z",
+  "asOf": "2026-07-15T14:01:49.123+08:00",
+  "generatedAt": "2026-07-15T06:01:49.123Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -31,7 +31,8 @@
         "7/9"
       ],
       "mentions": 7,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "1303",
@@ -136,7 +137,8 @@
         "7/9"
       ],
       "mentions": 3,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.7
     },
     {
       "symbol": "2408",
@@ -320,7 +322,8 @@
           "symbol": "6505",
           "name": "台塑化",
           "point": "盤中最高衝上72.7元，漲幅逼近漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "1303",
@@ -387,7 +390,8 @@
           "symbol": "2344",
           "name": "華邦電",
           "point": "率先亮燈漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.7
         },
         {
           "symbol": "2408",
@@ -443,7 +447,8 @@
           "symbol": "1444",
           "name": "力麗",
           "point": "加工絲產能利用率維持8成高檔",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "1455",
