@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-15T17:41:39.916+08:00",
-  "generatedAt": "2026-07-15T09:41:39.916Z",
+  "asOf": "2026-07-15T18:41:50.913+08:00",
+  "generatedAt": "2026-07-15T10:41:50.913Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -22,20 +22,17 @@
       "limitUp": false
     },
     {
-      "symbol": "1301",
-      "name": "台塑",
+      "symbol": "6505",
+      "name": "台塑化",
       "days": 3,
       "dates": [
         "7/15",
         "7/13",
         "7/9"
       ],
-      "mentions": 8,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/13"
-      ]
+      "mentions": 9,
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "1303",
@@ -46,7 +43,7 @@
         "7/13",
         "7/9"
       ],
-      "mentions": 8,
+      "mentions": 9,
       "status": "逼近新高",
       "dist": -1.1,
       "limitUp": false,
@@ -64,21 +61,24 @@
         "7/13",
         "7/9"
       ],
-      "mentions": 8,
+      "mentions": 9,
       "limitUp": false
     },
     {
-      "symbol": "6505",
-      "name": "台塑化",
+      "symbol": "1301",
+      "name": "台塑",
       "days": 3,
       "dates": [
         "7/15",
         "7/13",
         "7/9"
       ],
-      "mentions": 8,
-      "limitUp": true,
-      "pct": 10
+      "mentions": 9,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/13"
+      ]
     },
     {
       "symbol": "6770",
@@ -310,6 +310,56 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiakFVX3lxTE91TTN2SjVfSmp6YnI2OFdqYzhwdUlaVlBVeEFYbkFUNkg4dmN3aUlLc2Q0ZWJWU1FlU0R1R1J4T1I5WWZMVXd6ekZRbDl5TFh5SmRmR3Q5RjN5eTZReWJUNU1WMUhUMWYzeVE",
+      "tkey": "熱門族群台塑四寶瘋漲！利多齊發2檔逼近漲停-上市櫃",
+      "title": "《熱門族群》台塑四寶瘋漲！利多齊發2檔逼近漲停- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260715900367-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Wed, 15 Jul 2026 04:36:02 GMT",
+      "stocks": [
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "漲幅逼近漲停，受惠煉油與庫存利益",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "漲幅逼近漲停，AI電子材料需求升溫",
+          "status": "逼近新高",
+          "dist": -1.1,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "漲幅逾8%，本業改善",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "上漲近4%，本業改善",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        }
+      ],
+      "background": "台塑四寶受惠國際油價走揚、第二季獲利回溫，南亞AI電子材料需求升溫，台塑化煉油與庫存利益挹注，台塑與台化本業改善，帶動股價全面走強。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPSXltNnVoZi1wdjJ4VVdlWGtMTzFqY0VfLXdLamNtUGNpeERkdVRucEdFcE5UckxNSy1LV2ZCTC1vck03SmdDT2dDUy00dlF6U0pQMzk4R25rOUd1b1VWNVpURlJoZXZlR0I3NWt2aEZjbDFBWGgyV1NzNnVvd2tiOFd0c05CVzJG",
       "tkey": "熱門族群拍板4.5%台塑員工薪情好！麥寮廠月薪破7.5萬",
