@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-16T13:03:18.672+08:00",
-  "generatedAt": "2026-07-16T05:03:18.672Z",
+  "asOf": "2026-07-16T13:32:09.344+08:00",
+  "generatedAt": "2026-07-16T05:32:09.344Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -292,6 +292,17 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQM3h3dHM4Z2wwc3J4Yk5QMVZWN1Z5UTh5Rk9KRGVDMUoyR1JrNUR0X2FielB1S2JKNDVLTVlPXzU0ald3NlNGb0trQk5VekN4c2JGWDZqWGc5OGMwTDMzVlY5cldmR0FRUEFyTnNfWkY0YTQxVHRyVE9hdWxQdDdOMmpjUGRqaWx2",
+      "tkey": "熱門族群台塑化爆量鎖漲停！9萬張買盤追捧台塑四寶資金大輪動",
+      "title": "《熱門族群》台塑化爆量鎖漲停！9萬張買盤追捧 台塑四寶資金大輪動 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6240302001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 16 Jul 2026 04:13:00 GMT",
+      "stocks": [],
+      "background": "",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxPQjJwaHFZczVMM0hOb21YVnZjSzBpQlNiM0U0NkFNalFsTU00ZXVmZ2x1Y2ZHbGVFZ29FWWVUU1otbFB3UkRibi1wZnNLclI4VVZjZWpXc3JxS05iQkMyMkN3a3JaQXpNZF9mWngyZzlSRm1SU1dmZHEtejRoMTVWTDhzUHRaUjNC",
       "tkey": "熱門族群大立光帶頭衝！光學股齊放閃1檔鎖紅燈",
