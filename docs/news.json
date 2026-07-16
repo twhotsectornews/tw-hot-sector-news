@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-16T12:03:24.029+08:00",
-  "generatedAt": "2026-07-16T04:03:24.029Z",
+  "asOf": "2026-07-16T13:03:18.672+08:00",
+  "generatedAt": "2026-07-16T05:03:18.672Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -16,7 +16,8 @@
         "7/13"
       ],
       "mentions": 6,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 1,
       "luwd": [
         "7/15"
@@ -178,6 +179,32 @@
       "pct": 9.9
     },
     {
+      "symbol": "3008",
+      "name": "大立光",
+      "days": 2,
+      "dates": [
+        "7/16",
+        "7/13"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/13"
+      ]
+    },
+    {
+      "symbol": "3406",
+      "name": "玉晶光",
+      "days": 2,
+      "dates": [
+        "7/16",
+        "7/15"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "8046",
       "name": "南電",
       "days": 2,
@@ -266,6 +293,70 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxPQjJwaHFZczVMM0hOb21YVnZjSzBpQlNiM0U0NkFNalFsTU00ZXVmZ2x1Y2ZHbGVFZ29FWWVUU1otbFB3UkRibi1wZnNLclI4VVZjZWpXc3JxS05iQkMyMkN3a3JaQXpNZF9mWngyZzlSRm1SU1dmZHEtejRoMTVWTDhzUHRaUjNC",
+      "tkey": "熱門族群大立光帶頭衝！光學股齊放閃1檔鎖紅燈",
+      "title": "《熱門族群》大立光帶頭衝！光學股齊放閃 1檔鎖紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6240285001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 16 Jul 2026 04:04:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "高階鏡頭升級、CPO應用、可變光圈放量",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        },
+        {
+          "symbol": "3441",
+          "name": "聯一光",
+          "point": "亮燈攻頂、歐洲客戶訂單放量",
+          "limitUp": false
+        },
+        {
+          "symbol": "6517",
+          "name": "保勝光學",
+          "point": "逆勢走強",
+          "limitUp": false
+        },
+        {
+          "symbol": "3504",
+          "name": "揚明光",
+          "point": "逆勢走強",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/9"
+          ]
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "6月營收創新高、CPO新產品送樣",
+          "limitUp": false
+        },
+        {
+          "symbol": "6209",
+          "name": "今國光",
+          "point": "逆勢走強",
+          "limitUp": false
+        },
+        {
+          "symbol": "3362",
+          "name": "先進光",
+          "point": "逆勢走強",
+          "limitUp": false
+        }
+      ],
+      "background": "光學鏡頭產業受惠於高階鏡頭升級、共同封裝光學（CPO）應用及車載、無人機等新賽道需求驅動，產業前景看好。指標大廠積極布局新技術，帶動族群表現。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNSThVWkxqdHAtVHRUOFBVYnRRODJwWmRWdXRwZ1JWMVd6Y1NOQ0ZEVGN2UlZqVmJGQjVSSDFYN3JWTFNfOVVVTlJ5ZW5MLTk2dEhfRGJ2aWFxLXdrbEN2b1JaZnZqV3QtWmJmUDV6c3RFUlMxRGg1WUwzSVA2NWxfeTFMc0FLRGlk",
       "tkey": "熱門族群台塑化漲停扛多方大旗台塑集團電子派跌勢難擋",
       "title": "《熱門族群》台塑化漲停扛多方大旗 台塑集團電子派跌勢難擋 - 富聯網",
@@ -277,7 +368,8 @@
           "symbol": "6505",
           "name": "台塑化",
           "point": "強勢攻上漲停，創2024年2月新高",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "7/15"
