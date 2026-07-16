@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-16T15:54:14.365+08:00",
-  "generatedAt": "2026-07-16T07:54:14.365Z",
+  "asOf": "2026-07-16T17:41:46.909+08:00",
+  "generatedAt": "2026-07-16T09:41:46.909Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -66,7 +66,7 @@
         "7/15",
         "7/14"
       ],
-      "mentions": 5,
+      "mentions": 6,
       "limitUp": false,
       "luw": 1,
       "luwd": [
@@ -82,7 +82,7 @@
         "7/15",
         "7/13"
       ],
-      "mentions": 4,
+      "mentions": 5,
       "limitUp": false,
       "luw": 1,
       "luwd": [
@@ -108,6 +108,18 @@
       ]
     },
     {
+      "symbol": "2337",
+      "name": "旺宏",
+      "days": 3,
+      "dates": [
+        "7/16",
+        "7/15",
+        "7/13"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
       "symbol": "6488",
       "name": "環球晶",
       "days": 3,
@@ -119,18 +131,6 @@
       "mentions": 4,
       "status": "高檔修正",
       "dist": -11.7,
-      "limitUp": false
-    },
-    {
-      "symbol": "2337",
-      "name": "旺宏",
-      "days": 3,
-      "dates": [
-        "7/16",
-        "7/15",
-        "7/13"
-      ],
-      "mentions": 3,
       "limitUp": false
     },
     {
@@ -470,6 +470,86 @@
       "themeTags": [
         "需求驅動",
         "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTFBRbnFjRFFlbEpKUWJnbEwteUt3c1g1RXRTTDdKamlQSVdickxoc244MVhFdFJyTkg2NUJBa1Ywa0JvYUFwaEtvWlJlbUxsUHgyM0R3d1BVMTc5b3NkVDFHUktQOWVuQ2tTWVE",
+      "tkey": "熱門族群記憶體跳水免驚？力積電強霸人氣王1檔天價攻頂-上市櫃",
+      "title": "《熱門族群》記憶體跳水免驚？力積電強霸人氣王1檔天價攻頂- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260716900267-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Thu, 16 Jul 2026 03:22:32 GMT",
+      "stocks": [
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "法說報喜，毛利率創高",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/15"
+          ]
+        },
+        {
+          "symbol": "8150",
+          "name": "南茂",
+          "point": "亮燈攻頂改寫歷史高",
+          "status": "逼近新高",
+          "dist": -2,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "7/15",
+            "7/9"
+          ]
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "受美股拖累回檔逾3%",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/9"
+          ]
+        },
+        {
+          "symbol": "2334",
+          "name": "華邦電",
+          "point": "受美股拖累回檔逾3%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "受美股拖累回檔逾3%",
+          "limitUp": false
+        },
+        {
+          "symbol": "3006",
+          "name": "晶豪科",
+          "point": "受美股拖累回檔逾3%",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "7/15",
+            "7/9"
+          ]
+        },
+        {
+          "symbol": "5351",
+          "name": "鈺創",
+          "point": "受美股拖累回檔逾3%",
+          "status": "逼近新高",
+          "dist": -7.4,
+          "limitUp": false
+        }
+      ],
+      "background": "記憶體族群受AI需求疑慮與美股拖累走弱，但產業供需緊俏趨勢未變，國際大廠SK海力士預估供應吃緊將延續至2027年。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
       ]
     },
     {
