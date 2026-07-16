@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-16T13:32:09.344+08:00",
-  "generatedAt": "2026-07-16T05:32:09.344Z",
+  "asOf": "2026-07-16T14:02:31.331+08:00",
+  "generatedAt": "2026-07-16T06:02:31.331Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -15,7 +15,7 @@
         "7/15",
         "7/13"
       ],
-      "mentions": 6,
+      "mentions": 7,
       "limitUp": true,
       "pct": 9.9,
       "luw": 1,
@@ -299,9 +299,23 @@
       "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6240302001&PU=0010",
       "source": "富聯網",
       "pubDate": "Thu, 16 Jul 2026 04:13:00 GMT",
-      "stocks": [],
-      "background": "",
-      "themeTags": []
+      "stocks": [
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "爆量鎖漲停，9萬張買盤追捧",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "7/15"
+          ]
+        }
+      ],
+      "background": "台塑四寶資金輪動，台塑化受惠於國際油價回穩及石化產品需求復甦，產業景氣逐步回升。",
+      "themeTags": [
+        "循環位置"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxPQjJwaHFZczVMM0hOb21YVnZjSzBpQlNiM0U0NkFNalFsTU00ZXVmZ2x1Y2ZHbGVFZ29FWWVUU1otbFB3UkRibi1wZnNLclI4VVZjZWpXc3JxS05iQkMyMkN3a3JaQXpNZF9mWngyZzlSRm1SU1dmZHEtejRoMTVWTDhzUHRaUjNC",
@@ -505,7 +519,8 @@
           "point": "聯袂回檔逾3%",
           "status": "逼近新高",
           "dist": -6.4,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.8,
           "luw": 4,
           "luwd": [
             "7/15",
