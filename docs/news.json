@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-16T17:41:46.909+08:00",
-  "generatedAt": "2026-07-16T09:41:46.909Z",
+  "asOf": "2026-07-16T18:42:51.597+08:00",
+  "generatedAt": "2026-07-16T10:42:51.597Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -15,7 +15,7 @@
         "7/15",
         "7/13"
       ],
-      "mentions": 7,
+      "mentions": 8,
       "limitUp": true,
       "pct": 9.9,
       "luw": 1,
@@ -32,7 +32,7 @@
         "7/15",
         "7/13"
       ],
-      "mentions": 6,
+      "mentions": 7,
       "limitUp": false,
       "luw": 1,
       "luwd": [
@@ -48,14 +48,26 @@
         "7/15",
         "7/13"
       ],
-      "mentions": 6,
+      "mentions": 7,
       "status": "逼近新高",
-      "dist": -2.2,
+      "dist": -3.9,
       "limitUp": false,
       "luw": 1,
       "luwd": [
         "7/13"
       ]
+    },
+    {
+      "symbol": "1326",
+      "name": "台化",
+      "days": 3,
+      "dates": [
+        "7/16",
+        "7/15",
+        "7/13"
+      ],
+      "mentions": 6,
+      "limitUp": false
     },
     {
       "symbol": "6770",
@@ -131,17 +143,6 @@
       "mentions": 4,
       "status": "高檔修正",
       "dist": -11.7,
-      "limitUp": false
-    },
-    {
-      "symbol": "1326",
-      "name": "台化",
-      "days": 2,
-      "dates": [
-        "7/15",
-        "7/13"
-      ],
-      "mentions": 5,
       "limitUp": false
     },
     {
@@ -292,6 +293,60 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiakFVX3lxTE90SDhCWS03WjUyQjhSLXVoQzlaMEJ0VkUydGdBTWIwUU5sNmtiUkEwS1c3cGNiakE2cWZtTXlSU2Vod3VXRmxDNG1wd2QyU3J2dUJaeXd6YU9reG9VZXRFd25wSmFUZExyMWc",
+      "tkey": "熱門族群台塑化爆量鎖漲停！9萬張買盤追捧台塑四寶資金大輪動-上市櫃",
+      "title": "《熱門族群》台塑化爆量鎖漲停！9萬張買盤追捧台塑四寶資金大輪動- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260716900315-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Thu, 16 Jul 2026 04:27:32 GMT",
+      "stocks": [
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "爆量鎖漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "7/15"
+          ]
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "股價上漲",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "股價平盤之上震盪",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "獲利了結賣壓下跌",
+          "status": "逼近新高",
+          "dist": -3.9,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        }
+      ],
+      "background": "台塑化受國際油價維持高檔及中東情勢升溫影響，帶動石化基本原料報價走高，營運表現改善。台塑四寶受惠上半年獲利回升，資金輪動。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQM3h3dHM4Z2wwc3J4Yk5QMVZWN1Z5UTh5Rk9KRGVDMUoyR1JrNUR0X2FielB1S2JKNDVLTVlPXzU0ald3NlNGb0trQk5VekN4c2JGWDZqWGc5OGMwTDMzVlY5cldmR0FRUEFyTnNfWkY0YTQxVHRyVE9hdWxQdDdOMmpjUGRqaWx2",
       "tkey": "熱門族群台塑化爆量鎖漲停！9萬張買盤追捧台塑四寶資金大輪動",
