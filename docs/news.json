@@ -1,11 +1,61 @@
 {
-  "asOf": "2026-07-16T11:03:53.244+08:00",
-  "generatedAt": "2026-07-16T03:03:53.244Z",
+  "asOf": "2026-07-16T12:03:24.029+08:00",
+  "generatedAt": "2026-07-16T04:03:24.029Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "6505",
+      "name": "台塑化",
+      "days": 3,
+      "dates": [
+        "7/16",
+        "7/15",
+        "7/13"
+      ],
+      "mentions": 6,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/15"
+      ]
+    },
+    {
+      "symbol": "1301",
+      "name": "台塑",
+      "days": 3,
+      "dates": [
+        "7/16",
+        "7/15",
+        "7/13"
+      ],
+      "mentions": 6,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/13"
+      ]
+    },
+    {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 3,
+      "dates": [
+        "7/16",
+        "7/15",
+        "7/13"
+      ],
+      "mentions": 6,
+      "status": "逼近新高",
+      "dist": -2.2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/13"
+      ]
+    },
     {
       "symbol": "6770",
       "name": "力積電",
@@ -15,11 +65,45 @@
         "7/15",
         "7/14"
       ],
-      "mentions": 4,
+      "mentions": 5,
       "limitUp": false,
       "luw": 1,
       "luwd": [
         "7/15"
+      ]
+    },
+    {
+      "symbol": "2408",
+      "name": "南亞科",
+      "days": 3,
+      "dates": [
+        "7/16",
+        "7/15",
+        "7/13"
+      ],
+      "mentions": 4,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/9"
+      ]
+    },
+    {
+      "symbol": "3532",
+      "name": "台勝科",
+      "days": 3,
+      "dates": [
+        "7/16",
+        "7/13",
+        "7/12"
+      ],
+      "mentions": 4,
+      "status": "高檔修正",
+      "dist": -12.1,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/13"
       ]
     },
     {
@@ -37,37 +121,16 @@
       "limitUp": false
     },
     {
-      "symbol": "6505",
-      "name": "台塑化",
-      "days": 2,
+      "symbol": "2337",
+      "name": "旺宏",
+      "days": 3,
       "dates": [
+        "7/16",
         "7/15",
         "7/13"
       ],
-      "mentions": 5,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 1,
-      "luwd": [
-        "7/15"
-      ]
-    },
-    {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 2,
-      "dates": [
-        "7/15",
-        "7/13"
-      ],
-      "mentions": 5,
-      "status": "逼近新高",
-      "dist": -1.1,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/13"
-      ]
+      "mentions": 3,
+      "limitUp": false
     },
     {
       "symbol": "1326",
@@ -79,21 +142,6 @@
       ],
       "mentions": 5,
       "limitUp": false
-    },
-    {
-      "symbol": "1301",
-      "name": "台塑",
-      "days": 2,
-      "dates": [
-        "7/15",
-        "7/13"
-      ],
-      "mentions": 5,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/13"
-      ]
     },
     {
       "symbol": "5483",
@@ -116,24 +164,6 @@
       ]
     },
     {
-      "symbol": "3532",
-      "name": "台勝科",
-      "days": 2,
-      "dates": [
-        "7/13",
-        "7/12"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -3.8,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 1,
-      "luwd": [
-        "7/13"
-      ]
-    },
-    {
       "symbol": "6182",
       "name": "合晶",
       "days": 2,
@@ -146,6 +176,24 @@
       "dist": 0,
       "limitUp": true,
       "pct": 9.9
+    },
+    {
+      "symbol": "8046",
+      "name": "南電",
+      "days": 2,
+      "dates": [
+        "7/16",
+        "7/13"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -7.1,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "7/15",
+        "7/9"
+      ]
     },
     {
       "symbol": "2303",
@@ -214,35 +262,186 @@
       "luwd": [
         "7/15"
       ]
-    },
-    {
-      "symbol": "2408",
-      "name": "南亞科",
-      "days": 2,
-      "dates": [
-        "7/15",
-        "7/13"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/9"
-      ]
-    },
-    {
-      "symbol": "2337",
-      "name": "旺宏",
-      "days": 2,
-      "dates": [
-        "7/15",
-        "7/13"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNSThVWkxqdHAtVHRUOFBVYnRRODJwWmRWdXRwZ1JWMVd6Y1NOQ0ZEVGN2UlZqVmJGQjVSSDFYN3JWTFNfOVVVTlJ5ZW5MLTk2dEhfRGJ2aWFxLXdrbEN2b1JaZnZqV3QtWmJmUDV6c3RFUlMxRGg1WUwzSVA2NWxfeTFMc0FLRGlk",
+      "tkey": "熱門族群台塑化漲停扛多方大旗台塑集團電子派跌勢難擋",
+      "title": "《熱門族群》台塑化漲停扛多方大旗 台塑集團電子派跌勢難擋 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6240246001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 16 Jul 2026 03:25:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "強勢攻上漲停，創2024年2月新高",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/15"
+          ]
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "維持高檔震盪，展現抗跌韌性",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "突破200元關卡後於230元附近整理",
+          "status": "逼近新高",
+          "dist": -2.2,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "盤中重挫6%",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/9"
+          ]
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "同步跌幅達6%",
+          "status": "逼近新高",
+          "dist": -7.1,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "7/15",
+            "7/9"
+          ]
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "跌幅接近半根跌停",
+          "status": "高檔修正",
+          "dist": -12.1,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        },
+        {
+          "symbol": "8131",
+          "name": "福懋科",
+          "point": "跌破80元關卡",
+          "status": "逼近新高",
+          "dist": -9.1,
+          "limitUp": false
+        }
+      ],
+      "background": "台塑集團受國際油價大漲激勵，因美國封鎖荷姆茲海峽引發原油供應中斷擔憂。油價上漲有助於台塑化庫存利益回升，第三季煉油開工率提升，帶動傳產股表現強勢。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPVWJiNzAtOUEwb1VmYW4tSGphempPaDB3STVhV1h3Y1FTSEh0ZkJmWWxJZi0yQV9oXzZ1UHFPa3Ezamx5TlRrbGotYWhGa0R2UlUxcVR4WEhrWG9aZEtNZXVlOGJ4ZWZydDZ1bVpHQUE2NmEyMmNiVG9jZVRLbVg4eUxfUENLSC1v",
+      "tkey": "熱門族群記憶體跳水免驚？力積電強霸人氣王1檔天價攻頂",
+      "title": "《熱門族群》記憶體跳水免驚？力積電強霸人氣王 1檔天價攻頂 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6240234001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 16 Jul 2026 03:12:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "聯袂回檔逾3%",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/9"
+          ]
+        },
+        {
+          "symbol": "2334",
+          "name": "華邦電",
+          "point": "聯袂回檔逾3%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "聯袂回檔逾3%",
+          "limitUp": false
+        },
+        {
+          "symbol": "3006",
+          "name": "晶豪科",
+          "point": "聯袂回檔逾3%",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "7/15",
+            "7/9"
+          ]
+        },
+        {
+          "symbol": "5351",
+          "name": "鈺創",
+          "point": "聯袂回檔逾3%",
+          "status": "逼近新高",
+          "dist": -6.4,
+          "limitUp": false,
+          "luw": 4,
+          "luwd": [
+            "7/15",
+            "7/14",
+            "7/13",
+            "7/9"
+          ]
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "逆勢走升逾3%，居人氣王",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/15"
+          ]
+        },
+        {
+          "symbol": "8150",
+          "name": "南茂",
+          "point": "亮燈攻頂改寫歷史高",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "7/15",
+            "7/9"
+          ]
+        }
+      ],
+      "background": "記憶體產業受AI基礎建設需求放緩擔憂影響，國際指標大廠SK海力士、美光股價暴跌。儘管如此，全球記憶體供需緊俏趨勢未變，預計缺口將持續至2027年。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMikgFBVV95cUxQZGhjVkJoMUM5X2R2QkNram54cE94OE5PU1MtMzRGM00wRllKa19mQllDWWs3RW5JUzB6dlMtak01a0RiVkp1UHFpcW1LUU9melFqTGRmdUltalpVZTU1X09JdHV0ZWROOTNrTlJ5RWdEWTU0emNvVkdKdDE1LXJjMHVHR0lFam94UEo1VExheExmQQ",
       "tkey": "熱門族群傳產接手漲允強、汎德永業除息首日走揚",

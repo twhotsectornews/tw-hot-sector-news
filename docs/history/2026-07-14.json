@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "updatedAt": "2026-07-16T03:03:53.241Z",
+  "updatedAt": "2026-07-16T04:03:24.025Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOY1FnWnZaekRtc2lpR3RJUmFNTE5fVnphY3VOTV9kZGdCdF9tVmJpaE55QXhVRVhoQ3JmOE13UzlpLUg5UkY1MnJEZS1JLTFLVjVHVmNyeDA1bHc3eDFwbjZZQWxTOXVFeVVDU1NnYVQ0V3lXS2VKTmJtNHpMX3N0WmVCNjJXMmpP",
@@ -8,32 +8,27 @@
       "title": "《熱門族群》群創殺跌停！面板綠光罩頂 1檔無人機概念逆飛5% - 富聯網",
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6237770001&PU=1002",
       "source": "富聯網",
-      "pubDate": "Tue, 14 Jul 2026 03:59:00 GMT",
+      "pubDate": "Tue, 14 Jul 2026 04:11:00 GMT",
       "stocks": [
         {
           "symbol": "3481",
           "name": "群創",
-          "point": "CoPoS技術為AI晶片先進封裝重要夥伴",
-          "limitUp": false
+          "point": "摜至跌停後打開，成交量破40萬張"
         },
         {
           "symbol": "2409",
           "name": "友達",
-          "point": "MicroLED CPO模組等光通訊題材增溫",
-          "limitUp": false
+          "point": "跟進大跌逾8%"
         },
         {
           "symbol": "6116",
           "name": "彩晶",
-          "point": "第二季營收季增1.82％",
-          "limitUp": false
+          "point": "跟進大跌逾8%"
         },
         {
           "symbol": "2429",
           "name": "銘旺科",
-          "point": "搭上無人機題材逆勢強彈5%",
-          "limitUp": true,
-          "pct": 9.9,
+          "point": "逆勢強彈5%，守在短均之上",
           "luw": 1,
           "luwd": [
             "7/14"
@@ -42,11 +37,10 @@
         {
           "symbol": "5371",
           "name": "中光電",
-          "point": "搭上無人機題材相對抗跌",
-          "limitUp": false
+          "point": "盤中回測10日線後收腳"
         }
       ],
-      "background": "面板產業受消費電子關鍵零件漲價影響，下半年展望保守；無人機概念股則因題材發酵而相對抗跌。",
+      "background": "面板產業受消費電子關鍵零件漲價影響，下半年展望保守。群創因CoPoS先進封裝技術與台積電合作，友達則受惠MicroLED CPO模組等光通訊題材，無人機概念股則逆勢抗跌。",
       "themeTags": [
         "需求驅動"
       ]
