@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "updatedAt": "2026-07-15T12:05:54.324Z",
+  "updatedAt": "2026-07-16T03:03:53.241Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOY1FnWnZaekRtc2lpR3RJUmFNTE5fVnphY3VOTV9kZGdCdF9tVmJpaE55QXhVRVhoQ3JmOE13UzlpLUg5UkY1MnJEZS1JLTFLVjVHVmNyeDA1bHc3eDFwbjZZQWxTOXVFeVVDU1NnYVQ0V3lXS2VKTmJtNHpMX3N0WmVCNjJXMmpP",
@@ -86,10 +86,10 @@
           "limitUp": false,
           "luw": 4,
           "luwd": [
+            "7/15",
             "7/14",
             "7/13",
-            "7/9",
-            "7/8"
+            "7/9"
           ]
         },
         {
@@ -252,11 +252,7 @@
           "point": "6月營收改寫歷史新高",
           "status": "逼近新高",
           "dist": -8.5,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/8"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "6414",
@@ -276,10 +272,10 @@
           "pct": 9.9,
           "luw": 4,
           "luwd": [
+            "7/15",
             "7/14",
             "7/13",
-            "7/9",
-            "7/8"
+            "7/9"
           ]
         },
         {
@@ -355,13 +351,21 @@
           "point": "6月營收創近44個月新高",
           "limitUp": false,
           "status": "逼近新高",
-          "dist": -9.8
+          "dist": -9.8,
+          "luw": 1,
+          "luwd": [
+            "7/15"
+          ]
         },
         {
           "symbol": "6770",
           "name": "力積電",
           "point": "6月營收創近47個月新高",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/15"
+          ]
         },
         {
           "symbol": "5347",
@@ -391,7 +395,11 @@
           "point": "上半年EPS達7.16元",
           "limitUp": false,
           "status": "高檔修正",
-          "dist": -14.2
+          "dist": -14.2,
+          "luw": 1,
+          "luwd": [
+            "7/15"
+          ]
         },
         {
           "symbol": "5443",
