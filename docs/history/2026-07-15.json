@@ -1,34 +1,30 @@
 {
   "date": "2026-07-15",
-  "updatedAt": "2026-07-17T03:03:45.900Z",
+  "updatedAt": "2026-07-17T04:03:20.900Z",
   "news": [
     {
-      "gid": "CBMiakFVX3lxTE91TTN2SjVfSmp6YnI2OFdqYzhwdUlaVlBVeEFYbkFUNkg4dmN3aUlLc2Q0ZWJWU1FlU0R1R1J4T1I5WWZMVXd6ekZRbDl5TFh5SmRmR3Q5RjN5eTZReWJUNU1WMUhUMWYzeVE",
-      "tkey": "熱門族群台塑四寶瘋漲！利多齊發2檔逼近漲停-上市櫃",
-      "title": "《熱門族群》台塑四寶瘋漲！利多齊發2檔逼近漲停- 上市櫃 - 旺得富理財網",
-      "url": "https://wantrich.chinatimes.com/news/20260715900367-420101",
+      "gid": "CBMiakFVX3lxTE1RWUNLdXlScDZsYnlfRVVpWE1OVjBDVlhZVEdrVmFFNHJxcDg2WlQzbkZtVmZLYndfY1JpODEyT0VxblpJWUVrY3VvNEpZUFdRdHFjRnVocGc5OHM3bXZiOGxyQUhKa3lrS0E",
+      "tkey": "熱門族群拍板4.5%台塑員工薪情好！麥寮廠月薪破7.5萬",
+      "title": "《熱門族群》拍板4.5%台塑員工薪情好！ 麥寮廠月薪破7.5萬 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260715900371-420101",
       "source": "旺得富理財網",
-      "pubDate": "Wed, 15 Jul 2026 04:36:02 GMT",
+      "pubDate": "Wed, 15 Jul 2026 04:46:15 GMT",
       "stocks": [
         {
-          "symbol": "6505",
-          "name": "台塑化",
-          "point": "漲幅逼近漲停，受惠煉油與庫存利益",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 2,
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "第二季稅後利益106億元",
+          "luw": 1,
           "luwd": [
-            "7/16",
-            "7/15"
+            "7/13"
           ]
         },
         {
           "symbol": "1303",
           "name": "南亞",
-          "point": "漲幅逼近漲停，AI電子材料需求升溫",
-          "status": "逼近新高",
-          "dist": -1.1,
-          "limitUp": false,
+          "point": "第二季稅後利益267.5億元",
+          "status": "高檔修正",
+          "dist": -13.5,
           "luw": 1,
           "luwd": [
             "7/13"
@@ -37,24 +33,22 @@
         {
           "symbol": "1326",
           "name": "台化",
-          "point": "漲幅逾8%，本業改善",
-          "limitUp": false
+          "point": "第二季稅後利益60.92億元"
         },
         {
-          "symbol": "1301",
-          "name": "台塑",
-          "point": "上漲近4%，本業改善",
-          "limitUp": false,
-          "luw": 1,
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "第二季稅後利益207.78億元",
+          "luw": 2,
           "luwd": [
-            "7/13"
+            "7/16",
+            "7/15"
           ]
         }
       ],
-      "background": "台塑四寶受惠國際油價走揚、第二季獲利回溫，南亞AI電子材料需求升溫，台塑化煉油與庫存利益挹注，台塑與台化本業改善，帶動股價全面走強。",
+      "background": "台塑企業拍板年度調薪4.5%，反映產品高值化、新事業轉型及新能源布局，並因應物價上漲與提升人才競爭力。",
       "themeTags": [
-        "需求驅動",
-        "循環位置"
+        "需求驅動"
       ]
     },
     {
@@ -109,6 +103,56 @@
       "background": "台塑四寶第二季獲利回升，主要受惠於AI資料中心、高速運算需求帶動電子材料需求，以及低成本原料庫存效益與國際油價走揚。企業調薪以反映物價上漲壓力並提升人才競爭力。",
       "themeTags": [
         "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTE91TTN2SjVfSmp6YnI2OFdqYzhwdUlaVlBVeEFYbkFUNkg4dmN3aUlLc2Q0ZWJWU1FlU0R1R1J4T1I5WWZMVXd6ekZRbDl5TFh5SmRmR3Q5RjN5eTZReWJUNU1WMUhUMWYzeVE",
+      "tkey": "熱門族群台塑四寶瘋漲！利多齊發2檔逼近漲停-上市櫃",
+      "title": "《熱門族群》台塑四寶瘋漲！利多齊發2檔逼近漲停- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260715900367-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Wed, 15 Jul 2026 04:30:52 GMT",
+      "stocks": [
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "漲幅逼近漲停",
+          "luw": 2,
+          "luwd": [
+            "7/16",
+            "7/15"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "漲幅一度超過9.5%",
+          "status": "高檔修正",
+          "dist": -13.5,
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "漲幅逾8%"
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "上漲近4%",
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        }
+      ],
+      "background": "台塑四寶受國際油價走揚、第二季獲利回溫、AI電子材料需求升溫及煉油與庫存利益挹注等多重利多帶動，營運表現明顯改善。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
       ]
     },
     {

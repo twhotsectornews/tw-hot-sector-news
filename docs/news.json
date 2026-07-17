@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-17T11:03:45.904+08:00",
-  "generatedAt": "2026-07-17T03:03:45.904Z",
+  "asOf": "2026-07-17T12:03:20.904+08:00",
+  "generatedAt": "2026-07-17T04:03:20.904Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -16,12 +16,25 @@
         "7/15",
         "7/13"
       ],
-      "mentions": 8,
+      "mentions": 9,
       "limitUp": false,
       "luw": 1,
       "luwd": [
         "7/13"
       ]
+    },
+    {
+      "symbol": "1326",
+      "name": "台化",
+      "days": 4,
+      "dates": [
+        "7/17",
+        "7/16",
+        "7/15",
+        "7/13"
+      ],
+      "mentions": 8,
+      "limitUp": false
     },
     {
       "symbol": "6770",
@@ -41,19 +54,6 @@
       ]
     },
     {
-      "symbol": "1326",
-      "name": "台化",
-      "days": 4,
-      "dates": [
-        "7/17",
-        "7/16",
-        "7/15",
-        "7/13"
-      ],
-      "mentions": 7,
-      "limitUp": false
-    },
-    {
       "symbol": "6505",
       "name": "台塑化",
       "days": 3,
@@ -62,7 +62,7 @@
         "7/15",
         "7/13"
       ],
-      "mentions": 8,
+      "mentions": 9,
       "limitUp": true,
       "pct": 9.9,
       "luw": 2,
@@ -80,7 +80,7 @@
         "7/15",
         "7/13"
       ],
-      "mentions": 7,
+      "mentions": 8,
       "status": "逼近新高",
       "dist": -3.9,
       "limitUp": false,
@@ -188,6 +188,17 @@
       "limitUp": false
     },
     {
+      "symbol": "6781",
+      "name": "AES-KY",
+      "days": 2,
+      "dates": [
+        "7/17",
+        "7/12"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "3006",
       "name": "晶豪科",
       "days": 2,
@@ -237,8 +248,19 @@
       "pct": 9.9
     },
     {
-      "symbol": "6781",
-      "name": "AES-KY",
+      "symbol": "6640",
+      "name": "均華",
+      "days": 2,
+      "dates": [
+        "7/17",
+        "7/14"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "6669",
+      "name": "緯穎",
       "days": 2,
       "dates": [
         "7/17",
@@ -357,6 +379,106 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOTVdOSEVZMmoyV1pkc3ZKM3dQdmlfQzZZTS1uVUxPRndoUUV3cEdjTWZ5b3lDbURZSDIwT2JfRktkbkhhWVduZ2Z4WlVJRVd5NE93MWdRMHNhR1lEXzFVQkhNMUFtMW43VkNsNjk4OVB3NTRIbzFmdzhiQmJaeFZ4Ny1EY09LbDhL",
+      "tkey": "熱門族群千金股集體消風5檔立馬退出俱樂部奇鋐唯一亮點",
+      "title": "《熱門族群》千金股集體消風 5檔立馬退出俱樂部 奇鋐唯一亮點 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6241330001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Fri, 17 Jul 2026 02:55:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6944",
+          "name": "兆聯實業",
+          "point": "跌破千元大關",
+          "limitUp": false
+        },
+        {
+          "symbol": "6187",
+          "name": "萬潤",
+          "point": "跌破千元大關",
+          "limitUp": false
+        },
+        {
+          "symbol": "6409",
+          "name": "旭隼",
+          "point": "跌破千元大關",
+          "limitUp": false
+        },
+        {
+          "symbol": "6781",
+          "name": "AES-KY",
+          "point": "跌破千元大關",
+          "limitUp": false
+        },
+        {
+          "symbol": "6640",
+          "name": "均華",
+          "point": "跌破千元大關",
+          "limitUp": false
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "盤中大漲約3%逆勢突圍",
+          "limitUp": false
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "盤中觸及跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "8996",
+          "name": "高力",
+          "point": "盤中觸及跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6223",
+          "name": "旺矽",
+          "point": "跌幅近9%",
+          "limitUp": false
+        },
+        {
+          "symbol": "5274",
+          "name": "信驊",
+          "point": "盤中跌幅約3%至4%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2059",
+          "name": "川湖",
+          "point": "盤中跌幅約3%至4%",
+          "status": "逼近新高",
+          "dist": -9,
+          "limitUp": false
+        },
+        {
+          "symbol": "7769",
+          "name": "鴻勁",
+          "point": "跌幅逼近半根跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6515",
+          "name": "穎崴",
+          "point": "跌幅逼近半根跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6669",
+          "name": "緯穎",
+          "point": "跌幅逼近半根跌停",
+          "limitUp": false
+        }
+      ],
+      "background": "美股重挫拖累全球股市，台股高價股成為殺盤重心，科技股評價偏高加上籌碼面轉弱，半導體族群相對弱勢。",
+      "themeTags": [
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMikgFBVV95cUxOTUxZU2NsTzBGcmVSSWY1TFdLVmViektKZm1FeVJleEE4bVhvRG9YblUxTlNFUjJqUXBvYkJGRTNLTDQ2enhuWDgza09QRlBWUVE3d2F6MGJpMS10czlHcUdjWG1WNFhHSGcxZVVheEJ4d1MtZW51bnE1cmlyRmNqc000SDRxR1QwVjd1c2JVT2Q2dw",
       "tkey": "熱門族群AI電力革命點火BBU外資點名AES-KY、順達受惠",
