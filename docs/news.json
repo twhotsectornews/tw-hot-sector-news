@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-17T13:02:31.912+08:00",
-  "generatedAt": "2026-07-17T05:02:31.912Z",
+  "asOf": "2026-07-17T13:33:39.964+08:00",
+  "generatedAt": "2026-07-17T05:33:39.964Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -16,7 +16,44 @@
         "7/15",
         "7/13"
       ],
+      "mentions": 10,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/13"
+      ]
+    },
+    {
+      "symbol": "6505",
+      "name": "台塑化",
+      "days": 4,
+      "dates": [
+        "7/17",
+        "7/16",
+        "7/15",
+        "7/13"
+      ],
+      "mentions": 10,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "7/16",
+        "7/15"
+      ]
+    },
+    {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 4,
+      "dates": [
+        "7/17",
+        "7/16",
+        "7/15",
+        "7/13"
+      ],
       "mentions": 9,
+      "status": "高檔修正",
+      "dist": -13.5,
       "limitUp": false,
       "luw": 1,
       "luwd": [
@@ -33,7 +70,7 @@
         "7/15",
         "7/13"
       ],
-      "mentions": 8,
+      "mentions": 9,
       "limitUp": false
     },
     {
@@ -51,42 +88,6 @@
       "luw": 1,
       "luwd": [
         "7/15"
-      ]
-    },
-    {
-      "symbol": "6505",
-      "name": "台塑化",
-      "days": 3,
-      "dates": [
-        "7/16",
-        "7/15",
-        "7/13"
-      ],
-      "mentions": 9,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 2,
-      "luwd": [
-        "7/16",
-        "7/15"
-      ]
-    },
-    {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 3,
-      "dates": [
-        "7/16",
-        "7/15",
-        "7/13"
-      ],
-      "mentions": 8,
-      "status": "逼近新高",
-      "dist": -3.9,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/13"
       ]
     },
     {
@@ -185,6 +186,45 @@
         "7/14"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2412",
+      "name": "中華電",
+      "days": 2,
+      "dates": [
+        "7/17",
+        "7/14"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -3.2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3045",
+      "name": "台灣大",
+      "days": 2,
+      "dates": [
+        "7/17",
+        "7/14"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -7.9,
+      "limitUp": false
+    },
+    {
+      "symbol": "4904",
+      "name": "遠傳",
+      "days": 2,
+      "dates": [
+        "7/17",
+        "7/14"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -4.9,
       "limitUp": false
     },
     {
@@ -379,6 +419,97 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNMHZaUkE0MUVXS2lHUmhFN1VGb1g4OWxhWWJ4U0NsTkptZWl3U29kX3pHMy1DU2NNdmxkRVAzTy05UU13WmxaODJrWDdoMDJ0U2NYZXQ4SzNXYXU4b1RPdjBzQi1LZnFWSElqSUxNYmhZNE4wY0dOTl80QXJFT2I3eHpvdk5vTXBJ",
+      "tkey": "熱門族群台股暴跌四寶不同命！南亞跌停鎖住台塑化獨紅",
+      "title": "《熱門族群》台股暴跌四寶不同命！南亞跌停鎖住 台塑化獨紅 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6241472001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Fri, 17 Jul 2026 05:16:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "盤中重摔跌停",
+          "status": "高檔修正",
+          "dist": -13.5,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "同步下挫",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "同步下挫",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "逆勢守紅，唯一上漲",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "7/16",
+            "7/15"
+          ]
+        }
+      ],
+      "background": "台塑四寶受惠上半年獲利優於預期及外資上調評價，但南亞因AI高階電子材料題材漲多回檔，資金轉向受中東局勢與油價反彈帶動的台塑化。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQOGhQWXQtSGlOaU9vQjRIRVFrbUFBb2Q3VGd4RTV0MlZhUHRTRi03T09wVGJVZ2M1dkhnQXdxaXJnMmtjdGR6dFc2QXZ0d3ZKNHp4ZjVTMmotSzF0NGF3YXRqX1JUckpseS12TV93SHlhcXYzcDBXSHpuV3NjVHdyUFY2aTV5QlJo",
+      "tkey": "熱門族群資金轉進成避風港！電信三雄逆勢填息抗跌",
+      "title": "《熱門族群》資金轉進成避風港！ 電信三雄逆勢填息抗跌 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6241395001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 17 Jul 2026 03:52:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2412",
+          "name": "中華電",
+          "point": "盤中完成填息",
+          "status": "逼近新高",
+          "dist": -3.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "point": "盤中完成填息",
+          "status": "逼近新高",
+          "dist": -7.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "point": "盤中完成填息",
+          "status": "逼近新高",
+          "dist": -4.9,
+          "limitUp": false
+        }
+      ],
+      "background": "電信三雄因營運及現金流穩定，加上股利政策明確，在大盤震盪時成為避險資金停泊標的，並受惠5G升級與資通訊業務成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOTVdOSEVZMmoyV1pkc3ZKM3dQdmlfQzZZTS1uVUxPRndoUUV3cEdjTWZ5b3lDbURZSDIwT2JfRktkbkhhWVduZ2Z4WlVJRVd5NE93MWdRMHNhR1lEXzFVQkhNMUFtMW43VkNsNjk4OVB3NTRIbzFmdzhiQmJaeFZ4Ny1EY09LbDhL",
       "tkey": "熱門族群千金股集體消風5檔立馬退出俱樂部奇鋐唯一亮點",
