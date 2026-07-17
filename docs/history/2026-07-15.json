@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "updatedAt": "2026-07-16T12:07:21.435Z",
+  "updatedAt": "2026-07-17T03:03:45.900Z",
   "news": [
     {
       "gid": "CBMiakFVX3lxTE91TTN2SjVfSmp6YnI2OFdqYzhwdUlaVlBVeEFYbkFUNkg4dmN3aUlLc2Q0ZWJWU1FlU0R1R1J4T1I5WWZMVXd6ekZRbDl5TFh5SmRmR3Q5RjN5eTZReWJUNU1WMUhUMWYzeVE",
@@ -16,8 +16,9 @@
           "point": "漲幅逼近漲停，受惠煉油與庫存利益",
           "limitUp": true,
           "pct": 10,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "7/16",
             "7/15"
           ]
         },
@@ -98,8 +99,9 @@
           "point": "第二季獲利回升，EPS 2.18元",
           "limitUp": true,
           "pct": 10,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "7/16",
             "7/15"
           ]
         }
@@ -123,8 +125,9 @@
           "point": "盤中最高衝上72.7元，漲幅逼近漲停",
           "limitUp": true,
           "pct": 10,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "7/16",
             "7/15"
           ]
         },
@@ -208,11 +211,7 @@
           "symbol": "2408",
           "name": "南亞科",
           "point": "同步勁揚逾5%",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/9"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "2337",
