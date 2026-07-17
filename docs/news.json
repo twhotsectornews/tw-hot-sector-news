@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-17T17:42:04.680+08:00",
-  "generatedAt": "2026-07-17T09:42:04.680Z",
+  "asOf": "2026-07-17T18:41:38.048+08:00",
+  "generatedAt": "2026-07-17T10:41:38.048Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -196,7 +196,7 @@
         "7/17",
         "7/14"
       ],
-      "mentions": 3,
+      "mentions": 4,
       "status": "逼近新高",
       "dist": -3.2,
       "limitUp": false
@@ -209,9 +209,9 @@
         "7/17",
         "7/14"
       ],
-      "mentions": 3,
+      "mentions": 4,
       "status": "逼近新高",
-      "dist": -7.9,
+      "dist": -7.5,
       "limitUp": false
     },
     {
@@ -222,9 +222,9 @@
         "7/17",
         "7/14"
       ],
-      "mentions": 3,
+      "mentions": 4,
       "status": "逼近新高",
-      "dist": -4.9,
+      "dist": -5.8,
       "limitUp": false
     },
     {
@@ -468,6 +468,44 @@
         }
       ],
       "background": "台塑四寶受惠上半年獲利優於預期及外資上調評價，但南亞因AI高階電子材料題材漲多回檔，資金轉向受中東局勢與油價反彈帶動的台塑化。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTE93dFl0Zk1Ic01VcUJYbGtUSjdyVGJzQnFDVmNyOVNsY3laUVNHa2ZHaFl1M0JEcTZXWUhuZDFpVHdIamZUeDlaeHVFZ1dZQUFqUjFjYzFtY2VIUG5ZVExrQVYwRVZEcHFnSHc",
+      "tkey": "熱門族群資金轉進成避風港！電信三雄逆勢填息抗跌-上市櫃",
+      "title": "《熱門族群》資金轉進成避風港！ 電信三雄逆勢填息抗跌- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260717900262-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Fri, 17 Jul 2026 04:07:32 GMT",
+      "stocks": [
+        {
+          "symbol": "2412",
+          "name": "中華電",
+          "point": "盤中完成填息，股價最高140元",
+          "status": "逼近新高",
+          "dist": -3.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "point": "盤中完成填息，股價最高113元",
+          "status": "逼近新高",
+          "dist": -7.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "point": "盤中完成填息，漲幅最強個股",
+          "status": "逼近新高",
+          "dist": -5.8,
+          "limitUp": false
+        }
+      ],
+      "background": "電信三雄因營運及配息穩定，成為資金避風港，在台股大盤震盪時逆勢抗跌。行動通訊市場健康競爭，5G升級推升ARPU，資通訊業務亦為成長動能。",
       "themeTags": [
         "需求驅動"
       ]
