@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-17T18:57:19.030+08:00",
-  "generatedAt": "2026-07-17T10:57:19.030Z",
+  "asOf": "2026-07-17T19:57:18.057+08:00",
+  "generatedAt": "2026-07-17T11:57:18.057Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -419,6 +419,20 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTFB5emZNY0M4dF9BX2ZwN3lUSEw4OHE1VVBKZkM3bXVBak1xamNtUy05MVhCUloxRV95Zm94ZGFWTUFWMHE2aV9GUlVTLUVibmI3UDY2WGZUaEw",
+      "tkey": "熱門族群輝達GTC新AI架構散熱雙雄帶頭衝",
+      "title": "熱門族群》輝達GTC新AI架構 散熱雙雄帶頭衝 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/ytvagrc0sscc",
+      "source": "自由時報",
+      "pubDate": "Fri, 17 Jul 2026 08:37:38 GMT",
+      "stocks": [],
+      "background": "輝達GTC大會發表新AI架構，預期將帶動AI伺服器散熱模組需求，散熱族群受此國際題材激勵。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNMHZaUkE0MUVXS2lHUmhFN1VGb1g4OWxhWWJ4U0NsTkptZWl3U29kX3pHMy1DU2NNdmxkRVAzTy05UU13WmxaODJrWDdoMDJ0U2NYZXQ4SzNXYXU4b1RPdjBzQi1LZnFWSElqSUxNYmhZNE4wY0dOTl80QXJFT2I3eHpvdk5vTXBJ",
       "tkey": "熱門族群台股暴跌四寶不同命！南亞跌停鎖住台塑化獨紅",
