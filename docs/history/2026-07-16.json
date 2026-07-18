@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "updatedAt": "2026-07-18T03:02:03.524Z",
+  "updatedAt": "2026-07-18T04:02:35.484Z",
   "news": [
     {
       "gid": "CBMiakFVX3lxTE90SDhCWS03WjUyQjhSLXVoQzlaMEJ0VkUydGdBTWIwUU5sNmtiUkEwS1c3cGNiakE2cWZtTXlSU2Vod3VXRmxDNG1wd2QyU3J2dUJaeXd6YU9reG9VZXRFd25wSmFUZExyMWc",
@@ -14,8 +14,6 @@
           "symbol": "6505",
           "name": "台塑化",
           "point": "爆量鎖漲停",
-          "limitUp": true,
-          "pct": 9.9,
           "luw": 2,
           "luwd": [
             "7/16",
@@ -25,8 +23,7 @@
         {
           "symbol": "1301",
           "name": "台塑",
-          "point": "股價上漲",
-          "limitUp": false,
+          "point": "盤中上漲",
           "luw": 1,
           "luwd": [
             "7/13"
@@ -35,25 +32,91 @@
         {
           "symbol": "1326",
           "name": "台化",
-          "point": "股價平盤之上震盪",
-          "limitUp": false
+          "point": "平盤之上震盪"
         },
         {
           "symbol": "1303",
           "name": "南亞",
-          "point": "獲利了結賣壓下跌",
-          "status": "逼近新高",
-          "dist": -3.9,
-          "limitUp": false,
+          "point": "獲利了結賣壓",
+          "status": "高檔修正",
+          "dist": -13.5,
           "luw": 1,
           "luwd": [
             "7/13"
           ]
         }
       ],
-      "background": "台塑化受國際油價維持高檔及中東情勢升溫影響，帶動石化基本原料報價走高，營運表現改善。台塑四寶受惠上半年獲利回升，資金輪動。",
+      "background": "國際油價受中東衝突升溫影響維持高檔，帶動石化基本原料報價走高，台塑化受惠煉油利差擴大，營運表現改善。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMikgFBVV95cUxNSnRKS3JwRnBydnN5eHM0YU5aeDUxYXRBcjRraXNHTl80bWJxX25mRkZlbzJGSjZwdDFydFV2YmJ6LVVXOTZfanZzNjUyeTJuMjZzZ3M2N0Z3TVdzTE1nQVhnZ2JwellkNDlEM0dLaFFyWThGbjE1VmNjemhfdXZZOFloRTl1VmdtTTMyakN0MkJ3UQ",
+      "tkey": "熱門族群記憶體跳水免驚？力積電強霸人氣王1檔天價攻頂",
+      "title": "《熱門族群》記憶體跳水免驚？力積電強霸人氣王 1檔天價攻頂 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6240234001&pu=News_0002_3",
+      "source": "富聯網",
+      "pubDate": "Thu, 16 Jul 2026 04:25:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "逆勢走升逾3%居人氣王",
+          "luw": 1,
+          "luwd": [
+            "7/15"
+          ]
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "回檔逾3%"
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "回檔逾3%",
+          "luw": 1,
+          "luwd": [
+            "7/15"
+          ]
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "回檔逾3%"
+        },
+        {
+          "symbol": "3006",
+          "name": "晶豪科",
+          "point": "回檔逾3%",
+          "luw": 1,
+          "luwd": [
+            "7/15"
+          ]
+        },
+        {
+          "symbol": "5351",
+          "name": "鈺創",
+          "point": "回檔逾3%"
+        },
+        {
+          "symbol": "8150",
+          "name": "南茂",
+          "point": "亮燈攻頂改寫歷史高",
+          "status": "高檔修正",
+          "dist": -11.6,
+          "luw": 1,
+          "luwd": [
+            "7/15"
+          ]
+        }
+      ],
+      "background": "記憶體產業受AI基礎建設需求放緩擔憂影響，但全球供需緊俏趨勢未變，SK海力士預估供應吃緊將持續至2027年，產業景氣延續上行。",
       "themeTags": [
         "需求驅動",
+        "國際大廠",
         "循環位置"
       ]
     },
@@ -139,6 +202,59 @@
         }
       ],
       "background": "光學鏡頭產業受惠於高階鏡頭升級、共同封裝光學（CPO）應用及車載、無人機等新賽道需求驅動，產業前景看好。指標大廠積極布局新技術，帶動族群表現。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOLUJhTlBYLVlQOFY4STA4bDgzSjlBTk5iT2FsN3M0RkFVa19DenJCWmpJZnQ0MXA5NWFYZTlmbUZWRVpYdkJZNmZHUDBaRU1Ycjc2c2JDOV9qX0ZEQ21NRjgzcmxjazJNN2NONXdQaHFTMWxiYUJ2S3JhcGZWTTllRm4zOVVEY1lM",
+      "tkey": "熱門族群大立光帶頭衝！光學股齊放閃1檔鎖紅燈",
+      "title": "《熱門族群》大立光帶頭衝！光學股齊放閃 1檔鎖紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6240285001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 16 Jul 2026 04:04:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "反彈逾半根停板",
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        },
+        {
+          "symbol": "3441",
+          "name": "聯一光",
+          "point": "亮燈攻頂"
+        },
+        {
+          "symbol": "6517",
+          "name": "保勝光學",
+          "point": "逆勢走強"
+        },
+        {
+          "symbol": "3504",
+          "name": "揚明光",
+          "point": "逆勢走強"
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "半年線前抗跌有撐"
+        },
+        {
+          "symbol": "6209",
+          "name": "今國光",
+          "point": "逆勢走強"
+        },
+        {
+          "symbol": "3362",
+          "name": "先進光",
+          "point": "逆勢走強"
+        }
+      ],
+      "background": "光學鏡頭受惠高階鏡頭升級與CPO應用布局，大立光光纖陣列產品送樣，玉晶光CPO新產品送樣，聯一光切入車載、無人機等新賽道。",
       "themeTags": [
         "需求驅動"
       ]

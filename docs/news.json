@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-18T11:02:03.527+08:00",
-  "generatedAt": "2026-07-18T03:02:03.527Z",
+  "asOf": "2026-07-18T12:02:35.488+08:00",
+  "generatedAt": "2026-07-18T04:02:35.488Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -84,7 +84,7 @@
         "7/15",
         "7/14"
       ],
-      "mentions": 7,
+      "mentions": 8,
       "limitUp": false,
       "luw": 1,
       "luwd": [
@@ -107,6 +107,34 @@
       "limitUp": false
     },
     {
+      "symbol": "2344",
+      "name": "華邦電",
+      "days": 4,
+      "dates": [
+        "7/18",
+        "7/16",
+        "7/15",
+        "7/13"
+      ],
+      "mentions": 4,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/15"
+      ]
+    },
+    {
+      "symbol": "2408",
+      "name": "南亞科",
+      "days": 3,
+      "dates": [
+        "7/16",
+        "7/15",
+        "7/13"
+      ],
+      "mentions": 6
+    },
+    {
       "symbol": "4904",
       "name": "遠傳",
       "days": 3,
@@ -121,16 +149,15 @@
       "limitUp": false
     },
     {
-      "symbol": "2408",
-      "name": "南亞科",
+      "symbol": "2337",
+      "name": "旺宏",
       "days": 3,
       "dates": [
         "7/16",
         "7/15",
         "7/13"
       ],
-      "mentions": 5,
-      "limitUp": false
+      "mentions": 5
     },
     {
       "symbol": "2303",
@@ -165,18 +192,6 @@
       "luwd": [
         "7/13"
       ]
-    },
-    {
-      "symbol": "2337",
-      "name": "旺宏",
-      "days": 3,
-      "dates": [
-        "7/16",
-        "7/15",
-        "7/13"
-      ],
-      "mentions": 4,
-      "limitUp": false
     },
     {
       "symbol": "6488",
@@ -221,22 +236,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2344",
-      "name": "華邦電",
-      "days": 3,
-      "dates": [
-        "7/18",
-        "7/15",
-        "7/13"
-      ],
-      "mentions": 3,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/15"
-      ]
-    },
-    {
       "symbol": "3481",
       "name": "群創",
       "days": 3,
@@ -275,6 +274,21 @@
       "limitUp": false
     },
     {
+      "symbol": "3006",
+      "name": "晶豪科",
+      "days": 2,
+      "dates": [
+        "7/17",
+        "7/16"
+      ],
+      "mentions": 4,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/15"
+      ]
+    },
+    {
       "symbol": "6781",
       "name": "AES-KY",
       "days": 2,
@@ -286,19 +300,30 @@
       "limitUp": false
     },
     {
-      "symbol": "3006",
-      "name": "晶豪科",
+      "symbol": "3008",
+      "name": "大立光",
       "days": 2,
       "dates": [
-        "7/17",
-        "7/16"
+        "7/16",
+        "7/13"
       ],
       "mentions": 3,
       "limitUp": false,
       "luw": 1,
       "luwd": [
-        "7/15"
+        "7/13"
       ]
+    },
+    {
+      "symbol": "3406",
+      "name": "玉晶光",
+      "days": 2,
+      "dates": [
+        "7/16",
+        "7/15"
+      ],
+      "mentions": 3,
+      "limitUp": false
     },
     {
       "symbol": "5483",
@@ -404,32 +429,6 @@
         "7/16",
         "7/13"
       ]
-    },
-    {
-      "symbol": "3008",
-      "name": "大立光",
-      "days": 2,
-      "dates": [
-        "7/16",
-        "7/13"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/13"
-      ]
-    },
-    {
-      "symbol": "3406",
-      "name": "玉晶光",
-      "days": 2,
-      "dates": [
-        "7/16",
-        "7/15"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
