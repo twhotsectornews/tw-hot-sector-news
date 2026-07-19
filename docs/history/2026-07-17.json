@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "updatedAt": "2026-07-19T04:01:52.265Z",
+  "updatedAt": "2026-07-19T05:02:04.091Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTFB5emZNY0M4dF9BX2ZwN3lUSEw4OHE1VVBKZkM3bXVBak1xamNtUy05MVhCUloxRV95Zm94ZGFWTUFWMHE2aV9GUlVTLUVibmI3UDY2WGZUaEw",
@@ -10,7 +10,7 @@
       "source": "自由時報",
       "pubDate": "Fri, 17 Jul 2026 08:37:38 GMT",
       "stocks": [],
-      "background": "輝達GTC大會發布新AI架構，預期將帶動散熱模組需求，相關供應鏈受惠於AI伺服器與高效能運算發展。",
+      "background": "輝達GTC大會公布新AI架構，預期將帶動AI伺服器散熱需求，散熱雙雄可望受惠。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
@@ -80,7 +80,7 @@
         {
           "symbol": "1303",
           "name": "南亞",
-          "point": "盤中重摔跌停",
+          "point": "盤中重摔跌停，AI高階電子材料題材",
           "status": "高檔修正",
           "dist": -13.5,
           "luw": 1,
@@ -91,7 +91,7 @@
         {
           "symbol": "1301",
           "name": "台塑",
-          "point": "股價同步下挫",
+          "point": "同步下挫",
           "luw": 1,
           "luwd": [
             "7/13"
@@ -100,12 +100,12 @@
         {
           "symbol": "1326",
           "name": "台化",
-          "point": "股價同步下挫"
+          "point": "同步下挫"
         },
         {
           "symbol": "6505",
           "name": "台塑化",
-          "point": "大盤急殺下逆勢守紅",
+          "point": "逆勢守紅，唯一上漲個股",
           "luw": 2,
           "luwd": [
             "7/16",
@@ -113,7 +113,7 @@
           ]
         }
       ],
-      "background": "台塑四寶因上半年獲利優於預期，股價輪番大漲後，在大盤暴跌時走勢分化，資金轉向油價及煉油題材明確的台塑化。",
+      "background": "台塑四寶受惠上半年獲利優於預期及外資上調評價，但短線漲幅過大，資金轉向油價及煉油題材明確的台塑化。",
       "themeTags": []
     },
     {
