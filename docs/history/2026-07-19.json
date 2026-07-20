@@ -1,0 +1,72 @@
+{
+  "date": "2026-07-19",
+  "updatedAt": "2026-07-20T03:02:37.870Z",
+  "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE9scUtlbTdwQ3FXNVJrRWtNTjJSV2NQdzdaa1Jsc1VkVlp5YjAwWi1vUUVaYUE3ajdmbVJWb2hWeUtkTkczT0Jzd3JHUWI5ODRXa2tEVzNDcXM",
+      "tkey": "熱門族群AI需求旺到2030年晶圓代工產業迎榮景",
+      "title": "熱門族群》AI需求旺到2030年 晶圓代工產業迎榮景 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/7hmghe8jscxg",
+      "source": "自由時報",
+      "pubDate": "Sat, 18 Jul 2026 23:13:21 GMT",
+      "stocks": [],
+      "background": "AI 需求持續增長，帶動晶圓代工產業景氣，預期將受惠於高效能運算與資料中心建置。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiZEFVX3lxTE9WbGtiT3pxRWVRTXZscmYxQ3FadzEwWVMySDNkZXUyOUFWTzhtSHgzWm5vSlZIWEEyV3FqWkk2QlVWSGM5eXc3cW1LWTdtUW55cTh3WjZROGFlYnhqXzRLNzdVdS3SAWRBVV95cUxPVmxrYk96cUVlUU12bHJmMUNxWncxMFlTMkgzZGV1MjlBVk84bUh4M1pub0pWSFhBMldxalpJNkJVVkhjOXl3N3FtS1k3bVFueXE4d1o2UThhZWJ4al80Szc3VXUt",
+      "tkey": "熱門族群低基期加獲利超預期法人挺塑化股Q3續強",
+      "title": "熱門族群》低基期加獲利超預期 法人挺塑化股Q3續強 - 自由財經",
+      "url": "https://ec.ltn.com.tw/amp/article/breakingnews/5509350",
+      "source": "自由財經",
+      "pubDate": "Sat, 18 Jul 2026 23:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "大盤下跌時逆勢上漲",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "7/16",
+            "7/15"
+          ]
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "股價奮勇向上",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "股價奮勇向上",
+          "status": "高檔修正",
+          "dist": -13.5,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/13"
+          ]
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "股價奮勇向上",
+          "limitUp": false
+        }
+      ],
+      "background": "塑化股因低基期與獲利超預期，加上國際油價反彈及中東石化產能受損改善供需，法人看好第三季續強。",
+      "themeTags": [
+        "循環位置"
+      ]
+    }
+  ]
+}
