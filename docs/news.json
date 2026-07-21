@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-21T16:07:42.708+08:00",
-  "generatedAt": "2026-07-21T08:07:42.708Z",
+  "asOf": "2026-07-21T17:42:43.965+08:00",
+  "generatedAt": "2026-07-21T09:42:43.965Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -19,9 +19,7 @@
         "7/16",
         "7/15"
       ],
-      "mentions": 13,
-      "status": "高檔修正",
-      "dist": -14.8,
+      "mentions": 14,
       "limitUp": false
     },
     {
@@ -36,7 +34,7 @@
         "7/16",
         "7/15"
       ],
-      "mentions": 14,
+      "mentions": 15,
       "limitUp": true,
       "pct": 9.9,
       "luw": 2,
@@ -57,7 +55,7 @@
         "7/16",
         "7/15"
       ],
-      "mentions": 12,
+      "mentions": 13,
       "limitUp": false
     },
     {
@@ -72,7 +70,7 @@
         "7/16",
         "7/15"
       ],
-      "mentions": 12,
+      "mentions": 13,
       "limitUp": false
     },
     {
@@ -328,6 +326,197 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQUEhETzBJdmlaaEtlS0RnV3dULTBTX2E4YUc0aVVreGpWd3UzWDlkN2p2VzRMck5Zb1g1Yi1DMG9jQi1xMnhkOTA2QzRwUDQ0TGRabURGN1JfSXBrT0V3QkZLb2xCWVZMYUNQNHJyRXJDeXpvVTNoUURibzlvWnlSVEM1QXJzZmk2",
+      "tkey": "熱門族群台股強彈1700點！主動式台股ETF領軍衝鋒8檔飆漲逾6％",
+      "title": "《熱門族群》台股強彈1700點！主動式台股ETF領軍衝鋒 8檔飆漲逾6％ - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6245088001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 21 Jul 2026 07:54:00 GMT",
+      "stocks": [],
+      "background": "台股受美股財報季及AI產業成長動能帶動強彈，主動式台股ETF展現選股優勢。PCB上游設備族群及CCL概念股漲勢凌厲。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQYWYwVy04Z0lfd1A3S1NscEVrSENNWVlkV1VqQlpjX18tdGlxcUdtQ2hXVS1kemc0OEFvWEhSODRKMExkZWp2dWs0Xy0zb3FMZDdoaVJxb3Q0UVI0aVNSSF9QLWVRTGo5QU4xd08xVWhuNWdsa0xfc2l3THUzVUEzSm1UMXN0UDNB",
+      "tkey": "熱門族群新車戰開打緊盯三變數三大車廠火力全開",
+      "title": "《熱門族群》新車戰開打緊盯三變數三大車廠火力全開 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6245070001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 21 Jul 2026 07:44:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2207",
+          "name": "和泰車",
+          "point": "股價向上表態",
+          "limitUp": false
+        },
+        {
+          "symbol": "2206",
+          "name": "三陽工業",
+          "point": "股價向上表態",
+          "limitUp": false
+        },
+        {
+          "symbol": "2201",
+          "name": "裕隆",
+          "point": "股價向上表態",
+          "limitUp": false
+        },
+        {
+          "symbol": "2204",
+          "name": "中華",
+          "point": "轉投資業績下滑拖累",
+          "limitUp": false
+        }
+      ],
+      "background": "整車市場進入下半年旺季，車廠積極推出新車刺激買氣。台灣上半年新車銷量小幅成長，市場預期下半年景氣將持續回溫。",
+      "themeTags": [
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQcTZMLWwtQW9BTUU2TFItcXVNZmx0MC1PUmctNGhiYl8yLXVYMW9RNUdPMTY1d2NYQjVOb2kxa1BEU0wxbU0yUURsQV9ZV0dEV2lYV0Rad0hPS2h6azJ0dGQtQWc1ZXpJNjhGb19xNWI3UVJMblBPREd0VE1YSHl2azVZakFhVFVo",
+      "tkey": "熱門族群機器人、邊緣AI題材發酵IPC族群全面噴發",
+      "title": "《熱門族群》機器人、邊緣AI題材發酵 IPC族群全面噴發 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6244963001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 21 Jul 2026 06:17:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3479",
+          "name": "安勤",
+          "point": "收鎖漲停",
+          "status": "逼近新高",
+          "dist": -1.7,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "7/20",
+            "7/17",
+            "7/16",
+            "7/15",
+            "7/14"
+          ]
+        },
+        {
+          "symbol": "6414",
+          "name": "樺漢",
+          "point": "收鎖漲停",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "6166",
+          "name": "凌華",
+          "point": "收鎖漲停",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "3022",
+          "name": "威強電",
+          "point": "收鎖漲停",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "6922",
+          "name": "宸曜",
+          "point": "收鎖漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "7/20",
+            "7/17",
+            "7/16",
+            "7/15",
+            "7/14"
+          ]
+        },
+        {
+          "symbol": "3088",
+          "name": "艾訊",
+          "point": "收鎖漲停",
+          "status": "逼近新高",
+          "dist": -8.9,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "7/20",
+            "7/17",
+            "7/16",
+            "7/15",
+            "7/14"
+          ]
+        },
+        {
+          "symbol": "2395",
+          "name": "研華",
+          "point": "收鎖漲停",
+          "status": "逼近新高",
+          "dist": -4.4,
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "8114",
+          "name": "振樺電",
+          "point": "收鎖漲停",
+          "limitUp": true,
+          "pct": 9.8
+        },
+        {
+          "symbol": "3577",
+          "name": "泓格",
+          "point": "收鎖漲停",
+          "status": "逼近新高",
+          "dist": -8.1,
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 5,
+          "luwd": [
+            "7/20",
+            "7/17",
+            "7/16",
+            "7/15",
+            "7/14"
+          ]
+        },
+        {
+          "symbol": "6579",
+          "name": "研揚",
+          "point": "收鎖漲停",
+          "limitUp": true,
+          "pct": 9.7
+        },
+        {
+          "symbol": "3416",
+          "name": "融程電",
+          "point": "收鎖漲停",
+          "limitUp": true,
+          "pct": 9.7
+        },
+        {
+          "symbol": "4916",
+          "name": "事欣科",
+          "point": "收鎖漲停",
+          "limitUp": true,
+          "pct": 9.5
+        }
+      ],
+      "background": "工業電腦(IPC)族群受機器人、邊緣AI、軍工、智慧零售等題材帶動全面噴發。AI從雲端向邊緣端遷移，智慧終端應用日益重要。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxONzhHVlhWaEswcTMzWjI1eXBVR3h3YzlPZlFOeFVvVnozMjZIeDdJZ2FvY29XOWF2UWJTQVRIaDFjWHd0QW5xdjRQYVNpaVd0QlVSRGZPclEtQW5MT0JtcTNoRU4xOXp3WHlCcjdjNHlkYVFaZ2REUUMwc1BRc2dnOVAta2NZNUFF",
       "tkey": "熱門族群機器人大軍出擊！IPC成領頭羊研華領軍9檔飆漲停",
@@ -723,6 +912,51 @@
       "background": "AI算力需求升溫，新一代資料中心平台升級點燃ABF載板商機，高階載板供應吃緊，產業景氣迎新一波成長動能。",
       "themeTags": [
         "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTE4xQlcydnh4Q0pYOHVVWFJRX2ZDTkR5dTI4WndGaDdPby1CSWRWdTJ6RV9yS2ZrTkJiNndmNjRBWWVteVZRVl92dS1OTW1uR21hZDBScFQyU3M1NlB4T0c4TTZoSkJDaFkxY0E",
+      "tkey": "熱門族群台塑四寶全面點火！台塑化鎖漲停、南亞200元得而復失-上市櫃",
+      "title": "《熱門族群》台塑四寶全面點火！台塑化鎖漲停、南亞200元得而復失- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260721900152-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Tue, 21 Jul 2026 02:26:53 GMT",
+      "stocks": [
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "盤中直攻漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "7/16",
+            "7/15"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "盤中最高來到201元",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "漲幅一度超過5%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "維持盤上震盪",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶受惠煉油利差、高階電子材料需求及石化產品利差改善，營運逐步走出低迷。AI伺服器帶動高階電子材料需求，成品油供給偏緊。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
       ]
     },
     {
