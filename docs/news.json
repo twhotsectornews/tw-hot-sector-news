@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-21T12:03:52.192+08:00",
-  "generatedAt": "2026-07-21T04:03:52.192Z",
+  "asOf": "2026-07-21T13:03:58.775+08:00",
+  "generatedAt": "2026-07-21T05:03:58.775Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -20,6 +20,8 @@
         "7/15"
       ],
       "mentions": 13,
+      "status": "高檔修正",
+      "dist": -14.8,
       "limitUp": false
     },
     {
@@ -35,7 +37,8 @@
         "7/15"
       ],
       "mentions": 14,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 2,
       "luwd": [
         "7/16",
@@ -83,9 +86,9 @@
         "7/17",
         "7/16"
       ],
-      "mentions": 5,
+      "mentions": 6,
       "status": "逼近新高",
-      "dist": -5.9,
+      "dist": -5.5,
       "limitUp": false
     },
     {
@@ -315,6 +318,135 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxONHVCeWZYVlgwbVhFU3BxdW9hZS1Ic0tMUkYzMHlqbXk3Q0w2STVySHhWV2p4YmZpX1RyVEowb3NidFNYV1hjSmlOb1B3UnJJZFltclpQMGxRNUVnZFlzeXVhd2ZfSkJ3dmdqUDVpMjcyMjNLc3pkUlVWTTBkLWlrTFpXNjRqNnJG",
+      "tkey": "熱門族群利多匯集！矽光子迎商機族群集體走升",
+      "title": "《熱門族群》利多匯集！矽光子迎商機 族群集體走升 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6244838001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 21 Jul 2026 04:09:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3450",
+          "name": "聯鈞",
+          "point": "矽光子題材先攻漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2345",
+          "name": "智邦",
+          "point": "矽光子題材漲逾半根",
+          "limitUp": false
+        },
+        {
+          "symbol": "8111",
+          "name": "立碁",
+          "point": "矽光子題材漲逾半根",
+          "limitUp": false
+        },
+        {
+          "symbol": "4979",
+          "name": "華星光",
+          "point": "矽光子題材漲逾半根",
+          "limitUp": false
+        },
+        {
+          "symbol": "3163",
+          "name": "波若威",
+          "point": "矽光子題材漲逾半根",
+          "limitUp": false
+        },
+        {
+          "symbol": "3363",
+          "name": "上詮",
+          "point": "矽光子題材同步走揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "矽光子題材同步走揚",
+          "limitUp": false
+        }
+      ],
+      "background": "矽光子技術受惠於AI大模型Kimi K3崛起及光互連需求，國際大廠AMD、Intel、NVIDIA、台積電等支持，有望提升AI資料中心傳輸效率。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPbk1RTGJmYlRBWFhXZ1dhSU1rV1ZCVGtzdHVaMEpZd3Z4VkJ1XzBwT01QTTNPRDBEbmtjbGJnbndReHlXbTY3VnBhSWUtVmZSZ0hZMEJaRVNLNUd1aUNrZWNLQm41ZHhvLUhXbXBXVFdCRV80dE1UWHFORGM1MXhJU0JVM090ay01",
+      "tkey": "熱門族群輝積推一把！機器人有靠山IPC紅燈股排排站",
+      "title": "《熱門族群》「輝積」推一把！機器人有靠山 IPC紅燈股排排站 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6244814001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 21 Jul 2026 03:57:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "權王掌舵台股反彈",
+          "status": "逼近新高",
+          "dist": -5.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "6166",
+          "name": "凌華",
+          "point": "入選輝達合作夥伴並亮燈攻頂",
+          "limitUp": false
+        },
+        {
+          "symbol": "2395",
+          "name": "研華",
+          "point": "入選輝達合作夥伴並亮燈攻頂",
+          "status": "逼近新高",
+          "dist": -4.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "6414",
+          "name": "樺漢",
+          "point": "受惠邊緣AI應用訂單暢旺",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false
+        },
+        {
+          "symbol": "6579",
+          "name": "研揚",
+          "point": "工業電腦族群同步漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "4513",
+          "name": "福裕",
+          "point": "工業電腦族群同步漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3088",
+          "name": "艾訊",
+          "point": "工業電腦族群同步漲停",
+          "status": "逼近新高",
+          "dist": -8.9,
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "3022",
+          "name": "威強電",
+          "point": "工業電腦族群同步漲停",
+          "limitUp": false
+        }
+      ],
+      "background": "機器人產業受惠於AI技術發展與陪伴經濟需求，輝達積極布局實體AI與機器人，帶動工業電腦（IPC）廠訂單成長，產業前景樂觀。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxQcUl0VXpQZm83dXBENkdMSHRJMHMzcEk0eDQwUWZEdkZXRUJwanE5eVRtM3pVXzhtczlRb1JVeEQ3QnNBQk5feVpkR0dYeE9aemZBRzZfUktUTVBqOWNRc1ZFQlJtak9XcEc2SjNITi1hMUdwZ3NSQ0pnaHItNjNwTS1VRFNLSE9N",
       "tkey": "熱門族群亂世英雄！漢翔帶頭衝軍工紅燈海再現",
       "title": "《熱門族群》亂世英雄！漢翔帶頭衝 軍工紅燈海再現 - 富聯網",
@@ -328,8 +460,7 @@
           "point": "帶頭衝、連秀2顆紅燈",
           "status": "創新高",
           "dist": 0,
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "1810",
@@ -337,7 +468,8 @@
           "point": "高硬度陶瓷技術應用於軍備",
           "status": "逼近新高",
           "dist": -1.9,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "7/14"
@@ -353,7 +485,8 @@
           "symbol": "2630",
           "name": "亞航",
           "point": "刷一排紅燈",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "7/14"
@@ -380,7 +513,8 @@
           "symbol": "6753",
           "name": "龍德造船",
           "point": "刷一排紅燈",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.7
         },
         {
           "symbol": "3230",
@@ -392,7 +526,8 @@
           "symbol": "8222",
           "name": "寶一",
           "point": "刷一排紅燈",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "8033",
@@ -463,7 +598,8 @@
           "symbol": "6505",
           "name": "台塑化",
           "point": "盤中直攻85.4元漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 2,
           "luwd": [
             "7/16",
@@ -480,7 +616,9 @@
           "symbol": "1303",
           "name": "南亞",
           "point": "盤中最高來到201元",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14.8
         },
         {
           "symbol": "1301",
@@ -579,7 +717,8 @@
           "symbol": "6505",
           "name": "台塑化",
           "point": "法人喊買",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 2,
           "luwd": [
             "7/16",
@@ -590,7 +729,9 @@
           "symbol": "1303",
           "name": "南亞",
           "point": "率先轉強",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14.8
         }
       ],
       "background": "台塑化受惠中東與俄羅斯煉油產能受損，煉油利差維持高檔；台化則因產品利差改善及轉投資收益，獲利重啟成長。",
@@ -792,7 +933,9 @@
           "symbol": "1303",
           "name": "南亞",
           "point": "漲多遭賣壓，股價震盪走低",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14.8
         },
         {
           "symbol": "1301",

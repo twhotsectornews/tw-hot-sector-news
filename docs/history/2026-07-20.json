@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "updatedAt": "2026-07-21T04:03:52.188Z",
+  "updatedAt": "2026-07-21T05:03:58.770Z",
   "news": [
     {
       "gid": "CBMikgFBVV95cUxPTm53S0sxM0d5NTZJSXY0QldlcnYwMHVyVGc4RFVrUTlSWlNTZDZOd3lIa2llOHFnZ295MXFSMi1SMGpzZVdGYUhNelBVa1JoQkk3dm9vMzlrdXp1aWVnZm12TUFxSUEwV1daNWNRVm9SZE9oSVdOLTZWcFBld0NKeEF4SDhhajZVdHl0b2xna1NKdw",
@@ -164,7 +164,9 @@
           "symbol": "1303",
           "name": "南亞",
           "point": "漲多遭賣壓，股價震盪走低",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14.8
         },
         {
           "symbol": "1301",
