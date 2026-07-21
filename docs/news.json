@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-21T13:03:58.775+08:00",
-  "generatedAt": "2026-07-21T05:03:58.775Z",
+  "asOf": "2026-07-21T13:42:51.787+08:00",
+  "generatedAt": "2026-07-21T05:42:51.787Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -236,7 +236,8 @@
         "7/18"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "3037",
@@ -247,7 +248,8 @@
         "7/18"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "6274",
@@ -258,7 +260,8 @@
         "7/17"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.8
     },
     {
       "symbol": "3324",
@@ -329,7 +332,8 @@
           "symbol": "3450",
           "name": "聯鈞",
           "point": "矽光子題材先攻漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "2345",
@@ -394,7 +398,8 @@
           "symbol": "6166",
           "name": "凌華",
           "point": "入選輝達合作夥伴並亮燈攻頂",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "2395",
@@ -402,7 +407,8 @@
           "point": "入選輝達合作夥伴並亮燈攻頂",
           "status": "逼近新高",
           "dist": -4.4,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6414",
@@ -410,19 +416,22 @@
           "point": "受惠邊緣AI應用訂單暢旺",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "6579",
           "name": "研揚",
           "point": "工業電腦族群同步漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.7
         },
         {
           "symbol": "4513",
           "name": "福裕",
           "point": "工業電腦族群同步漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "3088",
@@ -430,14 +439,14 @@
           "point": "工業電腦族群同步漲停",
           "status": "逼近新高",
           "dist": -8.9,
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "3022",
           "name": "威強電",
           "point": "工業電腦族群同步漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         }
       ],
       "background": "機器人產業受惠於AI技術發展與陪伴經濟需求，輝達積極布局實體AI與機器人，帶動工業電腦（IPC）廠訂單成長，產業前景樂觀。",
@@ -460,7 +469,8 @@
           "point": "帶頭衝、連秀2顆紅燈",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "1810",
@@ -507,7 +517,8 @@
           "point": "刷一排紅燈",
           "status": "逼近新高",
           "dist": -6.7,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "6753",
@@ -526,8 +537,7 @@
           "symbol": "8222",
           "name": "寶一",
           "point": "刷一排紅燈",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "8033",
@@ -554,13 +564,15 @@
           "symbol": "3189",
           "name": "景碩",
           "point": "直攻漲停板",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "3037",
           "name": "欣興",
           "point": "直攻漲停板",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "8046",
@@ -645,19 +657,22 @@
           "symbol": "2383",
           "name": "台光電",
           "point": "一度大漲近9%",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6274",
           "name": "台燿",
           "point": "早盤股價亮燈漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "6213",
           "name": "聯茂",
           "point": "早盤股價亮燈漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         }
       ],
       "background": "銅箔基板（CCL）產業因GPU、ASIC AI資料中心及高頻高速傳輸需求強勁而供不應求，高階與中低階產品皆吃緊。",
@@ -690,7 +705,8 @@
           "symbol": "3653",
           "name": "健策",
           "point": "同步勁揚逾半根漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         }
       ],
       "background": "AI伺服器新舊平台交替，GPU與ASIC伺服器專案下半年放量，帶動散熱族群營運動能加速，液冷滲透率提升。",
@@ -751,13 +767,15 @@
           "symbol": "6719",
           "name": "矽力-KY",
           "point": "積極布局高效能運算電源管理市場",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "6138",
           "name": "茂達",
           "point": "深耕MOSFET Driver及電源管理晶片",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "6161",
