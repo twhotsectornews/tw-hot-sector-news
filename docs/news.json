@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-21T11:04:17.950+08:00",
-  "generatedAt": "2026-07-21T03:04:17.950Z",
+  "asOf": "2026-07-21T12:03:52.192+08:00",
+  "generatedAt": "2026-07-21T04:03:52.192Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -35,8 +35,7 @@
         "7/15"
       ],
       "mentions": 14,
-      "limitUp": true,
-      "pct": 9.9,
+      "limitUp": false,
       "luw": 2,
       "luwd": [
         "7/16",
@@ -74,6 +73,22 @@
       "limitUp": false
     },
     {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 5,
+      "dates": [
+        "7/21",
+        "7/20",
+        "7/18",
+        "7/17",
+        "7/16"
+      ],
+      "mentions": 5,
+      "status": "逼近新高",
+      "dist": -5.9,
+      "limitUp": false
+    },
+    {
       "symbol": "6770",
       "name": "力積電",
       "days": 4,
@@ -91,21 +106,6 @@
       ]
     },
     {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 4,
-      "dates": [
-        "7/20",
-        "7/18",
-        "7/17",
-        "7/16"
-      ],
-      "mentions": 4,
-      "status": "逼近新高",
-      "dist": -7.9,
-      "limitUp": false
-    },
-    {
       "symbol": "2303",
       "name": "聯電",
       "days": 3,
@@ -115,6 +115,22 @@
         "7/16"
       ],
       "mentions": 4,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/15"
+      ]
+    },
+    {
+      "symbol": "8046",
+      "name": "南電",
+      "days": 3,
+      "dates": [
+        "7/21",
+        "7/18",
+        "7/16"
+      ],
+      "mentions": 3,
       "limitUp": false,
       "luw": 1,
       "luwd": [
@@ -209,6 +225,28 @@
       "limitUp": false
     },
     {
+      "symbol": "3189",
+      "name": "景碩",
+      "days": 2,
+      "dates": [
+        "7/21",
+        "7/18"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3037",
+      "name": "欣興",
+      "days": 2,
+      "dates": [
+        "7/21",
+        "7/18"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "6274",
       "name": "台燿",
       "days": 2,
@@ -253,21 +291,6 @@
       "limitUp": false
     },
     {
-      "symbol": "8046",
-      "name": "南電",
-      "days": 2,
-      "dates": [
-        "7/18",
-        "7/16"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/15"
-      ]
-    },
-    {
       "symbol": "6669",
       "name": "緯穎",
       "days": 2,
@@ -292,6 +315,143 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxQcUl0VXpQZm83dXBENkdMSHRJMHMzcEk0eDQwUWZEdkZXRUJwanE5eVRtM3pVXzhtczlRb1JVeEQ3QnNBQk5feVpkR0dYeE9aemZBRzZfUktUTVBqOWNRc1ZFQlJtak9XcEc2SjNITi1hMUdwZ3NSQ0pnaHItNjNwTS1VRFNLSE9N",
+      "tkey": "熱門族群亂世英雄！漢翔帶頭衝軍工紅燈海再現",
+      "title": "《熱門族群》亂世英雄！漢翔帶頭衝 軍工紅燈海再現 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6244772001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 21 Jul 2026 03:10:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2634",
+          "name": "漢翔",
+          "point": "帶頭衝、連秀2顆紅燈",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "1810",
+          "name": "和成",
+          "point": "高硬度陶瓷技術應用於軍備",
+          "status": "逼近新高",
+          "dist": -1.9,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/14"
+          ]
+        },
+        {
+          "symbol": "6477",
+          "name": "安集",
+          "point": "刷一排紅燈",
+          "limitUp": false
+        },
+        {
+          "symbol": "2630",
+          "name": "亞航",
+          "point": "刷一排紅燈",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/14"
+          ]
+        },
+        {
+          "symbol": "4541",
+          "name": "晟田",
+          "point": "刷一排紅燈",
+          "status": "逼近新高",
+          "dist": -0.7,
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "7714",
+          "name": "創泓科技",
+          "point": "刷一排紅燈",
+          "status": "逼近新高",
+          "dist": -6.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "6753",
+          "name": "龍德造船",
+          "point": "刷一排紅燈",
+          "limitUp": false
+        },
+        {
+          "symbol": "3230",
+          "name": "錦明",
+          "point": "刷一排紅燈",
+          "limitUp": false
+        },
+        {
+          "symbol": "8222",
+          "name": "寶一",
+          "point": "刷一排紅燈",
+          "limitUp": false
+        },
+        {
+          "symbol": "8033",
+          "name": "雷虎",
+          "point": "月線有守，維繫多方人氣",
+          "limitUp": false
+        }
+      ],
+      "background": "地緣政治衝突升溫，各國對無人載具採購力道加大，台灣軍工供應鏈憑藉非紅鏈優勢與美國大廠合作，無人機法案預算將落地。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMikgFBVV95cUxPODZXZzJLWnVhZHd1RXUzZ0REZzJRelhyMXRtRTdLVFB4WHBuM0VCaGg3c1BCcmhZNkE2WU9SSHdBLVRMMXlQcUNIN2hnSkxIYXFfRUYwYU84VlBQTEpEb2N1dHd5U3dTZ0NyMHhLanJkbEg5Vkl2dGpETXdFRVJCZFhkMENXOWRBN2tYUEFBbFBYUQ",
+      "tkey": "熱門族群資金瘋搶ABF載板景碩、欣興漲停南電拚第三顆燈",
+      "title": "《熱門族群》資金瘋搶ABF載板 景碩、欣興漲停 南電拚第三顆燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6244751001&pu=News_0002_3",
+      "source": "富聯網",
+      "pubDate": "Tue, 21 Jul 2026 02:53:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "直攻漲停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "直攻漲停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "大漲8%，拚第三顆燈",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/15"
+          ]
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "AI代理應用推升CPU需求",
+          "status": "逼近新高",
+          "dist": -5.9,
+          "limitUp": false
+        }
+      ],
+      "background": "AI算力需求升溫，新一代資料中心平台升級點燃ABF載板商機，高階載板供應吃緊，產業景氣迎新一波成長動能。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMijwFBVV95cUxQTlFKTmNzeFBKR1NpVmFVR2VmVFpQVDU5X204X0FHVEJfZ25NU3ZFcTI1aWdkY0tfTEJzMHZTUlg1S29IeExFc2lfYWhTZkxnWVhBdkFMYXlkSGlvUHFybTgzNERhMTNTUzcxT014Q25sbTd4UlRNaGpQWGtuamJvWmRHZk9FbEw5eFd1YWNkWQ",
       "tkey": "熱門族群台塑四寶全面點火！台塑化鎖漲停、南亞200元得而復失",
       "title": "《熱門族群》台塑四寶全面點火！台塑化鎖漲停、南亞200元得而復失 - 富聯網",
@@ -303,8 +463,7 @@
           "symbol": "6505",
           "name": "台塑化",
           "point": "盤中直攻85.4元漲停",
-          "limitUp": true,
-          "pct": 9.9,
+          "limitUp": false,
           "luw": 2,
           "luwd": [
             "7/16",
@@ -420,8 +579,7 @@
           "symbol": "6505",
           "name": "台塑化",
           "point": "法人喊買",
-          "limitUp": true,
-          "pct": 9.9,
+          "limitUp": false,
           "luw": 2,
           "luwd": [
             "7/16",
@@ -452,8 +610,7 @@
           "symbol": "6719",
           "name": "矽力-KY",
           "point": "積極布局高效能運算電源管理市場",
-          "limitUp": true,
-          "pct": 9.8
+          "limitUp": false
         },
         {
           "symbol": "6138",
@@ -695,7 +852,9 @@
           "symbol": "9926",
           "name": "新海",
           "point": "第一季獲利雙增",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -9.6
         },
         {
           "symbol": "9937",

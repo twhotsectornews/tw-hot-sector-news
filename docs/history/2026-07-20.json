@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "updatedAt": "2026-07-21T03:04:17.941Z",
+  "updatedAt": "2026-07-21T04:03:52.188Z",
   "news": [
     {
       "gid": "CBMikgFBVV95cUxPTm53S0sxM0d5NTZJSXY0QldlcnYwMHVyVGc4RFVrUTlSWlNTZDZOd3lIa2llOHFnZ295MXFSMi1SMGpzZVdGYUhNelBVa1JoQkk3dm9vMzlrdXp1aWVnZm12TUFxSUEwV1daNWNRVm9SZE9oSVdOLTZWcFBld0NKeEF4SDhhajZVdHl0b2xna1NKdw",
@@ -224,7 +224,9 @@
           "symbol": "9926",
           "name": "新海",
           "point": "第一季獲利雙增",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -9.6
         },
         {
           "symbol": "9937",
