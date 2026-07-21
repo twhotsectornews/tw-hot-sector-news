@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-21T13:42:51.787+08:00",
-  "generatedAt": "2026-07-21T05:42:51.787Z",
+  "asOf": "2026-07-21T14:02:16.183+08:00",
+  "generatedAt": "2026-07-21T06:02:16.183Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -260,8 +260,7 @@
         "7/17"
       ],
       "mentions": 2,
-      "limitUp": true,
-      "pct": 9.8
+      "limitUp": false
     },
     {
       "symbol": "3324",
@@ -320,6 +319,82 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxONzhHVlhWaEswcTMzWjI1eXBVR3h3YzlPZlFOeFVvVnozMjZIeDdJZ2FvY29XOWF2UWJTQVRIaDFjWHd0QW5xdjRQYVNpaVd0QlVSRGZPclEtQW5MT0JtcTNoRU4xOXp3WHlCcjdjNHlkYVFaZ2REUUMwc1BRc2dnOVAta2NZNUFF",
+      "tkey": "熱門族群機器人大軍出擊！IPC成領頭羊研華領軍9檔飆漲停",
+      "title": "《熱門族群》機器人大軍出擊！IPC成領頭羊 研華領軍9檔飆漲停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6244923001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 21 Jul 2026 05:39:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2395",
+          "name": "研華",
+          "point": "領軍9檔飆漲停",
+          "status": "逼近新高",
+          "dist": -4.4,
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "6414",
+          "name": "樺漢",
+          "point": "股價同步攻上漲停",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "6166",
+          "name": "凌華",
+          "point": "股價同步攻上漲停",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "2348",
+          "name": "威強電",
+          "point": "股價同步攻上漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6271",
+          "name": "艾訊",
+          "point": "股價同步攻上漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6188",
+          "name": "振樺電",
+          "point": "股價同步攻上漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "8086",
+          "name": "事欣科",
+          "point": "股價同步攻上漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3484",
+          "name": "融程電",
+          "point": "股價同步攻上漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6561",
+          "name": "研揚",
+          "point": "股價同步攻上漲停",
+          "limitUp": false
+        }
+      ],
+      "background": "工業電腦（IPC）受惠邊緣AI、機器人應用發酵，以及歐美製造業自動化資本支出回升，加上綠能政策引導，訂單暢旺。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxONHVCeWZYVlgwbVhFU3BxdW9hZS1Ic0tMUkYzMHlqbXk3Q0w2STVySHhWV2p4YmZpX1RyVEowb3NidFNYV1hjSmlOb1B3UnJJZFltclpQMGxRNUVnZFlzeXVhd2ZfSkJ3dmdqUDVpMjcyMjNLc3pkUlVWTTBkLWlrTFpXNjRqNnJG",
       "tkey": "熱門族群利多匯集！矽光子迎商機族群集體走升",
@@ -430,8 +505,7 @@
           "symbol": "4513",
           "name": "福裕",
           "point": "工業電腦族群同步漲停",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "3088",
@@ -508,8 +582,7 @@
           "point": "刷一排紅燈",
           "status": "逼近新高",
           "dist": -0.7,
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "7714",
@@ -517,8 +590,7 @@
           "point": "刷一排紅燈",
           "status": "逼近新高",
           "dist": -6.7,
-          "limitUp": true,
-          "pct": 9.8
+          "limitUp": false
         },
         {
           "symbol": "6753",
@@ -537,7 +609,8 @@
           "symbol": "8222",
           "name": "寶一",
           "point": "刷一排紅燈",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "8033",
@@ -664,8 +737,7 @@
           "symbol": "6274",
           "name": "台燿",
           "point": "早盤股價亮燈漲停",
-          "limitUp": true,
-          "pct": 9.8
+          "limitUp": false
         },
         {
           "symbol": "6213",
@@ -767,15 +839,13 @@
           "symbol": "6719",
           "name": "矽力-KY",
           "point": "積極布局高效能運算電源管理市場",
-          "limitUp": true,
-          "pct": 9.8
+          "limitUp": false
         },
         {
           "symbol": "6138",
           "name": "茂達",
           "point": "深耕MOSFET Driver及電源管理晶片",
-          "limitUp": true,
-          "pct": 9.8
+          "limitUp": false
         },
         {
           "symbol": "6161",
