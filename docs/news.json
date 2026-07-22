@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-22T11:04:22.725+08:00",
-  "generatedAt": "2026-07-22T03:04:22.725Z",
+  "asOf": "2026-07-22T12:04:04.219+08:00",
+  "generatedAt": "2026-07-22T04:04:04.219Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -91,13 +91,30 @@
     {
       "symbol": "6770",
       "name": "力積電",
-      "days": 3,
+      "days": 4,
       "dates": [
+        "7/22",
         "7/20",
         "7/17",
         "7/16"
       ],
-      "mentions": 6,
+      "mentions": 7,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/15"
+      ]
+    },
+    {
+      "symbol": "3006",
+      "name": "晶豪科",
+      "days": 3,
+      "dates": [
+        "7/22",
+        "7/17",
+        "7/16"
+      ],
+      "mentions": 5,
       "limitUp": false,
       "luw": 1,
       "luwd": [
@@ -114,6 +131,22 @@
         "7/16"
       ],
       "mentions": 4,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/15"
+      ]
+    },
+    {
+      "symbol": "2344",
+      "name": "華邦電",
+      "days": 3,
+      "dates": [
+        "7/22",
+        "7/18",
+        "7/16"
+      ],
+      "mentions": 3,
       "limitUp": false,
       "luw": 1,
       "luwd": [
@@ -151,6 +184,30 @@
       "limitUp": false
     },
     {
+      "symbol": "2408",
+      "name": "南亞科",
+      "days": 2,
+      "dates": [
+        "7/22",
+        "7/16"
+      ],
+      "mentions": 5,
+      "limitUp": true,
+      "pct": 10
+    },
+    {
+      "symbol": "2337",
+      "name": "旺宏",
+      "days": 2,
+      "dates": [
+        "7/22",
+        "7/16"
+      ],
+      "mentions": 4,
+      "limitUp": true,
+      "pct": 9.8
+    },
+    {
       "symbol": "2395",
       "name": "研華",
       "days": 2,
@@ -161,6 +218,7 @@
       "mentions": 4,
       "status": "逼近新高",
       "dist": -1.1,
+      "limitUp": false,
       "luw": 1,
       "luwd": [
         "7/21"
@@ -177,6 +235,7 @@
       "mentions": 4,
       "status": "創新高",
       "dist": 0,
+      "limitUp": false,
       "luw": 1,
       "luwd": [
         "7/21"
@@ -193,25 +252,23 @@
       "mentions": 4,
       "status": "高檔修正",
       "dist": -11.3,
+      "limitUp": true,
+      "pct": 9.8,
       "luw": 1,
       "luwd": [
         "7/21"
       ]
     },
     {
-      "symbol": "3006",
-      "name": "晶豪科",
+      "symbol": "2327",
+      "name": "國巨",
       "days": 2,
       "dates": [
-        "7/17",
-        "7/16"
+        "7/22",
+        "7/20"
       ],
-      "mentions": 4,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/15"
-      ]
+      "mentions": 3,
+      "limitUp": false
     },
     {
       "symbol": "4904",
@@ -227,16 +284,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2327",
-      "name": "國巨",
-      "days": 2,
-      "dates": [
-        "7/22",
-        "7/20"
-      ],
-      "mentions": 2
-    },
-    {
       "symbol": "1310",
       "name": "台苯",
       "days": 2,
@@ -244,7 +291,8 @@
         "7/22",
         "7/17"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "1312",
@@ -254,7 +302,8 @@
         "7/22",
         "7/17"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "3189",
@@ -359,21 +408,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2344",
-      "name": "華邦電",
-      "days": 2,
-      "dates": [
-        "7/18",
-        "7/16"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/15"
-      ]
-    },
-    {
       "symbol": "3481",
       "name": "群創",
       "days": 2,
@@ -387,6 +421,159 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxQNWFsZXNPWkVmXzlySkM1MWwwTzAwZUc5OE9WU0VVdlE4YTEzMFdja3ZuY2RtU2JkWVJMWWlQd1lna1h6dFBlcGNjV3p3OEcxU2VERVNQbF9RMzQteXFUZ0JrMkZ6ZWpURkluSHRJdjRGb290WFFNLUlMYnlBbzA2NFlaN3psdjlf",
+      "tkey": "熱門族群台廠出海搶大單太陽能族群High起來",
+      "title": "《熱門族群》台廠出海搶大單 太陽能族群High起來 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6245977001&PU=0031",
+      "source": "富聯網",
+      "pubDate": "Wed, 22 Jul 2026 03:37:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3576",
+          "name": "聯合再生",
+          "point": "搶攻美國AI電力商機",
+          "limitUp": false
+        },
+        {
+          "symbol": "5483",
+          "name": "中美晶",
+          "point": "攜手聯合再生蓋太陽能廠",
+          "status": "高檔修正",
+          "dist": -14.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "2406",
+          "name": "國碩",
+          "point": "亮紅燈鎖漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6244",
+          "name": "茂迪",
+          "point": "漲幅超過3.5%",
+          "limitUp": false
+        },
+        {
+          "symbol": "4934",
+          "name": "太極",
+          "point": "漲幅超過3.5%",
+          "limitUp": false
+        }
+      ],
+      "background": "太陽能產業因應 AI 資料中心龐大電力需求，台廠赴美設廠搶攻美國能源轉型商機，重視供應鏈安全與在地生產。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMikgFBVV95cUxNc0JCZEc4bzA2Wk5OVU1rZkVnZjZOek5XQnEzNXBGZlVqQXdOUU0xQ2hqMDdFencxMXVrbXZSZkd5aC1ZS2FSR2hJSFFJWl9FeWN0enNzZ1JXTVlSQ2pDSkR5Nzg3OWM0cXhkcUhReUJHSnA2RE45WVZ5OVlXQUUyMHBrYlNhSVV0cFhNVjJwLVdFQQ",
+      "tkey": "熱門族群記憶體開趴！三雄全噴漲停專家這樣說",
+      "title": "《熱門族群》記憶體開趴！三雄全噴漲停 專家這樣說 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6245965001&pu=News_0002_3",
+      "source": "富聯網",
+      "pubDate": "Wed, 22 Jul 2026 03:26:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "紅燈高掛、大摩點名首選",
+          "limitUp": true,
+          "pct": 9.8
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "紅燈高掛、小摩看好獲利",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/15"
+          ]
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "紅燈高掛、搶攻客製化DRAM",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "3006",
+          "name": "晶豪科",
+          "point": "紅燈高掛",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/15"
+          ]
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "半根漲幅",
+          "limitUp": false
+        },
+        {
+          "symbol": "2450",
+          "name": "創見",
+          "point": "半根漲幅",
+          "limitUp": false
+        },
+        {
+          "symbol": "8088",
+          "name": "品安",
+          "point": "半根漲幅",
+          "limitUp": false
+        },
+        {
+          "symbol": "5371",
+          "name": "鈺創",
+          "point": "半根漲幅",
+          "limitUp": false
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "半根漲幅",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/15"
+          ]
+        }
+      ],
+      "background": "記憶體受惠 AI 代理爆發性成長，需求暢旺，國際大廠三星、SK海力士、美光獲利創紀錄，預告缺貨潮將持續。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQUldrbHVsaXAzWm14RFBUNVBKZzBBQ2JXY3hvcGNuZ0FIcmhOZGZBSkw5c0xiNzAxUjk0Tm9KZUR0RUwtY0RKYVdCQ3hPc2ZtUExfU2dKQmJBTWJTN3JjRHhJblJwRlg0V2FmeFRxM2txel83eHNKWDRMT3Zld2Nwc3BXWExNeGZn",
+      "tkey": "熱門族群國巨重登被動元件股王領軍續攻掀漲停潮",
+      "title": "《熱門族群》國巨重登被動元件股王 領軍續攻掀漲停潮 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6245952001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 22 Jul 2026 03:16:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "重登被動元件股王",
+          "limitUp": false
+        }
+      ],
+      "background": "被動元件受 AI 伺服器與車用需求帶動漲價，國際 MLCC 龍頭村田缺貨外溢，國巨為台系指標，產業自谷底回升。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxQXy1yZTN5cjlrX0wtOGpjMXdQbHFsVWRHSWNNVXRsb0x5S1A2NnlQdUNidkM3eEsxZkdjUDJzblQzeE5RbEs1OEpid0FxNXZHa0Fod2FRUTFLOHhqZUV4VHN2SnJFZnJNY2FNSVB4S1pBeDR0LWQ2aUN4MHNWeUVDUWdiWk9HS29J",
       "tkey": "熱門族群國巨、穩懋法說行情發酵",
       "title": "《熱門族群》國巨、穩懋 法說行情發酵 - 富聯網",
@@ -397,12 +584,14 @@
         {
           "symbol": "2327",
           "name": "國巨",
-          "point": "法說行情發酵，被動元件漲價"
+          "point": "法說行情發酵，被動元件漲價",
+          "limitUp": false
         },
         {
           "symbol": "3105",
           "name": "穩懋",
-          "point": "法說行情發酵，光通訊與AI資料中心產品有進展"
+          "point": "法說行情發酵，光通訊與AI資料中心產品有進展",
+          "limitUp": false
         }
       ],
       "background": "被動元件與砷化鎵族群受惠於法說會行情，國巨因漲價與產能利用率提升，穩懋則因光通訊與AI資料中心產品有新進展，帶動股價反彈。",
@@ -421,22 +610,26 @@
         {
           "symbol": "1310",
           "name": "台苯",
-          "point": "塑化股跟進攀揚"
+          "point": "塑化股跟進攀揚",
+          "limitUp": false
         },
         {
           "symbol": "1312",
           "name": "國喬",
-          "point": "塑化股跟進攀揚"
+          "point": "塑化股跟進攀揚",
+          "limitUp": false
         },
         {
           "symbol": "1313",
           "name": "聯成",
-          "point": "塑化股跟進攀揚"
+          "point": "塑化股跟進攀揚",
+          "limitUp": false
         },
         {
           "symbol": "1314",
           "name": "中石化",
-          "point": "塑化股跟進攀揚"
+          "point": "塑化股跟進攀揚",
+          "limitUp": false
         }
       ],
       "background": "美伊衝突推升國際油價，帶動塑化股強彈。台塑四寶領漲，台塑化因煉油毛利提升，台化受惠於芳香烴系列與油價連動性高。",
@@ -458,6 +651,7 @@
           "point": "AI應用發酵，IPC族群領漲",
           "status": "逼近新高",
           "dist": -1.1,
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "7/21"
@@ -469,6 +663,7 @@
           "point": "AI應用發酵，IPC族群領漲",
           "status": "創新高",
           "dist": 0,
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "7/21"
@@ -480,6 +675,8 @@
           "point": "AI應用發酵，IPC族群走強",
           "status": "高檔修正",
           "dist": -11.3,
+          "limitUp": true,
+          "pct": 9.8,
           "luw": 1,
           "luwd": [
             "7/21"
@@ -502,17 +699,20 @@
         {
           "symbol": "3227",
           "name": "原相",
-          "point": "光學感測晶片切入機器人路徑追蹤"
+          "point": "光學感測晶片切入機器人路徑追蹤",
+          "limitUp": false
         },
         {
           "symbol": "2401",
           "name": "凌陽",
-          "point": "AI Vision SoC布局機器人市場"
+          "point": "AI Vision SoC布局機器人市場",
+          "limitUp": false
         },
         {
           "symbol": "6679",
           "name": "鈺太",
-          "point": "MEMS麥克風及聲學感測晶片應用於機器人"
+          "point": "MEMS麥克風及聲學感測晶片應用於機器人",
+          "limitUp": false
         }
       ],
       "background": "德州儀器點名人形機器人商機，感測器融合技術需求增加，帶動雷達IC、影像處理SoC、MCU等晶片需求，台廠可望切入供應鏈。",
