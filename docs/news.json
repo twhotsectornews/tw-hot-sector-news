@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-22T17:41:32.339+08:00",
-  "generatedAt": "2026-07-22T09:41:32.339Z",
+  "asOf": "2026-07-22T18:41:36.873+08:00",
+  "generatedAt": "2026-07-22T10:41:36.873Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -19,9 +19,9 @@
         "7/17",
         "7/16"
       ],
-      "mentions": 11,
+      "mentions": 12,
       "status": "逼近新高",
-      "dist": -8.9,
+      "dist": -9.6,
       "limitUp": false
     },
     {
@@ -36,7 +36,7 @@
         "7/17",
         "7/16"
       ],
-      "mentions": 12,
+      "mentions": 13,
       "limitUp": false,
       "luw": 3,
       "luwd": [
@@ -57,7 +57,7 @@
         "7/17",
         "7/16"
       ],
-      "mentions": 10,
+      "mentions": 11,
       "limitUp": false
     },
     {
@@ -72,7 +72,7 @@
         "7/17",
         "7/16"
       ],
-      "mentions": 10,
+      "mentions": 11,
       "limitUp": false
     },
     {
@@ -427,6 +427,19 @@
   ],
   "news": [
     {
+      "gid": "CBMiWEFVX3lxTFBGWEg1dkt4clpxUW1vQzhSNmt6N1ZIekJCNFE5NzlKXzM2M2xQX3MtTVJqZFFHclhSSmNyTlEwZzNWdG1TTTNpb2lDcVpUMWlOSDFnQW41bXQ",
+      "tkey": "熱門族群低基期加獲利超預期法人挺塑化股Q3續強",
+      "title": "熱門族群》低基期加獲利超預期 法人挺塑化股Q3續強 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/4eu3fjse95v5",
+      "source": "自由時報",
+      "pubDate": "Wed, 22 Jul 2026 07:46:43 GMT",
+      "stocks": [],
+      "background": "塑化股受惠於低基期、國際油價及塑化產品報價走揚，加上低價原料庫存，獲利超預期，法人看好Q3續強。",
+      "themeTags": [
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMikgFBVV95cUxPTi0yd0VPaEhMUVdYSUlhWEt2bnJBRWRRMjFFTEFZUUt4WXNEU0c3dzRqdERzYk1jZzRSaEs4YWpsYmJjdTlObGo5bWhyQTZVZV9GU284ZnhiaGs0TURQTU9nZnNISzF0TTVFVEEzV0tCY2s3QUNsbGJmRVFaVHUtNzdWUWh1XzhMNTJTanh2b3MtZw",
       "tkey": "熱門族群ABF載板三雄續強彈法人多空不同調",
       "title": "《熱門族群》ABF載板三雄續強彈 法人多空不同調 - 富聯網",
@@ -488,6 +501,53 @@
         }
       ],
       "background": "電子通路商受惠記憶體價格回升、AI伺服器與HPC需求擴增，營運展望轉佳，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTFA3MzdvYmlpV0trZDlROTNIWGlFNDdmcXBIbGZaRUZWNEltZXlPblVfOHU1dlRKUmhqdTVGd3NuNktLTFlaTkh3MVhCS3NkZ1hBakJ5aEZWV3h5WU5KeUlGY2VmMzZReno2WXc",
+      "tkey": "熱門族群台塑四寶漲不停！南亞衝212元、上半年獲利翻紅撐腰-上市櫃",
+      "title": "《熱門族群》台塑四寶漲不停！南亞衝212元、上半年獲利翻紅撐腰- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260722900277-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Wed, 22 Jul 2026 04:18:13 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "AI伺服器需求升溫，獲利創歷史新高",
+          "status": "逼近新高",
+          "dist": -9.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "產品組合優化，獲利改善",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "煉油產品外銷價差走強，獲利成長",
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "7/21",
+            "7/16",
+            "7/15"
+          ]
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "低成本庫存及轉投資收益，本業轉盈",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶受惠於國際油價及塑化產品報價走揚，加上低價原料庫存與轉投資收益，上半年獲利翻紅，其中南亞受AI伺服器需求帶動高階電子材料需求。",
       "themeTags": [
         "需求驅動",
         "循環位置"
