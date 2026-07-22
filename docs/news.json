@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-22T12:04:04.219+08:00",
-  "generatedAt": "2026-07-22T04:04:04.219Z",
+  "asOf": "2026-07-22T13:04:34.085+08:00",
+  "generatedAt": "2026-07-22T05:04:34.085Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,8 +9,9 @@
     {
       "symbol": "1303",
       "name": "南亞",
-      "days": 6,
+      "days": 7,
       "dates": [
+        "7/22",
         "7/21",
         "7/20",
         "7/19",
@@ -18,25 +19,25 @@
         "7/17",
         "7/16"
       ],
-      "mentions": 10,
+      "mentions": 11,
       "status": "逼近新高",
-      "dist": -9.8,
+      "dist": -8.9,
       "limitUp": false
     },
     {
       "symbol": "6505",
       "name": "台塑化",
-      "days": 5,
+      "days": 6,
       "dates": [
+        "7/22",
         "7/21",
         "7/20",
         "7/19",
         "7/17",
         "7/16"
       ],
-      "mentions": 11,
-      "limitUp": true,
-      "pct": 9.9,
+      "mentions": 12,
+      "limitUp": false,
       "luw": 3,
       "luwd": [
         "7/21",
@@ -47,45 +48,48 @@
     {
       "symbol": "1326",
       "name": "台化",
-      "days": 5,
+      "days": 6,
       "dates": [
+        "7/22",
         "7/21",
         "7/20",
         "7/19",
         "7/17",
         "7/16"
       ],
-      "mentions": 9,
+      "mentions": 10,
       "limitUp": false
     },
     {
       "symbol": "1301",
       "name": "台塑",
-      "days": 5,
+      "days": 6,
       "dates": [
+        "7/22",
         "7/21",
         "7/20",
         "7/19",
         "7/17",
         "7/16"
       ],
-      "mentions": 9,
+      "mentions": 10,
       "limitUp": false
     },
     {
       "symbol": "2330",
       "name": "台積電",
-      "days": 5,
+      "days": 6,
       "dates": [
+        "7/22",
         "7/21",
         "7/20",
         "7/18",
         "7/17",
         "7/16"
       ],
-      "mentions": 6,
+      "mentions": 7,
       "status": "逼近新高",
-      "dist": -5.5,
+      "dist": -5.3,
       "limitUp": false
     },
     {
@@ -147,7 +151,8 @@
         "7/16"
       ],
       "mentions": 3,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 1,
       "luwd": [
         "7/15"
@@ -192,8 +197,7 @@
         "7/16"
       ],
       "mentions": 5,
-      "limitUp": true,
-      "pct": 10
+      "limitUp": false
     },
     {
       "symbol": "2337",
@@ -204,8 +208,7 @@
         "7/16"
       ],
       "mentions": 4,
-      "limitUp": true,
-      "pct": 9.8
+      "limitUp": false
     },
     {
       "symbol": "2395",
@@ -252,8 +255,7 @@
       "mentions": 4,
       "status": "高檔修正",
       "dist": -11.3,
-      "limitUp": true,
-      "pct": 9.8,
+      "limitUp": false,
       "luw": 1,
       "luwd": [
         "7/21"
@@ -421,6 +423,119 @@
   ],
   "news": [
     {
+      "gid": "CBMikgFBVV95cUxPTi0yd0VPaEhMUVdYSUlhWEt2bnJBRWRRMjFFTEFZUUt4WXNEU0c3dzRqdERzYk1jZzRSaEs4YWpsYmJjdTlObGo5bWhyQTZVZV9GU284ZnhiaGs0TURQTU9nZnNISzF0TTVFVEEzV0tCY2s3QUNsbGJmRVFaVHUtNzdWUWh1XzhMNTJTanh2b3MtZw",
+      "tkey": "熱門族群ABF載板三雄續強彈法人多空不同調",
+      "title": "《熱門族群》ABF載板三雄續強彈 法人多空不同調 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6246027001&pu=News_0002_2",
+      "source": "富聯網",
+      "pubDate": "Wed, 22 Jul 2026 04:26:00 GMT",
+      "stocks": [],
+      "background": "ABF載板為高階晶片封裝關鍵材料，受惠AI、HPC等高階應用需求，產業景氣有望谷底翻揚。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOVmFaRUY1NEFHREw4aWstbGVUYVRycmRQRm1sMkdrT1liaVBBcFlnUW1RbDdtN3ZSQUhBUTU3YVhDRUxqMWxNd0h3QjN1VHdpMkI4S3o1SEFMak0xd3hrVWdIOHhROVJqZWI0MFVaX0tkM2RQMjctb1Z5QVFIRmhWbHdGdGtWLVd4",
+      "tkey": "熱門族群電子通路接棒演出！大聯大漲5%領軍至上新股抽籤壓線日",
+      "title": "《熱門族群》電子通路接棒演出！大聯大漲5%領軍 至上新股抽籤壓線日 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6246029001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 22 Jul 2026 04:26:00 GMT",
+      "stocks": [
+        {
+          "symbol": "8112",
+          "name": "至上",
+          "point": "收復月線、季線，新股抽籤",
+          "status": "高檔修正",
+          "dist": -10.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "2347",
+          "name": "聯強",
+          "point": "放量上攻",
+          "status": "逼近新高",
+          "dist": -9.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "8070",
+          "name": "長華*",
+          "point": "放量上攻",
+          "limitUp": false
+        },
+        {
+          "symbol": "3702",
+          "name": "大聯大",
+          "point": "漲幅超過5%領軍",
+          "status": "逼近新高",
+          "dist": -8.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "由紅翻黑",
+          "status": "逼近新高",
+          "dist": -5.3,
+          "limitUp": false
+        }
+      ],
+      "background": "電子通路商受惠記憶體價格回升、AI伺服器與HPC需求擴增，營運展望轉佳，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMikgFBVV95cUxOZk4yalR2bnBoUmIyZjNNYUxINVA4YWhxd29ZV3g2ek83QmlmUGpyVGlDaVhLb01CUzdGUHh6QS1SejlmZE5HdEVONEtmT2w0ak1nT2RSVERTNVNtTElaUDBuLUdLWVlYU2FGek5xbjBMSldsT0t2VzkyTm1JNWh0aG03OWxKeWFXeHg2anpYSmg3UQ",
+      "tkey": "熱門族群台塑四寶漲不停！南亞衝212元、上半年獲利翻紅撐腰",
+      "title": "《熱門族群》台塑四寶漲不停！南亞衝212元、上半年獲利翻紅撐腰 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6246017001&pu=News_0002_3",
+      "source": "富聯網",
+      "pubDate": "Wed, 22 Jul 2026 04:11:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "衝212元，上半年獲利翻紅",
+          "status": "逼近新高",
+          "dist": -8.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "勁揚逾5%",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "早盤急拉後漲幅收斂",
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "7/21",
+            "7/16",
+            "7/15"
+          ]
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "維持紅盤",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶受惠國際油價及塑化產品報價走揚，加上低價原料庫存與產品利差改善，獲利翻紅。",
+      "themeTags": [
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxQNWFsZXNPWkVmXzlySkM1MWwwTzAwZUc5OE9WU0VVdlE4YTEzMFdja3ZuY2RtU2JkWVJMWWlQd1lna1h6dFBlcGNjV3p3OEcxU2VERVNQbF9RMzQteXFUZ0JrMkZ6ZWpURkluSHRJdjRGb290WFFNLUlMYnlBbzA2NFlaN3psdjlf",
       "tkey": "熱門族群台廠出海搶大單太陽能族群High起來",
       "title": "《熱門族群》台廠出海搶大單 太陽能族群High起來 - 富聯網",
@@ -479,14 +594,14 @@
           "symbol": "2337",
           "name": "旺宏",
           "point": "紅燈高掛、大摩點名首選",
-          "limitUp": true,
-          "pct": 9.8
+          "limitUp": false
         },
         {
           "symbol": "2344",
           "name": "華邦電",
           "point": "紅燈高掛、小摩看好獲利",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 1,
           "luwd": [
             "7/15"
@@ -496,8 +611,7 @@
           "symbol": "2408",
           "name": "南亞科",
           "point": "紅燈高掛、搶攻客製化DRAM",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "3006",
@@ -675,8 +789,7 @@
           "point": "AI應用發酵，IPC族群走強",
           "status": "高檔修正",
           "dist": -11.3,
-          "limitUp": true,
-          "pct": 9.8,
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "7/21"
