@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-22T13:04:34.085+08:00",
-  "generatedAt": "2026-07-22T05:04:34.085Z",
+  "asOf": "2026-07-22T13:40:37.459+08:00",
+  "generatedAt": "2026-07-22T05:40:37.459Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -197,7 +197,8 @@
         "7/16"
       ],
       "mentions": 5,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "2337",
@@ -208,7 +209,8 @@
         "7/16"
       ],
       "mentions": 4,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.8
     },
     {
       "symbol": "2395",
@@ -238,7 +240,8 @@
       "mentions": 4,
       "status": "創新高",
       "dist": 0,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 1,
       "luwd": [
         "7/21"
@@ -255,7 +258,8 @@
       "mentions": 4,
       "status": "高檔修正",
       "dist": -11.3,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.8,
       "luw": 1,
       "luwd": [
         "7/21"
@@ -561,7 +565,8 @@
           "symbol": "2406",
           "name": "國碩",
           "point": "亮紅燈鎖漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "6244",
@@ -594,7 +599,8 @@
           "symbol": "2337",
           "name": "旺宏",
           "point": "紅燈高掛、大摩點名首選",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "2344",
@@ -611,7 +617,8 @@
           "symbol": "2408",
           "name": "南亞科",
           "point": "紅燈高掛、搶攻客製化DRAM",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "3006",
@@ -777,7 +784,8 @@
           "point": "AI應用發酵，IPC族群領漲",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 1,
           "luwd": [
             "7/21"
@@ -789,7 +797,8 @@
           "point": "AI應用發酵，IPC族群走強",
           "status": "高檔修正",
           "dist": -11.3,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.8,
           "luw": 1,
           "luwd": [
             "7/21"
