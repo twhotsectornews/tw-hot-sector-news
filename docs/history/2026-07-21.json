@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "updatedAt": "2026-07-22T08:11:45.543Z",
+  "updatedAt": "2026-07-22T09:41:32.335Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQUEhETzBJdmlaaEtlS0RnV3dULTBTX2E4YUc0aVVreGpWd3UzWDlkN2p2VzRMck5Zb1g1Yi1DMG9jQi1xMnhkOTA2QzRwUDQ0TGRabURGN1JfSXBrT0V3QkZLb2xCWVZMYUNQNHJyRXJDeXpvVTNoUURibzlvWnlSVEM1QXJzZmk2",
@@ -317,9 +317,10 @@
           "name": "立碁",
           "point": "矽光子題材漲逾半根",
           "limitUp": false,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
             "7/21",
+            "7/20",
             "7/17",
             "7/16",
             "7/15"
@@ -336,9 +337,10 @@
           "name": "波若威",
           "point": "矽光子題材漲逾半根",
           "limitUp": false,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
             "7/21",
+            "7/20",
             "7/17",
             "7/16",
             "7/15"
@@ -355,9 +357,10 @@
           "name": "聯亞",
           "point": "矽光子題材同步走揚",
           "limitUp": false,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
             "7/21",
+            "7/20",
             "7/17",
             "7/16",
             "7/15"
@@ -760,9 +763,10 @@
           "point": "早盤股價亮燈漲停",
           "limitUp": true,
           "pct": 9.8,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
             "7/21",
+            "7/20",
             "7/17",
             "7/16",
             "7/15"
