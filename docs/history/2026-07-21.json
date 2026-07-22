@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "updatedAt": "2026-07-22T06:01:53.502Z",
+  "updatedAt": "2026-07-22T08:11:45.543Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQUEhETzBJdmlaaEtlS0RnV3dULTBTX2E4YUc0aVVreGpWd3UzWDlkN2p2VzRMck5Zb1g1Yi1DMG9jQi1xMnhkOTA2QzRwUDQ0TGRabURGN1JfSXBrT0V3QkZLb2xCWVZMYUNQNHJyRXJDeXpvVTNoUURibzlvWnlSVEM1QXJzZmk2",
@@ -68,15 +68,7 @@
           "status": "逼近新高",
           "dist": -1.7,
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "7/21",
-            "7/20",
-            "7/17",
-            "7/16",
-            "7/15"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6414",
@@ -120,15 +112,7 @@
           "name": "宸曜",
           "point": "收鎖漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "7/21",
-            "7/20",
-            "7/17",
-            "7/16",
-            "7/15"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "3088",
@@ -137,15 +121,7 @@
           "status": "逼近新高",
           "dist": -8.9,
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "7/21",
-            "7/20",
-            "7/17",
-            "7/16",
-            "7/15"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "2395",
@@ -178,15 +154,7 @@
           "status": "逼近新高",
           "dist": -8.1,
           "limitUp": true,
-          "pct": 9.8,
-          "luw": 5,
-          "luwd": [
-            "7/21",
-            "7/20",
-            "7/17",
-            "7/16",
-            "7/15"
-          ]
+          "pct": 9.8
         },
         {
           "symbol": "6579",
@@ -348,7 +316,14 @@
           "symbol": "8111",
           "name": "立碁",
           "point": "矽光子題材漲逾半根",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 4,
+          "luwd": [
+            "7/21",
+            "7/17",
+            "7/16",
+            "7/15"
+          ]
         },
         {
           "symbol": "4979",
@@ -360,7 +335,14 @@
           "symbol": "3163",
           "name": "波若威",
           "point": "矽光子題材漲逾半根",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 4,
+          "luwd": [
+            "7/21",
+            "7/17",
+            "7/16",
+            "7/15"
+          ]
         },
         {
           "symbol": "3363",
@@ -372,7 +354,14 @@
           "symbol": "3081",
           "name": "聯亞",
           "point": "矽光子題材同步走揚",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 4,
+          "luwd": [
+            "7/21",
+            "7/17",
+            "7/16",
+            "7/15"
+          ]
         }
       ],
       "background": "矽光子技術受惠於AI大模型Kimi K3崛起及光互連需求，國際大廠AMD、Intel、NVIDIA、台積電等支持，有望提升AI資料中心傳輸效率。",
@@ -452,15 +441,7 @@
           "name": "福裕",
           "point": "工業電腦族群同步漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "7/21",
-            "7/20",
-            "7/17",
-            "7/16",
-            "7/15"
-          ]
+          "pct": 10
         },
         {
           "symbol": "3088",
@@ -469,15 +450,7 @@
           "status": "逼近新高",
           "dist": -8.9,
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "7/21",
-            "7/20",
-            "7/17",
-            "7/16",
-            "7/15"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "3022",
@@ -555,15 +528,7 @@
           "status": "逼近新高",
           "dist": -0.7,
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "7/21",
-            "7/20",
-            "7/17",
-            "7/16",
-            "7/15"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "7714",
@@ -572,15 +537,7 @@
           "status": "逼近新高",
           "dist": -6.7,
           "limitUp": true,
-          "pct": 9.8,
-          "luw": 5,
-          "luwd": [
-            "7/21",
-            "7/20",
-            "7/17",
-            "7/16",
-            "7/15"
-          ]
+          "pct": 9.8
         },
         {
           "symbol": "6753",
@@ -598,15 +555,7 @@
           "name": "錦明",
           "point": "刷一排紅燈",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "7/21",
-            "7/20",
-            "7/17",
-            "7/16",
-            "7/15"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "8222",
@@ -811,10 +760,9 @@
           "point": "早盤股價亮燈漲停",
           "limitUp": true,
           "pct": 9.8,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "7/21",
-            "7/20",
             "7/17",
             "7/16",
             "7/15"
@@ -938,15 +886,7 @@
           "name": "茂達",
           "point": "深耕MOSFET Driver及電源管理晶片",
           "limitUp": true,
-          "pct": 9.8,
-          "luw": 5,
-          "luwd": [
-            "7/21",
-            "7/20",
-            "7/17",
-            "7/16",
-            "7/15"
-          ]
+          "pct": 9.8
         },
         {
           "symbol": "6161",
