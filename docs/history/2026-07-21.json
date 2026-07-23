@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "updatedAt": "2026-07-23T03:03:45.519Z",
+  "updatedAt": "2026-07-23T04:03:45.391Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQUEhETzBJdmlaaEtlS0RnV3dULTBTX2E4YUc0aVVreGpWd3UzWDlkN2p2VzRMck5Zb1g1Yi1DMG9jQi1xMnhkOTA2QzRwUDQ0TGRabURGN1JfSXBrT0V3QkZLb2xCWVZMYUNQNHJyRXJDeXpvVTNoUURibzlvWnlSVEM1QXJzZmk2",
@@ -10,9 +10,10 @@
       "source": "富聯網",
       "pubDate": "Tue, 21 Jul 2026 07:54:00 GMT",
       "stocks": [],
-      "background": "台股受美股財報季及AI產業成長動能帶動強彈，主動式台股ETF展現選股優勢。PCB上游設備族群及CCL概念股漲勢凌厲。",
+      "background": "台股強彈，主動式台股ETF展現選股優勢，AI產業成長動能與高頻高速CCL需求升溫，帶動相關供應鏈受惠。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "循環位置"
       ]
     },
     {
@@ -26,30 +27,27 @@
         {
           "symbol": "2207",
           "name": "和泰車",
-          "point": "股價向上表態",
-          "limitUp": false
+          "point": "股價向上表態，法人給予買進評等"
         },
         {
           "symbol": "2206",
           "name": "三陽工業",
-          "point": "股價向上表態",
-          "limitUp": false
+          "point": "股價向上表態"
         },
         {
           "symbol": "2201",
           "name": "裕隆",
-          "point": "股價向上表態",
-          "limitUp": false
+          "point": "股價向上表態，法人給予買進評等"
         },
         {
           "symbol": "2204",
           "name": "中華",
-          "point": "轉投資業績下滑拖累",
-          "limitUp": false
+          "point": "轉投資福建奔馳業績下滑拖累"
         }
       ],
-      "background": "整車市場進入下半年旺季，車廠積極推出新車刺激買氣。台灣上半年新車銷量小幅成長，市場預期下半年景氣將持續回溫。",
+      "background": "下半年進入汽車銷售旺季，車廠紛紛推出新車刺激市場，台灣新車銷量逐漸恢復常態，整車族群營運看法正面。",
       "themeTags": [
+        "需求驅動",
         "循環位置"
       ]
     },
@@ -66,18 +64,14 @@
           "name": "安勤",
           "point": "收鎖漲停",
           "status": "逼近新高",
-          "dist": -1.7,
-          "limitUp": true,
-          "pct": 10
+          "dist": -4.6
         },
         {
           "symbol": "6414",
           "name": "樺漢",
           "point": "收鎖漲停",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 10,
+          "status": "逼近新高",
+          "dist": -2.2,
           "luw": 2,
           "luwd": [
             "7/22",
@@ -88,10 +82,8 @@
           "symbol": "6166",
           "name": "凌華",
           "point": "收鎖漲停",
-          "limitUp": true,
-          "pct": 10,
-          "status": "高檔修正",
-          "dist": -11.3,
+          "status": "逼近新高",
+          "dist": -2.5,
           "luw": 2,
           "luwd": [
             "7/22",
@@ -102,8 +94,6 @@
           "symbol": "3022",
           "name": "威強電",
           "point": "收鎖漲停",
-          "limitUp": true,
-          "pct": 10,
           "luw": 1,
           "luwd": [
             "7/21"
@@ -112,27 +102,21 @@
         {
           "symbol": "6922",
           "name": "宸曜",
-          "point": "收鎖漲停",
-          "limitUp": true,
-          "pct": 9.9
+          "point": "收鎖漲停"
         },
         {
           "symbol": "3088",
           "name": "艾訊",
           "point": "收鎖漲停",
           "status": "逼近新高",
-          "dist": -8.9,
-          "limitUp": true,
-          "pct": 9.9
+          "dist": -4.7
         },
         {
           "symbol": "2395",
           "name": "研華",
           "point": "收鎖漲停",
           "status": "逼近新高",
-          "dist": -4.4,
-          "limitUp": true,
-          "pct": 9.9,
+          "dist": -3.9,
           "luw": 1,
           "luwd": [
             "7/21"
@@ -142,8 +126,6 @@
           "symbol": "8114",
           "name": "振樺電",
           "point": "收鎖漲停",
-          "limitUp": true,
-          "pct": 9.8,
           "luw": 2,
           "luwd": [
             "7/22",
@@ -155,16 +137,12 @@
           "name": "泓格",
           "point": "收鎖漲停",
           "status": "逼近新高",
-          "dist": -8.1,
-          "limitUp": true,
-          "pct": 9.8
+          "dist": -8.4
         },
         {
           "symbol": "6579",
           "name": "研揚",
           "point": "收鎖漲停",
-          "limitUp": true,
-          "pct": 9.7,
           "status": "逼近新高",
           "dist": -9.8,
           "luw": 1,
@@ -176,8 +154,6 @@
           "symbol": "3416",
           "name": "融程電",
           "point": "收鎖漲停",
-          "limitUp": true,
-          "pct": 9.7,
           "luw": 1,
           "luwd": [
             "7/21"
@@ -187,17 +163,13 @@
           "symbol": "4916",
           "name": "事欣科",
           "point": "收鎖漲停",
-          "limitUp": true,
-          "pct": 9.5,
-          "status": "高檔修正",
-          "dist": -14.5,
           "luw": 1,
           "luwd": [
             "7/21"
           ]
         }
       ],
-      "background": "工業電腦(IPC)族群受機器人、邊緣AI、軍工、智慧零售等題材帶動全面噴發。AI從雲端向邊緣端遷移，智慧終端應用日益重要。",
+      "background": "工業電腦（IPC）受惠於機器人、邊緣AI、軍工、智慧零售等題材發酵，市場看好下半年營收表現。",
       "themeTags": [
         "需求驅動"
       ]
@@ -213,11 +185,9 @@
         {
           "symbol": "2395",
           "name": "研華",
-          "point": "領軍9檔飆漲停",
+          "point": "領軍9檔齊飆漲停",
           "status": "逼近新高",
-          "dist": -4.4,
-          "limitUp": true,
-          "pct": 9.9,
+          "dist": -3.9,
           "luw": 1,
           "luwd": [
             "7/21"
@@ -226,11 +196,9 @@
         {
           "symbol": "6414",
           "name": "樺漢",
-          "point": "股價同步攻上漲停",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 10,
+          "point": "齊飆漲停",
+          "status": "逼近新高",
+          "dist": -2.2,
           "luw": 2,
           "luwd": [
             "7/22",
@@ -240,11 +208,9 @@
         {
           "symbol": "6166",
           "name": "凌華",
-          "point": "股價同步攻上漲停",
-          "limitUp": true,
-          "pct": 10,
-          "status": "高檔修正",
-          "dist": -11.3,
+          "point": "齊飆漲停",
+          "status": "逼近新高",
+          "dist": -2.5,
           "luw": 2,
           "luwd": [
             "7/22",
@@ -252,46 +218,65 @@
           ]
         },
         {
-          "symbol": "2348",
+          "symbol": "3022",
           "name": "威強電",
-          "point": "股價同步攻上漲停",
-          "limitUp": false
+          "point": "齊飆漲停",
+          "luw": 1,
+          "luwd": [
+            "7/21"
+          ]
         },
         {
-          "symbol": "6271",
+          "symbol": "3088",
           "name": "艾訊",
-          "point": "股價同步攻上漲停",
-          "limitUp": false
+          "point": "齊飆漲停",
+          "status": "逼近新高",
+          "dist": -4.7
         },
         {
-          "symbol": "6188",
+          "symbol": "8114",
           "name": "振樺電",
-          "point": "股價同步攻上漲停",
-          "limitUp": false
+          "point": "齊飆漲停",
+          "luw": 2,
+          "luwd": [
+            "7/22",
+            "7/21"
+          ]
         },
         {
-          "symbol": "8086",
+          "symbol": "4916",
           "name": "事欣科",
-          "point": "股價同步攻上漲停",
-          "limitUp": false
+          "point": "齊飆漲停",
+          "luw": 1,
+          "luwd": [
+            "7/21"
+          ]
         },
         {
-          "symbol": "3484",
+          "symbol": "3416",
           "name": "融程電",
-          "point": "股價同步攻上漲停",
-          "limitUp": false
+          "point": "齊飆漲停",
+          "luw": 1,
+          "luwd": [
+            "7/21"
+          ]
         },
         {
-          "symbol": "6561",
+          "symbol": "6579",
           "name": "研揚",
-          "point": "股價同步攻上漲停",
-          "limitUp": false
+          "point": "齊飆漲停",
+          "status": "逼近新高",
+          "dist": -9.8,
+          "luw": 1,
+          "luwd": [
+            "7/21"
+          ]
         }
       ],
-      "background": "工業電腦（IPC）受惠邊緣AI、機器人應用發酵，以及歐美製造業自動化資本支出回升，加上綠能政策引導，訂單暢旺。",
+      "background": "工業電腦（IPC）受惠於邊緣AI、機器人應用發酵，加上歐美製造業自動化資本支出回升，帶動族群強勢表現。",
       "themeTags": [
         "需求驅動",
-        "政策關稅"
+        "循環位置"
       ]
     },
     {
@@ -305,9 +290,7 @@
         {
           "symbol": "3450",
           "name": "聯鈞",
-          "point": "矽光子題材先攻漲停",
-          "limitUp": true,
-          "pct": 9.9,
+          "point": "先攻漲停",
           "luw": 1,
           "luwd": [
             "7/21"
@@ -316,14 +299,12 @@
         {
           "symbol": "2345",
           "name": "智邦",
-          "point": "矽光子題材漲逾半根",
-          "limitUp": false
+          "point": "漲逾半根"
         },
         {
           "symbol": "8111",
           "name": "立碁",
-          "point": "矽光子題材漲逾半根",
-          "limitUp": false,
+          "point": "漲逾半根",
           "luw": 5,
           "luwd": [
             "7/22",
@@ -336,14 +317,12 @@
         {
           "symbol": "4979",
           "name": "華星光",
-          "point": "矽光子題材漲逾半根",
-          "limitUp": false
+          "point": "漲逾半根"
         },
         {
           "symbol": "3163",
           "name": "波若威",
-          "point": "矽光子題材漲逾半根",
-          "limitUp": false,
+          "point": "漲逾半根",
           "luw": 5,
           "luwd": [
             "7/22",
@@ -356,14 +335,12 @@
         {
           "symbol": "3363",
           "name": "上詮",
-          "point": "矽光子題材同步走揚",
-          "limitUp": false
+          "point": "同步走揚"
         },
         {
           "symbol": "3081",
           "name": "聯亞",
-          "point": "矽光子題材同步走揚",
-          "limitUp": false,
+          "point": "同步走揚",
           "luw": 5,
           "luwd": [
             "7/22",
@@ -374,7 +351,7 @@
           ]
         }
       ],
-      "background": "矽光子技術受惠於AI大模型Kimi K3崛起及光互連需求，國際大廠AMD、Intel、NVIDIA、台積電等支持，有望提升AI資料中心傳輸效率。",
+      "background": "美通訊大廠Lumentum勁揚，大陸AI大模型Kimi K3崛起，AI投資重心轉向高速傳輸，矽光子迎新一波商機。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
