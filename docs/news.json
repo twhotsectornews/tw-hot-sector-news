@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-23T13:45:35.127+08:00",
-  "generatedAt": "2026-07-23T05:45:35.127Z",
+  "asOf": "2026-07-23T14:03:43.635+08:00",
+  "generatedAt": "2026-07-23T06:03:43.635Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -52,7 +52,8 @@
         "7/17"
       ],
       "mentions": 12,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.5,
       "luw": 2,
       "luwd": [
         "7/21",
@@ -257,7 +258,8 @@
         "7/21"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 5,
       "luwd": [
         "7/22",
@@ -302,7 +304,8 @@
         "7/21"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 5,
       "luwd": [
         "7/22",
@@ -526,7 +529,8 @@
           "symbol": "3081",
           "name": "聯亞",
           "point": "盤中亮出漲停燈號",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "7/22",
@@ -556,7 +560,8 @@
           "symbol": "3234",
           "name": "光環",
           "point": "盤中亮出漲停燈號",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "7/22",
@@ -570,7 +575,8 @@
           "symbol": "3163",
           "name": "波若威",
           "point": "漲逾半根停板",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "7/22",
@@ -649,7 +655,8 @@
           "symbol": "6505",
           "name": "台塑化",
           "point": "盤中一度攻上漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.5,
           "luw": 2,
           "luwd": [
             "7/21",
@@ -683,7 +690,8 @@
           "symbol": "6505",
           "name": "台塑化",
           "point": "油價與煉油利差改善預期，漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.5,
           "luw": 2,
           "luwd": [
             "7/21",
