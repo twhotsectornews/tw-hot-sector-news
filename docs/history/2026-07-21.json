@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "updatedAt": "2026-07-23T05:03:01.519Z",
+  "updatedAt": "2026-07-23T05:45:35.123Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQUEhETzBJdmlaaEtlS0RnV3dULTBTX2E4YUc0aVVreGpWd3UzWDlkN2p2VzRMck5Zb1g1Yi1DMG9jQi1xMnhkOTA2QzRwUDQ0TGRabURGN1JfSXBrT0V3QkZLb2xCWVZMYUNQNHJyRXJDeXpvVTNoUURibzlvWnlSVEM1QXJzZmk2",
@@ -10,7 +10,7 @@
       "source": "富聯網",
       "pubDate": "Tue, 21 Jul 2026 07:54:00 GMT",
       "stocks": [],
-      "background": "台股受美股財報季與AI產業成長動能影響，資訊科技族群表現優異，主動式台股ETF展現選股優勢。PCB上游設備與CCL概念股漲勢凌厲，AI應用擴展帶動高頻高速CCL需求。",
+      "background": "台股受美股財報季與AI產業成長動能帶動強彈，主動式台股ETF展現選股優勢，PCB上游設備與CCL概念股表現強勢，AI應用擴展推升高頻高速CCL需求。",
       "themeTags": [
         "需求驅動"
       ]
@@ -26,26 +26,27 @@
         {
           "symbol": "2207",
           "name": "和泰車",
-          "point": "看好銷量且日本商用車新事業併表"
+          "point": "股價向上表態，看好銷量與新事業併表"
         },
         {
           "symbol": "2206",
           "name": "三陽工業",
-          "point": "旗下南陽實業代理HYUNDAI汽車"
+          "point": "股價向上表態，祭出新車刺激"
         },
         {
           "symbol": "2201",
           "name": "裕隆",
-          "point": "年底開始交付外銷紐澳代工訂單"
+          "point": "股價向上表態，子公司營運止跌與代工訂單"
         },
         {
           "symbol": "2204",
           "name": "中華",
-          "point": "轉投資福建奔馳業績下滑拖累"
+          "point": "轉投資業績下滑，產品組合不佳"
         }
       ],
-      "background": "整車市場下半年進入旺季，車廠祭出新車刺激銷量。然而，上半年車市不如預期、消費者對純油/油電選擇猶豫、美國關稅等三大變數，使車市前景審慎。",
+      "background": "整車市場下半年進入旺季，各大車廠祭出新車刺激銷量，台灣新車銷量逐漸回溫，但消費者決策速度變慢與美國關稅影響仍需審慎因應。",
       "themeTags": [
+        "需求驅動",
         "政策關稅",
         "循環位置"
       ]
@@ -63,14 +64,14 @@
           "name": "安勤",
           "point": "收鎖漲停",
           "status": "逼近新高",
-          "dist": -3.7
+          "dist": -5.2
         },
         {
           "symbol": "6414",
           "name": "樺漢",
           "point": "收鎖漲停",
           "status": "逼近新高",
-          "dist": -0.6,
+          "dist": -0.8,
           "luw": 2,
           "luwd": [
             "7/22",
@@ -108,14 +109,14 @@
           "name": "艾訊",
           "point": "收鎖漲停",
           "status": "逼近新高",
-          "dist": -3.8
+          "dist": -3.5
         },
         {
           "symbol": "2395",
           "name": "研華",
           "point": "收鎖漲停",
           "status": "逼近新高",
-          "dist": -3.6,
+          "dist": -3.7,
           "luw": 1,
           "luwd": [
             "7/21"
@@ -136,7 +137,7 @@
           "name": "泓格",
           "point": "收鎖漲停",
           "status": "逼近新高",
-          "dist": -6.7
+          "dist": -6.4
         },
         {
           "symbol": "6579",
@@ -168,7 +169,7 @@
           ]
         }
       ],
-      "background": "工業電腦(IPC)受機器人、邊緣AI、軍工、智慧零售題材帶動，智慧服務應用日益重要，企業需要工業級可靠的終端平台。AI持續從雲端向邊緣端遷移，智慧終端發揮關鍵作用。",
+      "background": "工業電腦(IPC)受機器人、邊緣AI、軍工、智慧零售等題材發酵，市場看好下半年營收表現，人工智慧與物聯網技術重塑各行業數位轉型。",
       "themeTags": [
         "需求驅動"
       ]
