@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "updatedAt": "2026-07-23T12:13:39.414Z",
+  "updatedAt": "2026-07-24T03:02:09.450Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTFBGWEg1dkt4clpxUW1vQzhSNmt6N1ZIekJCNFE5NzlKXzM2M2xQX3MtTVJqZFFHclhSSmNyTlEwZzNWdG1TTTNpb2lDcVpUMWlOSDFnQW41bXQ",
@@ -111,8 +111,8 @@
           "limitUp": false,
           "luw": 2,
           "luwd": [
-            "7/21",
-            "7/16"
+            "7/23",
+            "7/21"
           ]
         },
         {
@@ -157,8 +157,8 @@
           "limitUp": false,
           "luw": 2,
           "luwd": [
-            "7/21",
-            "7/16"
+            "7/23",
+            "7/21"
           ]
         },
         {
@@ -438,8 +438,9 @@
           "dist": -11.3,
           "limitUp": true,
           "pct": 9.8,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "7/23",
             "7/22",
             "7/21"
           ]
