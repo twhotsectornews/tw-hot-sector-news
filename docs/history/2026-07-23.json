@@ -1,7 +1,37 @@
 {
   "date": "2026-07-23",
-  "updatedAt": "2026-07-24T03:02:09.443Z",
+  "updatedAt": "2026-07-24T04:02:28.064Z",
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE03U2ltSTRxbU5jUUpmMVhaT3U1Q0VJSVh3dTEtWjl5WkxCV3I0Y1lqQUkyc01FRFBjSmhyMmxyODFSaVFoaVVDWmN4MGszVndBQlp1Y0hzdWw",
+      "tkey": "2330台積電-糟糕！陳龍開始抄底過去熱門族群-股市爆料同學會",
+      "title": "2330 台積電 - 糟糕！陳龍開始「抄底」過去熱門族群- 股市爆料同學會 - CMoney",
+      "url": "https://www.cmoney.tw/forum/article/180967793",
+      "source": "CMoney",
+      "pubDate": "Thu, 23 Jul 2026 08:18:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "被抄底過去熱門族群",
+          "status": "逼近新高",
+          "dist": -7.1
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "被抄底過去熱門族群",
+          "luw": 1,
+          "luwd": [
+            "7/21"
+          ]
+        }
+      ],
+      "background": "市場資金在高檔震盪，部分投資者開始抄底過去熱門族群，如PCB、矽光子、面板、記憶體等，但整體市場仍有潛在系統性風險。",
+      "themeTags": [
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPRkxCaV9JUE5lNDJjNE1FQTBoa1ZQTWF1bzhFTHp3eENCajFMbHRwWDd6MGxKU2xTS0FhcDRKYzdtZnEtREEwRmFncHc0WXhEWWsxREY3VW1ES2ZHWExTNVU3VV9OTnc0NDZKcXMySE5QRExRakhKY25aZlBMS2RVLWVaWlJjWHhn",
       "tkey": "熱門族群緯創德州廠點燃AI熱潮續飆！散熱雙雄齊攻",
