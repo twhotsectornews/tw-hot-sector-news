@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-24T12:02:28.068+08:00",
-  "generatedAt": "2026-07-24T04:02:28.068Z",
+  "asOf": "2026-07-24T13:02:08.055+08:00",
+  "generatedAt": "2026-07-24T05:02:08.055Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -90,6 +90,50 @@
       "limitUp": false
     },
     {
+      "symbol": "3324",
+      "name": "雙鴻",
+      "days": 4,
+      "dates": [
+        "7/24",
+        "7/23",
+        "7/21",
+        "7/20"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "3017",
+      "name": "奇鋐",
+      "days": 4,
+      "dates": [
+        "7/24",
+        "7/23",
+        "7/21",
+        "7/20"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "3231",
+      "name": "緯創",
+      "days": 3,
+      "dates": [
+        "7/24",
+        "7/23",
+        "7/18"
+      ],
+      "mentions": 5,
+      "status": "逼近新高",
+      "dist": -7.9,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/22"
+      ]
+    },
+    {
       "symbol": "2395",
       "name": "研華",
       "days": 3,
@@ -105,24 +149,6 @@
       "luw": 1,
       "luwd": [
         "7/21"
-      ]
-    },
-    {
-      "symbol": "3231",
-      "name": "緯創",
-      "days": 3,
-      "dates": [
-        "7/24",
-        "7/23",
-        "7/18"
-      ],
-      "mentions": 4,
-      "status": "逼近新高",
-      "dist": -7.4,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/22"
       ]
     },
     {
@@ -166,30 +192,6 @@
       "limitUp": false
     },
     {
-      "symbol": "3017",
-      "name": "奇鋐",
-      "days": 3,
-      "dates": [
-        "7/23",
-        "7/21",
-        "7/20"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "3324",
-      "name": "雙鴻",
-      "days": 3,
-      "dates": [
-        "7/23",
-        "7/21",
-        "7/20"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
       "symbol": "6770",
       "name": "力積電",
       "days": 3,
@@ -199,6 +201,17 @@
         "7/20"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2317",
+      "name": "鴻海",
+      "days": 2,
+      "dates": [
+        "7/24",
+        "7/23"
+      ],
+      "mentions": 4,
       "limitUp": false
     },
     {
@@ -241,17 +254,6 @@
       ]
     },
     {
-      "symbol": "2317",
-      "name": "鴻海",
-      "days": 2,
-      "dates": [
-        "7/24",
-        "7/23"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
       "symbol": "2327",
       "name": "國巨",
       "days": 2,
@@ -260,6 +262,79 @@
         "7/20"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "6669",
+      "name": "緯穎",
+      "days": 2,
+      "dates": [
+        "7/24",
+        "7/18"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -1.1,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/22"
+      ]
+    },
+    {
+      "symbol": "8222",
+      "name": "寶一",
+      "days": 2,
+      "dates": [
+        "7/24",
+        "7/21"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/21"
+      ]
+    },
+    {
+      "symbol": "2634",
+      "name": "漢翔",
+      "days": 2,
+      "dates": [
+        "7/24",
+        "7/21"
+      ],
+      "mentions": 2,
+      "status": "高檔修正",
+      "dist": -13.7,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/21"
+      ]
+    },
+    {
+      "symbol": "4541",
+      "name": "晟田",
+      "days": 2,
+      "dates": [
+        "7/24",
+        "7/21"
+      ],
+      "mentions": 2,
+      "status": "高檔修正",
+      "dist": -13.4,
+      "limitUp": false
+    },
+    {
+      "symbol": "5371",
+      "name": "中光電",
+      "days": 2,
+      "dates": [
+        "7/24",
+        "7/22"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -378,41 +453,116 @@
       "luwd": [
         "7/21"
       ]
-    },
-    {
-      "symbol": "3037",
-      "name": "欣興",
-      "days": 2,
-      "dates": [
-        "7/21",
-        "7/18"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 2,
-      "luwd": [
-        "7/22",
-        "7/21"
-      ]
-    },
-    {
-      "symbol": "3026",
-      "name": "禾伸堂",
-      "days": 2,
-      "dates": [
-        "7/20",
-        "7/18"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/21"
-      ]
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPSG5wRnBEQ0otQWRQTWx1Y282a2VhTk13UXB0dnlKbzdlTmEzRVZLNDcwQnN0R3dFTzV1OVV1a1JzYm04SzRLT1cydldKSTM5MGF0eDlxZEpHc0xMM0Z5ZlE3anFkMml5UzVwYkZOWVFSSkVMM2c2d2pRcndyenpabTFLOTJvWk1J",
+      "tkey": "熱門族群緯創美廠效應發酵成交量稱冠再創高",
+      "title": "《熱門族群》緯創美廠效應發酵 成交量稱冠再創高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6248284001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Fri, 24 Jul 2026 03:55:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3231",
+          "name": "緯創",
+          "point": "美廠效應發酵，股價續攻新高且成交量稱冠",
+          "status": "逼近新高",
+          "dist": -7.9,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        },
+        {
+          "symbol": "6669",
+          "name": "緯穎",
+          "point": "逆勢上攻新高",
+          "status": "逼近新高",
+          "dist": -1.1,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "外資連四天買超，股價有撐",
+          "limitUp": false
+        },
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "point": "散熱大廠相對抗跌，股價亦有撐",
+          "limitUp": false
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "散熱大廠股價亦有撐",
+          "limitUp": false
+        }
+      ],
+      "background": "AI伺服器需求爆發，緯創美國智慧工廠啟用，輝達、超微等國際大廠擴大與台灣供應鏈合作，帶動伺服器ODM及散熱廠營運。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOQ2xtOEZKUkhDOXEzQjhNWGlCSmMtS1F4SWVkV05xSzNBRWJXeFFfY0R0TmdTbmNjamVud3pVMHhkZXVsTzVqWGRHRk5QTVpMRlZ4Z3JHdlQtajg0d3RsTzNPbjlaZXJEbE5hTUE1bkl0ZjN2SjVQZEhlNVdXeDdMVnd1ajhGNUpY",
+      "tkey": "熱門族群避險資金發威！漢翔引領軍工概念強勢抗空",
+      "title": "《熱門族群》避險資金發威！漢翔引領軍工概念強勢抗空 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6248270001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 24 Jul 2026 03:35:00 GMT",
+      "stocks": [
+        {
+          "symbol": "8222",
+          "name": "寶一",
+          "point": "逆勢上攻，觸及41元最高價",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/21"
+          ]
+        },
+        {
+          "symbol": "2634",
+          "name": "漢翔",
+          "point": "引領軍工概念，午盤漲幅超過7.7%",
+          "status": "高檔修正",
+          "dist": -13.7,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/21"
+          ]
+        },
+        {
+          "symbol": "4541",
+          "name": "晟田",
+          "point": "強拉半根漲停板",
+          "status": "高檔修正",
+          "dist": -13.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "5371",
+          "name": "中光電",
+          "point": "漲至3.6%以上",
+          "limitUp": false
+        }
+      ],
+      "background": "美伊局勢反覆，地緣政治風險推升軍工股評價，加上台灣國防自主政策提供產業長線支撐，加速無人載具建置。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOU2hBTlRmN1hkZ2phd2RYMTlBZkJKcEl3SE5uQjVFUmxxcnlnMnpnY1FtWVI1RUZtYlpqNURrRHQzUzBWOVFzQnMwVDV0aERNWmZob01DZEdWWUpZSzIxMW9HYzZ5Nmd6ZXJfenlWcjJaeHRMUGllN0ZIQ1VSb1gwVDBKOWFfWXRW",
       "tkey": "熱門族群AI伺服器升級點火！PCIe迎成長週期祥碩、譜瑞-KY受惠",
