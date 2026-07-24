@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-24T13:02:08.055+08:00",
-  "generatedAt": "2026-07-24T05:02:08.055Z",
+  "asOf": "2026-07-24T13:42:16.619+08:00",
+  "generatedAt": "2026-07-24T05:42:16.619Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -456,6 +456,50 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQcFlrRUlvX2JXcW5peFpOSEV3Z2xKaExyV1lMWER6WFVKbG9NcnBoR2IxS0xPVzRxbkwxa0JHYl81R3cwTlVhOUItZFFkQjU4a3JLcFF5RHliV2NPRGNiYnhoQUdsQV9jcmRIVXlrR3NKRWJ3U2YwWjVVOEJOUFRmODd5ajVKUUNH",
+      "tkey": "熱門族群封測苦跌欣銓、精材帶利沒漲升頎邦更殺跌停",
+      "title": "《熱門族群》封測苦跌 欣銓、精材帶利沒漲升 頎邦更殺跌停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6248331001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 24 Jul 2026 04:43:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3264",
+          "name": "欣銓",
+          "point": "帶利沒漲升，法說會登場",
+          "limitUp": false
+        },
+        {
+          "symbol": "3374",
+          "name": "精材",
+          "point": "擁獲利倍增仍難逃大跌",
+          "status": "高檔修正",
+          "dist": -13.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "6147",
+          "name": "頎邦",
+          "point": "檢調搜索，股價殺跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "point": "法說會登場，股價跌逾4%",
+          "limitUp": false
+        },
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "point": "法說會登場，股價跌逾4%",
+          "limitUp": false
+        }
+      ],
+      "background": "封測族群受台股大跌影響，儘管部分公司獲利表現亮眼或法說會將登場，股價仍普遍下跌。先進封測市場動能受看好，但整體產業面臨短期修正壓力。",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxPSG5wRnBEQ0otQWRQTWx1Y282a2VhTk13UXB0dnlKbzdlTmEzRVZLNDcwQnN0R3dFTzV1OVV1a1JzYm04SzRLT1cydldKSTM5MGF0eDlxZEpHc0xMM0Z5ZlE3anFkMml5UzVwYkZOWVFSSkVMM2c2d2pRcndyenpabTFLOTJvWk1J",
       "tkey": "熱門族群緯創美廠效應發酵成交量稱冠再創高",
