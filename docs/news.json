@@ -1,27 +1,11 @@
 {
-  "asOf": "2026-07-24T20:06:59.590+08:00",
-  "generatedAt": "2026-07-24T12:06:59.590Z",
+  "asOf": "2026-07-25T11:02:06.040+08:00",
+  "generatedAt": "2026-07-25T03:02:06.040Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
-    {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 7,
-      "dates": [
-        "7/24",
-        "7/23",
-        "7/22",
-        "7/21",
-        "7/20",
-        "7/19",
-        "7/18"
-      ],
-      "mentions": 11,
-      "limitUp": false
-    },
     {
       "symbol": "6505",
       "name": "台塑化",
@@ -58,6 +42,21 @@
       "limitUp": false
     },
     {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 6,
+      "dates": [
+        "7/24",
+        "7/23",
+        "7/22",
+        "7/21",
+        "7/20",
+        "7/19"
+      ],
+      "mentions": 10,
+      "limitUp": false
+    },
+    {
       "symbol": "1301",
       "name": "台塑",
       "days": 6,
@@ -75,16 +74,15 @@
     {
       "symbol": "2330",
       "name": "台積電",
-      "days": 6,
+      "days": 5,
       "dates": [
         "7/24",
         "7/23",
         "7/22",
         "7/21",
-        "7/20",
-        "7/18"
+        "7/20"
       ],
-      "mentions": 8,
+      "mentions": 7,
       "status": "逼近新高",
       "dist": -7.1,
       "limitUp": false
@@ -116,24 +114,6 @@
       "limitUp": false
     },
     {
-      "symbol": "3231",
-      "name": "緯創",
-      "days": 3,
-      "dates": [
-        "7/24",
-        "7/23",
-        "7/18"
-      ],
-      "mentions": 5,
-      "status": "逼近新高",
-      "dist": -7.9,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/22"
-      ]
-    },
-    {
       "symbol": "2395",
       "name": "研華",
       "days": 3,
@@ -150,34 +130,6 @@
       "luwd": [
         "7/21"
       ]
-    },
-    {
-      "symbol": "8046",
-      "name": "南電",
-      "days": 3,
-      "dates": [
-        "7/24",
-        "7/21",
-        "7/18"
-      ],
-      "mentions": 3,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/22"
-      ]
-    },
-    {
-      "symbol": "2382",
-      "name": "廣達",
-      "days": 3,
-      "dates": [
-        "7/24",
-        "7/23",
-        "7/18"
-      ],
-      "mentions": 3,
-      "limitUp": false
     },
     {
       "symbol": "3363",
@@ -202,6 +154,23 @@
       ],
       "mentions": 3,
       "limitUp": false
+    },
+    {
+      "symbol": "3231",
+      "name": "緯創",
+      "days": 2,
+      "dates": [
+        "7/24",
+        "7/23"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -7.9,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/22"
+      ]
     },
     {
       "symbol": "2317",
@@ -265,23 +234,6 @@
       "limitUp": false
     },
     {
-      "symbol": "6669",
-      "name": "緯穎",
-      "days": 2,
-      "dates": [
-        "7/24",
-        "7/18"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -1.1,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/22"
-      ]
-    },
-    {
       "symbol": "8222",
       "name": "寶一",
       "days": 2,
@@ -333,6 +285,32 @@
       "dates": [
         "7/24",
         "7/22"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "8046",
+      "name": "南電",
+      "days": 2,
+      "dates": [
+        "7/24",
+        "7/21"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/22"
+      ]
+    },
+    {
+      "symbol": "2382",
+      "name": "廣達",
+      "days": 2,
+      "dates": [
+        "7/24",
+        "7/23"
       ],
       "mentions": 2,
       "limitUp": false
@@ -411,40 +389,6 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "2344",
-      "name": "華邦電",
-      "days": 2,
-      "dates": [
-        "7/22",
-        "7/18"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 1,
-      "luwd": [
-        "7/22"
-      ]
-    },
-    {
-      "symbol": "3189",
-      "name": "景碩",
-      "days": 2,
-      "dates": [
-        "7/21",
-        "7/18"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -13.3,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 1,
-      "luwd": [
-        "7/21"
-      ]
     }
   ],
   "news": [
@@ -547,6 +491,30 @@
       "themeTags": [
         "需求驅動",
         "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTE90ZlhZX0ctYnBfeUpHUkNWSDUtSGxXUlZWWjZ5WnExUUZDNmNXRnc0VzNudXJYU1ItczNvb1V1VFpDay13blhxT2Jwd0lkQjdHbVJ4WXdpWjktYl9jNWZ1YU1ncVI2M1BwclE",
+      "tkey": "熱門族群AI伺服器升級點火！PCIe迎成長週期祥碩、譜瑞-KY受惠-上市櫃",
+      "title": "《熱門族群》AI伺服器升級點火！PCIe迎成長週期祥碩、譜瑞-KY受惠- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260724900163-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Fri, 24 Jul 2026 03:41:45 GMT",
+      "stocks": [
+        {
+          "symbol": "5269",
+          "name": "祥碩",
+          "point": "PCIe Gen4 Switch已量產，Gen5下半年Tape-out"
+        },
+        {
+          "symbol": "4966",
+          "name": "譜瑞-KY",
+          "point": "布局PCIe Retimer與Linear Redriver"
+        }
+      ],
+      "background": "AI伺服器架構升級至機櫃級，推升PCIe高速互連市場需求，帶動Switch、Retimer、Redriver用量成長。",
+      "themeTags": [
+        "需求驅動"
       ]
     },
     {

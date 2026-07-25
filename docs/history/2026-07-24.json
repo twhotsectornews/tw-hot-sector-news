@@ -1,0 +1,482 @@
+{
+  "date": "2026-07-24",
+  "updatedAt": "2026-07-25T03:02:06.035Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQcFlrRUlvX2JXcW5peFpOSEV3Z2xKaExyV1lMWER6WFVKbG9NcnBoR2IxS0xPVzRxbkwxa0JHYl81R3cwTlVhOUItZFFkQjU4a3JLcFF5RHliV2NPRGNiYnhoQUdsQV9jcmRIVXlrR3NKRWJ3U2YwWjVVOEJOUFRmODd5ajVKUUNH",
+      "tkey": "熱門族群封測苦跌欣銓、精材帶利沒漲升頎邦更殺跌停",
+      "title": "《熱門族群》封測苦跌 欣銓、精材帶利沒漲升 頎邦更殺跌停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6248331001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 24 Jul 2026 04:43:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3264",
+          "name": "欣銓",
+          "point": "帶利沒漲升，法說會登場",
+          "limitUp": false
+        },
+        {
+          "symbol": "3374",
+          "name": "精材",
+          "point": "擁獲利倍增仍難逃大跌",
+          "status": "高檔修正",
+          "dist": -13.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "6147",
+          "name": "頎邦",
+          "point": "檢調搜索，股價殺跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "point": "法說會登場，股價跌逾4%",
+          "limitUp": false
+        },
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "point": "法說會登場，股價跌逾4%",
+          "limitUp": false
+        }
+      ],
+      "background": "封測族群受台股大跌影響，儘管部分公司獲利表現亮眼或法說會將登場，股價仍普遍下跌。先進封測市場動能受看好，但整體產業面臨短期修正壓力。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPSG5wRnBEQ0otQWRQTWx1Y282a2VhTk13UXB0dnlKbzdlTmEzRVZLNDcwQnN0R3dFTzV1OVV1a1JzYm04SzRLT1cydldKSTM5MGF0eDlxZEpHc0xMM0Z5ZlE3anFkMml5UzVwYkZOWVFSSkVMM2c2d2pRcndyenpabTFLOTJvWk1J",
+      "tkey": "熱門族群緯創美廠效應發酵成交量稱冠再創高",
+      "title": "《熱門族群》緯創美廠效應發酵 成交量稱冠再創高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6248284001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Fri, 24 Jul 2026 03:55:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3231",
+          "name": "緯創",
+          "point": "美廠效應發酵，股價續攻新高且成交量稱冠",
+          "status": "逼近新高",
+          "dist": -7.9,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        },
+        {
+          "symbol": "6669",
+          "name": "緯穎",
+          "point": "逆勢上攻新高",
+          "status": "逼近新高",
+          "dist": -1.1,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "外資連四天買超，股價有撐",
+          "limitUp": false
+        },
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "point": "散熱大廠相對抗跌，股價亦有撐",
+          "limitUp": false
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "散熱大廠股價亦有撐",
+          "limitUp": false
+        }
+      ],
+      "background": "AI伺服器需求爆發，緯創美國智慧工廠啟用，輝達、超微等國際大廠擴大與台灣供應鏈合作，帶動伺服器ODM及散熱廠營運。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTE90ZlhZX0ctYnBfeUpHUkNWSDUtSGxXUlZWWjZ5WnExUUZDNmNXRnc0VzNudXJYU1ItczNvb1V1VFpDay13blhxT2Jwd0lkQjdHbVJ4WXdpWjktYl9jNWZ1YU1ncVI2M1BwclE",
+      "tkey": "熱門族群AI伺服器升級點火！PCIe迎成長週期祥碩、譜瑞-KY受惠-上市櫃",
+      "title": "《熱門族群》AI伺服器升級點火！PCIe迎成長週期祥碩、譜瑞-KY受惠- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260724900163-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Fri, 24 Jul 2026 03:41:45 GMT",
+      "stocks": [
+        {
+          "symbol": "5269",
+          "name": "祥碩",
+          "point": "PCIe Gen4 Switch已量產，Gen5下半年Tape-out"
+        },
+        {
+          "symbol": "4966",
+          "name": "譜瑞-KY",
+          "point": "布局PCIe Retimer與Linear Redriver"
+        }
+      ],
+      "background": "AI伺服器架構升級至機櫃級，推升PCIe高速互連市場需求，帶動Switch、Retimer、Redriver用量成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOQ2xtOEZKUkhDOXEzQjhNWGlCSmMtS1F4SWVkV05xSzNBRWJXeFFfY0R0TmdTbmNjamVud3pVMHhkZXVsTzVqWGRHRk5QTVpMRlZ4Z3JHdlQtajg0d3RsTzNPbjlaZXJEbE5hTUE1bkl0ZjN2SjVQZEhlNVdXeDdMVnd1ajhGNUpY",
+      "tkey": "熱門族群避險資金發威！漢翔引領軍工概念強勢抗空",
+      "title": "《熱門族群》避險資金發威！漢翔引領軍工概念強勢抗空 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6248270001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 24 Jul 2026 03:35:00 GMT",
+      "stocks": [
+        {
+          "symbol": "8222",
+          "name": "寶一",
+          "point": "逆勢上攻，觸及41元最高價",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/21"
+          ]
+        },
+        {
+          "symbol": "2634",
+          "name": "漢翔",
+          "point": "引領軍工概念，午盤漲幅超過7.7%",
+          "status": "高檔修正",
+          "dist": -13.7,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/21"
+          ]
+        },
+        {
+          "symbol": "4541",
+          "name": "晟田",
+          "point": "強拉半根漲停板",
+          "status": "高檔修正",
+          "dist": -13.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "5371",
+          "name": "中光電",
+          "point": "漲至3.6%以上",
+          "limitUp": false
+        }
+      ],
+      "background": "美伊局勢反覆，地緣政治風險推升軍工股評價，加上台灣國防自主政策提供產業長線支撐，加速無人載具建置。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOU2hBTlRmN1hkZ2phd2RYMTlBZkJKcEl3SE5uQjVFUmxxcnlnMnpnY1FtWVI1RUZtYlpqNURrRHQzUzBWOVFzQnMwVDV0aERNWmZob01DZEdWWUpZSzIxMW9HYzZ5Nmd6ZXJfenlWcjJaeHRMUGllN0ZIQ1VSb1gwVDBKOWFfWXRW",
+      "tkey": "熱門族群AI伺服器升級點火！PCIe迎成長週期祥碩、譜瑞-KY受惠",
+      "title": "《熱門族群》AI伺服器升級點火！PCIe迎成長週期 祥碩、譜瑞-KY受惠 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6248257001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 24 Jul 2026 03:29:00 GMT",
+      "stocks": [
+        {
+          "symbol": "5269",
+          "name": "祥碩",
+          "point": "PCIe高速介面產品受惠",
+          "limitUp": false
+        },
+        {
+          "symbol": "4966",
+          "name": "譜瑞-KY",
+          "point": "PCIe Retimer與Redriver受惠",
+          "limitUp": false
+        }
+      ],
+      "background": "AI伺服器架構升級至機櫃級，推升PCIe高速互連市場需求，PCIe Switch、Retimer、Redriver需求同步成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQdGVnMUhrQlVXeXdWcV9JWi0xZnNuZ09ReGU1aTd5NXowdjZpNnNkM19OYVdyVHE5LUZ0X1l4a2RYUzl4eG5oNldxVjA1THdqalVlN292UXBjdDVIdDRFX2p1QUVBakwtUVBnUG5wcWhDLWtLd3BZMjBsX0tfR2FqVEJ6eUlhVUZI",
+      "tkey": "熱門族群油價高不敵獲利了結台塑化攻百不成、四寶暫歇",
+      "title": "《熱門族群》油價高不敵獲利了結 台塑化攻百不成、四寶暫歇 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6248137001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 24 Jul 2026 01:48:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "油價高不敵獲利了結",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "7/23",
+            "7/21"
+          ]
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "受台塑化影響跌約1.5%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "受台塑化影響跌約1.5%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "受台塑化影響跌約1.5%",
+          "limitUp": false
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "電子族群承壓跌勢明顯",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "電子族群承壓跌勢明顯",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/20"
+          ]
+        }
+      ],
+      "background": "國際油價因中東地緣政治升溫而大漲，帶動能源股走強，但短線漲幅已大，面臨獲利了結賣壓。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOcW96MFZxbU5weC03YUVIUmNoTlBudC00NGNWSTN4dzE0NXlhMGhoNFJ4aDNNN1RsbVlZQzJLU1dOLWxmMkJMYTBmbUY1TFdVOHVNWjh3ZWRsa2RhUWRlNkdhOE4tR1ZpQTVQUlJYdGl0dVVtMG9GRlljWVpxWWdxMEVuQ21vdjlf",
+      "tkey": "熱門族群領先大盤研華、千附法人看好",
+      "title": "《熱門族群》領先大盤 研華、千附法人看好 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6247939001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 24 Jul 2026 00:06:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2395",
+          "name": "研華",
+          "point": "工業電腦龍頭獲法人看好",
+          "status": "逼近新高",
+          "dist": -4.7,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/21"
+          ]
+        },
+        {
+          "symbol": "8383",
+          "name": "千附",
+          "point": "半導體廠務工程受惠",
+          "status": "逼近新高",
+          "dist": -3.4,
+          "limitUp": false
+        }
+      ],
+      "background": "研華受惠於Edge AI解決方案及歐美智慧製造專案，千附則受惠於全球AI、HPC及先進製程帶動的半導體資本支出，營運進入收成期。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOR3A4VzM5QjRRX3pNVkVtY3Q2X2pIZjVRTG9KY3ZzZEhqLWo3dW1vVzM1eGgtRnl4UHJMazBLeTY3TFZqcjllLXhVVXdTRHJIZ2tLVXFaeVZuUjltSU16QUpNb3RrLWozMVFlOGVPQm1IRTJ3ZjNKYXFKdzNqR2RzTU1RYVlXbXVs",
+      "tkey": "熱門族群鴻海、緯創人氣回籠",
+      "title": "《熱門族群》鴻海、緯創 人氣回籠 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6247940001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 24 Jul 2026 00:06:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "AI伺服器市占逾4成",
+          "limitUp": false
+        },
+        {
+          "symbol": "3231",
+          "name": "緯創",
+          "point": "AI伺服器新廠投產",
+          "status": "逼近新高",
+          "dist": -7.4,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        }
+      ],
+      "background": "AI教父黃仁勳站台，加上Google上修資本支出，帶動鴻海、緯創等AI伺服器供應商受惠，人氣回籠。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOdWFRUW03OHgxT0FZODN1ME5aNDBHNDBiSFpRTG13VEhqV1g0Mll4aHE5TDFQUjFhSGsxZkdkc2ZTU2ZUWDBXbzEzYmdCNTlxbjVXdFJTekdIQmtWX3pTamwxWkhIQ3hfazcwRkROV0FyTi1zbzhtLWJvM3RNcWt5M0RJMDVjcS1O",
+      "tkey": "熱門族群資金輪轉老AI站回聚光燈",
+      "title": "《熱門族群》資金輪轉 老AI站回聚光燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6247929001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 24 Jul 2026 00:06:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3231",
+          "name": "緯創",
+          "point": "股價帶量跳空領漲",
+          "status": "逼近新高",
+          "dist": -7.4,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        },
+        {
+          "symbol": "4938",
+          "name": "和碩",
+          "point": "老AI股表現優於大盤",
+          "limitUp": false
+        },
+        {
+          "symbol": "2324",
+          "name": "仁寶",
+          "point": "老AI股表現優於大盤",
+          "limitUp": false
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "老AI股表現優於大盤",
+          "limitUp": false
+        },
+        {
+          "symbol": "2377",
+          "name": "微星",
+          "point": "老AI股表現優於大盤",
+          "limitUp": false
+        },
+        {
+          "symbol": "2357",
+          "name": "華碩",
+          "point": "老AI股表現優於大盤",
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14.9
+        },
+        {
+          "symbol": "2376",
+          "name": "技嘉",
+          "point": "老AI股表現優於大盤",
+          "status": "高檔修正",
+          "dist": -11.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "2382",
+          "name": "廣達",
+          "point": "老AI股表現優於大盤",
+          "limitUp": false
+        }
+      ],
+      "background": "美超級財報周登場，谷歌上修資本支出，預期CSP業者將擴大AI軍備競賽，帶動老AI組裝廠營運動能。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPbXFBZlE2ZTNsNURIUVRQNzZuanVtZTZVcHlLcktaeVJ5TjJmYTNfNXVJRWZmeWdRb0ZyMnpjRi02MHUxeENwOFR3MUg0dWN6S2JTbGJPcWExQkVmNE1qZ3Z1eFBZbEltUzRLbkdyQ25Yc29kRFdIUnlrZXNHeU0tc1psdHVUVVlz",
+      "tkey": "熱門族群CPO2028放大量台廠發光",
+      "title": "《熱門族群》CPO 2028放大量 台廠發光 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6247931001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 24 Jul 2026 00:06:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "持續改善CPO封裝良率",
+          "status": "逼近新高",
+          "dist": -7.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "3363",
+          "name": "上詮",
+          "point": "切入FAU供應鏈",
+          "limitUp": false
+        },
+        {
+          "symbol": "6451",
+          "name": "訊芯-KY",
+          "point": "受惠FAU組裝及光模組封裝",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/21"
+          ]
+        },
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "point": "旗下矽品具FAU組裝能力",
+          "status": "高檔修正",
+          "dist": -15,
+          "limitUp": false
+        },
+        {
+          "symbol": "6789",
+          "name": "采鈺",
+          "point": "布局矽微透鏡",
+          "limitUp": false
+        }
+      ],
+      "background": "CPO（共同封裝光學）被視為下一世代光互連關鍵技術，預計2028年大量出貨，台廠供應鏈將迎來新商機，但短期挑戰在於良率。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE0xczUzZWN3STdtNlEyTjNPNEs5ZnNFbW4xeExlUmkyRXFNWVhJZkljTmtub2trYVYyNEJtVXA5YTlFOXByNU92aUFTVE1TZHlZcERJME5NRkw",
+      "tkey": "熱門族群受惠CPO題材大立光領軍光學族群上衝",
+      "title": "熱門族群》受惠CPO題材 大立光領軍光學族群上衝 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/b4kt7zt65bh5",
+      "source": "自由時報",
+      "pubDate": "Thu, 23 Jul 2026 17:58:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "受惠CPO題材領軍上衝",
+          "limitUp": false
+        }
+      ],
+      "background": "光學族群受惠於CPO（共同封裝光學）題材，CPO為下一世代光互連關鍵技術，預期將帶動光學零組件需求。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}
