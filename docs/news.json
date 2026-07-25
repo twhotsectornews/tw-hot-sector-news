@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-25T15:49:53.045+08:00",
-  "generatedAt": "2026-07-25T07:49:53.045Z",
+  "asOf": "2026-07-25T17:43:08.202+08:00",
+  "generatedAt": "2026-07-25T09:43:08.202Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -408,6 +408,61 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQdTZRUW8xMDRlbU5jYUhENTJ4NWhoZG54R3owd0pnTVc4aU4wOUkwWGpCdENKTzVEVXhBWGk0VjY4NUo4Wk91RmZxaFpqYlV1UUVnYjFhQU5mSmdEeFhqb0RydXlPTDRLQW12MDRNM0VGTUxjMDVycEk5WlRCbEgzd3FMQTJhNFZj",
+      "tkey": "熱門族群加工絲、尼龍廠拚Q3優於Q2",
+      "title": "《熱門族群》加工絲、尼龍廠 拚Q3優於Q2 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6249099001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sat, 25 Jul 2026 08:41:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1413",
+          "name": "宏洲",
+          "point": "加工絲、尼龍廠第三季營運成長",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/24"
+          ]
+        },
+        {
+          "symbol": "1444",
+          "name": "力麗",
+          "point": "加工絲、尼龍廠第三季營運成長",
+          "limitUp": false
+        },
+        {
+          "symbol": "1447",
+          "name": "力鵬",
+          "point": "加工絲、尼龍廠第三季營運成長",
+          "limitUp": false
+        },
+        {
+          "symbol": "1455",
+          "name": "集盛",
+          "point": "加工絲、尼龍廠第三季營運成長",
+          "limitUp": false
+        },
+        {
+          "symbol": "1452",
+          "name": "宏益",
+          "point": "加工絲、尼龍廠第三季營運成長",
+          "limitUp": false
+        },
+        {
+          "symbol": "1459",
+          "name": "聯發紡",
+          "point": "加工絲、尼龍廠第三季營運成長",
+          "limitUp": false
+        }
+      ],
+      "background": "美伊戰事推動全球油價上漲，帶動紡纖原料石化價格上漲，加上傳統旺季客戶拉貨動能增，加工絲、尼龍產品售價可望維持高檔。國際地緣政治與關稅變化也帶來轉單效應。",
+      "themeTags": [
+        "政策關稅",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQd1FNN2dXYVk2RW9MZzl4S3kzSDY5OVViQkVSRjh6ODVsWmtHTmJ2S25RTWV2eGgtVTJOLWVyUjFVbDByczJKWjBsaE9sLVdZZHJWYVdjUUlNWTZwaGlta2FmcDdDQ20yM3JwdUE0TnE0Tm50UW5vU1p4NnoyQ2JNUkQ4ZDI0X3px",
       "tkey": "熱門族群AMD大會IPC四雄秀實體AI",
