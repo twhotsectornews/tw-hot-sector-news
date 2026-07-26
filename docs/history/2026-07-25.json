@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-25",
+  "updatedAt": "2026-07-26T03:01:57.737Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQdTZRUW8xMDRlbU5jYUhENTJ4NWhoZG54R3owd0pnTVc4aU4wOUkwWGpCdENKTzVEVXhBWGk0VjY4NUo4Wk91RmZxaFpqYlV1UUVnYjFhQU5mSmdEeFhqb0RydXlPTDRLQW12MDRNM0VGTUxjMDVycEk5WlRCbEgzd3FMQTJhNFZj",
+      "tkey": "熱門族群加工絲、尼龍廠拚Q3優於Q2",
+      "title": "《熱門族群》加工絲、尼龍廠 拚Q3優於Q2 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6249099001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sat, 25 Jul 2026 08:41:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1413",
+          "name": "宏洲",
+          "point": "加工絲、尼龍廠第三季營運成長",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/24"
+          ]
+        },
+        {
+          "symbol": "1444",
+          "name": "力麗",
+          "point": "加工絲、尼龍廠第三季營運成長",
+          "limitUp": false
+        },
+        {
+          "symbol": "1447",
+          "name": "力鵬",
+          "point": "加工絲、尼龍廠第三季營運成長",
+          "limitUp": false
+        },
+        {
+          "symbol": "1455",
+          "name": "集盛",
+          "point": "加工絲、尼龍廠第三季營運成長",
+          "limitUp": false
+        },
+        {
+          "symbol": "1452",
+          "name": "宏益",
+          "point": "加工絲、尼龍廠第三季營運成長",
+          "limitUp": false
+        },
+        {
+          "symbol": "1459",
+          "name": "聯發紡",
+          "point": "加工絲、尼龍廠第三季營運成長",
+          "limitUp": false
+        }
+      ],
+      "background": "美伊戰事推動全球油價上漲，帶動紡纖原料石化價格上漲，加上傳統旺季客戶拉貨動能增，加工絲、尼龍產品售價可望維持高檔。國際地緣政治與關稅變化也帶來轉單效應。",
+      "themeTags": [
+        "政策關稅",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQd1FNN2dXYVk2RW9MZzl4S3kzSDY5OVViQkVSRjh6ODVsWmtHTmJ2S25RTWV2eGgtVTJOLWVyUjFVbDByczJKWjBsaE9sLVdZZHJWYVdjUUlNWTZwaGlta2FmcDdDQ20yM3JwdUE0TnE0Tm50UW5vU1p4NnoyQ2JNUkQ4ZDI0X3px",
+      "tkey": "熱門族群AMD大會IPC四雄秀實體AI",
+      "title": "《熱門族群》AMD大會 IPC四雄秀實體AI - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6249076001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sat, 25 Jul 2026 07:11:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2395",
+          "name": "研華",
+          "point": "展示AI資料中心及邊緣AI伺服器",
+          "status": "逼近新高",
+          "dist": -6,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/21"
+          ]
+        },
+        {
+          "symbol": "3022",
+          "name": "威強電",
+          "point": "推出嵌入式運算平台與軟體平台",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/21"
+          ]
+        },
+        {
+          "symbol": "8050",
+          "name": "廣積",
+          "point": "展示新款機器人AI邊緣運算電腦",
+          "limitUp": false
+        },
+        {
+          "symbol": "3594",
+          "name": "磐儀",
+          "point": "推出新一代COM-HPC解決方案",
+          "limitUp": false
+        }
+      ],
+      "background": "AMD大會聚焦邊緣AI及機器人應用，工業電腦廠展示最新布局，大啖實體AI商機，受惠於生成式AI與企業AI需求成長。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQaGNHeW1VUko1WnluYlpJOXhrbnZUTmd0cnpCRkprYXdJaWFFV21pSEJON182TWtieFpjX1JXRGFOUWNWZnV2Y1kwcUQ1QUNJSGVma1RMalRBY2xBTDBLeXh3b1N0QURpa19MdE1kQksydkZIX2hJU3pscko2VDY2NlJVZTFnbkg2",
+      "tkey": "熱門族群高階PCB旺金居、尖點衝擴產",
+      "title": "《熱門族群》高階PCB旺 金居、尖點衝擴產 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6249003001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sat, 25 Jul 2026 01:41:00 GMT",
+      "stocks": [
+        {
+          "symbol": "8358",
+          "name": "金居",
+          "point": "AI高階銅箔需求增，雲林三廠將啟動",
+          "limitUp": false
+        },
+        {
+          "symbol": "8021",
+          "name": "尖點",
+          "point": "加快台灣、中國大陸及泰國產能布局",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        }
+      ],
+      "background": "AI伺服器及高階PCB需求暢旺，帶動上游材料與製程耗材產能吃緊，供應鏈廠商積極擴產以因應市場需求。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    }
+  ]
+}
