@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "updatedAt": "2026-07-27T03:02:28.070Z",
+  "updatedAt": "2026-07-27T04:03:18.178Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQdTZRUW8xMDRlbU5jYUhENTJ4NWhoZG54R3owd0pnTVc4aU4wOUkwWGpCdENKTzVEVXhBWGk0VjY4NUo4Wk91RmZxaFpqYlV1UUVnYjFhQU5mSmdEeFhqb0RydXlPTDRLQW12MDRNM0VGTUxjMDVycEk5WlRCbEgzd3FMQTJhNFZj",
@@ -13,8 +13,7 @@
         {
           "symbol": "1413",
           "name": "宏洲",
-          "point": "加工絲、尼龍廠第三季營運成長",
-          "limitUp": false,
+          "point": "第三季營運應會比第二季有成長空間",
           "luw": 1,
           "luwd": [
             "7/24"
@@ -23,38 +22,32 @@
         {
           "symbol": "1444",
           "name": "力麗",
-          "point": "加工絲、尼龍廠第三季營運成長",
-          "limitUp": false
+          "point": "尼龍廠轉虧為盈，加工絲穩健獲利"
         },
         {
           "symbol": "1447",
           "name": "力鵬",
-          "point": "加工絲、尼龍廠第三季營運成長",
-          "limitUp": false
+          "point": "尼龍廠轉虧為盈，加工絲穩健獲利"
         },
         {
           "symbol": "1455",
           "name": "集盛",
-          "point": "加工絲、尼龍廠第三季營運成長",
-          "limitUp": false
+          "point": "加工絲產業利多來自原料成本利差改善"
         },
         {
           "symbol": "1452",
           "name": "宏益",
-          "point": "加工絲、尼龍廠第三季營運成長",
-          "limitUp": false
+          "point": "積極朝ESG與高附加價值產品發展"
         },
         {
           "symbol": "1459",
           "name": "聯發紡",
-          "point": "加工絲、尼龍廠第三季營運成長",
-          "limitUp": false
+          "point": "加工絲產業利多來自原料成本利差改善"
         }
       ],
-      "background": "美伊戰事推動全球油價上漲，帶動紡纖原料石化價格上漲，加上傳統旺季客戶拉貨動能增，加工絲、尼龍產品售價可望維持高檔。國際地緣政治與關稅變化也帶來轉單效應。",
+      "background": "美伊戰事推動全球油價上漲，紡纖原料石化價格上漲，進入傳統旺季，客戶拉貨動能增。紡纖上中游廠受惠報價調整與轉單效應，第三季營運可望優於第二季。",
       "themeTags": [
-        "政策關稅",
-        "循環位置"
+        "政策關稅"
       ]
     },
     {
@@ -68,10 +61,9 @@
         {
           "symbol": "2395",
           "name": "研華",
-          "point": "展示AI資料中心及邊緣AI伺服器",
+          "point": "展示AI資料中心、邊緣AI及高效能網通伺服器",
           "status": "逼近新高",
-          "dist": -6,
-          "limitUp": false,
+          "dist": -9.4,
           "luw": 1,
           "luwd": [
             "7/21"
@@ -80,8 +72,7 @@
         {
           "symbol": "3022",
           "name": "威強電",
-          "point": "推出嵌入式運算平台與軟體平台",
-          "limitUp": false,
+          "point": "推出嵌入式運算平台與軟體平台，鎖定邊緣AI",
           "luw": 1,
           "luwd": [
             "7/21"
@@ -90,17 +81,15 @@
         {
           "symbol": "8050",
           "name": "廣積",
-          "point": "展示新款機器人AI邊緣運算電腦",
-          "limitUp": false
+          "point": "展示新款機器人AI邊緣運算電腦"
         },
         {
           "symbol": "3594",
           "name": "磐儀",
-          "point": "推出新一代COM-HPC解決方案",
-          "limitUp": false
+          "point": "推出COM-HPC解決方案，支援機器人、醫療影像"
         }
       ],
-      "background": "AMD大會聚焦邊緣AI及機器人應用，工業電腦廠展示最新布局，大啖實體AI商機，受惠於生成式AI與企業AI需求成長。",
+      "background": "AMD大會聚焦邊緣AI及機器人應用，工業電腦廠展示AMR、邊緣AI運算平台及軟硬體解決方案，大啖實體AI商機。生成式AI、企業AI、資料中心升級及智慧邊緣應用需求快速成長。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
