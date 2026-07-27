@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "updatedAt": "2026-07-27T04:03:18.178Z",
+  "updatedAt": "2026-07-27T05:02:20.434Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQdTZRUW8xMDRlbU5jYUhENTJ4NWhoZG54R3owd0pnTVc4aU4wOUkwWGpCdENKTzVEVXhBWGk0VjY4NUo4Wk91RmZxaFpqYlV1UUVnYjFhQU5mSmdEeFhqb0RydXlPTDRLQW12MDRNM0VGTUxjMDVycEk5WlRCbEgzd3FMQTJhNFZj",
@@ -13,7 +13,7 @@
         {
           "symbol": "1413",
           "name": "宏洲",
-          "point": "第三季營運應會比第二季有成長空間",
+          "point": "加工絲產品售價可望維持高檔",
           "luw": 1,
           "luwd": [
             "7/24"
@@ -32,22 +32,24 @@
         {
           "symbol": "1455",
           "name": "集盛",
-          "point": "加工絲產業利多來自原料成本利差改善"
+          "point": "加工絲利多來自原料利差改善"
         },
         {
           "symbol": "1452",
           "name": "宏益",
-          "point": "積極朝ESG與高附加價值產品發展"
+          "point": "積極發展ESG與高附加價值產品"
         },
         {
           "symbol": "1459",
           "name": "聯發紡",
-          "point": "加工絲產業利多來自原料成本利差改善"
+          "point": "加工絲利多來自原料利差改善"
         }
       ],
-      "background": "美伊戰事推動全球油價上漲，紡纖原料石化價格上漲，進入傳統旺季，客戶拉貨動能增。紡纖上中游廠受惠報價調整與轉單效應，第三季營運可望優於第二季。",
+      "background": "加工絲、尼龍廠受美伊戰事推動油價上漲，紡纖原料石化價格看漲，加上傳統旺季與轉單效應，第三季營運有望優於第二季。",
       "themeTags": [
-        "政策關稅"
+        "需求驅動",
+        "政策關稅",
+        "循環位置"
       ]
     },
     {
@@ -61,9 +63,9 @@
         {
           "symbol": "2395",
           "name": "研華",
-          "point": "展示AI資料中心、邊緣AI及高效能網通伺服器",
+          "point": "展示AI資料中心及邊緣AI伺服器",
           "status": "逼近新高",
-          "dist": -9.4,
+          "dist": -8.6,
           "luw": 1,
           "luwd": [
             "7/21"
@@ -72,7 +74,7 @@
         {
           "symbol": "3022",
           "name": "威強電",
-          "point": "推出嵌入式運算平台與軟體平台，鎖定邊緣AI",
+          "point": "推出嵌入式運算平台與軟體平台",
           "luw": 1,
           "luwd": [
             "7/21"
@@ -86,10 +88,10 @@
         {
           "symbol": "3594",
           "name": "磐儀",
-          "point": "推出COM-HPC解決方案，支援機器人、醫療影像"
+          "point": "推出COM-HPC解決方案支援機器人"
         }
       ],
-      "background": "AMD大會聚焦邊緣AI及機器人應用，工業電腦廠展示AMR、邊緣AI運算平台及軟硬體解決方案，大啖實體AI商機。生成式AI、企業AI、資料中心升級及智慧邊緣應用需求快速成長。",
+      "background": "工業電腦廠受惠AMD大會聚焦邊緣AI及機器人應用，展示最新AI運算平台與解決方案，大啖實體AI商機。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
