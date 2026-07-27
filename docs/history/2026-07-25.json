@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "updatedAt": "2026-07-27T05:02:20.434Z",
+  "updatedAt": "2026-07-27T06:01:31.033Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQdTZRUW8xMDRlbU5jYUhENTJ4NWhoZG54R3owd0pnTVc4aU4wOUkwWGpCdENKTzVEVXhBWGk0VjY4NUo4Wk91RmZxaFpqYlV1UUVnYjFhQU5mSmdEeFhqb0RydXlPTDRLQW12MDRNM0VGTUxjMDVycEk5WlRCbEgzd3FMQTJhNFZj",
@@ -13,7 +13,7 @@
         {
           "symbol": "1413",
           "name": "宏洲",
-          "point": "加工絲產品售價可望維持高檔",
+          "point": "第三季營運有望成長",
           "luw": 1,
           "luwd": [
             "7/24"
@@ -32,20 +32,20 @@
         {
           "symbol": "1455",
           "name": "集盛",
-          "point": "加工絲利多來自原料利差改善"
+          "point": "加工絲利差改善，訂單動能增強"
         },
         {
           "symbol": "1452",
           "name": "宏益",
-          "point": "積極發展ESG與高附加價值產品"
+          "point": "積極發展環保紗及機能彈性紗"
         },
         {
           "symbol": "1459",
           "name": "聯發紡",
-          "point": "加工絲利多來自原料利差改善"
+          "point": "加工絲利差改善，訂單動能增強"
         }
       ],
-      "background": "加工絲、尼龍廠受美伊戰事推動油價上漲，紡纖原料石化價格看漲，加上傳統旺季與轉單效應，第三季營運有望優於第二季。",
+      "background": "加工絲、尼龍廠受美伊戰事推升油價，紡纖原料石化價格上漲，加上傳統旺季與轉單效應，第三季營運有望優於第二季。",
       "themeTags": [
         "需求驅動",
         "政策關稅",
@@ -65,7 +65,7 @@
           "name": "研華",
           "point": "展示AI資料中心及邊緣AI伺服器",
           "status": "逼近新高",
-          "dist": -8.6,
+          "dist": -6.6,
           "luw": 1,
           "luwd": [
             "7/21"
@@ -88,10 +88,10 @@
         {
           "symbol": "3594",
           "name": "磐儀",
-          "point": "推出COM-HPC解決方案支援機器人"
+          "point": "推出新一代COM-HPC解決方案"
         }
       ],
-      "background": "工業電腦廠受惠AMD大會聚焦邊緣AI及機器人應用，展示最新AI運算平台與解決方案，大啖實體AI商機。",
+      "background": "工業電腦（IPC）廠受惠AMD大會聚焦邊緣AI及機器人應用，展示最新AI運算平台與解決方案，大啖實體AI商機。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
