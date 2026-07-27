@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-27T14:19:49.560+08:00",
-  "generatedAt": "2026-07-27T06:19:49.560Z",
+  "asOf": "2026-07-27T17:41:07.123+08:00",
+  "generatedAt": "2026-07-27T09:41:07.123Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -271,6 +271,36 @@
       ]
     },
     {
+      "symbol": "2337",
+      "name": "旺宏",
+      "days": 2,
+      "dates": [
+        "7/27",
+        "7/22"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/22"
+      ]
+    },
+    {
+      "symbol": "2344",
+      "name": "華邦電",
+      "days": 2,
+      "dates": [
+        "7/27",
+        "7/22"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/22"
+      ]
+    },
+    {
       "symbol": "2408",
       "name": "南亞科",
       "days": 2,
@@ -420,31 +450,76 @@
       "status": "高檔修正",
       "dist": -13.4,
       "limitUp": false
-    },
-    {
-      "symbol": "5371",
-      "name": "中光電",
-      "days": 2,
-      "dates": [
-        "7/24",
-        "7/22"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2382",
-      "name": "廣達",
-      "days": 2,
-      "dates": [
-        "7/24",
-        "7/23"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiakFVX3lxTE84a3NCcU9CZUNEMndzbUE1WnZQZWtobElFUnpHS241R1VZenFwc3hjWjFibWlKRDF0UUlBZU5sZlFrM1ZtLUl2UzBicklSNk5ILVR0Wm1xNHhQdGcxYlRSbDdQODJDR0FqT3c",
+      "tkey": "熱門族群長鑫掛牌暴漲470%南亞科領軍台記憶體股強彈-上市櫃",
+      "title": "《熱門族群》長鑫掛牌暴漲470% 南亞科領軍台記憶體股強彈- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260727900402-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Mon, 27 Jul 2026 09:04:30 GMT",
+      "stocks": [
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "法說會前夕再度翻紅",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "股價勁揚表態",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        },
+        {
+          "symbol": "2340",
+          "name": "南亞科",
+          "point": "領軍台記憶體股強彈",
+          "limitUp": false
+        },
+        {
+          "symbol": "3260",
+          "name": "威剛",
+          "point": "股價勁揚表態",
+          "limitUp": false
+        },
+        {
+          "symbol": "8271",
+          "name": "宇瞻",
+          "point": "獲得小幅買超力挺",
+          "limitUp": false
+        }
+      ],
+      "background": "中國長鑫存儲掛牌暴漲，引爆AI帶動記憶體景氣復甦期待。國際大廠輝達、SK集團強化AI記憶體合作，DRAM與FLASH下半年持續稀缺至2027年。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE04bkJmcEoza2REc1YtdFBiM2gzcEtpc041SHhTNW94M3BOLXRUWWgwVDhYdWNZU1BkQ2N2ek1XQzNkNVY4dDFTbldPUDBfV1dBXzBobUpINGc",
+      "tkey": "熱門族群油價回落航空股喜迎暑假旺季",
+      "title": "熱門族群》油價回落 航空股喜迎暑假旺季 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/vacpbjnuybnb",
+      "source": "自由時報",
+      "pubDate": "Mon, 27 Jul 2026 04:21:43 GMT",
+      "stocks": [],
+      "background": "國際油價回落，降低航空業營運成本。暑假為傳統旅遊旺季，可望帶動航空客運需求。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxORUVzaE11YXBqTDA5TE1tcGt5Q3ZlNHpqRkFfUXFzZ245QlVjU0NnYUZrNkpucTBnNEJTUEFiNC1xaHpnTGF3YXRLcnRuekVPWGFUSzBudGF1ZV90TjRHY0tiVlhad0UxUHA2TVBSRndDTnBtMlBqNk0yQVJBX1BjT01Zb0c4eDVV",
       "tkey": "熱門族群油價一跌股價跟著跳水台塑化重挫9%、四寶全線走疲",
