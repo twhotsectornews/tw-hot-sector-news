@@ -1,0 +1,138 @@
+{
+  "date": "2026-07-26",
+  "updatedAt": "2026-07-27T03:02:28.069Z",
+  "news": [
+    {
+      "gid": "CBMiX0FVX3lxTFB1Umxfdm9kWjRrY1Q0TF84SGVtajZPOFVUajVZNUZYbVpfS3V0aGZ1RXVoUlFIb3BOVWQ1Nm1ORU5ZQ3pzMHZCb2FrVFM2c2d6STA4djA0REVuUkpTcklj0gFkQVVfeXFMTVExaWoxYWN0d3RfZVVidlk2djY5YjFxSnF0UGNFMlBJNEplNDBrb2lMRGpXaGwweHU2dHU1TzRBeERGZ0FxTmkzc2VhYmZZLU5XbzQ3cW9pZ3pwRE42anNJVlR2Vw",
+      "tkey": "熱門族群台積釋出COUPE進度光通訊吹反攻號角",
+      "title": "熱門族群》台積釋出COUPE進度 光通訊吹反攻號角 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5516865",
+      "source": "自由財經",
+      "pubDate": "Sat, 25 Jul 2026 23:35:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "股價漲幅逾18%，1.6T矽光產品已量產",
+          "limitUp": false
+        },
+        {
+          "symbol": "4979",
+          "name": "華星光",
+          "point": "股價漲幅逾18%",
+          "limitUp": false
+        },
+        {
+          "symbol": "3163",
+          "name": "波若威",
+          "point": "股價漲幅逾6%",
+          "limitUp": false
+        },
+        {
+          "symbol": "4977",
+          "name": "眾達-KY",
+          "point": "股價漲幅逾6%",
+          "limitUp": false
+        },
+        {
+          "symbol": "4903",
+          "name": "聯光通",
+          "point": "股價漲幅逾6%",
+          "limitUp": false
+        },
+        {
+          "symbol": "6442",
+          "name": "光聖",
+          "point": "股價漲幅1.92%，訂單能見度高",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        }
+      ],
+      "background": "光通訊族群受惠於台積電矽光子平台進度明確，以及輝達收購暗光纖以打造AI高速光纖網路的需求，帶動產業反攻。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiX0FVX3lxTE9JNzFSZXBJemNxeFFTREJTMHZUMGRFMk5RTVJaZWFGYXFNeGFuN09FQWpWLWpiV1dsQXRNLTZNS2w4bTUzWlNLRDdPMGhQOXFMLUkxeGZsc3hXTHhQdXRN0gFkQVVfeXFMUHBHd2VqcmJwcjBpQVo4NVdsVlgydmViT2lWY0xvSlFpalNLT1BwUzdlNko5Rnh4cmVzNU9uejVzRExHcUdpb1l4d3B0MlJUZ09BZTA0aVp6QzFZTm5DZXp0MnFCdg",
+      "tkey": "熱門族群ABF載板下半年再漲價明年供應缺口擴大",
+      "title": "熱門族群》ABF載板下半年再漲價 明年供應缺口擴大 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5516791",
+      "source": "自由財經",
+      "pubDate": "Sat, 25 Jul 2026 23:30:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "ABF載板出貨成長，營收連續4個月創新高",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "7/22",
+            "7/21"
+          ]
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "ABF載板採現貨報價，漲價效應顯著",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "接獲輝達伺服器CPU與GPU載板大單",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/21"
+          ]
+        },
+        {
+          "symbol": "4958",
+          "name": "臻鼎-KY",
+          "point": "大動作擴產搶攻AI商機，載板與光模塊為亮點",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        }
+      ],
+      "background": "ABF載板因AI伺服器與AI ASIC需求強勁，高階產品供應吃緊，市場進入賣方循環，價格逐季上漲。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
+      "tkey": "熱門族群龍頭聯發科創新高IC設計股搶發AI財",
+      "title": "熱門族群》龍頭聯發科創新高 IC設計股搶發AI財 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/k0bsc03rnawt",
+      "source": "自由時報",
+      "pubDate": "Sat, 25 Jul 2026 22:37:08 GMT",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "股價創新高",
+          "luw": 1,
+          "luwd": [
+            "7/21"
+          ]
+        }
+      ],
+      "background": "AI需求爆發，IC設計股受惠於AI晶片與相關應用，龍頭聯發科股價創新高，搶發AI財。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-26T19:48:13.416+08:00",
-  "generatedAt": "2026-07-26T11:48:13.416Z",
+  "asOf": "2026-07-27T11:02:28.074+08:00",
+  "generatedAt": "2026-07-27T03:02:28.075Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,15 +9,14 @@
     {
       "symbol": "6505",
       "name": "台塑化",
-      "days": 5,
+      "days": 4,
       "dates": [
         "7/24",
         "7/23",
         "7/22",
-        "7/21",
-        "7/20"
+        "7/21"
       ],
-      "mentions": 10,
+      "mentions": 8,
       "limitUp": false,
       "luw": 2,
       "luwd": [
@@ -28,59 +27,40 @@
     {
       "symbol": "1326",
       "name": "台化",
-      "days": 5,
+      "days": 4,
       "dates": [
         "7/24",
         "7/23",
         "7/22",
-        "7/21",
-        "7/20"
-      ],
-      "mentions": 9,
-      "limitUp": false
-    },
-    {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 5,
-      "dates": [
-        "7/24",
-        "7/23",
-        "7/22",
-        "7/21",
-        "7/20"
-      ],
-      "mentions": 9,
-      "limitUp": false
-    },
-    {
-      "symbol": "1301",
-      "name": "台塑",
-      "days": 5,
-      "dates": [
-        "7/24",
-        "7/23",
-        "7/22",
-        "7/21",
-        "7/20"
+        "7/21"
       ],
       "mentions": 8,
       "limitUp": false
     },
     {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 5,
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 4,
       "dates": [
         "7/24",
         "7/23",
         "7/22",
-        "7/21",
-        "7/20"
+        "7/21"
+      ],
+      "mentions": 8,
+      "limitUp": false
+    },
+    {
+      "symbol": "1301",
+      "name": "台塑",
+      "days": 4,
+      "dates": [
+        "7/24",
+        "7/23",
+        "7/22",
+        "7/21"
       ],
       "mentions": 7,
-      "status": "逼近新高",
-      "dist": -7.1,
       "limitUp": false
     },
     {
@@ -103,29 +83,18 @@
       ]
     },
     {
-      "symbol": "3324",
-      "name": "雙鴻",
+      "symbol": "2330",
+      "name": "台積電",
       "days": 4,
       "dates": [
         "7/24",
         "7/23",
-        "7/21",
-        "7/20"
+        "7/22",
+        "7/21"
       ],
-      "mentions": 4,
-      "limitUp": false
-    },
-    {
-      "symbol": "3017",
-      "name": "奇鋐",
-      "days": 4,
-      "dates": [
-        "7/24",
-        "7/23",
-        "7/21",
-        "7/20"
-      ],
-      "mentions": 4,
+      "mentions": 6,
+      "status": "逼近新高",
+      "dist": -7.1,
       "limitUp": false
     },
     {
@@ -181,8 +150,8 @@
       ]
     },
     {
-      "symbol": "3363",
-      "name": "上詮",
+      "symbol": "3324",
+      "name": "雙鴻",
       "days": 3,
       "dates": [
         "7/24",
@@ -193,13 +162,25 @@
       "limitUp": false
     },
     {
-      "symbol": "6770",
-      "name": "力積電",
+      "symbol": "3017",
+      "name": "奇鋐",
       "days": 3,
       "dates": [
+        "7/24",
         "7/23",
-        "7/22",
-        "7/20"
+        "7/21"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "3363",
+      "name": "上詮",
+      "days": 3,
+      "dates": [
+        "7/24",
+        "7/23",
+        "7/21"
       ],
       "mentions": 3,
       "limitUp": false
@@ -287,15 +268,19 @@
       ]
     },
     {
-      "symbol": "2327",
-      "name": "國巨",
+      "symbol": "1810",
+      "name": "和成",
       "days": 2,
       "dates": [
-        "7/22",
-        "7/20"
+        "7/27",
+        "7/21"
       ],
-      "mentions": 3,
-      "limitUp": false
+      "mentions": 2,
+      "luw": 2,
+      "luwd": [
+        "7/22",
+        "7/21"
+      ]
     },
     {
       "symbol": "6442",
@@ -338,6 +323,20 @@
       ],
       "mentions": 2,
       "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/21"
+      ]
+    },
+    {
+      "symbol": "2454",
+      "name": "聯發科",
+      "days": 2,
+      "dates": [
+        "7/26",
+        "7/23"
+      ],
+      "mentions": 2,
       "luw": 1,
       "luwd": [
         "7/21"
@@ -442,6 +441,110 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQVnM2VVNPV0p3Q08teUZ0VG5Fd1VmMWtxc05TcTg1bm4wcU8zZFA5Ylg3RTliV2hkQ1hFTk5zMkxKekc2UjlSM01neW1kSnRaajgyMkt2b0x2QUVYS1Q4LWxPTVhrbmMzOVpmZDJpQW40ZzRjbFpDSkc2Yk5VeE9IazZyeGM4aDdB",
+      "tkey": "熱門族群中東戰事升溫航運族群撿到槍",
+      "title": "《熱門族群》中東戰事升溫 航運族群撿到槍 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6250108001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sun, 26 Jul 2026 23:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2603",
+          "name": "長榮",
+          "point": "股價周漲幅達4％以上"
+        },
+        {
+          "symbol": "2609",
+          "name": "陽明",
+          "point": "股價周漲幅達4％以上"
+        },
+        {
+          "symbol": "2615",
+          "name": "萬海",
+          "point": "股價周漲幅達4％以上"
+        },
+        {
+          "symbol": "2637",
+          "name": "慧洋-KY",
+          "point": "股價周漲幅達4％以上",
+          "status": "逼近新高",
+          "dist": -6
+        },
+        {
+          "symbol": "2606",
+          "name": "裕民",
+          "point": "股價周漲幅達4％以上"
+        }
+      ],
+      "background": "中東戰事升溫推高油價，航線繞道重構，運力收緊，短期支撐運價維持高檔，但長期續航仍需需求面支撐。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxObEpzVTJnWnZjb0h6UkJJWEg3a0k0anphSXNHWHFsaVdneXlXTFNfRktJbUQ1RXFvTV9iVmptWGVxbmdueFRTWVhIVmFuNmFyb3REZlE2dThPUUVmMmZhOHI5LVA1d2VLZnRLYUVsRGVmV2NwWktRbXRFYzlmVEZKNWs0SUNSb2I0",
+      "tkey": "熱門族群雙題材加持玻陶廠華麗轉身",
+      "title": "《熱門族群》雙題材加持 玻陶廠華麗轉身 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6250109001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sun, 26 Jul 2026 23:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "開發電子級玻纖布，營運轉虧為盈"
+        },
+        {
+          "symbol": "1809",
+          "name": "中釉",
+          "point": "卡位半導體先進封裝玻璃基板"
+        },
+        {
+          "symbol": "1810",
+          "name": "和成",
+          "point": "投入複合材料裝甲與無人機",
+          "luw": 2,
+          "luwd": [
+            "7/22",
+            "7/21"
+          ]
+        }
+      ],
+      "background": "AI應用升級與國防軍工需求帶動玻陶廠轉型，投入高階科技及國防軍工供應鏈，創造股價想像空間。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPTVdVaEQ2aHZiWDV1Y3BpWFd6NUU0blYxeHFiMEtzeW9xaTJqVHV1RlZwVkJLckZpMlNENjU0RFFGREhfT3YzVExDWkpNZnN2X0ZnRGc5UkRmUWpWTzEyMWhJdWlEeUpoUWpieEg0TWhfV3ljamlIRjdkY1h3N3F4WDdMNzBudkNO",
+      "tkey": "熱門族群上銀、亞德客營運熱轉前景俏",
+      "title": "《熱門族群》上銀、亞德客營運熱轉 前景俏 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6250100001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sun, 26 Jul 2026 23:54:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2049",
+          "name": "上銀",
+          "point": "受惠AI擴廠效應，接單好轉"
+        },
+        {
+          "symbol": "1590",
+          "name": "亞德客-KY",
+          "point": "氣動元件景氣復甦，營收創單季新高",
+          "status": "逼近新高",
+          "dist": -9.1
+        }
+      ],
+      "background": "AI與機器人應用需求全面爆發，帶動相關供應鏈營運加溫，氣動元件行業景氣復甦，市占率持續提升。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiX0FVX3lxTFB1Umxfdm9kWjRrY1Q0TF84SGVtajZPOFVUajVZNUZYbVpfS3V0aGZ1RXVoUlFIb3BOVWQ1Nm1ORU5ZQ3pzMHZCb2FrVFM2c2d6STA4djA0REVuUkpTcklj0gFkQVVfeXFMTVExaWoxYWN0d3RfZVVidlk2djY5YjFxSnF0UGNFMlBJNEplNDBrb2lMRGpXaGwweHU2dHU1TzRBeERGZ0FxTmkzc2VhYmZZLU5XbzQ3cW9pZ3pwRE42anNJVlR2Vw",
       "tkey": "熱門族群台積釋出COUPE進度光通訊吹反攻號角",
@@ -552,138 +655,26 @@
       ]
     },
     {
-      "gid": "CBMiiAFBVV95cUxQdTZRUW8xMDRlbU5jYUhENTJ4NWhoZG54R3owd0pnTVc4aU4wOUkwWGpCdENKTzVEVXhBWGk0VjY4NUo4Wk91RmZxaFpqYlV1UUVnYjFhQU5mSmdEeFhqb0RydXlPTDRLQW12MDRNM0VGTUxjMDVycEk5WlRCbEgzd3FMQTJhNFZj",
-      "tkey": "熱門族群加工絲、尼龍廠拚Q3優於Q2",
-      "title": "《熱門族群》加工絲、尼龍廠 拚Q3優於Q2 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6249099001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Sat, 25 Jul 2026 08:41:00 GMT",
+      "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
+      "tkey": "熱門族群龍頭聯發科創新高IC設計股搶發AI財",
+      "title": "熱門族群》龍頭聯發科創新高 IC設計股搶發AI財 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/k0bsc03rnawt",
+      "source": "自由時報",
+      "pubDate": "Sat, 25 Jul 2026 22:37:08 GMT",
       "stocks": [
         {
-          "symbol": "1413",
-          "name": "宏洲",
-          "point": "加工絲、尼龍廠第三季營運成長",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/24"
-          ]
-        },
-        {
-          "symbol": "1444",
-          "name": "力麗",
-          "point": "加工絲、尼龍廠第三季營運成長",
-          "limitUp": false
-        },
-        {
-          "symbol": "1447",
-          "name": "力鵬",
-          "point": "加工絲、尼龍廠第三季營運成長",
-          "limitUp": false
-        },
-        {
-          "symbol": "1455",
-          "name": "集盛",
-          "point": "加工絲、尼龍廠第三季營運成長",
-          "limitUp": false
-        },
-        {
-          "symbol": "1452",
-          "name": "宏益",
-          "point": "加工絲、尼龍廠第三季營運成長",
-          "limitUp": false
-        },
-        {
-          "symbol": "1459",
-          "name": "聯發紡",
-          "point": "加工絲、尼龍廠第三季營運成長",
-          "limitUp": false
-        }
-      ],
-      "background": "美伊戰事推動全球油價上漲，帶動紡纖原料石化價格上漲，加上傳統旺季客戶拉貨動能增，加工絲、尼龍產品售價可望維持高檔。國際地緣政治與關稅變化也帶來轉單效應。",
-      "themeTags": [
-        "政策關稅",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxQd1FNN2dXYVk2RW9MZzl4S3kzSDY5OVViQkVSRjh6ODVsWmtHTmJ2S25RTWV2eGgtVTJOLWVyUjFVbDByczJKWjBsaE9sLVdZZHJWYVdjUUlNWTZwaGlta2FmcDdDQ20yM3JwdUE0TnE0Tm50UW5vU1p4NnoyQ2JNUkQ4ZDI0X3px",
-      "tkey": "熱門族群AMD大會IPC四雄秀實體AI",
-      "title": "《熱門族群》AMD大會 IPC四雄秀實體AI - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6249076001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Sat, 25 Jul 2026 07:11:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2395",
-          "name": "研華",
-          "point": "展示AI資料中心及邊緣AI伺服器",
-          "status": "逼近新高",
-          "dist": -6,
-          "limitUp": false,
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "股價創新高",
           "luw": 1,
           "luwd": [
             "7/21"
           ]
-        },
-        {
-          "symbol": "3022",
-          "name": "威強電",
-          "point": "推出嵌入式運算平台與軟體平台",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/21"
-          ]
-        },
-        {
-          "symbol": "8050",
-          "name": "廣積",
-          "point": "展示新款機器人AI邊緣運算電腦",
-          "limitUp": false
-        },
-        {
-          "symbol": "3594",
-          "name": "磐儀",
-          "point": "推出新一代COM-HPC解決方案",
-          "limitUp": false
         }
       ],
-      "background": "AMD大會聚焦邊緣AI及機器人應用，工業電腦廠展示最新布局，大啖實體AI商機，受惠於生成式AI與企業AI需求成長。",
+      "background": "AI需求爆發，IC設計股受惠於AI晶片與相關應用，龍頭聯發科股價創新高，搶發AI財。",
       "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxQaGNHeW1VUko1WnluYlpJOXhrbnZUTmd0cnpCRkprYXdJaWFFV21pSEJON182TWtieFpjX1JXRGFOUWNWZnV2Y1kwcUQ1QUNJSGVma1RMalRBY2xBTDBLeXh3b1N0QURpa19MdE1kQksydkZIX2hJU3pscko2VDY2NlJVZTFnbkg2",
-      "tkey": "熱門族群高階PCB旺金居、尖點衝擴產",
-      "title": "《熱門族群》高階PCB旺 金居、尖點衝擴產 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6249003001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Sat, 25 Jul 2026 01:41:00 GMT",
-      "stocks": [
-        {
-          "symbol": "8358",
-          "name": "金居",
-          "point": "AI高階銅箔需求增，雲林三廠將啟動",
-          "limitUp": false
-        },
-        {
-          "symbol": "8021",
-          "name": "尖點",
-          "point": "加快台灣、中國大陸及泰國產能布局",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/22"
-          ]
-        }
-      ],
-      "background": "AI伺服器及高階PCB需求暢旺，帶動上游材料與製程耗材產能吃緊，供應鏈廠商積極擴產以因應市場需求。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
+        "需求驅動"
       ]
     }
   ]
