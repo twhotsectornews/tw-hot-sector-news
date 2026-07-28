@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-28T13:39:44.458+08:00",
-  "generatedAt": "2026-07-28T05:39:44.458Z",
+  "asOf": "2026-07-28T14:03:09.987+08:00",
+  "generatedAt": "2026-07-28T06:03:09.987Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -812,7 +812,8 @@
           "symbol": "3362",
           "name": "先進光",
           "point": "攻上漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "7/27",
@@ -826,7 +827,8 @@
           "symbol": "3441",
           "name": "聯一光",
           "point": "全數登頂",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "7/27",
@@ -922,7 +924,8 @@
           "symbol": "6804",
           "name": "明係",
           "point": "開盤即亮燈漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "7/27",
