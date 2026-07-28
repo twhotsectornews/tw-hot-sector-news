@@ -1,0 +1,260 @@
+{
+  "date": "2026-07-27",
+  "updatedAt": "2026-07-28T03:04:05.235Z",
+  "news": [
+    {
+      "gid": "CBMiakFVX3lxTE84a3NCcU9CZUNEMndzbUE1WnZQZWtobElFUnpHS241R1VZenFwc3hjWjFibWlKRDF0UUlBZU5sZlFrM1ZtLUl2UzBicklSNk5ILVR0Wm1xNHhQdGcxYlRSbDdQODJDR0FqT3c",
+      "tkey": "熱門族群長鑫掛牌暴漲470%南亞科領軍台記憶體股強彈-上市櫃",
+      "title": "《熱門族群》長鑫掛牌暴漲470% 南亞科領軍台記憶體股強彈- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260727900402-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Mon, 27 Jul 2026 09:04:30 GMT",
+      "stocks": [
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "法說會前夕再度翻紅",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "股價勁揚表態",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        },
+        {
+          "symbol": "2340",
+          "name": "南亞科",
+          "point": "領軍台記憶體股強彈",
+          "limitUp": false
+        },
+        {
+          "symbol": "3260",
+          "name": "威剛",
+          "point": "股價勁揚表態",
+          "limitUp": false
+        },
+        {
+          "symbol": "8271",
+          "name": "宇瞻",
+          "point": "獲得小幅買超力挺",
+          "limitUp": false
+        }
+      ],
+      "background": "中國長鑫存儲掛牌暴漲，引爆AI帶動記憶體景氣復甦期待。國際大廠輝達、SK集團強化AI記憶體合作，DRAM與FLASH下半年持續稀缺至2027年。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE04bkJmcEoza2REc1YtdFBiM2gzcEtpc041SHhTNW94M3BOLXRUWWgwVDhYdWNZU1BkQ2N2ek1XQzNkNVY4dDFTbldPUDBfV1dBXzBobUpINGc",
+      "tkey": "熱門族群油價回落航空股喜迎暑假旺季",
+      "title": "熱門族群》油價回落 航空股喜迎暑假旺季 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/vacpbjnuybnb",
+      "source": "自由時報",
+      "pubDate": "Mon, 27 Jul 2026 04:21:43 GMT",
+      "stocks": [],
+      "background": "國際油價回落，降低航空業營運成本。暑假為傳統旅遊旺季，可望帶動航空客運需求。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxORUVzaE11YXBqTDA5TE1tcGt5Q3ZlNHpqRkFfUXFzZ245QlVjU0NnYUZrNkpucTBnNEJTUEFiNC1xaHpnTGF3YXRLcnRuekVPWGFUSzBudGF1ZV90TjRHY0tiVlhad0UxUHA2TVBSRndDTnBtMlBqNk0yQVJBX1BjT01Zb0c4eDVV",
+      "tkey": "熱門族群油價一跌股價跟著跳水台塑化重挫9%、四寶全線走疲",
+      "title": "《熱門族群》油價一跌股價跟著跳水 台塑化重挫9%、四寶全線走疲 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6250369001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 27 Jul 2026 03:03:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "油價回落重挫9%，跌破80元關卡",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "7/23",
+            "7/21"
+          ]
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "受台塑化拖累跌近半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "跌幅達3%左右",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "跌幅達3%左右",
+          "limitUp": false
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "力守400元關卡",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "跌幅約1%",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "賣壓較重下跌約3%",
+          "limitUp": false
+        },
+        {
+          "symbol": "8131",
+          "name": "福懋科",
+          "point": "賣壓較重下跌約3%",
+          "limitUp": false
+        }
+      ],
+      "background": "中東局勢緊張程度稍降，國際油價大幅回落，衝擊能源與塑化族群。台塑四寶股價與國際油價高度連動，受獲利了結影響同步修正。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQVnM2VVNPV0p3Q08teUZ0VG5Fd1VmMWtxc05TcTg1bm4wcU8zZFA5Ylg3RTliV2hkQ1hFTk5zMkxKekc2UjlSM01neW1kSnRaajgyMkt2b0x2QUVYS1Q4LWxPTVhrbmMzOVpmZDJpQW40ZzRjbFpDSkc2Yk5VeE9IazZyeGM4aDdB",
+      "tkey": "熱門族群中東戰事升溫航運族群撿到槍",
+      "title": "《熱門族群》中東戰事升溫 航運族群撿到槍 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6250108001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sun, 26 Jul 2026 23:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2603",
+          "name": "長榮",
+          "point": "股價周漲幅達4％以上",
+          "limitUp": false
+        },
+        {
+          "symbol": "2609",
+          "name": "陽明",
+          "point": "股價周漲幅達4％以上",
+          "limitUp": false
+        },
+        {
+          "symbol": "2615",
+          "name": "萬海",
+          "point": "股價周漲幅達4％以上",
+          "limitUp": false
+        },
+        {
+          "symbol": "2637",
+          "name": "慧洋-KY",
+          "point": "股價周漲幅達4％以上",
+          "status": "逼近新高",
+          "dist": -6,
+          "limitUp": false
+        },
+        {
+          "symbol": "2606",
+          "name": "裕民",
+          "point": "股價周漲幅達4％以上",
+          "limitUp": false
+        }
+      ],
+      "background": "中東戰事升溫推高油價，航線繞道重構，運力收緊，短期支撐運價維持高檔，但長期續航仍需需求面支撐。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxObEpzVTJnWnZjb0h6UkJJWEg3a0k0anphSXNHWHFsaVdneXlXTFNfRktJbUQ1RXFvTV9iVmptWGVxbmdueFRTWVhIVmFuNmFyb3REZlE2dThPUUVmMmZhOHI5LVA1d2VLZnRLYUVsRGVmV2NwWktRbXRFYzlmVEZKNWs0SUNSb2I0",
+      "tkey": "熱門族群雙題材加持玻陶廠華麗轉身",
+      "title": "《熱門族群》雙題材加持 玻陶廠華麗轉身 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6250109001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sun, 26 Jul 2026 23:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "開發電子級玻纖布，營運轉虧為盈",
+          "limitUp": false
+        },
+        {
+          "symbol": "1809",
+          "name": "中釉",
+          "point": "卡位半導體先進封裝玻璃基板",
+          "limitUp": false
+        },
+        {
+          "symbol": "1810",
+          "name": "和成",
+          "point": "投入複合材料裝甲與無人機",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "7/22",
+            "7/21"
+          ]
+        }
+      ],
+      "background": "AI應用升級與國防軍工需求帶動玻陶廠轉型，投入高階科技及國防軍工供應鏈，創造股價想像空間。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPTVdVaEQ2aHZiWDV1Y3BpWFd6NUU0blYxeHFiMEtzeW9xaTJqVHV1RlZwVkJLckZpMlNENjU0RFFGREhfT3YzVExDWkpNZnN2X0ZnRGc5UkRmUWpWTzEyMWhJdWlEeUpoUWpieEg0TWhfV3ljamlIRjdkY1h3N3F4WDdMNzBudkNO",
+      "tkey": "熱門族群上銀、亞德客營運熱轉前景俏",
+      "title": "《熱門族群》上銀、亞德客營運熱轉 前景俏 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6250100001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sun, 26 Jul 2026 23:54:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2049",
+          "name": "上銀",
+          "point": "受惠AI擴廠效應，接單好轉",
+          "limitUp": false
+        },
+        {
+          "symbol": "1590",
+          "name": "亞德客-KY",
+          "point": "氣動元件景氣復甦，營收創單季新高",
+          "status": "逼近新高",
+          "dist": -9.1,
+          "limitUp": false
+        }
+      ],
+      "background": "AI與機器人應用需求全面爆發，帶動相關供應鏈營運加溫，氣動元件行業景氣復甦，市占率持續提升。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    }
+  ]
+}
