@@ -1,67 +1,71 @@
 {
-  "asOf": "2026-07-28T13:02:37.363+08:00",
-  "generatedAt": "2026-07-28T05:02:37.363Z",
+  "asOf": "2026-07-28T13:39:44.458+08:00",
+  "generatedAt": "2026-07-28T05:39:44.458Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
     {
-      "symbol": "6505",
-      "name": "台塑化",
-      "days": 4,
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 5,
       "dates": [
+        "7/28",
         "7/27",
         "7/24",
         "7/23",
         "7/22"
       ],
-      "mentions": 6,
+      "mentions": 7,
+      "limitUp": false
+    },
+    {
+      "symbol": "1301",
+      "name": "台塑",
+      "days": 5,
+      "dates": [
+        "7/28",
+        "7/27",
+        "7/24",
+        "7/23",
+        "7/22"
+      ],
+      "mentions": 7,
+      "limitUp": false
+    },
+    {
+      "symbol": "1326",
+      "name": "台化",
+      "days": 5,
+      "dates": [
+        "7/28",
+        "7/27",
+        "7/24",
+        "7/23",
+        "7/22"
+      ],
+      "mentions": 7,
+      "limitUp": false
+    },
+    {
+      "symbol": "6505",
+      "name": "台塑化",
+      "days": 5,
+      "dates": [
+        "7/28",
+        "7/27",
+        "7/24",
+        "7/23",
+        "7/22"
+      ],
+      "mentions": 7,
       "limitUp": false,
       "luw": 2,
       "luwd": [
         "7/23",
         "7/21"
       ]
-    },
-    {
-      "symbol": "1326",
-      "name": "台化",
-      "days": 4,
-      "dates": [
-        "7/27",
-        "7/24",
-        "7/23",
-        "7/22"
-      ],
-      "mentions": 6,
-      "limitUp": false
-    },
-    {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 4,
-      "dates": [
-        "7/27",
-        "7/24",
-        "7/23",
-        "7/22"
-      ],
-      "mentions": 6,
-      "limitUp": false
-    },
-    {
-      "symbol": "1301",
-      "name": "台塑",
-      "days": 4,
-      "dates": [
-        "7/27",
-        "7/24",
-        "7/23",
-        "7/22"
-      ],
-      "mentions": 6,
-      "limitUp": false
     },
     {
       "symbol": "8046",
@@ -72,6 +76,22 @@
         "7/27",
         "7/26",
         "7/24"
+      ],
+      "mentions": 5,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/22"
+      ]
+    },
+    {
+      "symbol": "2408",
+      "name": "南亞科",
+      "days": 3,
+      "dates": [
+        "7/28",
+        "7/27",
+        "7/22"
       ],
       "mentions": 4,
       "limitUp": false,
@@ -93,22 +113,6 @@
       "status": "逼近新高",
       "dist": -7.1,
       "limitUp": false
-    },
-    {
-      "symbol": "2408",
-      "name": "南亞科",
-      "days": 3,
-      "dates": [
-        "7/28",
-        "7/27",
-        "7/22"
-      ],
-      "mentions": 3,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/22"
-      ]
     },
     {
       "symbol": "2344",
@@ -431,6 +435,70 @@
       ],
       "background": "庫藏股為公司買回自家股票，通常用於護盤或激勵股價，顯示公司對未來營運具信心，有助於穩定股價。",
       "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNV1k1YXdsdHZtdXpTcWVoZktQRDBUM1FudTd2WDV3eTFPam5RTUpzaVVKZWlvTUhmTWtLSlhKN2pXSFdGUEVOWFBlbi1YTE1pd29kdndwWXI3cTBiUjl3a3dqelB5UXB1OFF1VTRQWlBfOFh0Qm1KZnktSWVKaGpESmxrai1UeFl4",
+      "tkey": "熱門族群南亞自由落體再殺跌停台塑四寶全倒",
+      "title": "《熱門族群》南亞自由落體再殺跌停 台塑四寶全倒 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6251475001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 28 Jul 2026 03:10:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "股價摜至跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "股價同步重挫",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "股價同步重挫",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "股價同步重挫",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "7/23",
+            "7/21"
+          ]
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "早盤直接跌停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "轉投資股價表現",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        }
+      ],
+      "background": "台塑四寶受台股賣壓與全球半導體修正影響，南亞電子材料雖受惠AI伺服器需求，但市場已大幅反映利多，短線資金轉趨保守。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxPSmJqcHBWS3R0SEZZa3VOaGtRVllYY244blliLU5USGswb0QydXBONjRSckRzbGpmdllHcDFZbVBSbFJnTWVJcDlnN2tQV1BYTTJDNXlkV0VrNFdqNnExWmJWMFQ3MmJUS3Uwb0xkT2VTQVNDeklzbGt2TnFSMzUzLWd4TnVqdWRl",
