@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-28T12:04:19.556+08:00",
-  "generatedAt": "2026-07-28T04:04:19.556Z",
+  "asOf": "2026-07-28T13:02:37.363+08:00",
+  "generatedAt": "2026-07-28T05:02:37.363Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -408,6 +408,30 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQd2ctbHdYaWJaTFFYdWM0YTUxa05SczFERW9zMlozZEE1SWZSa0lKWi1qNmQyc3Q3N052eGJXeUVyRl9XY2VfZld2VGEwNFhRcDBNRlE3UGlob0h2WS1BdkU2TnJIaUg1WXR0TzU1Mk90SExGaDJvb3JkdkRYaWl2bWpWN194bEM5",
+      "tkey": "熱門族群庫藏股作效燁輝、三陽抗跌",
+      "title": "《熱門族群》庫藏股作效 燁輝、三陽抗跌 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6251557001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 28 Jul 2026 04:38:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2023",
+          "name": "燁輝",
+          "point": "庫藏股護盤，股價相對抗跌",
+          "limitUp": false
+        },
+        {
+          "symbol": "2206",
+          "name": "三陽工業",
+          "point": "庫藏股護盤，股價相對抗跌",
+          "limitUp": false
+        }
+      ],
+      "background": "庫藏股為公司買回自家股票，通常用於護盤或激勵股價，顯示公司對未來營運具信心，有助於穩定股價。",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxPSmJqcHBWS3R0SEZZa3VOaGtRVllYY244blliLU5USGswb0QydXBONjRSckRzbGpmdllHcDFZbVBSbFJnTWVJcDlnN2tQV1BYTTJDNXlkV0VrNFdqNnExWmJWMFQ3MmJUS3Uwb0xkT2VTQVNDeklzbGt2TnFSMzUzLWd4TnVqdWRl",
       "tkey": "熱門族群史上第六大跌點主動型ETF爆量霸占成交榜",
