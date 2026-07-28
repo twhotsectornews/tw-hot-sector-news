@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-28T16:13:56.380+08:00",
-  "generatedAt": "2026-07-28T08:13:56.380Z",
+  "asOf": "2026-07-28T17:41:54.564+08:00",
+  "generatedAt": "2026-07-28T09:41:54.564Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -211,7 +211,7 @@
         "7/28",
         "7/23"
       ],
-      "mentions": 2,
+      "mentions": 3,
       "limitUp": false
     },
     {
@@ -499,6 +499,30 @@
         "需求驅動",
         "循環位置"
       ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTE1fbHhTV2FENGN3blZHWUtMWEU1Y19yX1F3SUZLZUZ3ZjZ4UTlSOU9kR3JGYjRJWnRhcl9JR0xKWUtmSGRjcEs3QU5rbnlySnVzanVzbC1Qb2xscmhrOWtyVzFjVjhybVMxbUE",
+      "tkey": "熱門族群史上第六大跌點主動型ETF爆量霸占成交榜-上市櫃",
+      "title": "《熱門族群》史上第六大跌點主動型ETF爆量霸占成交榜- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260728900184-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Tue, 28 Jul 2026 02:40:23 GMT",
+      "stocks": [
+        {
+          "symbol": "2303",
+          "name": "聯電",
+          "point": "成交量居第九大股",
+          "limitUp": false
+        },
+        {
+          "symbol": "2388",
+          "name": "群創",
+          "point": "成交量僅次於00981A",
+          "limitUp": false
+        }
+      ],
+      "background": "台股大盤重挫，主動型ETF因低資金門檻受散戶青睞，槓桿型ETF成交爆量，顯示市場恐慌與部分資金逢低承接。",
+      "themeTags": []
     },
     {
       "gid": "CBMiiAFBVV95cUxPSmJqcHBWS3R0SEZZa3VOaGtRVllYY244blliLU5USGswb0QydXBONjRSckRzbGpmdllHcDFZbVBSbFJnTWVJcDlnN2tQV1BYTTJDNXlkV0VrNFdqNnExWmJWMFQ3MmJUS3Uwb0xkT2VTQVNDeklzbGt2TnFSMzUzLWd4TnVqdWRl",
