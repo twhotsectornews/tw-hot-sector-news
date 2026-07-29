@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-29T13:04:34.033+08:00",
-  "generatedAt": "2026-07-29T05:04:34.033Z",
+  "asOf": "2026-07-29T13:43:10.814+08:00",
+  "generatedAt": "2026-07-29T05:43:10.814Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -111,22 +111,6 @@
       ]
     },
     {
-      "symbol": "2408",
-      "name": "南亞科",
-      "days": 3,
-      "dates": [
-        "7/29",
-        "7/28",
-        "7/27"
-      ],
-      "mentions": 6,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/22"
-      ]
-    },
-    {
       "symbol": "3231",
       "name": "緯創",
       "days": 3,
@@ -138,6 +122,22 @@
       "mentions": 5,
       "status": "高檔修正",
       "dist": -14.6,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/22"
+      ]
+    },
+    {
+      "symbol": "2408",
+      "name": "南亞科",
+      "days": 3,
+      "dates": [
+        "7/29",
+        "7/28",
+        "7/27"
+      ],
+      "mentions": 5,
       "limitUp": false,
       "luw": 1,
       "luwd": [
@@ -328,7 +328,8 @@
         "7/28"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 1,
       "luwd": [
         "7/27"
@@ -525,7 +526,8 @@
           "symbol": "6226",
           "name": "光鼎",
           "point": "逆風漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 1,
           "luwd": [
             "7/28"
@@ -546,7 +548,8 @@
           "symbol": "1526",
           "name": "日馳",
           "point": "逆風漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "7/27"
@@ -568,7 +571,8 @@
           "symbol": "8421",
           "name": "旭源",
           "point": "逆風漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "6733",
@@ -1343,7 +1347,9 @@
           "symbol": "3441",
           "name": "聯一光",
           "point": "全數登頂",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -11.6
         },
         {
           "symbol": "4976",
