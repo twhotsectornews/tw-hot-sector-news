@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-29T12:07:16.631+08:00",
-  "generatedAt": "2026-07-29T04:07:16.631Z",
+  "asOf": "2026-07-29T13:04:34.033+08:00",
+  "generatedAt": "2026-07-29T05:04:34.033Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -42,6 +42,19 @@
       ]
     },
     {
+      "symbol": "2303",
+      "name": "聯電",
+      "days": 4,
+      "dates": [
+        "7/29",
+        "7/28",
+        "7/27",
+        "7/23"
+      ],
+      "mentions": 5,
+      "limitUp": false
+    },
+    {
       "symbol": "1303",
       "name": "南亞",
       "days": 4,
@@ -81,6 +94,69 @@
       "limitUp": false
     },
     {
+      "symbol": "3037",
+      "name": "欣興",
+      "days": 4,
+      "dates": [
+        "7/29",
+        "7/28",
+        "7/27",
+        "7/26"
+      ],
+      "mentions": 4,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/22"
+      ]
+    },
+    {
+      "symbol": "2408",
+      "name": "南亞科",
+      "days": 3,
+      "dates": [
+        "7/29",
+        "7/28",
+        "7/27"
+      ],
+      "mentions": 6,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/22"
+      ]
+    },
+    {
+      "symbol": "3231",
+      "name": "緯創",
+      "days": 3,
+      "dates": [
+        "7/29",
+        "7/24",
+        "7/23"
+      ],
+      "mentions": 5,
+      "status": "高檔修正",
+      "dist": -14.6,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/22"
+      ]
+    },
+    {
+      "symbol": "2382",
+      "name": "廣達",
+      "days": 3,
+      "dates": [
+        "7/29",
+        "7/24",
+        "7/23"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
       "symbol": "2330",
       "name": "台積電",
       "days": 3,
@@ -95,15 +171,15 @@
       "limitUp": false
     },
     {
-      "symbol": "2408",
-      "name": "南亞科",
+      "symbol": "2344",
+      "name": "華邦電",
       "days": 3,
       "dates": [
         "7/29",
         "7/28",
         "7/27"
       ],
-      "mentions": 4,
+      "mentions": 3,
       "limitUp": false,
       "luw": 1,
       "luwd": [
@@ -111,37 +187,13 @@
       ]
     },
     {
-      "symbol": "2303",
-      "name": "聯電",
-      "days": 3,
-      "dates": [
-        "7/28",
-        "7/27",
-        "7/23"
-      ],
-      "mentions": 4,
-      "limitUp": false
-    },
-    {
-      "symbol": "2382",
-      "name": "廣達",
+      "symbol": "2337",
+      "name": "旺宏",
       "days": 3,
       "dates": [
         "7/29",
-        "7/24",
-        "7/23"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "3037",
-      "name": "欣興",
-      "days": 3,
-      "dates": [
         "7/28",
-        "7/27",
-        "7/26"
+        "7/27"
       ],
       "mentions": 3,
       "limitUp": false,
@@ -149,6 +201,18 @@
       "luwd": [
         "7/22"
       ]
+    },
+    {
+      "symbol": "6770",
+      "name": "力積電",
+      "days": 3,
+      "dates": [
+        "7/29",
+        "7/28",
+        "7/23"
+      ],
+      "mentions": 3,
+      "limitUp": false
     },
     {
       "symbol": "3189",
@@ -185,23 +249,6 @@
       "mentions": 3
     },
     {
-      "symbol": "3231",
-      "name": "緯創",
-      "days": 2,
-      "dates": [
-        "7/24",
-        "7/23"
-      ],
-      "mentions": 4,
-      "status": "逼近新高",
-      "dist": -7.9,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/22"
-      ]
-    },
-    {
       "symbol": "2317",
       "name": "鴻海",
       "days": 2,
@@ -213,6 +260,17 @@
       "limitUp": false
     },
     {
+      "symbol": "2356",
+      "name": "英業達",
+      "days": 2,
+      "dates": [
+        "7/29",
+        "7/23"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "2327",
       "name": "國巨",
       "days": 2,
@@ -220,8 +278,61 @@
         "7/29",
         "7/27"
       ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2357",
+      "name": "華碩",
+      "days": 2,
+      "dates": [
+        "7/29",
+        "7/24"
+      ],
       "mentions": 2,
       "limitUp": false
+    },
+    {
+      "symbol": "2324",
+      "name": "仁寶",
+      "days": 2,
+      "dates": [
+        "7/29",
+        "7/24"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "4976",
+      "name": "佳凌",
+      "days": 2,
+      "dates": [
+        "7/29",
+        "7/28"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 9.9,
+      "luw": 1,
+      "luwd": [
+        "7/27"
+      ]
+    },
+    {
+      "symbol": "1526",
+      "name": "日馳",
+      "days": 2,
+      "dates": [
+        "7/29",
+        "7/28"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "7/27"
+      ]
     },
     {
       "symbol": "2887",
@@ -261,58 +372,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2356",
-      "name": "英業達",
-      "days": 2,
-      "dates": [
-        "7/29",
-        "7/23"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2344",
-      "name": "華邦電",
-      "days": 2,
-      "dates": [
-        "7/28",
-        "7/27"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/22"
-      ]
-    },
-    {
-      "symbol": "2337",
-      "name": "旺宏",
-      "days": 2,
-      "dates": [
-        "7/28",
-        "7/27"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/22"
-      ]
-    },
-    {
-      "symbol": "6770",
-      "name": "力積電",
-      "days": 2,
-      "dates": [
-        "7/28",
-        "7/23"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
       "symbol": "3264",
       "name": "欣銓",
       "days": 2,
@@ -343,51 +402,195 @@
         "7/23"
       ],
       "mentions": 2
-    },
-    {
-      "symbol": "6643",
-      "name": "M31",
-      "days": 2,
-      "dates": [
-        "7/27",
-        "7/23"
-      ],
-      "mentions": 2
-    },
-    {
-      "symbol": "2368",
-      "name": "金像電",
-      "days": 2,
-      "dates": [
-        "7/27",
-        "7/23"
-      ],
-      "mentions": 2
-    },
-    {
-      "symbol": "3532",
-      "name": "台勝科",
-      "days": 2,
-      "dates": [
-        "7/27",
-        "7/24"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3081",
-      "name": "聯亞",
-      "days": 2,
-      "dates": [
-        "7/26",
-        "7/23"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMikgFBVV95cUxObTk4b2xTYnFIR3l0OEtXSEZjaWVfVEpJd1lyVkJ2QUhEMVV2NGRMa0hsNjhvNGdlMk9UTE1pNGtSRWRUQ0dxaVFpOW5fUllCVHB5Zk5VRm92WHV5eklLTFplYnU1NDVRLTExN0JOaWRuR2QzMWhHZE1pVTlmVFh4LVhDSXNXUEFDeDNiaXN1MWQtQQ",
+      "tkey": "熱門族群大盤崩老AI展現抗跌力道華碩力挺紅盤最穩",
+      "title": "《熱門族群》大盤崩老AI展現抗跌力道 華碩力挺紅盤最穩 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6252781001&pu=News_0002_3",
+      "source": "富聯網",
+      "pubDate": "Wed, 29 Jul 2026 04:26:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2357",
+          "name": "華碩",
+          "point": "老AI抗跌力道最穩",
+          "limitUp": false
+        },
+        {
+          "symbol": "2356",
+          "name": "英業達",
+          "point": "老AI展現抗跌力道",
+          "limitUp": false
+        },
+        {
+          "symbol": "2382",
+          "name": "廣達",
+          "point": "老AI展現抗跌力道",
+          "limitUp": false
+        },
+        {
+          "symbol": "3231",
+          "name": "緯創",
+          "point": "老AI展現抗跌力道",
+          "status": "高檔修正",
+          "dist": -14.6,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        },
+        {
+          "symbol": "2324",
+          "name": "仁寶",
+          "point": "老AI展現抗跌力道",
+          "limitUp": false
+        }
+      ],
+      "background": "台股大盤下殺之際，華碩、英業達、廣達、緯創、仁寶等老AI概念股因擴產及AI訂單需求，展現抗跌力道，吸引防禦型資金。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQWS1pVnZfTTF1clJsLTU0S1V0LVZGSkpkYkZTTml5NWhRNEdablRseURwN05xU1oyZmxrTjd6bTZDUF9nR0tQRHF0a2lUVlNQU0hZWldSS3A1d0M2S2VVTkVrS3B1Z05zY29ocXFnMmoxRHNmdEFVaC1vVE5BdUE2UlJnZzYzdXA4",
+      "tkey": "熱門族群4萬崩了！170顆綠燈深鎖6檔逆風漲停、都有1特性",
+      "title": "《熱門族群》4萬崩了！170顆綠燈深鎖 6檔逆風漲停、都有1特性 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6252751001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 29 Jul 2026 04:01:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2303",
+          "name": "聯電",
+          "point": "半導體重災區跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "半導體重災區跌停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "半導體重災區跌停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "半導體重災區跌停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "半導體重災區跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "被動元件跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "半導體重災區跌停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
+        },
+        {
+          "symbol": "6226",
+          "name": "光鼎",
+          "point": "逆風漲停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/28"
+          ]
+        },
+        {
+          "symbol": "4976",
+          "name": "佳凌",
+          "point": "逆風漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "7/27"
+          ]
+        },
+        {
+          "symbol": "1526",
+          "name": "日馳",
+          "point": "逆風漲停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/27"
+          ]
+        },
+        {
+          "symbol": "3018",
+          "name": "隆銘綠能",
+          "point": "逆風漲停",
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "7/28",
+            "7/27",
+            "7/24"
+          ]
+        },
+        {
+          "symbol": "8421",
+          "name": "旭源",
+          "point": "逆風漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6733",
+          "name": "博晟生醫",
+          "point": "逆風漲停",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "7/28",
+            "7/27",
+            "7/24",
+            "7/23",
+            "7/22"
+          ]
+        }
+      ],
+      "background": "AI熱潮疑慮加劇科技股賣壓，台股大盤崩跌。部分銅板股因轉型、新商機或關稅利多逆勢漲停。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNNFljLTFNNHpPa2NwZ3UwbnNHbmNBWTdQQVByMllmVVNaeVYzY3daMnZFcnExNGhVV1RaSUJuemo2TkExQWZMaXhXbW5YQ0l2TlJxelk0SU0xbU9DMHFLMjRuYXZjYTFQNTMtN2R4QUY4U0drVFdLWFc4QzZlSGFENDJNLUpIN1Z0",
       "tkey": "熱門族群法人狂買、友達翻紅面板谷底有端倪",
@@ -399,17 +602,20 @@
         {
           "symbol": "2409",
           "name": "友達",
-          "point": "法人買超翻紅，挑戰站回5日均線"
+          "point": "法人買超翻紅，挑戰站回5日均線",
+          "limitUp": false
         },
         {
           "symbol": "3481",
           "name": "群創",
-          "point": "法人買超4.1萬張，股價探底"
+          "point": "法人買超4.1萬張，股價探底",
+          "limitUp": false
         },
         {
           "symbol": "6116",
           "name": "彩晶",
-          "point": "外資連三日買超，盤中跌幅超過4%"
+          "point": "外資連三日買超，盤中跌幅超過4%",
+          "limitUp": false
         }
       ],
       "background": "面板族群在台股大跌時獲法人逆勢買超，顯示市場對其谷底翻揚的期待，並關注法說會展望與新事業布局。",
