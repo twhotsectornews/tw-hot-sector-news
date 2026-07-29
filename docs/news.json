@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-29T11:05:10.184+08:00",
-  "generatedAt": "2026-07-29T03:05:10.184Z",
+  "asOf": "2026-07-29T12:07:16.631+08:00",
+  "generatedAt": "2026-07-29T04:07:16.631Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -388,6 +388,35 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNNFljLTFNNHpPa2NwZ3UwbnNHbmNBWTdQQVByMllmVVNaeVYzY3daMnZFcnExNGhVV1RaSUJuemo2TkExQWZMaXhXbW5YQ0l2TlJxelk0SU0xbU9DMHFLMjRuYXZjYTFQNTMtN2R4QUY4U0drVFdLWFc4QzZlSGFENDJNLUpIN1Z0",
+      "tkey": "熱門族群法人狂買、友達翻紅面板谷底有端倪",
+      "title": "《熱門族群》法人狂買、友達翻紅 面板谷底有端倪 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6252643001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 29 Jul 2026 02:20:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "法人買超翻紅，挑戰站回5日均線"
+        },
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "point": "法人買超4.1萬張，股價探底"
+        },
+        {
+          "symbol": "6116",
+          "name": "彩晶",
+          "point": "外資連三日買超，盤中跌幅超過4%"
+        }
+      ],
+      "background": "面板族群在台股大跌時獲法人逆勢買超，顯示市場對其谷底翻揚的期待，並關注法說會展望與新事業布局。",
+      "themeTags": [
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNSGxzdDRpenR6cWNiZklXYzdqaGtmbDVHZ3V5RldfdzlTLXppWjh6a3ZUcllHdklHZnhhTEZEQUlGTGlWc1JXNzZOa1ppeTMyT08wa1pmS0dicWxtanNLN0tOQjNTVDk5THpGc24tUE0yeTJ4WU1xQkZEcmRDSmo0d1VIQ3BXYm9s",
       "tkey": "熱門族群航空三雄8月調降燃油附加費",

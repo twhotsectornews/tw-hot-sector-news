@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "updatedAt": "2026-07-29T03:05:10.181Z",
+  "updatedAt": "2026-07-29T04:07:16.628Z",
   "news": [
     {
       "gid": "CBMiakFVX3lxTE84a3NCcU9CZUNEMndzbUE1WnZQZWtobElFUnpHS241R1VZenFwc3hjWjFibWlKRDF0UUlBZU5sZlFrM1ZtLUl2UzBicklSNk5ILVR0Wm1xNHhQdGcxYlRSbDdQODJDR0FqT3c",
@@ -13,8 +13,7 @@
         {
           "symbol": "2337",
           "name": "旺宏",
-          "point": "法說會前夕再度翻紅",
-          "limitUp": false,
+          "point": "法說會前夕再度翻紅，外資持續賣超",
           "luw": 1,
           "luwd": [
             "7/22"
@@ -23,33 +22,29 @@
         {
           "symbol": "2344",
           "name": "華邦電",
-          "point": "股價勁揚表態",
-          "limitUp": false,
+          "point": "勁揚表態，外資賣超萬張",
           "luw": 1,
           "luwd": [
             "7/22"
           ]
         },
         {
-          "symbol": "2340",
-          "name": "南亞科",
-          "point": "領軍台記憶體股強彈",
-          "limitUp": false
+          "symbol": "3006",
+          "name": "晶豪科",
+          "point": "南亞科領軍，記憶體股強彈"
         },
         {
           "symbol": "3260",
           "name": "威剛",
-          "point": "股價勁揚表態",
-          "limitUp": false
+          "point": "勁揚表態"
         },
         {
           "symbol": "8271",
           "name": "宇瞻",
-          "point": "獲得小幅買超力挺",
-          "limitUp": false
+          "point": "法說會率先登場，DRAM、FLASH下半年仍缺"
         }
       ],
-      "background": "中國長鑫存儲掛牌暴漲，引爆AI帶動記憶體景氣復甦期待。國際大廠輝達、SK集團強化AI記憶體合作，DRAM與FLASH下半年持續稀缺至2027年。",
+      "background": "中國長鑫存儲掛牌暴漲，加上輝達與SK集團合作，引爆市場對AI帶動記憶體景氣復甦的期待，DRAM族群再掀投資熱潮。",
       "themeTags": [
         "需求驅動",
         "國際大廠",
@@ -67,17 +62,17 @@
         {
           "symbol": "2327",
           "name": "國巨",
-          "point": "融資維持率滑落"
+          "point": "融資維持率滑落至117.78％，跌破斷頭防線"
         },
         {
           "symbol": "3026",
           "name": "禾伸堂",
-          "point": "融資維持率跌破防線"
+          "point": "融資維持率掉到114.98％，跌破斷頭防線"
         },
         {
           "symbol": "2492",
           "name": "華新科",
-          "point": "融資維持率下降",
+          "point": "融資維持率降至102.65％",
           "luw": 1,
           "luwd": [
             "7/22"
@@ -86,92 +81,92 @@
         {
           "symbol": "6173",
           "name": "信昌電",
-          "point": "融資維持率下降"
+          "point": "融資維持率來到104.32％"
         },
         {
           "symbol": "6127",
           "name": "九豪",
-          "point": "融資維持率跌至低點"
+          "point": "融資維持率跌至102.72％"
         },
         {
           "symbol": "8042",
           "name": "金山電",
-          "point": "融資維持率下降"
+          "point": "融資維持率落至114.82％"
         },
         {
           "symbol": "5274",
           "name": "信驊",
-          "point": "融資維持率跌破警戒"
+          "point": "融資維持率跌破警戒線來到144.57％"
         },
         {
           "symbol": "2454",
           "name": "聯發科",
-          "point": "融資維持率下降"
+          "point": "融資維持率降至139.16％"
         },
         {
           "symbol": "2308",
           "name": "台達電",
-          "point": "融資維持率下降"
+          "point": "融資維持率落至134.24％"
         },
         {
           "symbol": "3324",
           "name": "雙鴻",
-          "point": "融資維持率下降"
+          "point": "融資維持率來到141.52％"
         },
         {
           "symbol": "2345",
           "name": "智邦",
-          "point": "融資維持率下降"
+          "point": "融資維持率為141.21％"
         },
         {
           "symbol": "3013",
           "name": "晟銘電",
-          "point": "融資維持率下降"
+          "point": "融資維持率為115.39％"
         },
         {
           "symbol": "1519",
           "name": "華城",
-          "point": "融資維持率下降"
+          "point": "融資維持率為137.05％"
         },
         {
           "symbol": "1503",
           "name": "士電",
-          "point": "融資維持率下降"
+          "point": "融資維持率為139.65％"
         },
         {
           "symbol": "3661",
           "name": "世芯-KY",
-          "point": "融資維持率跌至低點"
+          "point": "融資維持率跌至125.35％"
         },
         {
           "symbol": "2303",
           "name": "聯電",
-          "point": "融資維持率下降"
+          "point": "融資維持率降至128.28％"
         },
         {
           "symbol": "6223",
           "name": "旺矽",
-          "point": "融資維持率下降"
+          "point": "融資維持率為140.63％"
         },
         {
           "symbol": "6643",
           "name": "M31",
-          "point": "融資維持率下降"
+          "point": "融資維持率來到130.79％"
         },
         {
           "symbol": "2313",
           "name": "華通",
-          "point": "融資維持率跌至低點"
+          "point": "融資維持率跌至127.74％"
         },
         {
           "symbol": "2368",
           "name": "金像電",
-          "point": "融資維持率下降"
+          "point": "融資維持率來到116.89％"
         },
         {
           "symbol": "3037",
           "name": "欣興",
-          "point": "融資維持率下降",
+          "point": "融資維持率為142.81％",
           "luw": 1,
           "luwd": [
             "7/22"
@@ -180,19 +175,19 @@
         {
           "symbol": "3189",
           "name": "景碩",
-          "point": "融資維持率下降"
+          "point": "融資維持率為140.28％"
         },
         {
           "symbol": "8046",
           "name": "南電",
-          "point": "融資維持率下降",
+          "point": "融資維持率為136.02％",
           "luw": 1,
           "luwd": [
             "7/22"
           ]
         }
       ],
-      "background": "台股大幅修正，融資追繳壓力全面爆發。被動元件、AI供應鏈、IC設計、PCB載板及重電綠能等多檔熱門股融資維持率跌破警戒線，恐引發二次賣壓。",
+      "background": "台股回檔引爆融資追繳壓力，多檔熱門族群個股融資維持率跌破警戒線，恐引發二次賣壓。",
       "themeTags": []
     },
     {
@@ -203,7 +198,7 @@
       "source": "自由時報",
       "pubDate": "Mon, 27 Jul 2026 04:21:43 GMT",
       "stocks": [],
-      "background": "國際油價回落，降低航空業營運成本。暑假為傳統旅遊旺季，可望帶動航空客運需求。",
+      "background": "國際油價回落有助於降低航空公司的營運成本，加上暑假旺季帶動旅遊需求，航空股營運可望受惠。",
       "themeTags": [
         "需求驅動"
       ]
