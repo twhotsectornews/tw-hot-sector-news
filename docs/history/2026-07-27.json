@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "updatedAt": "2026-07-29T06:02:33.456Z",
+  "updatedAt": "2026-07-29T08:19:52.990Z",
   "news": [
     {
       "gid": "CBMiakFVX3lxTE84a3NCcU9CZUNEMndzbUE1WnZQZWtobElFUnpHS241R1VZenFwc3hjWjFibWlKRDF0UUlBZU5sZlFrM1ZtLUl2UzBicklSNk5ILVR0Wm1xNHhQdGcxYlRSbDdQODJDR0FqT3c",
@@ -22,16 +22,20 @@
         {
           "symbol": "2344",
           "name": "華邦電",
-          "point": "勁揚表態，但外資持續賣超",
+          "point": "勁揚表態，外資賣超萬張",
           "luw": 1,
           "luwd": [
             "7/22"
           ]
         },
         {
-          "symbol": "3006",
+          "symbol": "2408",
           "name": "南亞科",
-          "point": "領軍記憶體股價強彈"
+          "point": "領軍台記憶體股強彈，獲得小幅買超",
+          "luw": 1,
+          "luwd": [
+            "7/22"
+          ]
         },
         {
           "symbol": "3260",
@@ -44,7 +48,7 @@
           "point": "獲得小幅買超力挺"
         }
       ],
-      "background": "中國長鑫存儲掛牌暴漲，加上輝達與SK集團合作強化AI記憶體，市場對AI帶動記憶體景氣復甦抱有期待，國際大廠財報將陸續公布。",
+      "background": "中國長鑫存儲掛牌暴漲，加上AI帶動記憶體景氣復甦預期，輝達與SK海力士合作，推升DRAM族群投資熱潮，產業預計持續缺貨至2027年。",
       "themeTags": [
         "需求驅動",
         "國際大廠",
@@ -67,7 +71,7 @@
         {
           "symbol": "3026",
           "name": "禾伸堂",
-          "point": "融資維持率掉到114.98％"
+          "point": "融資維持率跌到114.98％"
         },
         {
           "symbol": "2492",
@@ -187,8 +191,10 @@
           ]
         }
       ],
-      "background": "台股近期大幅修正，引發融資追繳與斷頭壓力，多檔熱門族群個股融資維持率跌破警戒線。",
-      "themeTags": []
+      "background": "台股近期大幅修正，引爆融資追繳與斷頭壓力，多檔熱門族群個股融資維持率跌破警戒線，恐引發二次賣壓。",
+      "themeTags": [
+        "循環位置"
+      ]
     },
     {
       "gid": "CBMiWEFVX3lxTE04bkJmcEoza2REc1YtdFBiM2gzcEtpc041SHhTNW94M3BOLXRUWWgwVDhYdWNZU1BkQ2N2ek1XQzNkNVY4dDFTbldPUDBfV1dBXzBobUpINGc",

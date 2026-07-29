@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "updatedAt": "2026-07-29T06:02:33.455Z",
+  "updatedAt": "2026-07-29T08:19:52.988Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQd2ctbHdYaWJaTFFYdWM0YTUxa05SczFERW9zMlozZEE1SWZSa0lKWi1qNmQyc3Q3N052eGJXeUVyRl9XY2VfZld2VGEwNFhRcDBNRlE3UGlob0h2WS1BdkU2TnJIaUg1WXR0TzU1Mk90SExGaDJvb3JkdkRYaWl2bWpWN194bEM5",
@@ -420,7 +420,15 @@
           "symbol": "3362",
           "name": "先進光",
           "point": "攻上漲停",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "7/28",
+            "7/27",
+            "7/24",
+            "7/23",
+            "7/22"
+          ]
         },
         {
           "symbol": "3441",
@@ -428,7 +436,15 @@
           "point": "全數登頂",
           "limitUp": false,
           "status": "高檔修正",
-          "dist": -11.6
+          "dist": -11.6,
+          "luw": 5,
+          "luwd": [
+            "7/28",
+            "7/27",
+            "7/24",
+            "7/23",
+            "7/22"
+          ]
         },
         {
           "symbol": "4976",
