@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "updatedAt": "2026-07-30T06:05:06.712Z",
+  "updatedAt": "2026-07-30T08:07:54.807Z",
   "news": [
     {
       "gid": "CBMikgFBVV95cUxObTk4b2xTYnFIR3l0OEtXSEZjaWVfVEpJd1lyVkJ2QUhEMVV2NGRMa0hsNjhvNGdlMk9UTE1pNGtSRWRUQ0dxaVFpOW5fUllCVHB5Zk5VRm92WHV5eklLTFplYnU1NDVRLTExN0JOaWRuR2QzMWhHZE1pVTlmVFh4LVhDSXNXUEFDeDNiaXN1MWQtQQ",
@@ -153,30 +153,14 @@
           "name": "旭源",
           "point": "逆風漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "7/29",
-            "7/28",
-            "7/27",
-            "7/24",
-            "7/23"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6733",
           "name": "博晟生醫",
           "point": "逆風漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "7/29",
-            "7/28",
-            "7/27",
-            "7/24",
-            "7/23"
-          ]
+          "pct": 9.9
         }
       ],
       "background": "AI熱潮疑慮加劇科技股賣壓，台股大盤崩跌。部分銅板股因轉型、新商機或關稅利多逆勢漲停。",
