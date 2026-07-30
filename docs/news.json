@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-30T13:35:29.506+08:00",
-  "generatedAt": "2026-07-30T05:35:29.506Z",
+  "asOf": "2026-07-30T14:05:06.720+08:00",
+  "generatedAt": "2026-07-30T06:05:06.720Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -295,6 +295,8 @@
         "7/29"
       ],
       "mentions": 2,
+      "status": "逼近新高",
+      "dist": -10,
       "limitUp": false
     },
     {
@@ -524,7 +526,9 @@
           "symbol": "1216",
           "name": "統一",
           "point": "普渡概念股",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -10
         },
         {
           "symbol": "1215",
@@ -945,7 +949,9 @@
           "symbol": "1216",
           "name": "統一",
           "point": "泡麵品牌銷量大旺季",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -10
         },
         {
           "symbol": "1215",
