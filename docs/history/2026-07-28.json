@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "updatedAt": "2026-07-29T12:33:36.092Z",
+  "updatedAt": "2026-07-30T03:03:52.982Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1pRXdBUkNhamxfaU5ianlPS2RfdklXYTZaTm1IZEc0NFRDaF93RE9BUnNJQzNVdjFDd0Z3ZmpHSnYzQ3ZPUlpJTThrTWdwYXV2bEtkOXZiUW01QdIBX0FVX3lxTE0wWE9rYzBmWlNETXVFYlMyNVZkeWZHYU81Rll5RlptbWVpTDdiaG40eG95ZUx2N2UwYVpxeHgyUkt5bXlpeGNpZ3FaWTRtc0tZd2taN3RuY1V2T2RLSURn",
@@ -23,11 +23,7 @@
         {
           "symbol": "2492",
           "name": "華新科",
-          "point": "融資維持率降至102.65％",
-          "luw": 1,
-          "luwd": [
-            "7/22"
-          ]
+          "point": "融資維持率降至102.65％"
         },
         {
           "symbol": "6173",
@@ -117,11 +113,7 @@
         {
           "symbol": "3037",
           "name": "欣興",
-          "point": "融資維持率為142.81％",
-          "luw": 1,
-          "luwd": [
-            "7/22"
-          ]
+          "point": "融資維持率為142.81％"
         },
         {
           "symbol": "3189",
@@ -131,11 +123,7 @@
         {
           "symbol": "8046",
           "name": "南電",
-          "point": "融資維持率為136.02％",
-          "luw": 1,
-          "luwd": [
-            "7/22"
-          ]
+          "point": "融資維持率為136.02％"
         }
       ],
       "background": "台股近期大幅修正，引發融資追繳與斷頭壓力，尤其重創被動元件、AI供應鏈、IC設計、PCB載板及重電綠能等熱門族群。",
@@ -205,21 +193,13 @@
           "symbol": "2408",
           "name": "南亞科",
           "point": "早盤直接跌停",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/22"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "8046",
           "name": "南電",
           "point": "轉投資股價表現",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/22"
-          ]
+          "limitUp": false
         }
       ],
       "background": "台塑四寶受台股賣壓與全球半導體修正影響，南亞電子材料雖受惠AI伺服器需求，但市場已大幅反映利多，短線資金轉趨保守。",
@@ -282,31 +262,19 @@
           "symbol": "2408",
           "name": "南亞科",
           "point": "率先摜至跌停",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/22"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "2344",
           "name": "華邦電",
           "point": "同步跌停鎖死",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/22"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "2337",
           "name": "旺宏",
           "point": "同步跌停鎖死",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/22"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "6770",
@@ -367,11 +335,7 @@
           "point": "受惠伺服器產品放量",
           "status": "高檔修正",
           "dist": -11.6,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/22"
-          ]
+          "limitUp": false
         }
       ],
       "background": "欣銓受惠AI需求、RFIC備貨及CPO業務推進，龍潭廠與湖口新廠量產；宏致則受伺服器產品放量及切入Bloom Energy供應鏈帶動營收。",
@@ -562,11 +526,11 @@
           "limitUp": false,
           "luw": 5,
           "luwd": [
+            "7/29",
             "7/28",
             "7/27",
             "7/24",
-            "7/23",
-            "7/22"
+            "7/23"
           ]
         },
         {
@@ -578,11 +542,11 @@
           "dist": -11.6,
           "luw": 5,
           "luwd": [
+            "7/29",
             "7/28",
             "7/27",
             "7/24",
-            "7/23",
-            "7/22"
+            "7/23"
           ]
         },
         {
@@ -590,8 +554,9 @@
           "name": "佳凌",
           "point": "全數登頂",
           "limitUp": false,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "7/29",
             "7/27"
           ]
         },
@@ -599,7 +564,11 @@
           "symbol": "3504",
           "name": "揚明光",
           "point": "漲幅逾4%",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/29"
+          ]
         },
         {
           "symbol": "3630",
@@ -625,11 +594,7 @@
           "symbol": "3037",
           "name": "欣興",
           "point": "下半年成長來源多元",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/22"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3189",
@@ -641,11 +606,7 @@
           "symbol": "8046",
           "name": "南電",
           "point": "布局高階交換器",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/22"
-          ]
+          "limitUp": false
         }
       ],
       "background": "載板產業第三季迎來轉折，ABF及BT報價漲幅擴大，稼動率走升，AI需求由GPU延伸至CPU、ASIC、高階交換器及高速光通訊，推升高階產能需求。",
@@ -673,8 +634,9 @@
           "name": "日馳",
           "point": "開盤即亮燈漲停",
           "limitUp": false,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "7/29",
             "7/27"
           ]
         },
