@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "updatedAt": "2026-07-30T03:03:52.981Z",
+  "updatedAt": "2026-07-30T04:02:48.836Z",
   "news": [
     {
       "gid": "CBMikgFBVV95cUxObTk4b2xTYnFIR3l0OEtXSEZjaWVfVEpJd1lyVkJ2QUhEMVV2NGRMa0hsNjhvNGdlMk9UTE1pNGtSRWRUQ0dxaVFpOW5fUllCVHB5Zk5VRm92WHV5eklLTFplYnU1NDVRLTExN0JOaWRuR2QzMWhHZE1pVTlmVFh4LVhDSXNXUEFDeDNiaXN1MWQtQQ",
@@ -293,7 +293,9 @@
           "symbol": "1210",
           "name": "大成",
           "point": "肉品雙雄節慶利多",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -9.7
         }
       ],
       "background": "農曆民俗月將近，中元節慶採買旺季到來，泡麵、飲料、零食等食品類股受節慶題材助攻，業績可望成長。",

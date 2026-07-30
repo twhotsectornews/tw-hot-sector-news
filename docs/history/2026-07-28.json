@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "updatedAt": "2026-07-30T03:03:52.982Z",
+  "updatedAt": "2026-07-30T04:02:48.837Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1pRXdBUkNhamxfaU5ianlPS2RfdklXYTZaTm1IZEc0NFRDaF93RE9BUnNJQzNVdjFDd0Z3ZmpHSnYzQ3ZPUlpJTThrTWdwYXV2bEtkOXZiUW01QdIBX0FVX3lxTE0wWE9rYzBmWlNETXVFYlMyNVZkeWZHYU81Rll5RlptbWVpTDdiaG40eG95ZUx2N2UwYVpxeHgyUkt5bXlpeGNpZ3FaWTRtc0tZd2taN3RuY1V2T2RLSURn",
@@ -43,7 +43,7 @@
         {
           "symbol": "5274",
           "name": "信驊",
-          "point": "融資維持率跌破警戒線來到144.57％"
+          "point": "融資維持率跌破警戒線"
         },
         {
           "symbol": "2454",
@@ -126,8 +126,29 @@
           "point": "融資維持率為136.02％"
         }
       ],
-      "background": "台股近期大幅修正，引發融資追繳與斷頭壓力，尤其重創被動元件、AI供應鏈、IC設計、PCB載板及重電綠能等熱門族群。",
-      "themeTags": []
+      "background": "台股大盤回檔修正，引發融資追繳與斷頭壓力，多個熱門族群如被動元件、AI供應鏈、半導體、PCB及重電綠能等個股融資維持率跌破警戒線。",
+      "themeTags": [
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPSmJqcHBWS3R0SEZZa3VOaGtRVllYY244blliLU5USGswb0QydXBONjRSckRzbGpmdllHcDFZbVBSbFJnTWVJcDlnN2tQV1BYTTJDNXlkV0VrNFdqNnExWmJWMFQ3MmJUS3Uwb0xkT2VTQVNDeklzbGt2TnFSMzUzLWd4TnVqdWRl",
+      "tkey": "熱門族群史上第五大跌點主動型ETF爆量霸占成交榜",
+      "title": "《熱門族群》史上第五大跌點 主動型ETF爆量霸占成交榜 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6251422001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 28 Jul 2026 04:41:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2303",
+          "name": "聯電",
+          "point": "居第九量大股"
+        }
+      ],
+      "background": "台股大盤重挫，主動型ETF因資金門檻低，受到散戶及法人青睞，爆量霸占成交榜，顯示市場在波動中尋求避險或槓桿操作。",
+      "themeTags": [
+        "循環位置"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxQd2ctbHdYaWJaTFFYdWM0YTUxa05SczFERW9zMlozZEE1SWZSa0lKWi1qNmQyc3Q3N052eGJXeUVyRl9XY2VfZld2VGEwNFhRcDBNRlE3UGlob0h2WS1BdkU2TnJIaUg1WXR0TzU1Mk90SExGaDJvb3JkdkRYaWl2bWpWN194bEM5",
@@ -140,18 +161,18 @@
         {
           "symbol": "2023",
           "name": "燁輝",
-          "point": "庫藏股護盤，股價相對抗跌",
-          "limitUp": false
+          "point": "祭出庫藏股護盤，股價相對抗跌"
         },
         {
           "symbol": "2206",
           "name": "三陽工業",
-          "point": "庫藏股護盤，股價相對抗跌",
-          "limitUp": false
+          "point": "祭出庫藏股護盤，股價震盪相對抗跌"
         }
       ],
-      "background": "庫藏股為公司買回自家股票，通常用於護盤或激勵股價，顯示公司對未來營運具信心，有助於穩定股價。",
-      "themeTags": []
+      "background": "燁輝與三陽工業近期祭出庫藏股護盤，燁輝看好東南亞AI產業鏈及中東重建商機，三陽則看好暑假機車銷售旺季。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxNV1k1YXdsdHZtdXpTcWVoZktQRDBUM1FudTd2WDV3eTFPam5RTUpzaVVKZWlvTUhmTWtLSlhKN2pXSFdGUEVOWFBlbi1YTE1pd29kdndwWXI3cTBiUjl3a3dqelB5UXB1OFF1VTRQWlBfOFh0Qm1KZnktSWVKaGpESmxrai1UeFl4",
@@ -230,24 +251,6 @@
         }
       ],
       "background": "台股大盤重挫，主動型ETF因低資金門檻受散戶青睞，槓桿型ETF成交爆量，顯示市場恐慌與部分資金逢低承接。",
-      "themeTags": []
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxPSmJqcHBWS3R0SEZZa3VOaGtRVllYY244blliLU5USGswb0QydXBONjRSckRzbGpmdllHcDFZbVBSbFJnTWVJcDlnN2tQV1BYTTJDNXlkV0VrNFdqNnExWmJWMFQ3MmJUS3Uwb0xkT2VTQVNDeklzbGt2TnFSMzUzLWd4TnVqdWRl",
-      "tkey": "熱門族群史上第六大跌點主動型ETF爆量霸占成交榜",
-      "title": "《熱門族群》史上第六大跌點 主動型ETF爆量霸占成交榜 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6251422001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Tue, 28 Jul 2026 02:31:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2303",
-          "name": "聯電",
-          "point": "成交量居第九",
-          "limitUp": false
-        }
-      ],
-      "background": "台股早盤重挫，主動型ETF因資金門檻低，吸引散戶及法人買盤，爆量霸占成交榜，成為盤面焦點。",
       "themeTags": []
     },
     {

@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-30T11:03:52.986+08:00",
-  "generatedAt": "2026-07-30T03:03:52.986Z",
+  "asOf": "2026-07-30T12:02:48.841+08:00",
+  "generatedAt": "2026-07-30T04:02:48.841Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,14 +9,29 @@
     {
       "symbol": "8046",
       "name": "南電",
-      "days": 4,
+      "days": 5,
       "dates": [
+        "7/30",
         "7/28",
         "7/27",
         "7/26",
         "7/24"
       ],
-      "mentions": 6
+      "mentions": 7,
+      "limitUp": false
+    },
+    {
+      "symbol": "3037",
+      "name": "欣興",
+      "days": 4,
+      "dates": [
+        "7/30",
+        "7/29",
+        "7/28",
+        "7/26"
+      ],
+      "mentions": 5,
+      "limitUp": false
     },
     {
       "symbol": "6505",
@@ -36,6 +51,19 @@
       ]
     },
     {
+      "symbol": "2303",
+      "name": "聯電",
+      "days": 3,
+      "dates": [
+        "7/30",
+        "7/29",
+        "7/28"
+      ],
+      "mentions": 6,
+      "limitUp": true,
+      "pct": 9.8
+    },
+    {
       "symbol": "2408",
       "name": "南亞科",
       "days": 3,
@@ -48,23 +76,11 @@
       "limitUp": false
     },
     {
-      "symbol": "2303",
-      "name": "聯電",
+      "symbol": "3189",
+      "name": "景碩",
       "days": 3,
       "dates": [
         "7/30",
-        "7/29",
-        "7/28"
-      ],
-      "mentions": 5,
-      "limitUp": false
-    },
-    {
-      "symbol": "3037",
-      "name": "欣興",
-      "days": 3,
-      "dates": [
-        "7/29",
         "7/28",
         "7/26"
       ],
@@ -228,14 +244,15 @@
       "limitUp": false
     },
     {
-      "symbol": "3189",
-      "name": "景碩",
+      "symbol": "4958",
+      "name": "臻鼎-KY",
       "days": 2,
       "dates": [
-        "7/28",
+        "7/30",
         "7/26"
       ],
-      "mentions": 3
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "1203",
@@ -312,6 +329,8 @@
         "7/29"
       ],
       "mentions": 2,
+      "status": "逼近新高",
+      "dist": -9.7,
       "limitUp": false
     },
     {
@@ -358,22 +377,67 @@
         "7/29",
         "7/27"
       ]
-    },
-    {
-      "symbol": "2887",
-      "name": "台新新光金",
-      "days": 2,
-      "dates": [
-        "7/29",
-        "7/28"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -11.3,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOWnotX0QwOG0wc0NOSDFyRmt6TjV3NngwSlhia3Z4ZlUzaUtlWHJDVE5Zd1pURGlHb2pubjNTSmRuNUVBTlNUaUlUcHdPYUU3R3E0VUtRWWtSX2tjVjMyVDlSUEFiU3dCcENZLTcwaUtnbVVxQ05hXzJnellzWkt3X3JRazdkWnB1",
+      "tkey": "熱門族群聯電家族四燈獎！欣興先衝頂載板還有戲？",
+      "title": "《熱門族群》聯電家族四燈獎！欣興先衝頂 載板還有戲？ - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6253973001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 30 Jul 2026 03:31:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2303",
+          "name": "聯電",
+          "point": "同獲買盤敲進亮燈攻頂",
+          "limitUp": true,
+          "pct": 9.8
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "率先表態力撐半年線，亮燈漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6202",
+          "name": "盛群",
+          "point": "同獲買盤敲進亮燈攻頂",
+          "limitUp": false
+        },
+        {
+          "symbol": "3094",
+          "name": "聯傑",
+          "point": "同獲買盤敲進亮燈攻頂",
+          "limitUp": false
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "跟進急拉觸頂",
+          "limitUp": false
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "跟進翻揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "4958",
+          "name": "臻鼎-KY",
+          "point": "震盪翻黑相對弱勢",
+          "limitUp": false
+        }
+      ],
+      "background": "載板產業受惠AI及高速運算產品需求提升，ABF及BT載板報價漲幅擴大，稼動率走升，產業營運焦點轉向產品組合與接單結構。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMikgFBVV95cUxPWExvdXFDTmZaMHdOdU54ZlprNDltLXIzVXgwa3lEWE9HVVBTTWJuU0xDSjZxbS01V0lScGJwbG1VQVNnYmQ5ZjJNQlFaX21idTdHbkdBRWRJT29EMlg0V3NrR05PRVJuejBTYmc0VE5qVE0yM3JSVUxTcEVpZmNQR3ZkWG9aRGRBaUZ4QXRESjMzZw",
       "tkey": "熱門族群聯電點火！台積電回穩領軍反彈千點",
@@ -386,7 +450,8 @@
           "symbol": "2303",
           "name": "聯電",
           "point": "法說會報喜急拉漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "2330",
@@ -518,7 +583,9 @@
           "symbol": "1210",
           "name": "大成",
           "point": "中秋概念股",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -9.7
         },
         {
           "symbol": "1218",
@@ -905,7 +972,9 @@
           "symbol": "1210",
           "name": "大成",
           "point": "肉品雙雄節慶利多",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -9.7
         }
       ],
       "background": "農曆民俗月將近，中元節慶採買旺季到來，泡麵、飲料、零食等食品類股受節慶題材助攻，業績可望成長。",
