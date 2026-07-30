@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-30T12:02:48.841+08:00",
-  "generatedAt": "2026-07-30T04:02:48.841Z",
+  "asOf": "2026-07-30T13:02:40.427+08:00",
+  "generatedAt": "2026-07-30T05:02:40.427Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -60,8 +60,7 @@
         "7/28"
       ],
       "mentions": 6,
-      "limitUp": true,
-      "pct": 9.8
+      "limitUp": false
     },
     {
       "symbol": "2408",
@@ -392,8 +391,7 @@
           "symbol": "2303",
           "name": "聯電",
           "point": "同獲買盤敲進亮燈攻頂",
-          "limitUp": true,
-          "pct": 9.8
+          "limitUp": false
         },
         {
           "symbol": "3037",
@@ -450,8 +448,7 @@
           "symbol": "2303",
           "name": "聯電",
           "point": "法說會報喜急拉漲停",
-          "limitUp": true,
-          "pct": 9.8
+          "limitUp": false
         },
         {
           "symbol": "2330",
