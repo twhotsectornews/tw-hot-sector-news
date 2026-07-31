@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "updatedAt": "2026-07-31T04:04:43.833Z",
+  "updatedAt": "2026-07-31T05:03:40.041Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1pRXdBUkNhamxfaU5ianlPS2RfdklXYTZaTm1IZEc0NFRDaF93RE9BUnNJQzNVdjFDd0Z3ZmpHSnYzQ3ZPUlpJTThrTWdwYXV2bEtkOXZiUW01QdIBX0FVX3lxTE0wWE9rYzBmWlNETXVFYlMyNVZkeWZHYU81Rll5RlptbWVpTDdiaG40eG95ZUx2N2UwYVpxeHgyUkt5bXlpeGNpZ3FaWTRtc0tZd2taN3RuY1V2T2RLSURn",
@@ -13,121 +13,123 @@
         {
           "symbol": "2327",
           "name": "國巨",
-          "point": "融資維持率跌破130%防線"
+          "point": "融資維持率滑落至117.78％"
         },
         {
           "symbol": "3026",
           "name": "禾伸堂",
-          "point": "融資維持率跌破130%防線"
+          "point": "融資維持率掉到114.98％"
         },
         {
           "symbol": "2492",
           "name": "華新科",
-          "point": "融資維持率跌破130%防線"
+          "point": "維持率降至102.65％"
         },
         {
           "symbol": "6173",
           "name": "信昌電",
-          "point": "融資維持率跌破130%防線"
+          "point": "維持率來到104.32％"
         },
         {
           "symbol": "6127",
           "name": "九豪",
-          "point": "融資維持率跌破130%防線"
+          "point": "維持率跌至102.72％"
         },
         {
           "symbol": "8042",
           "name": "金山電",
-          "point": "融資維持率跌破130%防線"
+          "point": "維持率落至114.82％"
         },
         {
           "symbol": "5274",
           "name": "信驊",
-          "point": "融資維持率跌破145%警戒線"
+          "point": "融資維持率跌破警戒線來到144.57％"
         },
         {
           "symbol": "2454",
           "name": "聯發科",
-          "point": "融資維持率降至139.16%"
+          "point": "融資維持率降至139.16％"
         },
         {
           "symbol": "2308",
           "name": "台達電",
-          "point": "融資維持率降至134.24%"
+          "point": "融資維持率落至134.24％"
         },
         {
           "symbol": "3324",
           "name": "雙鴻",
-          "point": "融資維持率來到141.52%"
+          "point": "融資維持率來到141.52％"
         },
         {
           "symbol": "2345",
           "name": "智邦",
-          "point": "融資維持率來到141.21%"
+          "point": "融資維持率為141.21％"
         },
         {
           "symbol": "3013",
           "name": "晟銘電",
-          "point": "融資維持率來到115.39%"
+          "point": "融資維持率為115.39％"
         },
         {
           "symbol": "1519",
           "name": "華城",
-          "point": "融資維持率來到137.05%"
+          "point": "融資維持率為137.05％"
         },
         {
           "symbol": "1503",
           "name": "士電",
-          "point": "融資維持率來到139.65%"
+          "point": "融資維持率為139.65％"
         },
         {
           "symbol": "3661",
           "name": "世芯-KY",
-          "point": "融資維持率跌至125.35%"
+          "point": "融資維持率跌至125.35％"
         },
         {
           "symbol": "2303",
           "name": "聯電",
-          "point": "融資維持率降至128.28%"
+          "point": "融資維持率降至128.28％"
         },
         {
           "symbol": "6223",
           "name": "旺矽",
-          "point": "融資維持率來到140.63%"
+          "point": "融資維持率為140.63％"
         },
         {
           "symbol": "6643",
           "name": "M31",
-          "point": "融資維持率來到130.79%"
+          "point": "融資維持率來到130.79％"
         },
         {
           "symbol": "2313",
           "name": "華通",
-          "point": "融資維持率跌至127.74%"
+          "point": "維持率跌至127.74％"
         },
         {
           "symbol": "2368",
           "name": "金像電",
-          "point": "融資維持率來到116.89%"
+          "point": "維持率來到116.89％"
         },
         {
           "symbol": "3037",
           "name": "欣興",
-          "point": "融資維持率來到142.81%"
+          "point": "融資維持率為142.81％"
         },
         {
           "symbol": "3189",
           "name": "景碩",
-          "point": "融資維持率來到140.28%"
+          "point": "融資維持率為140.28％"
         },
         {
           "symbol": "8046",
           "name": "南電",
-          "point": "融資維持率來到136.02%"
+          "point": "融資維持率為136.02％"
         }
       ],
-      "background": "台股近期大幅修正，引發融資追繳與斷頭壓力，熱門族群如被動元件、AI供應鏈、半導體與重電股首當其衝。",
-      "themeTags": []
+      "background": "台股回檔引發融資追繳與斷頭壓力，被動元件、AI供應鏈、半導體、PCB與重電綠能等熱門族群首當其衝，市場面臨多殺多風險。",
+      "themeTags": [
+        "循環位置"
+      ]
     },
     {
       "gid": "CBMikgFBVV95cUxObTk4b2xTYnFIR3l0OEtXSEZjaWVfVEpJd1lyVkJ2QUhEMVV2NGRMa0hsNjhvNGdlMk9UTE1pNGtSRWRUQ0dxaVFpOW5fUllCVHB5Zk5VRm92WHV5eklLTFplYnU1NDVRLTExN0JOaWRuR2QzMWhHZE1pVTlmVFh4LVhDSXNXUEFDeDNiaXN1MWQtQQ",

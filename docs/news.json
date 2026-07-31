@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-31T12:04:43.837+08:00",
-  "generatedAt": "2026-07-31T04:04:43.837Z",
+  "asOf": "2026-07-31T13:03:40.044+08:00",
+  "generatedAt": "2026-07-31T05:03:40.044Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -35,6 +35,20 @@
       "limitUp": false
     },
     {
+      "symbol": "3189",
+      "name": "景碩",
+      "days": 5,
+      "dates": [
+        "7/31",
+        "7/30",
+        "7/29",
+        "7/28",
+        "7/26"
+      ],
+      "mentions": 5,
+      "limitUp": false
+    },
+    {
       "symbol": "2303",
       "name": "聯電",
       "days": 4,
@@ -45,8 +59,7 @@
         "7/28"
       ],
       "mentions": 9,
-      "limitUp": true,
-      "pct": 10
+      "limitUp": false
     },
     {
       "symbol": "2408",
@@ -101,19 +114,6 @@
       "limitUp": false
     },
     {
-      "symbol": "3189",
-      "name": "景碩",
-      "days": 4,
-      "dates": [
-        "7/30",
-        "7/29",
-        "7/28",
-        "7/26"
-      ],
-      "mentions": 4,
-      "limitUp": false
-    },
-    {
       "symbol": "1526",
       "name": "瑞穎",
       "days": 3,
@@ -150,6 +150,28 @@
         "7/29",
         "7/28",
         "7/27"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2383",
+      "name": "台光電",
+      "days": 2,
+      "dates": [
+        "7/31",
+        "7/30"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "6274",
+      "name": "台燿",
+      "days": 2,
+      "dates": [
+        "7/31",
+        "7/30"
       ],
       "mentions": 3,
       "limitUp": false
@@ -299,8 +321,19 @@
       ]
     },
     {
-      "symbol": "3260",
-      "name": "威剛",
+      "symbol": "3264",
+      "name": "欣銓",
+      "days": 2,
+      "dates": [
+        "7/31",
+        "7/28"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "8131",
+      "name": "福懋科",
       "days": 2,
       "dates": [
         "7/31",
@@ -310,12 +343,12 @@
       "limitUp": false
     },
     {
-      "symbol": "2383",
-      "name": "台光電",
+      "symbol": "3260",
+      "name": "威剛",
       "days": 2,
       "dates": [
         "7/31",
-        "7/30"
+        "7/27"
       ],
       "mentions": 2,
       "limitUp": false
@@ -332,17 +365,6 @@
       "limitUp": false
     },
     {
-      "symbol": "6274",
-      "name": "台燿",
-      "days": 2,
-      "dates": [
-        "7/31",
-        "7/30"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
       "symbol": "4958",
       "name": "臻鼎-KY",
       "days": 2,
@@ -352,32 +374,106 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "2357",
-      "name": "華碩",
-      "days": 2,
-      "dates": [
-        "7/30",
-        "7/29"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -13.6,
-      "limitUp": false
-    },
-    {
-      "symbol": "2454",
-      "name": "聯發科",
-      "days": 2,
-      "dates": [
-        "7/29",
-        "7/26"
-      ],
-      "mentions": 2
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPUi1VbldGSmxnTXJsMXhSTl84NzkxT2xIeFlnNHpvUEdqczRaTkNYdXhnX1FwUmVpNWZYbzJhM0drRlpfTkJmVV9HU1l0eVh0ck1yTDc2Zm14MWlpRGtWT2VGU3pKUGNrbXNJcEQweHlaTE1VaVJhUmJzclJuaWY3bVViR2tMQTdE",
+      "tkey": "熱門族群外資看好前景台光電、台燿聯袂攻頂",
+      "title": "《熱門族群》外資看好前景 台光電、台燿聯袂攻頂 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6255283001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 31 Jul 2026 03:47:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "外資看好前景，盤中強攻漲停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "外資看好前景，盤中強攻漲停板",
+          "limitUp": false
+        }
+      ],
+      "background": "AI伺服器、通用伺服器、交換器、低軌衛星等高頻高速傳輸需求帶動高階銅箔基板供不應求，台光電與台燿挾技術優勢訂單滿手。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOal9kZHZFT0RiU1pkWHFfSGRJYUlqVHJDRTFTNF9OV0gybTdtdjJDRTJlMEtVbnhESVoxVmpZamxMVnd4dGI4NVItZm9ianBKXzZGbTBkYXZPNV9YR2QwNmZCT3kzOGRZT0x1cFI0TEZJVVpnNjJRMzRCaTB3QXZnRmV1Sml4RUQ0",
+      "tkey": "熱門族群台股狂噴3000點！日月光鎖漲停照亮封測全村紅通通",
+      "title": "《熱門族群》台股狂噴3000點！日月光鎖漲停 照亮封測全村紅通通 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6255277001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 31 Jul 2026 03:45:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "point": "亮眼財報獲外資喊上800元，鎖漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2449",
+          "name": "京元電子",
+          "point": "跟進漲停，加碼AI布局",
+          "limitUp": false
+        },
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "point": "跟進漲停，獲利穩健向上",
+          "limitUp": false
+        },
+        {
+          "symbol": "8150",
+          "name": "南茂",
+          "point": "跟進漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "8110",
+          "name": "華東",
+          "point": "跟進漲停",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "跟進漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6147",
+          "name": "頎邦",
+          "point": "跟進漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3264",
+          "name": "欣銓",
+          "point": "跟進漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "8131",
+          "name": "福懋科",
+          "point": "跟進漲停",
+          "limitUp": false
+        }
+      ],
+      "background": "AI需求強勁帶動先進封裝與CPO技術發展，日月光等台廠擴大資本支出，鞏固全球關鍵地位，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOM1JzT0poQWxTejhjdkp1YW9ocmhBR1NoM0t1LVN5d0hsSEFwalR3LUQxQVJ5bmZKMUZvWjBVNWY4dGI4SWdnampDZnV1VlZjczdtcjNUNno2eUNNRERCWXMxbmJTaVBKdFgxMmY4Y2hMeE9ycHlVU3VqbWY4WmVTVkZhM01uMXBh",
       "tkey": "熱門族群記憶體族群全面噴出DRAM雙雄領軍攻頂",
@@ -450,7 +546,8 @@
           "symbol": "8110",
           "name": "華東",
           "point": "封測廠聯袂大漲",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "8150",
@@ -484,8 +581,7 @@
           "symbol": "2303",
           "name": "聯電",
           "point": "Q2獲利創高股領軍",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "2383",
