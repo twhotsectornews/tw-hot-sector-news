@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "updatedAt": "2026-07-31T03:04:28.573Z",
+  "updatedAt": "2026-07-31T04:04:43.833Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1pRXdBUkNhamxfaU5ianlPS2RfdklXYTZaTm1IZEc0NFRDaF93RE9BUnNJQzNVdjFDd0Z3ZmpHSnYzQ3ZPUlpJTThrTWdwYXV2bEtkOXZiUW01QdIBX0FVX3lxTE0wWE9rYzBmWlNETXVFYlMyNVZkeWZHYU81Rll5RlptbWVpTDdiaG40eG95ZUx2N2UwYVpxeHgyUkt5bXlpeGNpZ3FaWTRtc0tZd2taN3RuY1V2T2RLSURn",
@@ -13,120 +13,120 @@
         {
           "symbol": "2327",
           "name": "國巨",
-          "point": "融資維持率滑落至117.78％"
+          "point": "融資維持率跌破130%防線"
         },
         {
           "symbol": "3026",
           "name": "禾伸堂",
-          "point": "融資維持率掉到114.98％"
+          "point": "融資維持率跌破130%防線"
         },
         {
           "symbol": "2492",
           "name": "華新科",
-          "point": "融資維持率降至102.65％"
+          "point": "融資維持率跌破130%防線"
         },
         {
           "symbol": "6173",
           "name": "信昌電",
-          "point": "融資維持率來到104.32％"
+          "point": "融資維持率跌破130%防線"
         },
         {
           "symbol": "6127",
           "name": "九豪",
-          "point": "融資維持率跌至102.72％"
+          "point": "融資維持率跌破130%防線"
         },
         {
           "symbol": "8042",
           "name": "金山電",
-          "point": "融資維持率落至114.82％"
+          "point": "融資維持率跌破130%防線"
         },
         {
           "symbol": "5274",
           "name": "信驊",
-          "point": "融資維持率跌破警戒線來到144.57％"
+          "point": "融資維持率跌破145%警戒線"
         },
         {
           "symbol": "2454",
           "name": "聯發科",
-          "point": "融資維持率降至139.16％"
+          "point": "融資維持率降至139.16%"
         },
         {
           "symbol": "2308",
           "name": "台達電",
-          "point": "融資維持率落至134.24％"
+          "point": "融資維持率降至134.24%"
         },
         {
           "symbol": "3324",
           "name": "雙鴻",
-          "point": "融資維持率來到141.52％"
+          "point": "融資維持率來到141.52%"
         },
         {
           "symbol": "2345",
           "name": "智邦",
-          "point": "融資維持率為141.21％"
+          "point": "融資維持率來到141.21%"
         },
         {
           "symbol": "3013",
           "name": "晟銘電",
-          "point": "融資維持率為115.39％"
+          "point": "融資維持率來到115.39%"
         },
         {
           "symbol": "1519",
           "name": "華城",
-          "point": "融資維持率為137.05％"
+          "point": "融資維持率來到137.05%"
         },
         {
           "symbol": "1503",
           "name": "士電",
-          "point": "融資維持率為139.65％"
+          "point": "融資維持率來到139.65%"
         },
         {
           "symbol": "3661",
           "name": "世芯-KY",
-          "point": "融資維持率跌至125.35％"
+          "point": "融資維持率跌至125.35%"
         },
         {
           "symbol": "2303",
           "name": "聯電",
-          "point": "融資維持率降至128.28％"
+          "point": "融資維持率降至128.28%"
         },
         {
           "symbol": "6223",
           "name": "旺矽",
-          "point": "融資維持率為140.63％"
+          "point": "融資維持率來到140.63%"
         },
         {
           "symbol": "6643",
           "name": "M31",
-          "point": "融資維持率來到130.79％"
+          "point": "融資維持率來到130.79%"
         },
         {
           "symbol": "2313",
           "name": "華通",
-          "point": "融資維持率跌至127.74％"
+          "point": "融資維持率跌至127.74%"
         },
         {
           "symbol": "2368",
           "name": "金像電",
-          "point": "融資維持率來到116.89％"
+          "point": "融資維持率來到116.89%"
         },
         {
           "symbol": "3037",
           "name": "欣興",
-          "point": "融資維持率為142.81％"
+          "point": "融資維持率來到142.81%"
         },
         {
           "symbol": "3189",
           "name": "景碩",
-          "point": "融資維持率為140.28％"
+          "point": "融資維持率來到140.28%"
         },
         {
           "symbol": "8046",
           "name": "南電",
-          "point": "融資維持率為136.02％"
+          "point": "融資維持率來到136.02%"
         }
       ],
-      "background": "台股近期大幅修正，引發融資追繳與斷頭壓力，多個熱門族群如被動元件、AI供應鏈、半導體、PCB及重電股首當其衝。",
+      "background": "台股近期大幅修正，引發融資追繳與斷頭壓力，熱門族群如被動元件、AI供應鏈、半導體與重電股首當其衝。",
       "themeTags": []
     },
     {
@@ -140,39 +140,34 @@
         {
           "symbol": "2357",
           "name": "華碩",
-          "point": "老AI抗跌力道最穩",
-          "limitUp": false,
+          "point": "大盤崩跌中力挺紅盤，AI伺服器營收成長目標高",
           "status": "高檔修正",
-          "dist": -13.6
+          "dist": -13.1
         },
         {
           "symbol": "2356",
           "name": "英業達",
-          "point": "老AI展現抗跌力道",
-          "limitUp": false
+          "point": "擴大產線與海外佈局，因應AI訂單"
         },
         {
           "symbol": "2382",
           "name": "廣達",
-          "point": "老AI展現抗跌力道",
-          "limitUp": false
+          "point": "買下友達廠房擴廠，助AI伺服器出貨"
         },
         {
           "symbol": "3231",
           "name": "緯創",
-          "point": "老AI展現抗跌力道",
+          "point": "美國子公司取得加州不動產擴產",
           "status": "高檔修正",
-          "dist": -14.6,
-          "limitUp": false
+          "dist": -11.5
         },
         {
           "symbol": "2324",
           "name": "仁寶",
-          "point": "老AI展現抗跌力道",
-          "limitUp": false
+          "point": "展現抗跌力道，吸引防禦型資金"
         }
       ],
-      "background": "台股大盤下殺之際，華碩、英業達、廣達、緯創、仁寶等老AI概念股因擴產及AI訂單需求，展現抗跌力道，吸引防禦型資金。",
+      "background": "AI伺服器ODM廠因應AI訂單需求，積極擴大國內外產能佈局。儘管大盤重挫，這些廠商仍展現抗跌力道。",
       "themeTags": [
         "需求驅動"
       ]
@@ -300,10 +295,10 @@
     },
     {
       "gid": "CBMiiAFBVV95cUxPUHY3dW1mb1pYenRiYzZPeUh0X2RQekxKME1mWVdWN2oyaVN2UjZ6OXBNaTcwT29TM3pnMG5HNUMtZFU5VG9qZV9HMkFZeDZIUWxBbEtXVFFBYks4MjNvamptRU9uYkpLNElLVGUteUtTaU83NGIyRW14aWJKX3J6dnZOWnFMR256",
-      "tkey": "熱門族群4萬崩了！170顆綠燈深鎖6檔逆風漲停、都有1特性-ww2.money",
-      "title": "《熱門族群》4萬崩了！170顆綠燈深鎖 6檔逆風漲停、都有1特性 - ww2.money-link.com.tw",
+      "tkey": "熱門族群4萬崩了！170顆綠燈深鎖6檔逆風漲停、都有1特性",
+      "title": "《熱門族群》4萬崩了！170顆綠燈深鎖 6檔逆風漲停、都有1特性 - 富聯網",
       "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6252751001&PU=0010",
-      "source": "ww2.money-link.com.tw",
+      "source": "富聯網",
       "pubDate": "Wed, 29 Jul 2026 04:01:00 GMT",
       "stocks": [
         {
@@ -334,17 +329,17 @@
         {
           "symbol": "2327",
           "name": "國巨",
-          "point": "被動元件跌停"
+          "point": "被動元件重災區跌停"
         },
         {
           "symbol": "3037",
           "name": "欣興",
-          "point": "封測跌停"
+          "point": "封測重災區跌停"
         },
         {
           "symbol": "6226",
           "name": "光鼎",
-          "point": "逆風漲停",
+          "point": "逆勢漲停，轉型功率半導體",
           "luw": 2,
           "luwd": [
             "7/29",
@@ -354,7 +349,7 @@
         {
           "symbol": "4976",
           "name": "佳凌",
-          "point": "逆風漲停",
+          "point": "逆勢漲停，布局車載、AI視覺辨識",
           "luw": 2,
           "luwd": [
             "7/29",
@@ -364,7 +359,7 @@
         {
           "symbol": "1526",
           "name": "日馳",
-          "point": "逆風漲停",
+          "point": "逆勢漲停，受惠美關稅轉單",
           "luw": 2,
           "luwd": [
             "7/29",
@@ -374,7 +369,7 @@
         {
           "symbol": "3018",
           "name": "隆銘綠能",
-          "point": "逆風漲停",
+          "point": "逆勢漲停",
           "luw": 4,
           "luwd": [
             "7/29",
@@ -386,16 +381,19 @@
         {
           "symbol": "8421",
           "name": "旭源",
-          "point": "逆風漲停"
+          "point": "逆勢漲停"
         },
         {
           "symbol": "6733",
           "name": "博晟生醫",
-          "point": "逆風漲停"
+          "point": "逆勢漲停"
         }
       ],
-      "background": "AI熱潮疑慮加劇科技股賣壓，台股崩跌，半導體、記憶體、被動元件、封測等族群湧現跌停潮。部分銅板股逆勢漲停，具轉型或新商機題材。",
-      "themeTags": []
+      "background": "AI熱潮疑慮加劇科技股賣壓，台股大盤崩跌。部分低價銅板股因轉型、新商機或關稅利多逆勢漲停。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxNNFljLTFNNHpPa2NwZ3UwbnNHbmNBWTdQQVByMllmVVNaeVYzY3daMnZFcnExNGhVV1RaSUJuemo2TkExQWZMaXhXbW5YQ0l2TlJxelk0SU0xbU9DMHFLMjRuYXZjYTFQNTMtN2R4QUY4U0drVFdLWFc4QzZlSGFENDJNLUpIN1Z0",
