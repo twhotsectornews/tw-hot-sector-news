@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "updatedAt": "2026-07-30T12:15:16.584Z",
+  "updatedAt": "2026-07-31T03:04:28.573Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1pRXdBUkNhamxfaU5ianlPS2RfdklXYTZaTm1IZEc0NFRDaF93RE9BUnNJQzNVdjFDd0Z3ZmpHSnYzQ3ZPUlpJTThrTWdwYXV2bEtkOXZiUW01QdIBX0FVX3lxTE0wWE9rYzBmWlNETXVFYlMyNVZkeWZHYU81Rll5RlptbWVpTDdiaG40eG95ZUx2N2UwYVpxeHgyUkt5bXlpeGNpZ3FaWTRtc0tZd2taN3RuY1V2T2RLSURn",
@@ -141,7 +141,9 @@
           "symbol": "2357",
           "name": "華碩",
           "point": "老AI抗跌力道最穩",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -13.6
         },
         {
           "symbol": "2356",
@@ -565,11 +567,7 @@
           "symbol": "6505",
           "name": "台塑化",
           "point": "自由現金流高",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/23"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "2207",
