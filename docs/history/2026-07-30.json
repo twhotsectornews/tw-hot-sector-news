@@ -1,7 +1,176 @@
 {
   "date": "2026-07-30",
-  "updatedAt": "2026-07-31T10:43:15.038Z",
+  "updatedAt": "2026-07-31T11:34:59.844Z",
   "news": [
+    {
+      "gid": "CBMiWkFVX3lxTE1pRXdBUkNhamxfaU5ianlPS2RfdklXYTZaTm1IZEc0NFRDaF93RE9BUnNJQzNVdjFDd0Z3ZmpHSnYzQ3ZPUlpJTThrTWdwYXV2bEtkOXZiUW01QQ",
+      "tkey": "台股回檔爆槓桿危機！929檔融資告急名單熱門族群個股曝光|市場焦點|證券",
+      "title": "台股回檔爆槓桿危機！929檔「融資告急名單」熱門族群個股曝光 | 市場焦點 | 證券 - 經濟日報",
+      "url": "https://money.udn.com/money/story/5607/9656781",
+      "source": "經濟日報",
+      "pubDate": "Thu, 30 Jul 2026 09:00:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "融資維持率滑落至117.78％"
+        },
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "point": "融資維持率掉到114.98％"
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "融資維持率降至102.65％"
+        },
+        {
+          "symbol": "6173",
+          "name": "信昌電",
+          "point": "融資維持率來到104.32％",
+          "luw": 5,
+          "luwd": [
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27",
+            "7/24"
+          ]
+        },
+        {
+          "symbol": "6127",
+          "name": "九豪",
+          "point": "融資維持率跌至102.72％"
+        },
+        {
+          "symbol": "8042",
+          "name": "金山電",
+          "point": "融資維持率落至114.82％",
+          "luw": 5,
+          "luwd": [
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27",
+            "7/24"
+          ]
+        },
+        {
+          "symbol": "5274",
+          "name": "信驊",
+          "point": "融資維持率跌破警戒線來到144.57％",
+          "luw": 5,
+          "luwd": [
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27",
+            "7/24"
+          ]
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "融資維持率降至139.16％"
+        },
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "point": "融資維持率落至134.24％"
+        },
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "point": "融資維持率來到141.52％",
+          "luw": 5,
+          "luwd": [
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27",
+            "7/24"
+          ]
+        },
+        {
+          "symbol": "2345",
+          "name": "智邦",
+          "point": "融資維持率為141.21％"
+        },
+        {
+          "symbol": "3013",
+          "name": "晟銘電",
+          "point": "融資維持率為115.39％"
+        },
+        {
+          "symbol": "1519",
+          "name": "華城",
+          "point": "融資維持率為137.05％"
+        },
+        {
+          "symbol": "1503",
+          "name": "士電",
+          "point": "融資維持率為139.65％"
+        },
+        {
+          "symbol": "3661",
+          "name": "世芯-KY",
+          "point": "融資維持率跌至125.35％"
+        },
+        {
+          "symbol": "2303",
+          "name": "聯電",
+          "point": "融資維持率降至128.28％"
+        },
+        {
+          "symbol": "6223",
+          "name": "旺矽",
+          "point": "融資維持率為140.63％",
+          "luw": 5,
+          "luwd": [
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27",
+            "7/24"
+          ]
+        },
+        {
+          "symbol": "6643",
+          "name": "M31",
+          "point": "融資維持率來到130.79％"
+        },
+        {
+          "symbol": "2313",
+          "name": "華通",
+          "point": "融資維持率跌至127.74％"
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "point": "融資維持率來到116.89％"
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "融資維持率為142.81％"
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "融資維持率為140.28％"
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "融資維持率為136.02％"
+        }
+      ],
+      "background": "台股近期大幅修正，引爆融資追繳與斷頭壓力，多檔熱門族群個股融資維持率跌破警戒線，市場面臨籌碼清洗與二次賣壓風險。",
+      "themeTags": [
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOWnotX0QwOG0wc0NOSDFyRmt6TjV3NngwSlhia3Z4ZlUzaUtlWHJDVE5Zd1pURGlHb2pubjNTSmRuNUVBTlNUaUlUcHdPYUU3R3E0VUtRWWtSX2tjVjMyVDlSUEFiU3dCcENZLTcwaUtnbVVxQ05hXzJnellzWkt3X3JRazdkWnB1",
       "tkey": "熱門族群聯電家族四燈獎！欣興先衝頂載板還有戲？",
