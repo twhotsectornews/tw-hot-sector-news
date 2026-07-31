@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-31T13:03:40.044+08:00",
-  "generatedAt": "2026-07-31T05:03:40.044Z",
+  "asOf": "2026-07-31T13:57:32.425+08:00",
+  "generatedAt": "2026-07-31T05:57:32.425Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -18,7 +18,8 @@
         "7/26"
       ],
       "mentions": 7,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "8046",
@@ -46,7 +47,8 @@
         "7/26"
       ],
       "mentions": 5,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "2303",
@@ -59,7 +61,8 @@
         "7/28"
       ],
       "mentions": 9,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "2408",
@@ -72,7 +75,8 @@
         "7/27"
       ],
       "mentions": 8,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "6770",
@@ -85,7 +89,8 @@
         "7/28"
       ],
       "mentions": 6,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "2344",
@@ -98,7 +103,8 @@
         "7/27"
       ],
       "mentions": 5,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.7
     },
     {
       "symbol": "2337",
@@ -111,7 +117,8 @@
         "7/27"
       ],
       "mentions": 5,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.5
     },
     {
       "symbol": "1526",
@@ -163,7 +170,8 @@
         "7/30"
       ],
       "mentions": 3,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "6274",
@@ -174,7 +182,8 @@
         "7/30"
       ],
       "mentions": 3,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "8271",
@@ -329,7 +338,8 @@
         "7/28"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "8131",
@@ -340,7 +350,8 @@
         "7/27"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "3260",
@@ -389,13 +400,15 @@
           "symbol": "2383",
           "name": "台光電",
           "point": "外資看好前景，盤中強攻漲停板",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "6274",
           "name": "台燿",
           "point": "外資看好前景，盤中強攻漲停板",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         }
       ],
       "background": "AI伺服器、通用伺服器、交換器、低軌衛星等高頻高速傳輸需求帶動高階銅箔基板供不應求，台光電與台燿挾技術優勢訂單滿手。",
@@ -416,25 +429,29 @@
           "symbol": "3711",
           "name": "日月光投控",
           "point": "亮眼財報獲外資喊上800元，鎖漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "2449",
           "name": "京元電子",
           "point": "跟進漲停，加碼AI布局",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "6239",
           "name": "力成",
           "point": "跟進漲停，獲利穩健向上",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "8150",
           "name": "南茂",
           "point": "跟進漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "8110",
@@ -447,25 +464,29 @@
           "symbol": "3189",
           "name": "景碩",
           "point": "跟進漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6147",
           "name": "頎邦",
           "point": "跟進漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.7
         },
         {
           "symbol": "3264",
           "name": "欣銓",
           "point": "跟進漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "8131",
           "name": "福懋科",
           "point": "跟進漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         }
       ],
       "background": "AI需求強勁帶動先進封裝與CPO技術發展，日月光等台廠擴大資本支出，鞏固全球關鍵地位，產業景氣復甦。",
@@ -486,25 +507,29 @@
           "symbol": "2408",
           "name": "南亞科",
           "point": "DRAM雙雄領軍攻頂",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "2344",
           "name": "華邦電",
           "point": "DRAM雙雄領軍攻頂",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.7
         },
         {
           "symbol": "2337",
           "name": "旺宏",
           "point": "開盤聯袂攻頂",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.5
         },
         {
           "symbol": "6770",
           "name": "力積電",
           "point": "開盤聯袂攻頂",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "3260",
@@ -528,19 +553,22 @@
           "symbol": "4967",
           "name": "十銓",
           "point": "模組廠聯袂強彈",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "3006",
           "name": "晶豪科",
           "point": "IC設計廠直奔漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "5351",
           "name": "鈺創",
           "point": "IC設計廠直奔漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "8110",
@@ -553,13 +581,15 @@
           "symbol": "8150",
           "name": "南茂",
           "point": "封測廠聯袂大漲",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "6239",
           "name": "力成",
           "point": "封測廠聯袂大漲",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         }
       ],
       "background": "記憶體族群受AI需求強勁帶動，DRAM供不應求報價大漲，國際大廠美光、SK海力士、三星電子股價強彈，產業景氣復甦。",
@@ -581,19 +611,22 @@
           "symbol": "2303",
           "name": "聯電",
           "point": "Q2獲利創高股領軍",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "2383",
           "name": "台光電",
           "point": "Q2獲利創高股領軍",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "3037",
           "name": "欣興",
           "point": "Q2獲利創高股領軍",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6552",
@@ -635,13 +668,15 @@
           "symbol": "6274",
           "name": "台燿",
           "point": "Q2獲利創歷史新高",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "3653",
           "name": "精測",
           "point": "Q2獲利創歷史新高",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "1734",
@@ -659,7 +694,8 @@
           "symbol": "3006",
           "name": "晶豪科",
           "point": "Q2獲利創歷史新高",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "1526",

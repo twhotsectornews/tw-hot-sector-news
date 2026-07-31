@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "updatedAt": "2026-07-31T05:03:40.041Z",
+  "updatedAt": "2026-07-31T05:57:32.421Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1pRXdBUkNhamxfaU5ianlPS2RfdklXYTZaTm1IZEc0NFRDaF93RE9BUnNJQzNVdjFDd0Z3ZmpHSnYzQ3ZPUlpJTThrTWdwYXV2bEtkOXZiUW01QdIBX0FVX3lxTE0wWE9rYzBmWlNETXVFYlMyNVZkeWZHYU81Rll5RlptbWVpTDdiaG40eG95ZUx2N2UwYVpxeHgyUkt5bXlpeGNpZ3FaWTRtc0tZd2taN3RuY1V2T2RLSURn",
@@ -23,22 +23,22 @@
         {
           "symbol": "2492",
           "name": "華新科",
-          "point": "維持率降至102.65％"
+          "point": "融資維持率降至102.65％"
         },
         {
           "symbol": "6173",
           "name": "信昌電",
-          "point": "維持率來到104.32％"
+          "point": "融資維持率來到104.32％"
         },
         {
           "symbol": "6127",
           "name": "九豪",
-          "point": "維持率跌至102.72％"
+          "point": "融資維持率跌至102.72％"
         },
         {
           "symbol": "8042",
           "name": "金山電",
-          "point": "維持率落至114.82％"
+          "point": "融資維持率落至114.82％"
         },
         {
           "symbol": "5274",
@@ -103,12 +103,12 @@
         {
           "symbol": "2313",
           "name": "華通",
-          "point": "維持率跌至127.74％"
+          "point": "融資維持率跌至127.74％"
         },
         {
           "symbol": "2368",
           "name": "金像電",
-          "point": "維持率來到116.89％"
+          "point": "融資維持率來到116.89％"
         },
         {
           "symbol": "3037",
@@ -126,7 +126,7 @@
           "point": "融資維持率為136.02％"
         }
       ],
-      "background": "台股回檔引發融資追繳與斷頭壓力，被動元件、AI供應鏈、半導體、PCB與重電綠能等熱門族群首當其衝，市場面臨多殺多風險。",
+      "background": "台股近期大幅修正，引發融資追繳與斷頭壓力。被動元件、AI供應鏈、IC設計、PCB載板及重電綠能等熱門族群首當其衝，多檔個股融資維持率跌破警戒線。",
       "themeTags": [
         "循環位置"
       ]
