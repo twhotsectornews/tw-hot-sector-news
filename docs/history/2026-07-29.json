@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "updatedAt": "2026-07-31T05:57:32.421Z",
+  "updatedAt": "2026-07-31T06:02:03.935Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1pRXdBUkNhamxfaU5ianlPS2RfdklXYTZaTm1IZEc0NFRDaF93RE9BUnNJQzNVdjFDd0Z3ZmpHSnYzQ3ZPUlpJTThrTWdwYXV2bEtkOXZiUW01QdIBX0FVX3lxTE0wWE9rYzBmWlNETXVFYlMyNVZkeWZHYU81Rll5RlptbWVpTDdiaG40eG95ZUx2N2UwYVpxeHgyUkt5bXlpeGNpZ3FaWTRtc0tZd2taN3RuY1V2T2RLSURn",
@@ -18,7 +18,7 @@
         {
           "symbol": "3026",
           "name": "禾伸堂",
-          "point": "融資維持率掉到114.98％"
+          "point": "融資維持率跌到114.98％"
         },
         {
           "symbol": "2492",
@@ -43,7 +43,7 @@
         {
           "symbol": "5274",
           "name": "信驊",
-          "point": "融資維持率跌破警戒線來到144.57％"
+          "point": "融資維持率跌破警戒線144.57％"
         },
         {
           "symbol": "2454",
@@ -126,7 +126,7 @@
           "point": "融資維持率為136.02％"
         }
       ],
-      "background": "台股近期大幅修正，引發融資追繳與斷頭壓力。被動元件、AI供應鏈、IC設計、PCB載板及重電綠能等熱門族群首當其衝，多檔個股融資維持率跌破警戒線。",
+      "background": "台股近期大幅修正，引發融資追繳與斷頭壓力，多個熱門族群個股融資維持率跌破警戒線，恐引發二次賣壓。",
       "themeTags": [
         "循環位置"
       ]

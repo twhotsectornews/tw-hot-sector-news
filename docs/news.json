@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-31T13:57:32.425+08:00",
-  "generatedAt": "2026-07-31T05:57:32.425Z",
+  "asOf": "2026-07-31T14:02:03.938+08:00",
+  "generatedAt": "2026-07-31T06:02:03.938Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -182,8 +182,7 @@
         "7/30"
       ],
       "mentions": 3,
-      "limitUp": true,
-      "pct": 9.9
+      "limitUp": false
     },
     {
       "symbol": "8271",
@@ -338,8 +337,7 @@
         "7/28"
       ],
       "mentions": 2,
-      "limitUp": true,
-      "pct": 9.9
+      "limitUp": false
     },
     {
       "symbol": "8131",
@@ -407,8 +405,7 @@
           "symbol": "6274",
           "name": "台燿",
           "point": "外資看好前景，盤中強攻漲停板",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         }
       ],
       "background": "AI伺服器、通用伺服器、交換器、低軌衛星等高頻高速傳輸需求帶動高階銅箔基板供不應求，台光電與台燿挾技術優勢訂單滿手。",
@@ -471,15 +468,13 @@
           "symbol": "6147",
           "name": "頎邦",
           "point": "跟進漲停",
-          "limitUp": true,
-          "pct": 9.7
+          "limitUp": false
         },
         {
           "symbol": "3264",
           "name": "欣銓",
           "point": "跟進漲停",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "8131",
@@ -567,8 +562,7 @@
           "symbol": "5351",
           "name": "鈺創",
           "point": "IC設計廠直奔漲停",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "8110",
@@ -668,8 +662,7 @@
           "symbol": "6274",
           "name": "台燿",
           "point": "Q2獲利創歷史新高",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "3653",
