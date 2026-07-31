@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "updatedAt": "2026-07-31T06:02:03.934Z",
+  "updatedAt": "2026-07-31T08:34:44.185Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOWnotX0QwOG0wc0NOSDFyRmt6TjV3NngwSlhia3Z4ZlUzaUtlWHJDVE5Zd1pURGlHb2pubjNTSmRuNUVBTlNUaUlUcHdPYUU3R3E0VUtRWWtSX2tjVjMyVDlSUEFiU3dCcENZLTcwaUtnbVVxQ05hXzJnellzWkt3X3JRazdkWnB1",
@@ -91,7 +91,15 @@
           "symbol": "5347",
           "name": "世界先進",
           "point": "止跌反攻",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27",
+            "7/24"
+          ]
         }
       ],
       "background": "聯電法說會報喜，看好第三季晶圓出貨量成長，並積極布局矽光子及先進封裝。台積電第三季展望樂觀，帶動晶圓代工族群反彈。",
@@ -131,7 +139,15 @@
           "symbol": "5347",
           "name": "世界先進",
           "point": "止跌反攻",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27",
+            "7/24"
+          ]
         }
       ],
       "background": "聯電法說會報喜，看好第三季晶圓出貨量季增，AI營收貢獻與先進封裝成為新動能，帶動成熟製程晶圓代工廠反攻。台積電第三季展望樂觀，美元營收預計成長。",
@@ -337,7 +353,15 @@
           "symbol": "6274",
           "name": "台燿",
           "point": "上半年獲利再攀高",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27",
+            "7/24"
+          ]
         }
       ],
       "background": "銅箔基板（CCL）雙雄受惠於高階產品比重提高及材料升級趨勢，上半年獲利表現亮眼。AI伺服器對高階CCL需求持續增長。",

@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-07-31T14:02:03.938+08:00",
-  "generatedAt": "2026-07-31T06:02:03.938Z",
+  "asOf": "2026-07-31T16:34:44.192+08:00",
+  "generatedAt": "2026-07-31T08:34:44.192Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -182,7 +182,16 @@
         "7/30"
       ],
       "mentions": 3,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9,
+      "luw": 5,
+      "luwd": [
+        "7/30",
+        "7/29",
+        "7/28",
+        "7/27",
+        "7/24"
+      ]
     },
     {
       "symbol": "8271",
@@ -337,7 +346,16 @@
         "7/28"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9,
+      "luw": 5,
+      "luwd": [
+        "7/30",
+        "7/29",
+        "7/28",
+        "7/27",
+        "7/24"
+      ]
     },
     {
       "symbol": "8131",
@@ -405,7 +423,16 @@
           "symbol": "6274",
           "name": "台燿",
           "point": "外資看好前景，盤中強攻漲停板",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27",
+            "7/24"
+          ]
         }
       ],
       "background": "AI伺服器、通用伺服器、交換器、低軌衛星等高頻高速傳輸需求帶動高階銅箔基板供不應求，台光電與台燿挾技術優勢訂單滿手。",
@@ -468,13 +495,31 @@
           "symbol": "6147",
           "name": "頎邦",
           "point": "跟進漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.7,
+          "luw": 5,
+          "luwd": [
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27",
+            "7/24"
+          ]
         },
         {
           "symbol": "3264",
           "name": "欣銓",
           "point": "跟進漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27",
+            "7/24"
+          ]
         },
         {
           "symbol": "8131",
@@ -562,7 +607,16 @@
           "symbol": "5351",
           "name": "鈺創",
           "point": "IC設計廠直奔漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27",
+            "7/24"
+          ]
         },
         {
           "symbol": "8110",
@@ -638,7 +692,16 @@
           "symbol": "6292",
           "name": "迅德",
           "point": "Q2獲利創歷史新高",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 5,
+          "luwd": [
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27",
+            "7/24"
+          ]
         },
         {
           "symbol": "2451",
@@ -662,7 +725,16 @@
           "symbol": "6274",
           "name": "台燿",
           "point": "Q2獲利創歷史新高",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27",
+            "7/24"
+          ]
         },
         {
           "symbol": "3653",
@@ -760,6 +832,20 @@
       "themeTags": []
     },
     {
+      "gid": "CBMiWEFVX3lxTE5YUmtVV2t6X1BHd3NUX1VodV84bDZLejFqX2Q2LWcxSzNyd2N4V24wRGJBLTNoX0VtdlB2OWFpQWpFbkN0QUs2MVYzUDJjR3JXWURSYTJGeVk",
+      "tkey": "熱門族群ABF載板下半年再漲價明年供應缺口擴大",
+      "title": "熱門族群》ABF載板下半年再漲價 明年供應缺口擴大 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/t1rtewzfdvej",
+      "source": "自由時報",
+      "pubDate": "Thu, 30 Jul 2026 22:29:33 GMT",
+      "stocks": [],
+      "background": "ABF載板因AI、HPC等高階運算需求強勁，供應持續吃緊，預期下半年將再次漲價，明年供應缺口可能擴大。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxOWnotX0QwOG0wc0NOSDFyRmt6TjV3NngwSlhia3Z4ZlUzaUtlWHJDVE5Zd1pURGlHb2pubjNTSmRuNUVBTlNUaUlUcHdPYUU3R3E0VUtRWWtSX2tjVjMyVDlSUEFiU3dCcENZLTcwaUtnbVVxQ05hXzJnellzWkt3X3JRazdkWnB1",
       "tkey": "熱門族群聯電家族四燈獎！欣興先衝頂載板還有戲？",
       "title": "《熱門族群》聯電家族四燈獎！欣興先衝頂 載板還有戲？ - 富聯網",
@@ -848,7 +934,15 @@
           "symbol": "5347",
           "name": "世界先進",
           "point": "止跌反攻",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27",
+            "7/24"
+          ]
         }
       ],
       "background": "聯電法說會報喜，看好第三季晶圓出貨量成長，並積極布局矽光子及先進封裝。台積電第三季展望樂觀，帶動晶圓代工族群反彈。",
@@ -888,7 +982,15 @@
           "symbol": "5347",
           "name": "世界先進",
           "point": "止跌反攻",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27",
+            "7/24"
+          ]
         }
       ],
       "background": "聯電法說會報喜，看好第三季晶圓出貨量季增，AI營收貢獻與先進封裝成為新動能，帶動成熟製程晶圓代工廠反攻。台積電第三季展望樂觀，美元營收預計成長。",
@@ -1094,7 +1196,15 @@
           "symbol": "6274",
           "name": "台燿",
           "point": "上半年獲利再攀高",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27",
+            "7/24"
+          ]
         }
       ],
       "background": "銅箔基板（CCL）雙雄受惠於高階產品比重提高及材料升級趨勢，上半年獲利表現亮眼。AI伺服器對高階CCL需求持續增長。",
