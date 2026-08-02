@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "updatedAt": "2026-08-02T06:02:05.801Z",
+  "updatedAt": "2026-08-02T08:03:51.108Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTFBITlVYN0ZDUXk3c18tdzNzX2VIXzhhMUlpZ0pBLVpmMllMZGdIdlB3SzVySFRTVk9sREV5S2dHN0h6Wm8yVDRrUWpGZWtMWXpJeGJGbHFzZW0",
@@ -10,7 +10,7 @@
       "source": "自由時報",
       "pubDate": "Fri, 31 Jul 2026 11:42:09 GMT",
       "stocks": [],
-      "background": "AI ASIC訂單強勁，帶動矽智財族群蓄勢待發。隨著AI應用擴展，客製化晶片需求持續增長。",
+      "background": "AI ASIC訂單強勁，帶動矽智財族群成長，反映AI伺服器與高效能運算（HPC）需求持續增加。",
       "themeTags": [
         "需求驅動"
       ]
@@ -23,7 +23,7 @@
       "source": "自由時報",
       "pubDate": "Fri, 31 Jul 2026 11:21:54 GMT",
       "stocks": [],
-      "background": "輝達GTC大會推出新AI架構，預期將帶動AI伺服器散熱需求。散熱雙雄作為指標廠，有望受惠於新技術應用。",
+      "background": "輝達GTC大會發布新AI架構，預期將推升AI伺服器散熱需求，散熱雙雄可望受惠。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
@@ -49,7 +49,7 @@
         {
           "symbol": "3026",
           "name": "禾伸堂",
-          "point": "融資維持率掉到114.98％"
+          "point": "融資維持率跌到114.98％"
         },
         {
           "symbol": "2492",
@@ -237,7 +237,7 @@
           ]
         }
       ],
-      "background": "台股近期大幅修正，引發融資追繳與斷頭壓力，多個熱門族群如被動元件、AI供應鏈、IC設計、PCB載板及重電綠能皆受衝擊。",
+      "background": "台股近期大幅修正，引發融資追繳與斷頭壓力，多個熱門族群如被動元件、AI供應鏈、半導體、PCB及重電綠能等個股融資維持率跌破警戒線。",
       "themeTags": []
     },
     {
