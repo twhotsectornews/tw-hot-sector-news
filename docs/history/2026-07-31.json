@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "updatedAt": "2026-08-02T03:02:55.868Z",
+  "updatedAt": "2026-08-02T04:02:05.766Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTFBITlVYN0ZDUXk3c18tdzNzX2VIXzhhMUlpZ0pBLVpmMllMZGdIdlB3SzVySFRTVk9sREV5S2dHN0h6Wm8yVDRrUWpGZWtMWXpJeGJGbHFzZW0",
@@ -10,7 +10,7 @@
       "source": "自由時報",
       "pubDate": "Fri, 31 Jul 2026 11:42:09 GMT",
       "stocks": [],
-      "background": "AI ASIC訂單強勁，帶動矽智財族群需求，為AI晶片設計的關鍵環節，產業前景看好。",
+      "background": "AI ASIC訂單強勁，帶動矽智財族群成長。隨著AI應用擴展，對客製化晶片設計需求增加，矽智財扮演關鍵角色。",
       "themeTags": [
         "需求驅動"
       ]
@@ -23,11 +23,222 @@
       "source": "自由時報",
       "pubDate": "Fri, 31 Jul 2026 11:21:54 GMT",
       "stocks": [],
-      "background": "輝達GTC大會發布新AI架構，預期將帶動AI伺服器散熱需求，散熱雙雄受惠。",
+      "background": "輝達GTC大會推出新AI架構，預期將推升AI伺服器散熱需求。散熱技術是AI高效運算不可或缺的一環。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
       ]
+    },
+    {
+      "gid": "CBMiWkFVX3lxTE1pRXdBUkNhamxfaU5ianlPS2RfdklXYTZaTm1IZEc0NFRDaF93RE9BUnNJQzNVdjFDd0Z3ZmpHSnYzQ3ZPUlpJTThrTWdwYXV2bEtkOXZiUW01QdIBX0FVX3lxTE0wWE9rYzBmWlNETXVFYlMyNVZkeWZHYU81Rll5RlptbWVpTDdiaG40eG95ZUx2N2UwYVpxeHgyUkt5bXlpeGNpZ3FaWTRtc0tZd2taN3RuY1V2T2RLSURn",
+      "tkey": "台股回檔爆槓桿危機！929檔融資告急名單熱門族群個股曝光",
+      "title": "台股回檔爆槓桿危機！929檔「融資告急名單」熱門族群個股曝光 - 經濟日報",
+      "url": "https://money.udn.com/money/story/5607/9656781",
+      "source": "經濟日報",
+      "pubDate": "Fri, 31 Jul 2026 09:00:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "融資維持率滑落至117.78％",
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "point": "融資維持率掉到114.98％"
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "融資維持率降至102.65％",
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "6173",
+          "name": "信昌電",
+          "point": "融資維持率來到104.32％",
+          "luw": 5,
+          "luwd": [
+            "7/31",
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27"
+          ]
+        },
+        {
+          "symbol": "6127",
+          "name": "九豪",
+          "point": "融資維持率跌至102.72％"
+        },
+        {
+          "symbol": "8042",
+          "name": "金山電",
+          "point": "融資維持率落至114.82％",
+          "luw": 5,
+          "luwd": [
+            "7/31",
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27"
+          ]
+        },
+        {
+          "symbol": "5274",
+          "name": "信驊",
+          "point": "融資維持率跌破警戒線",
+          "luw": 5,
+          "luwd": [
+            "7/31",
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27"
+          ]
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "融資維持率降至139.16％",
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "point": "融資維持率落至134.24％"
+        },
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "point": "融資維持率來到141.52％",
+          "luw": 5,
+          "luwd": [
+            "7/31",
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27"
+          ]
+        },
+        {
+          "symbol": "2345",
+          "name": "智邦",
+          "point": "融資維持率為141.21％",
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "3013",
+          "name": "晟銘電",
+          "point": "融資維持率為115.39％"
+        },
+        {
+          "symbol": "1519",
+          "name": "華城",
+          "point": "融資維持率為137.05％"
+        },
+        {
+          "symbol": "1503",
+          "name": "士電",
+          "point": "融資維持率為139.65％"
+        },
+        {
+          "symbol": "3661",
+          "name": "世芯-KY",
+          "point": "融資維持率跌至125.35％",
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "2303",
+          "name": "聯電",
+          "point": "融資維持率降至128.28％",
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "6223",
+          "name": "旺矽",
+          "point": "融資維持率為140.63％",
+          "luw": 5,
+          "luwd": [
+            "7/31",
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27"
+          ]
+        },
+        {
+          "symbol": "6643",
+          "name": "M31",
+          "point": "融資維持率來到130.79％"
+        },
+        {
+          "symbol": "2313",
+          "name": "華通",
+          "point": "融資維持率跌至127.74％",
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "point": "融資維持率來到116.89％",
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "融資維持率為142.81％",
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "融資維持率為140.28％",
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "融資維持率為136.02％",
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
+        }
+      ],
+      "background": "台股近期大幅修正，引發融資追繳壓力，多個熱門族群如被動元件、AI供應鏈、半導體、PCB及重電股受衝擊，融資維持率跌破警戒線。",
+      "themeTags": []
     },
     {
       "gid": "CBMiiAFBVV95cUxPUi1VbldGSmxnTXJsMXhSTl84NzkxT2xIeFlnNHpvUEdqczRaTkNYdXhnX1FwUmVpNWZYbzJhM0drRlpfTkJmVV9HU1l0eVh0ck1yTDc2Zm14MWlpRGtWT2VGU3pKUGNrbXNJcEQweHlaTE1VaVJhUmJzclJuaWY3bVViR2tMQTdE",
