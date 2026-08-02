@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "updatedAt": "2026-08-02T09:41:44.176Z",
+  "updatedAt": "2026-08-02T10:41:29.225Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTFBITlVYN0ZDUXk3c18tdzNzX2VIXzhhMUlpZ0pBLVpmMllMZGdIdlB3SzVySFRTVk9sREV5S2dHN0h6Wm8yVDRrUWpGZWtMWXpJeGJGbHFzZW0",
@@ -10,10 +10,9 @@
       "source": "自由時報",
       "pubDate": "Fri, 31 Jul 2026 11:42:09 GMT",
       "stocks": [],
-      "background": "AI ASIC 訂單強勁，矽智財族群受惠於 AI 晶片設計需求，產業景氣復甦。",
+      "background": "AI ASIC訂單強勁，帶動矽智財族群需求，此為AI伺服器與高效能運算（HPC）發展的關鍵環節。",
       "themeTags": [
-        "需求驅動",
-        "循環位置"
+        "需求驅動"
       ]
     },
     {
@@ -24,7 +23,7 @@
       "source": "自由時報",
       "pubDate": "Fri, 31 Jul 2026 11:21:54 GMT",
       "stocks": [],
-      "background": "輝達 GTC 大會推出新 AI 架構，帶動 AI 伺服器散熱需求，散熱雙雄受惠。",
+      "background": "輝達GTC大會推出新AI架構，預期將推升AI伺服器散熱需求，散熱雙雄為台灣指標廠商。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
