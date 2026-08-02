@@ -1,30 +1,11 @@
 {
-  "asOf": "2026-08-01T19:47:50.908+08:00",
-  "generatedAt": "2026-08-01T11:47:50.908Z",
+  "asOf": "2026-08-02T11:02:55.874+08:00",
+  "generatedAt": "2026-08-02T03:02:55.874Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
-    {
-      "symbol": "3037",
-      "name": "欣興",
-      "days": 5,
-      "dates": [
-        "7/31",
-        "7/30",
-        "7/29",
-        "7/28",
-        "7/26"
-      ],
-      "mentions": 8,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 1,
-      "luwd": [
-        "7/31"
-      ]
-    },
     {
       "symbol": "2303",
       "name": "聯電",
@@ -62,32 +43,16 @@
       ]
     },
     {
-      "symbol": "8046",
-      "name": "南電",
-      "days": 4,
-      "dates": [
-        "7/30",
-        "7/28",
-        "7/27",
-        "7/26"
-      ],
-      "mentions": 7,
-      "luw": 1,
-      "luwd": [
-        "7/31"
-      ]
-    },
-    {
-      "symbol": "3189",
-      "name": "景碩",
+      "symbol": "3037",
+      "name": "欣興",
       "days": 4,
       "dates": [
         "7/31",
         "7/30",
-        "7/28",
-        "7/26"
+        "7/29",
+        "7/28"
       ],
-      "mentions": 6,
+      "mentions": 7,
       "limitUp": true,
       "pct": 9.9,
       "luw": 1,
@@ -146,6 +111,87 @@
       "pct": 9.5
     },
     {
+      "symbol": "2880",
+      "name": "華南金",
+      "days": 4,
+      "dates": [
+        "8/2",
+        "8/1",
+        "7/29",
+        "7/28"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -3.2,
+      "limitUp": false
+    },
+    {
+      "symbol": "8046",
+      "name": "南電",
+      "days": 3,
+      "dates": [
+        "7/30",
+        "7/28",
+        "7/27"
+      ],
+      "mentions": 6,
+      "luw": 1,
+      "luwd": [
+        "7/31"
+      ]
+    },
+    {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 3,
+      "dates": [
+        "8/1",
+        "7/30",
+        "7/29"
+      ],
+      "mentions": 5,
+      "status": "逼近新高",
+      "dist": -4.3,
+      "luw": 1,
+      "luwd": [
+        "7/31"
+      ]
+    },
+    {
+      "symbol": "3189",
+      "name": "景碩",
+      "days": 3,
+      "dates": [
+        "7/31",
+        "7/30",
+        "7/28"
+      ],
+      "mentions": 5,
+      "limitUp": true,
+      "pct": 9.9,
+      "luw": 1,
+      "luwd": [
+        "7/31"
+      ]
+    },
+    {
+      "symbol": "2357",
+      "name": "華碩",
+      "days": 3,
+      "dates": [
+        "8/1",
+        "7/30",
+        "7/29"
+      ],
+      "mentions": 4,
+      "status": "高檔修正",
+      "dist": -10.6,
+      "luw": 1,
+      "luwd": [
+        "7/31"
+      ]
+    },
+    {
       "symbol": "1526",
       "name": "瑞穎",
       "days": 3,
@@ -199,6 +245,78 @@
       "luwd": [
         "7/31"
       ]
+    },
+    {
+      "symbol": "2618",
+      "name": "長榮航",
+      "days": 2,
+      "dates": [
+        "8/1",
+        "7/29"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -3.8
+    },
+    {
+      "symbol": "2888",
+      "name": "新光金",
+      "days": 2,
+      "dates": [
+        "8/1",
+        "7/28"
+      ],
+      "mentions": 3
+    },
+    {
+      "symbol": "2890",
+      "name": "永豐金",
+      "days": 2,
+      "dates": [
+        "8/1",
+        "7/28"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -2.1
+    },
+    {
+      "symbol": "3231",
+      "name": "緯創",
+      "days": 2,
+      "dates": [
+        "8/1",
+        "7/29"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -9.2,
+      "luw": 1,
+      "luwd": [
+        "7/31"
+      ]
+    },
+    {
+      "symbol": "2885",
+      "name": "元大金",
+      "days": 2,
+      "dates": [
+        "8/1",
+        "7/28"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -5.8
+    },
+    {
+      "symbol": "2610",
+      "name": "華航",
+      "days": 2,
+      "dates": [
+        "8/1",
+        "7/29"
+      ],
+      "mentions": 3
     },
     {
       "symbol": "2383",
@@ -270,37 +388,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2454",
-      "name": "聯發科",
-      "days": 2,
-      "dates": [
-        "7/30",
-        "7/26"
-      ],
-      "mentions": 3,
-      "luw": 1,
-      "luwd": [
-        "7/31"
-      ]
-    },
-    {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 2,
-      "dates": [
-        "7/30",
-        "7/29"
-      ],
-      "mentions": 3,
-      "status": "高檔修正",
-      "dist": -12,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/31"
-      ]
-    },
-    {
       "symbol": "1203",
       "name": "味王",
       "days": 2,
@@ -345,1633 +432,316 @@
       "status": "逼近新高",
       "dist": -10,
       "limitUp": false
-    },
-    {
-      "symbol": "1215",
-      "name": "卜蜂",
-      "days": 2,
-      "dates": [
-        "7/30",
-        "7/29"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "1227",
-      "name": "佳格",
-      "days": 2,
-      "dates": [
-        "7/30",
-        "7/29"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "1210",
-      "name": "大成",
-      "days": 2,
-      "dates": [
-        "7/30",
-        "7/29"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -9.7,
-      "limitUp": false
-    },
-    {
-      "symbol": "2356",
-      "name": "英業達",
-      "days": 2,
-      "dates": [
-        "7/30",
-        "7/29"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "4976",
-      "name": "佳凌",
-      "days": 2,
-      "dates": [
-        "7/29",
-        "7/28"
-      ],
-      "mentions": 3,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 2,
-      "luwd": [
-        "7/29",
-        "7/27"
-      ]
-    },
-    {
-      "symbol": "3264",
-      "name": "欣銓",
-      "days": 2,
-      "dates": [
-        "7/31",
-        "7/28"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 5,
-      "luwd": [
-        "7/31",
-        "7/30",
-        "7/29",
-        "7/28",
-        "7/27"
-      ]
-    },
-    {
-      "symbol": "8131",
-      "name": "福懋科",
-      "days": 2,
-      "dates": [
-        "7/31",
-        "7/27"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 1,
-      "luwd": [
-        "7/31"
-      ]
     }
   ],
   "news": [
     {
-      "gid": "CBMiWEFVX3lxTFBITlVYN0ZDUXk3c18tdzNzX2VIXzhhMUlpZ0pBLVpmMllMZGdIdlB3SzVySFRTVk9sREV5S2dHN0h6Wm8yVDRrUWpGZWtMWXpJeGJGbHFzZW0",
-      "tkey": "熱門族群AIASIC訂單強勁矽智財族群蓄勢待發",
-      "title": "熱門族群》AI ASIC訂單強勁 矽智財族群蓄勢待發 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/ubmjyhj3tbmq",
-      "source": "自由時報",
-      "pubDate": "Fri, 31 Jul 2026 11:42:09 GMT",
-      "stocks": [],
-      "background": "AI ASIC訂單強勁，帶動矽智財族群需求，為AI晶片設計的關鍵環節，產業前景看好。",
+      "gid": "CBMiZEFVX3lxTE9ISVZ3akQ0WU9xeFFIdEU4bUJTaUUwQ0c5eExWU294R0hBaWJkWTVKTXJ2ZlJZRnk4VE02UlVGNzAtckR3VzJjeE5oYlRvREcwa00tX1Vvb01KMzVteDRaeXFuX2s",
+      "tkey": "熱門族群金融股強勢防禦台股震盪中流砥柱",
+      "title": "熱門族群》 金融股強勢防禦 台股震盪中流砥柱 - 自由財經",
+      "url": "https://ec.ltn.com.tw/amp/article/breakingnews/5524842",
+      "source": "自由財經",
+      "pubDate": "Sat, 01 Aug 2026 23:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2886",
+          "name": "兆豐金",
+          "point": "三大法人買超逾1萬張，股價創26年新高",
+          "status": "逼近新高",
+          "dist": -1.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "2880",
+          "name": "華南金",
+          "point": "股價上漲超過7%",
+          "status": "逼近新高",
+          "dist": -3.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "2892",
+          "name": "第一金",
+          "point": "股價上漲超過7%",
+          "status": "創新高",
+          "dist": -0.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "5880",
+          "name": "合庫金",
+          "point": "法人買超逾11萬張",
+          "status": "創新高",
+          "dist": -0.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "2889",
+          "name": "國票金",
+          "point": "法人未買超逾1萬張",
+          "limitUp": false
+        }
+      ],
+      "background": "金融股在台股震盪時具備防禦性，受惠於高利率環境下淨利差穩健成長，且具備高殖利率與配息確定性。",
       "themeTags": [
         "需求驅動"
       ]
     },
     {
-      "gid": "CBMiWEFVX3lxTFB5emZNY0M4dF9BX2ZwN3lUSEw4OHE1VVBKZkM3bXVBak1xamNtUy05MVhCUloxRV95Zm94ZGFWTUFWMHE2aV9GUlVTLUVibmI3UDY2WGZUaEw",
-      "tkey": "熱門族群輝達GTC新AI架構散熱雙雄帶頭衝",
-      "title": "熱門族群》輝達GTC新AI架構 散熱雙雄帶頭衝 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/ytvagrc0sscc",
+      "gid": "CBMiWEFVX3lxTE5jWUJSakZESUQ3TXIxa3g5dGp3Y1ZobUtyTkEtTE9JeXVUMWEzOUJtWlEybEtyYTZqOEk0QXlQVDVXdXN2eHgzQzhBdWJGQmdZVUpuUjh6cmo",
+      "tkey": "熱門族群AI產業鏈跌一跤紡織股扮撐盤要角",
+      "title": "熱門族群》AI產業鏈跌一跤 紡織股扮撐盤要角 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/nfkvsvqghrjy",
       "source": "自由時報",
-      "pubDate": "Fri, 31 Jul 2026 11:21:54 GMT",
+      "pubDate": "Sat, 01 Aug 2026 22:02:33 GMT",
       "stocks": [],
-      "background": "輝達GTC大會發布新AI架構，預期將帶動AI伺服器散熱需求，散熱雙雄受惠。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxPUi1VbldGSmxnTXJsMXhSTl84NzkxT2xIeFlnNHpvUEdqczRaTkNYdXhnX1FwUmVpNWZYbzJhM0drRlpfTkJmVV9HU1l0eVh0ck1yTDc2Zm14MWlpRGtWT2VGU3pKUGNrbXNJcEQweHlaTE1VaVJhUmJzclJuaWY3bVViR2tMQTdE",
-      "tkey": "熱門族群外資看好前景台光電、台燿聯袂攻頂",
-      "title": "《熱門族群》外資看好前景 台光電、台燿聯袂攻頂 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6255283001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Fri, 31 Jul 2026 03:47:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2383",
-          "name": "台光電",
-          "point": "外資看好前景，盤中強攻漲停板",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "6274",
-          "name": "台燿",
-          "point": "外資看好前景，盤中強攻漲停板",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "7/31",
-            "7/30",
-            "7/29",
-            "7/28",
-            "7/27"
-          ]
-        }
-      ],
-      "background": "AI伺服器、通用伺服器、交換器、低軌衛星等高頻高速傳輸需求帶動高階銅箔基板供不應求，台光電與台燿挾技術優勢訂單滿手。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxOal9kZHZFT0RiU1pkWHFfSGRJYUlqVHJDRTFTNF9OV0gybTdtdjJDRTJlMEtVbnhESVoxVmpZamxMVnd4dGI4NVItZm9ianBKXzZGbTBkYXZPNV9YR2QwNmZCT3kzOGRZT0x1cFI0TEZJVVpnNjJRMzRCaTB3QXZnRmV1Sml4RUQ0",
-      "tkey": "熱門族群台股狂噴3000點！日月光鎖漲停照亮封測全村紅通通",
-      "title": "《熱門族群》台股狂噴3000點！日月光鎖漲停 照亮封測全村紅通通 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6255277001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Fri, 31 Jul 2026 03:45:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3711",
-          "name": "日月光投控",
-          "point": "亮眼財報獲外資喊上800元，鎖漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "2449",
-          "name": "京元電子",
-          "point": "跟進漲停，加碼AI布局",
-          "limitUp": true,
-          "pct": 9.8,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "6239",
-          "name": "力成",
-          "point": "跟進漲停，獲利穩健向上",
-          "limitUp": true,
-          "pct": 9.8,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "8150",
-          "name": "南茂",
-          "point": "跟進漲停",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "8110",
-          "name": "華東",
-          "point": "跟進漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "3189",
-          "name": "景碩",
-          "point": "跟進漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "6147",
-          "name": "頎邦",
-          "point": "跟進漲停",
-          "limitUp": true,
-          "pct": 9.7,
-          "luw": 5,
-          "luwd": [
-            "7/31",
-            "7/30",
-            "7/29",
-            "7/28",
-            "7/27"
-          ]
-        },
-        {
-          "symbol": "3264",
-          "name": "欣銓",
-          "point": "跟進漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "7/31",
-            "7/30",
-            "7/29",
-            "7/28",
-            "7/27"
-          ]
-        },
-        {
-          "symbol": "8131",
-          "name": "福懋科",
-          "point": "跟進漲停",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        }
-      ],
-      "background": "AI需求強勁帶動先進封裝與CPO技術發展，日月光等台廠擴大資本支出，鞏固全球關鍵地位，產業景氣復甦。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxOM1JzT0poQWxTejhjdkp1YW9ocmhBR1NoM0t1LVN5d0hsSEFwalR3LUQxQVJ5bmZKMUZvWjBVNWY4dGI4SWdnampDZnV1VlZjczdtcjNUNno2eUNNRERCWXMxbmJTaVBKdFgxMmY4Y2hMeE9ycHlVU3VqbWY4WmVTVkZhM01uMXBh",
-      "tkey": "熱門族群記憶體族群全面噴出DRAM雙雄領軍攻頂",
-      "title": "《熱門族群》記憶體族群全面噴出 DRAM雙雄領軍攻頂 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6255164001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Fri, 31 Jul 2026 02:10:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2408",
-          "name": "南亞科",
-          "point": "DRAM雙雄領軍攻頂",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "2344",
-          "name": "華邦電",
-          "point": "DRAM雙雄領軍攻頂",
-          "limitUp": true,
-          "pct": 9.7,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "2337",
-          "name": "旺宏",
-          "point": "開盤聯袂攻頂",
-          "limitUp": true,
-          "pct": 9.5
-        },
-        {
-          "symbol": "6770",
-          "name": "力積電",
-          "point": "開盤聯袂攻頂",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "3260",
-          "name": "威剛",
-          "point": "模組廠聯袂強彈",
-          "limitUp": false
-        },
-        {
-          "symbol": "2451",
-          "name": "創見",
-          "point": "模組廠聯袂強彈",
-          "limitUp": false
-        },
-        {
-          "symbol": "8271",
-          "name": "宇瞻",
-          "point": "模組廠聯袂強彈",
-          "limitUp": false
-        },
-        {
-          "symbol": "4967",
-          "name": "十銓",
-          "point": "模組廠聯袂強彈",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "3006",
-          "name": "晶豪科",
-          "point": "IC設計廠直奔漲停",
-          "limitUp": true,
-          "pct": 9.8,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "5351",
-          "name": "鈺創",
-          "point": "IC設計廠直奔漲停",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "7/31",
-            "7/30",
-            "7/29",
-            "7/28",
-            "7/27"
-          ]
-        },
-        {
-          "symbol": "8110",
-          "name": "華東",
-          "point": "封測廠聯袂大漲",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "8150",
-          "name": "南茂",
-          "point": "封測廠聯袂大漲",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "6239",
-          "name": "力成",
-          "point": "封測廠聯袂大漲",
-          "limitUp": true,
-          "pct": 9.8,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        }
-      ],
-      "background": "記憶體族群受AI需求強勁帶動，DRAM供不應求報價大漲，國際大廠美光、SK海力士、三星電子股價強彈，產業景氣復甦。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxPS0JzaWxSbmlIU3RpdTBfWG43MUl6YW5UWGZibmliUHNIeUhUNm9jWGU1bzJPUE9SSlJLdkZWd3VCeGJKOXNSNUZKS2tkVER1QnMtQkx1THVPcWtQNzU0YWh1bFZHaUtfUXFfN2lTcDlwTWMtSFZmdEJta0tjZEJ1SlpkX1pQcHBs",
-      "tkey": "熱門族群16檔Q2獲利創高股拚翻身",
-      "title": "《熱門族群》16檔Q2獲利創高股 拚翻身 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6254857001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Fri, 31 Jul 2026 00:02:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2303",
-          "name": "聯電",
-          "point": "Q2獲利創高股領軍",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "2383",
-          "name": "台光電",
-          "point": "Q2獲利創高股領軍",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "3037",
-          "name": "欣興",
-          "point": "Q2獲利創高股領軍",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "6552",
-          "name": "勝一",
-          "point": "Q2獲利創歷史新高",
-          "limitUp": false
-        },
-        {
-          "symbol": "2308",
-          "name": "台達電",
-          "point": "Q2獲利創歷史新高",
-          "limitUp": false
-        },
-        {
-          "symbol": "6292",
-          "name": "迅德",
-          "point": "Q2獲利創歷史新高",
-          "limitUp": true,
-          "pct": 9.8,
-          "luw": 5,
-          "luwd": [
-            "7/31",
-            "7/30",
-            "7/29",
-            "7/28",
-            "7/27"
-          ]
-        },
-        {
-          "symbol": "2451",
-          "name": "創見",
-          "point": "Q2獲利創歷史新高",
-          "limitUp": false
-        },
-        {
-          "symbol": "6224",
-          "name": "立萬利",
-          "point": "Q2獲利創歷史新高",
-          "limitUp": false
-        },
-        {
-          "symbol": "6271",
-          "name": "欣銓",
-          "point": "Q2獲利創歷史新高",
-          "limitUp": false
-        },
-        {
-          "symbol": "6274",
-          "name": "台燿",
-          "point": "Q2獲利創歷史新高",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "7/31",
-            "7/30",
-            "7/29",
-            "7/28",
-            "7/27"
-          ]
-        },
-        {
-          "symbol": "3653",
-          "name": "精測",
-          "point": "Q2獲利創歷史新高",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "1734",
-          "name": "台鎔",
-          "point": "Q2獲利創歷史新高",
-          "limitUp": false
-        },
-        {
-          "symbol": "6270",
-          "name": "天二科技",
-          "point": "Q2獲利創歷史新高",
-          "limitUp": false
-        },
-        {
-          "symbol": "3006",
-          "name": "晶豪科",
-          "point": "Q2獲利創歷史新高",
-          "limitUp": true,
-          "pct": 9.8,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "1526",
-          "name": "瑞穎",
-          "point": "Q2獲利創歷史新高",
-          "limitUp": false,
-          "luw": 2,
-          "luwd": [
-            "7/29",
-            "7/27"
-          ]
-        },
-        {
-          "symbol": "8271",
-          "name": "宇瞻",
-          "point": "Q2獲利創歷史新高",
-          "limitUp": false
-        }
-      ],
-      "background": "台股半年報結算期，多檔個股第二季獲利創歷史新高，顯示公司基本面穩健，有助於在市場波動時提供支撐。",
+      "background": "在AI產業鏈面臨修正之際，紡織股因其相對穩定的特性，成為台股的撐盤要角。",
       "themeTags": []
     },
     {
-      "gid": "CBMiiAFBVV95cUxPS1BSNW5YdnY2UE5lbzZrNlFfVExDaTc5N0I3OUdKR0NXTnlZMEVtMXlibG12WFViRWhlSDRVc2pwdEJNQ3gzNHU1dUtIM3pjcVh1R201MEVqTVZVaDhMYi03d25wUzA3OXNrY2FPTDkzZzZ0XzdPQW1SaHJVd1U5dGItcjVVczM0",
-      "tkey": "熱門族群營運穩美時、統一超成避風港",
-      "title": "《熱門族群》營運穩 美時、統一超成避風港 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6254867001&PU=1002",
+      "gid": "CBMiiAFBVV95cUxONl9KWXIzajZBa3NCQTBmVFBuM2pnZTJhT1dFMjIyTUF2Wl80TVFuUVBWSUMtVzd4eWcxRk1pOHVMMVBlNGFvdmtXbzVIOWNXVm9lTjdKcnk0cWprc1l3WjdpelRPN2R1VngzemhqVzBpTzVmMkdFMUZOa0RBSzQwSTE1V1lBdzdk",
+      "tkey": "熱門族群搶先站穩季線股衝鋒要角",
+      "title": "《熱門族群》搶先站穩季線股 衝鋒要角 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6256200001&PU=1002",
       "source": "富聯網",
-      "pubDate": "Fri, 31 Jul 2026 00:02:00 GMT",
+      "pubDate": "Sat, 01 Aug 2026 09:00:00 GMT",
       "stocks": [
-        {
-          "symbol": "1795",
-          "name": "美時",
-          "point": "新品下半年將陸續取證上市",
-          "limitUp": false
-        },
-        {
-          "symbol": "2912",
-          "name": "統一超",
-          "point": "積極展店策略提升市占率",
-          "limitUp": false
-        }
-      ],
-      "background": "在科技股回檔之際，非科技股因營運穩健成為避風港。美時受惠新品上市與再融資計畫，統一超則透過展店策略提升市占。",
-      "themeTags": []
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxPWVFST3JhenVMYWVSRThiQ1B5SDhzQ0QwbDRKcDlIcUJGWlNyTnlsOGpxczRqQlBEQWY2QmY4VEFlSWZXcWlZOHVsWVcyR3FVQldWa09xSGpXY2padmdKWjBNNy1ORXJVNFVBbXBYY3BfbTh1b1hEVVFUdkNUblo3RGsxNGVjVkFr",
-      "tkey": "熱門族群迎旺季成衣雙雄Q3營運俏",
-      "title": "《熱門族群》迎旺季 成衣雙雄Q3營運俏 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6254861001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Fri, 31 Jul 2026 00:02:00 GMT",
-      "stocks": [
-        {
-          "symbol": "1476",
-          "name": "儒鴻",
-          "point": "第三季營運將攀全年最高峰",
-          "limitUp": false
-        },
-        {
-          "symbol": "1477",
-          "name": "聚陽",
-          "point": "第三季營運將攀全年最高峰",
-          "limitUp": false
-        }
-      ],
-      "background": "成衣廠進入傳統高單價服飾出貨旺季，加上新客戶訂單加持，產能利用率維持高檔，營運可望攀升。",
-      "themeTags": []
-    },
-    {
-      "gid": "CBMiWEFVX3lxTE5YUmtVV2t6X1BHd3NUX1VodV84bDZLejFqX2Q2LWcxSzNyd2N4V24wRGJBLTNoX0VtdlB2OWFpQWpFbkN0QUs2MVYzUDJjR3JXWURSYTJGeVk",
-      "tkey": "熱門族群ABF載板下半年再漲價明年供應缺口擴大",
-      "title": "熱門族群》ABF載板下半年再漲價 明年供應缺口擴大 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/t1rtewzfdvej",
-      "source": "自由時報",
-      "pubDate": "Thu, 30 Jul 2026 22:29:33 GMT",
-      "stocks": [],
-      "background": "ABF載板因AI、HPC等高階運算需求強勁，供應持續吃緊，預期下半年將再次漲價，明年供應缺口可能擴大。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiWkFVX3lxTE1pRXdBUkNhamxfaU5ianlPS2RfdklXYTZaTm1IZEc0NFRDaF93RE9BUnNJQzNVdjFDd0Z3ZmpHSnYzQ3ZPUlpJTThrTWdwYXV2bEtkOXZiUW01QQ",
-      "tkey": "台股回檔爆槓桿危機！929檔融資告急名單熱門族群個股曝光|市場焦點|證券",
-      "title": "台股回檔爆槓桿危機！929檔「融資告急名單」熱門族群個股曝光 | 市場焦點 | 證券 - 經濟日報",
-      "url": "https://money.udn.com/money/story/5607/9656781",
-      "source": "經濟日報",
-      "pubDate": "Thu, 30 Jul 2026 09:00:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2327",
-          "name": "國巨",
-          "point": "融資維持率滑落至117.78％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "3026",
-          "name": "禾伸堂",
-          "point": "融資維持率掉到114.98％"
-        },
-        {
-          "symbol": "2492",
-          "name": "華新科",
-          "point": "融資維持率降至102.65％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "6173",
-          "name": "信昌電",
-          "point": "融資維持率來到104.32％",
-          "luw": 5,
-          "luwd": [
-            "7/31",
-            "7/30",
-            "7/29",
-            "7/28",
-            "7/27"
-          ]
-        },
-        {
-          "symbol": "6127",
-          "name": "九豪",
-          "point": "融資維持率跌至102.72％"
-        },
-        {
-          "symbol": "8042",
-          "name": "金山電",
-          "point": "融資維持率落至114.82％",
-          "luw": 5,
-          "luwd": [
-            "7/31",
-            "7/30",
-            "7/29",
-            "7/28",
-            "7/27"
-          ]
-        },
-        {
-          "symbol": "5274",
-          "name": "信驊",
-          "point": "融資維持率跌破警戒線來到144.57％",
-          "luw": 5,
-          "luwd": [
-            "7/31",
-            "7/30",
-            "7/29",
-            "7/28",
-            "7/27"
-          ]
-        },
-        {
-          "symbol": "2454",
-          "name": "聯發科",
-          "point": "融資維持率降至139.16％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "2308",
-          "name": "台達電",
-          "point": "融資維持率落至134.24％"
-        },
-        {
-          "symbol": "3324",
-          "name": "雙鴻",
-          "point": "融資維持率來到141.52％",
-          "luw": 5,
-          "luwd": [
-            "7/31",
-            "7/30",
-            "7/29",
-            "7/28",
-            "7/27"
-          ]
-        },
-        {
-          "symbol": "2345",
-          "name": "智邦",
-          "point": "融資維持率為141.21％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "3013",
-          "name": "晟銘電",
-          "point": "融資維持率為115.39％"
-        },
-        {
-          "symbol": "1519",
-          "name": "華城",
-          "point": "融資維持率為137.05％"
-        },
-        {
-          "symbol": "1503",
-          "name": "士電",
-          "point": "融資維持率為139.65％"
-        },
-        {
-          "symbol": "3661",
-          "name": "世芯-KY",
-          "point": "融資維持率跌至125.35％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "2303",
-          "name": "聯電",
-          "point": "融資維持率降至128.28％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "6223",
-          "name": "旺矽",
-          "point": "融資維持率為140.63％",
-          "luw": 5,
-          "luwd": [
-            "7/31",
-            "7/30",
-            "7/29",
-            "7/28",
-            "7/27"
-          ]
-        },
-        {
-          "symbol": "6643",
-          "name": "M31",
-          "point": "融資維持率來到130.79％"
-        },
-        {
-          "symbol": "2313",
-          "name": "華通",
-          "point": "融資維持率跌至127.74％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "2368",
-          "name": "金像電",
-          "point": "融資維持率來到116.89％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "3037",
-          "name": "欣興",
-          "point": "融資維持率為142.81％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "3189",
-          "name": "景碩",
-          "point": "融資維持率為140.28％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "8046",
-          "name": "南電",
-          "point": "融資維持率為136.02％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        }
-      ],
-      "background": "台股近期大幅修正，引爆融資追繳與斷頭壓力，多檔熱門族群個股融資維持率跌破警戒線，市場面臨籌碼清洗與二次賣壓風險。",
-      "themeTags": [
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiWkFVX3lxTE1pRXdBUkNhamxfaU5ianlPS2RfdklXYTZaTm1IZEc0NFRDaF93RE9BUnNJQzNVdjFDd0Z3ZmpHSnYzQ3ZPUlpJTThrTWdwYXV2bEtkOXZiUW01QdIBX0FVX3lxTE0wWE9rYzBmWlNETXVFYlMyNVZkeWZHYU81Rll5RlptbWVpTDdiaG40eG95ZUx2N2UwYVpxeHgyUkt5bXlpeGNpZ3FaWTRtc0tZd2taN3RuY1V2T2RLSURn",
-      "tkey": "台股回檔爆槓桿危機！929檔融資告急名單熱門族群個股曝光",
-      "title": "台股回檔爆槓桿危機！929檔「融資告急名單」熱門族群個股曝光 - 經濟日報",
-      "url": "https://money.udn.com/money/story/5607/9656781",
-      "source": "經濟日報",
-      "pubDate": "Thu, 30 Jul 2026 09:00:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2327",
-          "name": "國巨",
-          "point": "融資維持率滑落至117.78％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "3026",
-          "name": "禾伸堂",
-          "point": "融資維持率掉到114.98％"
-        },
-        {
-          "symbol": "2492",
-          "name": "華新科",
-          "point": "融資維持率降至102.65％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "6173",
-          "name": "信昌電",
-          "point": "融資維持率來到104.32％",
-          "luw": 5,
-          "luwd": [
-            "7/31",
-            "7/30",
-            "7/29",
-            "7/28",
-            "7/27"
-          ]
-        },
-        {
-          "symbol": "6127",
-          "name": "九豪",
-          "point": "融資維持率跌至102.72％"
-        },
-        {
-          "symbol": "8042",
-          "name": "金山電",
-          "point": "融資維持率落至114.82％",
-          "luw": 5,
-          "luwd": [
-            "7/31",
-            "7/30",
-            "7/29",
-            "7/28",
-            "7/27"
-          ]
-        },
-        {
-          "symbol": "5274",
-          "name": "信驊",
-          "point": "融資維持率跌破警戒線來到144.57％",
-          "luw": 5,
-          "luwd": [
-            "7/31",
-            "7/30",
-            "7/29",
-            "7/28",
-            "7/27"
-          ]
-        },
-        {
-          "symbol": "2454",
-          "name": "聯發科",
-          "point": "融資維持率降至139.16％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "2308",
-          "name": "台達電",
-          "point": "融資維持率落至134.24％"
-        },
-        {
-          "symbol": "3324",
-          "name": "雙鴻",
-          "point": "融資維持率來到141.52％",
-          "luw": 5,
-          "luwd": [
-            "7/31",
-            "7/30",
-            "7/29",
-            "7/28",
-            "7/27"
-          ]
-        },
-        {
-          "symbol": "2345",
-          "name": "智邦",
-          "point": "融資維持率為141.21％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "3013",
-          "name": "晟銘電",
-          "point": "融資維持率為115.39％"
-        },
-        {
-          "symbol": "1519",
-          "name": "華城",
-          "point": "融資維持率為137.05％"
-        },
-        {
-          "symbol": "1503",
-          "name": "士電",
-          "point": "融資維持率為139.65％"
-        },
-        {
-          "symbol": "3661",
-          "name": "世芯-KY",
-          "point": "融資維持率跌至125.35％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "2303",
-          "name": "聯電",
-          "point": "融資維持率降至128.28％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "6223",
-          "name": "旺矽",
-          "point": "融資維持率為140.63％",
-          "luw": 5,
-          "luwd": [
-            "7/31",
-            "7/30",
-            "7/29",
-            "7/28",
-            "7/27"
-          ]
-        },
-        {
-          "symbol": "6643",
-          "name": "M31",
-          "point": "融資維持率來到130.79％"
-        },
-        {
-          "symbol": "2313",
-          "name": "華通",
-          "point": "融資維持率跌至127.74％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "2368",
-          "name": "金像電",
-          "point": "融資維持率來到116.89％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "3037",
-          "name": "欣興",
-          "point": "融資維持率為142.81％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "3189",
-          "name": "景碩",
-          "point": "融資維持率為140.28％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "8046",
-          "name": "南電",
-          "point": "融資維持率為136.02％",
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        }
-      ],
-      "background": "台股回檔引爆融資追繳危機，多檔熱門族群個股融資維持率跌破警戒線，恐引發二次賣壓。",
-      "themeTags": []
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxOWnotX0QwOG0wc0NOSDFyRmt6TjV3NngwSlhia3Z4ZlUzaUtlWHJDVE5Zd1pURGlHb2pubjNTSmRuNUVBTlNUaUlUcHdPYUU3R3E0VUtRWWtSX2tjVjMyVDlSUEFiU3dCcENZLTcwaUtnbVVxQ05hXzJnellzWkt3X3JRazdkWnB1",
-      "tkey": "熱門族群聯電家族四燈獎！欣興先衝頂載板還有戲？",
-      "title": "《熱門族群》聯電家族四燈獎！欣興先衝頂 載板還有戲？ - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6253973001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Thu, 30 Jul 2026 03:31:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2303",
-          "name": "聯電",
-          "point": "同獲買盤敲進亮燈攻頂",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "3037",
-          "name": "欣興",
-          "point": "率先表態力撐半年線，亮燈漲停",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "6202",
-          "name": "盛群",
-          "point": "同獲買盤敲進亮燈攻頂",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "3094",
-          "name": "聯傑",
-          "point": "同獲買盤敲進亮燈攻頂",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "3189",
-          "name": "景碩",
-          "point": "跟進急拉觸頂",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "8046",
-          "name": "南電",
-          "point": "跟進翻揚",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "4958",
-          "name": "臻鼎-KY",
-          "point": "震盪翻黑相對弱勢",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        }
-      ],
-      "background": "載板產業受惠AI及高速運算產品需求提升，ABF及BT載板報價漲幅擴大，稼動率走升，產業營運焦點轉向產品組合與接單結構。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMikgFBVV95cUxPWExvdXFDTmZaMHdOdU54ZlprNDltLXIzVXgwa3lEWE9HVVBTTWJuU0xDSjZxbS01V0lScGJwbG1VQVNnYmQ5ZjJNQlFaX21idTdHbkdBRWRJT29EMlg0V3NrR05PRVJuejBTYmc0VE5qVE0yM3JSVUxTcEVpZmNQR3ZkWG9aRGRBaUZ4QXRESjMzZw",
-      "tkey": "熱門族群聯電點火！台積電回穩領軍反彈千點",
-      "title": "《熱門族群》聯電點火！ 台積電回穩領軍反彈千點 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6253891001&pu=News_0002_3",
-      "source": "富聯網",
-      "pubDate": "Thu, 30 Jul 2026 02:21:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2303",
-          "name": "聯電",
-          "point": "法說會報喜急拉漲停",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
         {
           "symbol": "2330",
           "name": "台積電",
-          "point": "股價止跌反彈",
-          "status": "高檔修正",
-          "dist": -12,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "6770",
-          "name": "力積電",
-          "point": "止跌反攻",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "5347",
-          "name": "世界先進",
-          "point": "止跌反攻",
-          "limitUp": false,
-          "luw": 5,
-          "luwd": [
-            "7/31",
-            "7/30",
-            "7/29",
-            "7/28",
-            "7/27"
-          ]
-        }
-      ],
-      "background": "聯電法說會報喜，看好第三季晶圓出貨量成長，並積極布局矽光子及先進封裝。台積電第三季展望樂觀，帶動晶圓代工族群反彈。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxQTDhNQUlHbHc3aFA3c2tvd2RjNDhjdWpKXzFnVGhqTXFoeWVUMlAwWmRrRDlVQzlDSFQ0WUtiMTI4R183cU0xQmEyazU5TXJXcHJCRFFEMlMzazRPb1FWd2dWTGloSy1laTVzNWFfU0VuQnZMQkpyNVNoREE3Q19VbHdRQ2JiN2Zx",
-      "tkey": "熱門族群聯電點火！台積電回穩領軍反彈千點-ww2.money",
-      "title": "《熱門族群》聯電點火！ 台積電回穩領軍反彈千點 - ww2.money-link.com.tw",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6253891001&PU=1002",
-      "source": "ww2.money-link.com.tw",
-      "pubDate": "Thu, 30 Jul 2026 02:21:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2303",
-          "name": "聯電",
-          "point": "法說會報喜急拉漲停",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "2330",
-          "name": "台積電",
-          "point": "股價止跌反彈領軍反攻",
-          "status": "高檔修正",
-          "dist": -13,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "6770",
-          "name": "力積電",
-          "point": "止跌反攻",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "7/31"
-          ]
-        },
-        {
-          "symbol": "5347",
-          "name": "世界先進",
-          "point": "止跌反攻",
-          "limitUp": false,
-          "luw": 5,
-          "luwd": [
-            "7/31",
-            "7/30",
-            "7/29",
-            "7/28",
-            "7/27"
-          ]
-        }
-      ],
-      "background": "聯電法說會報喜，看好第三季晶圓出貨量季增，AI營收貢獻與先進封裝成為新動能，帶動成熟製程晶圓代工廠反攻。台積電第三季展望樂觀，美元營收預計成長。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNNjVmdHU5RS1qcnd2Nk96UmhlZTk3bFQxM1lvWWRDOHh4ZXNVWGxxcFZ0VV9Vd2xWRFhNbi01MUpfdXptaTlkMFRGeHN4bnJ0aURwN2p1WW05dEtPbWdXSnBJbk5Famd4Tlg2OEdQMWU3czYxbEk0MzhFcFpIR0wtQndFN0FlOF9r",
-      "tkey": "熱門族群迎500億商機普渡概念股拉紅盤",
-      "title": "《熱門族群》迎500億商機 普渡概念股拉紅盤 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6253636001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Thu, 30 Jul 2026 00:04:00 GMT",
-      "stocks": [
-        {
-          "symbol": "1203",
-          "name": "味王",
-          "point": "領頭點火",
-          "limitUp": false
-        },
-        {
-          "symbol": "2912",
-          "name": "統一超",
-          "point": "領頭點火",
-          "limitUp": false
-        },
-        {
-          "symbol": "2603",
-          "name": "長榮",
-          "point": "普渡概念股",
-          "limitUp": false
-        },
-        {
-          "symbol": "2609",
-          "name": "陽明",
-          "point": "普渡概念股",
-          "limitUp": false
-        },
-        {
-          "symbol": "2615",
-          "name": "萬海",
-          "point": "普渡概念股",
-          "limitUp": false
-        },
-        {
-          "symbol": "2903",
-          "name": "全家",
-          "point": "加碼布局中元節",
-          "limitUp": false
-        },
-        {
-          "symbol": "1216",
-          "name": "統一",
-          "point": "普渡概念股",
-          "limitUp": false,
+          "point": "領軍搶先站穩季線",
           "status": "逼近新高",
-          "dist": -10
+          "dist": -4.3,
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
         },
         {
-          "symbol": "1215",
-          "name": "卜蜂",
-          "point": "普渡概念股",
-          "limitUp": false
+          "symbol": "2888",
+          "name": "新光金",
+          "point": "法人買超張數最多，營收成長逾倍"
         },
         {
-          "symbol": "1227",
-          "name": "佳格",
-          "point": "普渡概念股",
-          "limitUp": false
-        },
-        {
-          "symbol": "1232",
-          "name": "大統益",
-          "point": "普渡概念股",
-          "status": "高檔修正",
-          "dist": -13.2,
-          "limitUp": false
-        },
-        {
-          "symbol": "1234",
-          "name": "黑松",
-          "point": "普渡概念股",
-          "limitUp": false
-        },
-        {
-          "symbol": "1235",
-          "name": "宏亞",
-          "point": "普渡概念股",
-          "limitUp": false
-        },
-        {
-          "symbol": "1236",
-          "name": "泰山",
-          "point": "順利翻紅",
-          "limitUp": false
-        },
-        {
-          "symbol": "1708",
-          "name": "福懋油",
-          "point": "順利翻紅",
-          "limitUp": false
-        },
-        {
-          "symbol": "2607",
-          "name": "嘉里大榮",
-          "point": "力守紅盤",
-          "limitUp": false
-        },
-        {
-          "symbol": "1210",
-          "name": "大成",
-          "point": "中秋概念股",
-          "limitUp": false,
+          "symbol": "2890",
+          "name": "永豐金",
+          "point": "法人買超逾2萬張",
           "status": "逼近新高",
-          "dist": -9.7
+          "dist": -2.1
         },
         {
-          "symbol": "1218",
-          "name": "愛之味",
-          "point": "中秋概念股",
-          "limitUp": false
+          "symbol": "2891",
+          "name": "中信金",
+          "point": "法人買超逾2萬張",
+          "status": "高檔修正",
+          "dist": -10.1
         },
         {
-          "symbol": "1201",
-          "name": "味全",
-          "point": "中秋概念股",
-          "limitUp": false
-        }
-      ],
-      "background": "中元節與中秋節兩大節慶商機接連引爆，帶動食品、零售、物流等相關業者營收成長，成為台股資金避風港。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNbHFBYUJBNEViamVTRUJtbjdQdXhiMXlHMEtlSVlBUUE0cHBGQ0huQ2hJbUxzUWVGcFBNQU1EdU9SaThuR0hWTGU3MXN5UWtmTFNzVmdvT255S3Bicl9La2lvNllXZ0kzRkRMYzdUaDFEUXN5U204MzZaUzRlUUdMN0VNWUljNDFw",
-      "tkey": "熱門族群英業達、華碩AI需求護體",
-      "title": "《熱門族群》英業達、華碩 AI需求護體 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6253646001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Thu, 30 Jul 2026 00:04:00 GMT",
-      "stocks": [
+          "symbol": "3231",
+          "name": "緯創",
+          "point": "法人買超逾2萬張",
+          "status": "逼近新高",
+          "dist": -9.2,
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
+        },
         {
-          "symbol": "2356",
-          "name": "英業達",
-          "point": "觸底反彈，AI伺服器出貨增",
-          "limitUp": false
+          "symbol": "2885",
+          "name": "元大金",
+          "point": "法人買超逾2萬張，營收成長逾倍",
+          "status": "逼近新高",
+          "dist": -5.8
+        },
+        {
+          "symbol": "2880",
+          "name": "華南金",
+          "point": "法人買超逾2萬張",
+          "status": "逼近新高",
+          "dist": -3.2
+        },
+        {
+          "symbol": "9945",
+          "name": "潤泰新",
+          "point": "入列搶先站穩季線股"
+        },
+        {
+          "symbol": "2646",
+          "name": "星宇航空",
+          "point": "入列搶先站穩季線股"
+        },
+        {
+          "symbol": "2889",
+          "name": "國票金",
+          "point": "營收成長逾倍"
         },
         {
           "symbol": "2357",
           "name": "華碩",
-          "point": "觸底反彈，AI伺服器需求強勁",
-          "limitUp": false,
+          "point": "入列搶先站穩季線股",
           "status": "高檔修正",
-          "dist": -13.6,
+          "dist": -10.6,
           "luw": 1,
           "luwd": [
             "7/31"
           ]
-        }
-      ],
-      "background": "AI伺服器需求強勁，帶動英業達與華碩營收創新高。兩公司積極擴大AI相關製造布局，AI業務將成未來主要獲利來源。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNM1ZwMXl6UW1XVkM0dFZRVjZPVG9ydzhuSWtjR0ZzRGJFY3RuTHV3UHhqSVFNb0s2UkdSb3gxV2ZXR0oxelhXTG5oaGlDUmNsNjY1LWdBUmZTYTdfQTBDYjNaQ0c4SnZ1aG5SSGFINm9OVDVJX1Fmbkg2NlpWYmJUTWhaOXpXVVo1",
-      "tkey": "熱門族群大盤狂瀉‧‧‧營建股挾除息行情成資金避風港",
-      "title": "《熱門族群》大盤狂瀉‧‧‧營建股挾除息行情 成資金避風港 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6253640001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Thu, 30 Jul 2026 00:04:00 GMT",
-      "stocks": [
-        {
-          "symbol": "5533",
-          "name": "皇鼎",
-          "point": "逆勢完成填息",
-          "limitUp": false
         },
         {
-          "symbol": "3266",
-          "name": "昇陽",
-          "point": "穩步邁向填息",
-          "limitUp": false
+          "symbol": "2027",
+          "name": "大成鋼",
+          "point": "入列搶先站穩季線股"
+        },
+        {
+          "symbol": "2347",
+          "name": "聯強",
+          "point": "入列搶先站穩季線股",
+          "status": "逼近新高",
+          "dist": -4.7
+        },
+        {
+          "symbol": "3293",
+          "name": "宇瞻",
+          "point": "入列搶先站穩季線股"
+        },
+        {
+          "symbol": "6197",
+          "name": "精誠",
+          "point": "入列搶先站穩季線股"
         }
       ],
-      "background": "台股大盤狂瀉，資金轉進營建防禦股。具高現金殖利率、低本益比及實質資產題材的上市建商，因除息行情成為資金避風港。",
+      "background": "在台股反彈之際，搶先站穩季線、基本面佳且獲法人青睞的個股，有望成為引領大盤重返榮耀的先鋒。",
       "themeTags": []
     },
     {
-      "gid": "CBMiiAFBVV95cUxOYVVTQkxjVkhNVWl1NmtGNW4wRGFMcHFXLVpkQTAwdFRMdFM1MFV0ck9FOEpxWnVMVVVTb0ppc2l3SzBZbVpUcjZGd1EtY0hGenRVdjVYZndBMEQ1MEV1RS0ybXVJVVdaZ2JxSHZhN3oycE5NZWh4eFQ1QzZWbWtEdmJHTGVtYlYt",
-      "tkey": "熱門族群CCL雙雄上半年獲利再攀高",
-      "title": "《熱門族群》CCL雙雄 上半年獲利再攀高 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6253638001&PU=1002",
+      "gid": "CBMiiAFBVV95cUxPU1NTRGtpRU1tRWh6bkJPQ1NHSHpuUkF2V0tYb0h2Yzd1SEYzY1JnNFpOYjYwWmRsbXVaM0MwYnB1bExxMjczZlBVZWtpTFJQUlVjZEFTVERyTXJiWFoydUZyaGlWMDFxSDZMQkJQVndHWVhjR1ZfS212WXJyQ3ZNUUVFUmZiT0hu",
+      "tkey": "熱門族群15檔三面優勢股反彈先鋒",
+      "title": "《熱門族群》15檔三面優勢股 反彈先鋒 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6256198001&PU=1002",
       "source": "富聯網",
-      "pubDate": "Thu, 30 Jul 2026 00:04:00 GMT",
+      "pubDate": "Sat, 01 Aug 2026 09:00:00 GMT",
       "stocks": [
         {
-          "symbol": "2383",
-          "name": "台光電",
-          "point": "上半年獲利再攀高",
-          "limitUp": false,
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "亮燈漲停，重返所有均線，AI浪潮最大受惠者",
+          "status": "逼近新高",
+          "dist": -4.3,
           "luw": 1,
           "luwd": [
             "7/31"
           ]
         },
         {
-          "symbol": "6274",
-          "name": "台燿",
-          "point": "上半年獲利再攀高",
-          "limitUp": false,
-          "luw": 5,
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "大漲21元，重新收復多條均線，受惠AI伺服器發展"
+        },
+        {
+          "symbol": "3231",
+          "name": "緯創",
+          "point": "入列三面優勢股",
+          "status": "逼近新高",
+          "dist": -9.2,
+          "luw": 1,
           "luwd": [
-            "7/31",
-            "7/30",
-            "7/29",
-            "7/28",
-            "7/27"
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "2357",
+          "name": "華碩",
+          "point": "入列三面優勢股",
+          "status": "高檔修正",
+          "dist": -10.6,
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "2618",
+          "name": "長榮航",
+          "point": "入列三面優勢股",
+          "status": "逼近新高",
+          "dist": -3.8
+        },
+        {
+          "symbol": "2888",
+          "name": "新光金",
+          "point": "入列三面優勢股"
+        },
+        {
+          "symbol": "6415",
+          "name": "鈊象",
+          "point": "入列三面優勢股",
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "2885",
+          "name": "元大金",
+          "point": "入列三面優勢股",
+          "status": "逼近新高",
+          "dist": -5.8
+        },
+        {
+          "symbol": "2412",
+          "name": "中華電",
+          "point": "入列三面優勢股",
+          "status": "逼近新高",
+          "dist": -2.1
+        },
+        {
+          "symbol": "2890",
+          "name": "永豐金",
+          "point": "入列三面優勢股",
+          "status": "逼近新高",
+          "dist": -2.1
+        },
+        {
+          "symbol": "2301",
+          "name": "光寶科",
+          "point": "入列三面優勢股",
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "2610",
+          "name": "華航",
+          "point": "入列三面優勢股"
+        },
+        {
+          "symbol": "6669",
+          "name": "緯穎",
+          "point": "入列三面優勢股",
+          "status": "逼近新高",
+          "dist": -7.6,
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "2324",
+          "name": "仁寶",
+          "point": "入列三面優勢股"
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "入列三面優勢股",
+          "luw": 1,
+          "luwd": [
+            "7/31"
           ]
         }
       ],
-      "background": "銅箔基板（CCL）雙雄受惠於高階產品比重提高及材料升級趨勢，上半年獲利表現亮眼。AI伺服器對高階CCL需求持續增長。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNVFkyU3NLQUFSUURCZXU4bElDYWpMX0JwaW5xX0Q5bWp4N2t6TzN5d19wN3FjRmRyTmo4bW1jVXN4ZUtMenhkbHFpLXZCTHNZcVR4VXdEdlhpRzctNHNucFZJanpsa0hqQnloM0t4eF8wUUpnbk1TTmlWclF1bmVfb01SMTlqRGxT",
-      "tkey": "熱門族群迎500億商機普渡概念股拉紅盤-ww2.money",
-      "title": "《熱門族群》迎500億商機 普渡概念股拉紅盤 - ww2.money-link.com.tw",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6253636001&PU=0010",
-      "source": "ww2.money-link.com.tw",
-      "pubDate": "Thu, 30 Jul 2026 00:04:00 GMT",
-      "stocks": [
-        {
-          "symbol": "1203",
-          "name": "味王",
-          "point": "領頭零星點火拉紅盤",
-          "limitUp": false
-        },
-        {
-          "symbol": "2912",
-          "name": "統一超",
-          "point": "逆流力撐紅盤",
-          "limitUp": false
-        },
-        {
-          "symbol": "2603",
-          "name": "長榮",
-          "point": "逆流力撐紅盤",
-          "limitUp": false
-        },
-        {
-          "symbol": "2609",
-          "name": "陽明",
-          "point": "逆流力撐紅盤",
-          "limitUp": false
-        },
-        {
-          "symbol": "2615",
-          "name": "萬海",
-          "point": "逆流力撐紅盤",
-          "limitUp": false
-        },
-        {
-          "symbol": "2903",
-          "name": "全家",
-          "point": "逆流力撐紅盤",
-          "limitUp": false
-        },
-        {
-          "symbol": "1216",
-          "name": "統一",
-          "point": "逆流力撐紅盤",
-          "status": "逼近新高",
-          "dist": -10,
-          "limitUp": false
-        },
-        {
-          "symbol": "1215",
-          "name": "卜蜂",
-          "point": "逆流力撐紅盤",
-          "limitUp": false
-        },
-        {
-          "symbol": "1227",
-          "name": "佳格",
-          "point": "逆流力撐紅盤",
-          "limitUp": false
-        },
-        {
-          "symbol": "1232",
-          "name": "大統益",
-          "point": "逆流力撐紅盤",
-          "status": "高檔修正",
-          "dist": -12.4,
-          "limitUp": false
-        },
-        {
-          "symbol": "1234",
-          "name": "黑松",
-          "point": "逆流力撐紅盤",
-          "limitUp": false
-        },
-        {
-          "symbol": "1229",
-          "name": "宏亞",
-          "point": "逆流力撐紅盤",
-          "limitUp": false
-        },
-        {
-          "symbol": "1235",
-          "name": "泰山",
-          "point": "順利翻紅",
-          "limitUp": false
-        },
-        {
-          "symbol": "1712",
-          "name": "福懋油",
-          "point": "順利翻紅",
-          "limitUp": false
-        },
-        {
-          "symbol": "2608",
-          "name": "嘉里大榮",
-          "point": "力守紅盤",
-          "limitUp": false
-        },
-        {
-          "symbol": "1210",
-          "name": "大成",
-          "point": "中秋節概念股",
-          "limitUp": false
-        },
-        {
-          "symbol": "1218",
-          "name": "愛之味",
-          "point": "中秋節概念股",
-          "limitUp": false
-        },
-        {
-          "symbol": "1201",
-          "name": "味全",
-          "point": "中秋節概念股",
-          "limitUp": false
-        }
-      ],
-      "background": "中元節商機規模上看500億元，帶動食品、零食飲料、肉品、生鮮供應商、量販超商通路及物流業者股價拉紅盤。中秋節商機接檔，相關類股受惠。",
+      "background": "在台股跌深反彈之際，兼具基本面、籌碼面與技術面優勢的個股，特別是AI伺服器相關供應鏈與防禦性族群，有望成為領漲指標。",
       "themeTags": [
         "需求驅動"
       ]
