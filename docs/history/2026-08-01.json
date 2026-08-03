@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "updatedAt": "2026-08-03T06:03:38.113Z",
+  "updatedAt": "2026-08-03T06:10:31.021Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxONl9KWXIzajZBa3NCQTBmVFBuM2pnZTJhT1dFMjIyTUF2Wl80TVFuUVBWSUMtVzd4eWcxRk1pOHVMMVBlNGFvdmtXbzVIOWNXVm9lTjdKcnk0cWprc1l3WjdpelRPN2R1VngzemhqVzBpTzVmMkdFMUZOa0RBSzQwSTE1V1lBdzdk",
@@ -24,7 +24,7 @@
         {
           "symbol": "2888",
           "name": "新光金",
-          "point": "法人買超逾6.5萬張"
+          "point": "法人買超逾6萬張"
         },
         {
           "symbol": "2890",
@@ -76,11 +76,9 @@
           "point": "搶先站穩季線"
         },
         {
-          "symbol": "2887",
+          "symbol": "2816",
           "name": "國票金",
-          "point": "上半年營收成長逾倍",
-          "status": "逼近新高",
-          "dist": -5.6
+          "point": "上半年營收成長逾倍"
         },
         {
           "symbol": "2357",
@@ -113,15 +111,13 @@
           "point": "搶先站穩季線"
         },
         {
-          "symbol": "6112",
+          "symbol": "6197",
           "name": "精誠",
           "point": "搶先站穩季線"
         }
       ],
-      "background": "台股反彈，資金回籠，法人青睞基本面佳且站穩季線的個股。金融股因技術面支撐，成為法人資金避風港。",
-      "themeTags": [
-        "循環位置"
-      ]
+      "background": "台股在韓股帶動下反攻，市場買氣回升，資金流向基本面佳且法人青睞的個股，特別是金融股與部分電子股。",
+      "themeTags": []
     },
     {
       "gid": "CBMiiAFBVV95cUxPU1NTRGtpRU1tRWh6bkJPQ1NHSHpuUkF2V0tYb0h2Yzd1SEYzY1JnNFpOYjYwWmRsbXVaM0MwYnB1bExxMjczZlBVZWtpTFJQUlVjZEFTVERyTXJiWFoydUZyaGlWMDFxSDZMQkJQVndHWVhjR1ZfS212WXJyQ3ZNUUVFUmZiT0hu",
@@ -253,10 +249,9 @@
           ]
         }
       ],
-      "background": "台股跌深反彈，市場焦點重回基本面。AI伺服器ODM、散熱等AI相關供應鏈，以及金融、電信等防禦性族群，因基本面、籌碼面與技術面優勢，有望成為領漲指標。",
+      "background": "台股跌深反彈，資金回歸基本面佳、籌碼穩定且技術面強勢的個股，主要集中在AI伺服器供應鏈及金融、電信等防禦性族群。",
       "themeTags": [
-        "需求驅動",
-        "循環位置"
+        "需求驅動"
       ]
     },
     {
@@ -469,10 +464,8 @@
           ]
         }
       ],
-      "background": "台股近期大幅修正，引發市場融資追繳與斷頭壓力，特別是熱門的被動元件、AI供應鏈、PCB載板與重電綠能等族群，面臨多殺多風險。",
-      "themeTags": [
-        "循環位置"
-      ]
+      "background": "台股近期大幅修正，引爆融資追繳與斷頭壓力，特別是熱門的被動元件、AI供應鏈、IC設計、PCB載板及重電綠能等族群。",
+      "themeTags": []
     }
   ]
 }
