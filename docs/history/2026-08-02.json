@@ -1,0 +1,69 @@
+{
+  "date": "2026-08-02",
+  "updatedAt": "2026-08-03T03:02:02.536Z",
+  "news": [
+    {
+      "gid": "CBMiZEFVX3lxTE9ISVZ3akQ0WU9xeFFIdEU4bUJTaUUwQ0c5eExWU294R0hBaWJkWTVKTXJ2ZlJZRnk4VE02UlVGNzAtckR3VzJjeE5oYlRvREcwa00tX1Vvb01KMzVteDRaeXFuX2s",
+      "tkey": "熱門族群金融股強勢防禦台股震盪中流砥柱",
+      "title": "熱門族群》 金融股強勢防禦 台股震盪中流砥柱 - 自由財經",
+      "url": "https://ec.ltn.com.tw/amp/article/breakingnews/5524842",
+      "source": "自由財經",
+      "pubDate": "Sat, 01 Aug 2026 23:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2886",
+          "name": "兆豐金",
+          "point": "三大法人買超逾1萬張，股價創26年新高",
+          "status": "逼近新高",
+          "dist": -1.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "2880",
+          "name": "華南金",
+          "point": "股價上漲超過7%",
+          "status": "逼近新高",
+          "dist": -3.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "2892",
+          "name": "第一金",
+          "point": "股價上漲超過7%",
+          "status": "創新高",
+          "dist": -0.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "5880",
+          "name": "合庫金",
+          "point": "法人買超逾11萬張",
+          "status": "創新高",
+          "dist": -0.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "2889",
+          "name": "國票金",
+          "point": "法人未買超逾1萬張",
+          "limitUp": false
+        }
+      ],
+      "background": "金融股在台股震盪時具備防禦性，受惠於高利率環境下淨利差穩健成長，且具備高殖利率與配息確定性。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE5jWUJSakZESUQ3TXIxa3g5dGp3Y1ZobUtyTkEtTE9JeXVUMWEzOUJtWlEybEtyYTZqOEk0QXlQVDVXdXN2eHgzQzhBdWJGQmdZVUpuUjh6cmo",
+      "tkey": "熱門族群AI產業鏈跌一跤紡織股扮撐盤要角",
+      "title": "熱門族群》AI產業鏈跌一跤 紡織股扮撐盤要角 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/nfkvsvqghrjy",
+      "source": "自由時報",
+      "pubDate": "Sat, 01 Aug 2026 22:02:33 GMT",
+      "stocks": [],
+      "background": "在AI產業鏈面臨修正之際，紡織股因其相對穩定的特性，成為台股的撐盤要角。",
+      "themeTags": []
+    }
+  ]
+}
