@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-03T13:02:43.601+08:00",
-  "generatedAt": "2026-08-03T05:02:43.601Z",
+  "asOf": "2026-08-03T14:03:38.116+08:00",
+  "generatedAt": "2026-08-03T06:03:38.116Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -19,7 +19,8 @@
         "7/28"
       ],
       "mentions": 8,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 1,
       "luwd": [
         "7/31"
@@ -156,19 +157,6 @@
       ]
     },
     {
-      "symbol": "2887",
-      "name": "台新金",
-      "days": 3,
-      "dates": [
-        "8/1",
-        "7/29",
-        "7/28"
-      ],
-      "mentions": 4,
-      "status": "逼近新高",
-      "dist": -4.8
-    },
-    {
       "symbol": "2357",
       "name": "華碩",
       "days": 3,
@@ -179,7 +167,7 @@
       ],
       "mentions": 4,
       "status": "高檔修正",
-      "dist": -11.5,
+      "dist": -11.8,
       "luw": 1,
       "luwd": [
         "7/31"
@@ -242,7 +230,8 @@
         "7/28"
       ],
       "mentions": 3,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 5,
       "luwd": [
         "7/31",
@@ -262,11 +251,25 @@
         "7/30"
       ],
       "mentions": 3,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 1,
       "luwd": [
         "7/31"
       ]
+    },
+    {
+      "symbol": "2887",
+      "name": "國票金",
+      "days": 3,
+      "dates": [
+        "8/1",
+        "7/29",
+        "7/28"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -5.6
     },
     {
       "symbol": "2308",
@@ -289,7 +292,17 @@
       ],
       "mentions": 4,
       "status": "逼近新高",
-      "dist": -4.2
+      "dist": -2.9
+    },
+    {
+      "symbol": "2888",
+      "name": "新光金",
+      "days": 2,
+      "dates": [
+        "8/1",
+        "7/28"
+      ],
+      "mentions": 3
     },
     {
       "symbol": "2890",
@@ -301,7 +314,7 @@
       ],
       "mentions": 3,
       "status": "逼近新高",
-      "dist": -2.6
+      "dist": -3.4
     },
     {
       "symbol": "3231",
@@ -313,7 +326,7 @@
       ],
       "mentions": 3,
       "status": "逼近新高",
-      "dist": -3.6,
+      "dist": -4.1,
       "luw": 1,
       "luwd": [
         "7/31"
@@ -329,7 +342,7 @@
       ],
       "mentions": 3,
       "status": "逼近新高",
-      "dist": -4.8
+      "dist": -5.9
     },
     {
       "symbol": "8271",
@@ -432,17 +445,6 @@
       "status": "逼近新高",
       "dist": -10,
       "limitUp": false
-    },
-    {
-      "symbol": "1215",
-      "name": "卜蜂",
-      "days": 2,
-      "dates": [
-        "7/30",
-        "7/29"
-      ],
-      "mentions": 3,
-      "limitUp": false
     }
   ],
   "news": [
@@ -458,7 +460,8 @@
           "symbol": "3264",
           "name": "欣銓",
           "point": "擴大投資先進測試設備及智慧化產線",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "7/31",
@@ -504,7 +507,8 @@
           "symbol": "8358",
           "name": "金居",
           "point": "高階銅箔供不應求，強攻漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "7/31",
@@ -528,7 +532,8 @@
           "symbol": "2368",
           "name": "金像電",
           "point": "入股尖點",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 1,
           "luwd": [
             "7/31"
@@ -538,7 +543,8 @@
           "symbol": "3037",
           "name": "欣興",
           "point": "入股尖點",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "7/31"
