@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-03T12:02:38.007+08:00",
-  "generatedAt": "2026-08-03T04:02:38.007Z",
+  "asOf": "2026-08-03T13:02:43.601+08:00",
+  "generatedAt": "2026-08-03T05:02:43.601Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -119,7 +119,7 @@
       ],
       "mentions": 5,
       "status": "逼近新高",
-      "dist": -4.3,
+      "dist": -6.5,
       "luw": 1,
       "luwd": [
         "7/31"
@@ -156,6 +156,19 @@
       ]
     },
     {
+      "symbol": "2887",
+      "name": "台新金",
+      "days": 3,
+      "dates": [
+        "8/1",
+        "7/29",
+        "7/28"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -4.8
+    },
+    {
       "symbol": "2357",
       "name": "華碩",
       "days": 3,
@@ -166,7 +179,7 @@
       ],
       "mentions": 4,
       "status": "高檔修正",
-      "dist": -10.6,
+      "dist": -11.5,
       "luw": 1,
       "luwd": [
         "7/31"
@@ -220,6 +233,26 @@
       ]
     },
     {
+      "symbol": "3264",
+      "name": "欣銓",
+      "days": 3,
+      "dates": [
+        "8/3",
+        "7/31",
+        "7/28"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "7/31",
+        "7/30",
+        "7/29",
+        "7/28",
+        "7/27"
+      ]
+    },
+    {
       "symbol": "2368",
       "name": "金像電",
       "days": 3,
@@ -256,17 +289,7 @@
       ],
       "mentions": 4,
       "status": "逼近新高",
-      "dist": -3.8
-    },
-    {
-      "symbol": "2888",
-      "name": "新光金",
-      "days": 2,
-      "dates": [
-        "8/1",
-        "7/28"
-      ],
-      "mentions": 3
+      "dist": -4.2
     },
     {
       "symbol": "2890",
@@ -278,7 +301,7 @@
       ],
       "mentions": 3,
       "status": "逼近新高",
-      "dist": -2.1
+      "dist": -2.6
     },
     {
       "symbol": "3231",
@@ -290,7 +313,7 @@
       ],
       "mentions": 3,
       "status": "逼近新高",
-      "dist": -9.2,
+      "dist": -3.6,
       "luw": 1,
       "luwd": [
         "7/31"
@@ -306,7 +329,17 @@
       ],
       "mentions": 3,
       "status": "逼近新高",
-      "dist": -5.8
+      "dist": -4.8
+    },
+    {
+      "symbol": "8271",
+      "name": "宇瞻",
+      "days": 2,
+      "dates": [
+        "8/1",
+        "7/31"
+      ],
+      "mentions": 3
     },
     {
       "symbol": "2610",
@@ -410,33 +443,44 @@
       ],
       "mentions": 3,
       "limitUp": false
-    },
-    {
-      "symbol": "1227",
-      "name": "佳格",
-      "days": 2,
-      "dates": [
-        "7/30",
-        "7/29"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "1210",
-      "name": "大成",
-      "days": 2,
-      "dates": [
-        "7/30",
-        "7/29"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -9.7,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNNXB0UVo4aVk0bnZxbXpTVm9HRXhfOGFmbUtHbWhmSHRjNVJVQW5OX09WM2ViM2FLaEo0TnpXeUVuWmlodC1nX2dpYUh1bWRkZkUyd0xEVGt5ZUNPUTlyMG9obWktM3Z3N01kc2JUR1pMMEFWZGVLV0U5b09hSDdoRnFPdG9hRWdZ",
+      "tkey": "熱門族群欣銓、中聯資分砸285億元、18億元擴大在台投資拓產線",
+      "title": "《熱門族群》欣銓、中聯資分砸285億元、18億元 擴大在台投資拓產線 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6257581001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 03 Aug 2026 04:17:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3264",
+          "name": "欣銓",
+          "point": "擴大投資先進測試設備及智慧化產線",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "7/31",
+            "7/30",
+            "7/29",
+            "7/28",
+            "7/27"
+          ]
+        },
+        {
+          "symbol": "9930",
+          "name": "中聯資源",
+          "point": "增設研磨產線，導入AI模型預測控制軟體",
+          "limitUp": false
+        }
+      ],
+      "background": "面對AI運算需求快速攀升，半導體測試服務廠欣銓擴大投資，傳產中聯資源也因市場需求強勁增設產線，兩者皆受惠於政府投資台灣方案。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPMTVSN1BLLWpxb1dhUDZKbEJ5d2ZwS1h1SkxRb3d6cUFxUXJ5aDVtakUzVzBjR1FkOG03N1NEZHREVGg5bjdzbW0wRVdiUGhLemJ4b3NVRHBIYk03SENCQUE4RGRNZ2Z0NjJVRl9aYWlZSEVWR2ZqdjdDMTUySWxBRDRiRVBUc24y",
       "tkey": "熱門族群後市樂觀看尖點、金居強攻漲停",
