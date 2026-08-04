@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-04T13:01:32.854+08:00",
-  "generatedAt": "2026-08-04T05:01:32.854Z",
+  "asOf": "2026-08-04T13:38:41.400+08:00",
+  "generatedAt": "2026-08-04T05:38:41.400Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -195,6 +195,17 @@
       "luwd": [
         "7/31"
       ]
+    },
+    {
+      "symbol": "3264",
+      "name": "欣銓",
+      "days": 2,
+      "dates": [
+        "8/3",
+        "7/31"
+      ],
+      "mentions": 3,
+      "limitUp": false
     },
     {
       "symbol": "8046",
@@ -417,17 +428,6 @@
       ],
       "mentions": 3,
       "limitUp": false
-    },
-    {
-      "symbol": "3264",
-      "name": "欣銓",
-      "days": 2,
-      "dates": [
-        "8/3",
-        "7/31"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
@@ -527,6 +527,30 @@
       "background": "面對AI運算需求快速攀升，半導體測試服務廠欣銓擴大投資，傳產中聯資源也因市場需求強勁增設產線，兩者皆受惠於政府投資台灣方案。",
       "themeTags": [
         "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPZzRqWURyYU1jR2JHODA5ZGNCaWh5VGtRLXBsbkRJVjN5TEVBaUFFUHFsZUpNa3JVVnB6ZWlGamhSeUlYVHdDRW5ueGZyY05Fak9IUUVpSU5ZN2tBYmFQeTBSeHdEQWVfc1hLaG4yVG5zLVFNQVRUVHdpSUlXVDRYT2FBNG40YkM4",
+      "tkey": "熱門族群欣銓、中聯資分砸285億元、18億元擴大在台投資拓產線-ww2.money",
+      "title": "《熱門族群》欣銓、中聯資分砸285億元、18億元 擴大在台投資拓產線 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6257581001&PU=1002",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Mon, 03 Aug 2026 04:17:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3264",
+          "name": "欣銓",
+          "point": "擴大在台投資拓產線"
+        },
+        {
+          "symbol": "9942",
+          "name": "中聯資",
+          "point": "擴大在台投資拓產線"
+        }
+      ],
+      "background": "半導體測試廠欣銓與爐石粉廠中聯資皆擴大在台投資，反映企業對未來市場需求樂觀，並配合政府鼓勵產業鏈在地深耕政策。",
+      "themeTags": [
         "政策關稅"
       ]
     },
