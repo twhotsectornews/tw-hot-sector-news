@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "updatedAt": "2026-08-04T05:38:41.396Z",
+  "updatedAt": "2026-08-04T06:02:23.373Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTFBIN3JYM0VpZEdRZHdNajZ1VUlwcGJLT1BoRmNydjVRbVY4N3o4ZVZMQWltcVRyVW5pcGxuaVAzWnBRcjBVRGJBNkMyQ29ITmRTb0hqTG9NeXA",
@@ -30,13 +30,12 @@
           "point": "功率半導體元件缺口擴大，盤中漲停",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "8/3",
             "7/31",
             "7/30",
-            "7/29",
-            "7/28"
+            "7/29"
           ]
         },
         {
@@ -57,13 +56,12 @@
           "point": "功率半導體元件缺口擴大，盤中漲停",
           "limitUp": true,
           "pct": 10,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "8/3",
             "7/31",
             "7/30",
-            "7/29",
-            "7/28"
+            "7/29"
           ]
         }
       ],
@@ -151,13 +149,12 @@
           "point": "高階銅箔供不應求，強攻漲停",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "8/3",
             "7/31",
             "7/30",
-            "7/29",
-            "7/28"
+            "7/29"
           ]
         },
         {

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "updatedAt": "2026-08-04T05:38:41.397Z",
+  "updatedAt": "2026-08-04T06:02:23.374Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1pRXdBUkNhamxfaU5ianlPS2RfdklXYTZaTm1IZEc0NFRDaF93RE9BUnNJQzNVdjFDd0Z3ZmpHSnYzQ3ZPUlpJTThrTWdwYXV2bEtkOXZiUW01QdIBX0FVX3lxTE0wWE9rYzBmWlNETXVFYlMyNVZkeWZHYU81Rll5RlptbWVpTDdiaG40eG95ZUx2N2UwYVpxeHgyUkt5bXlpeGNpZ3FaWTRtc0tZd2taN3RuY1V2T2RLSURn",
@@ -39,13 +39,12 @@
           "symbol": "6173",
           "name": "信昌電",
           "point": "被動元件族群，融資維持率降至104.32%",
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "8/3",
             "7/31",
             "7/30",
-            "7/29",
-            "7/28"
+            "7/29"
           ]
         },
         {
@@ -57,13 +56,12 @@
           "symbol": "8042",
           "name": "金山電",
           "point": "被動元件族群，融資維持率落至114.82%",
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "8/3",
             "7/31",
             "7/30",
-            "7/29",
-            "7/28"
+            "7/29"
           ]
         },
         {
@@ -72,13 +70,12 @@
           "point": "股王，融資維持率跌破警戒線",
           "status": "高檔修正",
           "dist": -11.6,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "8/3",
             "7/31",
             "7/30",
-            "7/29",
-            "7/28"
+            "7/29"
           ]
         },
         {
@@ -148,13 +145,12 @@
           "symbol": "6223",
           "name": "旺矽",
           "point": "探針卡大廠，融資維持率為140.63%",
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "8/3",
             "7/31",
             "7/30",
-            "7/29",
-            "7/28"
+            "7/29"
           ]
         },
         {
