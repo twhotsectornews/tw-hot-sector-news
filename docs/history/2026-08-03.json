@@ -1,0 +1,180 @@
+{
+  "date": "2026-08-03",
+  "updatedAt": "2026-08-04T03:02:49.510Z",
+  "news": [
+    {
+      "gid": "CBMiWEFVX3lxTFBIN3JYM0VpZEdRZHdNajZ1VUlwcGJLT1BoRmNydjVRbVY4N3o4ZVZMQWltcVRyVW5pcGxuaVAzWnBRcjBVRGJBNkMyQ29ITmRTb0hqTG9NeXA",
+      "tkey": "熱門族群AI盡頭是電力重電族群扮演基建要角",
+      "title": "熱門族群》 AI盡頭是電力 重電族群扮演基建要角 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/qjy05zlmpyf6",
+      "source": "自由時報",
+      "pubDate": "Mon, 03 Aug 2026 12:54:04 GMT",
+      "stocks": [],
+      "background": "AI 發展對電力需求激增，重電族群作為電力基礎設施的關鍵，受惠於全球電網升級與能源轉型政策推動，產業需求強勁。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNQVJ2NkZOeHkxRjN0Szd5aVZVYkJrdEFaRGh1bmpIM1BpdW1XbFBUWk5jbkMtSllSSzRzMlJyeTN0WjA5OUFpUU5tR0VLQktIUDRlNlM0c1ZCdGJjV1R6ZV91Z3dWWEJpVWNIYWUwNGo4TF84OTVUSGI5eWh5RXc0Yzd3TDNvZG81",
+      "tkey": "熱門族群功率半導體擺脫處置陰霾盤中強勢亮燈",
+      "title": "《熱門族群》功率半導體擺脫處置陰霾 盤中強勢亮燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6257658001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 03 Aug 2026 05:36:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3675",
+          "name": "德微",
+          "point": "功率半導體元件缺口擴大，盤中漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "8/3",
+            "7/31",
+            "7/30",
+            "7/29",
+            "7/28"
+          ]
+        },
+        {
+          "symbol": "2481",
+          "name": "強茂",
+          "point": "功率半導體元件缺口擴大，盤中漲停",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 2,
+          "luwd": [
+            "8/3",
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "5425",
+          "name": "台半",
+          "point": "功率半導體元件缺口擴大，盤中漲停",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "8/3",
+            "7/31",
+            "7/30",
+            "7/29",
+            "7/28"
+          ]
+        }
+      ],
+      "background": "功率半導體元件因AI資料中心電力需求強勁及能源電網「去中化」而缺口擴大，訂單能見度高，產品報價持續調漲，產業處於供給吃緊階段。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNNXB0UVo4aVk0bnZxbXpTVm9HRXhfOGFmbUtHbWhmSHRjNVJVQW5OX09WM2ViM2FLaEo0TnpXeUVuWmlodC1nX2dpYUh1bWRkZkUyd0xEVGt5ZUNPUTlyMG9obWktM3Z3N01kc2JUR1pMMEFWZGVLV0U5b09hSDdoRnFPdG9hRWdZ",
+      "tkey": "熱門族群欣銓、中聯資分砸285億元、18億元擴大在台投資拓產線",
+      "title": "《熱門族群》欣銓、中聯資分砸285億元、18億元 擴大在台投資拓產線 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6257581001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 03 Aug 2026 04:17:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3264",
+          "name": "欣銓",
+          "point": "擴大投資先進測試設備及智慧化產線",
+          "limitUp": false
+        },
+        {
+          "symbol": "9930",
+          "name": "中聯資源",
+          "point": "增設研磨產線，導入AI模型預測控制軟體",
+          "limitUp": false
+        }
+      ],
+      "background": "面對AI運算需求快速攀升，半導體測試服務廠欣銓擴大投資，傳產中聯資源也因市場需求強勁增設產線，兩者皆受惠於政府投資台灣方案。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPMTVSN1BLLWpxb1dhUDZKbEJ5d2ZwS1h1SkxRb3d6cUFxUXJ5aDVtakUzVzBjR1FkOG03N1NEZHREVGg5bjdzbW0wRVdiUGhLemJ4b3NVRHBIYk03SENCQUE4RGRNZ2Z0NjJVRl9aYWlZSEVWR2ZqdjdDMTUySWxBRDRiRVBUc24y",
+      "tkey": "熱門族群後市樂觀看尖點、金居強攻漲停",
+      "title": "《熱門族群》後市樂觀看 尖點、金居強攻漲停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6257432001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 03 Aug 2026 02:10:00 GMT",
+      "stocks": [
+        {
+          "symbol": "8021",
+          "name": "尖點",
+          "point": "PCB鑽針供不應求，強攻漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "8/3",
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "8358",
+          "name": "金居",
+          "point": "高階銅箔供不應求，強攻漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "8/3",
+            "7/31",
+            "7/30",
+            "7/29",
+            "7/28"
+          ]
+        },
+        {
+          "symbol": "4958",
+          "name": "臻鼎-KY",
+          "point": "入股尖點",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "point": "入股尖點",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 2,
+          "luwd": [
+            "8/3",
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "入股尖點",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "8/3",
+            "7/31"
+          ]
+        }
+      ],
+      "background": "AI資料中心建置帶動PCB上游高階銅箔與鑽針需求爆發，技術門檻高導致供不應求，相關廠商積極擴產因應。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}
