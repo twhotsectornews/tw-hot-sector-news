@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "updatedAt": "2026-08-04T12:29:06.811Z",
+  "updatedAt": "2026-08-05T03:04:22.417Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1pRXdBUkNhamxfaU5ianlPS2RfdklXYTZaTm1IZEc0NFRDaF93RE9BUnNJQzNVdjFDd0Z3ZmpHSnYzQ3ZPUlpJTThrTWdwYXV2bEtkOXZiUW01QdIBX0FVX3lxTE0wWE9rYzBmWlNETXVFYlMyNVZkeWZHYU81Rll5RlptbWVpTDdiaG40eG95ZUx2N2UwYVpxeHgyUkt5bXlpeGNpZ3FaWTRtc0tZd2taN3RuY1V2T2RLSURn",
@@ -81,6 +81,8 @@
           "symbol": "2345",
           "name": "智邦",
           "point": "網通大廠，融資維持率為141.21%",
+          "status": "高檔修正",
+          "dist": -13.6,
           "luw": 2,
           "luwd": [
             "8/3",
@@ -164,8 +166,11 @@
           "symbol": "3189",
           "name": "景碩",
           "point": "ABF三雄之一，融資維持率為140.28%",
-          "luw": 2,
+          "status": "高檔修正",
+          "dist": -10.2,
+          "luw": 3,
           "luwd": [
+            "8/4",
             "8/3",
             "7/31"
           ]
@@ -174,8 +179,9 @@
           "symbol": "8046",
           "name": "南電",
           "point": "ABF三雄之一，融資維持率為136.02%",
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "8/4",
             "7/31"
           ]
         }

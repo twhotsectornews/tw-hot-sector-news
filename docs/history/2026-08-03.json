@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "updatedAt": "2026-08-04T12:29:06.810Z",
+  "updatedAt": "2026-08-05T03:04:22.416Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTFBIN3JYM0VpZEdRZHdNajZ1VUlwcGJLT1BoRmNydjVRbVY4N3o4ZVZMQWltcVRyVW5pcGxuaVAzWnBRcjBVRGJBNkMyQ29ITmRTb0hqTG9NeXA",
@@ -123,8 +123,9 @@
           "point": "PCB鑽針供不應求，強攻漲停",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "8/4",
             "8/3",
             "7/31"
           ]
