@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-05T13:04:03.719+08:00",
-  "generatedAt": "2026-08-05T05:04:03.719Z",
+  "asOf": "2026-08-05T13:38:52.052+08:00",
+  "generatedAt": "2026-08-05T05:38:52.052Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -67,7 +67,8 @@
         "7/30"
       ],
       "mentions": 4,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 2,
       "luwd": [
         "8/4",
@@ -421,7 +422,8 @@
           "symbol": "2455",
           "name": "全新",
           "point": "盤中股價亮燈漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 3,
           "luwd": [
             "8/4",
@@ -433,11 +435,11 @@
           "symbol": "3105",
           "name": "穩懋",
           "point": "盤中股價亮燈漲停",
-          "limitUp": false,
-          "luw": 5,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 4,
           "luwd": [
             "8/4",
-            "8/3",
             "7/31",
             "7/30",
             "7/29"
@@ -447,7 +449,8 @@
           "symbol": "3450",
           "name": "聯鈞",
           "point": "盤中股價亮燈漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 2,
           "luwd": [
             "8/3",
@@ -459,10 +462,9 @@
           "name": "IET-KY",
           "point": "盤中股價亮燈漲停",
           "limitUp": false,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "8/4",
-            "8/3",
             "7/31",
             "7/30",
             "7/29"
@@ -488,10 +490,9 @@
           "name": "IET-KY",
           "point": "矽光子概念股強攻漲停",
           "limitUp": false,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "8/4",
-            "8/3",
             "7/31",
             "7/30",
             "7/29"
@@ -501,11 +502,11 @@
           "symbol": "3105",
           "name": "穩懋",
           "point": "矽光子概念股強攻漲停",
-          "limitUp": false,
-          "luw": 5,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 4,
           "luwd": [
             "8/4",
-            "8/3",
             "7/31",
             "7/30",
             "7/29"
@@ -515,11 +516,11 @@
           "symbol": "3081",
           "name": "聯亞",
           "point": "矽光子概念股強攻漲停",
-          "limitUp": false,
-          "luw": 5,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 4,
           "luwd": [
             "8/4",
-            "8/3",
             "7/31",
             "7/30",
             "7/29"
@@ -529,11 +530,11 @@
           "symbol": "3163",
           "name": "波若威",
           "point": "矽光子概念股強攻漲停",
-          "limitUp": false,
-          "luw": 5,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 4,
           "luwd": [
             "8/4",
-            "8/3",
             "7/31",
             "7/30",
             "7/29"
@@ -543,11 +544,11 @@
           "symbol": "4979",
           "name": "華星光",
           "point": "矽光子概念股強攻漲停",
-          "limitUp": false,
-          "luw": 5,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 4,
           "luwd": [
             "8/4",
-            "8/3",
             "7/31",
             "7/30",
             "7/29"
@@ -557,11 +558,11 @@
           "symbol": "4991",
           "name": "環宇-KY",
           "point": "矽光子概念股強攻漲停",
-          "limitUp": false,
-          "luw": 5,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 4,
           "luwd": [
             "8/4",
-            "8/3",
             "7/31",
             "7/30",
             "7/29"
@@ -571,7 +572,8 @@
           "symbol": "6451",
           "name": "訊芯-KY",
           "point": "矽光子概念股強攻漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 1,
           "luwd": [
             "8/3"
@@ -581,11 +583,11 @@
           "symbol": "3587",
           "name": "閎康",
           "point": "矽光子概念股強攻漲停",
-          "limitUp": false,
-          "luw": 5,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 4,
           "luwd": [
             "8/4",
-            "8/3",
             "7/31",
             "7/30",
             "7/29"
@@ -605,13 +607,15 @@
           "symbol": "6530",
           "name": "創威",
           "point": "矽光子概念股強攻漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6526",
           "name": "達發",
           "point": "矽光子概念股強攻漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "3008",
@@ -679,7 +683,8 @@
           "symbol": "6770",
           "name": "力積電",
           "point": "看好下半年營運更旺",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 2,
           "luwd": [
             "8/4",
