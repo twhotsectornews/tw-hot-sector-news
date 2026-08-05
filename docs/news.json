@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-05T12:03:24.901+08:00",
-  "generatedAt": "2026-08-05T04:03:24.901Z",
+  "asOf": "2026-08-05T13:04:03.719+08:00",
+  "generatedAt": "2026-08-05T05:04:03.719Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -410,6 +410,72 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxQNmY0RjVCUTRpZHdzblhuZDVUbGtMY29wRjJObWVSd0VaRTgyU1lxTjlUS3RZSWcxUE9nZzBuY3Jwb3VlQ0dGcFhoWmplR3pHMnFrbG1NZE5NZTlzN0x4YTZzNlF3d2hfQlItSzdaYlNmV3U2d3AzRUk5WFlJZlBmajZMUFNtTDdZ",
+      "tkey": "熱門族群川普擬祭AI光收發器禁令台灣光通訊股受惠慶漲停",
+      "title": "《熱門族群》川普擬祭AI光收發器禁令 台灣光通訊股受惠慶漲停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6260077001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 05 Aug 2026 03:28:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2455",
+          "name": "全新",
+          "point": "盤中股價亮燈漲停",
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "8/4",
+            "8/3",
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "盤中股價亮燈漲停",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "8/4",
+            "8/3",
+            "7/31",
+            "7/30",
+            "7/29"
+          ]
+        },
+        {
+          "symbol": "3450",
+          "name": "聯鈞",
+          "point": "盤中股價亮燈漲停",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "8/3",
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "4971",
+          "name": "IET-KY",
+          "point": "盤中股價亮燈漲停",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "8/4",
+            "8/3",
+            "7/31",
+            "7/30",
+            "7/29"
+          ]
+        }
+      ],
+      "background": "美國擬禁止大陸AI光收發器進入，保護AI基礎設施，激勵台灣光通訊股受惠。AI資料中心高速光通訊需求快速擴大。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxONi1aSnRjOElVQzZGSDllUlJfUjFxZUc4UFZTcHNVcnBaSWxFS1d3UzVMNHEyQVFFSGZxbkdDeV9ub2tzR0Z0bWFsY3lzcW5BOHpYOXFaWm9haHl3dzZtWE8yTUtCeUZHWUJNVVZ3ZDlvN0wxc3RidmJRNlNDbWNtOERuRGM5UndT",
       "tkey": "熱門族群又見10燈獎！矽光子鍍金大立光也瘋狂",
       "title": "《熱門族群》又見10燈獎！矽光子鍍金 大立光也瘋狂 - 富聯網",
@@ -421,8 +487,7 @@
           "symbol": "4971",
           "name": "IET-KY",
           "point": "矽光子概念股強攻漲停",
-          "limitUp": true,
-          "pct": 10,
+          "limitUp": false,
           "luw": 5,
           "luwd": [
             "8/4",
@@ -516,8 +581,7 @@
           "symbol": "3587",
           "name": "閎康",
           "point": "矽光子概念股強攻漲停",
-          "limitUp": true,
-          "pct": 9.9,
+          "limitUp": false,
           "luw": 5,
           "luwd": [
             "8/4",
