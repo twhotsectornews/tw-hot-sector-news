@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-05T11:04:22.420+08:00",
-  "generatedAt": "2026-08-05T03:04:22.420Z",
+  "asOf": "2026-08-05T12:03:24.901+08:00",
+  "generatedAt": "2026-08-05T04:03:24.901Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -12,7 +12,7 @@
       "days": 4,
       "dates": [
         "8/5",
-        "8/2",
+        "8/3",
         "7/31",
         "7/30"
       ],
@@ -20,25 +20,6 @@
       "limitUp": false,
       "luw": 1,
       "luwd": [
-        "7/31"
-      ]
-    },
-    {
-      "symbol": "3037",
-      "name": "欣興",
-      "days": 4,
-      "dates": [
-        "8/3",
-        "8/2",
-        "7/31",
-        "7/30"
-      ],
-      "mentions": 5,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 2,
-      "luwd": [
-        "8/3",
         "7/31"
       ]
     },
@@ -57,6 +38,22 @@
       "limitUp": false,
       "luw": 1,
       "luwd": [
+        "7/31"
+      ]
+    },
+    {
+      "symbol": "3037",
+      "name": "欣興",
+      "days": 3,
+      "dates": [
+        "8/3",
+        "7/31",
+        "7/30"
+      ],
+      "mentions": 5,
+      "luw": 2,
+      "luwd": [
+        "8/3",
         "7/31"
       ]
     },
@@ -82,7 +79,7 @@
       "name": "景碩",
       "days": 3,
       "dates": [
-        "8/2",
+        "8/3",
         "7/31",
         "7/30"
       ],
@@ -97,29 +94,11 @@
       ]
     },
     {
-      "symbol": "2368",
-      "name": "金像電",
-      "days": 3,
-      "dates": [
-        "8/3",
-        "8/2",
-        "7/30"
-      ],
-      "mentions": 3,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 2,
-      "luwd": [
-        "8/3",
-        "7/31"
-      ]
-    },
-    {
       "symbol": "2308",
       "name": "台達電",
       "days": 3,
       "dates": [
-        "8/2",
+        "8/3",
         "7/31",
         "7/30"
       ],
@@ -137,6 +116,36 @@
       "limitUp": false
     },
     {
+      "symbol": "2368",
+      "name": "金像電",
+      "days": 2,
+      "dates": [
+        "8/3",
+        "7/30"
+      ],
+      "mentions": 3,
+      "luw": 2,
+      "luwd": [
+        "8/3",
+        "7/31"
+      ]
+    },
+    {
+      "symbol": "8046",
+      "name": "南電",
+      "days": 2,
+      "dates": [
+        "8/3",
+        "7/30"
+      ],
+      "mentions": 3,
+      "luw": 2,
+      "luwd": [
+        "8/4",
+        "7/31"
+      ]
+    },
+    {
       "symbol": "3264",
       "name": "欣銓",
       "days": 2,
@@ -146,21 +155,6 @@
       ],
       "mentions": 3,
       "limitUp": false
-    },
-    {
-      "symbol": "8046",
-      "name": "南電",
-      "days": 2,
-      "dates": [
-        "8/2",
-        "7/30"
-      ],
-      "mentions": 3,
-      "luw": 2,
-      "luwd": [
-        "8/4",
-        "7/31"
-      ]
     },
     {
       "symbol": "2357",
@@ -236,26 +230,11 @@
       "limitUp": false
     },
     {
-      "symbol": "4958",
-      "name": "臻鼎-KY",
-      "days": 2,
-      "dates": [
-        "8/3",
-        "7/30"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "7/31"
-      ]
-    },
-    {
       "symbol": "2327",
       "name": "國巨",
       "days": 2,
       "dates": [
-        "8/2",
+        "8/3",
         "7/30"
       ],
       "mentions": 2,
@@ -270,7 +249,7 @@
       "name": "禾伸堂",
       "days": 2,
       "dates": [
-        "8/2",
+        "8/3",
         "7/30"
       ],
       "mentions": 2
@@ -280,7 +259,7 @@
       "name": "華新科",
       "days": 2,
       "dates": [
-        "8/2",
+        "8/3",
         "7/30"
       ],
       "mentions": 2,
@@ -295,7 +274,7 @@
       "name": "信昌電",
       "days": 2,
       "dates": [
-        "8/2",
+        "8/3",
         "7/30"
       ],
       "mentions": 2
@@ -305,7 +284,7 @@
       "name": "九豪",
       "days": 2,
       "dates": [
-        "8/2",
+        "8/3",
         "7/30"
       ],
       "mentions": 2
@@ -315,7 +294,7 @@
       "name": "金山電",
       "days": 2,
       "dates": [
-        "8/2",
+        "8/3",
         "7/30"
       ],
       "mentions": 2
@@ -325,19 +304,19 @@
       "name": "信驊",
       "days": 2,
       "dates": [
-        "8/2",
+        "8/3",
         "7/30"
       ],
       "mentions": 2,
       "status": "高檔修正",
-      "dist": -11.6
+      "dist": -10.4
     },
     {
       "symbol": "2454",
       "name": "聯發科",
       "days": 2,
       "dates": [
-        "8/2",
+        "8/3",
         "7/30"
       ],
       "mentions": 2,
@@ -352,7 +331,7 @@
       "name": "雙鴻",
       "days": 2,
       "dates": [
-        "8/2",
+        "8/3",
         "7/30"
       ],
       "mentions": 2
@@ -362,12 +341,12 @@
       "name": "智邦",
       "days": 2,
       "dates": [
-        "8/2",
+        "8/3",
         "7/30"
       ],
       "mentions": 2,
       "status": "高檔修正",
-      "dist": -13.6,
+      "dist": -14.7,
       "luw": 2,
       "luwd": [
         "8/3",
@@ -379,7 +358,7 @@
       "name": "晟銘電",
       "days": 2,
       "dates": [
-        "8/2",
+        "8/3",
         "7/30"
       ],
       "mentions": 2
@@ -389,7 +368,7 @@
       "name": "華城",
       "days": 2,
       "dates": [
-        "8/2",
+        "8/3",
         "7/30"
       ],
       "mentions": 2
@@ -399,7 +378,7 @@
       "name": "士電",
       "days": 2,
       "dates": [
-        "8/2",
+        "8/3",
         "7/30"
       ],
       "mentions": 2
@@ -409,7 +388,7 @@
       "name": "世芯-KY",
       "days": 2,
       "dates": [
-        "8/2",
+        "8/3",
         "7/30"
       ],
       "mentions": 2,
@@ -417,9 +396,185 @@
       "luwd": [
         "7/31"
       ]
+    },
+    {
+      "symbol": "6223",
+      "name": "旺矽",
+      "days": 2,
+      "dates": [
+        "8/3",
+        "7/30"
+      ],
+      "mentions": 2
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxONi1aSnRjOElVQzZGSDllUlJfUjFxZUc4UFZTcHNVcnBaSWxFS1d3UzVMNHEyQVFFSGZxbkdDeV9ub2tzR0Z0bWFsY3lzcW5BOHpYOXFaWm9haHl3dzZtWE8yTUtCeUZHWUJNVVZ3ZDlvN0wxc3RidmJRNlNDbWNtOERuRGM5UndT",
+      "tkey": "熱門族群又見10燈獎！矽光子鍍金大立光也瘋狂",
+      "title": "《熱門族群》又見10燈獎！矽光子鍍金 大立光也瘋狂 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6260059001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 05 Aug 2026 03:13:00 GMT",
+      "stocks": [
+        {
+          "symbol": "4971",
+          "name": "IET-KY",
+          "point": "矽光子概念股強攻漲停",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "8/4",
+            "8/3",
+            "7/31",
+            "7/30",
+            "7/29"
+          ]
+        },
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "矽光子概念股強攻漲停",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "8/4",
+            "8/3",
+            "7/31",
+            "7/30",
+            "7/29"
+          ]
+        },
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "矽光子概念股強攻漲停",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "8/4",
+            "8/3",
+            "7/31",
+            "7/30",
+            "7/29"
+          ]
+        },
+        {
+          "symbol": "3163",
+          "name": "波若威",
+          "point": "矽光子概念股強攻漲停",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "8/4",
+            "8/3",
+            "7/31",
+            "7/30",
+            "7/29"
+          ]
+        },
+        {
+          "symbol": "4979",
+          "name": "華星光",
+          "point": "矽光子概念股強攻漲停",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "8/4",
+            "8/3",
+            "7/31",
+            "7/30",
+            "7/29"
+          ]
+        },
+        {
+          "symbol": "4991",
+          "name": "環宇-KY",
+          "point": "矽光子概念股強攻漲停",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "8/4",
+            "8/3",
+            "7/31",
+            "7/30",
+            "7/29"
+          ]
+        },
+        {
+          "symbol": "6451",
+          "name": "訊芯-KY",
+          "point": "矽光子概念股強攻漲停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/3"
+          ]
+        },
+        {
+          "symbol": "3587",
+          "name": "閎康",
+          "point": "矽光子概念股強攻漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "8/4",
+            "8/3",
+            "7/31",
+            "7/30",
+            "7/29"
+          ]
+        },
+        {
+          "symbol": "6706",
+          "name": "惠特",
+          "point": "矽光子概念股強攻漲停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "6530",
+          "name": "創威",
+          "point": "矽光子概念股強攻漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6526",
+          "name": "達發",
+          "point": "矽光子概念股強攻漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "積極搶攻CPO FA，股價強升",
+          "status": "高檔修正",
+          "dist": -12.8,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/4"
+          ]
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "受大立光帶動同步走強",
+          "limitUp": false
+        }
+      ],
+      "background": "矽光子CPO技術受AI巨頭輝達點名，未來光通訊市場商機龐大，磷化銦可能成為供應瓶頸。台廠供應鏈預計2026下半年至2027年進入量產關鍵期。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxObFl6VU1XUVZNc2FXZWRXakR6UXFvVHA5WWJuTTRhVmJ0Sm5nbjZJMWJ6azlOLWU1UUhIZUk1WklFOTZWcE10Qk1pNTJMcVBZelRzQy1lbENtMlBwOG1Pd1ozTURWbGxDM0tRWFFzMUx3dEJ0Qko2cEtueWlFTkdtVlBWUURQVXo1",
       "tkey": "熱門族群台積電領軍二線晶圓代工廠助陣飆逾千點",
@@ -487,6 +642,195 @@
       "themeTags": [
         "需求驅動",
         "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiWkFVX3lxTE1pRXdBUkNhamxfaU5ianlPS2RfdklXYTZaTm1IZEc0NFRDaF93RE9BUnNJQzNVdjFDd0Z3ZmpHSnYzQ3ZPUlpJTThrTWdwYXV2bEtkOXZiUW01QdIBX0FVX3lxTE0wWE9rYzBmWlNETXVFYlMyNVZkeWZHYU81Rll5RlptbWVpTDdiaG40eG95ZUx2N2UwYVpxeHgyUkt5bXlpeGNpZ3FaWTRtc0tZd2taN3RuY1V2T2RLSURn",
+      "tkey": "台股回檔爆槓桿危機！929檔融資告急名單熱門族群個股曝光",
+      "title": "台股回檔爆槓桿危機！929檔「融資告急名單」熱門族群個股曝光 - 經濟日報",
+      "url": "https://money.udn.com/money/story/5607/9656781",
+      "source": "經濟日報",
+      "pubDate": "Mon, 03 Aug 2026 09:00:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "融資維持率滑落至117.78％",
+          "luw": 2,
+          "luwd": [
+            "8/3",
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "point": "融資維持率掉到114.98％"
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "融資維持率降至102.65％",
+          "luw": 2,
+          "luwd": [
+            "8/3",
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "6173",
+          "name": "信昌電",
+          "point": "融資維持率來到104.32％"
+        },
+        {
+          "symbol": "6127",
+          "name": "九豪",
+          "point": "融資維持率跌至102.72％"
+        },
+        {
+          "symbol": "8042",
+          "name": "金山電",
+          "point": "融資維持率落至114.82％"
+        },
+        {
+          "symbol": "5274",
+          "name": "信驊",
+          "point": "融資維持率跌破警戒線來到144.57％",
+          "status": "高檔修正",
+          "dist": -10.4
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "融資維持率降至139.16％",
+          "luw": 2,
+          "luwd": [
+            "8/3",
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "point": "融資維持率落至134.24％"
+        },
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "point": "融資維持率來到141.52％"
+        },
+        {
+          "symbol": "2345",
+          "name": "智邦",
+          "point": "融資維持率為141.21％",
+          "status": "高檔修正",
+          "dist": -14.7,
+          "luw": 2,
+          "luwd": [
+            "8/3",
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "3013",
+          "name": "晟銘電",
+          "point": "融資維持率為115.39％"
+        },
+        {
+          "symbol": "1519",
+          "name": "華城",
+          "point": "融資維持率為137.05％"
+        },
+        {
+          "symbol": "1503",
+          "name": "士電",
+          "point": "融資維持率為139.65％"
+        },
+        {
+          "symbol": "3661",
+          "name": "世芯-KY",
+          "point": "融資維持率跌至125.35％",
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "2303",
+          "name": "聯電",
+          "point": "融資維持率降至128.28％",
+          "luw": 1,
+          "luwd": [
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "6223",
+          "name": "旺矽",
+          "point": "融資維持率為140.63％"
+        },
+        {
+          "symbol": "6643",
+          "name": "M31",
+          "point": "融資維持率來到130.79％"
+        },
+        {
+          "symbol": "2313",
+          "name": "華通",
+          "point": "融資維持率跌至127.74％",
+          "luw": 2,
+          "luwd": [
+            "8/3",
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "point": "融資維持率來到116.89％",
+          "luw": 2,
+          "luwd": [
+            "8/3",
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "融資維持率為142.81％",
+          "luw": 2,
+          "luwd": [
+            "8/3",
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "融資維持率為140.28％",
+          "status": "高檔修正",
+          "dist": -10.2,
+          "luw": 3,
+          "luwd": [
+            "8/4",
+            "8/3",
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "融資維持率為136.02％",
+          "luw": 2,
+          "luwd": [
+            "8/4",
+            "7/31"
+          ]
+        }
+      ],
+      "background": "台股近期大幅修正，引發融資追繳與斷頭壓力，多檔熱門股融資維持率跌破警戒線。被動元件、AI供應鏈、IC設計、PCB載板、重電綠能等族群首當其衝。",
+      "themeTags": [
+        "循環位置"
       ]
     },
     {
