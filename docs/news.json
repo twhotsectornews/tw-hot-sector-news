@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-05T14:03:45.915+08:00",
-  "generatedAt": "2026-08-05T06:03:45.915Z",
+  "asOf": "2026-08-05T16:15:34.955+08:00",
+  "generatedAt": "2026-08-05T08:15:34.955Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -67,7 +67,8 @@
         "7/30"
       ],
       "mentions": 4,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 2,
       "luwd": [
         "8/4",
@@ -461,7 +462,8 @@
           "symbol": "4971",
           "name": "IET-KY",
           "point": "盤中股價亮燈漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "8/4",
@@ -490,7 +492,8 @@
           "symbol": "4971",
           "name": "IET-KY",
           "point": "矽光子概念股強攻漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "8/4",
@@ -605,7 +608,8 @@
           "symbol": "6706",
           "name": "惠特",
           "point": "矽光子概念股強攻漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "7/31"
@@ -616,7 +620,15 @@
           "name": "創威",
           "point": "矽光子概念股強攻漲停",
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "8/4",
+            "8/3",
+            "7/31",
+            "7/30",
+            "7/29"
+          ]
         },
         {
           "symbol": "6526",
@@ -691,7 +703,8 @@
           "symbol": "6770",
           "name": "力積電",
           "point": "看好下半年營運更旺",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 2,
           "luwd": [
             "8/4",
