@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "updatedAt": "2026-08-06T06:03:32.370Z",
+  "updatedAt": "2026-08-06T08:14:14.678Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQNmY0RjVCUTRpZHdzblhuZDVUbGtMY29wRjJObWVSd0VaRTgyU1lxTjlUS3RZSWcxUE9nZzBuY3Jwb3VlQ0dGcFhoWmplR3pHMnFrbG1NZE5NZTlzN0x4YTZzNlF3d2hfQlItSzdaYlNmV3U2d3AzRUk5WFlJZlBmajZMUFNtTDdZ",
@@ -29,15 +29,7 @@
           "name": "穩懋",
           "point": "盤中股價亮燈漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "8/5",
-            "8/4",
-            "8/3",
-            "7/31",
-            "7/30"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "3450",
@@ -57,15 +49,7 @@
           "name": "IET-KY",
           "point": "盤中股價亮燈漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "8/5",
-            "8/4",
-            "8/3",
-            "7/31",
-            "7/30"
-          ]
+          "pct": 10
         }
       ],
       "background": "美國擬禁止大陸AI光收發器進入，保護AI基礎設施，激勵台灣光通訊股受惠。AI資料中心高速光通訊需求快速擴大。",
@@ -87,30 +71,14 @@
           "name": "IET-KY",
           "point": "矽光子概念股強攻漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "8/5",
-            "8/4",
-            "8/3",
-            "7/31",
-            "7/30"
-          ]
+          "pct": 10
         },
         {
           "symbol": "3105",
           "name": "穩懋",
           "point": "矽光子概念股強攻漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "8/5",
-            "8/4",
-            "8/3",
-            "7/31",
-            "7/30"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "3081",
@@ -132,45 +100,21 @@
           "name": "波若威",
           "point": "矽光子概念股強攻漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "8/5",
-            "8/4",
-            "8/3",
-            "7/31",
-            "7/30"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "4979",
           "name": "華星光",
           "point": "矽光子概念股強攻漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "8/5",
-            "8/4",
-            "8/3",
-            "7/31",
-            "7/30"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "4991",
           "name": "環宇-KY",
           "point": "矽光子概念股強攻漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "8/5",
-            "8/4",
-            "8/3",
-            "7/31",
-            "7/30"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6451",
@@ -189,15 +133,7 @@
           "name": "閎康",
           "point": "矽光子概念股強攻漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "8/5",
-            "8/4",
-            "8/3",
-            "7/31",
-            "7/30"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6706",
@@ -216,15 +152,7 @@
           "name": "創威",
           "point": "矽光子概念股強攻漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "8/5",
-            "8/4",
-            "8/3",
-            "7/31",
-            "7/30"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6526",
