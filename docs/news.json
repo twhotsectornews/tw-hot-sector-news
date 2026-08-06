@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-06T16:14:14.682+08:00",
-  "generatedAt": "2026-08-06T08:14:14.682Z",
+  "asOf": "2026-08-06T17:42:27.807+08:00",
+  "generatedAt": "2026-08-06T09:42:27.807Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -21,6 +21,16 @@
       "luwd": [
         "7/31"
       ]
+    },
+    {
+      "symbol": "6274",
+      "name": "台燿",
+      "days": 2,
+      "dates": [
+        "8/5",
+        "7/31"
+      ],
+      "mentions": 3
     },
     {
       "symbol": "2330",
@@ -92,6 +102,32 @@
         "8/3",
         "7/31"
       ]
+    },
+    {
+      "symbol": "2313",
+      "name": "華通",
+      "days": 2,
+      "dates": [
+        "8/5",
+        "8/3"
+      ],
+      "mentions": 2,
+      "luw": 3,
+      "luwd": [
+        "8/5",
+        "8/3",
+        "7/31"
+      ]
+    },
+    {
+      "symbol": "6271",
+      "name": "同欣電",
+      "days": 2,
+      "dates": [
+        "8/5",
+        "7/31"
+      ],
+      "mentions": 2
     },
     {
       "symbol": "6770",
@@ -332,6 +368,71 @@
       "stocks": [],
       "background": "AI產業鏈近期面臨修正，資金轉向其他具支撐力的族群，紡織股因其穩定性與特定題材，成為市場的撐盤要角。",
       "themeTags": []
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE9mLUhtZC1FYUZpb1N6TWxGUnhiSVpzVkFoRGNKbW5JSlBrQVp5dzcxX043SjVFRGY5Z1VDRjVKdXdmd1ZPSldQdnczSThXSzZpQk40THlXSnI",
+      "tkey": "3491昇達科-熱門族群SpaceX財報靚！低軌衛星噴了昇達科飆3根、...-股市爆料同學會",
+      "title": "3491 昇達科 - 《熱門族群》SpaceX財報靚！低軌衛星噴了 昇達科飆3根、... - 股市爆料同學會 - CMoney",
+      "url": "https://www.cmoney.tw/forum/article/181395743",
+      "source": "CMoney",
+      "pubDate": "Wed, 05 Aug 2026 05:31:31 GMT",
+      "stocks": [
+        {
+          "symbol": "3491",
+          "name": "昇達科",
+          "point": "低軌衛星需求成長，獲利大躍進"
+        },
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "低軌衛星概念股，強攻漲停"
+        },
+        {
+          "symbol": "2313",
+          "name": "華通",
+          "point": "衝刺光模塊、AI伺服器及低軌衛星",
+          "luw": 3,
+          "luwd": [
+            "8/5",
+            "8/3",
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "4906",
+          "name": "正文",
+          "point": "低軌衛星概念股，同步亮燈",
+          "luw": 1,
+          "luwd": [
+            "8/5"
+          ]
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "低軌衛星概念股，強攻漲停"
+        },
+        {
+          "symbol": "7717",
+          "name": "萊德光電-KY",
+          "point": "低軌衛星概念股，聯袂走強"
+        },
+        {
+          "symbol": "8027",
+          "name": "鈦昇",
+          "point": "低軌衛星概念股，聯袂走強"
+        },
+        {
+          "symbol": "6271",
+          "name": "同欣電",
+          "point": "低軌衛星概念股，聯袂走強"
+        }
+      ],
+      "background": "低軌衛星產業受SpaceX財報亮眼激勵，全球部署加速，加上AI高速通訊需求，帶動相關供應鏈成長。台灣廠商受惠去中化趨勢，迎來新商機。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxQNmY0RjVCUTRpZHdzblhuZDVUbGtMY29wRjJObWVSd0VaRTgyU1lxTjlUS3RZSWcxUE9nZzBuY3Jwb3VlQ0dGcFhoWmplR3pHMnFrbG1NZE5NZTlzN0x4YTZzNlF3d2hfQlItSzdaYlNmV3U2d3AzRUk5WFlJZlBmajZMUFNtTDdZ",
