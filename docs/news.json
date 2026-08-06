@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-06T12:02:52.536+08:00",
-  "generatedAt": "2026-08-06T04:02:52.536Z",
+  "asOf": "2026-08-06T13:03:34.837+08:00",
+  "generatedAt": "2026-08-06T05:03:34.837Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -154,6 +154,100 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNSjhsUldoaUw3RWw5cW5IU1g0TXBQeDZWR1FyOU5UWklOMDU2bXJLdU5laG1NRzFnbGgzWnpMakdiUVBzcm1OZmRKSzVvUTYzUmgtN2ZTSW9GNGNZcS1LWlh5MmdzNHRieFU3amI4eGVPX1hGbk80SF9qcUVPM0w1QnpONU1rNy1n",
+      "tkey": "熱門族群黃仁勳開金口！機器人漲聲響鴻家軍鎖紅燈",
+      "title": "《熱門族群》黃仁勳開金口！機器人漲聲響 鴻家軍鎖紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6261448001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 06 Aug 2026 03:24:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2354",
+          "name": "鴻準",
+          "point": "強攻漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "4555",
+          "name": "氣立",
+          "point": "強攻漲停、營運報喜",
+          "limitUp": false
+        },
+        {
+          "symbol": "4561",
+          "name": "健椿",
+          "point": "強攻漲停",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "5289",
+          "name": "宜鼎",
+          "point": "強攻漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6907",
+          "name": "雅特力-KY",
+          "point": "強攻漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6419",
+          "name": "京晨科",
+          "point": "強攻漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6166",
+          "name": "凌華",
+          "point": "強勢表態",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "8/5",
+            "8/3"
+          ]
+        },
+        {
+          "symbol": "4540",
+          "name": "全球傳動",
+          "point": "強勢表態",
+          "limitUp": false
+        },
+        {
+          "symbol": "2464",
+          "name": "盟立",
+          "point": "強勢表態",
+          "status": "高檔修正",
+          "dist": -12.8,
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "8/4",
+            "8/3",
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "1597",
+          "name": "直得",
+          "point": "強勢表態、營運報喜",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "8/3",
+            "7/31"
+          ]
+        }
+      ],
+      "background": "輝達執行長黃仁勳點名機器人為下波AI浪潮，Google、AMD及特斯拉也投入機器人AI模型，帶動相關概念股受惠，產業由概念驗證邁向量產。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOWmU1Y3JFa0ZSdDhOSDhIVG1aOVl3MENWUDNQZ1NTMTJEMGkySmtzcG11aGQwOHNHLU9oMkktUFU1X0s2clh0SElYVHYzWVJRSEZYSG5jSklEVENxdnljaEhxclRSeGtORzBpUTN2Tm5QeERubEpZYXU4RC1abU83enB0eTF0U3hL",
       "tkey": "熱門族群晶技、奇鋐各擁利多法人喊買",
