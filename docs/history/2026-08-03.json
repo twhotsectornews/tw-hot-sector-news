@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "updatedAt": "2026-08-05T12:26:50.254Z",
+  "updatedAt": "2026-08-06T03:02:59.626Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTFBIN3JYM0VpZEdRZHdNajZ1VUlwcGJLT1BoRmNydjVRbVY4N3o4ZVZMQWltcVRyVW5pcGxuaVAzWnBRcjBVRGJBNkMyQ29ITmRTb0hqTG9NeXA",
@@ -37,7 +37,11 @@
         {
           "symbol": "3026",
           "name": "禾伸堂",
-          "point": "融資維持率掉到114.98％"
+          "point": "融資維持率掉到114.98％",
+          "luw": 1,
+          "luwd": [
+            "8/5"
+          ]
         },
         {
           "symbol": "2492",
@@ -150,8 +154,9 @@
           "symbol": "2313",
           "name": "華通",
           "point": "融資維持率跌至127.74％",
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "8/5",
             "8/3",
             "7/31"
           ]
@@ -331,8 +336,9 @@
           "name": "臻鼎-KY",
           "point": "入股尖點",
           "limitUp": false,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "8/5",
             "7/31"
           ]
         },
