@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-06T13:03:34.837+08:00",
-  "generatedAt": "2026-08-06T05:03:34.837Z",
+  "asOf": "2026-08-06T13:39:25.548+08:00",
+  "generatedAt": "2026-08-06T05:39:25.548Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -166,7 +166,8 @@
           "symbol": "2354",
           "name": "鴻準",
           "point": "強攻漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "4555",
@@ -185,13 +186,15 @@
           "symbol": "5289",
           "name": "宜鼎",
           "point": "強攻漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6907",
           "name": "雅特力-KY",
           "point": "強攻漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6419",
