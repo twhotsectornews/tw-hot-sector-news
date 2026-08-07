@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-07T12:04:38.484+08:00",
-  "generatedAt": "2026-08-07T04:04:38.484Z",
+  "asOf": "2026-08-07T12:49:31.079+08:00",
+  "generatedAt": "2026-08-07T04:49:31.079Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -66,6 +66,22 @@
       ],
       "mentions": 2,
       "limitUp": false
+    },
+    {
+      "symbol": "2345",
+      "name": "智邦",
+      "days": 2,
+      "dates": [
+        "8/7",
+        "8/3"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "8/3",
+        "7/31"
+      ]
     },
     {
       "symbol": "3017",
@@ -193,6 +209,37 @@
       "background": "士電與大亞受惠於台灣政府推動的「台電強韌電網計畫」釋單，以及國際銅價上漲，帶動營收與獲利成長。美國AI資料中心需求亦推升變壓器需求。",
       "themeTags": [
         "政策關稅",
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNWC1VS3ZKaUtiQk9aSm16WkRHUUtQS1RoV2lBc3JYUUMwN3ZJU2VORWE0T0dNa0Ixb2N4Ynp2LUJoSzFCNWRDZzdoX1lDXzdpZzNjSDhkS1NlYktRdldtal9xRE1PWi1jbnhWUldfODZ4Q1VScG1oei1yc3l4SjhtMlc5OWVaQUot",
+      "tkey": "熱門族群網通雙雄7月營收寫佳績",
+      "title": "《熱門族群》網通雙雄 7月營收寫佳績 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6262607001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Fri, 07 Aug 2026 00:08:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2345",
+          "name": "智邦",
+          "point": "7月營收逼近400億元、年增逾七成",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "8/3",
+            "7/31"
+          ]
+        },
+        {
+          "symbol": "5388",
+          "name": "中磊",
+          "point": "7月營收79.8億元再創單月新高",
+          "limitUp": false
+        }
+      ],
+      "background": "網通產業受惠AI資料中心建置、雲端基礎設施升級及全球電信寬頻設備汰換需求，Wi-Fi 7、10G PON、5G FWA等需求增溫。",
+      "themeTags": [
         "需求驅動"
       ]
     },
