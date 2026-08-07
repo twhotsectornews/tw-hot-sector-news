@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "updatedAt": "2026-08-06T12:29:31.341Z",
+  "updatedAt": "2026-08-07T03:04:08.077Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE9mLUhtZC1FYUZpb1N6TWxGUnhiSVpzVkFoRGNKbW5JSlBrQVp5dzcxX043SjVFRGY5Z1VDRjVKdXdmd1ZPSldQdnczSThXSzZpQk40THlXSnI",
@@ -150,15 +150,7 @@
           "name": "聯亞",
           "point": "矽光子概念股強攻漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "8/5",
-            "8/4",
-            "8/3",
-            "7/31",
-            "7/30"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "3163",
