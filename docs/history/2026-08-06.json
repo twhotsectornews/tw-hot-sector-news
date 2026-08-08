@@ -1,6 +1,6 @@
 {
   "date": "2026-08-06",
-  "updatedAt": "2026-08-07T11:29:35.593Z",
+  "updatedAt": "2026-08-08T03:01:20.740Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNSjhsUldoaUw3RWw5cW5IU1g0TXBQeDZWR1FyOU5UWklOMDU2bXJLdU5laG1NRzFnbGgzWnpMakdiUVBzcm1OZmRKSzVvUTYzUmgtN2ZTSW9GNGNZcS1LWlh5MmdzNHRieFU3amI4eGVPX1hGbk80SF9qcUVPM0w1QnpONU1rNy1n",
@@ -40,11 +40,11 @@
           "pct": 9.9,
           "luw": 5,
           "luwd": [
+            "8/7",
             "8/6",
             "8/5",
             "8/4",
-            "8/3",
-            "7/31"
+            "8/3"
           ]
         },
         {
@@ -92,11 +92,10 @@
           "status": "高檔修正",
           "dist": -12.8,
           "limitUp": false,
-          "luw": 3,
+          "luw": 2,
           "luwd": [
             "8/4",
-            "8/3",
-            "7/31"
+            "8/3"
           ]
         },
         {
@@ -104,10 +103,9 @@
           "name": "直得",
           "point": "強勢表態、營運報喜",
           "limitUp": false,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "8/3",
-            "7/31"
+            "8/3"
           ]
         }
       ],
@@ -142,10 +140,9 @@
           "status": "逼近新高",
           "dist": -3.8,
           "limitUp": false,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "8/3",
-            "7/31"
+            "8/3"
           ]
         }
       ],
