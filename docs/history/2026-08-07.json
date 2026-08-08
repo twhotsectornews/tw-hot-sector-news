@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "updatedAt": "2026-08-08T09:49:23.596Z",
+  "updatedAt": "2026-08-08T10:41:01.112Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE9HZGZFVFJDS0I1Y2RZQW1xSDUtb29GUUx4a0hxUlBNMlp6TXFERWpUWXBrOGxRZXJBX19LSTc4SHR6Q0RabHZOY3Jienp2RmlGZV9BaUtTd0Q",
@@ -206,6 +206,42 @@
         }
       ],
       "background": "網通產業受惠AI資料中心建置、雲端基礎設施升級及全球電信寬頻設備汰換需求，Wi-Fi 7、10G PON、5G FWA等需求增溫。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOQ3RqY05CaGlKd3BQRGpHZW5mSmthR1NfOE9sRVlhbllDaTBBZmtkb2g0eW9fOWc3Y3kxVUtMT0FoZnJuUkhOZG5Sbk1WMHNRMXoxdjQ2ZFB6Q0pyUnNsbHo5TVVkbllQdkJvVi00ajYyb3V2SGI3cHNrODRkbEloZzlma3d0TU10",
+      "tkey": "熱門族群東鋼、緯穎訂單滿手",
+      "title": "《熱門族群》東鋼、緯穎 訂單滿手 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6262612001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Fri, 07 Aug 2026 00:08:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2006",
+          "name": "東鋼",
+          "point": "鋼構訂單滿至2027年上半年",
+          "status": "創新高",
+          "dist": 0,
+          "luw": 1,
+          "luwd": [
+            "8/6"
+          ]
+        },
+        {
+          "symbol": "6669",
+          "name": "緯穎",
+          "point": "AI伺服器需求升溫，營運可期",
+          "status": "逼近新高",
+          "dist": -4.7,
+          "luw": 1,
+          "luwd": [
+            "8/3"
+          ]
+        }
+      ],
+      "background": "東鋼受惠高科技廠房建置需求，訂單能見度高；緯穎則因通用型與AI伺服器需求提升，營運展望樂觀。",
       "themeTags": [
         "需求驅動"
       ]
