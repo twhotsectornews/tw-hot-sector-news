@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "updatedAt": "2026-08-08T06:32:39.308Z",
+  "updatedAt": "2026-08-08T09:41:07.430Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE9HZGZFVFJDS0I1Y2RZQW1xSDUtb29GUUx4a0hxUlBNMlp6TXFERWpUWXBrOGxRZXJBX19LSTc4SHR6Q0RabHZOY3Jienp2RmlGZV9BaUtTd0Q",
@@ -45,6 +45,41 @@
         }
       ],
       "background": "台塑四寶營運受AI材料需求與國際油價、地緣政治影響，南亞受惠AI帶動電子材料需求強勁，而石化產品則受油價震盪及客戶採購保守影響。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQWmEyZmJ4ZmZ6MXdHbUlfUGROaGJRY2F0aGtLT3laRVVXUzFPTjNKVFBEWkVqQnM3Z0piODNpaXdmc1JIaS1sWW92amhJSnRpa3ZwNWVwMzFsY0tJU21nSlRhbG5pbXFOZFgtb2tVb0s0UnVkU3pJakFHcGU5bHBQMlFBelp3U21D",
+      "tkey": "熱門族群台塑四寶Q3冷熱不一南亞AI材料旺、台塑營收估降-ww2.money",
+      "title": "《熱門族群》台塑四寶Q3冷熱不一 南亞AI材料旺、台塑營收估降 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6263641001&PU=0031",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Fri, 07 Aug 2026 08:00:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "受美伊戰事影響，Q3營收估降"
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "AI材料需求強勁，Q3營運優於Q2"
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "看好9月旺季備料，Q3營運樂觀"
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "煉油廠產能利用率高，輕油裂解廠低"
+        }
+      ],
+      "background": "台塑四寶營運受國際油價震盪、美伊戰事及AI需求影響，南亞因AI材料需求強勁表現亮眼，石化業整體受地緣政治與淡旺季影響。",
       "themeTags": [
         "需求驅動",
         "循環位置"
