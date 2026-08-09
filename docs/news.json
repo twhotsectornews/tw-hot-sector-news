@@ -1,11 +1,25 @@
 {
-  "asOf": "2026-08-09T14:37:46.140+08:00",
-  "generatedAt": "2026-08-09T06:37:46.140Z",
+  "asOf": "2026-08-09T17:43:12.615+08:00",
+  "generatedAt": "2026-08-09T09:43:12.615Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "3008",
+      "name": "大立光",
+      "days": 2,
+      "dates": [
+        "8/9",
+        "8/5"
+      ],
+      "mentions": 2,
+      "luw": 1,
+      "luwd": [
+        "8/4"
+      ]
+    },
     {
       "symbol": "3017",
       "name": "奇鋐",
@@ -108,6 +122,29 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE0xczUzZWN3STdtNlEyTjNPNEs5ZnNFbW4xeExlUmkyRXFNWVhJZkljTmtub2trYVYyNEJtVXA5YTlFOXByNU92aUFTVE1TZHlZcERJME5NRkw",
+      "tkey": "熱門族群受惠CPO題材大立光領軍光學族群上衝",
+      "title": "熱門族群》受惠CPO題材 大立光領軍光學族群上衝 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/b4kt7zt65bh5",
+      "source": "自由時報",
+      "pubDate": "Sun, 09 Aug 2026 03:37:08 GMT",
+      "stocks": [
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "受惠CPO題材，領軍光學族群上衝",
+          "luw": 1,
+          "luwd": [
+            "8/4"
+          ]
+        }
+      ],
+      "background": "CPO（共同封裝光學）技術受AI伺服器需求驅動，光學元件廠有望受惠，大立光為台灣光學鏡頭龍頭。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiX0FVX3lxTE9Pc3ZQUHI3R2FpR216UjBPak1SNXZqZlhUUXRsWnJFQUhOLXpib09uZUFDYUlLOXFxWmJYM1h6bGdjTWl0Q0FiQnRKcENzcHRVNTJLWFItOXhJQkdTaXN3",
       "tkey": "熱門族群AI伺服器持續升級散熱族群熱呼呼",
