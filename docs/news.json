@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-10T13:02:54.447+08:00",
-  "generatedAt": "2026-08-10T05:02:54.447Z",
+  "asOf": "2026-08-10T14:06:29.182+08:00",
+  "generatedAt": "2026-08-10T06:06:29.182Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -83,7 +83,8 @@
           "point": "績優生登頂，高階銅箔基板需求強勁",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 3,
           "luwd": [
             "8/6",
@@ -95,7 +96,8 @@
           "symbol": "3715",
           "name": "定穎投控",
           "point": "強勢亮燈",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.6
         },
         {
           "symbol": "6672",
@@ -162,7 +164,8 @@
           "symbol": "2337",
           "name": "旺宏",
           "point": "聯袂上攻，創波段反彈新高",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 2,
           "luwd": [
             "8/6",
@@ -186,7 +189,8 @@
           "point": "股價連續大漲，再攻天價",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.6
         },
         {
           "symbol": "3006",
@@ -212,7 +216,8 @@
           "symbol": "6239",
           "name": "力成",
           "point": "開高後急拉漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         }
       ],
       "background": "記憶體供應緊張預計延續至明年下半年，DRAM雙雄有望入列MSCI成分股，帶動族群全面爆發。國際大廠如三星、SK海力士、美光也預期記憶體景氣復甦。",
@@ -233,7 +238,8 @@
           "symbol": "3481",
           "name": "群創",
           "point": "爆量漲停、成交量冠軍",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "2409",
@@ -266,7 +272,8 @@
           "symbol": "3481",
           "name": "群創",
           "point": "爆量漲停、成交量冠軍",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "2409",
