@@ -1,11 +1,24 @@
 {
-  "asOf": "2026-08-10T12:24:02.550+08:00",
-  "generatedAt": "2026-08-10T04:24:02.550Z",
+  "asOf": "2026-08-10T13:02:54.447+08:00",
+  "generatedAt": "2026-08-10T05:02:54.447Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 2,
+      "dates": [
+        "8/10",
+        "8/5"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -5.5,
+      "limitUp": false
+    },
     {
       "symbol": "6770",
       "name": "力積電",
@@ -21,19 +34,6 @@
         "8/5",
         "8/4"
       ]
-    },
-    {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 2,
-      "dates": [
-        "8/10",
-        "8/5"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -5.5,
-      "limitUp": false
     },
     {
       "symbol": "3008",
@@ -101,7 +101,8 @@
           "symbol": "6672",
           "name": "騰輝電子-KY",
           "point": "跳空漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "8046",
@@ -251,6 +252,39 @@
         }
       ],
       "background": "面板雙虎受市場傳聞台積電有意購入其廠區擴充先進封裝產能激勵，加上台股強勢反彈，資金回流推升股價。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMikgFBVV95cUxQbVdvUkdRVERUYkV3T2tJbWF2LUMtTzlTNWVQNC1nZ1RKcjY3YkhFemNNTzNiM0NxbUVoblVrUm1rY2JIWXhockVkWW1jYVRkRmNjMWhMSnFkRG5Zc1lSMVRXdlFTaVc5cWprUjlCWjJvVC1fa3VZb2hSY3VocU5wUmpkSzZhVFBFaFR5czM4cUVfQQ",
+      "tkey": "熱門族群面板虎雙響炮！群創、友達爆量漲停-ww2.money",
+      "title": "《熱門族群》面板虎「雙響炮」！ 群創、友達爆量漲停 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6265927001&pu=News_0002_2",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Mon, 10 Aug 2026 02:31:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "point": "爆量漲停、成交量冠軍",
+          "limitUp": false
+        },
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "爆量漲停、成交量亞軍",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "傳有意購入友達廠房",
+          "status": "逼近新高",
+          "dist": -5.7,
+          "limitUp": false
+        }
+      ],
+      "background": "面板雙虎因市場傳聞台積電有意購入其廠房擴充先進封裝產能，加上台股強勢反彈，資金湧入帶動股價爆量漲停。",
       "themeTags": []
     },
     {
