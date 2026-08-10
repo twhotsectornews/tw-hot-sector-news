@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-10T17:44:00.783+08:00",
-  "generatedAt": "2026-08-10T09:44:00.783Z",
+  "asOf": "2026-08-10T18:27:23.674+08:00",
+  "generatedAt": "2026-08-10T10:27:23.674Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -69,6 +69,19 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE8yWHNiNmZQR0lkTzVDSmdVbFN4cGpSQl9wTjczUEw2aTMxWk0zNjRSdU95QjdPczJQbkxfNUloamFyeUNfcXVOd0NESVVSYzd5SWlUbHY0WnI",
+      "tkey": "熱門族群無人機條例朝野版本齊發軍工股亮燈表態",
+      "title": "熱門族群》 無人機條例朝野版本齊發 軍工股亮燈表態 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/brxsuwzf7cys",
+      "source": "自由時報",
+      "pubDate": "Mon, 10 Aug 2026 06:52:47 GMT",
+      "stocks": [],
+      "background": "無人機條例朝野版本齊發，顯示政府對無人機產業的重視與推動，軍工股受政策利多激勵，市場預期將帶動相關供應鏈發展。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOVDFJb2dwVWFSLW01LXVrYjdEMkpyUkVqOW1zOUN0OTBsQ05WNUhITHV2QWRuMmJjZm05VVlycmxXUUNJVWRHcHhGZXp1SE9WVzdnd2E1VUFkWURVdElUV2xEdmc1T25BWUNRQkhLSlJKMjMxc0tEN2hIdWY0TUxvZUpQQV9JYzgy",
       "tkey": "熱門族群PCB全面點火！績優生聯茂登頂載板、上游材料掀漲勢",
@@ -191,9 +204,10 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.6,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
             "8/7",
+            "8/6",
             "8/5",
             "8/4",
             "8/3"
