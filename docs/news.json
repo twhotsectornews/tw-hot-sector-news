@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-10T12:04:35.260+08:00",
-  "generatedAt": "2026-08-10T04:04:35.260Z",
+  "asOf": "2026-08-10T12:24:02.550+08:00",
+  "generatedAt": "2026-08-10T04:24:02.550Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -70,6 +70,62 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxOVDFJb2dwVWFSLW01LXVrYjdEMkpyUkVqOW1zOUN0OTBsQ05WNUhITHV2QWRuMmJjZm05VVlycmxXUUNJVWRHcHhGZXp1SE9WVzdnd2E1VUFkWURVdElUV2xEdmc1T25BWUNRQkhLSlJKMjMxc0tEN2hIdWY0TUxvZUpQQV9JYzgy",
+      "tkey": "熱門族群PCB全面點火！績優生聯茂登頂載板、上游材料掀漲勢",
+      "title": "《熱門族群》PCB全面點火！績優生聯茂登頂 載板、上游材料掀漲勢 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6266009001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 10 Aug 2026 03:26:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6213",
+          "name": "聯茂",
+          "point": "績優生登頂，高階銅箔基板需求強勁",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "8/6",
+            "8/5",
+            "8/3"
+          ]
+        },
+        {
+          "symbol": "3715",
+          "name": "定穎投控",
+          "point": "強勢亮燈",
+          "limitUp": false
+        },
+        {
+          "symbol": "6672",
+          "name": "騰輝電子-KY",
+          "point": "跳空漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "ABF載板指標股衝高",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/4"
+          ]
+        },
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "上游材料帶量上攻",
+          "limitUp": false
+        }
+      ],
+      "background": "PCB產業受惠AI伺服器、高速交換器及高階封裝需求升級，帶動高階PCB、載板與相關材料需求增加，市場看好中長期成長動能。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxOLU1zRFlVTXFleC1VSEtXbmNVZlRWQ0J1U2VBQWFUdmNGZW01d095cTVRVFJvVnVpLTNldVlQYmIxTGNyOU05TlhKRkw0UlVNdFlKRlc3UkZkdmotUTJYd1BrU2h1Mlp2RWpaV0NETmdsRTRTYXJWbm5NdjZfOHhfUzd0dVJxbFVu",
       "tkey": "熱門族群MSCI調整有機會入列DRAM雙雄強攻漲停卡位",
       "title": "《熱門族群》MSCI調整有機會入列 DRAM雙雄強攻漲停卡位 - 富聯網",
@@ -93,7 +149,8 @@
           "symbol": "2344",
           "name": "華邦電",
           "point": "強攻漲停，有望入列MSCI",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.8,
           "luw": 2,
           "luwd": [
             "8/4",
