@@ -1,11 +1,27 @@
 {
-  "asOf": "2026-08-10T11:02:57.869+08:00",
-  "generatedAt": "2026-08-10T03:02:57.869Z",
+  "asOf": "2026-08-10T12:04:35.260+08:00",
+  "generatedAt": "2026-08-10T04:04:35.260Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "6770",
+      "name": "力積電",
+      "days": 2,
+      "dates": [
+        "8/10",
+        "8/5"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "8/5",
+        "8/4"
+      ]
+    },
     {
       "symbol": "2330",
       "name": "台積電",
@@ -54,6 +70,100 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxOLU1zRFlVTXFleC1VSEtXbmNVZlRWQ0J1U2VBQWFUdmNGZW01d095cTVRVFJvVnVpLTNldVlQYmIxTGNyOU05TlhKRkw0UlVNdFlKRlc3UkZkdmotUTJYd1BrU2h1Mlp2RWpaV0NETmdsRTRTYXJWbm5NdjZfOHhfUzd0dVJxbFVu",
+      "tkey": "熱門族群MSCI調整有機會入列DRAM雙雄強攻漲停卡位",
+      "title": "《熱門族群》MSCI調整有機會入列 DRAM雙雄強攻漲停卡位 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6265951001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 10 Aug 2026 02:50:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "強攻漲停，有望入列MSCI",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 2,
+          "luwd": [
+            "8/4",
+            "8/3"
+          ]
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "強攻漲停，有望入列MSCI",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "8/4",
+            "8/3"
+          ]
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "聯袂上攻，創波段反彈新高",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "8/6",
+            "8/3"
+          ]
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "聯袂上攻，創波段反彈新高",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "8/5",
+            "8/4"
+          ]
+        },
+        {
+          "symbol": "5351",
+          "name": "鈺創",
+          "point": "股價連續大漲，再攻天價",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false
+        },
+        {
+          "symbol": "3006",
+          "name": "晶豪科",
+          "point": "股價大漲，創歷史新高價",
+          "status": "逼近新高",
+          "dist": -1.6,
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "8/5",
+            "8/4",
+            "8/3"
+          ]
+        },
+        {
+          "symbol": "3260",
+          "name": "威剛",
+          "point": "盤中小漲",
+          "limitUp": false
+        },
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "point": "開高後急拉漲停",
+          "limitUp": false
+        }
+      ],
+      "background": "記憶體供應緊張預計延續至明年下半年，DRAM雙雄有望入列MSCI成分股，帶動族群全面爆發。國際大廠如三星、SK海力士、美光也預期記憶體景氣復甦。",
+      "themeTags": [
+        "循環位置",
+        "國際大廠"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxOSGFwU0gyUXRHQjVZa21rcG5FcEdHOERRdlN5dUFNSThwTkNySnVyMC1yV21QN0U5TnlyTGwwLVBMdi1FZUJkUWRDNUI4bnB3Y0EtcU11Tng0TXI4NjllaDVKa2dWRm9NOTlOVDczQl9uLXNqR05KUjlnOGRhTzhZZ0pTUG1IczJo",
       "tkey": "熱門族群面板虎雙響炮！群創、友達爆量漲停",
       "title": "《熱門族群》面板虎「雙響炮」！ 群創、友達爆量漲停 - 富聯網",
@@ -65,14 +175,14 @@
           "symbol": "3481",
           "name": "群創",
           "point": "爆量漲停、成交量冠軍",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "2409",
           "name": "友達",
           "point": "爆量漲停、成交量亞軍",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "2330",
