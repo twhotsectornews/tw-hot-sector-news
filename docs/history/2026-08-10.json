@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "updatedAt": "2026-08-11T05:48:59.913Z",
+  "updatedAt": "2026-08-11T06:02:47.541Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE8yWHNiNmZQR0lkTzVDSmdVbFN4cGpSQl9wTjczUEw2aTMxWk0zNjRSdU95QjdPczJQbkxfNUloamFyeUNfcXVOd0NESVVSYzd5SWlUbHY0WnI",
@@ -144,7 +144,15 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 9.6
+          "pct": 9.6,
+          "luw": 5,
+          "luwd": [
+            "8/10",
+            "8/7",
+            "8/6",
+            "8/5",
+            "8/4"
+          ]
         },
         {
           "symbol": "3006",
