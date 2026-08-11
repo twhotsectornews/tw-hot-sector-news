@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "updatedAt": "2026-08-10T11:34:02.205Z",
+  "updatedAt": "2026-08-11T03:02:54.699Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE0xczUzZWN3STdtNlEyTjNPNEs5ZnNFbW4xeExlUmkyRXFNWVhJZkljTmtub2trYVYyNEJtVXA5YTlFOXByNU92aUFTVE1TZHlZcERJME5NRkw",
@@ -50,11 +50,7 @@
           "point": "VR200水冷板、ASIC伺服器出貨增加",
           "status": "逼近新高",
           "dist": -7.5,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/3"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "2421",
