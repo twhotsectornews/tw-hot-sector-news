@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-11T11:02:54.702+08:00",
-  "generatedAt": "2026-08-11T03:02:54.702Z",
+  "asOf": "2026-08-11T12:05:59.911+08:00",
+  "generatedAt": "2026-08-11T04:05:59.911Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -66,6 +66,45 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiyAJBVV95cUxQdXVkZFRwUXJhUmVZTFUwMkFwQmdQTGFFbjdjS2s5UlFRZnhZbTFXZnZvWGhtelppR1FqX01sT0Y5eHVIdEM4WkVtb2s1TVNSQWVHTWxIMWVvQ3NPN3ZSSTRGNTJxd0JlblRtY1g2bDI1VVVLNXFUNThyRm5jTm41X2tJUGtaaGZlSllXTFhuZEVxdDdsZHZ4UGRwWUkxb0hLV0tyZktCYnh6YzI3c3NTOW9Ib3JvYjg3V09WMkVpaGxHWDZkd2wtVHpRRU9YUUp2UkpUc3lsM1U3cHlQUHM3NmhWZ1NxUnZhSjAwTF9RcEdMQlZ6VWhhaDhCeGtkS3UtVEVDdFRCemp6ZUY2cEttUDR6U2RYOUxuQWU2bDlZLXBBTjBaazhsMDBvbkJ0WFlhTHQ3R251VEE2cGwweUdsZDB2YWJ0aDI1",
+      "tkey": "台股夜盤跌271點免驚！上週漲逾千點3熱門族群曝",
+      "title": "台股夜盤跌271點免驚！上週漲逾千點「3熱門族群」曝 - Yahoo股市",
+      "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%A4%9C%E7%9B%A4%E8%B7%8C271%E9%BB%9E%E5%85%8D%E9%A9%9A-%E4%B8%8A%E9%80%B1%E6%BC%B2%E9%80%BE%E5%8D%83%E9%BB%9E-3%E7%86%B1%E9%96%80%E6%97%8F%E7%BE%A4-%E6%9B%9D-000201262.html",
+      "source": "Yahoo股市",
+      "pubDate": "Tue, 11 Aug 2026 00:23:24 GMT",
+      "stocks": [],
+      "background": "台股上週大漲千點，資金主要集中在科技供應鏈，半導體、電子零組件與電腦週邊設備三大族群為資金聚集大本營。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNLWZlUS0xeHBpeUkyWTlLN2lqSUFyV0NqSlJwcGI5UmlLdTNtV3ZfRkFlM2ZDb3FVTzhtQnhCaTNrejBWX2NZVGdOa0RRZWJEdTZYVm1pSmE5RDBfUEg3NmZDWVRQOUl4MFk2Q1BNYUlkRHJ5LTMtN28xalpXTVA1RUxPcXppVHR2",
+      "tkey": "熱門族群7月營收年增雙位數和碩Q3迎旺季神達H2穩健",
+      "title": "《熱門族群》7月營收年增雙位數 和碩Q3迎旺季 神達H2穩健 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6267964001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 11 Aug 2026 00:17:00 GMT",
+      "stocks": [
+        {
+          "symbol": "4938",
+          "name": "和碩",
+          "point": "7月營收年增雙位數，Q3迎旺季",
+          "limitUp": false
+        },
+        {
+          "symbol": "3706",
+          "name": "神達",
+          "point": "7月營收年增近五成，下半年穩健",
+          "limitUp": false
+        }
+      ],
+      "background": "和碩與神達受惠於AI伺服器業務成長、ICT產品傳統旺季及超大規模雲端資料中心需求，下半年營運展望樂觀。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiZkFVX3lxTE1XV2hSZFRLMUpCUkNjWDNYbFFVRWhWdWpiT21BSXdEOUNzUzlCMHF1b2xtazQ3ME4wNXc4Q2Z2eTFKRUthb2l2YzNHZlpVNElzUFdmdnk4bi15VzQwUUlBSlVpYUVkdw",
       "tkey": "台股夜盤跌271點免驚！上週大漲逾千點市值衝144兆3大熱門族群出爐",
