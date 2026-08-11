@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-11T14:02:47.545+08:00",
-  "generatedAt": "2026-08-11T06:02:47.545Z",
+  "asOf": "2026-08-11T14:46:07.676+08:00",
+  "generatedAt": "2026-08-11T06:46:07.676Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -537,6 +537,44 @@
         }
       ],
       "background": "和碩與神達受惠於AI伺服器業務成長、ICT產品傳統旺季及超大規模雲端資料中心需求，下半年營運展望樂觀。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTFBMRTMtb0gxMlVLcVpDcHozZU5FUjFvVUp4c2ZyVGZsSHZ0V1MyT0kxTXdsdUphWDluSWk5ZEd5eVd4WU1EdVp3NmY4cVZuVWNiV1ljbXlONmpSS2s3VnlUcHhVZTlCbTN2cVE",
+      "tkey": "熱門族群電信三雄7月拚獲利台灣大單月、前7月EPS稱王-上市櫃",
+      "title": "《熱門族群》電信三雄7月拚獲利台灣大單月、前7月EPS稱王- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260811900113-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Tue, 11 Aug 2026 00:14:52 GMT",
+      "stocks": [
+        {
+          "symbol": "2412",
+          "name": "中華電",
+          "point": "7月營收及EBITDA雙創歷年同期新高",
+          "status": "逼近新高",
+          "dist": -4.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "point": "營收、EBITDA及營業淨利同步創歷年同期新高",
+          "status": "逼近新高",
+          "dist": -7.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "point": "7月每股盈餘0.46元、前7月EPS 3.32元均最高",
+          "status": "逼近新高",
+          "dist": -8.8,
+          "limitUp": false
+        }
+      ],
+      "background": "電信三雄受惠5G升速、漫遊需求升溫及AI市場需求強勁，帶動營收及獲利穩健成長，多項指標創歷年同期新高。",
       "themeTags": [
         "需求驅動"
       ]
