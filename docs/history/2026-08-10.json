@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "updatedAt": "2026-08-11T11:26:19.364Z",
+  "updatedAt": "2026-08-12T03:02:18.438Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE8yWHNiNmZQR0lkTzVDSmdVbFN4cGpSQl9wTjczUEw2aTMxWk0zNjRSdU95QjdPczJQbkxfNUloamFyeUNfcXVOd0NESVVSYzd5SWlUbHY0WnI",
@@ -65,10 +65,8 @@
           "name": "南電",
           "point": "ABF載板指標股衝高",
           "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/4"
-          ]
+          "status": "高檔修正",
+          "dist": -10.6
         },
         {
           "symbol": "1815",
@@ -96,10 +94,9 @@
           "point": "強攻漲停，有望入列MSCI",
           "limitUp": true,
           "pct": 9.8,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "8/10",
-            "8/4"
+            "8/10"
           ]
         },
         {
@@ -108,10 +105,9 @@
           "point": "強攻漲停，有望入列MSCI",
           "limitUp": true,
           "pct": 9.8,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "8/10",
-            "8/4"
+            "8/10"
           ]
         },
         {
@@ -131,10 +127,9 @@
           "name": "力積電",
           "point": "聯袂上攻，創波段反彈新高",
           "limitUp": false,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "8/5",
-            "8/4"
+            "8/5"
           ]
         },
         {
@@ -153,10 +148,9 @@
           "status": "逼近新高",
           "dist": -1.6,
           "limitUp": false,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "8/5",
-            "8/4"
+            "8/5"
           ]
         },
         {
