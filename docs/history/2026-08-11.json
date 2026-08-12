@@ -1,7 +1,27 @@
 {
   "date": "2026-08-11",
-  "updatedAt": "2026-08-12T04:05:47.682Z",
+  "updatedAt": "2026-08-12T04:42:53.096Z",
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
+      "tkey": "熱門族群龍頭聯發科創新高IC設計股搶發AI財",
+      "title": "熱門族群》龍頭聯發科創新高 IC設計股搶發AI財 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/k0bsc03rnawt",
+      "source": "自由時報",
+      "pubDate": "Tue, 11 Aug 2026 11:28:49 GMT",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "龍頭股價創新高"
+        }
+      ],
+      "background": "IC設計產業受AI應用需求強勁帶動，特別是AI晶片與相關解決方案，使聯發科等指標廠受惠，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiWkFVX3lxTE1oSWlUQVlqR1dSajE1YmFRODlvWjhUOVFrb3A4cmZ4dFpnUU5PVWdMX25VMWxjeDFpVkp0dTJKMldDLUVhRHFSaXNUZUFkWEdQSEZKT1dnUUNmZ9IBX0FVX3lxTE5LVWF4blYyMUNZRXRCcEVaYVVVZWpkZmJPaVFoS2VxRThTRkdma1RYZFRubkJUeHRLaXdmbEhqdmNIcWlmTkRuYUZqaUFpRGgyRkxwMWhHLUpSakhUdWtj",
       "tkey": "台股上漲191點收45,120點MLCC擔綱多頭強攻熱門族群",
