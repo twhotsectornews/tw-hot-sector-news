@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-12T13:02:33.263+08:00",
-  "generatedAt": "2026-08-12T05:02:33.263Z",
+  "asOf": "2026-08-12T14:02:15.322+08:00",
+  "generatedAt": "2026-08-12T06:02:15.322Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -152,7 +152,8 @@
         "8/10"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 1,
       "luwd": [
         "8/5"
@@ -249,7 +250,8 @@
           "symbol": "3532",
           "name": "台勝科",
           "point": "回到300關，率先攻頂",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "5483",
@@ -312,7 +314,8 @@
           "symbol": "6770",
           "name": "力積電",
           "point": "發放股利點火，攻上漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 1,
           "luwd": [
             "8/5"
@@ -402,8 +405,7 @@
           "symbol": "5475",
           "name": "德宏",
           "point": "盤中率先亮燈漲停",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "1802",
