@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-12T11:02:18.440+08:00",
-  "generatedAt": "2026-08-12T03:02:18.440Z",
+  "asOf": "2026-08-12T12:05:47.686+08:00",
+  "generatedAt": "2026-08-12T04:05:47.686Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -15,8 +15,57 @@
         "8/11",
         "8/7"
       ],
-      "mentions": 6,
+      "mentions": 9,
       "limitUp": false
+    },
+    {
+      "symbol": "2408",
+      "name": "南亞科",
+      "days": 3,
+      "dates": [
+        "8/12",
+        "8/11",
+        "8/10"
+      ],
+      "mentions": 6,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "8/10"
+      ]
+    },
+    {
+      "symbol": "2344",
+      "name": "華邦電",
+      "days": 3,
+      "dates": [
+        "8/12",
+        "8/11",
+        "8/10"
+      ],
+      "mentions": 6,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "8/10"
+      ]
+    },
+    {
+      "symbol": "2337",
+      "name": "旺宏",
+      "days": 3,
+      "dates": [
+        "8/12",
+        "8/11",
+        "8/10"
+      ],
+      "mentions": 6,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "8/10",
+        "8/6"
+      ]
     },
     {
       "symbol": "2330",
@@ -26,10 +75,9 @@
         "8/11",
         "8/10"
       ],
-      "mentions": 5,
+      "mentions": 7,
       "status": "逼近新高",
-      "dist": -5.5,
-      "limitUp": false
+      "dist": -5.3
     },
     {
       "symbol": "2327",
@@ -39,8 +87,7 @@
         "8/11",
         "8/7"
       ],
-      "mentions": 4,
-      "limitUp": false
+      "mentions": 6
     },
     {
       "symbol": "3481",
@@ -50,8 +97,7 @@
         "8/11",
         "8/10"
       ],
-      "mentions": 4,
-      "limitUp": false,
+      "mentions": 6,
       "luw": 1,
       "luwd": [
         "8/10"
@@ -65,57 +111,10 @@
         "8/11",
         "8/10"
       ],
-      "mentions": 4,
-      "limitUp": false,
+      "mentions": 6,
       "luw": 1,
       "luwd": [
         "8/10"
-      ]
-    },
-    {
-      "symbol": "2408",
-      "name": "南亞科",
-      "days": 2,
-      "dates": [
-        "8/11",
-        "8/10"
-      ],
-      "mentions": 3,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "8/10"
-      ]
-    },
-    {
-      "symbol": "2344",
-      "name": "華邦電",
-      "days": 2,
-      "dates": [
-        "8/11",
-        "8/10"
-      ],
-      "mentions": 3,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "8/10"
-      ]
-    },
-    {
-      "symbol": "2337",
-      "name": "旺宏",
-      "days": 2,
-      "dates": [
-        "8/11",
-        "8/10"
-      ],
-      "mentions": 3,
-      "limitUp": false,
-      "luw": 2,
-      "luwd": [
-        "8/10",
-        "8/6"
       ]
     },
     {
@@ -126,8 +125,7 @@
         "8/11",
         "8/10"
       ],
-      "mentions": 3,
-      "limitUp": false,
+      "mentions": 5,
       "luw": 1,
       "luwd": [
         "8/10"
@@ -141,9 +139,64 @@
         "8/11",
         "8/7"
       ],
-      "mentions": 3,
+      "mentions": 5,
       "status": "逼近新高",
-      "dist": -7.3,
+      "dist": -6.6
+    },
+    {
+      "symbol": "6770",
+      "name": "力積電",
+      "days": 2,
+      "dates": [
+        "8/12",
+        "8/10"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "8/5"
+      ]
+    },
+    {
+      "symbol": "5351",
+      "name": "鈺創",
+      "days": 2,
+      "dates": [
+        "8/12",
+        "8/10"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -1.6,
+      "limitUp": false
+    },
+    {
+      "symbol": "3006",
+      "name": "晶豪科",
+      "days": 2,
+      "dates": [
+        "8/12",
+        "8/10"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -3.4,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "8/5"
+      ]
+    },
+    {
+      "symbol": "3260",
+      "name": "威剛",
+      "days": 2,
+      "dates": [
+        "8/12",
+        "8/10"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -173,6 +226,173 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxNTE9SMHEzUHd3OV9TUVVCdm1UTVNlTV9yOTY0VG1Zd2FLVW9JNUU5SVBQZmdOVEY3VmYwV3JxdG01VmRBMHRNeXJuaEJXdzNYb3hTSDE2N2Z0NXRmcmlRN2ptZmdnNkJRRHJRcFdHWlZkbzZWQ0ZjZkwxc3JOanZBMVZlZmkyenRr",
+      "tkey": "熱門族群矽晶圓回來了？3顆紅燈高鎖合晶攻百元",
+      "title": "《熱門族群》矽晶圓回來了？3顆紅燈高鎖 合晶攻百元 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6269407001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Wed, 12 Aug 2026 03:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "point": "力返千金，強攻漲停",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "6182",
+          "name": "合晶",
+          "point": "重登百元俱樂部，攻百元",
+          "limitUp": false
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "回到300關，率先攻頂",
+          "limitUp": false
+        },
+        {
+          "symbol": "5483",
+          "name": "中美晶",
+          "point": "同步強彈",
+          "limitUp": true,
+          "pct": 9.8
+        },
+        {
+          "symbol": "3016",
+          "name": "嘉晶",
+          "point": "同步強彈",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/5"
+          ]
+        },
+        {
+          "symbol": "3707",
+          "name": "漢磊",
+          "point": "同步強彈",
+          "limitUp": false
+        }
+      ],
+      "background": "矽晶圓受惠AI伺服器與先進製程需求擴大，全球12吋矽晶圓供應寡占，庫存水位偏低，預估2027年下半年至2028年上半年可能出現搶貨潮，產業有望迎來新一波景氣循環。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQZUpwRHNLcTBHRjN3RTlFZTFYaGdCbGpzY24zRF9ELTFCTGpzck9QUy1EQ2w2TzhGRFRoaFVxbVQxRGNobWtEQ1RjczFueGRQZTR4VmlJdTUtS0lpN04yVWNNYWYwUUpRU3pKNnFYbXQ1bmJFVV9GUHBQWmtIR3ZnRnVLY3BXZ29w",
+      "tkey": "熱門族群MSCI調整明揭曉南亞科、華邦電卡位記憶體再起",
+      "title": "《熱門族群》MSCI調整明揭曉 南亞科、華邦電卡位 記憶體再起 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6269366001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 12 Aug 2026 02:22:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "被看好入列MSCI成分股，重啟攻勢",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "被看好入列MSCI成分股，重啟攻勢",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "發放股利點火，攻上漲停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/5"
+          ]
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "早盤聯袂上攻，創反彈新高",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "8/10",
+            "8/6"
+          ]
+        },
+        {
+          "symbol": "5351",
+          "name": "鈺創",
+          "point": "上半年獲利佳，股價連續大漲",
+          "status": "逼近新高",
+          "dist": -1.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "3006",
+          "name": "晶豪科",
+          "point": "上半年獲利佳，隨DRAM股大漲",
+          "status": "逼近新高",
+          "dist": -3.4,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/5"
+          ]
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "營收成長，強攻創波段高",
+          "limitUp": false
+        },
+        {
+          "symbol": "3260",
+          "name": "威剛",
+          "point": "模組廠聯袂開高，穩健上漲",
+          "limitUp": false
+        },
+        {
+          "symbol": "2451",
+          "name": "創見",
+          "point": "模組廠聯袂開高，穩健上漲",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "大股東隨轉投資看俏強攻",
+          "limitUp": false
+        },
+        {
+          "symbol": "1605",
+          "name": "華新",
+          "point": "大股東隨轉投資看俏強攻",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        }
+      ],
+      "background": "記憶體供應緊張預計延續至明年，DRAM雙雄有望入列MSCI成分股，帶動族群全面上漲。國際大廠如三星、SK海力士、美光等也預期供應吃緊。",
+      "themeTags": [
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxPMGhBUkNxb2VVZ0haRHR4RG9NUGVjMDkzcGV5ZUo3ZHZBVVp6cUItTlc5ZHZFcmdyVGdjQmFVa3BtM0VndnlfYV90SERWVjVHOTN0OTVWUXB5RU5SZnQ3OGc3SkVyLTdMYm1jZUllVHl0bFZIS09RTkdYOGhYNU54dmp0NlRXVTRJ",
       "tkey": "熱門族群漲價題材再發威！德宏亮燈玻纖布全面升溫",
       "title": "《熱門族群》漲價題材再發威！ 德宏亮燈 玻纖布全面升溫 - 富聯網",
@@ -184,8 +404,7 @@
           "symbol": "5475",
           "name": "德宏",
           "point": "盤中率先亮燈漲停",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "1802",
@@ -219,6 +438,209 @@
         }
       ],
       "background": "玻纖布受大陸市場漲價潮帶動，電子玻纖布與玻纖紗價格持續上揚，產業供需偏緊，帶動營收成長。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiWkFVX3lxTE1oSWlUQVlqR1dSajE1YmFRODlvWjhUOVFrb3A4cmZ4dFpnUU5PVWdMX25VMWxjeDFpVkp0dTJKMldDLUVhRHFSaXNUZUFkWEdQSEZKT1dnUUNmZ9IBX0FVX3lxTE5LVWF4blYyMUNZRXRCcEVaYVVVZWpkZmJPaVFoS2VxRThTRkdma1RYZFRubkJUeHRLaXdmbEhqdmNIcWlmTkRuYUZqaUFpRGgyRkxwMWhHLUpSakhUdWtj",
+      "tkey": "台股上漲191點收45,120點MLCC擔綱多頭強攻熱門族群",
+      "title": "台股上漲191點收45,120點 MLCC 擔綱多頭強攻熱門族群 - money.udn.com",
+      "url": "https://money.udn.com/money/story/5607/9684353",
+      "source": "money.udn.com",
+      "pubDate": "Tue, 11 Aug 2026 09:00:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "收盤價2,395元，上漲15元",
+          "status": "逼近新高",
+          "dist": -5.3
+        },
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "領軍被動元件走強"
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "領軍被動元件走強",
+          "luw": 1,
+          "luwd": [
+            "8/11"
+          ]
+        },
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "point": "領軍被動元件走強",
+          "luw": 3,
+          "luwd": [
+            "8/11",
+            "8/10",
+            "8/5"
+          ]
+        },
+        {
+          "symbol": "6173",
+          "name": "信昌電",
+          "point": "順勢走高",
+          "luw": 5,
+          "luwd": [
+            "8/11",
+            "8/10",
+            "8/7",
+            "8/6",
+            "8/5"
+          ]
+        },
+        {
+          "symbol": "3537",
+          "name": "堡達",
+          "point": "順勢走高",
+          "luw": 5,
+          "luwd": [
+            "8/11",
+            "8/10",
+            "8/7",
+            "8/6",
+            "8/5"
+          ]
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "回穩撐盤"
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "推升大盤指數",
+          "status": "逼近新高",
+          "dist": -8.8
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "point": "推升大盤指數"
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "point": "推升大盤指數"
+        },
+        {
+          "symbol": "4958",
+          "name": "臻鼎-KY",
+          "point": "推升大盤指數",
+          "luw": 1,
+          "luwd": [
+            "8/5"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "成交金額大且走高"
+        },
+        {
+          "symbol": "3661",
+          "name": "世芯-KY",
+          "point": "成交金額大且走高"
+        },
+        {
+          "symbol": "8358",
+          "name": "金居",
+          "point": "成交金額大且走高",
+          "luw": 5,
+          "luwd": [
+            "8/11",
+            "8/10",
+            "8/7",
+            "8/6",
+            "8/5"
+          ]
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "成交金額大且疲軟",
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "成交金額大且疲軟",
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "point": "成交金額大且疲軟",
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "成交金額大且疲軟",
+          "luw": 2,
+          "luwd": [
+            "8/10",
+            "8/6"
+          ]
+        },
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "point": "成交金額大且疲軟",
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "成交金額大且疲軟",
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "point": "成交金額大且疲軟",
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "4979",
+          "name": "華星光",
+          "point": "成交金額大且疲軟"
+        },
+        {
+          "symbol": "6669",
+          "name": "緯穎",
+          "point": "成交金額大且疲軟",
+          "status": "逼近新高",
+          "dist": -6.6
+        }
+      ],
+      "background": "MLCC（積層陶瓷電容）為被動元件主要產品，受AI伺服器與資料中心需求帶動，產業基本面強勁成長，長線多頭架構未變。",
       "themeTags": [
         "需求驅動",
         "循環位置"
@@ -682,6 +1104,209 @@
         }
       ],
       "background": "MLCC等被動元件受AI伺服器與資料中心需求帶動，產業結構已較健康，長線多頭架構未變。國際雲端服務供應商資本支出持續成長，推升算力需求。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMie0FVX3lxTE82eGNRQl82VXYxMEJncXFoQVV0SlNGRHc0Q1NLQ01keWFvZlRSR0kyZHJGWnVEanhFcTM0Z3dOYk9fNll6SmlVelQ3bWl2N0RUaExwd1IyZW01b0t3ZlRHb0Q0SUlXdkJTSG5nNmt1aFZsTWdpNnpKT3NLVQ",
+      "tkey": "台股上漲191點收45,120點MLCC呈多頭強攻熱門族群|股市要聞|股市",
+      "title": "台股上漲191點收45,120點 MLCC 呈多頭強攻熱門族群| 股市要聞| 股市 - UDN",
+      "url": "https://udn.com/news/story/7251/9684353?from=udn-ch1_breaknews-1-0-news",
+      "source": "UDN",
+      "pubDate": "Tue, 11 Aug 2026 05:51:03 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "收盤價2,395元，上漲15元",
+          "status": "逼近新高",
+          "dist": -5.3
+        },
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "領軍被動元件走強"
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "領軍被動元件走強",
+          "luw": 1,
+          "luwd": [
+            "8/11"
+          ]
+        },
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "point": "領軍被動元件走強",
+          "luw": 3,
+          "luwd": [
+            "8/11",
+            "8/10",
+            "8/5"
+          ]
+        },
+        {
+          "symbol": "6173",
+          "name": "信昌電",
+          "point": "順勢走高",
+          "luw": 5,
+          "luwd": [
+            "8/11",
+            "8/10",
+            "8/7",
+            "8/6",
+            "8/5"
+          ]
+        },
+        {
+          "symbol": "3537",
+          "name": "堡達",
+          "point": "順勢走高",
+          "luw": 5,
+          "luwd": [
+            "8/11",
+            "8/10",
+            "8/7",
+            "8/6",
+            "8/5"
+          ]
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "回穩撐盤"
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "推升大盤指數",
+          "status": "逼近新高",
+          "dist": -8.8
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "point": "推升大盤指數"
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "point": "推升大盤指數"
+        },
+        {
+          "symbol": "4958",
+          "name": "臻鼎-KY",
+          "point": "推升大盤指數",
+          "luw": 1,
+          "luwd": [
+            "8/5"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "成交金額大且走高"
+        },
+        {
+          "symbol": "3661",
+          "name": "世芯-KY",
+          "point": "成交金額大且走高"
+        },
+        {
+          "symbol": "8358",
+          "name": "金居",
+          "point": "成交金額大且走高",
+          "luw": 5,
+          "luwd": [
+            "8/11",
+            "8/10",
+            "8/7",
+            "8/6",
+            "8/5"
+          ]
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "成交金額大且疲軟",
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "成交金額大且疲軟",
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "point": "成交金額大且疲軟",
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "成交金額大且疲軟",
+          "luw": 2,
+          "luwd": [
+            "8/10",
+            "8/6"
+          ]
+        },
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "point": "成交金額大且疲軟",
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "成交金額大且疲軟",
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "point": "成交金額大且疲軟",
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "4979",
+          "name": "華星光",
+          "point": "成交金額大且疲軟"
+        },
+        {
+          "symbol": "6669",
+          "name": "緯穎",
+          "point": "成交金額大且疲軟",
+          "status": "逼近新高",
+          "dist": -6.6
+        }
+      ],
+      "background": "MLCC（積層陶瓷電容）為被動元件主要產品，受AI伺服器與資料中心需求帶動，產業基本面強勁成長，長線多頭架構未變。",
       "themeTags": [
         "需求驅動",
         "循環位置"
