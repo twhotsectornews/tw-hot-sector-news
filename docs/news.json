@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-13T12:48:03.074+08:00",
-  "generatedAt": "2026-08-13T04:48:03.074Z",
+  "asOf": "2026-08-13T13:02:28.051+08:00",
+  "generatedAt": "2026-08-13T05:02:28.051Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -28,7 +28,8 @@
         "8/7"
       ],
       "mentions": 7,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "4979",
@@ -123,7 +124,7 @@
       ],
       "mentions": 7,
       "status": "逼近新高",
-      "dist": -4.1
+      "dist": -3.9
     },
     {
       "symbol": "2492",
@@ -134,8 +135,7 @@
         "8/11"
       ],
       "mentions": 6,
-      "limitUp": true,
-      "pct": 9.9,
+      "limitUp": false,
       "luw": 1,
       "luwd": [
         "8/11"
@@ -239,7 +239,7 @@
       ],
       "mentions": 5,
       "status": "逼近新高",
-      "dist": -5
+      "dist": -4.6
     },
     {
       "symbol": "6182",
@@ -519,8 +519,7 @@
           "symbol": "6584",
           "name": "南俊國際",
           "point": "入列MSCI全球小型指數成分股，亮燈攻頂",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "6683",
@@ -547,14 +546,14 @@
           "symbol": "2327",
           "name": "國巨",
           "point": "雙雙攻鎖漲停，BB值高至2.2",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "2492",
           "name": "華新科",
           "point": "雙雙攻鎖漲停，BB值攀升至1.8",
-          "limitUp": true,
-          "pct": 9.9,
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "8/11"
@@ -564,8 +563,7 @@
           "symbol": "3357",
           "name": "臺慶科",
           "point": "強漲半根漲停以上",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "3624",

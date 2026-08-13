@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "updatedAt": "2026-08-13T04:48:03.070Z",
+  "updatedAt": "2026-08-13T05:02:28.048Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
@@ -9,16 +9,8 @@
       "url": "https://stock.ltn.com.tw/article/k0bsc03rnawt",
       "source": "自由時報",
       "pubDate": "Tue, 11 Aug 2026 11:28:49 GMT",
-      "stocks": [
-        {
-          "symbol": "2454",
-          "name": "聯發科",
-          "point": "創新高",
-          "status": "高檔修正",
-          "dist": -14.8
-        }
-      ],
-      "background": "IC設計產業受惠於AI技術發展，特別是AI晶片規格升級，帶動相關供應鏈新一波成長動能。",
+      "stocks": [],
+      "background": "IC設計股受AI財帶動，龍頭聯發科創新高，顯示市場對AI相關晶片需求強勁。",
       "themeTags": [
         "需求驅動"
       ]
@@ -34,19 +26,19 @@
         {
           "symbol": "2330",
           "name": "台積電",
-          "point": "回穩撐盤",
+          "point": "收盤價上漲",
           "status": "逼近新高",
-          "dist": -4.1
+          "dist": -3.9
         },
         {
           "symbol": "2327",
           "name": "國巨",
-          "point": "領軍走強"
+          "point": "領軍被動元件走強"
         },
         {
           "symbol": "2492",
           "name": "華新科",
-          "point": "領軍走強",
+          "point": "領軍被動元件走強",
           "luw": 1,
           "luwd": [
             "8/11"
@@ -55,7 +47,7 @@
         {
           "symbol": "3026",
           "name": "禾伸堂",
-          "point": "領軍走強",
+          "point": "領軍被動元件走強",
           "luw": 2,
           "luwd": [
             "8/11",
@@ -85,21 +77,21 @@
           "name": "聯發科",
           "point": "回穩撐盤",
           "status": "高檔修正",
-          "dist": -14.8
+          "dist": -14.9
         },
         {
           "symbol": "2383",
           "name": "台光電",
           "point": "推升大盤指數",
           "status": "逼近新高",
-          "dist": -8.4
+          "dist": -8.2
         },
         {
           "symbol": "3443",
           "name": "創意",
           "point": "推升大盤指數",
           "status": "逼近新高",
-          "dist": -7.1
+          "dist": -6
         },
         {
           "symbol": "2368",
@@ -216,10 +208,10 @@
           "name": "緯穎",
           "point": "成交金額大且疲軟",
           "status": "逼近新高",
-          "dist": -5
+          "dist": -4.6
         }
       ],
-      "background": "MLCC（積層陶瓷電容）為被動元件主要產品，受AI伺服器與資料中心需求帶動，產業基本面維持強勁成長，長線多頭架構未變。",
+      "background": "被動元件受AI產業鏈與規格升級需求帶動，MLCC為多頭強攻族群，產業結構較健康，長線多頭架構未變。",
       "themeTags": [
         "需求驅動",
         "循環位置"
@@ -699,17 +691,17 @@
           "name": "台積電",
           "point": "收盤價上漲",
           "status": "逼近新高",
-          "dist": -4.1
+          "dist": -3.9
         },
         {
           "symbol": "2327",
           "name": "國巨",
-          "point": "領軍走強"
+          "point": "領軍被動元件走強"
         },
         {
           "symbol": "2492",
           "name": "華新科",
-          "point": "領軍走強",
+          "point": "領軍被動元件走強",
           "luw": 1,
           "luwd": [
             "8/11"
@@ -718,7 +710,7 @@
         {
           "symbol": "3026",
           "name": "禾伸堂",
-          "point": "領軍走強",
+          "point": "領軍被動元件走強",
           "luw": 2,
           "luwd": [
             "8/11",
@@ -748,21 +740,21 @@
           "name": "聯發科",
           "point": "回穩撐盤",
           "status": "高檔修正",
-          "dist": -14.8
+          "dist": -14.9
         },
         {
           "symbol": "2383",
           "name": "台光電",
           "point": "推升大盤指數",
           "status": "逼近新高",
-          "dist": -8.4
+          "dist": -8.2
         },
         {
           "symbol": "3443",
           "name": "創意",
           "point": "推升大盤指數",
           "status": "逼近新高",
-          "dist": -7.1
+          "dist": -6
         },
         {
           "symbol": "2368",
@@ -879,38 +871,10 @@
           "name": "緯穎",
           "point": "成交金額大且疲軟",
           "status": "逼近新高",
-          "dist": -5
-        },
-        {
-          "symbol": "3189",
-          "name": "景碩",
-          "point": "MSCI納入成分股",
-          "status": "高檔修正",
-          "dist": -10.6
-        },
-        {
-          "symbol": "8046",
-          "name": "南電",
-          "point": "MSCI納入成分股",
-          "status": "高檔修正",
-          "dist": -13.4,
-          "luw": 1,
-          "luwd": [
-            "8/12"
-          ]
-        },
-        {
-          "symbol": "3217",
-          "name": "台燿",
-          "point": "MSCI納入成分股"
-        },
-        {
-          "symbol": "8299",
-          "name": "群聯",
-          "point": "MSCI納入成分股"
+          "dist": -4.6
         }
       ],
-      "background": "被動元件（MLCC）受AI產業鏈與高階製程平台量產帶動，需求持續供不應求。記憶體產業也因MSCI納入成分股而受關注。",
+      "background": "被動元件受AI產業鏈與規格升級需求帶動，MLCC為多頭強攻族群，產業結構較健康，長線多頭架構未變。",
       "themeTags": [
         "需求驅動",
         "循環位置"
