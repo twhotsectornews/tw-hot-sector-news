@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-13T13:02:28.051+08:00",
-  "generatedAt": "2026-08-13T05:02:28.051Z",
+  "asOf": "2026-08-13T14:03:21.043+08:00",
+  "generatedAt": "2026-08-13T06:03:21.043Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -41,7 +41,8 @@
         "8/11"
       ],
       "mentions": 6,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 5,
       "luwd": [
         "8/12",
@@ -135,7 +136,8 @@
         "8/11"
       ],
       "mentions": 6,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 1,
       "luwd": [
         "8/11"
@@ -150,7 +152,8 @@
         "8/11"
       ],
       "mentions": 6,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 5,
       "luwd": [
         "8/12",
@@ -239,7 +242,7 @@
       ],
       "mentions": 5,
       "status": "逼近新高",
-      "dist": -4.6
+      "dist": -5.2
     },
     {
       "symbol": "6182",
@@ -251,7 +254,7 @@
       ],
       "mentions": 2,
       "limitUp": true,
-      "pct": 9.7,
+      "pct": 9.6,
       "luw": 5,
       "luwd": [
         "8/12",
@@ -270,7 +273,8 @@
         "8/12"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 5,
       "luwd": [
         "8/12",
@@ -289,7 +293,8 @@
         "8/12"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 1,
       "luwd": [
         "8/12"
@@ -304,7 +309,8 @@
         "8/12"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.8,
       "luw": 5,
       "luwd": [
         "8/12",
@@ -384,7 +390,8 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -6.6,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 5,
       "luwd": [
         "8/12",
@@ -405,7 +412,8 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -6.6,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.5
     },
     {
       "symbol": "4908",
@@ -455,7 +463,7 @@
           "name": "合晶",
           "point": "入列MSCI全球小型指數成分股，亮燈攻頂",
           "limitUp": true,
-          "pct": 9.7,
+          "pct": 9.6,
           "luw": 5,
           "luwd": [
             "8/12",
@@ -469,7 +477,8 @@
           "symbol": "6488",
           "name": "環球晶",
           "point": "連鎖2顆紅燈",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "8/12",
@@ -483,7 +492,8 @@
           "symbol": "3532",
           "name": "台勝科",
           "point": "連鎖2顆紅燈",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "8/12"
@@ -493,7 +503,8 @@
           "symbol": "5483",
           "name": "中美晶",
           "point": "跟進向上，獲三大法人齊心敲進",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.8,
           "luw": 5,
           "luwd": [
             "8/12",
@@ -553,7 +564,8 @@
           "symbol": "2492",
           "name": "華新科",
           "point": "雙雙攻鎖漲停，BB值攀升至1.8",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "8/11"
@@ -575,7 +587,8 @@
           "symbol": "6173",
           "name": "信昌電",
           "point": "強漲半根漲停以上",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "8/12",
@@ -595,7 +608,8 @@
           "symbol": "2375",
           "name": "凱美",
           "point": "強漲半根漲停以上",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "3026",
@@ -738,7 +752,8 @@
           "symbol": "4979",
           "name": "華星光",
           "point": "同步攻漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "8/12",
@@ -764,7 +779,8 @@
           "point": "同步攻漲停",
           "status": "逼近新高",
           "dist": -6.6,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "8/12",
@@ -786,7 +802,8 @@
           "point": "多檔齊揚",
           "status": "逼近新高",
           "dist": -6.6,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.5
         },
         {
           "symbol": "2455",
