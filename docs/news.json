@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-13T17:42:09.741+08:00",
-  "generatedAt": "2026-08-13T09:42:09.741Z",
+  "asOf": "2026-08-13T18:18:18.014+08:00",
+  "generatedAt": "2026-08-13T10:18:18.014Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -16,7 +16,7 @@
         "8/11",
         "8/7"
       ],
-      "mentions": 7,
+      "mentions": 8,
       "limitUp": true,
       "pct": 10
     },
@@ -32,19 +32,6 @@
       "mentions": 9
     },
     {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 3,
-      "dates": [
-        "8/12",
-        "8/11",
-        "8/10"
-      ],
-      "mentions": 7,
-      "status": "逼近新高",
-      "dist": -3.9
-    },
-    {
       "symbol": "2492",
       "name": "華新科",
       "days": 3,
@@ -53,7 +40,7 @@
         "8/12",
         "8/11"
       ],
-      "mentions": 6,
+      "mentions": 7,
       "limitUp": true,
       "pct": 9.9,
       "luw": 1,
@@ -70,7 +57,7 @@
         "8/12",
         "8/11"
       ],
-      "mentions": 6,
+      "mentions": 7,
       "limitUp": true,
       "pct": 9.8,
       "luw": 5,
@@ -91,13 +78,26 @@
         "8/12",
         "8/11"
       ],
-      "mentions": 6,
+      "mentions": 7,
       "limitUp": false,
       "luw": 2,
       "luwd": [
         "8/11",
         "8/10"
       ]
+    },
+    {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 3,
+      "dates": [
+        "8/12",
+        "8/11",
+        "8/10"
+      ],
+      "mentions": 7,
+      "status": "逼近新高",
+      "dist": -3.9
     },
     {
       "symbol": "4979",
@@ -242,18 +242,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2454",
-      "name": "聯發科",
-      "days": 2,
-      "dates": [
-        "8/12",
-        "8/11"
-      ],
-      "mentions": 5,
-      "status": "高檔修正",
-      "dist": -14.5
-    },
-    {
       "symbol": "3537",
       "name": "堡達",
       "days": 2,
@@ -262,6 +250,18 @@
         "8/11"
       ],
       "mentions": 4
+    },
+    {
+      "symbol": "2454",
+      "name": "聯發科",
+      "days": 2,
+      "dates": [
+        "8/12",
+        "8/11"
+      ],
+      "mentions": 4,
+      "status": "高檔修正",
+      "dist": -14.5
     },
     {
       "symbol": "2383",
@@ -332,6 +332,28 @@
       ]
     },
     {
+      "symbol": "8043",
+      "name": "蜜望實",
+      "days": 2,
+      "dates": [
+        "8/13",
+        "8/11"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "1503",
+      "name": "士電",
+      "days": 2,
+      "dates": [
+        "8/13",
+        "8/7"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "6182",
       "name": "合晶",
       "days": 2,
@@ -390,28 +412,6 @@
     {
       "symbol": "5483",
       "name": "中美晶",
-      "days": 2,
-      "dates": [
-        "8/13",
-        "8/12"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3016",
-      "name": "嘉晶",
-      "days": 2,
-      "dates": [
-        "8/13",
-        "8/12"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3707",
-      "name": "漢磊",
       "days": 2,
       "dates": [
         "8/13",
@@ -687,6 +687,109 @@
       ]
     },
     {
+      "gid": "CBMiiAFBVV95cUxPWjVnUW4zeDEtaXRaclRlMktkYjVvS1VsejRMZmJrVGlGMTlhWFdROWtXU0h0TEhlMXFIVGFMUGpsVUljUlBHSUp1V1A5TzV0RjI2OG1POG9TeXpmTW1ST2NPaGp0Q1pSYUZaVUpEbzBQaVF1RjZpcDZyQXVka2NfbFdJcVZBSmhn",
+      "tkey": "熱門族群被動元件龍頭國巨、華新科雙漲停入列MSCI禾伸堂齊高歌-ww2.money",
+      "title": "《熱門族群》被動元件龍頭國巨、華新科雙漲停 入列MSCI禾伸堂齊高歌 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6270613001&PU=1002",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Thu, 13 Aug 2026 03:08:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "被動元件龍頭雙漲停",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "被動元件龍頭雙漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "8/11"
+          ]
+        },
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "point": "入列MSCI齊高歌",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "8/11",
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "3357",
+          "name": "臺慶科",
+          "point": "強漲半根漲停以上",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "8/12",
+            "8/11",
+            "8/10",
+            "8/7",
+            "8/6"
+          ]
+        },
+        {
+          "symbol": "3624",
+          "name": "光頡",
+          "point": "強漲半根漲停以上",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "8/12",
+            "8/11",
+            "8/10",
+            "8/7",
+            "8/6"
+          ]
+        },
+        {
+          "symbol": "6173",
+          "name": "信昌電",
+          "point": "強漲半根漲停以上",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 5,
+          "luwd": [
+            "8/12",
+            "8/11",
+            "8/10",
+            "8/7",
+            "8/6"
+          ]
+        },
+        {
+          "symbol": "8043",
+          "name": "蜜望實",
+          "point": "強漲半根漲停以上",
+          "limitUp": false
+        },
+        {
+          "symbol": "2375",
+          "name": "凱美",
+          "point": "強漲半根漲停以上",
+          "limitUp": true,
+          "pct": 9.8
+        }
+      ],
+      "background": "被動元件受AI伺服器與車用需求帶動漲價，國際MLCC龍頭村田、太陽誘電調高財測，台廠受惠外溢訂單，產業供給偏緊。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxQdXd3Ui03N1pweV9ET0g1NmI1amNmSnE1dHp4S1dVSklkRGFYcnFsOHRYWnEwTXYteUNscUNxU0UyUlN3WTAwX2MxSTlOTVdvVERSbjRmdDN1MlFTcV9jbmlnMy1QNng0NnlsTElIcHpfUnVMdmRSMW9lRElZWnRwT3lJTWVMN19J",
       "tkey": "熱門族群重電再活絡！中興電領軍衝5%四雄齊揚",
       "title": "《熱門族群》重電再活絡！中興電領軍衝5% 四雄齊揚 - 富聯網",
@@ -720,6 +823,45 @@
         }
       ],
       "background": "重電族群受惠於台電強韌電網計畫、AI資料中心建置、離岸風電及半導體擴廠等多重需求，訂單能見度高。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMikgFBVV95cUxOSm8wWWhBcnJrN2RpX2h2dEgySzVzQWFmSmg2OWxQMmozN1JTOGZtdGRaNF9lS2FTZFJWU3ktUUpKSWhmd0J0Y0FmUHRIdjZNajJaaGJSTEc5eXpzWVNxWHh6bDlLUTgtZVBBaWdlckI5bWF2b2d4azBoY3VfZkVxbnVrUXloeDA1Sl9XMEhmN0dtZw",
+      "tkey": "熱門族群重電再活絡！中興電領軍衝5%四雄齊揚-ww2.money",
+      "title": "《熱門族群》重電再活絡！中興電領軍衝5% 四雄齊揚 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6270582001&pu=News_0002_5",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Thu, 13 Aug 2026 02:44:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1513",
+          "name": "中興電",
+          "point": "領軍衝5%再活絡",
+          "limitUp": false
+        },
+        {
+          "symbol": "1503",
+          "name": "士電",
+          "point": "重電四雄同步走高",
+          "limitUp": false
+        },
+        {
+          "symbol": "1514",
+          "name": "亞力",
+          "point": "重電四雄同步走高",
+          "limitUp": false
+        },
+        {
+          "symbol": "1519",
+          "name": "華城",
+          "point": "重電四雄同步走高",
+          "limitUp": false
+        }
+      ],
+      "background": "重電族群受惠台電強韌電網計畫、AI資料中心建置、半導體擴廠及離岸風電等多重需求，訂單能見度高，營運成長。",
       "themeTags": [
         "需求驅動",
         "政策關稅"
