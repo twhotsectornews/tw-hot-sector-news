@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "updatedAt": "2026-08-13T03:06:24.516Z",
+  "updatedAt": "2026-08-13T04:03:35.792Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
@@ -13,23 +13,22 @@
         {
           "symbol": "2454",
           "name": "聯發科",
-          "point": "龍頭股價創新高",
+          "point": "龍頭創新高",
           "status": "高檔修正",
-          "dist": -14.7
+          "dist": -14.8
         }
       ],
-      "background": "IC設計產業受AI應用需求強勁帶動，特別是AI晶片與相關解決方案，使聯發科等指標廠受惠，產業景氣復甦。",
+      "background": "IC設計股受AI需求帶動，聯發科作為龍頭股價創新高，顯示市場對AI晶片與相關技術前景樂觀。",
       "themeTags": [
-        "需求驅動",
-        "循環位置"
+        "需求驅動"
       ]
     },
     {
       "gid": "CBMiWkFVX3lxTE1oSWlUQVlqR1dSajE1YmFRODlvWjhUOVFrb3A4cmZ4dFpnUU5PVWdMX25VMWxjeDFpVkp0dTJKMldDLUVhRHFSaXNUZUFkWEdQSEZKT1dnUUNmZ9IBX0FVX3lxTE5LVWF4blYyMUNZRXRCcEVaYVVVZWpkZmJPaVFoS2VxRThTRkdma1RYZFRubkJUeHRLaXdmbEhqdmNIcWlmTkRuYUZqaUFpRGgyRkxwMWhHLUpSakhUdWtj",
       "tkey": "台股上漲191點收45,120點MLCC擔綱多頭強攻熱門族群",
-      "title": "台股上漲191點收45,120點 MLCC 擔綱多頭強攻熱門族群 - money.udn.com",
+      "title": "台股上漲191點收45,120點 MLCC 擔綱多頭強攻熱門族群 - 經濟日報",
       "url": "https://money.udn.com/money/story/5607/9684353",
-      "source": "money.udn.com",
+      "source": "經濟日報",
       "pubDate": "Tue, 11 Aug 2026 09:00:00 GMT",
       "stocks": [
         {
@@ -37,17 +36,17 @@
           "name": "台積電",
           "point": "收盤價2,395元，上漲15元",
           "status": "逼近新高",
-          "dist": -5.3
+          "dist": -4.1
         },
         {
           "symbol": "2327",
           "name": "國巨",
-          "point": "領軍被動元件走強"
+          "point": "領軍走強，成交金額大且走高"
         },
         {
           "symbol": "2492",
           "name": "華新科",
-          "point": "領軍被動元件走強",
+          "point": "領軍走強，成交金額大且走高",
           "luw": 1,
           "luwd": [
             "8/11"
@@ -56,7 +55,7 @@
         {
           "symbol": "3026",
           "name": "禾伸堂",
-          "point": "領軍被動元件走強",
+          "point": "領軍走強，成交金額大且走高",
           "luw": 2,
           "luwd": [
             "8/11",
@@ -84,23 +83,23 @@
         {
           "symbol": "2454",
           "name": "聯發科",
-          "point": "回穩撐盤",
+          "point": "回穩撐盤，成交金額大且走高",
           "status": "高檔修正",
-          "dist": -14.7
+          "dist": -14.8
         },
         {
           "symbol": "2383",
           "name": "台光電",
-          "point": "推升大盤指數",
+          "point": "推升大盤指數，成交金額大且走高",
           "status": "逼近新高",
-          "dist": -8.8
+          "dist": -8.2
         },
         {
           "symbol": "3443",
           "name": "創意",
-          "point": "推升大盤指數",
+          "point": "推升大盤指數，成交金額大且走高",
           "status": "逼近新高",
-          "dist": -8.6
+          "dist": -7
         },
         {
           "symbol": "2368",
@@ -217,12 +216,13 @@
           "name": "緯穎",
           "point": "成交金額大且疲軟",
           "status": "逼近新高",
-          "dist": -6.6
+          "dist": -4.7
         }
       ],
-      "background": "MLCC（積層陶瓷電容）為被動元件主要產品，受AI伺服器與資料中心需求帶動，產業基本面強勁成長，長線多頭架構未變。",
+      "background": "被動元件受AI伺服器需求帶動，日韓廠產能轉向AI與車用市場，供給偏緊，台廠受惠外溢訂單，產業景氣復甦。",
       "themeTags": [
         "需求驅動",
+        "國際大廠",
         "循環位置"
       ]
     },
@@ -690,9 +690,9 @@
     {
       "gid": "CBMie0FVX3lxTE82eGNRQl82VXYxMEJncXFoQVV0SlNGRHc0Q1NLQ01keWFvZlRSR0kyZHJGWnVEanhFcTM0Z3dOYk9fNll6SmlVelQ3bWl2N0RUaExwd1IyZW01b0t3ZlRHb0Q0SUlXdkJTSG5nNmt1aFZsTWdpNnpKT3NLVQ",
       "tkey": "台股上漲191點收45,120點MLCC呈多頭強攻熱門族群|股市要聞|股市",
-      "title": "台股上漲191點收45,120點 MLCC 呈多頭強攻熱門族群| 股市要聞| 股市 - UDN",
+      "title": "台股上漲191點收45,120點 MLCC 呈多頭強攻熱門族群| 股市要聞| 股市 - udn.com",
       "url": "https://udn.com/news/story/7251/9684353?from=udn-ch1_breaknews-1-0-news",
-      "source": "UDN",
+      "source": "udn.com",
       "pubDate": "Tue, 11 Aug 2026 05:51:03 GMT",
       "stocks": [
         {
@@ -700,17 +700,17 @@
           "name": "台積電",
           "point": "收盤價2,395元，上漲15元",
           "status": "逼近新高",
-          "dist": -5.3
+          "dist": -4.1
         },
         {
           "symbol": "2327",
           "name": "國巨",
-          "point": "領軍被動元件走強"
+          "point": "領軍走強，成交金額大且走高"
         },
         {
           "symbol": "2492",
           "name": "華新科",
-          "point": "領軍被動元件走強",
+          "point": "領軍走強，成交金額大且走高",
           "luw": 1,
           "luwd": [
             "8/11"
@@ -719,7 +719,7 @@
         {
           "symbol": "3026",
           "name": "禾伸堂",
-          "point": "領軍被動元件走強",
+          "point": "領軍走強，成交金額大且走高",
           "luw": 2,
           "luwd": [
             "8/11",
@@ -747,23 +747,23 @@
         {
           "symbol": "2454",
           "name": "聯發科",
-          "point": "回穩撐盤",
+          "point": "回穩撐盤，成交金額大且走高",
           "status": "高檔修正",
-          "dist": -14.7
+          "dist": -14.8
         },
         {
           "symbol": "2383",
           "name": "台光電",
-          "point": "推升大盤指數",
+          "point": "推升大盤指數，成交金額大且走高",
           "status": "逼近新高",
-          "dist": -8.8
+          "dist": -8.2
         },
         {
           "symbol": "3443",
           "name": "創意",
-          "point": "推升大盤指數",
+          "point": "推升大盤指數，成交金額大且走高",
           "status": "逼近新高",
-          "dist": -8.6
+          "dist": -7
         },
         {
           "symbol": "2368",
@@ -880,10 +880,10 @@
           "name": "緯穎",
           "point": "成交金額大且疲軟",
           "status": "逼近新高",
-          "dist": -6.6
+          "dist": -4.7
         }
       ],
-      "background": "MLCC（積層陶瓷電容）為被動元件主要產品，受AI伺服器與資料中心需求帶動，產業基本面強勁成長，長線多頭架構未變。",
+      "background": "被動元件受AI產業鏈強勁成長與規格升級帶動，需求持續供不應求，台廠受惠，產業景氣復甦。",
       "themeTags": [
         "需求驅動",
         "循環位置"
