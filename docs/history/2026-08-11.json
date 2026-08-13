@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "updatedAt": "2026-08-13T06:03:21.039Z",
+  "updatedAt": "2026-08-13T06:10:57.716Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
@@ -13,12 +13,12 @@
         {
           "symbol": "2454",
           "name": "聯發科",
-          "point": "龍頭創新高",
+          "point": "創新高",
           "status": "高檔修正",
           "dist": -14.5
         }
       ],
-      "background": "IC 設計廠搶搭 AI 財，受惠於 AI 晶片規格升級與高速傳輸需求，聯發科等龍頭股表現強勁。",
+      "background": "IC設計產業受惠AI技術發展，特別是AI晶片規格升級，帶動相關供應鏈新一波成長動能，市場看好其未來獲利。",
       "themeTags": [
         "需求驅動"
       ]
@@ -31,6 +31,13 @@
       "source": "經濟日報",
       "pubDate": "Tue, 11 Aug 2026 09:00:00 GMT",
       "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "收盤價2,395元，上漲15元",
+          "status": "逼近新高",
+          "dist": -3.9
+        },
         {
           "symbol": "2327",
           "name": "國巨",
@@ -74,13 +81,6 @@
           "point": "順勢走高"
         },
         {
-          "symbol": "2330",
-          "name": "台積電",
-          "point": "回穩撐盤",
-          "status": "逼近新高",
-          "dist": -3.9
-        },
-        {
           "symbol": "2454",
           "name": "聯發科",
           "point": "回穩撐盤",
@@ -90,26 +90,26 @@
         {
           "symbol": "2383",
           "name": "台光電",
-          "point": "股價推升大盤",
+          "point": "推升大盤指數",
           "status": "逼近新高",
           "dist": -9
         },
         {
           "symbol": "3443",
           "name": "創意",
-          "point": "股價推升大盤",
+          "point": "推升大盤指數",
           "status": "逼近新高",
           "dist": -6.5
         },
         {
           "symbol": "2368",
           "name": "金像電",
-          "point": "股價推升大盤"
+          "point": "推升大盤指數"
         },
         {
           "symbol": "4958",
           "name": "臻鼎-KY",
-          "point": "股價推升大盤"
+          "point": "推升大盤指數"
         },
         {
           "symbol": "1303",
@@ -219,10 +219,9 @@
           "dist": -5.2
         }
       ],
-      "background": "MLCC 等被動元件受惠於 AI 伺服器與車用需求，國際大廠缺貨外溢，台廠指標受惠。AI 產業鏈基本面維持強勁成長，長線多頭架構未變。",
+      "background": "MLCC（積層陶瓷電容）為被動元件主要產品，受AI伺服器與資料中心需求帶動，產業基本面維持強勁成長，長線多頭架構未變。",
       "themeTags": [
         "需求驅動",
-        "國際大廠",
         "循環位置"
       ]
     },
