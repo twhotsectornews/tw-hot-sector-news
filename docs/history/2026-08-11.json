@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "updatedAt": "2026-08-13T10:18:18.011Z",
+  "updatedAt": "2026-08-13T10:42:09.788Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
@@ -9,8 +9,16 @@
       "url": "https://stock.ltn.com.tw/article/k0bsc03rnawt",
       "source": "自由時報",
       "pubDate": "Tue, 11 Aug 2026 11:28:49 GMT",
-      "stocks": [],
-      "background": "IC設計產業受惠AI技術發展，特別是AI晶片需求強勁，帶動相關公司營收成長，產業前景看好。",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "龍頭聯發科創新高",
+          "status": "高檔修正",
+          "dist": -14.5
+        }
+      ],
+      "background": "IC設計產業受惠於AI應用需求強勁，特別是AI晶片設計，帶動相關個股表現。聯發科為台灣IC設計龍頭。",
       "themeTags": [
         "需求驅動"
       ]
