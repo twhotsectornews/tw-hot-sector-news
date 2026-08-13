@@ -1,24 +1,24 @@
 {
   "date": "2026-08-11",
-  "updatedAt": "2026-08-13T10:42:09.788Z",
+  "updatedAt": "2026-08-13T11:26:49.288Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
       "tkey": "熱門族群龍頭聯發科創新高IC設計股搶發AI財",
-      "title": "熱門族群》龍頭聯發科創新高 IC設計股搶發AI財 - 自由時報",
+      "title": "熱門族群》龍頭聯發科創新高 IC設計股搶發AI財 - stock.ltn.com.tw",
       "url": "https://stock.ltn.com.tw/article/k0bsc03rnawt",
-      "source": "自由時報",
+      "source": "stock.ltn.com.tw",
       "pubDate": "Tue, 11 Aug 2026 11:28:49 GMT",
       "stocks": [
         {
           "symbol": "2454",
           "name": "聯發科",
-          "point": "龍頭聯發科創新高",
+          "point": "龍頭股價創新高",
           "status": "高檔修正",
           "dist": -14.5
         }
       ],
-      "background": "IC設計產業受惠於AI應用需求強勁，特別是AI晶片設計，帶動相關個股表現。聯發科為台灣IC設計龍頭。",
+      "background": "IC設計產業受AI熱潮帶動，聯發科作為台灣龍頭，股價表現強勁，顯示市場對AI相關晶片需求旺盛。",
       "themeTags": [
         "需求驅動"
       ]
