@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "updatedAt": "2026-08-14T04:03:22.415Z",
+  "updatedAt": "2026-08-14T04:42:38.955Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOeTBtWUlRczlERkNFR2tzMEVhek5UUzNDaHAxeFBRN1ZKNW1nY3NBdUVhTjhMd3pEcW05cDVfbktsczUzUkE3bEdfeC1Jc21sek92UXhSMDFObUh2NzhXdVY4VmVWdkVJR2hLODNoMGppejdFSUplWXVMODc1YXhab0Fwdk1qb0Vt",
@@ -647,6 +647,19 @@
       "pubDate": "Wed, 12 Aug 2026 16:25:19 GMT",
       "stocks": [],
       "background": "AI 伺服器持續升級，對散熱解決方案的需求日益增加，帶動散熱族群表現熱絡。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiVkFVX3lxTE05T2d3eUI0ZzBoQzlxekFmUGJCQzRESnQxempTMm1kM1o3SkM1NVpIRnpFcFBSRzRPSkRvc0I0aEEtM0lnd3FmZ09wVmQxdGdLMlBPTjV3",
+      "tkey": "台股夜盤跌271點免驚！上週漲逾千點3熱門族群曝|民視新聞網",
+      "title": "台股夜盤跌271點免驚！上週漲逾千點「3熱門族群」曝 | 民視新聞網 - LINE TODAY",
+      "url": "https://today.line.me/tw/v3/article/PG5jQWj",
+      "source": "LINE TODAY",
+      "pubDate": "Wed, 12 Aug 2026 16:09:10 GMT",
+      "stocks": [],
+      "background": "半導體、電子零組件與電腦週邊設備等族群受惠於電子科技權值股吸金，成為台股資金聚集大本營。",
       "themeTags": [
         "需求驅動"
       ]

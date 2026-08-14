@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "updatedAt": "2026-08-14T04:03:22.416Z",
+  "updatedAt": "2026-08-14T04:42:38.960Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1oSWlUQVlqR1dSajE1YmFRODlvWjhUOVFrb3A4cmZ4dFpnUU5PVWdMX25VMWxjeDFpVkp0dTJKMldDLUVhRHFSaXNUZUFkWEdQSEZKT1dnUUNmZ9IBX0FVX3lxTE5LVWF4blYyMUNZRXRCcEVaYVVVZWpkZmJPaVFoS2VxRThTRkdma1RYZFRubkJUeHRLaXdmbEhqdmNIcWlmTkRuYUZqaUFpRGgyRkxwMWhHLUpSakhUdWtj",
@@ -15,12 +15,12 @@
           "name": "台積電",
           "point": "收盤價2,395元，上漲15元",
           "status": "逼近新高",
-          "dist": -3.9
+          "dist": -4.3
         },
         {
           "symbol": "2327",
-          "name": "國巨*",
-          "point": "領軍被動元件走強，成交金額大且走高",
+          "name": "國巨",
+          "point": "領軍被動元件走強",
           "luw": 1,
           "luwd": [
             "8/13"
@@ -29,7 +29,7 @@
         {
           "symbol": "2492",
           "name": "華新科",
-          "point": "領軍被動元件走強，成交金額大且走高",
+          "point": "領軍被動元件走強",
           "luw": 2,
           "luwd": [
             "8/13",
@@ -39,7 +39,7 @@
         {
           "symbol": "3026",
           "name": "禾伸堂",
-          "point": "領軍被動元件走強，成交金額大且走高",
+          "point": "領軍被動元件走強",
           "luw": 2,
           "luwd": [
             "8/11",
@@ -67,23 +67,23 @@
         {
           "symbol": "2454",
           "name": "聯發科",
-          "point": "回穩撐盤，成交金額大且走高",
+          "point": "回穩撐盤",
           "status": "高檔修正",
-          "dist": -14.5
+          "dist": -14.1
         },
         {
           "symbol": "2383",
           "name": "台光電",
-          "point": "推升大盤指數，成交金額大且走高",
+          "point": "推升大盤指數",
           "status": "逼近新高",
-          "dist": -9
+          "dist": -1.8
         },
         {
           "symbol": "3443",
           "name": "創意",
-          "point": "推升大盤指數，成交金額大且走高",
+          "point": "推升大盤指數",
           "status": "逼近新高",
-          "dist": -6.5
+          "dist": -6.7
         },
         {
           "symbol": "2368",
@@ -185,10 +185,32 @@
           "name": "緯穎",
           "point": "成交金額大且疲軟",
           "status": "逼近新高",
-          "dist": -5.2
+          "dist": -3.1
+        },
+        {
+          "symbol": "2324",
+          "name": "仁寶",
+          "point": "AI伺服器商機大爆發漲停",
+          "status": "逼近新高",
+          "dist": -9.5,
+          "luw": 1,
+          "luwd": [
+            "8/12"
+          ]
+        },
+        {
+          "symbol": "2357",
+          "name": "華碩",
+          "point": "AI伺服器商機大爆發破千",
+          "status": "逼近新高",
+          "dist": -2,
+          "luw": 1,
+          "luwd": [
+            "8/13"
+          ]
         }
       ],
-      "background": "被動元件族群在AI產業鏈強勁成長下，受惠於算力需求持續供不應求，帶動相關供應鏈新一波成長動能，產業景氣復甦。",
+      "background": "MLCC等被動元件受AI伺服器、高速運算需求帶動，產業鏈基本面維持強勁成長，長線多頭架構未變。",
       "themeTags": [
         "需求驅動",
         "循環位置"
