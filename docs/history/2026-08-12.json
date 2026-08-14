@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "updatedAt": "2026-08-13T11:26:49.285Z",
+  "updatedAt": "2026-08-14T03:02:02.294Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1oSWlUQVlqR1dSajE1YmFRODlvWjhUOVFrb3A4cmZ4dFpnUU5PVWdMX25VMWxjeDFpVkp0dTJKMldDLUVhRHFSaXNUZUFkWEdQSEZKT1dnUUNmZ9IBX0FVX3lxTE5LVWF4blYyMUNZRXRCcEVaYVVVZWpkZmJPaVFoS2VxRThTRkdma1RYZFRubkJUeHRLaXdmbEhqdmNIcWlmTkRuYUZqaUFpRGgyRkxwMWhHLUpSakhUdWtj",
@@ -20,14 +20,19 @@
         {
           "symbol": "2327",
           "name": "國巨*",
-          "point": "領軍被動元件走強，成交金額大且走高"
+          "point": "領軍被動元件走強，成交金額大且走高",
+          "luw": 1,
+          "luwd": [
+            "8/13"
+          ]
         },
         {
           "symbol": "2492",
           "name": "華新科",
           "point": "領軍被動元件走強，成交金額大且走高",
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "8/13",
             "8/11"
           ]
         },
@@ -47,11 +52,11 @@
           "point": "順勢走高",
           "luw": 5,
           "luwd": [
+            "8/13",
             "8/12",
             "8/11",
             "8/10",
-            "8/7",
-            "8/6"
+            "8/7"
           ]
         },
         {
@@ -93,7 +98,9 @@
         {
           "symbol": "1303",
           "name": "南亞",
-          "point": "成交金額大且走高"
+          "point": "成交金額大且走高",
+          "status": "逼近新高",
+          "dist": -9.8
         },
         {
           "symbol": "3661",
@@ -136,10 +143,9 @@
           "symbol": "2337",
           "name": "旺宏",
           "point": "成交金額大且疲軟",
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "8/10",
-            "8/6"
+            "8/10"
           ]
         },
         {
@@ -270,11 +276,11 @@
           "pct": 9.9,
           "luw": 5,
           "luwd": [
+            "8/13",
             "8/12",
             "8/11",
             "8/10",
-            "8/7",
-            "8/6"
+            "8/7"
           ]
         },
         {
@@ -285,11 +291,11 @@
           "pct": 9.6,
           "luw": 5,
           "luwd": [
+            "8/13",
             "8/12",
             "8/11",
             "8/10",
-            "8/7",
-            "8/6"
+            "8/7"
           ]
         },
         {
@@ -298,8 +304,9 @@
           "point": "回到300關，率先攻頂",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "8/13",
             "8/12"
           ]
         },
@@ -373,10 +380,9 @@
           "name": "旺宏",
           "point": "早盤聯袂上攻，創反彈新高",
           "limitUp": false,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "8/10",
-            "8/6"
+            "8/10"
           ]
         },
         {
@@ -417,7 +423,9 @@
           "symbol": "1303",
           "name": "南亞",
           "point": "大股東隨轉投資看俏強攻",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -9.8
         },
         {
           "symbol": "1605",
@@ -452,11 +460,11 @@
           "pct": 10,
           "luw": 5,
           "luwd": [
+            "8/13",
             "8/12",
             "8/11",
             "8/10",
-            "8/7",
-            "8/6"
+            "8/7"
           ]
         },
         {
@@ -487,7 +495,9 @@
           "symbol": "1303",
           "name": "南亞",
           "point": "漲勢相對落後",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -9.8
         }
       ],
       "background": "玻纖布受大陸市場漲價潮帶動，電子玻纖布與玻纖紗價格持續上揚，產業供需偏緊，帶動營收成長。",
