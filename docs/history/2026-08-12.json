@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "updatedAt": "2026-08-14T04:42:38.960Z",
+  "updatedAt": "2026-08-14T05:03:48.258Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1oSWlUQVlqR1dSajE1YmFRODlvWjhUOVFrb3A4cmZ4dFpnUU5PVWdMX25VMWxjeDFpVkp0dTJKMldDLUVhRHFSaXNUZUFkWEdQSEZKT1dnUUNmZ9IBX0FVX3lxTE5LVWF4blYyMUNZRXRCcEVaYVVVZWpkZmJPaVFoS2VxRThTRkdma1RYZFRubkJUeHRLaXdmbEhqdmNIcWlmTkRuYUZqaUFpRGgyRkxwMWhHLUpSakhUdWtj",
@@ -13,9 +13,9 @@
         {
           "symbol": "2330",
           "name": "台積電",
-          "point": "收盤價2,395元，上漲15元",
+          "point": "收盤價上漲15元",
           "status": "逼近新高",
-          "dist": -4.3
+          "dist": -4.5
         },
         {
           "symbol": "2327",
@@ -69,21 +69,21 @@
           "name": "聯發科",
           "point": "回穩撐盤",
           "status": "高檔修正",
-          "dist": -14.1
+          "dist": -14
         },
         {
           "symbol": "2383",
           "name": "台光電",
           "point": "推升大盤指數",
           "status": "逼近新高",
-          "dist": -1.8
+          "dist": -1.6
         },
         {
           "symbol": "3443",
           "name": "創意",
           "point": "推升大盤指數",
           "status": "逼近新高",
-          "dist": -6.7
+          "dist": -6.3
         },
         {
           "symbol": "2368",
@@ -185,32 +185,10 @@
           "name": "緯穎",
           "point": "成交金額大且疲軟",
           "status": "逼近新高",
-          "dist": -3.1
-        },
-        {
-          "symbol": "2324",
-          "name": "仁寶",
-          "point": "AI伺服器商機大爆發漲停",
-          "status": "逼近新高",
-          "dist": -9.5,
-          "luw": 1,
-          "luwd": [
-            "8/12"
-          ]
-        },
-        {
-          "symbol": "2357",
-          "name": "華碩",
-          "point": "AI伺服器商機大爆發破千",
-          "status": "逼近新高",
-          "dist": -2,
-          "luw": 1,
-          "luwd": [
-            "8/13"
-          ]
+          "dist": -2.9
         }
       ],
-      "background": "MLCC等被動元件受AI伺服器、高速運算需求帶動，產業鏈基本面維持強勁成長，長線多頭架構未變。",
+      "background": "MLCC等被動元件受AI伺服器與資料中心需求帶動，產業鏈基本面維持強勁成長，長線多頭架構未變，目前市場經歷快速修正後結構更健康。",
       "themeTags": [
         "需求驅動",
         "循環位置"

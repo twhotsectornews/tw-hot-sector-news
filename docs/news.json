@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-14T12:42:38.963+08:00",
-  "generatedAt": "2026-08-14T04:42:38.963Z",
+  "asOf": "2026-08-14T13:03:48.262+08:00",
+  "generatedAt": "2026-08-14T05:03:48.262Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -18,7 +18,8 @@
       "mentions": 7,
       "status": "逼近新高",
       "dist": -9.8,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.8
     },
     {
       "symbol": "2327",
@@ -104,7 +105,7 @@
       ],
       "mentions": 7,
       "status": "逼近新高",
-      "dist": -4.3
+      "dist": -4.5
     },
     {
       "symbol": "4979",
@@ -313,7 +314,7 @@
       ],
       "mentions": 5,
       "status": "高檔修正",
-      "dist": -14.1
+      "dist": -14
     },
     {
       "symbol": "3537",
@@ -335,7 +336,7 @@
       ],
       "mentions": 4,
       "status": "逼近新高",
-      "dist": -1.8
+      "dist": -1.6
     },
     {
       "symbol": "3443",
@@ -347,7 +348,7 @@
       ],
       "mentions": 4,
       "status": "逼近新高",
-      "dist": -6.7
+      "dist": -6.3
     },
     {
       "symbol": "2368",
@@ -403,7 +404,7 @@
       ],
       "mentions": 4,
       "status": "逼近新高",
-      "dist": -3.1
+      "dist": -2.9
     },
     {
       "symbol": "8043",
@@ -730,7 +731,8 @@
           "point": "受惠遠東區石化行情攀揚，營運加分",
           "status": "逼近新高",
           "dist": -9.8,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "1312",
