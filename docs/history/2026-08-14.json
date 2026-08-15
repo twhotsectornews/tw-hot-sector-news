@@ -1,0 +1,401 @@
+{
+  "date": "2026-08-14",
+  "updatedAt": "2026-08-15T03:01:44.621Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQRTRBMmttV1hkdnJrNUpieWhwM25USVVUbDJ3cTV6TENENHhpZThmTUk1VTdZZDgwdEdkSHRIVERBUEV3c00xbkRiOXE1QUNRalZjcUduWjVjSnROVGo1TVhRcU5mcXc2akdPNF9hLTNFa1RiRFlBWEh4RlRiU2lwSFVRNTJZZTA2",
+      "tkey": "熱門族群南亞漲聲響起CCL漲價受惠股齊歡騰",
+      "title": "《熱門族群》南亞漲聲響起 CCL漲價受惠股齊歡騰 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6272055001&PU=0033",
+      "source": "富聯網",
+      "pubDate": "Fri, 14 Aug 2026 07:26:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "電子材料事業調漲CCL與PP價格",
+          "status": "逼近新高",
+          "dist": -9.8,
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 1,
+          "luwd": [
+            "8/14"
+          ]
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "CCL漲價受惠股",
+          "status": "逼近新高",
+          "dist": -1.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "CCL漲價受惠股",
+          "status": "高檔修正",
+          "dist": -12.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "6672",
+          "name": "騰輝電子-KY",
+          "point": "CCL漲價受惠股",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "6213",
+          "name": "聯茂",
+          "point": "CCL漲價受惠股",
+          "status": "逼近新高",
+          "dist": -2,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "8358",
+          "name": "金居",
+          "point": "上游原料廠受鼓舞",
+          "limitUp": false
+        },
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "上游原料廠受鼓舞",
+          "limitUp": false
+        },
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "上游原料廠受鼓舞",
+          "limitUp": false
+        }
+      ],
+      "background": "全球電子材料供需嚴重失衡，玻纖布短缺推升採購成本，CCL與PP價格調漲。此波漲價確立可能性高，產業供給吃緊。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPc2lsS1NKSlZReW1kREpiYVI3OEtIenQyVHY4clo0S1JMcFJXTGZzSE5fTUtDQU5JQS1JWHkxOE5KdXpKcEJBWDlFSzdhcG9aUDl1ZnFzNU1UU1FFT2ZIMDMzanRUeDZHQ29iamRiZ2E0QXYzdnFZdFBxWC03NlhnR09hVHgtdEpY",
+      "tkey": "熱門族群特化族群第二季獲利亮眼",
+      "title": "《熱門族群》特化族群 第二季獲利亮眼 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6271458001&PU=0033",
+      "source": "富聯網",
+      "pubDate": "Fri, 14 Aug 2026 00:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3430",
+          "name": "奇鈦科",
+          "point": "第二季獲利告捷，上半年獲利年增翻倍",
+          "limitUp": false
+        },
+        {
+          "symbol": "4755",
+          "name": "三福化",
+          "point": "第二季獲利告捷，因應半導體擴廠增資",
+          "limitUp": false
+        },
+        {
+          "symbol": "4764",
+          "name": "雙鍵",
+          "point": "第二季獲利告捷，上半年獲利年增494%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1727",
+          "name": "中華化",
+          "point": "第二季獲利告捷，上半年獲利年增翻倍",
+          "limitUp": false
+        },
+        {
+          "symbol": "1713",
+          "name": "國化",
+          "point": "第二季獲利告捷，上半年獲利年增63.04%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1709",
+          "name": "和益",
+          "point": "第二季獲利告捷，上半年獲利年增145%",
+          "status": "逼近新高",
+          "dist": -4.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "6508",
+          "name": "惠光",
+          "point": "第二季獲利告捷，上半年獲利年增576%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1711",
+          "name": "永光",
+          "point": "第二季獲利告捷，因應產線擴建辦理現增",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        }
+      ],
+      "background": "特用化學品族群受惠利基出貨放大及轉投資挹注，第二季獲利表現亮眼，部分公司上半年獲利年增翻倍，顯示產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQMVZuWkMxUVJnTGxRbXRabU9xdjBwRWZyVVAxeFhNYXA2cE92bmtoc3VtVDNBU0NIblJhNnRTUl8yd3RDdWFWUlBiaURhSzZZNnVac3loNDdLZ2pDRzAtUmtCWXh3bnlTRDBCUWtBbkowVVI5eVlwejM1Z2dWMF9hNEVoSGJmaUpt",
+      "tkey": "熱門族群日電貿、中美晶獲利衝鋒",
+      "title": "《熱門族群》日電貿、中美晶 獲利衝鋒 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6271464001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 14 Aug 2026 00:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3090",
+          "name": "日電貿",
+          "point": "受惠MLCC漲價潮，第三季固態電容占比將上升",
+          "limitUp": false
+        },
+        {
+          "symbol": "5483",
+          "name": "中美晶",
+          "point": "母以子貴，2027年獲利顯著改善",
+          "limitUp": false
+        },
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "point": "與美光簽訂十年長約，獲策略性資金支持",
+          "limitUp": false
+        }
+      ],
+      "background": "被動元件與矽晶圓族群受AI伺服器需求帶動，MLCC與電容迎來漲價潮，矽晶圓廠也因先進製程擴大需求而獲利改善，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPQWROXzdnU0lnTHhSYkNuNUFubG9OU2t0cThhVXBna0NUUzAxclBhZnc3VDlSdDBmUTlsY3NIeDJoakRnUktmbHg0dWpPbmtkaVRxUktTM0Npa28wVVhWWHlBMnIxRHMzZFhVU3hSOGNwOWY0ckFDeWtETl9rU2xidHpjWWdGSFJn",
+      "tkey": "熱門族群利多助攻線纜業H1獲利旺",
+      "title": "《熱門族群》利多助攻 線纜業H1獲利旺 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6271457001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 14 Aug 2026 00:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1603",
+          "name": "華電",
+          "point": "受惠台電強韌電網計畫，第二季及上半年皆獲利",
+          "limitUp": false
+        },
+        {
+          "symbol": "1618",
+          "name": "合機",
+          "point": "受惠台電強韌電網計畫，第二季及上半年皆獲利",
+          "limitUp": false
+        },
+        {
+          "symbol": "1608",
+          "name": "華榮",
+          "point": "第二季靠業外收益近30億元挹注，上半年獲利王",
+          "limitUp": false
+        },
+        {
+          "symbol": "1605",
+          "name": "華新",
+          "point": "受惠台電強韌電網計畫，訂單逾50億元",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "1609",
+          "name": "大亞",
+          "point": "受惠台電強韌電網計畫，在手訂單破百億元",
+          "limitUp": false
+        },
+        {
+          "symbol": "1612",
+          "name": "宏泰",
+          "point": "受惠台電強韌電網計畫，訂單逾50億元",
+          "status": "高檔修正",
+          "dist": -12.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "1615",
+          "name": "大山",
+          "point": "受惠台電強韌電網計畫，第二季營收創同期新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "1616",
+          "name": "億泰",
+          "point": "受惠台電強韌電網計畫，第二季及上半年皆獲利",
+          "limitUp": false
+        },
+        {
+          "symbol": "1623",
+          "name": "大東電",
+          "point": "受惠台電強韌電網計畫，在手訂單破百億元",
+          "limitUp": false
+        },
+        {
+          "symbol": "1617",
+          "name": "榮星",
+          "point": "生產漆包線，未受惠台電強韌電網計畫",
+          "limitUp": false
+        }
+      ],
+      "background": "線纜業受惠台電強韌電網計畫及國際銅價高漲，訂單滿手，多數公司第二季及上半年獲利表現亮眼，產業景氣復甦。",
+      "themeTags": [
+        "政策關稅",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQeDB0THRqVHFlLTBvRmJEbEU4WV9vdzR4U1psRjgwZGhHYmd6SThsaTUwU2I4bzI2dWstOG9yNEJzLU1vMmZ6YVk4dEVDeDhrR2RXbEE3dFR6M19jX2VtZlVVdXhFMXkzWjRBZHhUaXJvci1JQ0ZZUmpxRGk1VmxWSDluMlRMSHJY",
+      "tkey": "熱門族群耕興、東研搶攻高單價檢測",
+      "title": "《熱門族群》耕興、東研搶攻高單價檢測 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6271455001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 14 Aug 2026 00:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6146",
+          "name": "耕興",
+          "point": "受惠FCC轉單、AI筆電及高階網通檢測需求",
+          "limitUp": false
+        },
+        {
+          "symbol": "6840",
+          "name": "東研信超",
+          "point": "卡位AI伺服器、HVDC高壓直流電力機櫃驗證",
+          "limitUp": false
+        }
+      ],
+      "background": "電子檢測業者受惠AI應用從終端到雲端資料中心的需求升級，以及FCC轉單效應，搶攻高單價檢測商機，營運逐季升溫。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOcW0yT0F6UzVZUThJZE4zMFpWWGpmRjhQYmtwRWEyNTBfZjh2em92ZnpFQVVBODZueTN1dGVjYkRxZWQ3OTcxMG9Bc3YzbzFCT3VEUXBKM0JTN3dtbjRaYmNzWGlKejlPUnZENmpZbjBzenlDdUVoUk5rTjUyV2M5d0hwUUR6YVot",
+      "tkey": "熱門族群合晶入列MSCI概念股矽晶圓亮三顆紅燈",
+      "title": "《熱門族群》合晶入列MSCI概念股 矽晶圓亮三顆紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6271454001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 14 Aug 2026 00:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6182",
+          "name": "合晶",
+          "point": "入列MSCI全球小型指數成分股，股價漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "point": "第二季稅後純益寫近十季新高，再度入列千金股",
+          "limitUp": false
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "第二季轉虧為盈，EPS 0.12元",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "8/13",
+            "8/12"
+          ]
+        }
+      ],
+      "background": "矽晶圓廠受惠AI伺服器與先進製程需求擴大，產業迎來新一波景氣循環，半年報報喜，合晶入列MSCI指數助威。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQbHBCbE1QODUtS0lkdDZJYjdVbHgzWlNxdm1yODZOMm1nN2tOZUY4aVZCbUJqX3BBZS1WeEZkX3RlOXZtdXNmN1dyVzRRTHV4ZzRZVTd0cE5BVVlGN3JYTGhQckFBeWFicXhRZTAzRV9DNEJ5QjVYbU5xWlBvQ1pjelJ2cm1JTGlw",
+      "tkey": "熱門族群油價回彈石化行情攀揚台廠受惠",
+      "title": "《熱門族群》油價回彈 石化行情攀揚 台廠受惠 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6271432001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 13 Aug 2026 23:46:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "受惠遠東區石化行情攀揚，營運加分",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "受惠遠東區石化行情攀揚，營運加分",
+          "status": "逼近新高",
+          "dist": -9.8,
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 1,
+          "luwd": [
+            "8/14"
+          ]
+        },
+        {
+          "symbol": "1312",
+          "name": "國喬",
+          "point": "受惠遠東區石化行情攀揚，營運加分",
+          "limitUp": false
+        },
+        {
+          "symbol": "1310",
+          "name": "台苯",
+          "point": "受惠遠東區石化行情攀揚，營運加分",
+          "limitUp": false
+        },
+        {
+          "symbol": "1712",
+          "name": "東聯",
+          "point": "受惠遠東區石化行情攀揚，營運加分",
+          "limitUp": false
+        },
+        {
+          "symbol": "1718",
+          "name": "中纖",
+          "point": "受惠遠東區石化行情攀揚，營運加分",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/12"
+          ]
+        }
+      ],
+      "background": "油價回彈帶動遠東區石化行情攀揚，苯、丙烯、SM、EG、PTA等上游原料價格止跌反彈，相關台廠營運受惠，產業景氣復甦。",
+      "themeTags": [
+        "循環位置",
+        "政策關稅"
+      ]
+    }
+  ]
+}

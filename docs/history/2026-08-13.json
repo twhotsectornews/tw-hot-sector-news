@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "updatedAt": "2026-08-14T11:24:26.690Z",
+  "updatedAt": "2026-08-15T03:01:44.627Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1oSWlUQVlqR1dSajE1YmFRODlvWjhUOVFrb3A4cmZ4dFpnUU5PVWdMX25VMWxjeDFpVkp0dTJKMldDLUVhRHFSaXNUZUFkWEdQSEZKT1dnUUNmZ9IBX0FVX3lxTE5LVWF4blYyMUNZRXRCcEVaYVVVZWpkZmJPaVFoS2VxRThTRkdma1RYZFRubkJUeHRLaXdmbEhqdmNIcWlmTkRuYUZqaUFpRGgyRkxwMWhHLUpSakhUdWtj",
@@ -92,7 +92,11 @@
           "name": "南亞",
           "point": "成交金額大且走高",
           "status": "逼近新高",
-          "dist": -9.8
+          "dist": -9.8,
+          "luw": 1,
+          "luwd": [
+            "8/14"
+          ]
         },
         {
           "symbol": "3661",
