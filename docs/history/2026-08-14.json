@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "updatedAt": "2026-08-16T06:03:24.691Z",
+  "updatedAt": "2026-08-16T06:22:03.116Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1oSWlUQVlqR1dSajE1YmFRODlvWjhUOVFrb3A4cmZ4dFpnUU5PVWdMX25VMWxjeDFpVkp0dTJKMldDLUVhRHFSaXNUZUFkWEdQSEZKT1dnUUNmZ9IBX0FVX3lxTE5LVWF4blYyMUNZRXRCcEVaYVVVZWpkZmJPaVFoS2VxRThTRkdma1RYZFRubkJUeHRLaXdmbEhqdmNIcWlmTkRuYUZqaUFpRGgyRkxwMWhHLUpSakhUdWtj",
@@ -13,14 +13,14 @@
         {
           "symbol": "2330",
           "name": "台積電",
-          "point": "收盤價上漲",
+          "point": "收盤價上漲、回穩撐盤",
           "status": "逼近新高",
           "dist": -5.5
         },
         {
           "symbol": "2327",
           "name": "國巨",
-          "point": "領軍被動元件走強",
+          "point": "領軍被動元件走強、成交金額大且走高",
           "luw": 1,
           "luwd": [
             "8/13"
@@ -29,7 +29,7 @@
         {
           "symbol": "2492",
           "name": "華新科",
-          "point": "被動元件走強",
+          "point": "領軍被動元件走強、成交金額大且走高",
           "luw": 2,
           "luwd": [
             "8/13",
@@ -39,7 +39,7 @@
         {
           "symbol": "3026",
           "name": "禾伸堂",
-          "point": "被動元件走強",
+          "point": "領軍被動元件走強、成交金額大且走高",
           "luw": 2,
           "luwd": [
             "8/11",
@@ -49,31 +49,31 @@
         {
           "symbol": "6173",
           "name": "信昌電",
-          "point": "被動元件走高"
+          "point": "順勢走高"
         },
         {
           "symbol": "3537",
           "name": "堡達",
-          "point": "被動元件走高"
+          "point": "順勢走高"
         },
         {
           "symbol": "2454",
           "name": "聯發科",
-          "point": "回穩撐盤",
+          "point": "回穩撐盤、成交金額大且走高",
           "status": "高檔修正",
           "dist": -14.8
         },
         {
           "symbol": "2383",
           "name": "台光電",
-          "point": "推升大盤指數",
+          "point": "推升大盤指數、成交金額大且走高",
           "status": "逼近新高",
           "dist": -1.4
         },
         {
           "symbol": "3443",
           "name": "創意",
-          "point": "推升大盤指數",
+          "point": "推升大盤指數、成交金額大且走高",
           "status": "逼近新高",
           "dist": -7.7
         },
@@ -184,10 +184,9 @@
           "dist": -3.2
         }
       ],
-      "background": "被動元件受AI產業鏈基本面強勁成長帶動，MLCC指標廠村田缺貨外溢，台廠受惠。AI伺服器與資料中心供應鏈仍是投資主軸。",
+      "background": "AI產業鏈基本面維持強勁成長，雲端服務供應商資本支出持續成長，帶動相關供應鏈新一波成長動能。",
       "themeTags": [
-        "需求驅動",
-        "國際大廠"
+        "需求驅動"
       ]
     },
     {
@@ -201,7 +200,7 @@
         {
           "symbol": "1303",
           "name": "南亞",
-          "point": "宣佈調漲CCL與PP價格，股價亮燈漲停",
+          "point": "宣布調漲CCL與PP價格，股價亮燈漲停",
           "status": "逼近新高",
           "dist": -9.8,
           "luw": 1,
@@ -219,7 +218,7 @@
         {
           "symbol": "6274",
           "name": "台燿",
-          "point": "CCL漲價受惠股，股價上漲",
+          "point": "CCL漲價受惠股，股價收漲",
           "status": "高檔修正",
           "dist": -12.8
         },
@@ -259,10 +258,8 @@
           "point": "上游原料廠受鼓舞"
         }
       ],
-      "background": "全球電子材料供需嚴重失衡，玻纖布短缺推升採購成本狂飆，CCL與PP價格調漲，產業處於供給吃緊狀態。",
-      "themeTags": [
-        "循環位置"
-      ]
+      "background": "全球電子材料供需嚴重失衡，玻纖布短缺推升採購成本狂飆，CCL與PP價格調漲，產業供給吃緊。",
+      "themeTags": []
     },
     {
       "gid": "CBMiiAFBVV95cUxPc2lsS1NKSlZReW1kREpiYVI3OEtIenQyVHY4clo0S1JMcFJXTGZzSE5fTUtDQU5JQS1JWHkxOE5KdXpKcEJBWDlFSzdhcG9aUDl1ZnFzNU1UU1FFT2ZIMDMzanRUeDZHQ29iamRiZ2E0QXYzdnFZdFBxWC03NlhnR09hVHgtdEpY",
