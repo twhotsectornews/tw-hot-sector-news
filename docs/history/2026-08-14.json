@@ -1,26 +1,26 @@
 {
   "date": "2026-08-14",
-  "updatedAt": "2026-08-16T04:02:14.050Z",
+  "updatedAt": "2026-08-16T04:27:46.686Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1oSWlUQVlqR1dSajE1YmFRODlvWjhUOVFrb3A4cmZ4dFpnUU5PVWdMX25VMWxjeDFpVkp0dTJKMldDLUVhRHFSaXNUZUFkWEdQSEZKT1dnUUNmZ9IBX0FVX3lxTE5LVWF4blYyMUNZRXRCcEVaYVVVZWpkZmJPaVFoS2VxRThTRkdma1RYZFRubkJUeHRLaXdmbEhqdmNIcWlmTkRuYUZqaUFpRGgyRkxwMWhHLUpSakhUdWtj",
       "tkey": "台股上漲191點收45,120點MLCC擔綱多頭強攻熱門族群",
-      "title": "台股上漲191點收45,120點 MLCC 擔綱多頭強攻熱門族群 - 經濟日報",
+      "title": "台股上漲191點收45,120點 MLCC 擔綱多頭強攻熱門族群 - money.udn.com",
       "url": "https://money.udn.com/money/story/5607/9684353",
-      "source": "經濟日報",
+      "source": "money.udn.com",
       "pubDate": "Fri, 14 Aug 2026 09:00:00 GMT",
       "stocks": [
         {
           "symbol": "2330",
           "name": "台積電",
-          "point": "收盤價上漲撐盤",
+          "point": "收盤價2,395元，上漲15元",
           "status": "逼近新高",
           "dist": -5.5
         },
         {
           "symbol": "2327",
           "name": "國巨",
-          "point": "領被動元件走強",
+          "point": "領軍被動元件走強",
           "luw": 1,
           "luwd": [
             "8/13"
@@ -29,7 +29,7 @@
         {
           "symbol": "2492",
           "name": "華新科",
-          "point": "被動元件領軍走強",
+          "point": "領軍被動元件走強",
           "luw": 2,
           "luwd": [
             "8/13",
@@ -39,7 +39,7 @@
         {
           "symbol": "3026",
           "name": "禾伸堂",
-          "point": "被動元件領軍走強",
+          "point": "領軍被動元件走強",
           "luw": 2,
           "luwd": [
             "8/11",
@@ -184,7 +184,7 @@
           "dist": -3.2
         }
       ],
-      "background": "AI產業鏈基本面維持強勁成長，雲端服務供應商資本支出持續成長反映算力需求供不應求，帶動半導體先進製程、封裝測試、ASIC、高速傳輸、ABF載板、高階PCB散熱、電源及光通訊等供應鏈成長。",
+      "background": "AI產業鏈基本面維持強勁成長，雲端服務供應商資本支出持續成長反映算力需求，帶動AI伺服器與資料中心供應鏈、半導體先進製程等族群。",
       "themeTags": [
         "需求驅動"
       ]
@@ -200,7 +200,7 @@
         {
           "symbol": "1303",
           "name": "南亞",
-          "point": "電子材料事業調漲CCL與PP價格",
+          "point": "宣布調漲CCL與PP價格20％至25％",
           "status": "逼近新高",
           "dist": -9.8,
           "luw": 1,
@@ -211,14 +211,14 @@
         {
           "symbol": "2383",
           "name": "台光電",
-          "point": "CCL漲價受惠股",
+          "point": "CCL漲價受惠股，上漲8.35％",
           "status": "逼近新高",
           "dist": -1.4
         },
         {
           "symbol": "6274",
           "name": "台燿",
-          "point": "CCL漲價受惠股",
+          "point": "CCL漲價受惠股，收漲4.69％",
           "status": "高檔修正",
           "dist": -12.8
         },
@@ -258,8 +258,10 @@
           "point": "上游原料廠受鼓舞"
         }
       ],
-      "background": "全球電子材料供需嚴重失衡，玻纖布短缺推升採購成本狂飆，CCL與PP價格調漲，反映銅箔、玻纖布、樹脂等原料成本大幅上揚，缺料狀況未緩解。",
-      "themeTags": []
+      "background": "全球電子材料供需嚴重失衡，玻纖布短缺推升採購成本狂飆，CCL與PP價格調漲，反映產業供給吃緊。",
+      "themeTags": [
+        "循環位置"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxPc2lsS1NKSlZReW1kREpiYVI3OEtIenQyVHY4clo0S1JMcFJXTGZzSE5fTUtDQU5JQS1JWHkxOE5KdXpKcEJBWDlFSzdhcG9aUDl1ZnFzNU1UU1FFT2ZIMDMzanRUeDZHQ29iamRiZ2E0QXYzdnFZdFBxWC03NlhnR09hVHgtdEpY",
