@@ -1,0 +1,144 @@
+{
+  "date": "2026-08-15",
+  "updatedAt": "2026-08-16T03:02:16.657Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNZmk1VkNJUnhtUTl0azhIMVZsRHlsYU9GOHNFeDM2cG5RQm0wR0dualoyVlhEUkJZeWlQX2pBTHUtbmljdDB3TFh3NXc5cGxYTlMxb3FfS3MzOW9XZlotOGJwVXRmMFRyYnFKbzJkTHU3SURLa0pINHRDeVV2N21qaDdkM1A4Mkoz",
+      "tkey": "熱門族群南亞CCL喊漲受惠股出列",
+      "title": "《熱門族群》南亞CCL喊漲 受惠股出列 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6272677001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sat, 15 Aug 2026 07:30:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "CCL與PP價格調漲20％～25％",
+          "status": "逼近新高",
+          "dist": -9.8,
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 1,
+          "luwd": [
+            "8/14"
+          ]
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "CCL漲價受惠股",
+          "status": "逼近新高",
+          "dist": -1.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "CCL漲價受惠股",
+          "status": "高檔修正",
+          "dist": -12.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "6672",
+          "name": "騰輝電子-KY",
+          "point": "CCL漲價受惠股",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "6213",
+          "name": "聯茂",
+          "point": "CCL漲價受惠股",
+          "status": "逼近新高",
+          "dist": -2,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "8358",
+          "name": "金居",
+          "point": "上游原料廠受惠",
+          "limitUp": false
+        },
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "上游原料廠受惠",
+          "limitUp": false
+        },
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "上游原料廠受惠",
+          "limitUp": false
+        }
+      ],
+      "background": "全球電子材料供需失衡，玻纖布短缺推升採購成本，南亞等CCL廠調漲價格，產業供給吃緊。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQY2FsVDVkY1ZDUVNQTE5HZkh2SmU1dWdWYW90d0cyMXpuakxXVXZLYWFhRmw5UnNRLThWNGJEVzZkdnlHT2c4WWpsbjh3a1kyUEtrSkp6RnRXVFNSWGFtRHd3VDRUNDhLWTk0blg4cDhBTmxtdmlrN0UzeDRmTXhCenhNQndJYjFR",
+      "tkey": "熱門族群CoherentInP擴產超前台鏈嗨翻",
+      "title": "《熱門族群》Coherent InP擴產超前 台鏈嗨翻 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6272678001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sat, 15 Aug 2026 07:30:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "受惠光通訊需求暢旺",
+          "limitUp": false
+        },
+        {
+          "symbol": "4979",
+          "name": "華星光",
+          "point": "受惠光通訊需求暢旺",
+          "limitUp": false
+        },
+        {
+          "symbol": "3363",
+          "name": "上詮",
+          "point": "受惠光通訊需求暢旺",
+          "limitUp": false
+        },
+        {
+          "symbol": "6442",
+          "name": "光聖",
+          "point": "受惠光通訊需求暢旺",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/12"
+          ]
+        },
+        {
+          "symbol": "3450",
+          "name": "聯鈞",
+          "point": "受惠光通訊需求暢旺",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        }
+      ],
+      "background": "AI資料中心高速傳輸需求升溫，Coherent擴充InP產能，帶動光通訊產業景氣持續升溫。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    }
+  ]
+}
