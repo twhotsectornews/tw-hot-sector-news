@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "updatedAt": "2026-08-16T03:39:22.406Z",
+  "updatedAt": "2026-08-16T04:02:14.050Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1oSWlUQVlqR1dSajE1YmFRODlvWjhUOVFrb3A4cmZ4dFpnUU5PVWdMX25VMWxjeDFpVkp0dTJKMldDLUVhRHFSaXNUZUFkWEdQSEZKT1dnUUNmZ9IBX0FVX3lxTE5LVWF4blYyMUNZRXRCcEVaYVVVZWpkZmJPaVFoS2VxRThTRkdma1RYZFRubkJUeHRLaXdmbEhqdmNIcWlmTkRuYUZqaUFpRGgyRkxwMWhHLUpSakhUdWtj",
@@ -11,9 +11,16 @@
       "pubDate": "Fri, 14 Aug 2026 09:00:00 GMT",
       "stocks": [
         {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "收盤價上漲撐盤",
+          "status": "逼近新高",
+          "dist": -5.5
+        },
+        {
           "symbol": "2327",
           "name": "國巨",
-          "point": "領軍被動元件走強",
+          "point": "領被動元件走強",
           "luw": 1,
           "luwd": [
             "8/13"
@@ -22,7 +29,7 @@
         {
           "symbol": "2492",
           "name": "華新科",
-          "point": "領軍被動元件走強",
+          "point": "被動元件領軍走強",
           "luw": 2,
           "luwd": [
             "8/13",
@@ -32,7 +39,7 @@
         {
           "symbol": "3026",
           "name": "禾伸堂",
-          "point": "領軍被動元件走強",
+          "point": "被動元件領軍走強",
           "luw": 2,
           "luwd": [
             "8/11",
@@ -42,19 +49,12 @@
         {
           "symbol": "6173",
           "name": "信昌電",
-          "point": "順勢走高"
+          "point": "被動元件順勢走高"
         },
         {
           "symbol": "3537",
           "name": "堡達",
-          "point": "順勢走高"
-        },
-        {
-          "symbol": "2330",
-          "name": "台積電",
-          "point": "回穩撐盤",
-          "status": "逼近新高",
-          "dist": -5.5
+          "point": "被動元件順勢走高"
         },
         {
           "symbol": "2454",
@@ -184,18 +184,17 @@
           "dist": -3.2
         }
       ],
-      "background": "MLCC 等被動元件受 AI 伺服器與資料中心需求帶動，產業鏈基本面維持強勁成長，長線多頭架構未變。",
+      "background": "AI產業鏈基本面維持強勁成長，雲端服務供應商資本支出持續成長反映算力需求供不應求，帶動半導體先進製程、封裝測試、ASIC、高速傳輸、ABF載板、高階PCB散熱、電源及光通訊等供應鏈成長。",
       "themeTags": [
-        "需求驅動",
-        "循環位置"
+        "需求驅動"
       ]
     },
     {
       "gid": "CBMiiAFBVV95cUxQRTRBMmttV1hkdnJrNUpieWhwM25USVVUbDJ3cTV6TENENHhpZThmTUk1VTdZZDgwdEdkSHRIVERBUEV3c00xbkRiOXE1QUNRalZjcUduWjVjSnROVGo1TVhRcU5mcXc2akdPNF9hLTNFa1RiRFlBWEh4RlRiU2lwSFVRNTJZZTA2",
-      "tkey": "熱門族群南亞漲聲響起CCL漲價受惠股齊歡騰-ww2.money",
-      "title": "《熱門族群》南亞漲聲響起 CCL漲價受惠股齊歡騰 - ww2.money-link.com.tw",
+      "tkey": "熱門族群南亞漲聲響起CCL漲價受惠股齊歡騰",
+      "title": "《熱門族群》南亞漲聲響起 CCL漲價受惠股齊歡騰 - 富聯網",
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6272055001&PU=0033",
-      "source": "ww2.money-link.com.tw",
+      "source": "富聯網",
       "pubDate": "Fri, 14 Aug 2026 07:26:00 GMT",
       "stocks": [
         {
@@ -259,11 +258,8 @@
           "point": "上游原料廠受鼓舞"
         }
       ],
-      "background": "全球電子材料供需失衡，玻纖布短缺推升採購成本，CCL 廠商因應原料漲價而調升產品售價，產業供給吃緊。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
+      "background": "全球電子材料供需嚴重失衡，玻纖布短缺推升採購成本狂飆，CCL與PP價格調漲，反映銅箔、玻纖布、樹脂等原料成本大幅上揚，缺料狀況未緩解。",
+      "themeTags": []
     },
     {
       "gid": "CBMiiAFBVV95cUxPc2lsS1NKSlZReW1kREpiYVI3OEtIenQyVHY4clo0S1JMcFJXTGZzSE5fTUtDQU5JQS1JWHkxOE5KdXpKcEJBWDlFSzdhcG9aUDl1ZnFzNU1UU1FFT2ZIMDMzanRUeDZHQ29iamRiZ2E0QXYzdnFZdFBxWC03NlhnR09hVHgtdEpY",
