@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-16T13:19:18.249+08:00",
-  "generatedAt": "2026-08-16T05:19:18.249Z",
+  "asOf": "2026-08-16T14:03:24.694+08:00",
+  "generatedAt": "2026-08-16T06:03:24.694Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -427,6 +427,19 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMikgFBVV95cUxNTDRWN2YxZkl3NnBSNEtwNnViT2psd3VXSDZ5cmJzOV9KUGZUVTc0QXVaQVphbEFnT1djdW9fVEtROThpNW02blhhNnA2WTU3YWZQYmc2TG9mNFdHTDlZOHJMaFIyUDJvY0RzcHZnRUxMTUl4amxLQ1hQUUNpX2pHSG9SMEpWVWtCR2dPSkYtNHNOUQ",
+      "tkey": "熱門族群主權AI、資安、雲端資服新動能",
+      "title": "《熱門族群》主權AI、資安、雲端 資服新動能 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6273037001&pu=News_0002_3",
+      "source": "富聯網",
+      "pubDate": "Sun, 16 Aug 2026 05:26:00 GMT",
+      "stocks": [],
+      "background": "AI投資熱潮延續，企業AI從基礎建設走向應用落地，帶動資服市場需求，資安與雲端需求也同步增長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiZEFVX3lxTE9pYzlQY2h6NTNiTEFKcTRwU2dXT0kyaG1zWFBVTjMxVHNwa05SOVFwMGNoMjVMOTZzSUJiNmxFY0J1S0VYNHAzNENvLXplNXdTQzhlR0s4M2x5TXBkcXV4UHJ5VF8",
       "tkey": "熱門族群伺服器散熱需求增BBU活力再起",
