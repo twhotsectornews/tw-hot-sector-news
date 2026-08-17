@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-17T11:03:30.710+08:00",
-  "generatedAt": "2026-08-17T03:03:30.710Z",
+  "asOf": "2026-08-17T11:41:18.452+08:00",
+  "generatedAt": "2026-08-17T03:41:18.452Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -198,7 +198,8 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -4.7,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "1815",
@@ -209,8 +210,7 @@
         "8/14",
         "8/12"
       ],
-      "mentions": 3,
-      "limitUp": false
+      "mentions": 3
     },
     {
       "symbol": "1802",
@@ -221,8 +221,7 @@
         "8/14",
         "8/12"
       ],
-      "mentions": 3,
-      "limitUp": false
+      "mentions": 3
     },
     {
       "symbol": "3081",
@@ -235,8 +234,7 @@
       ],
       "mentions": 3,
       "status": "逼近新高",
-      "dist": -8.8,
-      "limitUp": false
+      "dist": -9
     },
     {
       "symbol": "6442",
@@ -248,7 +246,6 @@
         "8/12"
       ],
       "mentions": 3,
-      "limitUp": false,
       "luw": 1,
       "luwd": [
         "8/12"
@@ -439,7 +436,8 @@
           "point": "股價亮燈漲停",
           "status": "逼近新高",
           "dist": -4.7,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "3037",
@@ -447,8 +445,7 @@
           "point": "股價亮燈漲停",
           "status": "逼近新高",
           "dist": -0.7,
-          "limitUp": true,
-          "pct": 9.8
+          "limitUp": false
         },
         {
           "symbol": "5274",

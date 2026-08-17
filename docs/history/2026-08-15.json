@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "updatedAt": "2026-08-17T03:03:30.705Z",
+  "updatedAt": "2026-08-17T03:41:18.449Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1oSWlUQVlqR1dSajE1YmFRODlvWjhUOVFrb3A4cmZ4dFpnUU5PVWdMX25VMWxjeDFpVkp0dTJKMldDLUVhRHFSaXNUZUFkWEdQSEZKT1dnUUNmZ9IBX0FVX3lxTE5LVWF4blYyMUNZRXRCcEVaYVVVZWpkZmJPaVFoS2VxRThTRkdma1RYZFRubkJUeHRLaXdmbEhqdmNIcWlmTkRuYUZqaUFpRGgyRkxwMWhHLUpSakhUdWtj",
@@ -201,10 +201,8 @@
           "symbol": "1303",
           "name": "南亞",
           "point": "CCL與PP價格調漲20％～25％",
-          "status": "逼近新高",
-          "dist": -9.8,
-          "limitUp": true,
-          "pct": 9.8,
+          "status": "高檔修正",
+          "dist": -10.2,
           "luw": 1,
           "luwd": [
             "8/14"
@@ -215,22 +213,17 @@
           "name": "台光電",
           "point": "CCL漲價受惠股",
           "status": "逼近新高",
-          "dist": -1.4,
-          "limitUp": false
+          "dist": -0.7
         },
         {
           "symbol": "6274",
           "name": "台燿",
-          "point": "CCL漲價受惠股",
-          "status": "高檔修正",
-          "dist": -12.8,
-          "limitUp": false
+          "point": "CCL漲價受惠股"
         },
         {
           "symbol": "6672",
           "name": "騰輝電子-KY",
           "point": "CCL漲價受惠股",
-          "limitUp": false,
           "luw": 1,
           "luwd": [
             "8/10"
@@ -241,8 +234,7 @@
           "name": "聯茂",
           "point": "CCL漲價受惠股",
           "status": "逼近新高",
-          "dist": -2,
-          "limitUp": false,
+          "dist": -1.1,
           "luw": 1,
           "luwd": [
             "8/10"
@@ -251,20 +243,17 @@
         {
           "symbol": "8358",
           "name": "金居",
-          "point": "上游原料廠受惠",
-          "limitUp": false
+          "point": "上游原料廠受惠"
         },
         {
           "symbol": "1815",
           "name": "富喬",
-          "point": "上游原料廠受惠",
-          "limitUp": false
+          "point": "上游原料廠受惠"
         },
         {
           "symbol": "1802",
           "name": "台玻",
-          "point": "上游原料廠受惠",
-          "limitUp": false
+          "point": "上游原料廠受惠"
         }
       ],
       "background": "全球電子材料供需失衡，玻纖布短缺推升採購成本，南亞等CCL廠調漲價格，產業供給吃緊。",
@@ -284,28 +273,24 @@
         {
           "symbol": "3081",
           "name": "聯亞",
-          "point": "受惠光通訊需求暢旺",
-          "limitUp": false,
+          "point": "光通訊需求暢旺受惠",
           "status": "逼近新高",
-          "dist": -8.8
+          "dist": -9
         },
         {
           "symbol": "4979",
           "name": "華星光",
-          "point": "受惠光通訊需求暢旺",
-          "limitUp": false
+          "point": "光通訊需求暢旺受惠"
         },
         {
           "symbol": "3363",
           "name": "上詮",
-          "point": "受惠光通訊需求暢旺",
-          "limitUp": false
+          "point": "光通訊需求暢旺受惠"
         },
         {
           "symbol": "6442",
           "name": "光聖",
-          "point": "受惠光通訊需求暢旺",
-          "limitUp": false,
+          "point": "光通訊需求暢旺受惠",
           "luw": 1,
           "luwd": [
             "8/12"
@@ -314,17 +299,16 @@
         {
           "symbol": "3450",
           "name": "聯鈞",
-          "point": "受惠光通訊需求暢旺",
-          "limitUp": false,
+          "point": "光通訊需求暢旺受惠",
           "status": "高檔修正",
-          "dist": -14.7,
+          "dist": -13.6,
           "luw": 1,
           "luwd": [
             "8/10"
           ]
         }
       ],
-      "background": "AI資料中心高速傳輸需求升溫，Coherent擴充InP產能，帶動光通訊產業景氣持續升溫。",
+      "background": "AI資料中心高速傳輸需求持續升溫，全球光通訊大廠Coherent擴充InP產能，帶動光通訊產業景氣。",
       "themeTags": [
         "需求驅動",
         "國際大廠",
