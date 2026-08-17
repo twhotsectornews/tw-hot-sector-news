@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-17T13:03:24.020+08:00",
-  "generatedAt": "2026-08-17T05:03:24.020Z",
+  "asOf": "2026-08-17T13:27:46.120+08:00",
+  "generatedAt": "2026-08-17T05:27:46.120Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -49,8 +49,7 @@
       "mentions": 4,
       "status": "逼近新高",
       "dist": -7,
-      "limitUp": true,
-      "pct": 9.8
+      "limitUp": false
     },
     {
       "symbol": "2327",
@@ -416,8 +415,7 @@
           "point": "磷化銦概念股，強攻漲停",
           "status": "逼近新高",
           "dist": -8.7,
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "3081",
@@ -425,8 +423,7 @@
           "point": "磷化銦概念股，飆逾8％",
           "status": "逼近新高",
           "dist": -7,
-          "limitUp": true,
-          "pct": 9.8
+          "limitUp": false
         },
         {
           "symbol": "4971",
@@ -466,8 +463,7 @@
           "symbol": "2615",
           "name": "萬海",
           "point": "率先攻上漲停",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "2603",
@@ -505,8 +501,7 @@
           "point": "AI和3D視覺辨識，亮燈攻頂",
           "status": "逼近新高",
           "dist": -5.3,
-          "limitUp": true,
-          "pct": 9.7,
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "8/13"
@@ -600,7 +595,8 @@
           "point": "跳空漲停鎖死，創掛牌新高",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "3653",
