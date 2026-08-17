@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-17T14:03:22.791+08:00",
-  "generatedAt": "2026-08-17T06:03:22.791Z",
+  "asOf": "2026-08-17T14:32:28.320+08:00",
+  "generatedAt": "2026-08-17T06:32:28.320Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -49,8 +49,7 @@
       "mentions": 4,
       "status": "逼近新高",
       "dist": -7,
-      "limitUp": true,
-      "pct": 9.8
+      "limitUp": false
     },
     {
       "symbol": "2327",
@@ -227,8 +226,7 @@
         "8/12"
       ],
       "mentions": 3,
-      "limitUp": true,
-      "pct": 10
+      "limitUp": false
     },
     {
       "symbol": "1815",
@@ -405,6 +403,51 @@
   ],
   "news": [
     {
+      "gid": "CBMikgFBVV95cUxNb25mTW5sWVhCbDdTNUVvRDN3RHV6anJnTHJBWWlNUHQ1ME5VbWE1Y3ZYa2t6WTNZckFkNGh4Tkc2SVp6c2FMVzZMM2o3WEtuNm4yaTFxUmtSLW9QQkFXZFBZaGRmb1ZDaEZEWWRtbVNsTWJpZ3BseHFHMlZxY01tQUhtbGpWNkJ0cjF1VW5MYUZUQQ",
+      "tkey": "熱門族群散熱冰火兩重天健策漲停鎖死雙鴻、奇鋐收黑",
+      "title": "《熱門族群》散熱冰火兩重天 健策漲停鎖死 雙鴻、奇鋐收黑 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6274097001&pu=News_0002_3",
+      "source": "富聯網",
+      "pubDate": "Mon, 17 Aug 2026 05:47:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "AI伺服器與液冷需求升溫，漲停鎖死",
+          "status": "逼近新高",
+          "dist": -5.5,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "8/12"
+          ]
+        },
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "point": "股價震盪走弱收黑，液冷需求成長受關注",
+          "limitUp": false
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "股價震盪走弱收黑，液冷需求成長受關注",
+          "status": "逼近新高",
+          "dist": -5.1,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/13"
+          ]
+        }
+      ],
+      "background": "AI伺服器與液冷散熱需求持續發燒，高階水冷板製程門檻提高，具備設計製造與系統整合能力業者具競爭優勢。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNTm1fLTlRYjZsdzRzUVQ1Y20xOFAtcjV5Z2ZRbDB4OURTVENMM19vMlY5cGhIdTNWU1B5LXZmUmdQQ1AwVTBuMGVJZXZsNVM5TlJjNU1KdjNlaV96MW5GM3pPNXFDYUpFQUtySUM2M214NWlrQ1NZOFhPWjR0UDhneXFCeGVXTkVH",
       "tkey": "熱門族群光通訊超級漲價循環！磷化銦缺很大全新、聯亞飆高",
       "title": "《熱門族群》光通訊超級漲價循環！磷化銦缺很大 全新、聯亞飆高 - 富聯網",
@@ -427,15 +470,13 @@
           "point": "磷化銦概念股，飆逾8％",
           "status": "逼近新高",
           "dist": -7,
-          "limitUp": true,
-          "pct": 9.8
+          "limitUp": false
         },
         {
           "symbol": "4971",
           "name": "IET-KY",
           "point": "磷化銦概念股，強攻漲停",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "4991",

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "updatedAt": "2026-08-17T06:03:22.788Z",
+  "updatedAt": "2026-08-17T06:32:28.316Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1oSWlUQVlqR1dSajE1YmFRODlvWjhUOVFrb3A4cmZ4dFpnUU5PVWdMX25VMWxjeDFpVkp0dTJKMldDLUVhRHFSaXNUZUFkWEdQSEZKT1dnUUNmZ9IBX0FVX3lxTE5LVWF4blYyMUNZRXRCcEVaYVVVZWpkZmJPaVFoS2VxRThTRkdma1RYZFRubkJUeHRLaXdmbEhqdmNIcWlmTkRuYUZqaUFpRGgyRkxwMWhHLUpSakhUdWtj",
@@ -200,7 +200,7 @@
         {
           "symbol": "1303",
           "name": "南亞",
-          "point": "CCL與PP價格調漲，股價漲停",
+          "point": "電子材料供需失衡，CCL與PP喊漲",
           "status": "高檔修正",
           "dist": -12.8,
           "luw": 1,
@@ -211,14 +211,14 @@
         {
           "symbol": "2383",
           "name": "台光電",
-          "point": "CCL漲價受惠股，股價上漲",
+          "point": "CCL漲價受惠股，全球AI高階CCL龍頭",
           "status": "逼近新高",
           "dist": -1.5
         },
         {
           "symbol": "6274",
           "name": "台燿",
-          "point": "CCL漲價受惠股，股價上漲"
+          "point": "CCL漲價受惠股，全球AI高階CCL大廠"
         },
         {
           "symbol": "6672",
@@ -243,20 +243,20 @@
         {
           "symbol": "8358",
           "name": "金居",
-          "point": "上游原料廠受鼓舞"
+          "point": "CCL上游原料廠，受漲價鼓舞"
         },
         {
           "symbol": "1815",
           "name": "富喬",
-          "point": "上游原料廠受鼓舞"
+          "point": "CCL上游原料廠，受漲價鼓舞"
         },
         {
           "symbol": "1802",
           "name": "台玻",
-          "point": "上游原料廠受鼓舞"
+          "point": "CCL上游原料廠，受漲價鼓舞"
         }
       ],
-      "background": "全球電子材料供需失衡，玻纖布短缺推升採購成本，銅箔基板（CCL）與聚丙烯（PP）價格調漲，產業供給吃緊。",
+      "background": "全球電子材料供需失衡，玻纖布短缺推升採購成本，南亞帶頭調漲銅箔基板（CCL）與聚丙烯（PP）價格，產業景氣復甦。",
       "themeTags": [
         "需求驅動",
         "循環位置"
@@ -273,24 +273,24 @@
         {
           "symbol": "3081",
           "name": "聯亞",
-          "point": "受惠光通訊需求暢旺",
+          "point": "光通訊需求暢旺受惠股",
           "status": "逼近新高",
           "dist": -7
         },
         {
           "symbol": "4979",
           "name": "華星光",
-          "point": "受惠光通訊需求暢旺"
+          "point": "光通訊需求暢旺受惠股"
         },
         {
           "symbol": "3363",
           "name": "上詮",
-          "point": "受惠光通訊需求暢旺"
+          "point": "光通訊需求暢旺受惠股"
         },
         {
           "symbol": "6442",
           "name": "光聖",
-          "point": "受惠光通訊需求暢旺",
+          "point": "光通訊需求暢旺受惠股",
           "luw": 1,
           "luwd": [
             "8/12"
@@ -299,7 +299,7 @@
         {
           "symbol": "3450",
           "name": "聯鈞",
-          "point": "受惠光通訊需求暢旺",
+          "point": "光通訊需求暢旺受惠股",
           "status": "高檔修正",
           "dist": -10.1,
           "luw": 1,
@@ -308,11 +308,10 @@
           ]
         }
       ],
-      "background": "AI資料中心高速傳輸需求持續升溫，全球光通訊大廠Coherent加速擴充磷化銦（InP）產能，帶動光通訊產業景氣持續升溫。",
+      "background": "AI資料中心高速傳輸需求持續升溫，全球光通訊大廠Coherent加速擴充磷化銦（InP）產能，帶動800G、1.6T光收發模組供應能力提升，光通訊產業景氣持續升溫。",
       "themeTags": [
         "需求驅動",
-        "國際大廠",
-        "循環位置"
+        "國際大廠"
       ]
     }
   ]
