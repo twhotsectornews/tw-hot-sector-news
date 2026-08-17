@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-17T11:41:18.452+08:00",
-  "generatedAt": "2026-08-17T03:41:18.452Z",
+  "asOf": "2026-08-17T12:02:59.977+08:00",
+  "generatedAt": "2026-08-17T04:02:59.977Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -175,6 +175,20 @@
       ]
     },
     {
+      "symbol": "3008",
+      "name": "大立光",
+      "days": 3,
+      "dates": [
+        "8/17",
+        "8/13",
+        "8/12"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -4.5,
+      "limitUp": false
+    },
+    {
       "symbol": "6488",
       "name": "環球晶",
       "days": 3,
@@ -185,21 +199,6 @@
       ],
       "mentions": 4,
       "limitUp": false
-    },
-    {
-      "symbol": "3008",
-      "name": "大立光",
-      "days": 3,
-      "dates": [
-        "8/17",
-        "8/13",
-        "8/12"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -4.7,
-      "limitUp": true,
-      "pct": 10
     },
     {
       "symbol": "1815",
@@ -234,7 +233,7 @@
       ],
       "mentions": 3,
       "status": "逼近新高",
-      "dist": -9
+      "dist": -7
     },
     {
       "symbol": "6442",
@@ -403,6 +402,100 @@
   ],
   "news": [
     {
+      "gid": "CBMikgFBVV95cUxQc2JSUFNsaGl3dkE1UWZwVndYLUttS0QtY1ZFOWRjRmpULU51RC00ZE9uNXBUdFJoUUNKNV9HSkhFZDF1REFzcUlmbGZ3ZTdRUTNwOE1oZWxBdEJNZmFKWVhvYTV0V0lIVDIyUkFWYzI0SlQ4a05lb3FyYXZtb2NGRDRLenBVTG5pazBPR29VRWcxQQ",
+      "tkey": "熱門族群機器人睛光閃閃所羅門、大立光高鎖紅燈",
+      "title": "《熱門族群》機器人「睛」光閃閃 所羅門、大立光高鎖紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6273958001&pu=News_0002_3",
+      "source": "富聯網",
+      "pubDate": "Mon, 17 Aug 2026 03:20:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2359",
+          "name": "所羅門",
+          "point": "AI和3D視覺辨識，亮燈攻頂",
+          "status": "逼近新高",
+          "dist": -5.3,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/13"
+          ]
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "搶進機器人視覺市場，強鎖漲停",
+          "status": "逼近新高",
+          "dist": -4.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "2467",
+          "name": "志聖",
+          "point": "機器人概念股，亮紅燈",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/10"
+          ]
+        },
+        {
+          "symbol": "4540",
+          "name": "全球傳動",
+          "point": "機器人概念股，強勢表態",
+          "limitUp": false
+        },
+        {
+          "symbol": "5392",
+          "name": "能率",
+          "point": "機器人概念股，強勢表態",
+          "limitUp": false
+        },
+        {
+          "symbol": "4561",
+          "name": "健椿",
+          "point": "機器人概念股，強勢表態",
+          "limitUp": false
+        },
+        {
+          "symbol": "3019",
+          "name": "亞光",
+          "point": "機器人概念股，全面走高",
+          "limitUp": false
+        },
+        {
+          "symbol": "3362",
+          "name": "先進光",
+          "point": "機器人概念股，全面走高",
+          "limitUp": false
+        },
+        {
+          "symbol": "2049",
+          "name": "上銀",
+          "point": "機器人概念股，強勢表態",
+          "status": "逼近新高",
+          "dist": -9.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "6209",
+          "name": "今國光",
+          "point": "機器人概念股，全面走高",
+          "limitUp": false
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "光學鏡頭，全面走高",
+          "limitUp": false
+        }
+      ],
+      "background": "全球AI應用延伸至機器人與實體世界，Physical AI躍展場焦點，帶動機器人本體、AI視覺、精密傳動等供應鏈需求。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNYWh5WnhrT21BZzBJU09UdlFGVV8xRWJyZmVWbG9LMDhjMkRfMFZLTXBvWVZfeWlEYWREX3p2T190MThhcGxLNTJYbTRnLTV0YmRTbXFOQ0djcWVzcWlBcVRJZzJYTU42MHRlRDdxdjUyaDRadUVlbFFQdWRBaWtpTjFtbVg0UXdY",
       "tkey": "熱門族群46K震盪不減千金熱川湖飆天價健策紅燈呼應",
       "title": "《熱門族群》46K震盪不減千金熱 川湖飆天價 健策紅燈呼應 - 富聯網",
@@ -436,8 +529,7 @@
           "point": "股價亮燈漲停",
           "status": "逼近新高",
           "dist": -4.7,
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "3037",
