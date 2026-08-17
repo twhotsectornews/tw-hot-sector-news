@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "updatedAt": "2026-08-17T05:03:24.016Z",
+  "updatedAt": "2026-08-17T06:03:22.788Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1oSWlUQVlqR1dSajE1YmFRODlvWjhUOVFrb3A4cmZ4dFpnUU5PVWdMX25VMWxjeDFpVkp0dTJKMldDLUVhRHFSaXNUZUFkWEdQSEZKT1dnUUNmZ9IBX0FVX3lxTE5LVWF4blYyMUNZRXRCcEVaYVVVZWpkZmJPaVFoS2VxRThTRkdma1RYZFRubkJUeHRLaXdmbEhqdmNIcWlmTkRuYUZqaUFpRGgyRkxwMWhHLUpSakhUdWtj",
@@ -200,9 +200,9 @@
         {
           "symbol": "1303",
           "name": "南亞",
-          "point": "CCL與PP喊漲20％～25％，股價漲停",
+          "point": "CCL與PP價格調漲，股價漲停",
           "status": "高檔修正",
-          "dist": -12.6,
+          "dist": -12.8,
           "luw": 1,
           "luwd": [
             "8/14"
@@ -211,14 +211,14 @@
         {
           "symbol": "2383",
           "name": "台光電",
-          "point": "CCL漲價受惠股，上漲8.35％",
+          "point": "CCL漲價受惠股，股價上漲",
           "status": "逼近新高",
-          "dist": -0.6
+          "dist": -1.5
         },
         {
           "symbol": "6274",
           "name": "台燿",
-          "point": "CCL漲價受惠股，收漲4.69％"
+          "point": "CCL漲價受惠股，股價上漲"
         },
         {
           "symbol": "6672",
@@ -233,8 +233,8 @@
           "symbol": "6213",
           "name": "聯茂",
           "point": "CCL漲價受惠股",
-          "status": "創新高",
-          "dist": -0.4,
+          "status": "逼近新高",
+          "dist": -2.1,
           "luw": 1,
           "luwd": [
             "8/10"
@@ -243,20 +243,20 @@
         {
           "symbol": "8358",
           "name": "金居",
-          "point": "CCL上游原料廠"
+          "point": "上游原料廠受鼓舞"
         },
         {
           "symbol": "1815",
           "name": "富喬",
-          "point": "CCL上游原料廠，獲三大法人買超"
+          "point": "上游原料廠受鼓舞"
         },
         {
           "symbol": "1802",
           "name": "台玻",
-          "point": "CCL上游原料廠，獲三大法人買超"
+          "point": "上游原料廠受鼓舞"
         }
       ],
-      "background": "全球電子材料供需失衡，玻纖布短缺推升採購成本，南亞率先調漲銅箔基板（CCL）與聚丙烯（PP）價格，帶動相關供應鏈受惠。",
+      "background": "全球電子材料供需失衡，玻纖布短缺推升採購成本，銅箔基板（CCL）與聚丙烯（PP）價格調漲，產業供給吃緊。",
       "themeTags": [
         "需求驅動",
         "循環位置"
@@ -301,14 +301,14 @@
           "name": "聯鈞",
           "point": "受惠光通訊需求暢旺",
           "status": "高檔修正",
-          "dist": -12.6,
+          "dist": -10.1,
           "luw": 1,
           "luwd": [
             "8/10"
           ]
         }
       ],
-      "background": "AI資料中心高速傳輸需求持續升溫，全球光通訊大廠Coherent加速擴充磷化銦（InP）產能，帶動800G、1.6T光收發模組供應能力提升，光通訊產業景氣持續升溫。",
+      "background": "AI資料中心高速傳輸需求持續升溫，全球光通訊大廠Coherent加速擴充磷化銦（InP）產能，帶動光通訊產業景氣持續升溫。",
       "themeTags": [
         "需求驅動",
         "國際大廠",

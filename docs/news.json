@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-17T13:27:46.120+08:00",
-  "generatedAt": "2026-08-17T05:27:46.120Z",
+  "asOf": "2026-08-17T14:03:22.791+08:00",
+  "generatedAt": "2026-08-17T06:03:22.791Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -49,7 +49,8 @@
       "mentions": 4,
       "status": "逼近新高",
       "dist": -7,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.8
     },
     {
       "symbol": "2327",
@@ -201,7 +202,8 @@
       "mentions": 4,
       "status": "逼近新高",
       "dist": -4.5,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "6488",
@@ -225,7 +227,8 @@
         "8/12"
       ],
       "mentions": 3,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "1815",
@@ -415,7 +418,8 @@
           "point": "磷化銦概念股，強攻漲停",
           "status": "逼近新高",
           "dist": -8.7,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "3081",
@@ -423,13 +427,15 @@
           "point": "磷化銦概念股，飆逾8％",
           "status": "逼近新高",
           "dist": -7,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "4971",
           "name": "IET-KY",
           "point": "磷化銦概念股，強攻漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "4991",
@@ -463,7 +469,8 @@
           "symbol": "2615",
           "name": "萬海",
           "point": "率先攻上漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "2603",
@@ -501,7 +508,8 @@
           "point": "AI和3D視覺辨識，亮燈攻頂",
           "status": "逼近新高",
           "dist": -5.3,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.7,
           "luw": 1,
           "luwd": [
             "8/13"
@@ -513,13 +521,15 @@
           "point": "搶進機器人視覺市場，強鎖漲停",
           "status": "逼近新高",
           "dist": -4.5,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "2467",
           "name": "志聖",
           "point": "機器人概念股，亮紅燈",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "8/10"
@@ -573,7 +583,8 @@
           "symbol": "3406",
           "name": "玉晶光",
           "point": "光學鏡頭，全面走高",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         }
       ],
       "background": "全球AI應用延伸至機器人與實體世界，Physical AI躍展場焦點，帶動機器人本體、AI視覺、精密傳動等供應鏈需求。",
@@ -604,7 +615,8 @@
           "point": "財報利多激勵，強勢漲停",
           "status": "逼近新高",
           "dist": -5.5,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 1,
           "luwd": [
             "8/12"
@@ -616,7 +628,8 @@
           "point": "股價亮燈漲停",
           "status": "逼近新高",
           "dist": -4.7,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "3037",
@@ -624,7 +637,8 @@
           "point": "股價亮燈漲停",
           "status": "逼近新高",
           "dist": -0.7,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "5274",
