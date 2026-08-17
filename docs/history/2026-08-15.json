@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "updatedAt": "2026-08-16T10:56:26.738Z",
+  "updatedAt": "2026-08-17T03:03:30.705Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1oSWlUQVlqR1dSajE1YmFRODlvWjhUOVFrb3A4cmZ4dFpnUU5PVWdMX25VMWxjeDFpVkp0dTJKMldDLUVhRHFSaXNUZUFkWEdQSEZKT1dnUUNmZ9IBX0FVX3lxTE5LVWF4blYyMUNZRXRCcEVaYVVVZWpkZmJPaVFoS2VxRThTRkdma1RYZFRubkJUeHRLaXdmbEhqdmNIcWlmTkRuYUZqaUFpRGgyRkxwMWhHLUpSakhUdWtj",
@@ -285,7 +285,9 @@
           "symbol": "3081",
           "name": "聯亞",
           "point": "受惠光通訊需求暢旺",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -8.8
         },
         {
           "symbol": "4979",
@@ -314,6 +316,8 @@
           "name": "聯鈞",
           "point": "受惠光通訊需求暢旺",
           "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14.7,
           "luw": 1,
           "luwd": [
             "8/10"
