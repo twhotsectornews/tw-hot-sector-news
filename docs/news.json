@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-17T12:02:59.977+08:00",
-  "generatedAt": "2026-08-17T04:02:59.977Z",
+  "asOf": "2026-08-17T12:32:59.816+08:00",
+  "generatedAt": "2026-08-17T04:32:59.816Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -402,6 +402,43 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxNSjJpazdRT0NhWVd6SGtCcXZMMU1Kckxham5GWUt0S2VzZ3dDaWxfM1FCamFlZGYwb09mckJ0YzRvOFlkODNSWmtFN3hQcjBvZzgtbXhlNy1TOGxIUmFBMWNna3ZVVXl5eUhyc0xtQWF0ai1FYXNhcjhPYTRzWmFBV2ZMNThZWExj",
+      "tkey": "熱門族群海運旺季加持！萬海率先攻頂三雄填息達陣",
+      "title": "《熱門族群》海運旺季加持！萬海率先攻頂 三雄填息達陣 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6273976001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 17 Aug 2026 03:35:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2615",
+          "name": "萬海",
+          "point": "率先攻上漲停",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "2603",
+          "name": "長榮",
+          "point": "股價強升6%並完成填息",
+          "status": "逼近新高",
+          "dist": -4.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "2609",
+          "name": "陽明",
+          "point": "股價強升6%並完成填息",
+          "limitUp": false
+        }
+      ],
+      "background": "海運進入旺季，美國線運價持續走強，貨櫃三雄受惠於提前回補庫存需求，營收獲利顯著成長，並完成填息。關稅不確定性也促使貨主提前拉貨。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅",
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMikgFBVV95cUxQc2JSUFNsaGl3dkE1UWZwVndYLUttS0QtY1ZFOWRjRmpULU51RC00ZE9uNXBUdFJoUUNKNV9HSkhFZDF1REFzcUlmbGZ3ZTdRUTNwOE1oZWxBdEJNZmFKWVhvYTV0V0lIVDIyUkFWYzI0SlQ4a05lb3FyYXZtb2NGRDRLenBVTG5pazBPR29VRWcxQQ",
       "tkey": "熱門族群機器人睛光閃閃所羅門、大立光高鎖紅燈",
       "title": "《熱門族群》機器人「睛」光閃閃 所羅門、大立光高鎖紅燈 - 富聯網",
@@ -509,7 +546,8 @@
           "point": "跳空漲停鎖死，創掛牌新高",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "3653",
@@ -537,7 +575,8 @@
           "point": "股價亮燈漲停",
           "status": "逼近新高",
           "dist": -0.7,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "5274",
