@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "updatedAt": "2026-08-17T04:32:59.812Z",
+  "updatedAt": "2026-08-17T05:03:24.016Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1oSWlUQVlqR1dSajE1YmFRODlvWjhUOVFrb3A4cmZ4dFpnUU5PVWdMX25VMWxjeDFpVkp0dTJKMldDLUVhRHFSaXNUZUFkWEdQSEZKT1dnUUNmZ9IBX0FVX3lxTE5LVWF4blYyMUNZRXRCcEVaYVVVZWpkZmJPaVFoS2VxRThTRkdma1RYZFRubkJUeHRLaXdmbEhqdmNIcWlmTkRuYUZqaUFpRGgyRkxwMWhHLUpSakhUdWtj",
@@ -200,9 +200,9 @@
         {
           "symbol": "1303",
           "name": "南亞",
-          "point": "CCL喊漲帶頭亮燈漲停",
+          "point": "CCL與PP喊漲20％～25％，股價漲停",
           "status": "高檔修正",
-          "dist": -12.2,
+          "dist": -12.6,
           "luw": 1,
           "luwd": [
             "8/14"
@@ -211,14 +211,14 @@
         {
           "symbol": "2383",
           "name": "台光電",
-          "point": "CCL漲價受惠股",
+          "point": "CCL漲價受惠股，上漲8.35％",
           "status": "逼近新高",
-          "dist": -0.7
+          "dist": -0.6
         },
         {
           "symbol": "6274",
           "name": "台燿",
-          "point": "CCL漲價受惠股"
+          "point": "CCL漲價受惠股，收漲4.69％"
         },
         {
           "symbol": "6672",
@@ -233,8 +233,8 @@
           "symbol": "6213",
           "name": "聯茂",
           "point": "CCL漲價受惠股",
-          "status": "逼近新高",
-          "dist": -1,
+          "status": "創新高",
+          "dist": -0.4,
           "luw": 1,
           "luwd": [
             "8/10"
@@ -243,20 +243,20 @@
         {
           "symbol": "8358",
           "name": "金居",
-          "point": "上游原料廠受鼓舞"
+          "point": "CCL上游原料廠"
         },
         {
           "symbol": "1815",
           "name": "富喬",
-          "point": "上游原料廠受鼓舞"
+          "point": "CCL上游原料廠，獲三大法人買超"
         },
         {
           "symbol": "1802",
           "name": "台玻",
-          "point": "上游原料廠受鼓舞"
+          "point": "CCL上游原料廠，獲三大法人買超"
         }
       ],
-      "background": "全球電子材料供需失衡，玻纖布短缺推升採購成本，南亞率先調漲銅箔基板（CCL）與聚丙烯（PP）價格，帶動相關受惠股股價上揚。",
+      "background": "全球電子材料供需失衡，玻纖布短缺推升採購成本，南亞率先調漲銅箔基板（CCL）與聚丙烯（PP）價格，帶動相關供應鏈受惠。",
       "themeTags": [
         "需求驅動",
         "循環位置"
@@ -301,7 +301,7 @@
           "name": "聯鈞",
           "point": "受惠光通訊需求暢旺",
           "status": "高檔修正",
-          "dist": -13.1,
+          "dist": -12.6,
           "luw": 1,
           "luwd": [
             "8/10"

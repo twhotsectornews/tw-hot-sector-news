@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-17T12:32:59.816+08:00",
-  "generatedAt": "2026-08-17T04:32:59.816Z",
+  "asOf": "2026-08-17T13:03:24.020+08:00",
+  "generatedAt": "2026-08-17T05:03:24.020Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -35,6 +35,22 @@
         "8/11"
       ],
       "mentions": 7
+    },
+    {
+      "symbol": "3081",
+      "name": "聯亞",
+      "days": 4,
+      "dates": [
+        "8/17",
+        "8/15",
+        "8/13",
+        "8/12"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -7,
+      "limitUp": true,
+      "pct": 9.8
     },
     {
       "symbol": "2327",
@@ -201,6 +217,18 @@
       "limitUp": false
     },
     {
+      "symbol": "4971",
+      "name": "IET-KY",
+      "days": 3,
+      "dates": [
+        "8/17",
+        "8/13",
+        "8/12"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "1815",
       "name": "富喬",
       "days": 3,
@@ -221,19 +249,6 @@
         "8/12"
       ],
       "mentions": 3
-    },
-    {
-      "symbol": "3081",
-      "name": "聯亞",
-      "days": 3,
-      "dates": [
-        "8/15",
-        "8/13",
-        "8/12"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -7
     },
     {
       "symbol": "6442",
@@ -384,23 +399,61 @@
       "luwd": [
         "8/10"
       ]
-    },
-    {
-      "symbol": "2409",
-      "name": "友達",
-      "days": 2,
-      "dates": [
-        "8/15",
-        "8/11"
-      ],
-      "mentions": 4,
-      "luw": 1,
-      "luwd": [
-        "8/10"
-      ]
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNTm1fLTlRYjZsdzRzUVQ1Y20xOFAtcjV5Z2ZRbDB4OURTVENMM19vMlY5cGhIdTNWU1B5LXZmUmdQQ1AwVTBuMGVJZXZsNVM5TlJjNU1KdjNlaV96MW5GM3pPNXFDYUpFQUtySUM2M214NWlrQ1NZOFhPWjR0UDhneXFCeGVXTkVH",
+      "tkey": "熱門族群光通訊超級漲價循環！磷化銦缺很大全新、聯亞飆高",
+      "title": "《熱門族群》光通訊超級漲價循環！磷化銦缺很大 全新、聯亞飆高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6274030001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 17 Aug 2026 04:41:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2455",
+          "name": "全新",
+          "point": "磷化銦概念股，強攻漲停",
+          "status": "逼近新高",
+          "dist": -8.7,
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "磷化銦概念股，飆逾8％",
+          "status": "逼近新高",
+          "dist": -7,
+          "limitUp": true,
+          "pct": 9.8
+        },
+        {
+          "symbol": "4971",
+          "name": "IET-KY",
+          "point": "磷化銦概念股，強攻漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "4991",
+          "name": "環宇-KY",
+          "point": "磷化銦概念股，飆逾6％",
+          "limitUp": false
+        },
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "磷化銦概念股，飆逾5％",
+          "limitUp": false
+        }
+      ],
+      "background": "AI催動光通訊需求爆發，磷化銦（InP）基板與磊晶因製程門檻高、供應商寡占，加上中國對關鍵礦產出口管制，導致供不應求，價格持續上漲。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNSjJpazdRT0NhWVd6SGtCcXZMMU1Kckxham5GWUt0S2VzZ3dDaWxfM1FCamFlZGYwb09mckJ0YzRvOFlkODNSWmtFN3hQcjBvZzgtbXhlNy1TOGxIUmFBMWNna3ZVVXl5eUhyc0xtQWF0ai1FYXNhcjhPYTRzWmFBV2ZMNThZWExj",
       "tkey": "熱門族群海運旺季加持！萬海率先攻頂三雄填息達陣",
@@ -452,7 +505,8 @@
           "point": "AI和3D視覺辨識，亮燈攻頂",
           "status": "逼近新高",
           "dist": -5.3,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.7,
           "luw": 1,
           "luwd": [
             "8/13"
@@ -546,8 +600,7 @@
           "point": "跳空漲停鎖死，創掛牌新高",
           "status": "創新高",
           "dist": 0,
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "3653",
@@ -575,8 +628,7 @@
           "point": "股價亮燈漲停",
           "status": "逼近新高",
           "dist": -0.7,
-          "limitUp": true,
-          "pct": 9.8
+          "limitUp": false
         },
         {
           "symbol": "5274",
