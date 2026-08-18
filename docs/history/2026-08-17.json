@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "updatedAt": "2026-08-18T03:04:29.649Z",
+  "updatedAt": "2026-08-18T03:39:38.923Z",
   "news": [
     {
       "gid": "CBMikgFBVV95cUxNb25mTW5sWVhCbDdTNUVvRDN3RHV6anJnTHJBWWlNUHQ1ME5VbWE1Y3ZYa2t6WTNZckFkNGh4Tkc2SVp6c2FMVzZMM2o3WEtuNm4yaTFxUmtSLW9QQkFXZFBZaGRmb1ZDaEZEWWRtbVNsTWJpZ3BseHFHMlZxY01tQUhtbGpWNkJ0cjF1VW5MYUZUQQ",
@@ -258,6 +258,8 @@
           "point": "光學鏡頭，全面走高",
           "limitUp": true,
           "pct": 9.9,
+          "status": "高檔修正",
+          "dist": -14.8,
           "luw": 1,
           "luwd": [
             "8/17"
@@ -348,6 +350,8 @@
           "symbol": "3406",
           "name": "玉晶光",
           "point": "領漲走高",
+          "status": "高檔修正",
+          "dist": -14.8,
           "luw": 1,
           "luwd": [
             "8/17"

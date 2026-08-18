@@ -1,6 +1,6 @@
 {
   "date": "2026-08-16",
-  "updatedAt": "2026-08-18T03:04:29.651Z",
+  "updatedAt": "2026-08-18T03:39:38.924Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1oSWlUQVlqR1dSajE1YmFRODlvWjhUOVFrb3A4cmZ4dFpnUU5PVWdMX25VMWxjeDFpVkp0dTJKMldDLUVhRHFSaXNUZUFkWEdQSEZKT1dnUUNmZ9IBX0FVX3lxTE5LVWF4blYyMUNZRXRCcEVaYVVVZWpkZmJPaVFoS2VxRThTRkdma1RYZFRubkJUeHRLaXdmbEhqdmNIcWlmTkRuYUZqaUFpRGgyRkxwMWhHLUpSakhUdWtj",
@@ -13,14 +13,14 @@
         {
           "symbol": "2330",
           "name": "台積電",
-          "point": "收盤價2,395元，上漲15元",
+          "point": "收盤價上漲、回穩撐盤",
           "status": "逼近新高",
-          "dist": -6.1
+          "dist": -5.9
         },
         {
           "symbol": "2327",
           "name": "國巨",
-          "point": "領軍走強",
+          "point": "領軍走強、成交金額大且走高",
           "luw": 1,
           "luwd": [
             "8/13"
@@ -29,7 +29,7 @@
         {
           "symbol": "2492",
           "name": "華新科",
-          "point": "領軍走強",
+          "point": "領軍走強、成交金額大且走高",
           "luw": 2,
           "luwd": [
             "8/13",
@@ -39,7 +39,7 @@
         {
           "symbol": "3026",
           "name": "禾伸堂",
-          "point": "領軍走強",
+          "point": "領軍走強、成交金額大且走高",
           "luw": 1,
           "luwd": [
             "8/11"
@@ -58,38 +58,38 @@
         {
           "symbol": "2454",
           "name": "聯發科",
-          "point": "回穩撐盤"
+          "point": "回穩撐盤、成交金額大且走高"
         },
         {
           "symbol": "2383",
           "name": "台光電",
-          "point": "推升大盤指數",
+          "point": "推升大盤、成交金額大且走高",
           "status": "逼近新高",
-          "dist": -2.6
+          "dist": -3
         },
         {
           "symbol": "3443",
           "name": "創意",
-          "point": "推升大盤指數",
+          "point": "推升大盤、成交金額大且走高",
           "status": "逼近新高",
-          "dist": -4.5
+          "dist": -3.8
         },
         {
           "symbol": "2368",
           "name": "金像電",
-          "point": "推升大盤指數"
+          "point": "推升大盤"
         },
         {
           "symbol": "4958",
           "name": "臻鼎-KY",
-          "point": "推升大盤指數"
+          "point": "推升大盤"
         },
         {
           "symbol": "1303",
           "name": "南亞",
           "point": "成交金額大且走高",
           "status": "高檔修正",
-          "dist": -12,
+          "dist": -12.2,
           "luw": 1,
           "luwd": [
             "8/14"
@@ -150,13 +150,12 @@
           "name": "緯穎",
           "point": "成交金額大且疲軟",
           "status": "逼近新高",
-          "dist": -3.5
+          "dist": -4.2
         }
       ],
-      "background": "台股強勢族群輪動到被動元件，受AI產業鏈強勁成長及高階製程平台量產帶動。國際大廠如村田、三星等MLCC供應吃緊。",
+      "background": "MLCC（積層陶瓷電容）為被動元件重要零組件，受惠AI伺服器與高速運算需求，產業景氣有望自谷底回升。",
       "themeTags": [
         "需求驅動",
-        "國際大廠",
         "循環位置"
       ]
     },
@@ -175,15 +174,16 @@
     },
     {
       "gid": "CBMiiAFBVV95cUxQUXV3bXpvODFzS2IxVXNrMnFoSElnRGQyeHhpdkN4QnhpSHBHOTVER1FzMWFwZ1JMUF9nUjU2SHRwUHlLR2VFS0JObDdfZGZidGwwRkhvbEpvak1Qd3VSQlVzVDF1LWdFUi1tOGxYbmJQTXBfaVRDTkxLdEtyZDhiTjVNZlptLU9y",
-      "tkey": "熱門族群主權AI、資安、雲端資服新動能-ww2.money",
-      "title": "《熱門族群》主權AI、資安、雲端 資服新動能 - ww2.money-link.com.tw",
+      "tkey": "熱門族群主權AI、資安、雲端資服新動能",
+      "title": "《熱門族群》主權AI、資安、雲端 資服新動能 - 富聯網",
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6273037001&PU=1002",
-      "source": "ww2.money-link.com.tw",
+      "source": "富聯網",
       "pubDate": "Sun, 16 Aug 2026 05:26:00 GMT",
       "stocks": [],
-      "background": "AI投資熱潮延續，台灣資訊服務業營收獲利佳。企業主權AI、資安及雲端三大動能將帶動資服市場需求。",
+      "background": "AI投資熱潮延續，企業對主權AI、資安及雲端服務需求增加，國際雲端服務供應商強化台灣在地基礎建設，推動資服業成長。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "國際大廠"
       ]
     },
     {
