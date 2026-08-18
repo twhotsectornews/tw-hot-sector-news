@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-18T14:04:43.088+08:00",
-  "generatedAt": "2026-08-18T06:04:43.088Z",
+  "asOf": "2026-08-18T14:24:41.680+08:00",
+  "generatedAt": "2026-08-18T06:24:41.680Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -254,6 +254,17 @@
       "limitUp": false
     },
     {
+      "symbol": "8299",
+      "name": "群聯",
+      "days": 2,
+      "dates": [
+        "8/18",
+        "8/12"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "2467",
       "name": "志聖",
       "days": 2,
@@ -323,6 +334,36 @@
       "mentions": 3
     },
     {
+      "symbol": "5274",
+      "name": "信驊",
+      "days": 2,
+      "dates": [
+        "8/18",
+        "8/17"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -8.3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2059",
+      "name": "川湖",
+      "days": 2,
+      "dates": [
+        "8/18",
+        "8/17"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -4.7,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "8/17"
+      ]
+    },
+    {
       "symbol": "2615",
       "name": "萬海",
       "days": 2,
@@ -362,17 +403,6 @@
       "limitUp": false
     },
     {
-      "symbol": "8299",
-      "name": "群聯",
-      "days": 2,
-      "dates": [
-        "8/18",
-        "8/12"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
       "symbol": "2330",
       "name": "台積電",
       "days": 2,
@@ -395,42 +425,56 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "6770",
-      "name": "力積電",
-      "days": 2,
-      "dates": [
-        "8/18",
-        "8/12"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "8/12"
-      ]
-    },
-    {
-      "symbol": "2455",
-      "name": "全新",
-      "days": 2,
-      "dates": [
-        "8/17",
-        "8/13"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -8.7,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 1,
-      "luwd": [
-        "8/17"
-      ]
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQa0FkWDNIc1JUamJVMTFIZ2Uzcm1tVHVzWGhLQ3pMZDF0bXp3VzRUQ3hIeEFDUHJlVWdtMHRWMVZPckpVV24tS3paVGJKQlZwMWVubWp2VWgtQllTNTQzbHBHeHRaTHFabFBIeGdxcUZ2NmllQXQ4VzU5aDBxd1djUFEzR2txTmVt",
+      "tkey": "熱門族群萬元高價股逆勢撐盤川湖再創天價信驊守住17000元",
+      "title": "《熱門族群》萬元高價股逆勢撐盤 川湖再創天價 信驊守住17000元 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6275289001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 18 Aug 2026 06:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "5274",
+          "name": "信驊",
+          "point": "守住17000元，展現抗跌強勢",
+          "status": "逼近新高",
+          "dist": -8.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "2059",
+          "name": "川湖",
+          "point": "盤中突破15000元，再創歷史天價",
+          "status": "逼近新高",
+          "dist": -4.7,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/17"
+          ]
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "上半年EPS上櫃公司第一名",
+          "limitUp": false
+        },
+        {
+          "symbol": "5289",
+          "name": "宜鼎",
+          "point": "上半年EPS上櫃公司第二名",
+          "limitUp": false
+        }
+      ],
+      "background": "AI應用需求強勁，帶動高價股基本面受市場關注。供應鏈瓶頸緩解，下半年營收可望明顯優於上半年，獲利動能強勁。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNMWw4b2VLRS1nTGZSLXRTTldrOG5sVzZ5UUdmVU84VXhUbml5N004aThaajhTOUJBMEZramhqc3BHZ3E5V3pPWENGMmJ5enJtdVFxNlBRa04wa0stWV9vc3FjQ3NTbEs4Y2JOM2VScmxJSEpOMUZWUG9QLV82ZlZiSzZfWW1NY2tO",
       "tkey": "熱門族群萬海登百元！航海王逆風前行1檔鎖紅燈-ww2.money",
@@ -646,7 +690,8 @@
           "symbol": "3675",
           "name": "德微",
           "point": "可望受惠漲價",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "8/17",
