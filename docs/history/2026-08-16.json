@@ -1,6 +1,6 @@
 {
   "date": "2026-08-16",
-  "updatedAt": "2026-08-18T05:22:21.262Z",
+  "updatedAt": "2026-08-18T06:04:43.085Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1oSWlUQVlqR1dSajE1YmFRODlvWjhUOVFrb3A4cmZ4dFpnUU5PVWdMX25VMWxjeDFpVkp0dTJKMldDLUVhRHFSaXNUZUFkWEdQSEZKT1dnUUNmZ9IBX0FVX3lxTE5LVWF4blYyMUNZRXRCcEVaYVVVZWpkZmJPaVFoS2VxRThTRkdma1RYZFRubkJUeHRLaXdmbEhqdmNIcWlmTkRuYUZqaUFpRGgyRkxwMWhHLUpSakhUdWtj",
@@ -13,7 +13,7 @@
         {
           "symbol": "2330",
           "name": "台積電",
-          "point": "收盤價上漲",
+          "point": "收盤價上漲15元",
           "status": "逼近新高",
           "dist": -6.1
         },
@@ -65,14 +65,14 @@
           "name": "台光電",
           "point": "推升大盤指數",
           "status": "逼近新高",
-          "dist": -3.7
+          "dist": -4.1
         },
         {
           "symbol": "3443",
           "name": "創意",
           "point": "推升大盤指數",
           "status": "逼近新高",
-          "dist": -6.3
+          "dist": -6.6
         },
         {
           "symbol": "2368",
@@ -89,7 +89,7 @@
           "name": "南亞",
           "point": "成交金額大且走高",
           "status": "高檔修正",
-          "dist": -11.7,
+          "dist": -13,
           "luw": 1,
           "luwd": [
             "8/14"
@@ -150,12 +150,13 @@
           "name": "緯穎",
           "point": "成交金額大且疲軟",
           "status": "逼近新高",
-          "dist": -6.5
+          "dist": -5
         }
       ],
-      "background": "AI產業鏈基本面強勁成長，雲端服務供應商資本支出持續增加，帶動AI伺服器、半導體先進製程、高速傳輸等相關供應鏈需求。",
+      "background": "MLCC等被動元件受AI伺服器與資料中心需求帶動，產業鏈基本面維持強勁成長，長線多頭架構未變。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "循環位置"
       ]
     },
     {
