@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-18T13:04:21.995+08:00",
-  "generatedAt": "2026-08-18T05:04:21.995Z",
+  "asOf": "2026-08-18T13:22:21.265+08:00",
+  "generatedAt": "2026-08-18T05:22:21.265Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -179,7 +179,7 @@
       ],
       "mentions": 3,
       "status": "逼近新高",
-      "dist": -3.9
+      "dist": -3.7
     },
     {
       "symbol": "8358",
@@ -331,6 +331,7 @@
         "8/17"
       ],
       "mentions": 2,
+      "limitUp": false,
       "luw": 1,
       "luwd": [
         "8/17"
@@ -346,7 +347,8 @@
       ],
       "mentions": 2,
       "status": "逼近新高",
-      "dist": -2.3
+      "dist": -2.3,
+      "limitUp": false
     },
     {
       "symbol": "2609",
@@ -356,7 +358,8 @@
         "8/18",
         "8/17"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "8299",
@@ -440,6 +443,7 @@
           "symbol": "2615",
           "name": "萬海",
           "point": "重登百元大關，續創1年高",
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "8/17"
@@ -450,37 +454,45 @@
           "name": "長榮",
           "point": "跟進北上，今年填息達陣",
           "status": "逼近新高",
-          "dist": -2.3
+          "dist": -2.3,
+          "limitUp": false
         },
         {
           "symbol": "2609",
           "name": "陽明",
-          "point": "跟進向上，今年填息達陣"
+          "point": "跟進向上，今年填息達陣",
+          "limitUp": false
         },
         {
           "symbol": "5608",
           "name": "四維航",
-          "point": "散裝族群攜手揚帆"
+          "point": "散裝族群攜手揚帆",
+          "limitUp": false
         },
         {
           "symbol": "2605",
           "name": "新興",
-          "point": "散裝族群攜手揚帆"
+          "point": "散裝族群攜手揚帆",
+          "limitUp": false
         },
         {
           "symbol": "2617",
           "name": "台航",
-          "point": "散裝族群攜手揚帆"
+          "point": "散裝族群攜手揚帆",
+          "limitUp": false
         },
         {
           "symbol": "2612",
           "name": "中航",
-          "point": "散裝族群攜手揚帆"
+          "point": "散裝族群攜手揚帆",
+          "limitUp": false
         },
         {
           "symbol": "2601",
           "name": "益航",
-          "point": "鎖紅燈，攻勢更為凌厲"
+          "point": "鎖紅燈，攻勢更為凌厲",
+          "limitUp": true,
+          "pct": 10
         }
       ],
       "background": "航運業受美伊戰爭、氣候異常及海運旺季影響，全球航運費飆新高。貨櫃三雄Q2財報、7月營收大躍進，散裝族群BDI指數續漲，整體運價維持高檔震盪。",
