@@ -1,6 +1,6 @@
 {
   "date": "2026-08-16",
-  "updatedAt": "2026-08-18T04:03:37.249Z",
+  "updatedAt": "2026-08-18T04:26:21.082Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1oSWlUQVlqR1dSajE1YmFRODlvWjhUOVFrb3A4cmZ4dFpnUU5PVWdMX25VMWxjeDFpVkp0dTJKMldDLUVhRHFSaXNUZUFkWEdQSEZKT1dnUUNmZ9IBX0FVX3lxTE5LVWF4blYyMUNZRXRCcEVaYVVVZWpkZmJPaVFoS2VxRThTRkdma1RYZFRubkJUeHRLaXdmbEhqdmNIcWlmTkRuYUZqaUFpRGgyRkxwMWhHLUpSakhUdWtj",
@@ -10,6 +10,13 @@
       "source": "經濟日報",
       "pubDate": "Sun, 16 Aug 2026 09:00:00 GMT",
       "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "收盤價上漲",
+          "status": "逼近新高",
+          "dist": -6.3
+        },
         {
           "symbol": "2327",
           "name": "國巨",
@@ -49,13 +56,6 @@
           "point": "順勢走高"
         },
         {
-          "symbol": "2330",
-          "name": "台積電",
-          "point": "回穩撐盤",
-          "status": "逼近新高",
-          "dist": -6.1
-        },
-        {
           "symbol": "2454",
           "name": "聯發科",
           "point": "回穩撐盤"
@@ -65,14 +65,14 @@
           "name": "台光電",
           "point": "推升大盤指數",
           "status": "逼近新高",
-          "dist": -3.7
+          "dist": -4.1
         },
         {
           "symbol": "3443",
           "name": "創意",
           "point": "推升大盤指數",
           "status": "逼近新高",
-          "dist": -4.7
+          "dist": -4.8
         },
         {
           "symbol": "2368",
@@ -89,7 +89,7 @@
           "name": "南亞",
           "point": "成交金額大且走高",
           "status": "高檔修正",
-          "dist": -12.2,
+          "dist": -12.6,
           "luw": 1,
           "luwd": [
             "8/14"
@@ -150,10 +150,10 @@
           "name": "緯穎",
           "point": "成交金額大且疲軟",
           "status": "逼近新高",
-          "dist": -5.3
+          "dist": -5.8
         }
       ],
-      "background": "MLCC等被動元件受AI伺服器與車用需求帶動，國際大廠如村田製作所的供需狀況影響產業，台廠受惠於產業回升。",
+      "background": "MLCC 等被動元件受AI伺服器與車用需求帶動，國際大廠村田等供不應求，台廠國巨、華新科等受惠，產業景氣回升。",
       "themeTags": [
         "需求驅動",
         "國際大廠",
@@ -175,13 +175,13 @@
     },
     {
       "gid": "CBMiiAFBVV95cUxQUXV3bXpvODFzS2IxVXNrMnFoSElnRGQyeHhpdkN4QnhpSHBHOTVER1FzMWFwZ1JMUF9nUjU2SHRwUHlLR2VFS0JObDdfZGZidGwwRkhvbEpvak1Qd3VSQlVzVDF1LWdFUi1tOGxYbmJQTXBfaVRDTkxLdEtyZDhiTjVNZlptLU9y",
-      "tkey": "熱門族群主權AI、資安、雲端資服新動能-ww2.money",
-      "title": "《熱門族群》主權AI、資安、雲端 資服新動能 - ww2.money-link.com.tw",
+      "tkey": "熱門族群主權AI、資安、雲端資服新動能",
+      "title": "《熱門族群》主權AI、資安、雲端 資服新動能 - 富聯網",
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6273037001&PU=1002",
-      "source": "ww2.money-link.com.tw",
+      "source": "富聯網",
       "pubDate": "Sun, 16 Aug 2026 05:26:00 GMT",
       "stocks": [],
-      "background": "資訊服務業受惠於企業主權AI、資安防護需求提升及雲端基礎建設在地化，帶動AI應用落地與資安支出增加。",
+      "background": "資服業受惠企業主權AI、資安及雲端三大動能，AI應用從基礎建設走向落地，帶動資服市場需求。",
       "themeTags": [
         "需求驅動"
       ]
