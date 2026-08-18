@@ -1,22 +1,15 @@
 {
   "date": "2026-08-16",
-  "updatedAt": "2026-08-18T04:26:21.082Z",
+  "updatedAt": "2026-08-18T05:04:21.992Z",
   "news": [
     {
       "gid": "CBMiWkFVX3lxTE1oSWlUQVlqR1dSajE1YmFRODlvWjhUOVFrb3A4cmZ4dFpnUU5PVWdMX25VMWxjeDFpVkp0dTJKMldDLUVhRHFSaXNUZUFkWEdQSEZKT1dnUUNmZ9IBX0FVX3lxTE5LVWF4blYyMUNZRXRCcEVaYVVVZWpkZmJPaVFoS2VxRThTRkdma1RYZFRubkJUeHRLaXdmbEhqdmNIcWlmTkRuYUZqaUFpRGgyRkxwMWhHLUpSakhUdWtj",
       "tkey": "台股上漲191點收45,120點MLCC擔綱多頭強攻熱門族群",
-      "title": "台股上漲191點收45,120點 MLCC 擔綱多頭強攻熱門族群 - 經濟日報",
+      "title": "台股上漲191點收45,120點 MLCC 擔綱多頭強攻熱門族群 - money.udn.com",
       "url": "https://money.udn.com/money/story/5607/9684353",
-      "source": "經濟日報",
+      "source": "money.udn.com",
       "pubDate": "Sun, 16 Aug 2026 09:00:00 GMT",
       "stocks": [
-        {
-          "symbol": "2330",
-          "name": "台積電",
-          "point": "收盤價上漲",
-          "status": "逼近新高",
-          "dist": -6.3
-        },
         {
           "symbol": "2327",
           "name": "國巨",
@@ -48,12 +41,19 @@
         {
           "symbol": "6173",
           "name": "信昌電",
-          "point": "順勢走高"
+          "point": "被動元件順勢走高"
         },
         {
           "symbol": "3537",
           "name": "堡達",
-          "point": "順勢走高"
+          "point": "被動元件順勢走高"
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "收盤價上漲15元",
+          "status": "逼近新高",
+          "dist": -5.9
         },
         {
           "symbol": "2454",
@@ -65,14 +65,14 @@
           "name": "台光電",
           "point": "推升大盤指數",
           "status": "逼近新高",
-          "dist": -4.1
+          "dist": -3.9
         },
         {
           "symbol": "3443",
           "name": "創意",
           "point": "推升大盤指數",
           "status": "逼近新高",
-          "dist": -4.8
+          "dist": -5.9
         },
         {
           "symbol": "2368",
@@ -89,7 +89,7 @@
           "name": "南亞",
           "point": "成交金額大且走高",
           "status": "高檔修正",
-          "dist": -12.6,
+          "dist": -12,
           "luw": 1,
           "luwd": [
             "8/14"
@@ -150,10 +150,10 @@
           "name": "緯穎",
           "point": "成交金額大且疲軟",
           "status": "逼近新高",
-          "dist": -5.8
+          "dist": -6.4
         }
       ],
-      "background": "MLCC 等被動元件受AI伺服器與車用需求帶動，國際大廠村田等供不應求，台廠國巨、華新科等受惠，產業景氣回升。",
+      "background": "被動元件受AI伺服器與車用需求帶動漲價，國際MLCC龍頭村田缺貨外溢，國巨為台系指標，產業自谷底回升。AI產業鏈基本面強勁成長。",
       "themeTags": [
         "需求驅動",
         "國際大廠",
@@ -175,15 +175,16 @@
     },
     {
       "gid": "CBMiiAFBVV95cUxQUXV3bXpvODFzS2IxVXNrMnFoSElnRGQyeHhpdkN4QnhpSHBHOTVER1FzMWFwZ1JMUF9nUjU2SHRwUHlLR2VFS0JObDdfZGZidGwwRkhvbEpvak1Qd3VSQlVzVDF1LWdFUi1tOGxYbmJQTXBfaVRDTkxLdEtyZDhiTjVNZlptLU9y",
-      "tkey": "熱門族群主權AI、資安、雲端資服新動能",
-      "title": "《熱門族群》主權AI、資安、雲端 資服新動能 - 富聯網",
+      "tkey": "熱門族群主權AI、資安、雲端資服新動能-ww2.money",
+      "title": "《熱門族群》主權AI、資安、雲端 資服新動能 - ww2.money-link.com.tw",
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6273037001&PU=1002",
-      "source": "富聯網",
+      "source": "ww2.money-link.com.tw",
       "pubDate": "Sun, 16 Aug 2026 05:26:00 GMT",
       "stocks": [],
-      "background": "資服業受惠企業主權AI、資安及雲端三大動能，AI應用從基礎建設走向落地，帶動資服市場需求。",
+      "background": "台灣資訊服務業受惠AI投資熱潮，企業主權AI、資安及雲端需求成為新動能。國際CSP強化台灣在地基礎建設，釋放政府、金融等產業雲端需求。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "國際大廠"
       ]
     },
     {

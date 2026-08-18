@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-18T12:26:21.086+08:00",
-  "generatedAt": "2026-08-18T04:26:21.086Z",
+  "asOf": "2026-08-18T13:04:21.995+08:00",
+  "generatedAt": "2026-08-18T05:04:21.995Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -179,7 +179,7 @@
       ],
       "mentions": 3,
       "status": "逼近新高",
-      "dist": -4.1
+      "dist": -3.9
     },
     {
       "symbol": "8358",
@@ -323,6 +323,42 @@
       "mentions": 3
     },
     {
+      "symbol": "2615",
+      "name": "萬海",
+      "days": 2,
+      "dates": [
+        "8/18",
+        "8/17"
+      ],
+      "mentions": 2,
+      "luw": 1,
+      "luwd": [
+        "8/17"
+      ]
+    },
+    {
+      "symbol": "2603",
+      "name": "長榮",
+      "days": 2,
+      "dates": [
+        "8/18",
+        "8/17"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -2.3
+    },
+    {
+      "symbol": "2609",
+      "name": "陽明",
+      "days": 2,
+      "dates": [
+        "8/18",
+        "8/17"
+      ],
+      "mentions": 2
+    },
+    {
       "symbol": "8299",
       "name": "群聯",
       "days": 2,
@@ -389,40 +425,70 @@
       "luwd": [
         "8/17"
       ]
-    },
-    {
-      "symbol": "3105",
-      "name": "穩懋",
-      "days": 2,
-      "dates": [
-        "8/17",
-        "8/13"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "4958",
-      "name": "臻鼎-KY",
-      "days": 2,
-      "dates": [
-        "8/16",
-        "8/13"
-      ],
-      "mentions": 2
-    },
-    {
-      "symbol": "6274",
-      "name": "台燿",
-      "days": 2,
-      "dates": [
-        "8/15",
-        "8/14"
-      ],
-      "mentions": 2
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNMWw4b2VLRS1nTGZSLXRTTldrOG5sVzZ5UUdmVU84VXhUbml5N004aThaajhTOUJBMEZramhqc3BHZ3E5V3pPWENGMmJ5enJtdVFxNlBRa04wa0stWV9vc3FjQ3NTbEs4Y2JOM2VScmxJSEpOMUZWUG9QLV82ZlZiSzZfWW1NY2tO",
+      "tkey": "熱門族群萬海登百元！航海王逆風前行1檔鎖紅燈-ww2.money",
+      "title": "《熱門族群》萬海登百元！航海王逆風前行 1檔鎖紅燈 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6275165001&PU=1002",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Tue, 18 Aug 2026 04:17:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2615",
+          "name": "萬海",
+          "point": "重登百元大關，續創1年高",
+          "luw": 1,
+          "luwd": [
+            "8/17"
+          ]
+        },
+        {
+          "symbol": "2603",
+          "name": "長榮",
+          "point": "跟進北上，今年填息達陣",
+          "status": "逼近新高",
+          "dist": -2.3
+        },
+        {
+          "symbol": "2609",
+          "name": "陽明",
+          "point": "跟進向上，今年填息達陣"
+        },
+        {
+          "symbol": "5608",
+          "name": "四維航",
+          "point": "散裝族群攜手揚帆"
+        },
+        {
+          "symbol": "2605",
+          "name": "新興",
+          "point": "散裝族群攜手揚帆"
+        },
+        {
+          "symbol": "2617",
+          "name": "台航",
+          "point": "散裝族群攜手揚帆"
+        },
+        {
+          "symbol": "2612",
+          "name": "中航",
+          "point": "散裝族群攜手揚帆"
+        },
+        {
+          "symbol": "2601",
+          "name": "益航",
+          "point": "鎖紅燈，攻勢更為凌厲"
+        }
+      ],
+      "background": "航運業受美伊戰爭、氣候異常及海運旺季影響，全球航運費飆新高。貨櫃三雄Q2財報、7月營收大躍進，散裝族群BDI指數續漲，整體運價維持高檔震盪。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOY0VCOVpianNfWjRqanphMVB1N1VUNzFZcUNiSHFOS2tXd09oRXE2NHRnU1cwcFFEREZuOXJqVU9vUkVRMkR0NF9xVGozQlJ4ODRIUUlHYnlUeUVNbFdSWjdEQlpOZVhKRjJVTFRPMnNYVWtJTEhPWTM4bERnX1hTMjR4alVRSVIz",
       "tkey": "熱門族群南亞科創高變臉記憶體漲不動真見頂？-ww2.money",
