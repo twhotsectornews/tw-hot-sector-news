@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-19T13:03:08.994+08:00",
-  "generatedAt": "2026-08-19T05:03:08.994Z",
+  "asOf": "2026-08-19T14:03:28.157+08:00",
+  "generatedAt": "2026-08-19T06:03:28.157Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -253,6 +253,28 @@
       "limitUp": false
     },
     {
+      "symbol": "3481",
+      "name": "群創",
+      "days": 2,
+      "dates": [
+        "8/19",
+        "8/16"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2409",
+      "name": "友達",
+      "days": 2,
+      "dates": [
+        "8/19",
+        "8/16"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "3090",
       "name": "日電貿",
       "days": 2,
@@ -385,32 +407,35 @@
       "luwd": [
         "8/17"
       ]
-    },
-    {
-      "symbol": "4971",
-      "name": "IET-KY",
-      "days": 2,
-      "dates": [
-        "8/17",
-        "8/13"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 10
-    },
-    {
-      "symbol": "3105",
-      "name": "穩懋",
-      "days": 2,
-      "dates": [
-        "8/17",
-        "8/13"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQOF8yekMyNWxPcTNWOEN3ajRlUXpMRHRyaHA3ejh6YjJiem1MS3hQV0FKMDJ6LW9MdmN5akR0MFlrMkpOYmxGNTdwOFh6ZDJ4TWt0VG1aU2E2NlhoT0VXN1FocFdGSmo1YW00NUI3Y0I4NzlUa0R6S0RlS09WX1ZhZlpzZmJHdy1l",
+      "tkey": "熱門族群法說變法會+1？群創心碎了！友達逆風走揚",
+      "title": "《熱門族群》法說變法會+1？群創心碎了！友達逆風走揚 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6276277001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 19 Aug 2026 03:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "point": "法說會後股價大跌，居成交量之冠",
+          "limitUp": false
+        },
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "法說會後股價逆風走揚",
+          "limitUp": false
+        }
+      ],
+      "background": "面板雙虎群創與友達法說會後，同步縮減面板產能，加速轉進半導體業務，尤其看好FOPLP與玻璃基板封裝市場產值。市場對兩者反應不一。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPbGZuZHU2cXFveExxUkwxZUdlbzN1M3M3WGRwLUVXeEV2OTVYZW5zZTQ5YWhYbHYxTjVndHY2a21mckd4V3VORW96QVNIaHhfSTY0aXY4dVRmV0FLUGNhY2ZDT3FJT3FKM2dYV1BEZVVzOHh1VnJ5ZG5yTm9fYl8xZU1fVmdhV29N",
       "tkey": "熱門族群被動元件重獲資金青睞信昌電等4檔快攻漲停",
