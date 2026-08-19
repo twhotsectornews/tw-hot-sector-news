@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-19T12:02:38.843+08:00",
-  "generatedAt": "2026-08-19T04:02:38.843Z",
+  "asOf": "2026-08-19T12:27:33.764+08:00",
+  "generatedAt": "2026-08-19T04:27:33.764Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -23,6 +23,34 @@
       "luw": 1,
       "luwd": [
         "8/14"
+      ]
+    },
+    {
+      "symbol": "6173",
+      "name": "信昌電",
+      "days": 3,
+      "dates": [
+        "8/19",
+        "8/16",
+        "8/13"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "2492",
+      "name": "華新科",
+      "days": 3,
+      "dates": [
+        "8/19",
+        "8/16",
+        "8/13"
+      ],
+      "mentions": 4,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "8/13"
       ]
     },
     {
@@ -122,6 +150,43 @@
       ]
     },
     {
+      "symbol": "8043",
+      "name": "蜜望實",
+      "days": 2,
+      "dates": [
+        "8/19",
+        "8/13"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2375",
+      "name": "凱美",
+      "days": 2,
+      "dates": [
+        "8/19",
+        "8/13"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "8/13"
+      ]
+    },
+    {
+      "symbol": "3624",
+      "name": "光頡",
+      "days": 2,
+      "dates": [
+        "8/19",
+        "8/13"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "2344",
       "name": "華邦電",
       "days": 2,
@@ -163,21 +228,6 @@
       ]
     },
     {
-      "symbol": "2492",
-      "name": "華新科",
-      "days": 2,
-      "dates": [
-        "8/16",
-        "8/13"
-      ],
-      "mentions": 3,
-      "luw": 2,
-      "luwd": [
-        "8/13",
-        "8/11"
-      ]
-    },
-    {
       "symbol": "3026",
       "name": "禾伸堂",
       "days": 2,
@@ -192,16 +242,6 @@
       ]
     },
     {
-      "symbol": "6173",
-      "name": "信昌電",
-      "days": 2,
-      "dates": [
-        "8/16",
-        "8/13"
-      ],
-      "mentions": 3
-    },
-    {
       "symbol": "6488",
       "name": "環球晶",
       "days": 2,
@@ -211,6 +251,18 @@
       ],
       "mentions": 3,
       "limitUp": false
+    },
+    {
+      "symbol": "3090",
+      "name": "日電貿",
+      "days": 2,
+      "dates": [
+        "8/19",
+        "8/14"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "5274",
@@ -356,59 +408,81 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "4958",
-      "name": "臻鼎-KY",
-      "days": 2,
-      "dates": [
-        "8/16",
-        "8/13"
-      ],
-      "mentions": 2
-    },
-    {
-      "symbol": "6274",
-      "name": "台燿",
-      "days": 2,
-      "dates": [
-        "8/15",
-        "8/14"
-      ],
-      "mentions": 2
-    },
-    {
-      "symbol": "6672",
-      "name": "騰輝電子-KY",
-      "days": 2,
-      "dates": [
-        "8/15",
-        "8/14"
-      ],
-      "mentions": 2,
-      "luw": 1,
-      "luwd": [
-        "8/10"
-      ]
-    },
-    {
-      "symbol": "6213",
-      "name": "聯茂",
-      "days": 2,
-      "dates": [
-        "8/15",
-        "8/14"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -2.1,
-      "luw": 1,
-      "luwd": [
-        "8/10"
-      ]
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPbGZuZHU2cXFveExxUkwxZUdlbzN1M3M3WGRwLUVXeEV2OTVYZW5zZTQ5YWhYbHYxTjVndHY2a21mckd4V3VORW96QVNIaHhfSTY0aXY4dVRmV0FLUGNhY2ZDT3FJT3FKM2dYV1BEZVVzOHh1VnJ5ZG5yTm9fYl8xZU1fVmdhV29N",
+      "tkey": "熱門族群被動元件重獲資金青睞信昌電等4檔快攻漲停",
+      "title": "《熱門族群》被動元件重獲資金青睞 信昌電等4檔快攻漲停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6276265001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 19 Aug 2026 03:40:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6173",
+          "name": "信昌電",
+          "point": "快攻漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3090",
+          "name": "日電貿",
+          "point": "快攻漲停",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "2478",
+          "name": "大毅",
+          "point": "快攻漲停",
+          "limitUp": true,
+          "pct": 9.8
+        },
+        {
+          "symbol": "8042",
+          "name": "金山電",
+          "point": "快攻漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "有不同程度漲幅",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/13"
+          ]
+        },
+        {
+          "symbol": "8043",
+          "name": "蜜望實",
+          "point": "有不同程度漲幅",
+          "limitUp": false
+        },
+        {
+          "symbol": "2375",
+          "name": "凱美",
+          "point": "有不同程度漲幅",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/13"
+          ]
+        },
+        {
+          "symbol": "3624",
+          "name": "光頡",
+          "point": "有不同程度漲幅",
+          "limitUp": false
+        }
+      ],
+      "background": "被動元件產業庫存調整接近尾聲，部分產品傳出漲價潛力，市場預期下半年訂單回溫及供需改善，產業景氣有望逐步走出谷底。",
+      "themeTags": [
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQa0FkWDNIc1JUamJVMTFIZ2Uzcm1tVHVzWGhLQ3pMZDF0bXp3VzRUQ3hIeEFDUHJlVWdtMHRWMVZPckpVV24tS3paVGJKQlZwMWVubWp2VWgtQllTNTQzbHBHeHRaTHFabFBIeGdxcUZ2NmllQXQ4VzU5aDBxd1djUFEzR2txTmVt",
       "tkey": "熱門族群萬元高價股逆勢撐盤川湖再創天價信驊守住17000元",
@@ -743,426 +817,6 @@
         "需求驅動",
         "國際大廠",
         "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMikgFBVV95cUxNb25mTW5sWVhCbDdTNUVvRDN3RHV6anJnTHJBWWlNUHQ1ME5VbWE1Y3ZYa2t6WTNZckFkNGh4Tkc2SVp6c2FMVzZMM2o3WEtuNm4yaTFxUmtSLW9QQkFXZFBZaGRmb1ZDaEZEWWRtbVNsTWJpZ3BseHFHMlZxY01tQUhtbGpWNkJ0cjF1VW5MYUZUQQ",
-      "tkey": "熱門族群散熱冰火兩重天健策漲停鎖死雙鴻、奇鋐收黑",
-      "title": "《熱門族群》散熱冰火兩重天 健策漲停鎖死 雙鴻、奇鋐收黑 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6274097001&pu=News_0002_3",
-      "source": "富聯網",
-      "pubDate": "Mon, 17 Aug 2026 05:47:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3653",
-          "name": "健策",
-          "point": "AI伺服器與液冷需求升溫，漲停鎖死",
-          "status": "逼近新高",
-          "dist": -5.5,
-          "limitUp": true,
-          "pct": 10,
-          "luw": 2,
-          "luwd": [
-            "8/17",
-            "8/12"
-          ]
-        },
-        {
-          "symbol": "3324",
-          "name": "雙鴻",
-          "point": "股價震盪走弱收黑，液冷需求成長受關注",
-          "limitUp": false
-        },
-        {
-          "symbol": "3017",
-          "name": "奇鋐",
-          "point": "股價震盪走弱收黑，液冷需求成長受關注",
-          "status": "逼近新高",
-          "dist": -5.1,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/13"
-          ]
-        }
-      ],
-      "background": "AI伺服器與液冷散熱需求持續發燒，高階水冷板製程門檻提高，具備設計製造與系統整合能力業者具競爭優勢。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNTm1fLTlRYjZsdzRzUVQ1Y20xOFAtcjV5Z2ZRbDB4OURTVENMM19vMlY5cGhIdTNWU1B5LXZmUmdQQ1AwVTBuMGVJZXZsNVM5TlJjNU1KdjNlaV96MW5GM3pPNXFDYUpFQUtySUM2M214NWlrQ1NZOFhPWjR0UDhneXFCeGVXTkVH",
-      "tkey": "熱門族群光通訊超級漲價循環！磷化銦缺很大全新、聯亞飆高",
-      "title": "《熱門族群》光通訊超級漲價循環！磷化銦缺很大 全新、聯亞飆高 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6274030001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Mon, 17 Aug 2026 04:41:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2455",
-          "name": "全新",
-          "point": "磷化銦概念股，強攻漲停",
-          "status": "逼近新高",
-          "dist": -8.7,
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "8/17"
-          ]
-        },
-        {
-          "symbol": "3081",
-          "name": "聯亞",
-          "point": "磷化銦概念股，飆逾8％",
-          "status": "逼近新高",
-          "dist": -7,
-          "limitUp": true,
-          "pct": 9.8
-        },
-        {
-          "symbol": "4971",
-          "name": "IET-KY",
-          "point": "磷化銦概念股，強攻漲停",
-          "limitUp": true,
-          "pct": 10
-        },
-        {
-          "symbol": "4991",
-          "name": "環宇-KY",
-          "point": "磷化銦概念股，飆逾6％",
-          "limitUp": false
-        },
-        {
-          "symbol": "3105",
-          "name": "穩懋",
-          "point": "磷化銦概念股，飆逾5％",
-          "limitUp": false
-        }
-      ],
-      "background": "AI催動光通訊需求爆發，磷化銦（InP）基板與磊晶因製程門檻高、供應商寡占，加上中國對關鍵礦產出口管制，導致供不應求，價格持續上漲。",
-      "themeTags": [
-        "需求驅動",
-        "政策關稅",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNSjJpazdRT0NhWVd6SGtCcXZMMU1Kckxham5GWUt0S2VzZ3dDaWxfM1FCamFlZGYwb09mckJ0YzRvOFlkODNSWmtFN3hQcjBvZzgtbXhlNy1TOGxIUmFBMWNna3ZVVXl5eUhyc0xtQWF0ai1FYXNhcjhPYTRzWmFBV2ZMNThZWExj",
-      "tkey": "熱門族群海運旺季加持！萬海率先攻頂三雄填息達陣",
-      "title": "《熱門族群》海運旺季加持！萬海率先攻頂 三雄填息達陣 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6273976001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Mon, 17 Aug 2026 03:35:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2615",
-          "name": "萬海",
-          "point": "率先攻上漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "8/17"
-          ]
-        },
-        {
-          "symbol": "2603",
-          "name": "長榮",
-          "point": "股價強升6%並完成填息",
-          "status": "逼近新高",
-          "dist": -4.5,
-          "limitUp": false
-        },
-        {
-          "symbol": "2609",
-          "name": "陽明",
-          "point": "股價強升6%並完成填息",
-          "limitUp": false
-        }
-      ],
-      "background": "海運進入旺季，美國線運價持續走強，貨櫃三雄受惠於提前回補庫存需求，營收獲利顯著成長，並完成填息。關稅不確定性也促使貨主提前拉貨。",
-      "themeTags": [
-        "需求驅動",
-        "政策關稅",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMikgFBVV95cUxQc2JSUFNsaGl3dkE1UWZwVndYLUttS0QtY1ZFOWRjRmpULU51RC00ZE9uNXBUdFJoUUNKNV9HSkhFZDF1REFzcUlmbGZ3ZTdRUTNwOE1oZWxBdEJNZmFKWVhvYTV0V0lIVDIyUkFWYzI0SlQ4a05lb3FyYXZtb2NGRDRLenBVTG5pazBPR29VRWcxQQ",
-      "tkey": "熱門族群機器人睛光閃閃所羅門、大立光高鎖紅燈",
-      "title": "《熱門族群》機器人「睛」光閃閃 所羅門、大立光高鎖紅燈 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6273958001&pu=News_0002_3",
-      "source": "富聯網",
-      "pubDate": "Mon, 17 Aug 2026 03:20:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2359",
-          "name": "所羅門",
-          "point": "AI和3D視覺辨識，亮燈攻頂",
-          "status": "逼近新高",
-          "dist": -5.3,
-          "limitUp": true,
-          "pct": 9.7,
-          "luw": 2,
-          "luwd": [
-            "8/17",
-            "8/13"
-          ]
-        },
-        {
-          "symbol": "3008",
-          "name": "大立光",
-          "point": "搶進機器人視覺市場，強鎖漲停",
-          "status": "逼近新高",
-          "dist": -4.5,
-          "limitUp": true,
-          "pct": 10,
-          "luw": 1,
-          "luwd": [
-            "8/17"
-          ]
-        },
-        {
-          "symbol": "2467",
-          "name": "志聖",
-          "point": "機器人概念股，亮紅燈",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "8/17"
-          ]
-        },
-        {
-          "symbol": "4540",
-          "name": "全球傳動",
-          "point": "機器人概念股，強勢表態",
-          "limitUp": false
-        },
-        {
-          "symbol": "5392",
-          "name": "能率",
-          "point": "機器人概念股，強勢表態",
-          "limitUp": false
-        },
-        {
-          "symbol": "4561",
-          "name": "健椿",
-          "point": "機器人概念股，強勢表態",
-          "limitUp": false
-        },
-        {
-          "symbol": "3019",
-          "name": "亞光",
-          "point": "機器人概念股，全面走高",
-          "limitUp": false
-        },
-        {
-          "symbol": "3362",
-          "name": "先進光",
-          "point": "機器人概念股，全面走高",
-          "limitUp": false
-        },
-        {
-          "symbol": "2049",
-          "name": "上銀",
-          "point": "機器人概念股，強勢表態",
-          "status": "逼近新高",
-          "dist": -9.8,
-          "limitUp": false
-        },
-        {
-          "symbol": "6209",
-          "name": "今國光",
-          "point": "機器人概念股，全面走高",
-          "limitUp": false
-        },
-        {
-          "symbol": "3406",
-          "name": "玉晶光",
-          "point": "光學鏡頭，全面走高",
-          "limitUp": true,
-          "pct": 9.9,
-          "status": "高檔修正",
-          "dist": -14.8,
-          "luw": 1,
-          "luwd": [
-            "8/17"
-          ]
-        }
-      ],
-      "background": "全球AI應用延伸至機器人與實體世界，Physical AI躍展場焦點，帶動機器人本體、AI視覺、精密傳動等供應鏈需求。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxOWENpRGJZWGNNVDhkNVRtYlp2OGRuZGhDUW1OcE4yck9OMU1LcVUxTE9fVkxCWDQ1TFNER2tQNTdkRHpianZkUjRCOWpKZVJrX0tqUEFERTJDV3ZoYks1cUoxRzItS29PMWV3bktPdzlLOGp5Q2ZOTFBaYTc5YmZmVEEwSHI0OXZV",
-      "tkey": "熱門族群機器人睛光閃閃所羅門、大立光高鎖紅燈-ww2.money",
-      "title": "《熱門族群》機器人「睛」光閃閃 所羅門、大立光高鎖紅燈 - ww2.money-link.com.tw",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6273958001&PU=0010",
-      "source": "ww2.money-link.com.tw",
-      "pubDate": "Mon, 17 Aug 2026 03:20:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2359",
-          "name": "所羅門",
-          "point": "率先亮燈攻頂，站上1年高點",
-          "status": "逼近新高",
-          "dist": -8.5,
-          "luw": 2,
-          "luwd": [
-            "8/17",
-            "8/13"
-          ]
-        },
-        {
-          "symbol": "3008",
-          "name": "大立光",
-          "point": "強鎖漲停挺進5000關",
-          "status": "逼近新高",
-          "dist": -2.7,
-          "luw": 1,
-          "luwd": [
-            "8/17"
-          ]
-        },
-        {
-          "symbol": "2467",
-          "name": "志聖",
-          "point": "跟進亮紅燈",
-          "luw": 1,
-          "luwd": [
-            "8/17"
-          ]
-        },
-        {
-          "symbol": "4540",
-          "name": "全球傳動",
-          "point": "強勢表態暖身秀肌肉"
-        },
-        {
-          "symbol": "5392",
-          "name": "能率",
-          "point": "強勢表態暖身秀肌肉"
-        },
-        {
-          "symbol": "4561",
-          "name": "健椿",
-          "point": "強勢表態暖身秀肌肉"
-        },
-        {
-          "symbol": "3019",
-          "name": "亞光",
-          "point": "強勢表態暖身秀肌肉"
-        },
-        {
-          "symbol": "3362",
-          "name": "先進光",
-          "point": "強勢表態暖身秀肌肉"
-        },
-        {
-          "symbol": "2049",
-          "name": "上銀",
-          "point": "強勢表態暖身秀肌肉"
-        },
-        {
-          "symbol": "6209",
-          "name": "今國光",
-          "point": "強勢表態暖身秀肌肉"
-        },
-        {
-          "symbol": "3406",
-          "name": "玉晶光",
-          "point": "領漲走高",
-          "status": "高檔修正",
-          "dist": -14.8,
-          "luw": 1,
-          "luwd": [
-            "8/17"
-          ]
-        }
-      ],
-      "background": "機器人族群受自動化展將登場激勵，AI下一戰延伸至機器人與實體世界應用。人形機器人全球出貨預計達五萬台。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNYWh5WnhrT21BZzBJU09UdlFGVV8xRWJyZmVWbG9LMDhjMkRfMFZLTXBvWVZfeWlEYWREX3p2T190MThhcGxLNTJYbTRnLTV0YmRTbXFOQ0djcWVzcWlBcVRJZzJYTU42MHRlRDdxdjUyaDRadUVlbFFQdWRBaWtpTjFtbVg0UXdY",
-      "tkey": "熱門族群46K震盪不減千金熱川湖飆天價健策紅燈呼應",
-      "title": "《熱門族群》46K震盪不減千金熱 川湖飆天價 健策紅燈呼應 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6273899001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Mon, 17 Aug 2026 02:29:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2059",
-          "name": "川湖",
-          "point": "跳空漲停鎖死，創掛牌新高",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 10,
-          "luw": 1,
-          "luwd": [
-            "8/17"
-          ]
-        },
-        {
-          "symbol": "3653",
-          "name": "健策",
-          "point": "財報利多激勵，強勢漲停",
-          "status": "逼近新高",
-          "dist": -5.5,
-          "limitUp": true,
-          "pct": 10,
-          "luw": 2,
-          "luwd": [
-            "8/17",
-            "8/12"
-          ]
-        },
-        {
-          "symbol": "3008",
-          "name": "大立光",
-          "point": "股價亮燈漲停",
-          "status": "逼近新高",
-          "dist": -4.7,
-          "limitUp": true,
-          "pct": 10,
-          "luw": 1,
-          "luwd": [
-            "8/17"
-          ]
-        },
-        {
-          "symbol": "3037",
-          "name": "欣興",
-          "point": "股價亮燈漲停",
-          "status": "逼近新高",
-          "dist": -0.7,
-          "limitUp": true,
-          "pct": 9.8,
-          "luw": 1,
-          "luwd": [
-            "8/17"
-          ]
-        },
-        {
-          "symbol": "5274",
-          "name": "信驊",
-          "point": "股價震盪走弱，暫時休息",
-          "status": "逼近新高",
-          "dist": -6,
-          "limitUp": false
-        }
-      ],
-      "background": "AI伺服器需求持續放量，帶動高毛利均熱片等零組件需求，千金股受財報利多與AI題材激勵，成為盤面焦點。",
-      "themeTags": [
-        "需求驅動"
       ]
     }
   ]
