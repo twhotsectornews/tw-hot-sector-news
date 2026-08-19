@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-19T14:26:19.098+08:00",
-  "generatedAt": "2026-08-19T06:26:19.098Z",
+  "asOf": "2026-08-19T17:42:25.139+08:00",
+  "generatedAt": "2026-08-19T09:42:25.139Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -35,7 +35,16 @@
         "8/13"
       ],
       "mentions": 4,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.8,
+      "luw": 5,
+      "luwd": [
+        "8/18",
+        "8/17",
+        "8/14",
+        "8/13",
+        "8/12"
+      ]
     },
     {
       "symbol": "2492",
@@ -411,6 +420,26 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxOTm9aQzJ4RTdBTHJlRVNPY0JkT2JBZUgycW4tOWt2MVRDMEJMeENxQ0hna0JScDE2NUtHOUYxUjVETlNLZ1A0RjRGcVlTaUxaN3JQb0xQMFB3bkR3eERzZTFXa28xWWpKOHZhZGpSa25SUVdUS3lFbDE5ZDZDNERocW5jUmtCc3JT",
+      "tkey": "熱門族群新漢組隊工研院、仁寶拓AI機器人落地商機",
+      "title": "《熱門族群》新漢組隊工研院、仁寶 拓AI機器人落地商機 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6276400001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Wed, 19 Aug 2026 06:03:00 GMT",
+      "stocks": [
+        {
+          "symbol": "8234",
+          "name": "新漢",
+          "point": "組隊工研院、仁寶拓AI機器人落地商機",
+          "limitUp": false
+        }
+      ],
+      "background": "AI機器人市場受惠於AI技術發展與產業自動化需求，新漢與工研院、仁寶等合作，加速AI機器人進入實際應用場域。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxQOF8yekMyNWxPcTNWOEN3ajRlUXpMRHRyaHA3ejh6YjJiem1MS3hQV0FKMDJ6LW9MdmN5akR0MFlrMkpOYmxGNTdwOFh6ZDJ4TWt0VG1aU2E2NlhoT0VXN1FocFdGSmo1YW00NUI3Y0I4NzlUa0R6S0RlS09WX1ZhZlpzZmJHdy1l",
       "tkey": "熱門族群法說變法會+1？群創心碎了！友達逆風走揚",
       "title": "《熱門族群》法說變法會+1？群創心碎了！友達逆風走揚 - 富聯網",
@@ -448,7 +477,16 @@
           "symbol": "6173",
           "name": "信昌電",
           "point": "快攻漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 5,
+          "luwd": [
+            "8/18",
+            "8/17",
+            "8/14",
+            "8/13",
+            "8/12"
+          ]
         },
         {
           "symbol": "3090",
@@ -468,7 +506,16 @@
           "symbol": "8042",
           "name": "金山電",
           "point": "快攻漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "8/18",
+            "8/17",
+            "8/14",
+            "8/13",
+            "8/12"
+          ]
         },
         {
           "symbol": "2492",
