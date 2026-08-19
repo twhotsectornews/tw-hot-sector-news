@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-19T18:41:11.562+08:00",
-  "generatedAt": "2026-08-19T10:41:11.562Z",
+  "asOf": "2026-08-19T19:01:03.471+08:00",
+  "generatedAt": "2026-08-19T11:01:03.471Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -35,8 +35,7 @@
         "8/13"
       ],
       "mentions": 4,
-      "limitUp": true,
-      "pct": 9.8,
+      "limitUp": false,
       "luw": 5,
       "luwd": [
         "8/18",
@@ -477,8 +476,7 @@
           "symbol": "6173",
           "name": "信昌電",
           "point": "快攻漲停",
-          "limitUp": true,
-          "pct": 9.8,
+          "limitUp": false,
           "luw": 5,
           "luwd": [
             "8/18",
@@ -506,8 +504,7 @@
           "symbol": "8042",
           "name": "金山電",
           "point": "快攻漲停",
-          "limitUp": true,
-          "pct": 9.9,
+          "limitUp": false,
           "luw": 5,
           "luwd": [
             "8/18",
