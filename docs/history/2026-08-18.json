@@ -1,0 +1,342 @@
+{
+  "date": "2026-08-18",
+  "updatedAt": "2026-08-19T03:01:49.801Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQa0FkWDNIc1JUamJVMTFIZ2Uzcm1tVHVzWGhLQ3pMZDF0bXp3VzRUQ3hIeEFDUHJlVWdtMHRWMVZPckpVV24tS3paVGJKQlZwMWVubWp2VWgtQllTNTQzbHBHeHRaTHFabFBIeGdxcUZ2NmllQXQ4VzU5aDBxd1djUFEzR2txTmVt",
+      "tkey": "熱門族群萬元高價股逆勢撐盤川湖再創天價信驊守住17000元",
+      "title": "《熱門族群》萬元高價股逆勢撐盤 川湖再創天價 信驊守住17000元 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6275289001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 18 Aug 2026 06:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "5274",
+          "name": "信驊",
+          "point": "守住17000元，展現抗跌強勢",
+          "status": "逼近新高",
+          "dist": -8.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "2059",
+          "name": "川湖",
+          "point": "盤中突破15000元，再創歷史天價",
+          "status": "逼近新高",
+          "dist": -4.7,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/17"
+          ]
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "上半年EPS上櫃公司第一名",
+          "limitUp": false
+        },
+        {
+          "symbol": "5289",
+          "name": "宜鼎",
+          "point": "上半年EPS上櫃公司第二名",
+          "limitUp": false
+        }
+      ],
+      "background": "AI應用需求強勁，帶動高價股基本面受市場關注。供應鏈瓶頸緩解，下半年營收可望明顯優於上半年，獲利動能強勁。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNMWw4b2VLRS1nTGZSLXRTTldrOG5sVzZ5UUdmVU84VXhUbml5N004aThaajhTOUJBMEZramhqc3BHZ3E5V3pPWENGMmJ5enJtdVFxNlBRa04wa0stWV9vc3FjQ3NTbEs4Y2JOM2VScmxJSEpOMUZWUG9QLV82ZlZiSzZfWW1NY2tO",
+      "tkey": "熱門族群萬海登百元！航海王逆風前行1檔鎖紅燈-ww2.money",
+      "title": "《熱門族群》萬海登百元！航海王逆風前行 1檔鎖紅燈 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6275165001&PU=1002",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Tue, 18 Aug 2026 04:17:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2615",
+          "name": "萬海",
+          "point": "重登百元大關，續創1年高",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/17"
+          ]
+        },
+        {
+          "symbol": "2603",
+          "name": "長榮",
+          "point": "跟進北上，今年填息達陣",
+          "status": "逼近新高",
+          "dist": -2.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "2609",
+          "name": "陽明",
+          "point": "跟進向上，今年填息達陣",
+          "limitUp": false
+        },
+        {
+          "symbol": "5608",
+          "name": "四維航",
+          "point": "散裝族群攜手揚帆",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "8/18"
+          ]
+        },
+        {
+          "symbol": "2605",
+          "name": "新興",
+          "point": "散裝族群攜手揚帆",
+          "limitUp": false
+        },
+        {
+          "symbol": "2617",
+          "name": "台航",
+          "point": "散裝族群攜手揚帆",
+          "limitUp": false
+        },
+        {
+          "symbol": "2612",
+          "name": "中航",
+          "point": "散裝族群攜手揚帆",
+          "limitUp": false
+        },
+        {
+          "symbol": "2601",
+          "name": "益航",
+          "point": "鎖紅燈，攻勢更為凌厲",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "8/18"
+          ]
+        }
+      ],
+      "background": "航運業受美伊戰爭、氣候異常及海運旺季影響，全球航運費飆新高。貨櫃三雄Q2財報、7月營收大躍進，散裝族群BDI指數續漲，整體運價維持高檔震盪。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOY0VCOVpianNfWjRqanphMVB1N1VUNzFZcUNiSHFOS2tXd09oRXE2NHRnU1cwcFFEREZuOXJqVU9vUkVRMkR0NF9xVGozQlJ4ODRIUUlHYnlUeUVNbFdSWjdEQlpOZVhKRjJVTFRPMnNYVWtJTEhPWTM4bERnX1hTMjR4alVRSVIz",
+      "tkey": "熱門族群南亞科創高變臉記憶體漲不動真見頂？-ww2.money",
+      "title": "《熱門族群》南亞科創高變臉 記憶體漲不動真見頂？ - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6275096001&PU=0010",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Tue, 18 Aug 2026 02:54:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "衝上天價553元",
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "跟進強彈",
+          "limitUp": false
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "欲振乏力再度翻黑",
+          "limitUp": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "拉抬指數",
+          "status": "逼近新高",
+          "dist": -6.1,
+          "limitUp": false
+        }
+      ],
+      "background": "記憶體雙雄受美光上漲及美國政府政策激勵，南亞科創高後遭獲利調節。DRAM供需吃緊及報價上漲，AI伺服器排擠傳統DRAM產能。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "政策關稅",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPU0w5VU5FcDlQWkNKOENfNHlkdVlkTGFkMXZ1RkFlVEljTnRqbnZ4R3Q3b0dLdy1FWXdyNTQzellEeURhYWRzNmdEVGYyV192X0xGckFMUzVlNjVndW5mTVNqY1ZKbWdraHRmelAwOWVOOEJISzBUbERSMmVhNFdVZDNOQ3lkd2M0",
+      "tkey": "熱門族群油價題材護航台塑化半根漲停發威挾集團股抗空-ww2.money",
+      "title": "《熱門族群》油價題材護航 台塑化半根漲停發威 挾集團股抗空 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6275031001&PU=1002",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Tue, 18 Aug 2026 02:07:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "盤中漲幅逾半根漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "股價翻紅守住200元大關",
+          "status": "高檔修正",
+          "dist": -12,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/14"
+          ]
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "同步走強",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "展現相對抗跌表現",
+          "limitUp": false
+        },
+        {
+          "symbol": "1434",
+          "name": "福懋",
+          "point": "展現相對抗跌表現",
+          "limitUp": false
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "盤中大漲約4%",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "8/13",
+            "8/12"
+          ]
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "同步走強",
+          "status": "逼近新高",
+          "dist": -7.4,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/12"
+          ]
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "同步走強",
+          "limitUp": false
+        }
+      ],
+      "background": "國際油價因美伊關係緊張大幅上漲，帶動塑化族群成為盤面抗空主力。台塑集團股表現相對強勢。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPaDFTdkpYLW9seDZ0SWRHamNZSEN5bGU2X0VDM01ZNEtIMnR0eUtERDBCVGpkZlFSQnBlM0YtQUVtUUhQMW5VT1ZJUmxad0lJd081TWRVY1p0X2Y3eW9JbkJaSmVfZVg1cjE1dUFkNHBWYk9pUVV4QU96RmE3N1pDV0F2MlVycnpa",
+      "tkey": "熱門族群功率半導體連三漲台廠吃補-ww2.money",
+      "title": "《熱門族群》功率半導體連三漲 台廠吃補 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6274766001&PU=0010",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Mon, 17 Aug 2026 23:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2481",
+          "name": "強茂",
+          "point": "產能已接近滿載，規劃擴產",
+          "limitUp": false
+        },
+        {
+          "symbol": "5425",
+          "name": "台半",
+          "point": "可望受惠漲價",
+          "limitUp": false
+        },
+        {
+          "symbol": "3675",
+          "name": "德微",
+          "point": "可望受惠漲價",
+          "limitUp": false
+        },
+        {
+          "symbol": "6411",
+          "name": "晶焱",
+          "point": "可望受惠漲價",
+          "limitUp": false
+        }
+      ],
+      "background": "AI資料中心推升高壓、大功率元件需求，帶動功率半導體第三波漲價潮。國際大廠英飛凌、意法半導體、安森美已啟動價格調整。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNQ2h6R1hWYm55Mk02VmFRRWViZWJkbktXc2Rab0h3Yzd5RU1pQ2pBbzZQREFjUFdTXzhHQURHZVNCVDU1dllUSjJpVXBkeU94cVRZa2RJQ2hQWnpRMkFIWHVDdGl2Z2g5X3ZzLVlOZlBBN1ZsQ3FWcmx2RHNqOG9xYlpMbnh5b1Ri",
+      "tkey": "熱門族群大摩看好舊世代記憶體漲價潮-ww2.money",
+      "title": "《熱門族群》大摩 看好舊世代記憶體漲價潮 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6274723001&PU=0010",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Mon, 17 Aug 2026 23:41:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6679",
+          "name": "愛普",
+          "point": "受惠SiCap業務，續列首選",
+          "limitUp": false
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "大摩看好舊世代記憶體漲價",
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "大摩看好舊世代記憶體漲價",
+          "limitUp": false
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "大摩看好舊世代記憶體漲價",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/12"
+          ]
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "大摩看好舊世代記憶體漲價",
+          "limitUp": false
+        }
+      ],
+      "background": "摩根士丹利報告指出DDR4、SLC NAND及NOR Flash供需持續偏緊，價格可望上漲。全球主流記憶體廠淡出DDR4供應。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    }
+  ]
+}
