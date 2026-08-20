@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-20T12:07:15.942+08:00",
-  "generatedAt": "2026-08-20T04:07:15.942Z",
+  "asOf": "2026-08-20T12:27:17.825+08:00",
+  "generatedAt": "2026-08-20T04:27:17.825Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -46,6 +46,20 @@
         "8/16"
       ],
       "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "3081",
+      "name": "聯亞",
+      "days": 3,
+      "dates": [
+        "8/20",
+        "8/17",
+        "8/15"
+      ],
+      "mentions": 3,
+      "status": "高檔修正",
+      "dist": -11.1,
       "limitUp": false
     },
     {
@@ -179,6 +193,65 @@
       "limitUp": false
     },
     {
+      "symbol": "4971",
+      "name": "IET-KY",
+      "days": 2,
+      "dates": [
+        "8/20",
+        "8/17"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3363",
+      "name": "上詮",
+      "days": 2,
+      "dates": [
+        "8/20",
+        "8/15"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2455",
+      "name": "全新",
+      "days": 2,
+      "dates": [
+        "8/20",
+        "8/17"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "8/17"
+      ]
+    },
+    {
+      "symbol": "4991",
+      "name": "環宇-KY",
+      "days": 2,
+      "dates": [
+        "8/20",
+        "8/17"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3105",
+      "name": "穩懋",
+      "days": 2,
+      "dates": [
+        "8/20",
+        "8/17"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "6770",
       "name": "力積電",
       "days": 2,
@@ -291,11 +364,12 @@
       ],
       "mentions": 2,
       "limitUp": false,
-      "luw": 4,
+      "luw": 5,
       "luwd": [
         "8/19",
         "8/18",
         "8/17",
+        "8/14",
         "8/13"
       ]
     },
@@ -314,84 +388,94 @@
       "luwd": [
         "8/19"
       ]
-    },
-    {
-      "symbol": "5274",
-      "name": "信驊",
-      "days": 2,
-      "dates": [
-        "8/18",
-        "8/17"
-      ],
-      "mentions": 2
-    },
-    {
-      "symbol": "2059",
-      "name": "川湖",
-      "days": 2,
-      "dates": [
-        "8/18",
-        "8/17"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -7.3,
-      "luw": 1,
-      "luwd": [
-        "8/17"
-      ]
-    },
-    {
-      "symbol": "2615",
-      "name": "萬海",
-      "days": 2,
-      "dates": [
-        "8/18",
-        "8/17"
-      ],
-      "mentions": 2,
-      "luw": 1,
-      "luwd": [
-        "8/17"
-      ]
-    },
-    {
-      "symbol": "2603",
-      "name": "長榮",
-      "days": 2,
-      "dates": [
-        "8/18",
-        "8/17"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -2
-    },
-    {
-      "symbol": "2609",
-      "name": "陽明",
-      "days": 2,
-      "dates": [
-        "8/18",
-        "8/17"
-      ],
-      "mentions": 2
-    },
-    {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 2,
-      "dates": [
-        "8/18",
-        "8/16"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -6.1,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNUjdDcU14cmJwNEdnTVBPTVpwck5SSC0yVUFxbGx1emhDSXZCXzZUanhXekpqRlpoX1NiaXhhTnpCYk5wUllxbnhxc1FlWldXYTNlYjl5SDJzTktKUWsxWjV1b1VGM1Bsa0lMRVpJTzIyNTJGOEVqeHNYV2xKWlNkdjhucjJkR1la",
+      "tkey": "熱門族群磷化銦缺很大！矽光子底氣足2檔閃紅燈",
+      "title": "《熱門族群》磷化銦缺很大！矽光子底氣足 2檔閃紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6277370001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 20 Aug 2026 03:51:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6426",
+          "name": "統新",
+          "point": "磷化銦缺貨題材重燃，逆風觸頂",
+          "limitUp": false
+        },
+        {
+          "symbol": "4971",
+          "name": "IET-KY",
+          "point": "磷化銦缺貨題材重燃，逆風觸頂",
+          "limitUp": false
+        },
+        {
+          "symbol": "8111",
+          "name": "立碁",
+          "point": "強升半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "4977",
+          "name": "眾達-KY",
+          "point": "強升半根停板",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/17"
+          ]
+        },
+        {
+          "symbol": "4956",
+          "name": "光鋐",
+          "point": "強升半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "3363",
+          "name": "上詮",
+          "point": "跟上多方步伐",
+          "limitUp": false
+        },
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "跟上多方步伐，7月營收年增177%",
+          "status": "高檔修正",
+          "dist": -11.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "2455",
+          "name": "全新",
+          "point": "跟上多方步伐，搭上漲價列車",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/17"
+          ]
+        },
+        {
+          "symbol": "4991",
+          "name": "環宇-KY",
+          "point": "搭上漲價列車",
+          "limitUp": false
+        },
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "搭上漲價列車",
+          "limitUp": false
+        }
+      ],
+      "background": "AI 催動光通訊需求爆發，磷化銦（InP）基板與磊晶供不應求，第四季傳漲價逾一成，產業進入超級漲價循環。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQbGJ4S1hHY1NiMmU1TlVKQkoySHh3ckNxVTRDUTZQdTBKRE4tYW9VQVRSc0xqZk1YRElrSW9CZlQzenpEdlFvMDBZN1plTXhuTUhZS0ZpeEcwZXMyVzhCRDIyOVVCRXItdXUyQnNFdVpBVVR4WEQzSGtuTVR3RU41czVNY1pmalVq",
       "tkey": "熱門族群海力士耍狠招！南亞科領頭衝記憶體真復活？",
@@ -764,11 +848,12 @@
           "name": "信昌電",
           "point": "快攻漲停",
           "limitUp": false,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
             "8/19",
             "8/18",
             "8/17",
+            "8/14",
             "8/13"
           ]
         },
@@ -799,11 +884,12 @@
           "name": "金山電",
           "point": "快攻漲停",
           "limitUp": false,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
             "8/19",
             "8/18",
             "8/17",
+            "8/14",
             "8/13"
           ]
         },
