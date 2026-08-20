@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-20T11:39:09.532+08:00",
-  "generatedAt": "2026-08-20T03:39:09.532Z",
+  "asOf": "2026-08-20T12:07:15.942+08:00",
+  "generatedAt": "2026-08-20T04:07:15.942Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -33,7 +33,31 @@
         "8/18",
         "8/16"
       ],
-      "mentions": 5,
+      "mentions": 6,
+      "limitUp": false
+    },
+    {
+      "symbol": "2344",
+      "name": "華邦電",
+      "days": 3,
+      "dates": [
+        "8/20",
+        "8/18",
+        "8/16"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "2337",
+      "name": "旺宏",
+      "days": 3,
+      "dates": [
+        "8/20",
+        "8/18",
+        "8/16"
+      ],
+      "mentions": 3,
       "limitUp": false
     },
     {
@@ -117,6 +141,17 @@
       "mentions": 3
     },
     {
+      "symbol": "8299",
+      "name": "群聯",
+      "days": 2,
+      "dates": [
+        "8/20",
+        "8/18"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "2359",
       "name": "所羅門",
       "days": 2,
@@ -144,14 +179,14 @@
       "limitUp": false
     },
     {
-      "symbol": "2344",
-      "name": "華邦電",
+      "symbol": "6770",
+      "name": "力積電",
       "days": 2,
       "dates": [
-        "8/18",
-        "8/16"
+        "8/20",
+        "8/18"
       ],
-      "mentions": 3,
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -256,12 +291,11 @@
       ],
       "mentions": 2,
       "limitUp": false,
-      "luw": 5,
+      "luw": 4,
       "luwd": [
         "8/19",
         "8/18",
         "8/17",
-        "8/14",
         "8/13"
       ]
     },
@@ -301,7 +335,7 @@
       ],
       "mentions": 2,
       "status": "逼近新高",
-      "dist": -6.6,
+      "dist": -7.3,
       "luw": 1,
       "luwd": [
         "8/17"
@@ -331,7 +365,7 @@
       ],
       "mentions": 2,
       "status": "逼近新高",
-      "dist": -2.6
+      "dist": -2
     },
     {
       "symbol": "2609",
@@ -355,44 +389,67 @@
       "status": "逼近新高",
       "dist": -6.1,
       "limitUp": false
-    },
-    {
-      "symbol": "2337",
-      "name": "旺宏",
-      "days": 2,
-      "dates": [
-        "8/18",
-        "8/16"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3081",
-      "name": "聯亞",
-      "days": 2,
-      "dates": [
-        "8/17",
-        "8/15"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -7,
-      "limitUp": true,
-      "pct": 9.8
-    },
-    {
-      "symbol": "4979",
-      "name": "華星光",
-      "days": 2,
-      "dates": [
-        "8/16",
-        "8/15"
-      ],
-      "mentions": 2
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQbGJ4S1hHY1NiMmU1TlVKQkoySHh3ckNxVTRDUTZQdTBKRE4tYW9VQVRSc0xqZk1YRElrSW9CZlQzenpEdlFvMDBZN1plTXhuTUhZS0ZpeEcwZXMyVzhCRDIyOVVCRXItdXUyQnNFdVpBVVR4WEQzSGtuTVR3RU41czVNY1pmalVq",
+      "tkey": "熱門族群海力士耍狠招！南亞科領頭衝記憶體真復活？",
+      "title": "《熱門族群》海力士耍狠招！南亞科領頭衝 記憶體真復活？ - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6277309001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 20 Aug 2026 02:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "領頭衝、強升7%、獲外資看好",
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "強升7%、提前擴產",
+          "limitUp": false
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "跟進向上表態",
+          "limitUp": false
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "跟進向上表態",
+          "limitUp": false
+        },
+        {
+          "symbol": "2451",
+          "name": "創見",
+          "point": "力挺多方",
+          "limitUp": false
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "力挺多方",
+          "limitUp": false
+        },
+        {
+          "symbol": "3260",
+          "name": "威剛",
+          "point": "力挺多方",
+          "limitUp": false
+        }
+      ],
+      "background": "記憶體族群受惠AI熱潮推升HBM價格飛漲，國際大廠SK海力士與三星電子庫藏股利多激勵，DDR4、SLC NAND及NOR Flash供需偏緊。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPbkoxQUFYVVJsSXliTXBOUWJBWGhPenpkZzdXMW5NcFdLcmJEZVJFcGtMRUNLWDdtdDlpREgtU2JiR0QwaTFidWkzb1Z5TjZEd3JrY050Q3ppd2NCWlF1cmhlNktUNy1Td0Z3ZmNQZHZjTi1GQUZLa0xIZWZhamZabWg2VUJONEVm",
       "tkey": "熱門族群台塑四寶多頭集合！台塑化衝逾5%台化重返60元",
@@ -707,12 +764,11 @@
           "name": "信昌電",
           "point": "快攻漲停",
           "limitUp": false,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "8/19",
             "8/18",
             "8/17",
-            "8/14",
             "8/13"
           ]
         },
@@ -743,12 +799,11 @@
           "name": "金山電",
           "point": "快攻漲停",
           "limitUp": false,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "8/19",
             "8/18",
             "8/17",
-            "8/14",
             "8/13"
           ]
         },
