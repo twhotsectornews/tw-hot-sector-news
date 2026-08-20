@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "updatedAt": "2026-08-20T05:23:23.389Z",
+  "updatedAt": "2026-08-20T06:03:19.688Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQa0FkWDNIc1JUamJVMTFIZ2Uzcm1tVHVzWGhLQ3pMZDF0bXp3VzRUQ3hIeEFDUHJlVWdtMHRWMVZPckpVV24tS3paVGJKQlZwMWVubWp2VWgtQllTNTQzbHBHeHRaTHFabFBIeGdxcUZ2NmllQXQ4VzU5aDBxd1djUFEzR2txTmVt",
@@ -13,31 +13,21 @@
         {
           "symbol": "5274",
           "name": "信驊",
-          "point": "萬元高價股逆勢撐盤，AI需求強勁"
+          "point": "AI 需求明確，明年成長訊號"
         },
         {
           "symbol": "2059",
           "name": "川湖",
-          "point": "再創天價，獲利動能強勁",
+          "point": "獲利強勁，EPS 有機會創新高",
           "status": "逼近新高",
-          "dist": -8,
+          "dist": -7.7,
           "luw": 1,
           "luwd": [
             "8/17"
           ]
-        },
-        {
-          "symbol": "8299",
-          "name": "群聯",
-          "point": "上半年EPS上櫃公司第一名"
-        },
-        {
-          "symbol": "5289",
-          "name": "宜鼎",
-          "point": "上半年EPS上櫃公司第二名"
         }
       ],
-      "background": "AI應用需求明確且強勁，帶動高價股基本面受市場關注，供應鏈瓶頸逐步緩解，下半年營收可望優於上半年。",
+      "background": "AI 應用需求明確，帶動高價股成長。信驊看好明年成長，川湖獲利動能強勁，有望挑戰 EPS 新紀錄。",
       "themeTags": [
         "需求驅動"
       ]
