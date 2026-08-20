@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "updatedAt": "2026-08-20T06:03:19.687Z",
+  "updatedAt": "2026-08-20T06:27:44.131Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE80SVEwN1oySnUxZXVLOXo4MV9mTWpTS1plSW90NTM4aWpZQVBjRWxyX0hPUHZzREZOa0F2dVBBLVhJc1VDUml4TkY3UzFUcWZ3c2dYdFhnVGM",
@@ -74,10 +74,9 @@
           "name": "信昌電",
           "point": "快攻漲停",
           "limitUp": false,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "8/19",
-            "8/18",
             "8/17",
             "8/14",
             "8/13"
@@ -110,10 +109,9 @@
           "name": "金山電",
           "point": "快攻漲停",
           "limitUp": false,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "8/19",
-            "8/18",
             "8/17",
             "8/14",
             "8/13"
