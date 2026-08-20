@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "updatedAt": "2026-08-20T04:27:17.822Z",
+  "updatedAt": "2026-08-20T05:06:08.102Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQa0FkWDNIc1JUamJVMTFIZ2Uzcm1tVHVzWGhLQ3pMZDF0bXp3VzRUQ3hIeEFDUHJlVWdtMHRWMVZPckpVV24tS3paVGJKQlZwMWVubWp2VWgtQllTNTQzbHBHeHRaTHFabFBIeGdxcUZ2NmllQXQ4VzU5aDBxd1djUFEzR2txTmVt",
@@ -13,14 +13,14 @@
         {
           "symbol": "5274",
           "name": "信驊",
-          "point": "守住17000元，展現高檔強勢抗跌"
+          "point": "萬元高價股逆勢撐盤"
         },
         {
           "symbol": "2059",
           "name": "川湖",
-          "point": "再創歷史新天價，突破15000元大關",
+          "point": "再創天價突破15000元",
           "status": "逼近新高",
-          "dist": -7.9,
+          "dist": -8,
           "luw": 1,
           "luwd": [
             "8/17"
@@ -29,17 +29,18 @@
         {
           "symbol": "8299",
           "name": "群聯",
-          "point": "上半年上櫃公司EPS前三名"
+          "point": "上半年EPS居上櫃公司前三"
         },
         {
           "symbol": "5289",
           "name": "宜鼎",
-          "point": "上半年上櫃公司EPS前三名"
+          "point": "上半年EPS居上櫃公司前三"
         }
       ],
-      "background": "AI 基礎建設需求持續升溫，帶動高價股獲利成長，市場資金追逐具 AI 題材及強勁獲利支撐的成長股。",
+      "background": "AI應用需求強勁，帶動高價股獲利成長，特別是AI基礎建設相關公司，供應鏈瓶頸逐步緩解，產業景氣復甦。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "循環位置"
       ]
     },
     {
