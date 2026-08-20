@@ -1,0 +1,161 @@
+{
+  "date": "2026-08-19",
+  "updatedAt": "2026-08-20T03:03:12.942Z",
+  "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE80SVEwN1oySnUxZXVLOXo4MV9mTWpTS1plSW90NTM4aWpZQVBjRWxyX0hPUHZzREZOa0F2dVBBLVhJc1VDUml4TkY3UzFUcWZ3c2dYdFhnVGM",
+      "tkey": "熱門族群雲端基建持續砸錢老AI族群老當益壯",
+      "title": "熱門族群》雲端基建持續砸錢 老AI族群老當益壯 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/drcdel4lznjg",
+      "source": "自由時報",
+      "pubDate": "Wed, 19 Aug 2026 10:54:28 GMT",
+      "stocks": [],
+      "background": "雲端基礎設施持續投資，帶動相關AI族群需求，這些在AI領域深耕已久的企業持續受惠。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOTm9aQzJ4RTdBTHJlRVNPY0JkT2JBZUgycW4tOWt2MVRDMEJMeENxQ0hna0JScDE2NUtHOUYxUjVETlNLZ1A0RjRGcVlTaUxaN3JQb0xQMFB3bkR3eERzZTFXa28xWWpKOHZhZGpSa25SUVdUS3lFbDE5ZDZDNERocW5jUmtCc3JT",
+      "tkey": "熱門族群新漢組隊工研院、仁寶拓AI機器人落地商機",
+      "title": "《熱門族群》新漢組隊工研院、仁寶 拓AI機器人落地商機 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6276400001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Wed, 19 Aug 2026 06:03:00 GMT",
+      "stocks": [
+        {
+          "symbol": "8234",
+          "name": "新漢",
+          "point": "組隊工研院、仁寶拓AI機器人落地商機",
+          "limitUp": false
+        }
+      ],
+      "background": "AI機器人市場受惠於AI技術發展與產業自動化需求，新漢與工研院、仁寶等合作，加速AI機器人進入實際應用場域。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQOF8yekMyNWxPcTNWOEN3ajRlUXpMRHRyaHA3ejh6YjJiem1MS3hQV0FKMDJ6LW9MdmN5akR0MFlrMkpOYmxGNTdwOFh6ZDJ4TWt0VG1aU2E2NlhoT0VXN1FocFdGSmo1YW00NUI3Y0I4NzlUa0R6S0RlS09WX1ZhZlpzZmJHdy1l",
+      "tkey": "熱門族群法說變法會+1？群創心碎了！友達逆風走揚",
+      "title": "《熱門族群》法說變法會+1？群創心碎了！友達逆風走揚 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6276277001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 19 Aug 2026 03:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "point": "法說會後股價大跌，居成交量之冠",
+          "limitUp": false
+        },
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "法說會後股價逆風走揚",
+          "limitUp": false
+        }
+      ],
+      "background": "面板雙虎群創與友達法說會後，同步縮減面板產能，加速轉進半導體業務，尤其看好FOPLP與玻璃基板封裝市場產值。市場對兩者反應不一。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPbGZuZHU2cXFveExxUkwxZUdlbzN1M3M3WGRwLUVXeEV2OTVYZW5zZTQ5YWhYbHYxTjVndHY2a21mckd4V3VORW96QVNIaHhfSTY0aXY4dVRmV0FLUGNhY2ZDT3FJT3FKM2dYV1BEZVVzOHh1VnJ5ZG5yTm9fYl8xZU1fVmdhV29N",
+      "tkey": "熱門族群被動元件重獲資金青睞信昌電等4檔快攻漲停",
+      "title": "《熱門族群》被動元件重獲資金青睞 信昌電等4檔快攻漲停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6276265001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 19 Aug 2026 03:40:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6173",
+          "name": "信昌電",
+          "point": "快攻漲停",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "8/19",
+            "8/18",
+            "8/17",
+            "8/14",
+            "8/13"
+          ]
+        },
+        {
+          "symbol": "3090",
+          "name": "日電貿",
+          "point": "快攻漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "8/19"
+          ]
+        },
+        {
+          "symbol": "2478",
+          "name": "大毅",
+          "point": "快攻漲停",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 1,
+          "luwd": [
+            "8/19"
+          ]
+        },
+        {
+          "symbol": "8042",
+          "name": "金山電",
+          "point": "快攻漲停",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "8/19",
+            "8/18",
+            "8/17",
+            "8/14",
+            "8/13"
+          ]
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "有不同程度漲幅",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/13"
+          ]
+        },
+        {
+          "symbol": "8043",
+          "name": "蜜望實",
+          "point": "有不同程度漲幅",
+          "limitUp": false
+        },
+        {
+          "symbol": "2375",
+          "name": "凱美",
+          "point": "有不同程度漲幅",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/13"
+          ]
+        },
+        {
+          "symbol": "3624",
+          "name": "光頡",
+          "point": "有不同程度漲幅",
+          "limitUp": false
+        }
+      ],
+      "background": "被動元件產業庫存調整接近尾聲，部分產品傳出漲價潛力，市場預期下半年訂單回溫及供需改善，產業景氣有望逐步走出谷底。",
+      "themeTags": [
+        "循環位置"
+      ]
+    }
+  ]
+}

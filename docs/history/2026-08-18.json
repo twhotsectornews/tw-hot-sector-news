@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "updatedAt": "2026-08-19T11:01:03.468Z",
+  "updatedAt": "2026-08-20T03:03:12.943Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQa0FkWDNIc1JUamJVMTFIZ2Uzcm1tVHVzWGhLQ3pMZDF0bXp3VzRUQ3hIeEFDUHJlVWdtMHRWMVZPckpVV24tS3paVGJKQlZwMWVubWp2VWgtQllTNTQzbHBHeHRaTHFabFBIeGdxcUZ2NmllQXQ4VzU5aDBxd1djUFEzR2txTmVt",
@@ -87,8 +87,9 @@
           "point": "散裝族群攜手揚帆",
           "limitUp": true,
           "pct": 10,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "8/19",
             "8/18"
           ]
         },
@@ -220,10 +221,9 @@
           "name": "台勝科",
           "point": "盤中大漲約4%",
           "limitUp": false,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "8/13",
-            "8/12"
+            "8/13"
           ]
         },
         {
@@ -232,11 +232,7 @@
           "point": "同步走強",
           "status": "逼近新高",
           "dist": -7.4,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/12"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "2408",
@@ -318,11 +314,7 @@
           "symbol": "6770",
           "name": "力積電",
           "point": "大摩看好舊世代記憶體漲價",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/12"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "2408",
