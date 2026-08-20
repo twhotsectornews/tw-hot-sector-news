@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "updatedAt": "2026-08-20T05:06:08.102Z",
+  "updatedAt": "2026-08-20T05:23:23.389Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQa0FkWDNIc1JUamJVMTFIZ2Uzcm1tVHVzWGhLQ3pMZDF0bXp3VzRUQ3hIeEFDUHJlVWdtMHRWMVZPckpVV24tS3paVGJKQlZwMWVubWp2VWgtQllTNTQzbHBHeHRaTHFabFBIeGdxcUZ2NmllQXQ4VzU5aDBxd1djUFEzR2txTmVt",
@@ -13,12 +13,12 @@
         {
           "symbol": "5274",
           "name": "信驊",
-          "point": "萬元高價股逆勢撐盤"
+          "point": "萬元高價股逆勢撐盤，AI需求強勁"
         },
         {
           "symbol": "2059",
           "name": "川湖",
-          "point": "再創天價突破15000元",
+          "point": "再創天價，獲利動能強勁",
           "status": "逼近新高",
           "dist": -8,
           "luw": 1,
@@ -29,18 +29,17 @@
         {
           "symbol": "8299",
           "name": "群聯",
-          "point": "上半年EPS居上櫃公司前三"
+          "point": "上半年EPS上櫃公司第一名"
         },
         {
           "symbol": "5289",
           "name": "宜鼎",
-          "point": "上半年EPS居上櫃公司前三"
+          "point": "上半年EPS上櫃公司第二名"
         }
       ],
-      "background": "AI應用需求強勁，帶動高價股獲利成長，特別是AI基礎建設相關公司，供應鏈瓶頸逐步緩解，產業景氣復甦。",
+      "background": "AI應用需求明確且強勁，帶動高價股基本面受市場關注，供應鏈瓶頸逐步緩解，下半年營收可望優於上半年。",
       "themeTags": [
-        "需求驅動",
-        "循環位置"
+        "需求驅動"
       ]
     },
     {
