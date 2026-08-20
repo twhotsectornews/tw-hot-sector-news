@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "updatedAt": "2026-08-20T03:03:12.943Z",
+  "updatedAt": "2026-08-20T03:39:09.529Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQa0FkWDNIc1JUamJVMTFIZ2Uzcm1tVHVzWGhLQ3pMZDF0bXp3VzRUQ3hIeEFDUHJlVWdtMHRWMVZPckpVV24tS3paVGJKQlZwMWVubWp2VWgtQllTNTQzbHBHeHRaTHFabFBIeGdxcUZ2NmllQXQ4VzU5aDBxd1djUFEzR2txTmVt",
@@ -13,18 +13,14 @@
         {
           "symbol": "5274",
           "name": "信驊",
-          "point": "守住17000元，展現抗跌強勢",
-          "status": "逼近新高",
-          "dist": -8.3,
-          "limitUp": false
+          "point": "守住17000元，AI應用需求強勁"
         },
         {
           "symbol": "2059",
           "name": "川湖",
-          "point": "盤中突破15000元，再創歷史天價",
+          "point": "再創天價，突破15000元",
           "status": "逼近新高",
-          "dist": -4.7,
-          "limitUp": false,
+          "dist": -6.6,
           "luw": 1,
           "luwd": [
             "8/17"
@@ -33,35 +29,31 @@
         {
           "symbol": "8299",
           "name": "群聯",
-          "point": "上半年EPS上櫃公司第一名",
-          "limitUp": false
+          "point": "上半年EPS上櫃公司第一"
         },
         {
           "symbol": "5289",
           "name": "宜鼎",
-          "point": "上半年EPS上櫃公司第二名",
-          "limitUp": false
+          "point": "上半年EPS上櫃公司第二"
         }
       ],
-      "background": "AI應用需求強勁，帶動高價股基本面受市場關注。供應鏈瓶頸緩解，下半年營收可望明顯優於上半年，獲利動能強勁。",
+      "background": "AI應用需求強勁，帶動高價股表現，供應鏈瓶頸緩解，預期下半年營收優於上半年，產業前景樂觀。",
       "themeTags": [
-        "需求驅動",
-        "循環位置"
+        "需求驅動"
       ]
     },
     {
       "gid": "CBMiiAFBVV95cUxNMWw4b2VLRS1nTGZSLXRTTldrOG5sVzZ5UUdmVU84VXhUbml5N004aThaajhTOUJBMEZramhqc3BHZ3E5V3pPWENGMmJ5enJtdVFxNlBRa04wa0stWV9vc3FjQ3NTbEs4Y2JOM2VScmxJSEpOMUZWUG9QLV82ZlZiSzZfWW1NY2tO",
-      "tkey": "熱門族群萬海登百元！航海王逆風前行1檔鎖紅燈-ww2.money",
-      "title": "《熱門族群》萬海登百元！航海王逆風前行 1檔鎖紅燈 - ww2.money-link.com.tw",
+      "tkey": "熱門族群萬海登百元！航海王逆風前行1檔鎖紅燈",
+      "title": "《熱門族群》萬海登百元！航海王逆風前行 1檔鎖紅燈 - 富聯網",
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6275165001&PU=1002",
-      "source": "ww2.money-link.com.tw",
+      "source": "富聯網",
       "pubDate": "Tue, 18 Aug 2026 04:17:00 GMT",
       "stocks": [
         {
           "symbol": "2615",
           "name": "萬海",
           "point": "重登百元大關，續創1年高",
-          "limitUp": false,
           "luw": 1,
           "luwd": [
             "8/17"
@@ -70,23 +62,19 @@
         {
           "symbol": "2603",
           "name": "長榮",
-          "point": "跟進北上，今年填息達陣",
+          "point": "跟進北上，填息達陣",
           "status": "逼近新高",
-          "dist": -2.3,
-          "limitUp": false
+          "dist": -2.6
         },
         {
           "symbol": "2609",
           "name": "陽明",
-          "point": "跟進向上，今年填息達陣",
-          "limitUp": false
+          "point": "跟進北上，填息達陣"
         },
         {
           "symbol": "5608",
           "name": "四維航",
           "point": "散裝族群攜手揚帆",
-          "limitUp": true,
-          "pct": 10,
           "luw": 2,
           "luwd": [
             "8/19",
@@ -96,37 +84,32 @@
         {
           "symbol": "2605",
           "name": "新興",
-          "point": "散裝族群攜手揚帆",
-          "limitUp": false
+          "point": "散裝族群攜手揚帆"
         },
         {
           "symbol": "2617",
           "name": "台航",
-          "point": "散裝族群攜手揚帆",
-          "limitUp": false
+          "point": "散裝族群攜手揚帆"
         },
         {
           "symbol": "2612",
           "name": "中航",
-          "point": "散裝族群攜手揚帆",
-          "limitUp": false
+          "point": "散裝族群攜手揚帆"
         },
         {
           "symbol": "2601",
           "name": "益航",
-          "point": "鎖紅燈，攻勢更為凌厲",
-          "limitUp": true,
-          "pct": 10,
+          "point": "鎖紅燈，攻勢凌厲",
           "luw": 1,
           "luwd": [
             "8/18"
           ]
         }
       ],
-      "background": "航運業受美伊戰爭、氣候異常及海運旺季影響，全球航運費飆新高。貨櫃三雄Q2財報、7月營收大躍進，散裝族群BDI指數續漲，整體運價維持高檔震盪。",
+      "background": "全球航運費因戰爭、氣候異常及海運旺季而飆升，供給偏緊，運價維持高檔震盪，帶動貨櫃與散裝航運股表現。",
       "themeTags": [
         "需求驅動",
-        "政策關稅"
+        "循環位置"
       ]
     },
     {

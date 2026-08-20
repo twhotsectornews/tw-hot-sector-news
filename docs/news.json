@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-20T11:03:12.947+08:00",
-  "generatedAt": "2026-08-20T03:03:12.947Z",
+  "asOf": "2026-08-20T11:39:09.532+08:00",
+  "generatedAt": "2026-08-20T03:39:09.532Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -289,10 +289,7 @@
         "8/18",
         "8/17"
       ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -8.3,
-      "limitUp": false
+      "mentions": 2
     },
     {
       "symbol": "2059",
@@ -304,8 +301,7 @@
       ],
       "mentions": 2,
       "status": "逼近新高",
-      "dist": -4.7,
-      "limitUp": false,
+      "dist": -6.6,
       "luw": 1,
       "luwd": [
         "8/17"
@@ -320,7 +316,6 @@
         "8/17"
       ],
       "mentions": 2,
-      "limitUp": false,
       "luw": 1,
       "luwd": [
         "8/17"
@@ -336,8 +331,7 @@
       ],
       "mentions": 2,
       "status": "逼近新高",
-      "dist": -2.3,
-      "limitUp": false
+      "dist": -2.6
     },
     {
       "symbol": "2609",
@@ -347,8 +341,7 @@
         "8/18",
         "8/17"
       ],
-      "mentions": 2,
-      "limitUp": false
+      "mentions": 2
     },
     {
       "symbol": "2330",
