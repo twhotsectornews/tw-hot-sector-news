@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-21T13:26:22.865+08:00",
-  "generatedAt": "2026-08-21T05:26:22.865Z",
+  "asOf": "2026-08-21T14:03:54.500+08:00",
+  "generatedAt": "2026-08-21T06:03:54.500Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -110,7 +110,8 @@
         "8/17"
       ],
       "mentions": 3,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.7,
       "luw": 1,
       "luwd": [
         "8/17"
@@ -281,7 +282,8 @@
         "8/18"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 2,
       "luwd": [
         "8/19",
@@ -451,7 +453,8 @@
           "symbol": "2615",
           "name": "萬海",
           "point": "上半年稅後淨利年增96％，成為航運明星股",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.7,
           "luw": 1,
           "luwd": [
             "8/17"
@@ -483,7 +486,8 @@
           "symbol": "5608",
           "name": "四維航",
           "point": "散裝航運個股表現不錯",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 2,
           "luwd": [
             "8/19",
