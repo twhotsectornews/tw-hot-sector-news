@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "updatedAt": "2026-08-21T03:04:07.459Z",
+  "updatedAt": "2026-08-21T03:42:17.435Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE80SVEwN1oySnUxZXVLOXo4MV9mTWpTS1plSW90NTM4aWpZQVBjRWxyX0hPUHZzREZOa0F2dVBBLVhJc1VDUml4TkY3UzFUcWZ3c2dYdFhnVGM",
@@ -10,9 +10,10 @@
       "source": "自由時報",
       "pubDate": "Wed, 19 Aug 2026 10:54:28 GMT",
       "stocks": [],
-      "background": "雲端基礎設施持續投資，帶動相關AI族群需求，這些在AI領域深耕已久的企業持續受惠。",
+      "background": "雲端基礎建設持續投資，帶動AI相關硬體需求，使AI族群持續成長，產業處於景氣復甦階段。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "循環位置"
       ]
     },
     {
@@ -26,11 +27,19 @@
         {
           "symbol": "8234",
           "name": "新漢",
-          "point": "組隊工研院、仁寶拓AI機器人落地商機",
-          "limitUp": false
+          "point": "組隊拓展AI機器人落地商機"
+        },
+        {
+          "symbol": "2324",
+          "name": "仁寶",
+          "point": "與新漢合作拓展AI機器人商機",
+          "luw": 1,
+          "luwd": [
+            "8/14"
+          ]
         }
       ],
-      "background": "AI機器人市場受惠於AI技術發展與產業自動化需求，新漢與工研院、仁寶等合作，加速AI機器人進入實際應用場域。",
+      "background": "AI機器人應用落地商機龐大，結合工研院與國際技術夥伴，加速產業軟硬體整合與應用場域拓展。",
       "themeTags": [
         "需求驅動"
       ]
@@ -46,19 +55,18 @@
         {
           "symbol": "3481",
           "name": "群創",
-          "point": "法說會後股價大跌，居成交量之冠",
-          "limitUp": false
+          "point": "法說會後股價大跌，轉型FOPLP"
         },
         {
           "symbol": "2409",
           "name": "友達",
-          "point": "法說會後股價逆風走揚",
-          "limitUp": false
+          "point": "法說會後股價逆風走揚"
         }
       ],
-      "background": "面板雙虎群創與友達法說會後，同步縮減面板產能，加速轉進半導體業務，尤其看好FOPLP與玻璃基板封裝市場產值。市場對兩者反應不一。",
+      "background": "面板雙虎轉型半導體業務，縮減面板產能並擴大先進封裝FOPLP投資，市場對轉型前景反應兩極。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "循環位置"
       ]
     },
     {
