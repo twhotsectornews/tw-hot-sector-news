@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "updatedAt": "2026-08-20T11:02:43.938Z",
+  "updatedAt": "2026-08-21T03:04:07.459Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE80SVEwN1oySnUxZXVLOXo4MV9mTWpTS1plSW90NTM4aWpZQVBjRWxyX0hPUHZzREZOa0F2dVBBLVhJc1VDUml4TkY3UzFUcWZ3c2dYdFhnVGM",
@@ -107,11 +107,7 @@
           "symbol": "2492",
           "name": "華新科",
           "point": "有不同程度漲幅",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/13"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "8043",
@@ -123,11 +119,7 @@
           "symbol": "2375",
           "name": "凱美",
           "point": "有不同程度漲幅",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/13"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3624",
