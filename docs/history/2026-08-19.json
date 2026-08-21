@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "updatedAt": "2026-08-21T03:42:17.435Z",
+  "updatedAt": "2026-08-21T04:04:37.713Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE80SVEwN1oySnUxZXVLOXo4MV9mTWpTS1plSW90NTM4aWpZQVBjRWxyX0hPUHZzREZOa0F2dVBBLVhJc1VDUml4TkY3UzFUcWZ3c2dYdFhnVGM",
@@ -10,10 +10,9 @@
       "source": "自由時報",
       "pubDate": "Wed, 19 Aug 2026 10:54:28 GMT",
       "stocks": [],
-      "background": "雲端基礎建設持續投資，帶動AI相關硬體需求，使AI族群持續成長，產業處於景氣復甦階段。",
+      "background": "雲端基礎建設投資持續增加，帶動AI相關產業需求，使相關供應鏈表現穩健。",
       "themeTags": [
-        "需求驅動",
-        "循環位置"
+        "需求驅動"
       ]
     },
     {
@@ -27,19 +26,10 @@
         {
           "symbol": "8234",
           "name": "新漢",
-          "point": "組隊拓展AI機器人落地商機"
-        },
-        {
-          "symbol": "2324",
-          "name": "仁寶",
-          "point": "與新漢合作拓展AI機器人商機",
-          "luw": 1,
-          "luwd": [
-            "8/14"
-          ]
+          "point": "組隊工研院、仁寶，拓AI機器人落地商機"
         }
       ],
-      "background": "AI機器人應用落地商機龐大，結合工研院與國際技術夥伴，加速產業軟硬體整合與應用場域拓展。",
+      "background": "新漢攜手工研院、仁寶等夥伴，推出AI機器人開放平台，加速AI機器人進入實際應用場域，受惠於AI與自動化需求。",
       "themeTags": [
         "需求驅動"
       ]

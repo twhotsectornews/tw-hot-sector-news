@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-21T11:42:17.439+08:00",
-  "generatedAt": "2026-08-21T03:42:17.439Z",
+  "asOf": "2026-08-21T12:04:37.716+08:00",
+  "generatedAt": "2026-08-21T04:04:37.716Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -59,6 +59,48 @@
       ],
       "mentions": 4,
       "limitUp": false
+    },
+    {
+      "symbol": "2603",
+      "name": "長榮",
+      "days": 3,
+      "dates": [
+        "8/21",
+        "8/18",
+        "8/17"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -1,
+      "limitUp": false
+    },
+    {
+      "symbol": "2609",
+      "name": "陽明",
+      "days": 3,
+      "dates": [
+        "8/21",
+        "8/18",
+        "8/17"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2615",
+      "name": "萬海",
+      "days": 3,
+      "dates": [
+        "8/21",
+        "8/18",
+        "8/17"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "8/17"
+      ]
     },
     {
       "symbol": "4971",
@@ -195,6 +237,33 @@
       ]
     },
     {
+      "symbol": "2605",
+      "name": "新興",
+      "days": 2,
+      "dates": [
+        "8/21",
+        "8/18"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "5608",
+      "name": "四維航",
+      "days": 2,
+      "dates": [
+        "8/21",
+        "8/18"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "8/19",
+        "8/18"
+      ]
+    },
+    {
       "symbol": "1802",
       "name": "台玻",
       "days": 2,
@@ -322,67 +391,87 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "6672",
-      "name": "達明",
-      "days": 2,
-      "dates": [
-        "8/20",
-        "8/15"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2308",
-      "name": "台達電",
-      "days": 2,
-      "dates": [
-        "8/20",
-        "8/16"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "8234",
-      "name": "新漢",
-      "days": 2,
-      "dates": [
-        "8/20",
-        "8/19"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2375",
-      "name": "凱美",
-      "days": 2,
-      "dates": [
-        "8/20",
-        "8/19"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2324",
-      "name": "仁寶",
-      "days": 2,
-      "dates": [
-        "8/19",
-        "8/16"
-      ],
-      "mentions": 2,
-      "luw": 1,
-      "luwd": [
-        "8/14"
-      ]
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQZ0NETHFsUDhxenNUTFpfNTI4WHpWNjR5d2VPODB3RjFXQTh1c2pMZkQyQ19odDJJS0V6OWFEQmhQRVdWYUw2dDdiMktEUjJVMHBYWjR6SWUtdVNpZTVtOXBvdkE0VVhEaGU5T2NzMEJaSjRPLTRndWttSFFTT0ZxS3pZNHRsWEpY",
+      "tkey": "熱門族群海運景氣續揚貨櫃三雄強勢攻高、散裝航運接棒",
+      "title": "《熱門族群》海運景氣續揚 貨櫃三雄強勢攻高、散裝航運接棒 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6278379001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 21 Aug 2026 02:32:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2603",
+          "name": "長榮",
+          "point": "本周漲幅達15％，股價盤中突破250元",
+          "status": "逼近新高",
+          "dist": -1,
+          "limitUp": false
+        },
+        {
+          "symbol": "2609",
+          "name": "陽明",
+          "point": "近期呈現落後補漲格局，本周累計漲幅約24％",
+          "limitUp": false
+        },
+        {
+          "symbol": "2615",
+          "name": "萬海",
+          "point": "上半年稅後淨利年增96％，成為航運明星股",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/17"
+          ]
+        },
+        {
+          "symbol": "2637",
+          "name": "慧洋-KY",
+          "point": "散裝航運個股表現不錯",
+          "status": "逼近新高",
+          "dist": -1,
+          "limitUp": false
+        },
+        {
+          "symbol": "2605",
+          "name": "新興",
+          "point": "散裝航運個股表現不錯",
+          "limitUp": false
+        },
+        {
+          "symbol": "2606",
+          "name": "裕民",
+          "point": "散裝航運個股表現不錯",
+          "status": "逼近新高",
+          "dist": -1.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "5608",
+          "name": "四維航",
+          "point": "散裝航運個股表現不錯",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "8/19",
+            "8/18"
+          ]
+        },
+        {
+          "symbol": "2641",
+          "name": "正德",
+          "point": "散裝航運個股表現不錯",
+          "limitUp": false
+        }
+      ],
+      "background": "海運景氣受巴拿馬運河水位、港口壅塞及航商減班影響，運價維持高檔，正值傳統旺季，產業景氣持續復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNUGFoN3NIcDJUdTQtMGY3VWliQ1VqZ21QbWFvUVd5a0VCaHY0LWtTQVM2dDh5RmNnZi0wZTUxZktOUkdoQTA4MEUwTXNaeVNwWnhua0Exekxhdy1qanh6YmFnWTJvQUJEVTB6b2I0TWxfcFREenJTVWxVSFJOZEVqbDV4Qk9pdHZ0",
       "tkey": "熱門族群半導體展助攻矽光子族群開趴",
