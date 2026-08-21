@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "updatedAt": "2026-08-21T06:28:36.472Z",
+  "updatedAt": "2026-08-21T09:41:58.335Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNUjdDcU14cmJwNEdnTVBPTVpwck5SSC0yVUFxbGx1emhDSXZCXzZUanhXekpqRlpoX1NiaXhhTnpCYk5wUllxbnhxc1FlWldXYTNlYjl5SDJzTktKUWsxWjV1b1VGM1Bsa0lMRVpJTzIyNTJGOEVqeHNYV2xKWlNkdjhucjJkR1la",
@@ -21,15 +21,7 @@
           "name": "IET-KY",
           "point": "磷化銦缺貨題材重燃，逆風觸頂",
           "limitUp": true,
-          "pct": 9.8,
-          "luw": 5,
-          "luwd": [
-            "8/20",
-            "8/19",
-            "8/18",
-            "8/17",
-            "8/14"
-          ]
+          "pct": 9.8
         },
         {
           "symbol": "8111",
