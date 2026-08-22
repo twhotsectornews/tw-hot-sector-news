@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-21T19:02:12.966+08:00",
-  "generatedAt": "2026-08-21T11:02:12.966Z",
+  "asOf": "2026-08-22T11:01:21.145+08:00",
+  "generatedAt": "2026-08-22T03:01:21.145Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,20 +9,15 @@
     {
       "symbol": "1303",
       "name": "南亞",
-      "days": 5,
+      "days": 4,
       "dates": [
         "8/21",
         "8/20",
         "8/18",
-        "8/16",
-        "8/15"
+        "8/16"
       ],
-      "mentions": 5,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "8/14"
-      ]
+      "mentions": 4,
+      "limitUp": false
     },
     {
       "symbol": "2408",
@@ -58,20 +53,6 @@
         "8/16"
       ],
       "mentions": 4,
-      "limitUp": false
-    },
-    {
-      "symbol": "2383",
-      "name": "台光電",
-      "days": 3,
-      "dates": [
-        "8/21",
-        "8/16",
-        "8/15"
-      ],
-      "mentions": 3,
-      "status": "高檔修正",
-      "dist": -12.4,
       "limitUp": false
     },
     {
@@ -112,8 +93,9 @@
       "mentions": 3,
       "limitUp": true,
       "pct": 9.7,
-      "luw": 1,
+      "luw": 2,
       "luwd": [
+        "8/21",
         "8/17"
       ]
     },
@@ -125,30 +107,6 @@
         "8/21",
         "8/20",
         "8/17"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "4979",
-      "name": "華星光",
-      "days": 3,
-      "dates": [
-        "8/21",
-        "8/16",
-        "8/15"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "3363",
-      "name": "上詮",
-      "days": 3,
-      "dates": [
-        "8/21",
-        "8/20",
-        "8/15"
       ],
       "mentions": 3,
       "limitUp": false
@@ -177,20 +135,6 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -5.3,
-      "limitUp": false
-    },
-    {
-      "symbol": "3081",
-      "name": "聯亞",
-      "days": 3,
-      "dates": [
-        "8/20",
-        "8/17",
-        "8/15"
-      ],
-      "mentions": 3,
-      "status": "高檔修正",
-      "dist": -11.1,
       "limitUp": false
     },
     {
@@ -244,14 +188,16 @@
       ]
     },
     {
-      "symbol": "6274",
-      "name": "台燿",
+      "symbol": "2383",
+      "name": "台光電",
       "days": 2,
       "dates": [
         "8/21",
-        "8/15"
+        "8/16"
       ],
       "mentions": 2,
+      "status": "高檔修正",
+      "dist": -12.4,
       "limitUp": false
     },
     {
@@ -276,32 +222,46 @@
       "mentions": 2,
       "limitUp": true,
       "pct": 10,
-      "luw": 2,
+      "luw": 3,
       "luwd": [
+        "8/21",
         "8/19",
         "8/18"
       ]
     },
     {
-      "symbol": "1802",
-      "name": "台玻",
+      "symbol": "4979",
+      "name": "華星光",
       "days": 2,
       "dates": [
         "8/21",
-        "8/15"
+        "8/16"
       ],
       "mentions": 2,
       "limitUp": false
     },
     {
-      "symbol": "1815",
-      "name": "富喬",
+      "symbol": "3363",
+      "name": "上詮",
       "days": 2,
       "dates": [
         "8/21",
-        "8/15"
+        "8/20"
       ],
       "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3081",
+      "name": "聯亞",
+      "days": 2,
+      "dates": [
+        "8/20",
+        "8/17"
+      ],
+      "mentions": 2,
+      "status": "高檔修正",
+      "dist": -11.1,
       "limitUp": false
     },
     {
@@ -386,6 +346,41 @@
       ],
       "mentions": 2,
       "limitUp": false
+    },
+    {
+      "symbol": "8046",
+      "name": "南電",
+      "days": 2,
+      "dates": [
+        "8/20",
+        "8/18"
+      ],
+      "mentions": 2,
+      "status": "高檔修正",
+      "dist": -14.8,
+      "limitUp": false
+    },
+    {
+      "symbol": "3532",
+      "name": "台勝科",
+      "days": 2,
+      "dates": [
+        "8/20",
+        "8/18"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2308",
+      "name": "台達電",
+      "days": 2,
+      "dates": [
+        "8/20",
+        "8/16"
+      ],
+      "mentions": 2,
+      "limitUp": false
     }
   ],
   "news": [
@@ -447,8 +442,9 @@
           "point": "上半年稅後淨利年增96％，成為航運明星股",
           "limitUp": true,
           "pct": 9.7,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "8/21",
             "8/17"
           ]
         },
@@ -480,8 +476,9 @@
           "point": "散裝航運個股表現不錯",
           "limitUp": true,
           "pct": 10,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "8/21",
             "8/19",
             "8/18"
           ]
@@ -578,11 +575,7 @@
           "symbol": "1303",
           "name": "南亞",
           "point": "電子材料營收占比提升",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/14"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "1476",
@@ -710,7 +703,11 @@
           "symbol": "4956",
           "name": "光鋐",
           "point": "強升半根停板",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/21"
+          ]
         },
         {
           "symbol": "3363",
@@ -793,7 +790,11 @@
           "symbol": "2451",
           "name": "創見",
           "point": "力挺多方",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/21"
+          ]
         },
         {
           "symbol": "8299",
@@ -833,11 +834,7 @@
           "symbol": "1303",
           "name": "南亞",
           "point": "電子材料布局積極，CCL高階化發展",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/14"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "1326",

@@ -1,0 +1,284 @@
+{
+  "date": "2026-08-21",
+  "updatedAt": "2026-08-22T03:01:21.140Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNUEpUbEZXWldvWHkzcElob3BMMk52ZGJQWTZaS3pnaEdMMk4yOXA2WHFIM3VQWWVKcVFpYnBXY3FsMTBDTVEtbVRjN24wZnpJa292TFJVbjNfVll4Q3kwdkpuXzBqZEhSOGFtOW1ycUkxbWxUbm1sWlNlR002d2xFaTVLT0oxSXFh",
+      "tkey": "熱門族群高階玻纖布供給告急！台廠這2巨頭大吃升級紅利",
+      "title": "《熱門族群》高階玻纖布供給告急！台廠「這2巨頭」大吃升級紅利 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6278424001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 21 Aug 2026 03:09:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "CCL廠受惠高階材料緊缺",
+          "status": "高檔修正",
+          "dist": -12.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "CCL廠受惠高階材料緊缺",
+          "limitUp": false
+        }
+      ],
+      "background": "AI晶片升級推動高階玻纖布需求，日本日東紡轉向高階產品導致E-glass供給吃緊，CCL廠受惠於材料漲價與交期拉長。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQZ0NETHFsUDhxenNUTFpfNTI4WHpWNjR5d2VPODB3RjFXQTh1c2pMZkQyQ19odDJJS0V6OWFEQmhQRVdWYUw2dDdiMktEUjJVMHBYWjR6SWUtdVNpZTVtOXBvdkE0VVhEaGU5T2NzMEJaSjRPLTRndWttSFFTT0ZxS3pZNHRsWEpY",
+      "tkey": "熱門族群海運景氣續揚貨櫃三雄強勢攻高、散裝航運接棒",
+      "title": "《熱門族群》海運景氣續揚 貨櫃三雄強勢攻高、散裝航運接棒 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6278379001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 21 Aug 2026 02:32:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2603",
+          "name": "長榮",
+          "point": "本周漲幅達15％，股價盤中突破250元",
+          "status": "逼近新高",
+          "dist": -1,
+          "limitUp": false
+        },
+        {
+          "symbol": "2609",
+          "name": "陽明",
+          "point": "近期呈現落後補漲格局，本周累計漲幅約24％",
+          "limitUp": false
+        },
+        {
+          "symbol": "2615",
+          "name": "萬海",
+          "point": "上半年稅後淨利年增96％，成為航運明星股",
+          "limitUp": true,
+          "pct": 9.7,
+          "luw": 2,
+          "luwd": [
+            "8/21",
+            "8/17"
+          ]
+        },
+        {
+          "symbol": "2637",
+          "name": "慧洋-KY",
+          "point": "散裝航運個股表現不錯",
+          "status": "逼近新高",
+          "dist": -1,
+          "limitUp": false
+        },
+        {
+          "symbol": "2605",
+          "name": "新興",
+          "point": "散裝航運個股表現不錯",
+          "limitUp": false
+        },
+        {
+          "symbol": "2606",
+          "name": "裕民",
+          "point": "散裝航運個股表現不錯",
+          "status": "逼近新高",
+          "dist": -1.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "5608",
+          "name": "四維航",
+          "point": "散裝航運個股表現不錯",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 3,
+          "luwd": [
+            "8/21",
+            "8/19",
+            "8/18"
+          ]
+        },
+        {
+          "symbol": "2641",
+          "name": "正德",
+          "point": "散裝航運個股表現不錯",
+          "limitUp": false
+        }
+      ],
+      "background": "海運景氣受巴拿馬運河水位、港口壅塞及航商減班影響，運價維持高檔，正值傳統旺季，產業景氣持續復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNUGFoN3NIcDJUdTQtMGY3VWliQ1VqZ21QbWFvUVd5a0VCaHY0LWtTQVM2dDh5RmNnZi0wZTUxZktOUkdoQTA4MEUwTXNaeVNwWnhua0Exekxhdy1qanh6YmFnWTJvQUJEVTB6b2I0TWxfcFREenJTVWxVSFJOZEVqbDV4Qk9pdHZ0",
+      "tkey": "熱門族群半導體展助攻矽光子族群開趴",
+      "title": "《熱門族群》半導體展助攻 矽光子族群開趴 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6278139001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 21 Aug 2026 00:03:00 GMT",
+      "stocks": [
+        {
+          "symbol": "4971",
+          "name": "IET-KY",
+          "point": "亮燈攻漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "4979",
+          "name": "華星光",
+          "point": "漲幅超過5％",
+          "limitUp": false
+        },
+        {
+          "symbol": "3363",
+          "name": "上詮",
+          "point": "指標股蓄勢待發",
+          "limitUp": false
+        },
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "指標股蓄勢待發",
+          "limitUp": false
+        }
+      ],
+      "background": "矽光子受惠AI半導體、HBM及光通訊需求成長，國際大廠台積電、日月光投控領軍，美國光模組禁令助攻台廠轉單，產業成長動能升溫。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNOTJrRXNYRlNoLThDbjl6VGJta1c5N3BGelhzTk5wczJibC1lb0N6dlUxMGdzTEtyUjlpUVlxTTVRREhvc3RiWGNkaS10bWcyeXpEcHdZc3R0c29meWpsX1pKbW0zdXJXRlVkeW9qaXA0b0VOWWdWMk54WDA4MWRzYXhTRkZCTjJ4",
+      "tkey": "熱門族群AI續夯台玻、富喬迎風揚",
+      "title": "《熱門族群》AI續夯 台玻、富喬迎風揚 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6278148001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 21 Aug 2026 00:03:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "高階電子布出貨動能強勁",
+          "limitUp": false
+        },
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "7月營收年增68.1％",
+          "limitUp": false
+        }
+      ],
+      "background": "AI伺服器需求持續延燒，帶動高階玻纖布需求旺盛，國際玻纖布龍頭日東紡上修財測，台廠可望跟進受惠。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOM3pIdk5iYXlJd05kYUNuc0lBcnFMc3c2YUlfYXUxYlJhc3JxY19CNVRoU0pXUm1KODhiR0F0QjlQdVFuMjNLcWhudTRGSk9DTzRHOGpTYjE1dWI4cGR3VDVmWmoyZDdVSWY2OVdPalJ6SmJwYWNWYUpXRTVPZVdURjlLeGRlZ0pv",
+      "tkey": "熱門族群法人喊買南亞、儒鴻看俏",
+      "title": "《熱門族群》法人喊買 南亞、儒鴻看俏 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6278149001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 21 Aug 2026 00:03:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "電子材料營收占比提升",
+          "limitUp": false
+        },
+        {
+          "symbol": "1476",
+          "name": "儒鴻",
+          "point": "高端健康休閒產品占比提高",
+          "limitUp": false
+        }
+      ],
+      "background": "南亞電子材料受北美CSP與陸系算力建設帶動，儒鴻高端健康休閒產品切入新客戶，兩者皆受惠於產品組合優化與需求增長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPcWpubmdZcy00NzhvcXBmb2xrODV6Mk03NUVlOHBkQmdVU1Fqckl2LW5PLWZYdVRfYnhicHNvUENIdE5CUF9Nd1pUY1Jybm1tbDJoUlpRbU1lRUVMbHMtR3g0VmgycG56MEJyeFNpR1Z3LVRvUC1SaXg2bTZBRTdmVUR3aU9tS3Bo",
+      "tkey": "熱門族群傳動系統元件三雄大秀肌肉",
+      "title": "《熱門族群》傳動系統元件三雄 大秀肌肉 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6278142001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 21 Aug 2026 00:03:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1597",
+          "name": "直得",
+          "point": "展出微型六軸機器人",
+          "limitUp": false
+        },
+        {
+          "symbol": "2049",
+          "name": "上銀",
+          "point": "秀出人形機器人及關鍵零組件",
+          "limitUp": false
+        },
+        {
+          "symbol": "4540",
+          "name": "全球傳動",
+          "point": "展出下肢驅動系統",
+          "limitUp": false
+        }
+      ],
+      "background": "傳動系統元件三雄積極布局機器人與半導體產業，透過展覽展現最新研發產品，爭取AI機器人、半導體及矽光子等新訂單。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOd3lCQUdGN18yWklobnBfa1U1eS1qRFc4WHpTSFE1QWh1ZXdvanFpM2RlRWJZTG9zMzNWMlVNN19ub2dMalduTVVDY1lOSENVNjFRYmNaUV9LZ3I4SnV4LVJtWDZXOHh3MlF4cWlHODhyOUxXRVZHUWs1S0NYcEk3U2t3a3F4VWJ3",
+      "tkey": "熱門族群ADI點名新藍海台廠有看頭",
+      "title": "《熱門族群》ADI點名新藍海 台廠有看頭 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6278100001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 20 Aug 2026 23:50:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "CoWoS-L納入嵌入式深溝槽電容",
+          "status": "逼近新高",
+          "dist": -5.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "6558",
+          "name": "愛普*",
+          "point": "矽電容指標業者",
+          "limitUp": false
+        },
+        {
+          "symbol": "3438",
+          "name": "力智",
+          "point": "布局多相位Vcore控制器",
+          "limitUp": false
+        },
+        {
+          "symbol": "3374",
+          "name": "精材",
+          "point": "卡位IVR晶圓級封裝與測試",
+          "limitUp": false
+        }
+      ],
+      "background": "AI資料中心電力需求推動電源架構朝「更靠近晶片」發展，類比晶片大廠ADI點名整合式電壓調節器、矽電容成新藍海。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    }
+  ]
+}

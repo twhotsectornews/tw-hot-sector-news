@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "updatedAt": "2026-08-21T11:02:12.963Z",
+  "updatedAt": "2026-08-22T03:01:21.141Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNUjdDcU14cmJwNEdnTVBPTVpwck5SSC0yVUFxbGx1emhDSXZCXzZUanhXekpqRlpoX1NiaXhhTnpCYk5wUllxbnhxc1FlWldXYTNlYjl5SDJzTktKUWsxWjV1b1VGM1Bsa0lMRVpJTzIyNTJGOEVqeHNYV2xKWlNkdjhucjJkR1la",
@@ -43,7 +43,11 @@
           "symbol": "4956",
           "name": "光鋐",
           "point": "強升半根停板",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/21"
+          ]
         },
         {
           "symbol": "3363",
@@ -126,7 +130,11 @@
           "symbol": "2451",
           "name": "創見",
           "point": "力挺多方",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/21"
+          ]
         },
         {
           "symbol": "8299",
@@ -166,11 +174,7 @@
           "symbol": "1303",
           "name": "南亞",
           "point": "電子材料布局積極，CCL高階化發展",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/14"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "1326",
