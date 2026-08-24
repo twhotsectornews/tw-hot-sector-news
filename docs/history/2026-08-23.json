@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-23",
+  "updatedAt": "2026-08-24T03:03:03.567Z",
+  "news": [
+    {
+      "gid": "CBMiZEFVX3lxTE9FX183dF9lNEs2YTdmbXVqSEpBTWRma1JvYU10aHNncDhKeC1YajR6U2RQY08wejA1WnBScGVFTDJENWNyOFZRRkUwZnktaGdWUmF2UmtmT3Q5dWhkMUdVNS0yaUQ",
+      "tkey": "熱門族群蘋果新機將亮相光學鏡頭族群活力再起",
+      "title": "熱門族群》蘋果新機將亮相 光學鏡頭族群活力再起 - 自由財經",
+      "url": "https://ec.ltn.com.tw/amp/article/breakingnews/5548764",
+      "source": "自由財經",
+      "pubDate": "Sat, 22 Aug 2026 23:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "受惠旺季商機，股價一路走高",
+          "status": "逼近新高",
+          "dist": -2.4,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/17"
+          ]
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "第三季需求增加，動能優於去年同期",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/17"
+          ]
+        },
+        {
+          "symbol": "3362",
+          "name": "先進光",
+          "point": "週漲逾13%",
+          "limitUp": false
+        },
+        {
+          "symbol": "3019",
+          "name": "亞光",
+          "point": "切入CPO商機，最快明年貢獻營收",
+          "limitUp": false
+        }
+      ],
+      "background": "光學鏡頭產業受惠蘋果新機發表，供應鏈拉貨動能提升，同時切入CPO商機增添新成長動能。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiZEFVX3lxTFA5dFlSN085SmRUVWdQTUhWMUNEaTJNTWNibXdCSGtNZTNGOHpucWJpaWVwNnI3N2NjNVdvRnRDamNNRlNqa2hLcTJKM3NZRnl5WWVja0FpejdEcmtyQWZ1alJ3Y0k",
+      "tkey": "熱門族群運價高檔持穩貨櫃三雄逆風揚帆",
+      "title": "熱門族群》運價高檔持穩 貨櫃三雄逆風揚帆 - 自由財經",
+      "url": "https://ec.ltn.com.tw/amp/article/breakingnews/5548067",
+      "source": "自由財經",
+      "pubDate": "Sat, 22 Aug 2026 23:00:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2615",
+          "name": "萬海",
+          "point": "盤中攻上漲停，週漲幅居三雄之冠",
+          "limitUp": true,
+          "pct": 9.7,
+          "luw": 2,
+          "luwd": [
+            "8/21",
+            "8/17"
+          ]
+        },
+        {
+          "symbol": "2609",
+          "name": "陽明",
+          "point": "週漲幅達24%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2603",
+          "name": "長榮",
+          "point": "週漲幅達14.84%",
+          "status": "逼近新高",
+          "dist": -1,
+          "limitUp": false
+        }
+      ],
+      "background": "貨櫃航運受惠第三季傳統旺季與運價高檔持穩，加上地緣政治與天候異常影響運能，推升運價維持高檔。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}
