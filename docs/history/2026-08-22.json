@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "updatedAt": "2026-08-24T03:03:03.568Z",
+  "updatedAt": "2026-08-24T03:46:00.130Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxON19EV0MxcUtiZ0VOdU5FWEtnTmRjVzFibHNDQ3RwMEs2dWRqQW9vOVptVXhYeWV1SmtIanRoMkVKNDltNUd6UjZYSUhhWjRGc01lT1RQWmxDU1B4MkE0TjdJX1hCUlp4Wm1HV1RBRHVQNGhiX1Q2WDg3Z0I5X0gxNDNnYkJZT1M3",
@@ -13,23 +13,20 @@
         {
           "symbol": "2013",
           "name": "中鋼構",
-          "point": "手握科技廠與高樓大廈大單",
-          "limitUp": false
+          "point": "手握科技廠與高樓大廈大單"
         },
         {
           "symbol": "2211",
           "name": "長榮鋼",
-          "point": "工程案量充沛，出貨量可望創高",
-          "limitUp": false
+          "point": "工程案量充沛，出貨量可望創全年高點"
         },
         {
           "symbol": "9958",
           "name": "世紀鋼",
-          "point": "產能升級收割，離岸風電訂單交貨高峰",
-          "limitUp": false
+          "point": "離岸風電國產化訂單邁入交貨高峰"
         }
       ],
-      "background": "鋼構產業受惠半導體建廠潮與離岸風電專案趕工，訂單能見度高，加工費利差為核心利基，擺脫傳統鋼鐵業淡季。",
+      "background": "鋼構產業受惠於半導體建廠潮與離岸風電專案趕工，第四季營運表現可期，擺脫傳統鋼鐵業淡季陰霾。",
       "themeTags": [
         "需求驅動",
         "政策關稅"
@@ -183,20 +180,137 @@
         {
           "symbol": "2344",
           "name": "華邦電",
-          "point": "利基型DRAM及SLC NAND產品布局",
-          "limitUp": false
+          "point": "具利基型DRAM及SLC NAND產品布局"
         },
         {
           "symbol": "2408",
           "name": "南亞科",
-          "point": "DRAM需求外溢，客製化AI UWIO記憶體貢獻營收",
-          "limitUp": false
+          "point": "DDR5營收占比約10％，客製化AI UWIO記憶體貢獻營收"
         }
       ],
-      "background": "AI記憶體版圖由HBM單一路線轉向多層次分工，SRAM、DDR/LPDDR、CXL及NAND需求同步增加，台廠迎新商機。",
+      "background": "AI記憶體版圖由HBM單一路線轉向多層次分工，SRAM、DDR/LPDDR、CXL及NAND需求增加，台廠有望受惠。",
       "themeTags": [
-        "需求驅動",
-        "國際大廠"
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMikgFBVV95cUxNODJuaERxMzN4ektEMWpNTFRBX3I0dG1zRnBKQlpLWDFVTVNCQXB5dEV3Q0gyOUlzSnE0OFFxUHp0ZGJmWlJqRkpIeFhaOEcwNUMyck9YSV9iTXBPclJPMFJsLTFnXzZMSFFiaEY2bW5ZMmxYMDRuRFJXNmE4Q00xVEZ2WUpGSThUQ2VleVR1NjFxQQ",
+      "tkey": "熱門族群15檔營收步步高法人力挺",
+      "title": "《熱門族群》15檔營收步步高 法人力挺 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6279263001&pu=News_0002_3",
+      "source": "富聯網",
+      "pubDate": "Sat, 22 Aug 2026 08:43:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "營收逐月走高，獲法人單周買盤進駐",
+          "status": "逼近新高",
+          "dist": -9.6,
+          "luw": 1,
+          "luwd": [
+            "8/17"
+          ]
+        },
+        {
+          "symbol": "2603",
+          "name": "長榮",
+          "point": "營收逐月走高，獲法人單周買盤進駐",
+          "status": "逼近新高",
+          "dist": -1.9
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "營收逐月走高，獲法人單周買盤進駐"
+        },
+        {
+          "symbol": "2609",
+          "name": "陽明",
+          "point": "營收逐月走高，獲法人單周買盤進駐"
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "營收逐月走高，獲法人單周買盤進駐",
+          "status": "逼近新高",
+          "dist": -8.8,
+          "luw": 1,
+          "luwd": [
+            "8/17"
+          ]
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "營收逐月走高，獲法人單周買盤進駐",
+          "status": "高檔修正",
+          "dist": -14.7
+        },
+        {
+          "symbol": "2615",
+          "name": "萬海",
+          "point": "營收逐月走高，獲法人單周買盤進駐",
+          "luw": 2,
+          "luwd": [
+            "8/21",
+            "8/17"
+          ]
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "point": "營收逐月走高，獲法人單周買盤進駐",
+          "status": "逼近新高",
+          "dist": -9.2
+        },
+        {
+          "symbol": "3234",
+          "name": "威剛",
+          "point": "營收逐月走高，獲法人單周買盤進駐",
+          "status": "逼近新高",
+          "dist": -0.6
+        },
+        {
+          "symbol": "6269",
+          "name": "聯茂",
+          "point": "營收逐月走高，獲法人單周買盤進駐"
+        },
+        {
+          "symbol": "2059",
+          "name": "川湖",
+          "point": "營收逐月走高，獲法人單周買盤進駐",
+          "status": "逼近新高",
+          "dist": -2.9,
+          "luw": 1,
+          "luwd": [
+            "8/17"
+          ]
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "營收逐月走高，獲法人單周買盤進駐"
+        },
+        {
+          "symbol": "6805",
+          "name": "富世達",
+          "point": "營收逐月走高，獲法人單周買盤進駐"
+        },
+        {
+          "symbol": "5289",
+          "name": "宜鼎",
+          "point": "營收逐月走高，獲法人單周買盤進駐"
+        },
+        {
+          "symbol": "4903",
+          "name": "聯鈞",
+          "point": "營收逐月走高，獲法人單周買盤進駐"
+        }
+      ],
+      "background": "台股企業基本面強勁，受惠AI出貨動能，多檔個股營收逐月成長，法人買盤進駐，有望帶動指數攻高。",
+      "themeTags": [
+        "需求驅動"
       ]
     },
     {
@@ -240,6 +354,43 @@
       ]
     },
     {
+      "gid": "CBMiiAFBVV95cUxNNXNOSi0tTE9SUFFNcTAyN3cxcTNzdTVuU0Vjb2NEbXpRaDljcjBKSTcwOE5RWDJvWmlnRzJVdDMwbTQ1bW1KVXFxZTIzb2pvLVFhVlhDa3ZIbnJfQk11dnpjZGpobkpVZ0lBWWFDa2M3M0Y5bHN6LWg0Z0RLeDdObGdHQ1QwdlZX",
+      "tkey": "熱門族群液冷升級散熱三雄迎新商機",
+      "title": "《熱門族群》液冷升級 散熱三雄迎新商機 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6279195001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sat, 22 Aug 2026 07:09:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "具備水冷板設計、液冷系統整合能力",
+          "status": "高檔修正",
+          "dist": -13
+        },
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "point": "具備水冷板設計、液冷系統整合能力"
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "具備水冷板設計、液冷系統整合能力",
+          "status": "逼近新高",
+          "dist": -8.8,
+          "luw": 1,
+          "luwd": [
+            "8/17"
+          ]
+        }
+      ],
+      "background": "AI液冷散熱技術升級，雙面水冷架構浮現，增加水冷板使用量與產品複雜度，散熱大廠迎新商機。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxQSi1RazhXZ0Q1WldadFdoLWtaSHp6SjRwcVJyazdHb2pWNkEzb3pOSXUzdUt6TW41T1ZpUkZib0Nuamx6T2tZMEg4QjNCYm85amkzQnRYY2RkMF8xOFVvOGRyNjJTWk0tMVBtQ0Y0RzJXU19HUVhyWjJTZmlZWkhMMXlEQ0JyUXlr",
       "tkey": "熱門族群國旅補助開跑餐旅觀光股吃補",
       "title": "《熱門族群》國旅補助開跑 餐旅觀光股吃補 - 富聯網",
@@ -250,9 +401,7 @@
         {
           "symbol": "2723",
           "name": "美食-KY",
-          "point": "第二季獲利創近五年單季新高，亮燈漲停",
-          "limitUp": true,
-          "pct": 9.9,
+          "point": "第二季獲利創近五年單季新高，盤中漲停",
           "luw": 1,
           "luwd": [
             "8/21"
@@ -261,41 +410,35 @@
         {
           "symbol": "2739",
           "name": "寒舍",
-          "point": "第二季稅後純益飆升，營收獲利創同期新高",
-          "limitUp": false
+          "point": "第二季稅純益飆升，EPS大增"
         },
         {
           "symbol": "2722",
           "name": "夏都",
-          "point": "國旅補助開跑，股價紅盤表現",
-          "limitUp": false
+          "point": "紅盤表現"
         },
         {
           "symbol": "2712",
           "name": "遠雄來",
-          "point": "國旅補助開跑，股價紅盤表現",
-          "limitUp": false
+          "point": "紅盤表現"
         },
         {
           "symbol": "2748",
           "name": "雲品",
-          "point": "國旅補助開跑，股價紅盤表現",
-          "limitUp": false
+          "point": "紅盤表現"
         },
         {
           "symbol": "2707",
           "name": "晶華",
-          "point": "國旅補助開跑，股價紅盤表現",
-          "limitUp": false
+          "point": "紅盤表現"
         },
         {
           "symbol": "2736",
           "name": "富野",
-          "point": "國旅補助開跑，股價紅盤表現",
-          "limitUp": false
+          "point": "紅盤表現"
         }
       ],
-      "background": "國旅補助方案開跑，交通部觀光署投入33.3億元預算，刺激國內旅遊需求，餐旅觀光股受惠。",
+      "background": "國旅補助方案開跑，觀光、飯店股受惠，預算上看33.3億元，刺激國內旅遊需求，帶動相關業者營收獲利。",
       "themeTags": [
         "政策關稅",
         "需求驅動"
