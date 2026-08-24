@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "updatedAt": "2026-08-24T06:02:18.008Z",
+  "updatedAt": "2026-08-24T06:35:32.977Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxON19EV0MxcUtiZ0VOdU5FWEtnTmRjVzFibHNDQ3RwMEs2dWRqQW9vOVptVXhYeWV1SmtIanRoMkVKNDltNUd6UjZYSUhhWjRGc01lT1RQWmxDU1B4MkE0TjdJX1hCUlp4Wm1HV1RBRHVQNGhiX1Q2WDg3Z0I5X0gxNDNnYkJZT1M3",
@@ -13,20 +13,20 @@
         {
           "symbol": "2013",
           "name": "中鋼構",
-          "point": "手握科技廠與高樓大廈大單"
+          "point": "手握科技廠與高樓大廈大單，滿單至年底"
         },
         {
           "symbol": "2211",
           "name": "長榮鋼",
-          "point": "工程案量充沛，Q4出貨量可望創高"
+          "point": "工程案量充沛，Q4出貨量可望創全年高點"
         },
         {
           "symbol": "9958",
           "name": "世紀鋼",
-          "point": "產能升級收割期，Q4營收毛利率雙回升"
+          "point": "下半年迎產能升級，離岸風電訂單邁入交貨高峰"
         }
       ],
-      "background": "鋼構產業受惠半導體建廠潮與離岸風電專案趕工，訂單能見度高。加工費利差與工程交期為核心利基，擺脫傳統鋼鐵業淡季。",
+      "background": "鋼構產業受惠半導體建廠潮與離岸風電專案趕工，訂單能見度高，第四季營運表現可期，擺脫傳統淡季陰霾。",
       "themeTags": [
         "需求驅動",
         "政策關稅"
@@ -140,14 +140,15 @@
           "point": "營收逐月走高，法人買超"
         },
         {
-          "symbol": "4903",
+          "symbol": "3450",
           "name": "聯鈞",
           "point": "營收逐月走高，法人買超"
         }
       ],
-      "background": "台股企業基本面強勁，受惠AI出貨動能，營收與獲利逐季升溫。下半年行情偏多，可留意先進製程、光通訊、CCL、電源、IP等族群。",
+      "background": "台股企業基本面強勁，受惠AI出貨動能，營收與獲利逐季升溫，法人買盤進駐，有望帶動指數攻高。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "循環位置"
       ]
     },
     {
@@ -166,10 +167,10 @@
         {
           "symbol": "2408",
           "name": "南亞科",
-          "point": "DDR5營收占比可依需求提高，UWIO記憶體貢獻營收"
+          "point": "DDR5營收占比可提高，客製化AI UWIO記憶體貢獻營收"
         }
       ],
-      "background": "AI記憶體版圖由HBM單一路線轉向多層次分工，SRAM、HBM、DDR/LPDDR、CXL及NAND需求同步增加。台廠華邦電、南亞科有望迎新商機。",
+      "background": "AI記憶體版圖由HBM單一路線轉向多層次分工，SRAM、DRAM、NAND需求同步增加，台廠華邦電、南亞科迎新商機。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
@@ -365,7 +366,7 @@
           ]
         }
       ],
-      "background": "AI液冷散熱技術升級，雙面水冷架構浮現，增加水冷板用量與單機價值。散熱大廠受惠新設計帶來的商機。",
+      "background": "AI晶片功耗提高，液冷散熱技術升級，雙面水冷架構與高精度微通道設計需求增加，散熱大廠迎新商機。",
       "themeTags": [
         "需求驅動"
       ]
