@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-24T12:36:15.718+08:00",
-  "generatedAt": "2026-08-24T04:36:15.718Z",
+  "asOf": "2026-08-24T13:02:03.782+08:00",
+  "generatedAt": "2026-08-24T05:02:03.782Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -106,18 +106,6 @@
       "limitUp": false
     },
     {
-      "symbol": "3260",
-      "name": "威剛",
-      "days": 3,
-      "dates": [
-        "8/24",
-        "8/22",
-        "8/20"
-      ],
-      "mentions": 4,
-      "limitUp": false
-    },
-    {
       "symbol": "2383",
       "name": "台光電",
       "days": 3,
@@ -129,6 +117,30 @@
       "mentions": 4,
       "status": "高檔修正",
       "dist": -14.7,
+      "limitUp": false
+    },
+    {
+      "symbol": "3532",
+      "name": "台勝科",
+      "days": 3,
+      "dates": [
+        "8/22",
+        "8/20",
+        "8/18"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "3260",
+      "name": "威剛",
+      "days": 3,
+      "dates": [
+        "8/24",
+        "8/22",
+        "8/20"
+      ],
+      "mentions": 3,
       "limitUp": false
     },
     {
@@ -156,13 +168,13 @@
       "limitUp": false
     },
     {
-      "symbol": "3532",
-      "name": "台勝科",
+      "symbol": "6274",
+      "name": "台燿",
       "days": 3,
       "dates": [
+        "8/24",
         "8/22",
-        "8/20",
-        "8/18"
+        "8/21"
       ],
       "mentions": 3,
       "limitUp": false
@@ -299,19 +311,6 @@
       "limitUp": false
     },
     {
-      "symbol": "3450",
-      "name": "聯鈞",
-      "days": 2,
-      "dates": [
-        "8/24",
-        "8/22"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -13.4,
-      "limitUp": false
-    },
-    {
       "symbol": "4991",
       "name": "環宇-KY",
       "days": 2,
@@ -338,17 +337,6 @@
       "luwd": [
         "8/17"
       ]
-    },
-    {
-      "symbol": "6274",
-      "name": "台燿",
-      "days": 2,
-      "dates": [
-        "8/24",
-        "8/21"
-      ],
-      "mentions": 2,
-      "limitUp": false
     },
     {
       "symbol": "1815",
@@ -393,6 +381,17 @@
     {
       "symbol": "4971",
       "name": "IET-KY",
+      "days": 2,
+      "dates": [
+        "8/21",
+        "8/20"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3363",
+      "name": "上詮",
       "days": 2,
       "dates": [
         "8/21",
@@ -511,8 +510,7 @@
           "point": "記憶體模組廠鎖住漲停",
           "status": "逼近新高",
           "dist": -1.2,
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "3260",
