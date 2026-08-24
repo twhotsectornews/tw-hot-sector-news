@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-24T12:02:51.807+08:00",
-  "generatedAt": "2026-08-24T04:02:51.807Z",
+  "asOf": "2026-08-24T12:36:15.718+08:00",
+  "generatedAt": "2026-08-24T04:36:15.718Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -65,7 +65,7 @@
         "8/20",
         "8/18"
       ],
-      "mentions": 10,
+      "mentions": 11,
       "limitUp": false
     },
     {
@@ -78,7 +78,31 @@
         "8/20",
         "8/18"
       ],
-      "mentions": 5,
+      "mentions": 6,
+      "limitUp": false
+    },
+    {
+      "symbol": "6770",
+      "name": "力積電",
+      "days": 3,
+      "dates": [
+        "8/24",
+        "8/20",
+        "8/18"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "2337",
+      "name": "旺宏",
+      "days": 3,
+      "dates": [
+        "8/24",
+        "8/20",
+        "8/18"
+      ],
+      "mentions": 4,
       "limitUp": false
     },
     {
@@ -108,42 +132,6 @@
       "limitUp": false
     },
     {
-      "symbol": "3532",
-      "name": "台勝科",
-      "days": 3,
-      "dates": [
-        "8/22",
-        "8/20",
-        "8/18"
-      ],
-      "mentions": 4,
-      "limitUp": false
-    },
-    {
-      "symbol": "6770",
-      "name": "力積電",
-      "days": 3,
-      "dates": [
-        "8/24",
-        "8/20",
-        "8/18"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "2337",
-      "name": "旺宏",
-      "days": 3,
-      "dates": [
-        "8/24",
-        "8/20",
-        "8/18"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
       "symbol": "3105",
       "name": "穩懋",
       "days": 3,
@@ -163,6 +151,18 @@
         "8/24",
         "8/20",
         "8/19"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "3532",
+      "name": "台勝科",
+      "days": 3,
+      "dates": [
+        "8/22",
+        "8/20",
+        "8/18"
       ],
       "mentions": 3,
       "limitUp": false
@@ -299,6 +299,19 @@
       "limitUp": false
     },
     {
+      "symbol": "3450",
+      "name": "聯鈞",
+      "days": 2,
+      "dates": [
+        "8/24",
+        "8/22"
+      ],
+      "mentions": 2,
+      "status": "高檔修正",
+      "dist": -13.4,
+      "limitUp": false
+    },
+    {
       "symbol": "4991",
       "name": "環宇-KY",
       "days": 2,
@@ -387,20 +400,49 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "3363",
-      "name": "上詮",
-      "days": 2,
-      "dates": [
-        "8/21",
-        "8/20"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiakFVX3lxTFBGdDNhZFlrTGJmQ2VsX3lZelBEQnBJeXRpTWItX1huMG11OFJ2ZXR1dHlQU281YnUxMXdtLXJsd0FoMk5qUU02ZVhzS0l5a0V3VFNtcEFSYy1rQXl3bVB2Q1I4dEVFYWZVSWc",
+      "tkey": "熱門族群記憶體四雄超人氣！力積電飆漲半根華邦電爆量進前十-上市櫃",
+      "title": "《熱門族群》記憶體四雄超人氣！力積電飆漲半根華邦電爆量進前十- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260824900197-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Mon, 24 Aug 2026 02:46:32 GMT",
+      "stocks": [
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "盤中大漲半根漲停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "盤中漲幅約3%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "股價在平盤附近震盪",
+          "limitUp": false
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "股價小幅拉回",
+          "limitUp": false
+        }
+      ],
+      "background": "記憶體族群受AI伺服器需求快速成長影響，DRAM與NAND合約價格持續上漲，產業景氣轉折向上。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNLTNtZ2ZXeFJ4VHQ2c3N4SEdyX0lRc0x2MkVEcVdPRDJ3cllzT3hjdEs1ZktNQkZfVE5wR21FVGdjTXNtSmx5eGxpNFlrWW40Z3ZOWE1PV0FmSGhxTExtSEE4djRuRlV2OWJDWWNpYmNVUEZvZy1kQWwwazNNWno0LXZSaldsd2s1",
       "tkey": "熱門族群記憶體四雄超人氣！力積電飆漲半根華邦電爆量進前十",
@@ -469,7 +511,8 @@
           "point": "記憶體模組廠鎖住漲停",
           "status": "逼近新高",
           "dist": -1.2,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "3260",
@@ -585,6 +628,32 @@
         }
       ],
       "background": "貨櫃與散裝運價指數雙雙續揚，SCFI連4漲，BDI指數續漲。颱風生成預期影響運輸，推升海岬型與巴拿馬型船運價。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTE40dEsxT3ozbEo4NkROWnh5VWo4TVFKZEJPNmZhSWRmUjhSMzF0Y09FM3VhaVpWR09rSU15aEhMYkNkcGVyT3Z2TXp4VnE4Ymo1dVNieXJjZW9DckFoUkdicklpbVhGSVV5bnc",
+      "tkey": "熱門族群AI把高速傳輸推上風口！祥碩、譜瑞-KY迎升級商機-上市櫃",
+      "title": "《熱門族群》AI把高速傳輸推上風口！祥碩、譜瑞-KY迎升級商機- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260824900167-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Mon, 24 Aug 2026 01:56:32 GMT",
+      "stocks": [
+        {
+          "symbol": "5269",
+          "name": "祥碩",
+          "point": "PCIe Switch與USB4控制晶片受惠",
+          "limitUp": false
+        },
+        {
+          "symbol": "4966",
+          "name": "譜瑞-KY",
+          "point": "產品線完整橫跨PCIe、乙太網路及USB4",
+          "limitUp": false
+        }
+      ],
+      "background": "AI伺服器技術規格全面升級，推動高速傳輸介面需求，Retimer與Redriver晶片重要性提升。",
       "themeTags": [
         "需求驅動"
       ]
