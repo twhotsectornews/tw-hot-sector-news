@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-24T14:35:32.980+08:00",
-  "generatedAt": "2026-08-24T06:35:32.980Z",
+  "asOf": "2026-08-24T17:41:13.547+08:00",
+  "generatedAt": "2026-08-24T09:41:13.547Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -191,6 +191,23 @@
       "limitUp": false
     },
     {
+      "symbol": "3008",
+      "name": "大立光",
+      "days": 2,
+      "dates": [
+        "8/24",
+        "8/23"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -6.3,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "8/17"
+      ]
+    },
+    {
       "symbol": "3443",
       "name": "創意",
       "days": 2,
@@ -333,23 +350,6 @@
       "limitUp": false
     },
     {
-      "symbol": "3008",
-      "name": "大立光",
-      "days": 2,
-      "dates": [
-        "8/24",
-        "8/23"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -5,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "8/17"
-      ]
-    },
-    {
       "symbol": "1815",
       "name": "富喬",
       "days": 2,
@@ -402,6 +402,32 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE0xczUzZWN3STdtNlEyTjNPNEs5ZnNFbW4xeExlUmkyRXFNWVhJZkljTmtub2trYVYyNEJtVXA5YTlFOXByNU92aUFTVE1TZHlZcERJME5NRkw",
+      "tkey": "熱門族群受惠CPO題材大立光領軍光學族群上衝",
+      "title": "熱門族群》受惠CPO題材 大立光領軍光學族群上衝 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/b4kt7zt65bh5",
+      "source": "自由時報",
+      "pubDate": "Mon, 24 Aug 2026 04:42:13 GMT",
+      "stocks": [
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "受惠CPO題材領軍光學族群上衝",
+          "status": "逼近新高",
+          "dist": -6.3,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/17"
+          ]
+        }
+      ],
+      "background": "光學族群受惠CPO（共同封裝光學）題材，市場預期將帶動相關光學元件需求，大立光為台灣光學鏡頭龍頭。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiakFVX3lxTFBGdDNhZFlrTGJmQ2VsX3lZelBEQnBJeXRpTWItX1huMG11OFJ2ZXR1dHlQU281YnUxMXdtLXJsd0FoMk5qUU02ZVhzS0l5a0V3VFNtcEFSYy1rQXl3bVB2Q1I4dEVFYWZVSWc",
       "tkey": "熱門族群記憶體四雄超人氣！力積電飆漲半根華邦電爆量進前十-上市櫃",
