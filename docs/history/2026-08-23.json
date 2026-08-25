@@ -1,7 +1,21 @@
 {
   "date": "2026-08-23",
-  "updatedAt": "2026-08-25T03:02:49.865Z",
+  "updatedAt": "2026-08-25T03:40:20.200Z",
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE1QMlljSHdzYmNEV3VfTUYwWHc0ekZIdlVHXzVKNFFsTktsRC1BYWctVFhRMk5meVBzVFNsSzRsQkpZcGVvNzlrRU5ZNm9waU9UdFdoVV9LdWQ",
+      "tkey": "熱門族群運價高檔持穩貨櫃三雄逆風揚帆",
+      "title": "熱門族群》運價高檔持穩 貨櫃三雄逆風揚帆 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/gwdtry3nre90",
+      "source": "自由時報",
+      "pubDate": "Sun, 23 Aug 2026 10:34:17 GMT",
+      "stocks": [],
+      "background": "貨櫃航運受惠於運價維持高檔，主要受地緣政治衝突影響，導致航線繞道與運力吃緊，產業景氣處於復甦階段。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiZEFVX3lxTE9FX183dF9lNEs2YTdmbXVqSEpBTWRma1JvYU10aHNncDhKeC1YajR6U2RQY08wejA1WnBScGVFTDJENWNyOFZRRkUwZnktaGdWUmF2UmtmT3Q5dWhkMUdVNS0yaUQ",
       "tkey": "熱門族群蘋果新機將亮相光學鏡頭族群活力再起",
