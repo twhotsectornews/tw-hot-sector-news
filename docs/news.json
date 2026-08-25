@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-25T14:26:39.425+08:00",
-  "generatedAt": "2026-08-25T06:26:39.425Z",
+  "asOf": "2026-08-25T17:41:18.086+08:00",
+  "generatedAt": "2026-08-25T09:41:18.086Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -176,7 +176,7 @@
         "8/24",
         "8/23"
       ],
-      "mentions": 3,
+      "mentions": 4,
       "status": "逼近新高",
       "dist": -6.3,
       "limitUp": false
@@ -215,6 +215,24 @@
       "status": "逼近新高",
       "dist": -8.7,
       "limitUp": false
+    },
+    {
+      "symbol": "4979",
+      "name": "華星光",
+      "days": 2,
+      "dates": [
+        "8/24",
+        "8/21"
+      ],
+      "mentions": 3,
+      "luw": 5,
+      "luwd": [
+        "8/24",
+        "8/21",
+        "8/20",
+        "8/19",
+        "8/18"
+      ]
     },
     {
       "symbol": "3037",
@@ -270,17 +288,6 @@
       "dates": [
         "8/24",
         "8/22"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "4979",
-      "name": "華星光",
-      "days": 2,
-      "dates": [
-        "8/24",
-        "8/21"
       ],
       "mentions": 2,
       "limitUp": false
@@ -779,6 +786,45 @@
       ]
     },
     {
+      "gid": "CBMiWEFVX3lxTFA5OG54RDRaVHMybzVpeFlZMm5JODZxLTlsQXVEc3l6bE5FR09nWUpQRVZaX3FLMU0yZmdxR0FOVHZkNDdNaS10cDc5ZkxSOTdjVDhEOWtiQnM",
+      "tkey": "大盤無量4熱門族群大風吹！華星光、聯亞飆股訊號最強",
+      "title": "大盤無量「4熱門族群大風吹」！華星光、聯亞飆股訊號最強 - CMoney",
+      "url": "https://www.cmoney.tw/forum/article/182892580",
+      "source": "CMoney",
+      "pubDate": "Mon, 24 Aug 2026 02:12:31 GMT",
+      "stocks": [
+        {
+          "symbol": "4979",
+          "name": "華星光",
+          "point": "飆股訊號最強",
+          "luw": 5,
+          "luwd": [
+            "8/24",
+            "8/21",
+            "8/20",
+            "8/19",
+            "8/18"
+          ]
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "有CPO題材，股價上漲",
+          "status": "逼近新高",
+          "dist": -0.5
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "AI伺服器營收過半，股價被打壓"
+        }
+      ],
+      "background": "大盤無量下，光通訊、AI伺服器等族群表現分歧，主力洗盤手法多變，散戶需謹慎判斷。AI伺服器需求持續增長，但iPhone銷售預期影響部分個股表現。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiakFVX3lxTE40dEsxT3ozbEo4NkROWnh5VWo4TVFKZEJPNmZhSWRmUjhSMzF0Y09FM3VhaVpWR09rSU15aEhMYkNkcGVyT3Z2TXp4VnE4Ymo1dVNieXJjZW9DckFoUkdicklpbVhGSVV5bnc",
       "tkey": "熱門族群AI把高速傳輸推上風口！祥碩、譜瑞-KY迎升級商機-上市櫃",
       "title": "《熱門族群》AI把高速傳輸推上風口！祥碩、譜瑞-KY迎升級商機- 上市櫃 - 旺得富理財網",
@@ -842,7 +888,15 @@
           "symbol": "4979",
           "name": "華星光",
           "point": "CPO光通訊表現最強勢",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "8/24",
+            "8/21",
+            "8/20",
+            "8/19",
+            "8/18"
+          ]
         },
         {
           "symbol": "3081",
