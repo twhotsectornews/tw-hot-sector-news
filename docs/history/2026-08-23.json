@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "updatedAt": "2026-08-24T11:06:06.502Z",
+  "updatedAt": "2026-08-25T03:02:49.865Z",
   "news": [
     {
       "gid": "CBMiZEFVX3lxTE9FX183dF9lNEs2YTdmbXVqSEpBTWRma1JvYU10aHNncDhKeC1YajR6U2RQY08wejA1WnBScGVFTDJENWNyOFZRRkUwZnktaGdWUmF2UmtmT3Q5dWhkMUdVNS0yaUQ",
@@ -16,21 +16,13 @@
           "point": "受惠旺季商機，股價一路走高",
           "status": "逼近新高",
           "dist": -2.4,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/17"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3406",
           "name": "玉晶光",
           "point": "第三季需求增加，動能優於去年同期",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/17"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3362",
@@ -64,10 +56,9 @@
           "point": "盤中攻上漲停，週漲幅居三雄之冠",
           "limitUp": true,
           "pct": 9.7,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "8/21",
-            "8/17"
+            "8/21"
           ]
         },
         {
