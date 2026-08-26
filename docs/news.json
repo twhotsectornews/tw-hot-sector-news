@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-26T14:27:52.769+08:00",
-  "generatedAt": "2026-08-26T06:27:52.769Z",
+  "asOf": "2026-08-26T17:42:01.985+08:00",
+  "generatedAt": "2026-08-26T09:42:01.985Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -134,7 +134,22 @@
         "8/24",
         "8/23"
       ],
-      "mentions": 5,
+      "mentions": 6,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": true,
+      "pct": 10
+    },
+    {
+      "symbol": "3443",
+      "name": "創意",
+      "days": 3,
+      "dates": [
+        "8/26",
+        "8/24",
+        "8/22"
+      ],
+      "mentions": 4,
       "status": "創新高",
       "dist": 0,
       "limitUp": true,
@@ -191,7 +206,16 @@
         "8/20"
       ],
       "mentions": 3,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10,
+      "luw": 5,
+      "luwd": [
+        "8/25",
+        "8/24",
+        "8/21",
+        "8/20",
+        "8/19"
+      ]
     },
     {
       "symbol": "3081",
@@ -205,7 +229,16 @@
       "mentions": 3,
       "status": "創新高",
       "dist": -0.3,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10,
+      "luw": 5,
+      "luwd": [
+        "8/25",
+        "8/24",
+        "8/21",
+        "8/20",
+        "8/19"
+      ]
     },
     {
       "symbol": "2612",
@@ -244,6 +277,20 @@
       "limitUp": false
     },
     {
+      "symbol": "3653",
+      "name": "健策",
+      "days": 2,
+      "dates": [
+        "8/26",
+        "8/22"
+      ],
+      "mentions": 5,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": true,
+      "pct": 10
+    },
+    {
       "symbol": "6770",
       "name": "力積電",
       "days": 2,
@@ -263,19 +310,6 @@
         "8/20"
       ],
       "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "3443",
-      "name": "創意",
-      "days": 2,
-      "dates": [
-        "8/24",
-        "8/22"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -8.7,
       "limitUp": false
     },
     {
@@ -395,20 +429,48 @@
       "status": "逼近新高",
       "dist": -6.5,
       "limitUp": false
-    },
-    {
-      "symbol": "5289",
-      "name": "宜鼎",
-      "days": 2,
-      "dates": [
-        "8/24",
-        "8/22"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOZl9iWTljWW9kQVZEQXJVR0IwRGpsVFFfMkd4MEZMaG1OaEZTWW15X21jMGdFaUMtdEV2Nm1UOWJZOTAzdWJScUI1aGRfOWhSeGs4ZmtKaVI5T281ZG9YM2pGZ2ctY0dPSm4wb01Rd25DN0xwVUdsckFfX2RpUkVfR21hMW56QUhR",
+      "tkey": "熱門族群千金股奔放大立光、創意、健策漲停創新高",
+      "title": "《熱門族群》千金股奔放 大立光、創意、健策漲停創新高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6282788001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 26 Aug 2026 05:40:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "擴建光纖陣列試產線利多，股價漲停創新高",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "point": "股價漲停創新高",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "股價漲停創新高",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 10
+        }
+      ],
+      "background": "千金股為高價股的代稱，通常具備高獲利能力與市場領導地位。大立光受惠於光纖陣列試產線擴建利多，帶動股價表現。",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxPSndKWDhPelVTenJMSnptbTl4VWVQZzJVcXJuR3dTNFBWdWN6OFlzaEtRdm85X3VvaXFmcVBKTE9ENDBPaTdJb2FtM2NWT2d1OWZmVWtOZV9GaDZXdzcxNTEwU3JEZFFBVnBDakIwYlYzREQ4RkdUT3BZaERvU3FDTHBQTVZwd2Fu",
       "tkey": "熱門族群SpaceX釋利多低軌衛星暖身預備備！",
@@ -546,7 +608,16 @@
           "point": "跟進衝頂",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.6,
+          "luw": 5,
+          "luwd": [
+            "8/25",
+            "8/24",
+            "8/21",
+            "8/20",
+            "8/19"
+          ]
         },
         {
           "symbol": "3406",
@@ -561,7 +632,16 @@
           "symbol": "8240",
           "name": "華宏",
           "point": "聯袂漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "8/25",
+            "8/24",
+            "8/21",
+            "8/20",
+            "8/19"
+          ]
         },
         {
           "symbol": "6226",
@@ -603,7 +683,16 @@
           "symbol": "4991",
           "name": "環宇-KY",
           "point": "聯袂漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "8/25",
+            "8/24",
+            "8/21",
+            "8/20",
+            "8/19"
+          ]
         },
         {
           "symbol": "4956",
@@ -651,7 +740,16 @@
           "point": "蓄勢挑戰歷史高",
           "status": "創新高",
           "dist": -0.3,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "8/25",
+            "8/24",
+            "8/21",
+            "8/20",
+            "8/19"
+          ]
         }
       ],
       "background": "CPO（共同封裝光學）技術受AI資料中心高速傳輸需求驅動，輝達財報與SEMICON Taiwan 2026聚焦矽光子，帶動相關供應鏈。",
