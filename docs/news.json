@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-26T12:30:54.875+08:00",
-  "generatedAt": "2026-08-26T04:30:54.875Z",
+  "asOf": "2026-08-26T13:02:22.997+08:00",
+  "generatedAt": "2026-08-26T05:02:22.997Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -67,7 +67,22 @@
         "8/21",
         "8/20"
       ],
-      "mentions": 4,
+      "mentions": 5,
+      "limitUp": false
+    },
+    {
+      "symbol": "2383",
+      "name": "台光電",
+      "days": 4,
+      "dates": [
+        "8/26",
+        "8/24",
+        "8/22",
+        "8/21"
+      ],
+      "mentions": 5,
+      "status": "逼近新高",
+      "dist": -9.4,
       "limitUp": false
     },
     {
@@ -137,20 +152,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2383",
-      "name": "台光電",
-      "days": 3,
-      "dates": [
-        "8/24",
-        "8/22",
-        "8/21"
-      ],
-      "mentions": 4,
-      "status": "高檔修正",
-      "dist": -14.7,
-      "limitUp": false
-    },
-    {
       "symbol": "1815",
       "name": "富喬",
       "days": 3,
@@ -176,8 +177,7 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -10,
-      "limitUp": true,
-      "pct": 9.8
+      "limitUp": false
     },
     {
       "symbol": "4991",
@@ -189,7 +189,8 @@
         "8/20"
       ],
       "mentions": 3,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "3081",
@@ -318,6 +319,17 @@
       "mentions": 3
     },
     {
+      "symbol": "2454",
+      "name": "聯發科",
+      "days": 2,
+      "dates": [
+        "8/26",
+        "8/24"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "1802",
       "name": "台玻",
       "days": 2,
@@ -350,7 +362,8 @@
         "8/20"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "4956",
@@ -391,22 +404,74 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "3450",
-      "name": "聯鈞",
-      "days": 2,
-      "dates": [
-        "8/24",
-        "8/22"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -13.4,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPSndKWDhPelVTenJMSnptbTl4VWVQZzJVcXJuR3dTNFBWdWN6OFlzaEtRdm85X3VvaXFmcVBKTE9ENDBPaTdJb2FtM2NWT2d1OWZmVWtOZV9GaDZXdzcxNTEwU3JEZFFBVnBDakIwYlYzREQ4RkdUT3BZaERvU3FDTHBQTVZwd2Fu",
+      "tkey": "熱門族群SpaceX釋利多低軌衛星暖身預備備！",
+      "title": "《熱門族群》SpaceX釋利多 低軌衛星暖身預備備！ - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6282704001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 26 Aug 2026 04:14:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6517",
+          "name": "保勝光學",
+          "point": "一度亮燈攻頂",
+          "limitUp": false
+        },
+        {
+          "symbol": "7717",
+          "name": "萊德光電-KY",
+          "point": "大漲9%、獲利登峰",
+          "limitUp": false
+        },
+        {
+          "symbol": "4906",
+          "name": "正文",
+          "point": "強彈逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "8027",
+          "name": "鈦昇",
+          "point": "強彈逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "強彈逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "強彈逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "強彈逾半根停板",
+          "status": "逼近新高",
+          "dist": -9.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "3491",
+          "name": "昇達科",
+          "point": "投信連買、營運高峰",
+          "limitUp": false
+        }
+      ],
+      "background": "SpaceX 衝刺太空 AI 進度超前，預計提前發射 AI 衛星，並擴建火箭發射基地，帶動低軌衛星台廠接單利多。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
     {
       "gid": "CBMikgFBVV95cUxOYmNjV2x6M0lGQURPa1FjOFdDV0dtTy10b1p2RUFkZHJxV2h0bWtkSXQyQ3dXTmk2MEZ5MThWRlk4d0xLY1hKaV9IcFFKRU0xMmNQS0d4TTI0V1NpaU5VSmVTMm1rNHlQOWNHMlhQU0k4Wk5YVUx1QS00Qko1bEVTdlR0ZERoQXFBZnRrYjNSUURBUQ",
       "tkey": "熱門族群玻纖布概念全面點火！富喬V轉續飆、南亞華麗變身",
@@ -447,8 +512,7 @@
           "point": "直接封頂",
           "status": "逼近新高",
           "dist": -10,
-          "limitUp": true,
-          "pct": 9.8
+          "limitUp": false
         }
       ],
       "background": "AI伺服器及高速運算需求持續強勁，推升PCB上游材料玻纖布需求，部分高階產品可能供給吃緊帶動報價上揚。",
@@ -501,7 +565,8 @@
           "point": "聯袂漲停",
           "status": "逼近新高",
           "dist": -2.8,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 2,
           "luwd": [
             "8/25",
@@ -526,13 +591,15 @@
           "symbol": "4977",
           "name": "眾達-KY",
           "point": "聯袂漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "4991",
           "name": "環宇-KY",
           "point": "聯袂漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "4956",
