@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-26T13:24:26.374+08:00",
-  "generatedAt": "2026-08-26T05:24:26.374Z",
+  "asOf": "2026-08-26T14:02:09.084+08:00",
+  "generatedAt": "2026-08-26T06:02:09.084Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -178,7 +178,8 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -10,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.8
     },
     {
       "symbol": "4991",
@@ -351,7 +352,8 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -7.2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "4977",
@@ -362,7 +364,8 @@
         "8/20"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "4956",
@@ -511,7 +514,8 @@
           "point": "直接封頂",
           "status": "逼近新高",
           "dist": -10,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         }
       ],
       "background": "AI伺服器及高速運算需求持續強勁，推升PCB上游材料玻纖布需求，部分高階產品可能供給吃緊帶動報價上揚。",
@@ -550,7 +554,8 @@
           "point": "同步大漲",
           "status": "逼近新高",
           "dist": -7.2,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "8240",
@@ -564,7 +569,8 @@
           "point": "聯袂漲停",
           "status": "逼近新高",
           "dist": -2.8,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 2,
           "luwd": [
             "8/25",
@@ -590,7 +596,8 @@
           "symbol": "4977",
           "name": "眾達-KY",
           "point": "聯袂漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "4991",
