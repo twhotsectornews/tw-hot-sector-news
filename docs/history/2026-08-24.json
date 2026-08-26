@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "updatedAt": "2026-08-26T03:46:24.881Z",
+  "updatedAt": "2026-08-26T04:04:23.877Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE0xczUzZWN3STdtNlEyTjNPNEs5ZnNFbW4xeExlUmkyRXFNWVhJZkljTmtub2trYVYyNEJtVXA5YTlFOXByNU92aUFTVE1TZHlZcERJME5NRkw",
@@ -13,13 +13,12 @@
         {
           "symbol": "3008",
           "name": "大立光",
-          "point": "受惠CPO題材領軍光學族群上衝",
-          "status": "逼近新高",
-          "dist": -6.3,
-          "limitUp": false
+          "point": "受惠 CPO 題材領軍光學族群",
+          "status": "創新高",
+          "dist": 0
         }
       ],
-      "background": "光學族群受惠CPO（共同封裝光學）題材，市場預期將帶動相關光學元件需求，大立光為台灣光學鏡頭龍頭。",
+      "background": "CPO（共同封裝光學）技術受 AI 伺服器需求驅動，光學元件廠有望受惠，產業前景看好。",
       "themeTags": [
         "需求驅動"
       ]
