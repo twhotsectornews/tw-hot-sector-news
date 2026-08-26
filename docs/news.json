@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-26T13:02:22.997+08:00",
-  "generatedAt": "2026-08-26T05:02:22.997Z",
+  "asOf": "2026-08-26T13:24:26.374+08:00",
+  "generatedAt": "2026-08-26T05:24:26.374Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -137,7 +137,8 @@
       "mentions": 5,
       "status": "創新高",
       "dist": 0,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "2344",
@@ -189,8 +190,7 @@
         "8/20"
       ],
       "mentions": 3,
-      "limitUp": true,
-      "pct": 10
+      "limitUp": false
     },
     {
       "symbol": "3081",
@@ -362,8 +362,7 @@
         "8/20"
       ],
       "mentions": 2,
-      "limitUp": true,
-      "pct": 10
+      "limitUp": false
     },
     {
       "symbol": "4956",
@@ -534,7 +533,8 @@
           "point": "高鎖紅燈站上6字頭改寫歷史高",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "3441",
@@ -542,8 +542,7 @@
           "point": "跟進衝頂",
           "status": "創新高",
           "dist": 0,
-          "limitUp": true,
-          "pct": 9.6
+          "limitUp": false
         },
         {
           "symbol": "3406",
@@ -565,8 +564,7 @@
           "point": "聯袂漲停",
           "status": "逼近新高",
           "dist": -2.8,
-          "limitUp": true,
-          "pct": 10,
+          "limitUp": false,
           "luw": 2,
           "luwd": [
             "8/25",
@@ -579,7 +577,8 @@
           "point": "聯袂漲停逼近百元",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 3,
           "luwd": [
             "8/25",
@@ -591,15 +590,13 @@
           "symbol": "4977",
           "name": "眾達-KY",
           "point": "聯袂漲停",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "4991",
           "name": "環宇-KY",
           "point": "聯袂漲停",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "4956",
