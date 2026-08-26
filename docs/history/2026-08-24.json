@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "updatedAt": "2026-08-25T11:04:54.457Z",
+  "updatedAt": "2026-08-26T03:01:51.088Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE0xczUzZWN3STdtNlEyTjNPNEs5ZnNFbW4xeExlUmkyRXFNWVhJZkljTmtub2trYVYyNEJtVXA5YTlFOXByNU92aUFTVE1TZHlZcERJME5NRkw",
@@ -270,11 +270,11 @@
           "point": "飆股訊號最強",
           "luw": 5,
           "luwd": [
+            "8/25",
             "8/24",
             "8/21",
             "8/20",
-            "8/19",
-            "8/18"
+            "8/19"
           ]
         },
         {
@@ -362,11 +362,11 @@
           "limitUp": false,
           "luw": 5,
           "luwd": [
+            "8/25",
             "8/24",
             "8/21",
             "8/20",
-            "8/19",
-            "8/18"
+            "8/19"
           ]
         },
         {
@@ -467,7 +467,9 @@
           "symbol": "1815",
           "name": "富喬",
           "point": "外資買進PCB上游",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -8.9
         },
         {
           "symbol": "8358",

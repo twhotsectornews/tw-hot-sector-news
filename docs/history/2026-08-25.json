@@ -1,0 +1,151 @@
+{
+  "date": "2026-08-25",
+  "updatedAt": "2026-08-26T03:01:51.082Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQS0lfU245LWFnVWlIYUtZcWR5VXRoNmlTQ0pRVFB1MmEwUjNuLU1oVTFTSHo0RmM3OUNBMUMwazJoMzcxempfV05DRDRZanVnMVVZOVZEXzFjejRWM2tqemdZRzNpbFBEOXEwaXBOMTJSbTZLakkybGRSWG1waDN6bV9ic0x6czVz",
+      "tkey": "熱門族群避險資金大挪移金控成避風港富邦金領軍飆高6%",
+      "title": "《熱門族群》避險資金大挪移 金控成避風港 富邦金領軍飆高6% - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6281493001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 25 Aug 2026 02:08:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2881",
+          "name": "富邦金",
+          "point": "領軍飆高6%",
+          "status": "逼近新高",
+          "dist": -0.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "2882",
+          "name": "國泰金",
+          "point": "漲勢逾2%",
+          "status": "高檔修正",
+          "dist": -12.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "2880",
+          "name": "華南金",
+          "point": "漲勢逾2%",
+          "status": "逼近新高",
+          "dist": -9.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "2891",
+          "name": "中信金",
+          "point": "群起走高",
+          "status": "高檔修正",
+          "dist": -10.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "2884",
+          "name": "玉山金",
+          "point": "群起走高",
+          "status": "逼近新高",
+          "dist": -0.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "2883",
+          "name": "凱基金",
+          "point": "群起走高",
+          "status": "逼近新高",
+          "dist": -0.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "2887",
+          "name": "新光金",
+          "point": "群起走高",
+          "status": "逼近新高",
+          "dist": -2.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "2892",
+          "name": "第一金",
+          "point": "群起走高",
+          "status": "逼近新高",
+          "dist": -7.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "下跌20元",
+          "status": "逼近新高",
+          "dist": -6.5,
+          "limitUp": false
+        }
+      ],
+      "background": "在科技股面臨輝達財報前的高波動之際，資金轉進金融股避險，金控族群憑藉獲利與股利題材吸引資金。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPZ3Y4N0xERU1jWFBCLTFKcEw3bGt0ZFJaM0paTzd1R0c4Wm9PUXVJSG9mbEdFeEpTVjZyYjJBeHdneHdnaWIyNzhCc2c5bzhqR0N0N3lWMGpSSGkxN2gyRURBVkl1cHZrWndfSzFKbkxOSDNHZ0FXWjBiYVd0MVZ0VVJOQmJTY3pI",
+      "tkey": "熱門族群航運股續揚帆萬海、裕民再創新高",
+      "title": "《熱門族群》航運股續揚帆 萬海、裕民再創新高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6281488001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 25 Aug 2026 02:06:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2615",
+          "name": "萬海",
+          "point": "再創波段新高",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/21"
+          ]
+        },
+        {
+          "symbol": "2606",
+          "name": "裕民",
+          "point": "再創新高",
+          "status": "逼近新高",
+          "dist": -1.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "2609",
+          "name": "陽明",
+          "point": "成交前十名個股",
+          "limitUp": false
+        },
+        {
+          "symbol": "2603",
+          "name": "長榮",
+          "point": "高檔強勢整理",
+          "status": "逼近新高",
+          "dist": -2.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "2612",
+          "name": "中航",
+          "point": "續創本波新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "2637",
+          "name": "慧洋-KY",
+          "point": "股價反攻重回百元",
+          "status": "逼近新高",
+          "dist": -8.2,
+          "limitUp": false
+        }
+      ],
+      "background": "全球貨櫃航運市場運價持續走揚，第三季旺季效應催動，散裝運價指數續揚，帶動航運股業績看俏，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    }
+  ]
+}
