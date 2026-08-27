@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-27T11:03:08.891+08:00",
-  "generatedAt": "2026-08-27T03:03:08.891Z",
+  "asOf": "2026-08-27T12:02:31.212+08:00",
+  "generatedAt": "2026-08-27T04:02:31.212Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -103,6 +103,18 @@
       "limitUp": false
     },
     {
+      "symbol": "2408",
+      "name": "南亞科",
+      "days": 3,
+      "dates": [
+        "8/27",
+        "8/24",
+        "8/22"
+      ],
+      "mentions": 8,
+      "limitUp": false
+    },
+    {
       "symbol": "3008",
       "name": "大立光",
       "days": 3,
@@ -116,6 +128,24 @@
       "dist": 0,
       "limitUp": true,
       "pct": 10,
+      "luw": 1,
+      "luwd": [
+        "8/26"
+      ]
+    },
+    {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 3,
+      "dates": [
+        "8/27",
+        "8/26",
+        "8/21"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -1.1,
+      "limitUp": false,
       "luw": 1,
       "luwd": [
         "8/26"
@@ -205,17 +235,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2408",
-      "name": "南亞科",
-      "days": 2,
-      "dates": [
-        "8/24",
-        "8/22"
-      ],
-      "mentions": 6,
-      "limitUp": false
-    },
-    {
       "symbol": "3653",
       "name": "健策",
       "days": 2,
@@ -296,24 +315,6 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 2,
-      "dates": [
-        "8/26",
-        "8/21"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -10,
-      "limitUp": true,
-      "pct": 9.8,
-      "luw": 1,
-      "luwd": [
-        "8/26"
-      ]
     },
     {
       "symbol": "3406",
@@ -412,6 +413,124 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQbEJ3dVgyU0JlTDRySzRYR1hBYjR0c2N2X1RaY2E5OGFDWUFESHB5NXJTSHFHQVdxdDNYWHVIWVNYR3BtUlBFeEkySWRuYlZMT2pCSkRBckM5U1dfcVg0SnN4dFNxNElpMDd6UjBxWG1ac2VIMXBYZ0RyUDRlZ1Iwd1c2cURkTUpW",
+      "tkey": "熱門族群台塑集團全面噴出南亞、南電雙漲停南亞科創天價",
+      "title": "《熱門族群》台塑集團全面噴出 南亞、南電雙漲停 南亞科創天價 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6283735001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 27 Aug 2026 02:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "雙雙亮燈漲停",
+          "status": "逼近新高",
+          "dist": -1.1,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/26"
+          ]
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "雙雙亮燈漲停",
+          "status": "逼近新高",
+          "dist": -8.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "漲幅超過6%創天價",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "同步走強",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "同步走強",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "同步走強",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑集團受惠AI伺服器與資料中心需求帶動高階電子材料需求，石化景氣逐步進入傳統需求旺季，產業景氣落底回溫。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPN1NqN3BkcFVWSlpZdXV2dm9jY05Wdlg1Uzd5b0Q2amxBYnRLMkUxV0QzMDk3OHpRNnN3dEU2cjVqY2NBeTJFLUhZcno3Ujh4aDZ1VjlSSVNuaUhJU2RxMTdQZ2h2NWhQdTNTVmR1MGkyUW41WDd6ZWFmckY1STBzRUI5NnNzaEE0",
+      "tkey": "熱門族群南亞又漲停吸金！台塑四寶集體暴衝",
+      "title": "《熱門族群》南亞又漲停吸金！台塑四寶集體暴衝 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6283722001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 27 Aug 2026 02:46:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "延續漲停氣勢",
+          "status": "逼近新高",
+          "dist": -1.1,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/26"
+          ]
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "早盤大漲約5.5%至6%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "早盤大漲約5.5%至6%",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "漲幅約3.5%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "轉投資營運受關注",
+          "limitUp": false
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "轉投資營運受關注",
+          "status": "逼近新高",
+          "dist": -8.5,
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶受惠AI電子材料需求熱絡，石化原料供給收斂及傳統旺季，外資回補籌碼助攻股價。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOekh6NjJ5MU1qaUNFdWdXSDJzTTZuVkJTSnNBdGhqdFNZQ2dlYUJteC1VVnVqdko1VElwMldFT1hRY3dIZ0lyNVJyejVoa1BPRDE5dzNybnIxVS1fbGtDZ1U4N2cweUloQnF4Wl9JUFAtMHdWczdvVVQyVkFsd1BiLTZwS24wZ01j",
       "tkey": "熱門族群小米再推自研晶片台封裝廠樂",
