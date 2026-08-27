@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-27T12:02:31.212+08:00",
-  "generatedAt": "2026-08-27T04:02:31.212Z",
+  "asOf": "2026-08-27T13:03:31.326+08:00",
+  "generatedAt": "2026-08-27T05:03:31.326Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -60,16 +60,49 @@
     {
       "symbol": "2383",
       "name": "台光電",
-      "days": 4,
+      "days": 5,
       "dates": [
+        "8/27",
         "8/26",
         "8/24",
         "8/22",
         "8/21"
       ],
-      "mentions": 5,
-      "status": "逼近新高",
-      "dist": -9.4,
+      "mentions": 6,
+      "status": "高檔修正",
+      "dist": -14.5,
+      "limitUp": false
+    },
+    {
+      "symbol": "3008",
+      "name": "大立光",
+      "days": 4,
+      "dates": [
+        "8/27",
+        "8/26",
+        "8/24",
+        "8/23"
+      ],
+      "mentions": 7,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "8/26"
+      ]
+    },
+    {
+      "symbol": "6274",
+      "name": "台燿",
+      "days": 4,
+      "dates": [
+        "8/27",
+        "8/24",
+        "8/22",
+        "8/21"
+      ],
+      "mentions": 4,
       "limitUp": false
     },
     {
@@ -115,25 +148,6 @@
       "limitUp": false
     },
     {
-      "symbol": "3008",
-      "name": "大立光",
-      "days": 3,
-      "dates": [
-        "8/26",
-        "8/24",
-        "8/23"
-      ],
-      "mentions": 6,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 1,
-      "luwd": [
-        "8/26"
-      ]
-    },
-    {
       "symbol": "1303",
       "name": "南亞",
       "days": 3,
@@ -145,7 +159,8 @@
       "mentions": 4,
       "status": "逼近新高",
       "dist": -1.1,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 1,
       "luwd": [
         "8/26"
@@ -183,6 +198,25 @@
       "limitUp": false
     },
     {
+      "symbol": "3406",
+      "name": "玉晶光",
+      "days": 3,
+      "dates": [
+        "8/27",
+        "8/26",
+        "8/23"
+      ],
+      "mentions": 3,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": true,
+      "pct": 9.9,
+      "luw": 1,
+      "luwd": [
+        "8/26"
+      ]
+    },
+    {
       "symbol": "2330",
       "name": "台積電",
       "days": 3,
@@ -218,18 +252,6 @@
         "8/26",
         "8/25",
         "8/24"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "6274",
-      "name": "台燿",
-      "days": 3,
-      "dates": [
-        "8/24",
-        "8/22",
-        "8/21"
       ],
       "mentions": 3,
       "limitUp": false
@@ -295,6 +317,69 @@
       "limitUp": false
     },
     {
+      "symbol": "5475",
+      "name": "德宏",
+      "days": 2,
+      "dates": [
+        "8/27",
+        "8/26"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 9.9
+    },
+    {
+      "symbol": "6213",
+      "name": "聯茂",
+      "days": 2,
+      "dates": [
+        "8/27",
+        "8/22"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -6.3,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "8/26",
+        "8/25"
+      ]
+    },
+    {
+      "symbol": "3441",
+      "name": "聯一光",
+      "days": 2,
+      "dates": [
+        "8/27",
+        "8/26"
+      ],
+      "mentions": 2,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": true,
+      "pct": 10,
+      "luw": 5,
+      "luwd": [
+        "8/26",
+        "8/25",
+        "8/24",
+        "8/21",
+        "8/20"
+      ]
+    },
+    {
+      "symbol": "3019",
+      "name": "亞光",
+      "days": 2,
+      "dates": [
+        "8/27",
+        "8/23"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "2454",
       "name": "聯發科",
       "days": 2,
@@ -315,24 +400,6 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "3406",
-      "name": "玉晶光",
-      "days": 2,
-      "dates": [
-        "8/26",
-        "8/23"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -7.2,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 1,
-      "luwd": [
-        "8/26"
-      ]
     },
     {
       "symbol": "4991",
@@ -397,22 +464,172 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "3450",
-      "name": "聯鈞",
-      "days": 2,
-      "dates": [
-        "8/24",
-        "8/22"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -13.4,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPYThUSlQ2YjBjb2tZLVVJVU1vd2stSG5nUVpIY0VaU0ZCVHVUZ3hkSUNHTXBrSlkyeTJuSW9MSGFOcTcwVmJidTVvRUhlY1ZleTlGbnNYZWJ0anc3Y05kd29FMUFqcFZqWlhCYXVkRnhWdjF3SG5NeTlGdW1hMFM3NE52RW9fUVQ5",
+      "tkey": "熱門族群PTFE火紅！概念股連噴台虹榮登漲倍股、亞電緊追",
+      "title": "《熱門族群》PTFE火紅！概念股連噴 台虹榮登漲倍股、亞電緊追 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6283830001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 27 Aug 2026 04:15:00 GMT",
+      "stocks": [
+        {
+          "symbol": "8039",
+          "name": "台虹",
+          "point": "受惠PTFE新材料與AI高速傳輸需求",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "8/26",
+            "8/25"
+          ]
+        },
+        {
+          "symbol": "4939",
+          "name": "亞電",
+          "point": "搶攻半導體與AI高頻材料，改寫歷史高",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "8/26",
+            "8/25",
+            "8/24",
+            "8/21",
+            "8/20"
+          ]
+        },
+        {
+          "symbol": "5475",
+          "name": "德宏",
+          "point": "玻纖布跟進漲停",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "CCL三雄同步走弱",
+          "status": "高檔修正",
+          "dist": -14.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "CCL三雄同步走弱",
+          "limitUp": false
+        },
+        {
+          "symbol": "6213",
+          "name": "聯茂",
+          "point": "CCL三雄同步走弱",
+          "status": "逼近新高",
+          "dist": -6.3,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "8/26",
+            "8/25"
+          ]
+        }
+      ],
+      "background": "AI高速傳輸需求帶動PCB材料升級，PTFE（聚四氟乙烯）成為市場新焦點，有望成為輝達下一代Rubin平台的材料方案之一。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNempodm1aaHV4M2JMUnhqaVZNeEl5VzViOWJoRVZzVTNzb2RiM1RPdkZUb3BYcjdCZUdrTUtzaFljam5PUWJUcU1WWHdqLURpVTB3czdINUxWdlp2MmhiX1QyMjBZdjhKaUJzYTl3MlRLZFhHSGJZZGp5MFVjTFJaUFBaUWVPcjhB",
+      "tkey": "熱門族群大立光天價鎖燈戰萬金？這檔光學黑馬月噴6成惦惦噴",
+      "title": "《熱門族群》大立光天價鎖燈戰萬金？這檔光學黑馬月噴6成惦惦噴 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6283781001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 27 Aug 2026 03:45:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "受惠iPhone 18與CPO題材，改寫歷史高",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/26"
+          ]
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "受惠iPhone 18備貨與CPO專案，連拉漲停",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "8/26"
+          ]
+        },
+        {
+          "symbol": "3441",
+          "name": "聯一光",
+          "point": "產品應用廣泛，月噴漲逾6成",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "8/26",
+            "8/25",
+            "8/24",
+            "8/21",
+            "8/20"
+          ]
+        },
+        {
+          "symbol": "6668",
+          "name": "中揚光",
+          "point": "聯袂鎖漲停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/26"
+          ]
+        },
+        {
+          "symbol": "3504",
+          "name": "揚明光",
+          "point": "聯袂鎖漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6209",
+          "name": "今國光",
+          "point": "跟進放閃",
+          "limitUp": false
+        },
+        {
+          "symbol": "3019",
+          "name": "亞光",
+          "point": "跟進放閃",
+          "limitUp": false
+        }
+      ],
+      "background": "光學元件族群受惠蘋果新機（iPhone 18）發表與共同封裝光學（CPO）題材雙重加持，市場看好其在AI高速傳輸領域的應用潛力。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQbEJ3dVgyU0JlTDRySzRYR1hBYjR0c2N2X1RaY2E5OGFDWUFESHB5NXJTSHFHQVdxdDNYWHVIWVNYR3BtUlBFeEkySWRuYlZMT2pCSkRBckM5U1dfcVg0SnN4dFNxNElpMDd6UjBxWG1ac2VIMXBYZ0RyUDRlZ1Iwd1c2cURkTUpW",
       "tkey": "熱門族群台塑集團全面噴出南亞、南電雙漲停南亞科創天價",
@@ -427,7 +644,8 @@
           "point": "雙雙亮燈漲停",
           "status": "逼近新高",
           "dist": -1.1,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "8/26"
@@ -486,7 +704,8 @@
           "point": "延續漲停氣勢",
           "status": "逼近新高",
           "dist": -1.1,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "8/26"
