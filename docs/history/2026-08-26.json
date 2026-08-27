@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "updatedAt": "2026-08-27T06:03:26.102Z",
+  "updatedAt": "2026-08-27T09:42:32.994Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE04bkJmcEoza2REc1YtdFBiM2gzcEtpc041SHhTNW94M3BOLXRUWWgwVDhYdWNZU1BkQ2N2ek1XQzNkNVY4dDFTbldPUDBfV1dBXzBobUpINGc",
@@ -102,7 +102,15 @@
           "symbol": "3105",
           "name": "穩懋",
           "point": "強彈逾半根停板",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "8/26",
+            "8/25",
+            "8/24",
+            "8/21",
+            "8/20"
+          ]
         },
         {
           "symbol": "2454",
@@ -163,7 +171,15 @@
           "symbol": "5475",
           "name": "德宏",
           "point": "同步走揚",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "8/26",
+            "8/25",
+            "8/24",
+            "8/21",
+            "8/20"
+          ]
         },
         {
           "symbol": "1303",
@@ -240,15 +256,7 @@
           "name": "華宏",
           "point": "聯袂漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "8/26",
-            "8/25",
-            "8/24",
-            "8/21",
-            "8/20"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6226",
@@ -339,7 +347,15 @@
           "symbol": "3105",
           "name": "穩懋",
           "point": "同步噴發",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "8/26",
+            "8/25",
+            "8/24",
+            "8/21",
+            "8/20"
+          ]
         },
         {
           "symbol": "3714",
@@ -354,15 +370,7 @@
           "status": "創新高",
           "dist": -0.3,
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "8/26",
-            "8/25",
-            "8/24",
-            "8/21",
-            "8/20"
-          ]
+          "pct": 10
         }
       ],
       "background": "CPO（共同封裝光學）技術受AI資料中心高速傳輸需求驅動，輝達財報與SEMICON Taiwan 2026聚焦矽光子，帶動相關供應鏈。",

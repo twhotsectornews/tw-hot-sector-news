@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-27T14:03:26.105+08:00",
-  "generatedAt": "2026-08-27T06:03:26.105Z",
+  "asOf": "2026-08-27T17:42:32.997+08:00",
+  "generatedAt": "2026-08-27T09:42:32.997Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -196,7 +196,15 @@
         "8/21"
       ],
       "mentions": 4,
-      "limitUp": false
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "8/26",
+        "8/25",
+        "8/24",
+        "8/21",
+        "8/20"
+      ]
     },
     {
       "symbol": "3406",
@@ -318,6 +326,40 @@
       "limitUp": false
     },
     {
+      "symbol": "3026",
+      "name": "禾伸堂",
+      "days": 2,
+      "dates": [
+        "8/27",
+        "8/24"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 9.9
+    },
+    {
+      "symbol": "2492",
+      "name": "華新科",
+      "days": 2,
+      "dates": [
+        "8/27",
+        "8/24"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2327",
+      "name": "國巨",
+      "days": 2,
+      "dates": [
+        "8/27",
+        "8/24"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "5475",
       "name": "德宏",
       "days": 2,
@@ -326,7 +368,16 @@
         "8/26"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9,
+      "luw": 5,
+      "luwd": [
+        "8/26",
+        "8/25",
+        "8/24",
+        "8/21",
+        "8/20"
+      ]
     },
     {
       "symbol": "6213",
@@ -358,7 +409,7 @@
       "status": "創新高",
       "dist": 0,
       "limitUp": true,
-      "pct": 9.6,
+      "pct": 10,
       "luw": 5,
       "luwd": [
         "8/26",
@@ -420,53 +471,78 @@
         "8/21",
         "8/20"
       ]
-    },
-    {
-      "symbol": "3081",
-      "name": "聯亞",
-      "days": 2,
-      "dates": [
-        "8/26",
-        "8/24"
-      ],
-      "mentions": 2,
-      "status": "創新高",
-      "dist": -0.3,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 5,
-      "luwd": [
-        "8/26",
-        "8/25",
-        "8/24",
-        "8/21",
-        "8/20"
-      ]
-    },
-    {
-      "symbol": "5289",
-      "name": "宜鼎",
-      "days": 2,
-      "dates": [
-        "8/24",
-        "8/22"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3260",
-      "name": "威剛",
-      "days": 2,
-      "dates": [
-        "8/24",
-        "8/22"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNVlZNZ2JXa2ktVXUxeXR1aGVPVzJrTHVaZ2Y2RUJva0FUZU85U0RmLU5sQ2U0ZUxFaUlsd3hnc3AwdkxuVzFYUGRRaXo4aGtKTklKd29zcGFIQzlUN2dtcDY2bHFmeEM4Z2YtZzVVM3VjQlpNVW1INkxoOHhNZVZXNTB1TU9Ja1FD",
+      "tkey": "熱門族群MLCC產業邁上升循環被動元件再起漲風",
+      "title": "《熱門族群》MLCC產業邁上升循環 被動元件再起漲風 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6284045001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 27 Aug 2026 07:46:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "point": "強勢收鎖漲停",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "6449",
+          "name": "鈺邦",
+          "point": "強勢收鎖漲停",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "6173",
+          "name": "信昌電",
+          "point": "強勢收鎖漲停",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 5,
+          "luwd": [
+            "8/26",
+            "8/25",
+            "8/24",
+            "8/21",
+            "8/20"
+          ]
+        },
+        {
+          "symbol": "8043",
+          "name": "蜜望實",
+          "point": "上漲半根漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "上漲半根漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "8042",
+          "name": "金山電",
+          "point": "上漲半根漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "收漲3.35%",
+          "limitUp": false
+        }
+      ],
+      "background": "MLCC 產業受南韓大廠三星電機調漲報價影響，加上 AI 伺服器需求強勁，帶動被動元件族群進入上升循環。日系大廠村田、太陽誘電動向為後續漲勢關鍵。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPYThUSlQ2YjBjb2tZLVVJVU1vd2stSG5nUVpIY0VaU0ZCVHVUZ3hkSUNHTXBrSlkyeTJuSW9MSGFOcTcwVmJidTVvRUhlY1ZleTlGbnNYZWJ0anc3Y05kd29FMUFqcFZqWlhCYXVkRnhWdjF3SG5NeTlGdW1hMFM3NE52RW9fUVQ5",
       "tkey": "熱門族群PTFE火紅！概念股連噴台虹榮登漲倍股、亞電緊追",
@@ -510,7 +586,16 @@
           "symbol": "5475",
           "name": "德宏",
           "point": "玻纖布跟進漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "8/26",
+            "8/25",
+            "8/24",
+            "8/21",
+            "8/20"
+          ]
         },
         {
           "symbol": "2383",
@@ -587,7 +672,7 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 9.6,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "8/26",
@@ -810,7 +895,16 @@
           "point": "深耕精密取放、黏晶及貼合設備",
           "status": "逼近新高",
           "dist": -2.8,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "8/26",
+            "8/25",
+            "8/24",
+            "8/21",
+            "8/20"
+          ]
         }
       ],
       "background": "小米推出自研晶片，導入先進製程與先進封裝技術，特別是晶圓堆疊與混合鍵合，顯示端側AI對先進封裝需求提升，台積電與相關設備供應鏈受惠。",
@@ -919,7 +1013,15 @@
           "symbol": "3105",
           "name": "穩懋",
           "point": "強彈逾半根停板",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "8/26",
+            "8/25",
+            "8/24",
+            "8/21",
+            "8/20"
+          ]
         },
         {
           "symbol": "2454",
@@ -980,7 +1082,15 @@
           "symbol": "5475",
           "name": "德宏",
           "point": "同步走揚",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "8/26",
+            "8/25",
+            "8/24",
+            "8/21",
+            "8/20"
+          ]
         },
         {
           "symbol": "1303",
@@ -1057,15 +1167,7 @@
           "name": "華宏",
           "point": "聯袂漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "8/26",
-            "8/25",
-            "8/24",
-            "8/21",
-            "8/20"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6226",
@@ -1156,7 +1258,15 @@
           "symbol": "3105",
           "name": "穩懋",
           "point": "同步噴發",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "8/26",
+            "8/25",
+            "8/24",
+            "8/21",
+            "8/20"
+          ]
         },
         {
           "symbol": "3714",
@@ -1171,15 +1281,7 @@
           "status": "創新高",
           "dist": -0.3,
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "8/26",
-            "8/25",
-            "8/24",
-            "8/21",
-            "8/20"
-          ]
+          "pct": 10
         }
       ],
       "background": "CPO（共同封裝光學）技術受AI資料中心高速傳輸需求驅動，輝達財報與SEMICON Taiwan 2026聚焦矽光子，帶動相關供應鏈。",
