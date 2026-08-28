@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "updatedAt": "2026-08-28T03:04:44.564Z",
+  "updatedAt": "2026-08-28T04:05:06.882Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE04bkJmcEoza2REc1YtdFBiM2gzcEtpc041SHhTNW94M3BOLXRUWWgwVDhYdWNZU1BkQ2N2ek1XQzNkNVY4dDFTbldPUDBfV1dBXzBobUpINGc",
@@ -10,7 +10,7 @@
       "source": "自由時報",
       "pubDate": "Wed, 26 Aug 2026 12:10:27 GMT",
       "stocks": [],
-      "background": "油價下跌降低航空營運成本，暑假為傳統旅遊旺季，有助於航空業營收成長。",
+      "background": "國際油價回落降低航空公司的營運成本，加上暑假旅遊旺季來臨，有助於提升航空公司的載客率與獲利。",
       "themeTags": [
         "需求驅動"
       ]
@@ -26,11 +26,9 @@
         {
           "symbol": "3008",
           "name": "大立光",
-          "point": "擴建光纖陣列試產線利多，股價漲停創新高",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 10,
+          "point": "擴建光纖陣列試產線，股價漲停創新高",
+          "status": "逼近新高",
+          "dist": -0.8,
           "luw": 2,
           "luwd": [
             "8/27",
@@ -41,10 +39,8 @@
           "symbol": "3443",
           "name": "創意",
           "point": "股價漲停創新高",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 10,
+          "status": "逼近新高",
+          "dist": -4.2,
           "luw": 1,
           "luwd": [
             "8/26"
@@ -54,17 +50,15 @@
           "symbol": "3653",
           "name": "健策",
           "point": "股價漲停創新高",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 10,
+          "status": "逼近新高",
+          "dist": -2.7,
           "luw": 1,
           "luwd": [
             "8/26"
           ]
         }
       ],
-      "background": "千金股為高價股的代稱，通常具備高獲利能力與市場領導地位。大立光受惠於光纖陣列試產線擴建利多，帶動股價表現。",
+      "background": "千金股為高價股的代稱，通常具備高成長潛力與產業領導地位，受市場資金追捧，反映投資人對未來獲利的期待。",
       "themeTags": []
     },
     {
@@ -78,32 +72,27 @@
         {
           "symbol": "6517",
           "name": "保勝光學",
-          "point": "一度亮燈攻頂",
-          "limitUp": false
+          "point": "低軌衛星題材，股價一度亮燈攻頂"
         },
         {
           "symbol": "7717",
           "name": "萊德光電-KY",
-          "point": "大漲9%、獲利登峰",
-          "limitUp": false
+          "point": "低軌衛星需求，營收毛利拚逐季揚"
         },
         {
           "symbol": "4906",
           "name": "正文",
-          "point": "強彈逾半根停板",
-          "limitUp": false
+          "point": "低軌衛星題材，股價強彈"
         },
         {
           "symbol": "8027",
           "name": "鈦昇",
-          "point": "強彈逾半根停板",
-          "limitUp": false
+          "point": "低軌衛星題材，股價強彈"
         },
         {
           "symbol": "3105",
           "name": "穩懋",
-          "point": "強彈逾半根停板",
-          "limitUp": false,
+          "point": "低軌衛星題材，股價強彈",
           "luw": 5,
           "luwd": [
             "8/27",
@@ -116,25 +105,22 @@
         {
           "symbol": "2454",
           "name": "聯發科",
-          "point": "強彈逾半根停板",
-          "limitUp": false
+          "point": "低軌衛星題材，股價強彈"
         },
         {
           "symbol": "2383",
           "name": "台光電",
-          "point": "強彈逾半根停板",
-          "status": "逼近新高",
-          "dist": -9.4,
-          "limitUp": false
+          "point": "低軌衛星題材，股價強彈",
+          "status": "高檔修正",
+          "dist": -14.9
         },
         {
           "symbol": "3491",
           "name": "昇達科",
-          "point": "投信連買、營運高峰",
-          "limitUp": false
+          "point": "低軌衛星營收可望回升，投信連買"
         }
       ],
-      "background": "SpaceX 衝刺太空 AI 進度超前，預計提前發射 AI 衛星，並擴建火箭發射基地，帶動低軌衛星台廠接單利多。",
+      "background": "SpaceX 衝刺太空 AI 進度超前，提前部署低軌衛星，帶動相關台廠接單利多，低軌衛星產業進入高速發展期。",
       "themeTags": [
         "需求驅動",
         "國際大廠"

@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-28T11:04:44.568+08:00",
-  "generatedAt": "2026-08-28T03:04:44.568Z",
+  "asOf": "2026-08-28T12:05:06.885+08:00",
+  "generatedAt": "2026-08-28T04:05:06.885Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -125,10 +125,8 @@
         "8/22"
       ],
       "mentions": 4,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": true,
-      "pct": 10,
+      "status": "逼近新高",
+      "dist": -4.2,
       "luw": 1,
       "luwd": [
         "8/26"
@@ -156,7 +154,8 @@
         "8/24"
       ],
       "mentions": 3,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "3026",
@@ -255,10 +254,8 @@
         "8/22"
       ],
       "mentions": 5,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": true,
-      "pct": 10,
+      "status": "逼近新高",
+      "dist": -2.7,
       "luw": 1,
       "luwd": [
         "8/26"
@@ -292,7 +289,6 @@
         "8/24"
       ],
       "mentions": 3,
-      "limitUp": false,
       "luw": 5,
       "luwd": [
         "8/27",
@@ -324,7 +320,8 @@
         "8/27"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 5,
       "luwd": [
         "8/27",
@@ -448,8 +445,7 @@
         "8/26",
         "8/24"
       ],
-      "mentions": 2,
-      "limitUp": false
+      "mentions": 2
     },
     {
       "symbol": "1815",
@@ -484,7 +480,8 @@
           "symbol": "2492",
           "name": "華新科",
           "point": "MLCC喊漲，股價大漲",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "3026",
@@ -500,7 +497,8 @@
           "symbol": "6173",
           "name": "信昌電",
           "point": "MLCC喊漲，盤中強鎖漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "8/27",
