@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "updatedAt": "2026-08-28T04:05:06.882Z",
+  "updatedAt": "2026-08-28T05:03:21.801Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE04bkJmcEoza2REc1YtdFBiM2gzcEtpc041SHhTNW94M3BOLXRUWWgwVDhYdWNZU1BkQ2N2ek1XQzNkNVY4dDFTbldPUDBfV1dBXzBobUpINGc",
@@ -10,7 +10,7 @@
       "source": "自由時報",
       "pubDate": "Wed, 26 Aug 2026 12:10:27 GMT",
       "stocks": [],
-      "background": "國際油價回落降低航空公司的營運成本，加上暑假旅遊旺季來臨，有助於提升航空公司的載客率與獲利。",
+      "background": "國際油價回落降低營運成本，加上暑假旅遊旺季來臨，航空客運需求預期將大幅成長，有利於航空業者獲利。",
       "themeTags": [
         "需求驅動"
       ]
@@ -26,9 +26,9 @@
         {
           "symbol": "3008",
           "name": "大立光",
-          "point": "擴建光纖陣列試產線，股價漲停創新高",
+          "point": "擴建光纖陣列試產線利多，股價漲停創新高",
           "status": "逼近新高",
-          "dist": -0.8,
+          "dist": -1.9,
           "luw": 2,
           "luwd": [
             "8/27",
@@ -38,9 +38,9 @@
         {
           "symbol": "3443",
           "name": "創意",
-          "point": "股價漲停創新高",
+          "point": "股價齊步漲停創新高",
           "status": "逼近新高",
-          "dist": -4.2,
+          "dist": -4.4,
           "luw": 1,
           "luwd": [
             "8/26"
@@ -49,17 +49,19 @@
         {
           "symbol": "3653",
           "name": "健策",
-          "point": "股價漲停創新高",
+          "point": "股價齊步漲停創新高",
           "status": "逼近新高",
-          "dist": -2.7,
+          "dist": -3.5,
           "luw": 1,
           "luwd": [
             "8/26"
           ]
         }
       ],
-      "background": "千金股為高價股的代稱，通常具備高成長潛力與產業領導地位，受市場資金追捧，反映投資人對未來獲利的期待。",
-      "themeTags": []
+      "background": "千金股多為高價電子股，受惠於特定利多消息如擴產或產業趨勢，吸引資金追捧，推升股價創下新高。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxPSndKWDhPelVTenJMSnptbTl4VWVQZzJVcXJuR3dTNFBWdWN6OFlzaEtRdm85X3VvaXFmcVBKTE9ENDBPaTdJb2FtM2NWT2d1OWZmVWtOZV9GaDZXdzcxNTEwU3JEZFFBVnBDakIwYlYzREQ4RkdUT3BZaERvU3FDTHBQTVZwd2Fu",
