@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-28T18:41:15.895+08:00",
-  "generatedAt": "2026-08-28T10:41:15.895Z",
+  "asOf": "2026-08-28T22:41:39.821+08:00",
+  "generatedAt": "2026-08-28T14:41:39.821Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -447,6 +447,58 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiX0FVX3lxTE1rN1NsazV3X3hTa1BRRW1GWmtRRXZiNnRKcXYyZHgtOVJqNktFNEs1T0ctMlc3SkxNLTRTalJnLTdFbFM2NGtycEJWTC1JQkhvVkJ3b2hUY3Iwc1JJb01j",
+      "tkey": "熱門族群立院三讀利多出盡？軍工股虎頭蛇尾",
+      "title": "熱門族群》立院三讀利多出盡？軍工股虎頭蛇尾 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5555825",
+      "source": "自由財經",
+      "pubDate": "Fri, 28 Aug 2026 13:30:37 GMT",
+      "stocks": [
+        {
+          "symbol": "8033",
+          "name": "雷虎",
+          "point": "股價開高走低，週線收紅",
+          "limitUp": false
+        },
+        {
+          "symbol": "2634",
+          "name": "漢翔",
+          "point": "股價開高走低，無人機業務",
+          "status": "高檔修正",
+          "dist": -11.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "2645",
+          "name": "長榮航太",
+          "point": "股價開高走低",
+          "limitUp": false
+        },
+        {
+          "symbol": "2630",
+          "name": "亞航",
+          "point": "股價開高走低，週線收紅",
+          "limitUp": false
+        },
+        {
+          "symbol": "6753",
+          "name": "龍德造船",
+          "point": "股價開高走低",
+          "limitUp": false
+        },
+        {
+          "symbol": "2208",
+          "name": "台船",
+          "point": "股價開高走低",
+          "limitUp": false
+        }
+      ],
+      "background": "立法院通過「強化國防自主暨無人載具產業發展條例」，政府未來6年將編列2400億元推動國防自主及無人載具產業，政策支持中長期看好。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxObGJtOE1lX2c3MmtITU5fRWhRZkdWdFRrTkRabEd0dGxpV0ROT2NPRjk5ckU4NlA3eU12YzctaDBPRHFQdW4zSmlKSWpsN1R1UkZXbDlBa1VEY3dkRkdrRnB1QVlRUzdwV0RiUWdPeGNtMUZiVjV5QWhZdlNQNmJYZUVHN3NyblJE",
       "tkey": "熱門族群MLCC喊漲國巨衝漲停領軍噴發！",
