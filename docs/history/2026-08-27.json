@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "updatedAt": "2026-08-28T14:41:39.817Z",
+  "updatedAt": "2026-08-28T20:49:31.570Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNVlZNZ2JXa2ktVXUxeXR1aGVPVzJrTHVaZ2Y2RUJva0FUZU85U0RmLU5sQ2U0ZUxFaUlsd3hnc3AwdkxuVzFYUGRRaXo4aGtKTklKd29zcGFIQzlUN2dtcDY2bHFmeEM4Z2YtZzVVM3VjQlpNVW1INkxoOHhNZVZXNTB1TU9Ja1FD",
@@ -16,8 +16,9 @@
           "point": "強勢收鎖漲停",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "8/28",
             "8/27"
           ]
         },
@@ -40,11 +41,11 @@
           "pct": 9.8,
           "luw": 5,
           "luwd": [
+            "8/28",
             "8/27",
             "8/26",
             "8/25",
-            "8/24",
-            "8/21"
+            "8/24"
           ]
         },
         {
@@ -57,7 +58,11 @@
           "symbol": "2492",
           "name": "華新科",
           "point": "上漲半根漲停",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/28"
+          ]
         },
         {
           "symbol": "8042",
@@ -182,8 +187,9 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.9,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "8/28",
             "8/27",
             "8/26"
           ]

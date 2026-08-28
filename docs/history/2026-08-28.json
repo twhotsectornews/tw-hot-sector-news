@@ -1,0 +1,185 @@
+{
+  "date": "2026-08-28",
+  "updatedAt": "2026-08-28T20:49:31.568Z",
+  "news": [
+    {
+      "gid": "CBMiX0FVX3lxTE1rN1NsazV3X3hTa1BRRW1GWmtRRXZiNnRKcXYyZHgtOVJqNktFNEs1T0ctMlc3SkxNLTRTalJnLTdFbFM2NGtycEJWTC1JQkhvVkJ3b2hUY3Iwc1JJb01j",
+      "tkey": "熱門族群立院三讀利多出盡？軍工股虎頭蛇尾",
+      "title": "熱門族群》立院三讀利多出盡？軍工股虎頭蛇尾 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5555825",
+      "source": "自由財經",
+      "pubDate": "Fri, 28 Aug 2026 13:30:37 GMT",
+      "stocks": [
+        {
+          "symbol": "8033",
+          "name": "雷虎",
+          "point": "股價開高走低，週線收紅",
+          "limitUp": false
+        },
+        {
+          "symbol": "2634",
+          "name": "漢翔",
+          "point": "股價開高走低，無人機業務",
+          "status": "高檔修正",
+          "dist": -11.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "2645",
+          "name": "長榮航太",
+          "point": "股價開高走低",
+          "limitUp": false
+        },
+        {
+          "symbol": "2630",
+          "name": "亞航",
+          "point": "股價開高走低，週線收紅",
+          "limitUp": false
+        },
+        {
+          "symbol": "6753",
+          "name": "龍德造船",
+          "point": "股價開高走低",
+          "limitUp": false
+        },
+        {
+          "symbol": "2208",
+          "name": "台船",
+          "point": "股價開高走低",
+          "limitUp": false
+        }
+      ],
+      "background": "立法院通過「強化國防自主暨無人載具產業發展條例」，政府未來6年將編列2400億元推動國防自主及無人載具產業，政策支持中長期看好。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxObGJtOE1lX2c3MmtITU5fRWhRZkdWdFRrTkRabEd0dGxpV0ROT2NPRjk5ckU4NlA3eU12YzctaDBPRHFQdW4zSmlKSWpsN1R1UkZXbDlBa1VEY3dkRkdrRnB1QVlRUzdwV0RiUWdPeGNtMUZiVjV5QWhZdlNQNmJYZUVHN3NyblJE",
+      "tkey": "熱門族群MLCC喊漲國巨衝漲停領軍噴發！",
+      "title": "《熱門族群》MLCC喊漲 國巨衝漲停領軍噴發！ - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6284826001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Fri, 28 Aug 2026 02:39:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "MLCC喊漲，衝漲停領軍噴發",
+          "limitUp": false
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "MLCC喊漲，股價大漲",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "8/28"
+          ]
+        },
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "point": "高階MLCC、AI伺服器電源成長動能",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "8/28",
+            "8/27"
+          ]
+        },
+        {
+          "symbol": "6173",
+          "name": "信昌電",
+          "point": "MLCC喊漲，盤中強鎖漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "8/28",
+            "8/27",
+            "8/26",
+            "8/25",
+            "8/24"
+          ]
+        },
+        {
+          "symbol": "8043",
+          "name": "蜜望實",
+          "point": "MLCC族群漲停打開",
+          "limitUp": false
+        },
+        {
+          "symbol": "3236",
+          "name": "千如",
+          "point": "MLCC族群盤中漲約5%",
+          "limitUp": false
+        }
+      ],
+      "background": "MLCC產業受AI應用帶動需求，南韓大廠三星電機率先調漲報價，台系被動元件廠重獲資金力挺，產業進入上升循環。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQRTFHVVNmbV9WOGlDVGlkUGhuUUMxVHZQM0ZlNng3LTc0Y0djbkJkQTJEZmswcVh3VzM0R0diMGt4UElXN1N2dC1kVWVGOUVKTjFxUXpkQ0NmWWpmYTluTHBBNDZ3cVlSWjJKbkstbEFieHo1TWU1MElROFFrNlkzaXhNVlBUOWxs",
+      "tkey": "熱門族群陸記憶體廠抬頭兩台廠聚光",
+      "title": "《熱門族群》陸記憶體廠抬頭 兩台廠聚光 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6284606001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 28 Aug 2026 00:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "記憶體正向循環，外資看好前景",
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "記憶體產業獲利強悍，主要受惠者",
+          "limitUp": false
+        }
+      ],
+      "background": "大陸記憶體廠長鑫存儲受惠AI、伺服器需求，全球DRAM供給吃緊支撐價格，促使品牌廠採用，記憶體產業處於正向循環。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQMG5RMDFsdmhWVDQ4dEVxYmhSMGlYZW1MTm02YnZtOUNtX3BoaGR4UDBrRVV1cGtWQklTYk5BWmVNR1RwNmlKTXg0WkpQR2lLQjBYZVZ3VmFQRTl1MGw4WkhPNHFxeDZoQ2oyWVhTTzNVd0NBd2RnMzlPbDUzOXVic3ozMUdSZWFS",
+      "tkey": "熱門族群仁寶、鴻海AI伺服器機櫃添翼",
+      "title": "《熱門族群》仁寶、鴻海 AI伺服器機櫃添翼 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6284616001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 28 Aug 2026 00:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2324",
+          "name": "仁寶",
+          "point": "AI伺服器機櫃出貨動能暢旺",
+          "limitUp": false
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "AI伺服器機櫃出貨動能暢旺",
+          "limitUp": false
+        }
+      ],
+      "background": "輝達財報亮眼，AI需求持續強勁，Google TPU機櫃出貨量將超越輝達，帶動AI伺服器組裝廠仁寶、鴻海受惠。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    }
+  ]
+}
