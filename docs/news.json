@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-29T04:49:31.573+08:00",
-  "generatedAt": "2026-08-28T20:49:31.573Z",
+  "asOf": "2026-08-29T05:15:59.728+08:00",
+  "generatedAt": "2026-08-28T21:15:59.728Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -82,6 +82,18 @@
         "8/24"
       ],
       "mentions": 6,
+      "limitUp": false
+    },
+    {
+      "symbol": "2454",
+      "name": "聯發科",
+      "days": 3,
+      "dates": [
+        "8/29",
+        "8/26",
+        "8/24"
+      ],
+      "mentions": 3,
       "limitUp": false
     },
     {
@@ -374,16 +386,6 @@
       ]
     },
     {
-      "symbol": "2454",
-      "name": "聯發科",
-      "days": 2,
-      "dates": [
-        "8/26",
-        "8/24"
-      ],
-      "mentions": 2
-    },
-    {
       "symbol": "1815",
       "name": "富喬",
       "days": 2,
@@ -432,6 +434,26 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
+      "tkey": "熱門族群龍頭聯發科創新高IC設計股搶發AI財",
+      "title": "熱門族群》龍頭聯發科創新高 IC設計股搶發AI財 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/k0bsc03rnawt",
+      "source": "自由時報",
+      "pubDate": "Fri, 28 Aug 2026 16:01:42 GMT",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "龍頭股價創新高",
+          "limitUp": false
+        }
+      ],
+      "background": "IC設計股受惠於AI技術發展，特別是AI晶片需求增加，帶動相關個股表現，產業前景看好。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiX0FVX3lxTE1rN1NsazV3X3hTa1BRRW1GWmtRRXZiNnRKcXYyZHgtOVJqNktFNEs1T0ctMlc3SkxNLTRTalJnLTdFbFM2NGtycEJWTC1JQkhvVkJ3b2hUY3Iwc1JJb01j",
       "tkey": "熱門族群立院三讀利多出盡？軍工股虎頭蛇尾",
@@ -606,445 +628,6 @@
         }
       ],
       "background": "輝達財報亮眼，AI需求持續強勁，Google TPU機櫃出貨量將超越輝達，帶動AI伺服器組裝廠仁寶、鴻海受惠。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNVlZNZ2JXa2ktVXUxeXR1aGVPVzJrTHVaZ2Y2RUJva0FUZU85U0RmLU5sQ2U0ZUxFaUlsd3hnc3AwdkxuVzFYUGRRaXo4aGtKTklKd29zcGFIQzlUN2dtcDY2bHFmeEM4Z2YtZzVVM3VjQlpNVW1INkxoOHhNZVZXNTB1TU9Ja1FD",
-      "tkey": "熱門族群MLCC產業邁上升循環被動元件再起漲風",
-      "title": "《熱門族群》MLCC產業邁上升循環 被動元件再起漲風 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6284045001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Thu, 27 Aug 2026 07:46:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3026",
-          "name": "禾伸堂",
-          "point": "強勢收鎖漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 2,
-          "luwd": [
-            "8/28",
-            "8/27"
-          ]
-        },
-        {
-          "symbol": "6449",
-          "name": "鈺邦",
-          "point": "強勢收鎖漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "8/27"
-          ]
-        },
-        {
-          "symbol": "6173",
-          "name": "信昌電",
-          "point": "強勢收鎖漲停",
-          "limitUp": true,
-          "pct": 9.8,
-          "luw": 5,
-          "luwd": [
-            "8/28",
-            "8/27",
-            "8/26",
-            "8/25",
-            "8/24"
-          ]
-        },
-        {
-          "symbol": "8043",
-          "name": "蜜望實",
-          "point": "上漲半根漲停",
-          "limitUp": false
-        },
-        {
-          "symbol": "2492",
-          "name": "華新科",
-          "point": "上漲半根漲停",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/28"
-          ]
-        },
-        {
-          "symbol": "8042",
-          "name": "金山電",
-          "point": "上漲半根漲停",
-          "limitUp": false
-        },
-        {
-          "symbol": "2327",
-          "name": "國巨",
-          "point": "收漲3.35%",
-          "limitUp": false
-        }
-      ],
-      "background": "MLCC 產業受南韓大廠三星電機調漲報價影響，加上 AI 伺服器需求強勁，帶動被動元件族群進入上升循環。日系大廠村田、太陽誘電動向為後續漲勢關鍵。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxPYThUSlQ2YjBjb2tZLVVJVU1vd2stSG5nUVpIY0VaU0ZCVHVUZ3hkSUNHTXBrSlkyeTJuSW9MSGFOcTcwVmJidTVvRUhlY1ZleTlGbnNYZWJ0anc3Y05kd29FMUFqcFZqWlhCYXVkRnhWdjF3SG5NeTlGdW1hMFM3NE52RW9fUVQ5",
-      "tkey": "熱門族群PTFE火紅！概念股連噴台虹榮登漲倍股、亞電緊追",
-      "title": "《熱門族群》PTFE火紅！概念股連噴 台虹榮登漲倍股、亞電緊追 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6283830001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Thu, 27 Aug 2026 04:15:00 GMT",
-      "stocks": [
-        {
-          "symbol": "8039",
-          "name": "台虹",
-          "point": "受惠PTFE新材料與AI高速傳輸需求",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 10,
-          "luw": 3,
-          "luwd": [
-            "8/27",
-            "8/26",
-            "8/25"
-          ]
-        },
-        {
-          "symbol": "4939",
-          "name": "亞電",
-          "point": "搶攻半導體與AI高頻材料，改寫歷史高",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 9.9
-        },
-        {
-          "symbol": "5475",
-          "name": "德宏",
-          "point": "玻纖布跟進漲停",
-          "limitUp": true,
-          "pct": 9.9
-        },
-        {
-          "symbol": "2383",
-          "name": "台光電",
-          "point": "CCL三雄同步走弱",
-          "status": "高檔修正",
-          "dist": -14.5,
-          "limitUp": false
-        },
-        {
-          "symbol": "6274",
-          "name": "台燿",
-          "point": "CCL三雄同步走弱",
-          "limitUp": false
-        },
-        {
-          "symbol": "6213",
-          "name": "聯茂",
-          "point": "CCL三雄同步走弱",
-          "status": "逼近新高",
-          "dist": -6.3,
-          "limitUp": false,
-          "luw": 2,
-          "luwd": [
-            "8/26",
-            "8/25"
-          ]
-        }
-      ],
-      "background": "AI高速傳輸需求帶動PCB材料升級，PTFE（聚四氟乙烯）成為市場新焦點，有望成為輝達下一代Rubin平台的材料方案之一。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNempodm1aaHV4M2JMUnhqaVZNeEl5VzViOWJoRVZzVTNzb2RiM1RPdkZUb3BYcjdCZUdrTUtzaFljam5PUWJUcU1WWHdqLURpVTB3czdINUxWdlp2MmhiX1QyMjBZdjhKaUJzYTl3MlRLZFhHSGJZZGp5MFVjTFJaUFBaUWVPcjhB",
-      "tkey": "熱門族群大立光天價鎖燈戰萬金？這檔光學黑馬月噴6成惦惦噴",
-      "title": "《熱門族群》大立光天價鎖燈戰萬金？這檔光學黑馬月噴6成惦惦噴 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6283781001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Thu, 27 Aug 2026 03:45:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3008",
-          "name": "大立光",
-          "point": "受惠iPhone 18與CPO題材，改寫歷史高",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 2,
-          "luwd": [
-            "8/27",
-            "8/26"
-          ]
-        },
-        {
-          "symbol": "3406",
-          "name": "玉晶光",
-          "point": "受惠iPhone 18備貨與CPO專案，連拉漲停",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 3,
-          "luwd": [
-            "8/28",
-            "8/27",
-            "8/26"
-          ]
-        },
-        {
-          "symbol": "3441",
-          "name": "聯一光",
-          "point": "產品應用廣泛，月噴漲逾6成",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 10
-        },
-        {
-          "symbol": "6668",
-          "name": "中揚光",
-          "point": "聯袂鎖漲停",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 2,
-          "luwd": [
-            "8/27",
-            "8/26"
-          ]
-        },
-        {
-          "symbol": "3504",
-          "name": "揚明光",
-          "point": "聯袂鎖漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "8/27"
-          ]
-        },
-        {
-          "symbol": "6209",
-          "name": "今國光",
-          "point": "跟進放閃",
-          "limitUp": false
-        },
-        {
-          "symbol": "3019",
-          "name": "亞光",
-          "point": "跟進放閃",
-          "limitUp": false
-        }
-      ],
-      "background": "光學元件族群受惠蘋果新機（iPhone 18）發表與共同封裝光學（CPO）題材雙重加持，市場看好其在AI高速傳輸領域的應用潛力。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxQbEJ3dVgyU0JlTDRySzRYR1hBYjR0c2N2X1RaY2E5OGFDWUFESHB5NXJTSHFHQVdxdDNYWHVIWVNYR3BtUlBFeEkySWRuYlZMT2pCSkRBckM5U1dfcVg0SnN4dFNxNElpMDd6UjBxWG1ac2VIMXBYZ0RyUDRlZ1Iwd1c2cURkTUpW",
-      "tkey": "熱門族群台塑集團全面噴出南亞、南電雙漲停南亞科創天價",
-      "title": "《熱門族群》台塑集團全面噴出 南亞、南電雙漲停 南亞科創天價 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6283735001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Thu, 27 Aug 2026 02:59:00 GMT",
-      "stocks": [
-        {
-          "symbol": "1303",
-          "name": "南亞",
-          "point": "雙雙亮燈漲停",
-          "status": "逼近新高",
-          "dist": -1.1,
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 2,
-          "luwd": [
-            "8/27",
-            "8/26"
-          ]
-        },
-        {
-          "symbol": "8046",
-          "name": "南電",
-          "point": "雙雙亮燈漲停",
-          "status": "逼近新高",
-          "dist": -8.5,
-          "limitUp": true,
-          "pct": 9.7,
-          "luw": 1,
-          "luwd": [
-            "8/27"
-          ]
-        },
-        {
-          "symbol": "2408",
-          "name": "南亞科",
-          "point": "漲幅超過6%創天價",
-          "limitUp": false
-        },
-        {
-          "symbol": "1301",
-          "name": "台塑",
-          "point": "同步走強",
-          "limitUp": false
-        },
-        {
-          "symbol": "1326",
-          "name": "台化",
-          "point": "同步走強",
-          "limitUp": false
-        },
-        {
-          "symbol": "6505",
-          "name": "台塑化",
-          "point": "同步走強",
-          "limitUp": false
-        }
-      ],
-      "background": "台塑集團受惠AI伺服器與資料中心需求帶動高階電子材料需求，石化景氣逐步進入傳統需求旺季，產業景氣落底回溫。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxPN1NqN3BkcFVWSlpZdXV2dm9jY05Wdlg1Uzd5b0Q2amxBYnRLMkUxV0QzMDk3OHpRNnN3dEU2cjVqY2NBeTJFLUhZcno3Ujh4aDZ1VjlSSVNuaUhJU2RxMTdQZ2h2NWhQdTNTVmR1MGkyUW41WDd6ZWFmckY1STBzRUI5NnNzaEE0",
-      "tkey": "熱門族群南亞又漲停吸金！台塑四寶集體暴衝",
-      "title": "《熱門族群》南亞又漲停吸金！台塑四寶集體暴衝 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6283722001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Thu, 27 Aug 2026 02:46:00 GMT",
-      "stocks": [
-        {
-          "symbol": "1303",
-          "name": "南亞",
-          "point": "延續漲停氣勢",
-          "status": "逼近新高",
-          "dist": -1.1,
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 2,
-          "luwd": [
-            "8/27",
-            "8/26"
-          ]
-        },
-        {
-          "symbol": "1301",
-          "name": "台塑",
-          "point": "早盤大漲約5.5%至6%",
-          "limitUp": false
-        },
-        {
-          "symbol": "1326",
-          "name": "台化",
-          "point": "早盤大漲約5.5%至6%",
-          "limitUp": false
-        },
-        {
-          "symbol": "6505",
-          "name": "台塑化",
-          "point": "漲幅約3.5%",
-          "limitUp": false
-        },
-        {
-          "symbol": "2408",
-          "name": "南亞科",
-          "point": "轉投資營運受關注",
-          "limitUp": false
-        },
-        {
-          "symbol": "8046",
-          "name": "南電",
-          "point": "轉投資營運受關注",
-          "status": "逼近新高",
-          "dist": -8.5,
-          "limitUp": true,
-          "pct": 9.7,
-          "luw": 1,
-          "luwd": [
-            "8/27"
-          ]
-        }
-      ],
-      "background": "台塑四寶受惠AI電子材料需求熱絡，石化原料供給收斂及傳統旺季，外資回補籌碼助攻股價。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxOekh6NjJ5MU1qaUNFdWdXSDJzTTZuVkJTSnNBdGhqdFNZQ2dlYUJteC1VVnVqdko1VElwMldFT1hRY3dIZ0lyNVJyejVoa1BPRDE5dzNybnIxVS1fbGtDZ1U4N2cweUloQnF4Wl9JUFAtMHdWczdvVVQyVkFsd1BiLTZwS24wZ01j",
-      "tkey": "熱門族群小米再推自研晶片台封裝廠樂",
-      "title": "《熱門族群》小米再推自研晶片 台封裝廠樂 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6283439001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Wed, 26 Aug 2026 23:52:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2330",
-          "name": "台積電",
-          "point": "小米自研晶片採其先進製程與先進封裝技術",
-          "status": "逼近新高",
-          "dist": -4.1,
-          "limitUp": false
-        },
-        {
-          "symbol": "6196",
-          "name": "弘塑",
-          "point": "布局晶圓清洗及濕製程設備",
-          "limitUp": false
-        },
-        {
-          "symbol": "3583",
-          "name": "辛耘",
-          "point": "布局晶圓清洗及濕製程設備",
-          "limitUp": false
-        },
-        {
-          "symbol": "2467",
-          "name": "志聖",
-          "point": "切入WoW永久鍵合及預退火設備",
-          "limitUp": false
-        },
-        {
-          "symbol": "1560",
-          "name": "中砂",
-          "point": "CMP鑽石碟對應高度平坦化需求",
-          "status": "高檔修正",
-          "dist": -12,
-          "limitUp": false
-        },
-        {
-          "symbol": "6510",
-          "name": "均華",
-          "point": "深耕精密取放、黏晶及貼合設備",
-          "limitUp": false
-        },
-        {
-          "symbol": "6187",
-          "name": "萬潤",
-          "point": "深耕精密取放、黏晶及貼合設備",
-          "status": "逼近新高",
-          "dist": -2.8,
-          "limitUp": true,
-          "pct": 10
-        }
-      ],
-      "background": "小米推出自研晶片，導入先進製程與先進封裝技術，特別是晶圓堆疊與混合鍵合，顯示端側AI對先進封裝需求提升，台積電與相關設備供應鏈受惠。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
