@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-29T11:02:16.691+08:00",
-  "generatedAt": "2026-08-29T03:02:16.691Z",
+  "asOf": "2026-08-29T12:01:54.096+08:00",
+  "generatedAt": "2026-08-29T04:01:54.096Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -16,7 +16,7 @@
         "8/24",
         "8/23"
       ],
-      "mentions": 7,
+      "mentions": 8,
       "status": "逼近新高",
       "dist": -2.8,
       "luw": 2,
@@ -81,6 +81,25 @@
       ],
       "mentions": 6,
       "limitUp": false
+    },
+    {
+      "symbol": "3406",
+      "name": "玉晶光",
+      "days": 3,
+      "dates": [
+        "8/27",
+        "8/26",
+        "8/23"
+      ],
+      "mentions": 4,
+      "status": "創新高",
+      "dist": 0,
+      "luw": 3,
+      "luwd": [
+        "8/28",
+        "8/27",
+        "8/26"
+      ]
     },
     {
       "symbol": "2454",
@@ -153,25 +172,6 @@
       "mentions": 3
     },
     {
-      "symbol": "3406",
-      "name": "玉晶光",
-      "days": 3,
-      "dates": [
-        "8/27",
-        "8/26",
-        "8/23"
-      ],
-      "mentions": 3,
-      "status": "創新高",
-      "dist": 0,
-      "luw": 3,
-      "luwd": [
-        "8/28",
-        "8/27",
-        "8/26"
-      ]
-    },
-    {
       "symbol": "2606",
       "name": "裕民",
       "days": 3,
@@ -221,6 +221,38 @@
       ],
       "mentions": 3,
       "limitUp": false
+    },
+    {
+      "symbol": "3441",
+      "name": "聯一光",
+      "days": 2,
+      "dates": [
+        "8/27",
+        "8/26"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -7.5
+    },
+    {
+      "symbol": "3019",
+      "name": "亞光",
+      "days": 2,
+      "dates": [
+        "8/27",
+        "8/23"
+      ],
+      "mentions": 3
+    },
+    {
+      "symbol": "6517",
+      "name": "保勝光學",
+      "days": 2,
+      "dates": [
+        "8/27",
+        "8/26"
+      ],
+      "mentions": 3
     },
     {
       "symbol": "1303",
@@ -322,38 +354,6 @@
       "mentions": 2
     },
     {
-      "symbol": "3441",
-      "name": "聯一光",
-      "days": 2,
-      "dates": [
-        "8/27",
-        "8/26"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -7.5
-    },
-    {
-      "symbol": "3019",
-      "name": "亞光",
-      "days": 2,
-      "dates": [
-        "8/27",
-        "8/23"
-      ],
-      "mentions": 2
-    },
-    {
-      "symbol": "6517",
-      "name": "保勝光學",
-      "days": 2,
-      "dates": [
-        "8/27",
-        "8/26"
-      ],
-      "mentions": 2
-    },
-    {
       "symbol": "2330",
       "name": "台積電",
       "days": 2,
@@ -431,6 +431,19 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE9scUtlbTdwQ3FXNVJrRWtNTjJSV2NQdzdaa1Jsc1VkVlp5YjAwWi1vUUVaYUE3ajdmbVJWb2hWeUtkTkczT0Jzd3JHUWI5ODRXa2tEVzNDcXM",
+      "tkey": "熱門族群AI需求旺到2030年晶圓代工產業迎榮景",
+      "title": "熱門族群》AI需求旺到2030年 晶圓代工產業迎榮景 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/7hmghe8jscxg",
+      "source": "自由時報",
+      "pubDate": "Sat, 29 Aug 2026 00:37:25 GMT",
+      "stocks": [],
+      "background": "AI需求持續增長，帶動晶圓代工產業長期發展，預計榮景將延續至2030年。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
       "tkey": "熱門族群龍頭聯發科創新高IC設計股搶發AI財",
