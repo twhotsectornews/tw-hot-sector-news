@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-29T05:15:59.728+08:00",
-  "generatedAt": "2026-08-28T21:15:59.728Z",
+  "asOf": "2026-08-29T11:02:16.691+08:00",
+  "generatedAt": "2026-08-29T03:02:16.691Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -17,10 +17,8 @@
         "8/23"
       ],
       "mentions": 7,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": true,
-      "pct": 9.9,
+      "status": "逼近新高",
+      "dist": -2.8,
       "luw": 2,
       "luwd": [
         "8/27",
@@ -152,10 +150,7 @@
         "8/26",
         "8/24"
       ],
-      "mentions": 3,
-      "status": "高檔修正",
-      "dist": -14.5,
-      "limitUp": false
+      "mentions": 3
     },
     {
       "symbol": "3406",
@@ -169,8 +164,6 @@
       "mentions": 3,
       "status": "創新高",
       "dist": 0,
-      "limitUp": true,
-      "pct": 9.9,
       "luw": 3,
       "luwd": [
         "8/28",
@@ -316,9 +309,7 @@
         "8/27",
         "8/26"
       ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 9.9
+      "mentions": 2
     },
     {
       "symbol": "6274",
@@ -328,8 +319,7 @@
         "8/27",
         "8/24"
       ],
-      "mentions": 2,
-      "limitUp": false
+      "mentions": 2
     },
     {
       "symbol": "3441",
@@ -340,10 +330,8 @@
         "8/26"
       ],
       "mentions": 2,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": true,
-      "pct": 10
+      "status": "逼近新高",
+      "dist": -7.5
     },
     {
       "symbol": "3019",
@@ -353,8 +341,17 @@
         "8/27",
         "8/23"
       ],
-      "mentions": 2,
-      "limitUp": false
+      "mentions": 2
+    },
+    {
+      "symbol": "6517",
+      "name": "保勝光學",
+      "days": 2,
+      "dates": [
+        "8/27",
+        "8/26"
+      ],
+      "mentions": 2
     },
     {
       "symbol": "2330",

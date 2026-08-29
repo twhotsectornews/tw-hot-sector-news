@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "updatedAt": "2026-08-28T21:15:59.724Z",
+  "updatedAt": "2026-08-29T03:02:16.688Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNVlZNZ2JXa2ktVXUxeXR1aGVPVzJrTHVaZ2Y2RUJva0FUZU85U0RmLU5sQ2U0ZUxFaUlsd3hnc3AwdkxuVzFYUGRRaXo4aGtKTklKd29zcGFIQzlUN2dtcDY2bHFmeEM4Z2YtZzVVM3VjQlpNVW1INkxoOHhNZVZXNTB1TU9Ja1FD",
@@ -14,8 +14,6 @@
           "symbol": "3026",
           "name": "禾伸堂",
           "point": "強勢收鎖漲停",
-          "limitUp": true,
-          "pct": 9.9,
           "luw": 2,
           "luwd": [
             "8/28",
@@ -26,8 +24,6 @@
           "symbol": "6449",
           "name": "鈺邦",
           "point": "強勢收鎖漲停",
-          "limitUp": true,
-          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "8/27"
@@ -37,8 +33,6 @@
           "symbol": "6173",
           "name": "信昌電",
           "point": "強勢收鎖漲停",
-          "limitUp": true,
-          "pct": 9.8,
           "luw": 5,
           "luwd": [
             "8/28",
@@ -51,14 +45,12 @@
         {
           "symbol": "8043",
           "name": "蜜望實",
-          "point": "上漲半根漲停",
-          "limitUp": false
+          "point": "上漲半根漲停"
         },
         {
           "symbol": "2492",
           "name": "華新科",
           "point": "上漲半根漲停",
-          "limitUp": false,
           "luw": 1,
           "luwd": [
             "8/28"
@@ -67,17 +59,15 @@
         {
           "symbol": "8042",
           "name": "金山電",
-          "point": "上漲半根漲停",
-          "limitUp": false
+          "point": "上漲半根漲停"
         },
         {
           "symbol": "2327",
           "name": "國巨",
-          "point": "收漲3.35%",
-          "limitUp": false
+          "point": "收漲3.35%"
         }
       ],
-      "background": "MLCC 產業受南韓大廠三星電機調漲報價影響，加上 AI 伺服器需求強勁，帶動被動元件族群進入上升循環。日系大廠村田、太陽誘電動向為後續漲勢關鍵。",
+      "background": "MLCC產業邁入上升循環，南韓三星電機調漲報價，AI資料中心需求強勁導致MLCC需求吃緊，台、陸系廠稼動率提高。",
       "themeTags": [
         "需求驅動",
         "國際大廠",
@@ -95,11 +85,9 @@
         {
           "symbol": "8039",
           "name": "台虹",
-          "point": "受惠PTFE新材料與AI高速傳輸需求",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 10,
+          "point": "受惠產品組合升級與PTFE新材料",
+          "status": "逼近新高",
+          "dist": -5.6,
           "luw": 3,
           "luwd": [
             "8/27",
@@ -110,40 +98,31 @@
         {
           "symbol": "4939",
           "name": "亞電",
-          "point": "搶攻半導體與AI高頻材料，改寫歷史高",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 9.9
+          "point": "搶攻半導體與AI高頻材料",
+          "status": "逼近新高",
+          "dist": -2.5
         },
         {
           "symbol": "5475",
           "name": "德宏",
-          "point": "玻纖布跟進漲停",
-          "limitUp": true,
-          "pct": 9.9
+          "point": "玻纖布跟進漲停"
         },
         {
           "symbol": "2383",
           "name": "台光電",
-          "point": "CCL三雄同步走弱",
-          "status": "高檔修正",
-          "dist": -14.5,
-          "limitUp": false
+          "point": "CCL三雄同步走弱"
         },
         {
           "symbol": "6274",
           "name": "台燿",
-          "point": "CCL三雄同步走弱",
-          "limitUp": false
+          "point": "CCL三雄同步走弱"
         },
         {
           "symbol": "6213",
           "name": "聯茂",
           "point": "CCL三雄同步走弱",
           "status": "逼近新高",
-          "dist": -6.3,
-          "limitUp": false,
+          "dist": -2.8,
           "luw": 2,
           "luwd": [
             "8/26",
@@ -151,10 +130,9 @@
           ]
         }
       ],
-      "background": "AI高速傳輸需求帶動PCB材料升級，PTFE（聚四氟乙烯）成為市場新焦點，有望成為輝達下一代Rubin平台的材料方案之一。",
+      "background": "AI高速傳輸需求帶動PCB新材料PTFE升級，美系GPU客戶測試新配方，市場預期PTFE有望成為輝達下一代平台材料方案。",
       "themeTags": [
-        "需求驅動",
-        "國際大廠"
+        "需求驅動"
       ]
     },
     {
@@ -168,11 +146,9 @@
         {
           "symbol": "3008",
           "name": "大立光",
-          "point": "受惠iPhone 18與CPO題材，改寫歷史高",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 9.9,
+          "point": "受惠CPO與蘋果新機題材",
+          "status": "逼近新高",
+          "dist": -2.8,
           "luw": 2,
           "luwd": [
             "8/27",
@@ -182,11 +158,9 @@
         {
           "symbol": "3406",
           "name": "玉晶光",
-          "point": "受惠iPhone 18備貨與CPO專案，連拉漲停",
+          "point": "受惠傳統拉貨旺季與CPO專案",
           "status": "創新高",
           "dist": 0,
-          "limitUp": true,
-          "pct": 9.9,
           "luw": 3,
           "luwd": [
             "8/28",
@@ -197,18 +171,14 @@
         {
           "symbol": "3441",
           "name": "聯一光",
-          "point": "產品應用廣泛，月噴漲逾6成",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 10
+          "point": "產品應用廣泛，訂單動能增加",
+          "status": "逼近新高",
+          "dist": -7.5
         },
         {
           "symbol": "6668",
           "name": "中揚光",
           "point": "聯袂鎖漲停",
-          "limitUp": true,
-          "pct": 10,
           "luw": 2,
           "luwd": [
             "8/27",
@@ -219,8 +189,6 @@
           "symbol": "3504",
           "name": "揚明光",
           "point": "聯袂鎖漲停",
-          "limitUp": true,
-          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "8/27"
@@ -229,20 +197,22 @@
         {
           "symbol": "6209",
           "name": "今國光",
-          "point": "跟進放閃",
-          "limitUp": false
+          "point": "跟進放閃"
         },
         {
           "symbol": "3019",
           "name": "亞光",
-          "point": "跟進放閃",
-          "limitUp": false
+          "point": "跟進放閃"
+        },
+        {
+          "symbol": "6517",
+          "name": "保勝光學",
+          "point": "跟進放閃"
         }
       ],
-      "background": "光學元件族群受惠蘋果新機（iPhone 18）發表與共同封裝光學（CPO）題材雙重加持，市場看好其在AI高速傳輸領域的應用潛力。",
+      "background": "光學股受惠蘋果新機發表與CPO題材，輝達CPO矽光子交換器進入量產，帶動光學元件需求，產業前景看好。",
       "themeTags": [
-        "需求驅動",
-        "國際大廠"
+        "需求驅動"
       ]
     },
     {
