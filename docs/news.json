@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-30T14:01:50.769+08:00",
-  "generatedAt": "2026-08-30T06:01:50.769Z",
+  "asOf": "2026-08-30T16:39:04.359+08:00",
+  "generatedAt": "2026-08-30T08:39:04.359Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -429,6 +429,92 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPMmdJVnVsWFE5aVZ2TW9RcGNmaXNQazZpcFdWQUhzTzZpNmluVExTbDVIOE9XZzhvbGdOSFlkVW0teU5TSTh3d1gzMG5UOFpQM1RTSzlXMzNXcnE4MjN5STV5Mk90bllSWFVjYjZ4c1RQZlZsakVXeE0xOWxJZ3M5QzI0YThMSTR1",
+      "tkey": "熱門族群上半年財報亮麗生技類股眾利多加身",
+      "title": "《熱門族群》上半年財報亮麗 生技類股眾利多加身 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6286062001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sun, 30 Aug 2026 07:15:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "point": "Ropeg藥證帶動營運爆發",
+          "status": "逼近新高",
+          "dist": -5.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "4129",
+          "name": "泰合",
+          "point": "藥證倒數計時題材",
+          "limitUp": false
+        },
+        {
+          "symbol": "6649",
+          "name": "仁新",
+          "point": "藥證倒數計時題材",
+          "limitUp": false
+        },
+        {
+          "symbol": "6461",
+          "name": "益安",
+          "point": "藥證倒數計時題材",
+          "limitUp": false
+        },
+        {
+          "symbol": "6472",
+          "name": "保瑞",
+          "point": "併購效益與CDMO訂單回溫",
+          "limitUp": false
+        },
+        {
+          "symbol": "1747",
+          "name": "美時",
+          "point": "併購效益與新品上市成長",
+          "limitUp": false
+        },
+        {
+          "symbol": "4743",
+          "name": "泰博",
+          "point": "上半年EPS稱王",
+          "limitUp": false
+        },
+        {
+          "symbol": "6496",
+          "name": "晶碩",
+          "point": "眼球股需求強勁",
+          "limitUp": false
+        },
+        {
+          "symbol": "6782",
+          "name": "視陽",
+          "point": "眼球股需求強勁",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/25"
+          ]
+        },
+        {
+          "symbol": "6747",
+          "name": "望隼",
+          "point": "眼球股需求強勁",
+          "limitUp": false
+        },
+        {
+          "symbol": "4138",
+          "name": "豪展",
+          "point": "本益比偏低",
+          "limitUp": false
+        }
+      ],
+      "background": "生技類股受惠於新藥藥證取得、CDMO訂單回溫以及隱形眼鏡需求強勁，上半年財報亮麗，營運成長動能可觀。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNdUVWMU9aaXRSMjVjZThGdGN3YlRqczB1eUZBZDFnWVczZkl6MTZKbGpsdVVtR1VBLUtkLXFOM2xPeU9WX2lKUklZUGlUczYtdUw3QmdmR1V4dEg0VEd0eG5sa25fZjJ5Nkc2N3Rqal9sUG5HV0Z3aXlyaDNSLTM1NzlXV2k3bnZJ",
       "tkey": "熱門族群光通訊族群撐起8月半邊天",
