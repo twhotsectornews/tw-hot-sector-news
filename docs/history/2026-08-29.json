@@ -1,0 +1,39 @@
+{
+  "date": "2026-08-29",
+  "updatedAt": "2026-08-30T03:01:57.194Z",
+  "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE9scUtlbTdwQ3FXNVJrRWtNTjJSV2NQdzdaa1Jsc1VkVlp5YjAwWi1vUUVaYUE3ajdmbVJWb2hWeUtkTkczT0Jzd3JHUWI5ODRXa2tEVzNDcXM",
+      "tkey": "熱門族群AI需求旺到2030年晶圓代工產業迎榮景",
+      "title": "熱門族群》AI需求旺到2030年 晶圓代工產業迎榮景 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/7hmghe8jscxg",
+      "source": "自由時報",
+      "pubDate": "Sat, 29 Aug 2026 00:37:25 GMT",
+      "stocks": [],
+      "background": "AI需求持續增長，帶動晶圓代工產業長期發展，預計榮景將延續至2030年。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
+      "tkey": "熱門族群龍頭聯發科創新高IC設計股搶發AI財",
+      "title": "熱門族群》龍頭聯發科創新高 IC設計股搶發AI財 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/k0bsc03rnawt",
+      "source": "自由時報",
+      "pubDate": "Fri, 28 Aug 2026 16:01:42 GMT",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "龍頭股價創新高",
+          "limitUp": false
+        }
+      ],
+      "background": "IC設計股受惠於AI技術發展，特別是AI晶片需求增加，帶動相關個股表現，產業前景看好。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}
