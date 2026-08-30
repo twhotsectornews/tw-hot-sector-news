@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-30T11:01:57.203+08:00",
-  "generatedAt": "2026-08-30T03:01:57.203Z",
+  "asOf": "2026-08-30T12:01:58.312+08:00",
+  "generatedAt": "2026-08-30T04:01:58.312Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -35,6 +35,27 @@
       ],
       "mentions": 6,
       "limitUp": false
+    },
+    {
+      "symbol": "3406",
+      "name": "玉晶光",
+      "days": 3,
+      "dates": [
+        "8/30",
+        "8/27",
+        "8/26"
+      ],
+      "mentions": 4,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": true,
+      "pct": 10,
+      "luw": 3,
+      "luwd": [
+        "8/28",
+        "8/27",
+        "8/26"
+      ]
     },
     {
       "symbol": "2454",
@@ -189,6 +210,17 @@
       "limitUp": false
     },
     {
+      "symbol": "4979",
+      "name": "華星光",
+      "days": 2,
+      "dates": [
+        "8/30",
+        "8/24"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "2344",
       "name": "華邦電",
       "days": 2,
@@ -198,24 +230,6 @@
       ],
       "mentions": 3,
       "limitUp": false
-    },
-    {
-      "symbol": "3406",
-      "name": "玉晶光",
-      "days": 2,
-      "dates": [
-        "8/27",
-        "8/26"
-      ],
-      "mentions": 3,
-      "status": "創新高",
-      "dist": 0,
-      "luw": 3,
-      "luwd": [
-        "8/28",
-        "8/27",
-        "8/26"
-      ]
     },
     {
       "symbol": "3441",
@@ -274,6 +288,39 @@
         "8/25",
         "8/24",
         "8/21"
+      ]
+    },
+    {
+      "symbol": "3450",
+      "name": "聯鈞",
+      "days": 2,
+      "dates": [
+        "8/30",
+        "8/24"
+      ],
+      "mentions": 2,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": true,
+      "pct": 9.9,
+      "luw": 1,
+      "luwd": [
+        "8/28"
+      ]
+    },
+    {
+      "symbol": "4977",
+      "name": "眾達-KY",
+      "days": 2,
+      "dates": [
+        "8/30",
+        "8/26"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "8/26"
       ]
     },
     {
@@ -379,43 +426,143 @@
       "status": "逼近新高",
       "dist": -8.9,
       "limitUp": false
-    },
-    {
-      "symbol": "4991",
-      "name": "環宇-KY",
-      "days": 2,
-      "dates": [
-        "8/26",
-        "8/24"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 5,
-      "luwd": [
-        "8/27",
-        "8/26",
-        "8/25",
-        "8/24",
-        "8/21"
-      ]
-    },
-    {
-      "symbol": "3081",
-      "name": "聯亞",
-      "days": 2,
-      "dates": [
-        "8/26",
-        "8/24"
-      ],
-      "mentions": 2,
-      "status": "創新高",
-      "dist": -0.3,
-      "limitUp": true,
-      "pct": 10
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNdUVWMU9aaXRSMjVjZThGdGN3YlRqczB1eUZBZDFnWVczZkl6MTZKbGpsdVVtR1VBLUtkLXFOM2xPeU9WX2lKUklZUGlUczYtdUw3QmdmR1V4dEg0VEd0eG5sa25fZjJ5Nkc2N3Rqal9sUG5HV0Z3aXlyaDNSLTM1NzlXV2k3bnZJ",
+      "tkey": "熱門族群光通訊族群撐起8月半邊天",
+      "title": "《熱門族群》光通訊族群 撐起8月半邊天 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6286029001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sun, 30 Aug 2026 03:01:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "股價大漲102.76％，居光通訊股之冠",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 3,
+          "luwd": [
+            "8/28",
+            "8/27",
+            "8/26"
+          ]
+        },
+        {
+          "symbol": "3694",
+          "name": "光環",
+          "point": "股價勁揚89.66％，7月營收年增96.94％",
+          "limitUp": false
+        },
+        {
+          "symbol": "6418",
+          "name": "統新",
+          "point": "股價勁揚74.5％，受惠美國寬頻基建與AI資料中心需求",
+          "limitUp": false
+        },
+        {
+          "symbol": "3450",
+          "name": "聯鈞",
+          "point": "股價勁揚70.7％，獲三大法人買超3,483張",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "8/28"
+          ]
+        },
+        {
+          "symbol": "4979",
+          "name": "華星光",
+          "point": "股價上漲64.86％，開始批量生產800G產品",
+          "limitUp": false
+        },
+        {
+          "symbol": "4977",
+          "name": "眾達-KY",
+          "point": "股價漲47.01％",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/26"
+          ]
+        },
+        {
+          "symbol": "6289",
+          "name": "華星光",
+          "point": "股價漲45.89％",
+          "limitUp": false
+        },
+        {
+          "symbol": "6261",
+          "name": "前鼎",
+          "point": "股價漲43.94％",
+          "limitUp": false
+        }
+      ],
+      "background": "光通訊族群受惠AI資料中心矽光子及CW Laser需求升溫，以及美國寬頻基建需求，訂單能見度提高，傳輸速度朝1.6T、3.2T演進。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiX0FVX3lxTE1rN1NsazV3X3hTa1BRRW1GWmtRRXZiNnRKcXYyZHgtOVJqNktFNEs1T0ctMlc3SkxNLTRTalJnLTdFbFM2NGtycEJWTC1JQkhvVkJ3b2hUY3Iwc1JJb01j",
+      "tkey": "熱門族群立院三讀利多出盡？軍工股虎頭蛇尾",
+      "title": "熱門族群》立院三讀利多出盡？軍工股虎頭蛇尾 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5555825",
+      "source": "自由財經",
+      "pubDate": "Sun, 30 Aug 2026 01:39:49 GMT",
+      "stocks": [
+        {
+          "symbol": "8033",
+          "name": "雷虎",
+          "point": "股價開高走低，週線收紅",
+          "limitUp": false
+        },
+        {
+          "symbol": "2634",
+          "name": "漢翔",
+          "point": "股價開高走低，無人機業務獲標案",
+          "status": "高檔修正",
+          "dist": -11.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "2645",
+          "name": "長榮航太",
+          "point": "股價開高走低",
+          "limitUp": false
+        },
+        {
+          "symbol": "2630",
+          "name": "亞航",
+          "point": "股價開高走低，週線收紅",
+          "limitUp": false
+        },
+        {
+          "symbol": "6753",
+          "name": "龍德造船",
+          "point": "股價開高走低",
+          "limitUp": false
+        },
+        {
+          "symbol": "2208",
+          "name": "台船",
+          "point": "股價開高走低",
+          "limitUp": false
+        }
+      ],
+      "background": "台灣立法院通過「強化國防自主暨無人載具產業發展條例」，政府將編列預算推動國防自主及無人載具產業發展，政策支持中長期仍看好。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
     {
       "gid": "CBMiX0FVX3lxTE5maHIxOUJMb1pBNlJMZnFqbFNmam1BQmc1bGJQZDh1emRQdFRGbmlhME9ubFExZHZobU9PU0s0Z3lkaEpOampKM0t1LVhnV1NQZEFTbGtNV0dWX2E5Z2Nv",
       "tkey": "熱門族群AI催動先進封裝需求封測廠喜迎新一波成長",
