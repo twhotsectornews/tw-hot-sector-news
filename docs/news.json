@@ -1,11 +1,72 @@
 {
-  "asOf": "2026-08-31T14:01:38.378+08:00",
-  "generatedAt": "2026-08-31T06:01:38.378Z",
+  "asOf": "2026-08-31T17:02:43.877+08:00",
+  "generatedAt": "2026-08-31T09:02:43.877Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "3406",
+      "name": "玉晶光",
+      "days": 4,
+      "dates": [
+        "8/31",
+        "8/30",
+        "8/27",
+        "8/26"
+      ],
+      "mentions": 5,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": true,
+      "pct": 9.6,
+      "luw": 3,
+      "luwd": [
+        "8/28",
+        "8/27",
+        "8/26"
+      ]
+    },
+    {
+      "symbol": "3008",
+      "name": "大立光",
+      "days": 3,
+      "dates": [
+        "8/31",
+        "8/27",
+        "8/26"
+      ],
+      "mentions": 5,
+      "status": "逼近新高",
+      "dist": -1.1,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "8/27",
+        "8/26"
+      ]
+    },
+    {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 3,
+      "dates": [
+        "8/31",
+        "8/27",
+        "8/26"
+      ],
+      "mentions": 5,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": true,
+      "pct": 10,
+      "luw": 2,
+      "luwd": [
+        "8/27",
+        "8/26"
+      ]
+    },
     {
       "symbol": "2408",
       "name": "南亞科",
@@ -19,45 +80,18 @@
       "limitUp": false
     },
     {
-      "symbol": "1303",
-      "name": "南亞",
+      "symbol": "2330",
+      "name": "台積電",
       "days": 3,
       "dates": [
         "8/31",
         "8/27",
-        "8/26"
+        "8/25"
       ],
-      "mentions": 4,
+      "mentions": 3,
       "status": "逼近新高",
-      "dist": -2.1,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 2,
-      "luwd": [
-        "8/27",
-        "8/26"
-      ]
-    },
-    {
-      "symbol": "3406",
-      "name": "玉晶光",
-      "days": 3,
-      "dates": [
-        "8/30",
-        "8/27",
-        "8/26"
-      ],
-      "mentions": 4,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 3,
-      "luwd": [
-        "8/28",
-        "8/27",
-        "8/26"
-      ]
+      "dist": -5.1,
+      "limitUp": false
     },
     {
       "symbol": "8046",
@@ -77,21 +111,27 @@
       ]
     },
     {
-      "symbol": "3008",
-      "name": "大立光",
+      "symbol": "1301",
+      "name": "台塑",
       "days": 2,
       "dates": [
-        "8/27",
-        "8/26"
+        "8/31",
+        "8/27"
       ],
-      "mentions": 4,
-      "status": "逼近新高",
-      "dist": -2.8,
-      "luw": 2,
-      "luwd": [
-        "8/27",
-        "8/26"
-      ]
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "1326",
+      "name": "台化",
+      "days": 2,
+      "dates": [
+        "8/31",
+        "8/27"
+      ],
+      "mentions": 3,
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "3105",
@@ -281,19 +321,6 @@
       "mentions": 2
     },
     {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 2,
-      "dates": [
-        "8/27",
-        "8/25"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -4.1,
-      "limitUp": false
-    },
-    {
       "symbol": "2609",
       "name": "陽明",
       "days": 2,
@@ -371,6 +398,89 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMibkFVX3lxTE5CWUVUN21MM0lqN0htb3lRdkdjYXdjSXBTMHV2X1U5V0FfU2oxM0Y2ejZVTnk4NW1nRGRlc2t0cW9ONF8xZWFDTkhCSUIxOFhOemx0c3VlV2JHLXZJQ1lILXVtdkh6SFNndTBCeUV3",
+      "tkey": "盤後解析最熱門族群曝光！台股險保住46K聚焦4大指標",
+      "title": "盤後解析》最熱門族群曝光！台股險保住46K 聚焦4大指標 - 中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20260831003100-260410",
+      "source": "中時新聞網",
+      "pubDate": "Mon, 31 Aug 2026 07:00:03 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "跌幅收斂助大盤",
+          "status": "逼近新高",
+          "dist": -5.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "檢調搜索利空跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "CPO題材大漲創新高",
+          "status": "逼近新高",
+          "dist": -1.1,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "8/27",
+            "8/26"
+          ]
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "CPO產品量產攻漲停",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 9.6,
+          "luw": 3,
+          "luwd": [
+            "8/28",
+            "8/27",
+            "8/26"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "率先漲停鎖住",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 2,
+          "luwd": [
+            "8/27",
+            "8/26"
+          ]
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "股價維持高漲幅",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "股價衝上漲停",
+          "limitUp": true,
+          "pct": 10
+        }
+      ],
+      "background": "塑化股受資金青睞，成為盤面撐盤主力。CPO題材吸引買盤，光學元件廠受惠蘋果新品發表會與產品量產加速。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPUmwtTC1MT01ZZFhJYk9HSkFsbDlWbDEzTkFBV1J4MVg2bklIWTk0U1hBNjJPZ1ZwcWhCWE9NaVp4QTVmZlduZ3hyMDBjYnNtTGJYbi1BQ3RFRmh3V0hLanZYX19YdFNuLWVxaXJVSHlVWmpTUVBERnR2U1FiSnRtYlltWFpZRjNj",
       "tkey": "熱門族群低軌衛星有火種！華通逆風走揚瀚荃月飆6成更閃",
