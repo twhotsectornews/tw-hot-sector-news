@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-31T12:02:46.118+08:00",
-  "generatedAt": "2026-08-31T04:02:46.118Z",
+  "asOf": "2026-08-31T13:02:03.613+08:00",
+  "generatedAt": "2026-08-31T05:02:03.613Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -457,7 +457,9 @@
           "symbol": "3189",
           "name": "景碩",
           "point": "MSCI納入PCB相關成分股",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14.9
         },
         {
           "symbol": "6274",
@@ -520,7 +522,9 @@
           "symbol": "3189",
           "name": "景碩",
           "point": "盤中跌幅逾9%",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14.9
         },
         {
           "symbol": "8046",
