@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-08-31T18:42:00.371+08:00",
-  "generatedAt": "2026-08-31T10:42:00.371Z",
+  "asOf": "2026-09-01T01:01:52.806+08:00",
+  "generatedAt": "2026-08-31T17:01:52.806Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -21,8 +21,9 @@
       "dist": 0,
       "limitUp": true,
       "pct": 9.6,
-      "luw": 3,
+      "luw": 4,
       "luwd": [
+        "8/31",
         "8/28",
         "8/27",
         "8/26"
@@ -61,8 +62,9 @@
       "dist": 0,
       "limitUp": true,
       "pct": 10,
-      "luw": 2,
+      "luw": 3,
       "luwd": [
+        "8/31",
         "8/27",
         "8/26"
       ]
@@ -77,20 +79,6 @@
         "8/27"
       ],
       "mentions": 4,
-      "limitUp": false
-    },
-    {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 3,
-      "dates": [
-        "8/31",
-        "8/27",
-        "8/25"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -5.1,
       "limitUp": false
     },
     {
@@ -131,7 +119,11 @@
       ],
       "mentions": 3,
       "limitUp": true,
-      "pct": 10
+      "pct": 10,
+      "luw": 1,
+      "luwd": [
+        "8/31"
+      ]
     },
     {
       "symbol": "3105",
@@ -165,6 +157,19 @@
         "8/26"
       ],
       "mentions": 3
+    },
+    {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 2,
+      "dates": [
+        "8/31",
+        "8/27"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -5.1,
+      "limitUp": false
     },
     {
       "symbol": "2324",
@@ -319,82 +324,6 @@
         "8/26"
       ],
       "mentions": 2
-    },
-    {
-      "symbol": "2609",
-      "name": "陽明",
-      "days": 2,
-      "dates": [
-        "8/26",
-        "8/25"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2615",
-      "name": "萬海",
-      "days": 2,
-      "dates": [
-        "8/26",
-        "8/25"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "8/21"
-      ]
-    },
-    {
-      "symbol": "2606",
-      "name": "裕民",
-      "days": 2,
-      "dates": [
-        "8/26",
-        "8/25"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -9.2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2603",
-      "name": "長榮",
-      "days": 2,
-      "dates": [
-        "8/26",
-        "8/25"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -10.3,
-      "limitUp": false
-    },
-    {
-      "symbol": "2612",
-      "name": "中航",
-      "days": 2,
-      "dates": [
-        "8/26",
-        "8/25"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2637",
-      "name": "慧洋-KY",
-      "days": 2,
-      "dates": [
-        "8/26",
-        "8/25"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -14.4,
-      "limitUp": false
     }
   ],
   "news": [
@@ -418,7 +347,9 @@
           "symbol": "3037",
           "name": "欣興",
           "point": "檢調搜索利空跌停",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -9.8
         },
         {
           "symbol": "3008",
@@ -441,8 +372,9 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.6,
-          "luw": 3,
+          "luw": 4,
           "luwd": [
+            "8/31",
             "8/28",
             "8/27",
             "8/26"
@@ -456,8 +388,9 @@
           "dist": 0,
           "limitUp": true,
           "pct": 10,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "8/31",
             "8/27",
             "8/26"
           ]
@@ -473,7 +406,11 @@
           "name": "台化",
           "point": "股價衝上漲停",
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "8/31"
+          ]
         }
       ],
       "background": "塑化股受資金青睞，成為盤面撐盤主力。CPO題材吸引買盤，光學元件廠受惠蘋果新品發表會與產品量產加速。",
@@ -505,8 +442,9 @@
           "point": "AI Power營收躍居主力，股價強鎖漲停",
           "limitUp": true,
           "pct": 9.7,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "8/31",
             "8/26"
           ]
         },
@@ -607,8 +545,9 @@
           "dist": -2.1,
           "limitUp": true,
           "pct": 10,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "8/31",
             "8/27",
             "8/26"
           ]
@@ -633,7 +572,9 @@
           "symbol": "3037",
           "name": "欣興",
           "point": "火燒ABF跌停鎖死",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -9.8
         },
         {
           "symbol": "3189",
@@ -767,8 +708,9 @@
           "dist": 0,
           "limitUp": true,
           "pct": 10,
-          "luw": 3,
+          "luw": 4,
           "luwd": [
+            "8/31",
             "8/28",
             "8/27",
             "8/26"

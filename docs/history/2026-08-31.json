@@ -1,0 +1,285 @@
+{
+  "date": "2026-08-31",
+  "updatedAt": "2026-08-31T17:01:52.799Z",
+  "news": [
+    {
+      "gid": "CBMibkFVX3lxTE5CWUVUN21MM0lqN0htb3lRdkdjYXdjSXBTMHV2X1U5V0FfU2oxM0Y2ejZVTnk4NW1nRGRlc2t0cW9ONF8xZWFDTkhCSUIxOFhOemx0c3VlV2JHLXZJQ1lILXVtdkh6SFNndTBCeUV3",
+      "tkey": "盤後解析最熱門族群曝光！台股險保住46K聚焦4大指標",
+      "title": "盤後解析》最熱門族群曝光！台股險保住46K 聚焦4大指標 - 中時新聞網",
+      "url": "https://www.chinatimes.com/realtimenews/20260831003100-260410",
+      "source": "中時新聞網",
+      "pubDate": "Mon, 31 Aug 2026 07:00:03 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "跌幅收斂助大盤",
+          "status": "逼近新高",
+          "dist": -5.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "檢調搜索利空跌停",
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -9.8
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "CPO題材大漲創新高",
+          "status": "逼近新高",
+          "dist": -1.1,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "8/27",
+            "8/26"
+          ]
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "CPO產品量產攻漲停",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 9.6,
+          "luw": 4,
+          "luwd": [
+            "8/31",
+            "8/28",
+            "8/27",
+            "8/26"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "率先漲停鎖住",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 3,
+          "luwd": [
+            "8/31",
+            "8/27",
+            "8/26"
+          ]
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "股價維持高漲幅",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "股價衝上漲停",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "8/31"
+          ]
+        }
+      ],
+      "background": "塑化股受資金青睞，成為盤面撐盤主力。CPO題材吸引買盤，光學元件廠受惠蘋果新品發表會與產品量產加速。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPUmwtTC1MT01ZZFhJYk9HSkFsbDlWbDEzTkFBV1J4MVg2bklIWTk0U1hBNjJPZ1ZwcWhCWE9NaVp4QTVmZlduZ3hyMDBjYnNtTGJYbi1BQ3RFRmh3V0hLanZYX19YdFNuLWVxaXJVSHlVWmpTUVBERnR2U1FiSnRtYlltWFpZRjNj",
+      "tkey": "熱門族群低軌衛星有火種！華通逆風走揚瀚荃月飆6成更閃",
+      "title": "《熱門族群》低軌衛星有火種！華通逆風走揚 瀚荃月飆6成更閃 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6286909001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 31 Aug 2026 03:11:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2313",
+          "name": "華通",
+          "point": "衛星板產量全球之冠，獲利前景亮眼",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/27"
+          ]
+        },
+        {
+          "symbol": "8103",
+          "name": "瀚荃",
+          "point": "AI Power營收躍居主力，股價強鎖漲停",
+          "limitUp": true,
+          "pct": 9.7,
+          "luw": 2,
+          "luwd": [
+            "8/31",
+            "8/26"
+          ]
+        },
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "低軌衛星題材激勵強彈",
+          "limitUp": false
+        },
+        {
+          "symbol": "2312",
+          "name": "金寶",
+          "point": "金仁寶家族抗跌有撐",
+          "limitUp": false
+        },
+        {
+          "symbol": "2324",
+          "name": "仁寶",
+          "point": "金仁寶家族抗跌有撐",
+          "limitUp": false
+        },
+        {
+          "symbol": "3481",
+          "name": "昇達科",
+          "point": "產品組合優化，低軌衛星營收占比提高",
+          "limitUp": false
+        }
+      ],
+      "background": "低軌衛星產業受SpaceX擴大太空布局與AI供電需求激勵，相關供應鏈如PCB、連接器、PA等受惠，產業前景看好。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOODFWNW1FVTR1V2ZWbnlkNUZPdXVQdXZXUG1NN2RnYk5zT3pCZi1xWTQ0aHVSSDBRVXNyTkpjOWQ0LU9qbEFzOXdLMHRGbkpBbXNHd09RNlVXWk9kZzV1azdxWGFrV3ZzOGxoYnBncUJVN0NDczZrZ1ZLNFdOdmN3RTR6eXBQdS1r",
+      "tkey": "熱門族群MSCI納3檔記憶體盤後生效南亞科領軍抗跌",
+      "title": "《熱門族群》MSCI納3檔記憶體盤後生效 南亞科領軍抗跌 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6286890001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 31 Aug 2026 03:04:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "MSCI納入成分股，股價逆勢開高",
+          "limitUp": false
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "MSCI納入成分股，領軍抗跌創歷史新天價",
+          "limitUp": false
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "MSCI納入成分股，股價逆勢開高",
+          "limitUp": false
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "MSCI納入PCB相關成分股",
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14.9
+        },
+        {
+          "symbol": "6274",
+          "name": "台耀",
+          "point": "MSCI納入PCB相關成分股",
+          "limitUp": false
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "MSCI納入PCB相關成分股",
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -13.1,
+          "luw": 1,
+          "luwd": [
+            "8/27"
+          ]
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "下半年本業營運成長，外資轉買",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "受南亞科帶動股價創歷史新高",
+          "status": "逼近新高",
+          "dist": -2.1,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 3,
+          "luwd": [
+            "8/31",
+            "8/27",
+            "8/26"
+          ]
+        }
+      ],
+      "background": "記憶體價格預期看漲至2027年，受惠於AI、HPC等需求帶動，國際指標大廠如三星、SK海力士、美光等也看好後市，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPVS04RGFXeGR2R2hrS1FqUEluQUg0NktIS040R2hVVEV2NzVteFY1NVZ1SzhwbmkxbHVzanlGYkdMSk1TUDhzOTA4dDA2c1ktNVB5U1ZJbDExcnF1REF0b3ZJemR4OXVGSUF6SS1sbUpKNDNlTVFab0pLYzBwMDk5blZ3NzlPOWkx",
+      "tkey": "熱門族群欣興火燒ABF跌停鎖死景碩、南電同步受傷",
+      "title": "《熱門族群》欣興火燒ABF跌停鎖死 景碩、南電同步受傷 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6286841001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 31 Aug 2026 02:07:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "火燒ABF跌停鎖死",
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -9.8
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "盤中跌幅逾9%",
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14.9
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "股價由紅翻黑",
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -13.1,
+          "luw": 1,
+          "luwd": [
+            "8/27"
+          ]
+        },
+        {
+          "symbol": "4958",
+          "name": "臻鼎-KY",
+          "point": "展現較強抗跌力道",
+          "limitUp": false
+        }
+      ],
+      "background": "ABF載板族群受美股半導體重挫與大盤急殺影響，加上欣興「洗產地」爭議，市場風險情緒轉弱，導致股價承壓。",
+      "themeTags": []
+    }
+  ]
+}
