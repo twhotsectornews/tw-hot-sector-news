@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "updatedAt": "2026-09-01T06:04:37.707Z",
+  "updatedAt": "2026-09-01T08:05:48.913Z",
   "news": [
     {
       "gid": "CBMibkFVX3lxTE5CWUVUN21MM0lqN0htb3lRdkdjYXdjSXBTMHV2X1U5V0FfU2oxM0Y2ejZVTnk4NW1nRGRlc2t0cW9ONF8xZWFDTkhCSUIxOFhOemx0c3VlV2JHLXZJQ1lILXVtdkh6SFNndTBCeUV3",
@@ -129,7 +129,15 @@
           "symbol": "3105",
           "name": "穩懋",
           "point": "低軌衛星題材激勵強彈",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "8/31",
+            "8/28",
+            "8/27",
+            "8/26",
+            "8/25"
+          ]
         },
         {
           "symbol": "2312",

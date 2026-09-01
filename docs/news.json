@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-01T14:04:37.711+08:00",
-  "generatedAt": "2026-09-01T06:04:37.711Z",
+  "asOf": "2026-09-01T16:05:48.916+08:00",
+  "generatedAt": "2026-09-01T08:05:48.916Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -175,7 +175,15 @@
         "8/26"
       ],
       "mentions": 3,
-      "limitUp": false
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "8/31",
+        "8/28",
+        "8/27",
+        "8/26",
+        "8/25"
+      ]
     },
     {
       "symbol": "3441",
@@ -437,7 +445,16 @@
           "symbol": "4971",
           "name": "IET-KY",
           "point": "矽光子概念股，聯袂攻頂",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "8/31",
+            "8/28",
+            "8/27",
+            "8/26",
+            "8/25"
+          ]
         },
         {
           "symbol": "2426",
@@ -479,7 +496,7 @@
           "name": "前鼎",
           "point": "矽光子概念股，聯袂攻頂",
           "limitUp": true,
-          "pct": 10,
+          "pct": 9.8,
           "luw": 5,
           "luwd": [
             "8/31",
@@ -555,13 +572,31 @@
           "symbol": "3169",
           "name": "亞信",
           "point": "聯發科概念股，同步攻上漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "8/31",
+            "8/28",
+            "8/27",
+            "8/26",
+            "8/25"
+          ]
         },
         {
           "symbol": "8040",
           "name": "九暘",
           "point": "聯發科概念股，同步攻上漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "8/31",
+            "8/28",
+            "8/27",
+            "8/26",
+            "8/25"
+          ]
         }
       ],
       "background": "聯發科獲輝達大規模投資，深化AI ASIC與AI工廠合作，將客製化晶片導入輝達生態系，帶動集團股表現。",
@@ -630,13 +665,31 @@
           "symbol": "3169",
           "name": "亞信",
           "point": "聯發科家族成員股價飆漲",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "8/31",
+            "8/28",
+            "8/27",
+            "8/26",
+            "8/25"
+          ]
         },
         {
           "symbol": "8040",
           "name": "九暘",
           "point": "聯發科家族成員股價飆漲",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "8/31",
+            "8/28",
+            "8/27",
+            "8/26",
+            "8/25"
+          ]
         },
         {
           "symbol": "6526",
@@ -724,6 +777,19 @@
       "background": "欣興因產地爭議面臨轉單效應，PCB及載板族群受關注，市場預期後續訂單變化。",
       "themeTags": [
         "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE9laVlJajg5eDBzTUNIcnV5cVJWSmlGaVBJeHlZLW9yeFBKWTFmVTlGdEMwSUNlOHF5NEpPMnBYRS1OQ3JTb1dNcHZDY1d6by1wSVlRTlczcUs",
+      "tkey": "熱門族群立院三讀利多出盡？軍工股虎頭蛇尾",
+      "title": "熱門族群》立院三讀利多出盡？軍工股虎頭蛇尾 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/huza9tbwx0af",
+      "source": "自由時報",
+      "pubDate": "Mon, 31 Aug 2026 20:20:32 GMT",
+      "stocks": [],
+      "background": "台灣政府推動國防自主，軍工產業受惠政策支持，訂單能見度提升，但短期可能面臨利多出盡的修正壓力。",
+      "themeTags": [
+        "政策關稅"
       ]
     },
     {
@@ -853,7 +919,15 @@
           "symbol": "3105",
           "name": "穩懋",
           "point": "低軌衛星題材激勵強彈",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "8/31",
+            "8/28",
+            "8/27",
+            "8/26",
+            "8/25"
+          ]
         },
         {
           "symbol": "2312",
