@@ -1,6 +1,6 @@
 {
   "date": "2026-08-30",
-  "updatedAt": "2026-09-01T03:04:42.973Z",
+  "updatedAt": "2026-09-01T04:04:44.561Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPMmdJVnVsWFE5aVZ2TW9RcGNmaXNQazZpcFdWQUhzTzZpNmluVExTbDVIOE9XZzhvbGdOSFlkVW0teU5TSTh3d1gzMG5UOFpQM1RTSzlXMzNXcnE4MjN5STV5Mk90bllSWFVjYjZ4c1RQZlZsakVXeE0xOWxJZ3M5QzI0YThMSTR1",
@@ -9,83 +9,57 @@
       "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6286062001&PU=0010",
       "source": "富聯網",
       "pubDate": "Sun, 30 Aug 2026 07:15:00 GMT",
+      "stocks": [],
+      "background": "生技類股上半年財報亮麗，多數公司獲利優於去年同期，藥證題材、CDMO訂單回溫及新品上市帶動成長，眼球股受惠亞洲市場需求強勁。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiX0FVX3lxTE1rN1NsazV3X3hTa1BRRW1GWmtRRXZiNnRKcXYyZHgtOVJqNktFNEs1T0ctMlc3SkxNLTRTalJnLTdFbFM2NGtycEJWTC1JQkhvVkJ3b2hUY3Iwc1JJb01j",
+      "tkey": "熱門族群立院三讀利多出盡？軍工股虎頭蛇尾",
+      "title": "熱門族群》立院三讀利多出盡？軍工股虎頭蛇尾 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5555825",
+      "source": "自由財經",
+      "pubDate": "Sun, 30 Aug 2026 07:00:00 GMT",
       "stocks": [
         {
-          "symbol": "6446",
-          "name": "藥華藥",
-          "point": "Ropeg藥證帶動營運爆發",
-          "status": "逼近新高",
-          "dist": -5.8,
-          "limitUp": false
+          "symbol": "8033",
+          "name": "雷虎",
+          "point": "無人載具條例三讀通過，股價收黑"
         },
         {
-          "symbol": "4129",
-          "name": "泰合",
-          "point": "藥證倒數計時題材",
-          "limitUp": false
+          "symbol": "2634",
+          "name": "漢翔",
+          "point": "無人載具條例三讀通過，股價收黑",
+          "status": "高檔修正",
+          "dist": -12.5
         },
         {
-          "symbol": "6649",
-          "name": "仁新",
-          "point": "藥證倒數計時題材",
-          "limitUp": false
+          "symbol": "2645",
+          "name": "長榮航太",
+          "point": "無人載具條例三讀通過，股價收黑"
         },
         {
-          "symbol": "6461",
-          "name": "益安",
-          "point": "藥證倒數計時題材",
-          "limitUp": false
+          "symbol": "2630",
+          "name": "亞航",
+          "point": "無人載具條例三讀通過，股價收黑"
         },
         {
-          "symbol": "6472",
-          "name": "保瑞",
-          "point": "併購效益與CDMO訂單回溫",
-          "limitUp": false
+          "symbol": "6753",
+          "name": "龍德造船",
+          "point": "無人載具條例三讀通過，股價收黑"
         },
         {
-          "symbol": "1747",
-          "name": "美時",
-          "point": "併購效益與新品上市成長",
-          "limitUp": false
-        },
-        {
-          "symbol": "4743",
-          "name": "泰博",
-          "point": "上半年EPS稱王",
-          "limitUp": false
-        },
-        {
-          "symbol": "6496",
-          "name": "晶碩",
-          "point": "眼球股需求強勁",
-          "limitUp": false
-        },
-        {
-          "symbol": "6782",
-          "name": "視陽",
-          "point": "眼球股需求強勁",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/25"
-          ]
-        },
-        {
-          "symbol": "6747",
-          "name": "望隼",
-          "point": "眼球股需求強勁",
-          "limitUp": false
-        },
-        {
-          "symbol": "4138",
-          "name": "豪展",
-          "point": "本益比偏低",
-          "limitUp": false
+          "symbol": "2208",
+          "name": "台船",
+          "point": "無人載具條例三讀通過，股價收黑"
         }
       ],
-      "background": "生技類股受惠於新藥藥證取得、CDMO訂單回溫以及隱形眼鏡需求強勁，上半年財報亮麗，營運成長動能可觀。",
+      "background": "立法院三讀通過「強化國防自主暨無人載具產業發展條例」，預計未來6年編列2400億元推動國防自主及無人載具產業，政策支持中長期看好。",
       "themeTags": [
-        "需求驅動"
+        "政策關稅"
       ]
     },
     {
@@ -169,58 +143,6 @@
       "background": "光通訊族群受惠AI資料中心矽光子及CW Laser需求升溫，以及美國寬頻基建需求，訂單能見度提高，傳輸速度朝1.6T、3.2T演進。",
       "themeTags": [
         "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiX0FVX3lxTE1rN1NsazV3X3hTa1BRRW1GWmtRRXZiNnRKcXYyZHgtOVJqNktFNEs1T0ctMlc3SkxNLTRTalJnLTdFbFM2NGtycEJWTC1JQkhvVkJ3b2hUY3Iwc1JJb01j",
-      "tkey": "熱門族群立院三讀利多出盡？軍工股虎頭蛇尾",
-      "title": "熱門族群》立院三讀利多出盡？軍工股虎頭蛇尾 - 自由財經",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5555825",
-      "source": "自由財經",
-      "pubDate": "Sun, 30 Aug 2026 01:39:49 GMT",
-      "stocks": [
-        {
-          "symbol": "8033",
-          "name": "雷虎",
-          "point": "股價開高走低，週線收紅",
-          "limitUp": false
-        },
-        {
-          "symbol": "2634",
-          "name": "漢翔",
-          "point": "股價開高走低，無人機業務獲標案",
-          "status": "高檔修正",
-          "dist": -11.4,
-          "limitUp": false
-        },
-        {
-          "symbol": "2645",
-          "name": "長榮航太",
-          "point": "股價開高走低",
-          "limitUp": false
-        },
-        {
-          "symbol": "2630",
-          "name": "亞航",
-          "point": "股價開高走低，週線收紅",
-          "limitUp": false
-        },
-        {
-          "symbol": "6753",
-          "name": "龍德造船",
-          "point": "股價開高走低",
-          "limitUp": false
-        },
-        {
-          "symbol": "2208",
-          "name": "台船",
-          "point": "股價開高走低",
-          "limitUp": false
-        }
-      ],
-      "background": "台灣立法院通過「強化國防自主暨無人載具產業發展條例」，政府將編列預算推動國防自主及無人載具產業發展，政策支持中長期仍看好。",
-      "themeTags": [
-        "政策關稅"
       ]
     },
     {

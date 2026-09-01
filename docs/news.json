@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-01T11:04:42.977+08:00",
-  "generatedAt": "2026-09-01T03:04:42.977Z",
+  "asOf": "2026-09-01T12:04:44.563+08:00",
+  "generatedAt": "2026-09-01T04:04:44.563Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -88,6 +88,20 @@
       ]
     },
     {
+      "symbol": "2454",
+      "name": "聯發科",
+      "days": 3,
+      "dates": [
+        "9/1",
+        "8/29",
+        "8/26"
+      ],
+      "mentions": 4,
+      "status": "高檔修正",
+      "dist": -12.7,
+      "limitUp": false
+    },
+    {
       "symbol": "2408",
       "name": "南亞科",
       "days": 3,
@@ -97,20 +111,6 @@
         "8/27"
       ],
       "mentions": 4,
-      "limitUp": false
-    },
-    {
-      "symbol": "2454",
-      "name": "聯發科",
-      "days": 3,
-      "dates": [
-        "9/1",
-        "8/29",
-        "8/26"
-      ],
-      "mentions": 3,
-      "status": "高檔修正",
-      "dist": -12.7,
       "limitUp": false
     },
     {
@@ -135,7 +135,8 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -8.4,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "1301",
@@ -367,6 +368,87 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxOVzl3WW1Hd2RhbmRaa2doTHhGZFVuU3dGc0c4aU9BX2NIbWZhY2FCYkFCa1JocU55Q1FILU05QlM5OWgyT1BPQ3hxb0kxdVhGOEczS2FmRTQxLVd4R2JLYVkxbVZvSDJodGJ1R24tSS1PYnhFYWo3c0ZiS2hPcDJYUUJnT2xkcFFY",
+      "tkey": "熱門族群聯發科從ASIC衝向整座AI工廠！郭明錤揭轉型密碼",
+      "title": "《熱門族群》聯發科從ASIC衝向整座AI工廠！郭明錤揭轉型密碼 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6288021001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 01 Sep 2026 03:25:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "輝達豪砸35億美元投資，股價漲停",
+          "status": "高檔修正",
+          "dist": -12.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "6526",
+          "name": "達發",
+          "point": "聯發科概念股，同步攻上漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3169",
+          "name": "亞信",
+          "point": "聯發科概念股，同步攻上漲停",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "8040",
+          "name": "九暘",
+          "point": "聯發科概念股，同步攻上漲停",
+          "limitUp": false
+        }
+      ],
+      "background": "聯發科獲輝達大規模投資，深化AI ASIC與AI工廠合作，將客製化晶片導入輝達生態系，帶動集團股表現。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOSDkxb2ZmYk91WDFqUzRTOUJnUzhYZ0J2REUxMUFoeHM0OUgwVWJUSHRrM0pLVnpHTmZhZVFCU1Y0dDRYOFU1aFVTUzlRRXBodWh3OUVYc2p3SjZ0aWFQbVlyNzJqRWxzUzNuRjVSZEVfRjJBQ0NoeEZQQlMwX19CY3pJOG9PUGtZ",
+      "tkey": "熱門族群AI點燃人氣重電四雄衝了士電、華城漲半根",
+      "title": "《熱門族群》AI點燃人氣 重電四雄衝了 士電、華城漲半根 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6288020001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 01 Sep 2026 03:24:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1503",
+          "name": "士電",
+          "point": "AI電力基礎建設需求升溫，衝上半根漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "1519",
+          "name": "華城",
+          "point": "AI電力基礎建設需求升溫，衝上半根漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "1513",
+          "name": "中興電",
+          "point": "AI電力基礎建設需求升溫，股價震盪走高",
+          "limitUp": false
+        },
+        {
+          "symbol": "1514",
+          "name": "亞力",
+          "point": "AI電力基礎建設需求升溫，股價站穩均線",
+          "limitUp": false
+        }
+      ],
+      "background": "AI產業鏈擴張推升電力基礎建設需求，重電族群受惠於AI資料中心對變壓器、電網等設備的龐大需求，加上美國供應鏈去中化趨勢。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxPNnhEVTVKWnBvMkg2RU5pRUdfX1lCTk41WDNSMnQxbUt0aC1RT2NJTFU4UGwyX082M2Z6WUhObm53aGpyb1M4aEJrTEhYUWRwYUY5ak1OY0U5LXdmaDVyNjkzTExILS1YaThjSV8tNFNzUFBiTjF3OWlpWGJQNEt4Tk55TTFsWVhP",
       "tkey": "熱門族群萬金鋪路？聯發科家有喜事集團連閃紅燈歡慶",
       "title": "《熱門族群》萬金鋪路？聯發科家有喜事 集團連閃紅燈歡慶 - 富聯網",
@@ -386,7 +468,8 @@
           "symbol": "3169",
           "name": "亞信",
           "point": "聯發科家族成員股價飆漲",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "8040",
@@ -445,7 +528,8 @@
           "point": "載板族群最強勢個股",
           "status": "逼近新高",
           "dist": -8.4,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "8046",
