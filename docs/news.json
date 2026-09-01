@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-01T13:04:58.466+08:00",
-  "generatedAt": "2026-09-01T05:04:58.466Z",
+  "asOf": "2026-09-01T14:04:37.711+08:00",
+  "generatedAt": "2026-09-01T06:04:37.711Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -61,7 +61,8 @@
       "mentions": 5,
       "status": "高檔修正",
       "dist": -12.7,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "8046",
@@ -209,7 +210,8 @@
       "mentions": 2,
       "status": "創新高",
       "dist": 0,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 2,
       "luwd": [
         "8/26",
@@ -225,22 +227,12 @@
         "8/26"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 1,
       "luwd": [
         "8/25"
       ]
-    },
-    {
-      "symbol": "6679",
-      "name": "鈺太",
-      "days": 2,
-      "dates": [
-        "9/1",
-        "8/30"
-      ],
-      "mentions": 2,
-      "limitUp": false
     },
     {
       "symbol": "4958",
@@ -425,7 +417,8 @@
           "point": "砸輝達35億美元入股利多，一字鎖漲停",
           "status": "高檔修正",
           "dist": -12.7,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "3008",
@@ -444,8 +437,7 @@
           "symbol": "4971",
           "name": "IET-KY",
           "point": "矽光子概念股，聯袂攻頂",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "2426",
@@ -453,7 +445,8 @@
           "point": "擴大矽光子與CPO布局，獲利年增616.2%",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 2,
           "luwd": [
             "8/26",
@@ -464,7 +457,8 @@
           "symbol": "6526",
           "name": "達發",
           "point": "矽光子概念股，聯袂攻頂",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "2455",
@@ -472,7 +466,8 @@
           "point": "矽光子概念股，聯袂攻頂",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 2,
           "luwd": [
             "8/31",
@@ -483,7 +478,8 @@
           "symbol": "4908",
           "name": "前鼎",
           "point": "矽光子概念股，聯袂攻頂",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "8/31",
@@ -497,7 +493,8 @@
           "symbol": "6830",
           "name": "汎銓",
           "point": "強攻矽光子，自主開發檢測設備將出貨",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 1,
           "luwd": [
             "8/25"
@@ -544,13 +541,15 @@
           "point": "輝達豪砸35億美元投資，股價漲停",
           "status": "高檔修正",
           "dist": -12.7,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6526",
           "name": "達發",
           "point": "聯發科概念股，同步攻上漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "3169",
@@ -624,7 +623,8 @@
           "point": "輝達結盟帶動股價漲停",
           "status": "高檔修正",
           "dist": -12.7,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "3169",
@@ -642,7 +642,8 @@
           "symbol": "6526",
           "name": "達發",
           "point": "受惠AI資料中心成長",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6962",
