@@ -1,11 +1,31 @@
 {
-  "asOf": "2026-09-01T12:04:44.563+08:00",
-  "generatedAt": "2026-09-01T04:04:44.563Z",
+  "asOf": "2026-09-01T13:04:58.466+08:00",
+  "generatedAt": "2026-09-01T05:04:58.466Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "3008",
+      "name": "大立光",
+      "days": 4,
+      "dates": [
+        "9/1",
+        "8/31",
+        "8/27",
+        "8/26"
+      ],
+      "mentions": 6,
+      "status": "逼近新高",
+      "dist": -4.8,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "8/27",
+        "8/26"
+      ]
+    },
     {
       "symbol": "3406",
       "name": "玉晶光",
@@ -30,6 +50,20 @@
       ]
     },
     {
+      "symbol": "2454",
+      "name": "聯發科",
+      "days": 3,
+      "dates": [
+        "9/1",
+        "8/29",
+        "8/26"
+      ],
+      "mentions": 5,
+      "status": "高檔修正",
+      "dist": -12.7,
+      "limitUp": false
+    },
+    {
       "symbol": "8046",
       "name": "南電",
       "days": 3,
@@ -45,25 +79,6 @@
       "luw": 1,
       "luwd": [
         "8/27"
-      ]
-    },
-    {
-      "symbol": "3008",
-      "name": "大立光",
-      "days": 3,
-      "dates": [
-        "8/31",
-        "8/27",
-        "8/26"
-      ],
-      "mentions": 5,
-      "status": "逼近新高",
-      "dist": -1.1,
-      "limitUp": false,
-      "luw": 2,
-      "luwd": [
-        "8/27",
-        "8/26"
       ]
     },
     {
@@ -86,20 +101,6 @@
         "8/27",
         "8/26"
       ]
-    },
-    {
-      "symbol": "2454",
-      "name": "聯發科",
-      "days": 3,
-      "dates": [
-        "9/1",
-        "8/29",
-        "8/26"
-      ],
-      "mentions": 4,
-      "status": "高檔修正",
-      "dist": -12.7,
-      "limitUp": false
     },
     {
       "symbol": "2408",
@@ -135,8 +136,7 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -8.4,
-      "limitUp": true,
-      "pct": 9.9
+      "limitUp": false
     },
     {
       "symbol": "1301",
@@ -197,6 +197,50 @@
         "8/26"
       ],
       "mentions": 3
+    },
+    {
+      "symbol": "2426",
+      "name": "鼎元",
+      "days": 2,
+      "dates": [
+        "9/1",
+        "8/26"
+      ],
+      "mentions": 2,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "8/26",
+        "8/25"
+      ]
+    },
+    {
+      "symbol": "6830",
+      "name": "汎銓",
+      "days": 2,
+      "dates": [
+        "9/1",
+        "8/26"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "8/25"
+      ]
+    },
+    {
+      "symbol": "6679",
+      "name": "鈺太",
+      "days": 2,
+      "dates": [
+        "9/1",
+        "8/30"
+      ],
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "4958",
@@ -368,6 +412,125 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxOM2JZME8tYlY1RVk3bWNrNjRtcDdyeS11ZEJyWXlGTVY1c29TVGJJSUljQ2tPTVZRQkU0TERQRFBHNndYRjVhMW5admFqRlZIMzQyN25MZms1bmo4QXIzN2h2b0xYcXo4bWU5SUxPdFlnRjhvR1JXbVdzODVROGtWNmZEZzBycUg0",
+      "tkey": "熱門族群大咖抬轎！矽光子紅到沒朋友漲倍飆股惦惦飛天",
+      "title": "《熱門族群》大咖抬轎！矽光子紅到沒朋友 漲倍飆股惦惦飛天 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6288080001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 01 Sep 2026 04:11:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "砸輝達35億美元入股利多，一字鎖漲停",
+          "status": "高檔修正",
+          "dist": -12.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "衝刺FA產能5度獵地，股價續創歷史高",
+          "status": "逼近新高",
+          "dist": -4.8,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "8/27",
+            "8/26"
+          ]
+        },
+        {
+          "symbol": "4971",
+          "name": "IET-KY",
+          "point": "矽光子概念股，聯袂攻頂",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "2426",
+          "name": "鼎元",
+          "point": "擴大矽光子與CPO布局，獲利年增616.2%",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "8/26",
+            "8/25"
+          ]
+        },
+        {
+          "symbol": "6526",
+          "name": "達發",
+          "point": "矽光子概念股，聯袂攻頂",
+          "limitUp": false
+        },
+        {
+          "symbol": "2455",
+          "name": "全新",
+          "point": "矽光子概念股，聯袂攻頂",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "8/31",
+            "8/25"
+          ]
+        },
+        {
+          "symbol": "4908",
+          "name": "前鼎",
+          "point": "矽光子概念股，聯袂攻頂",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "8/31",
+            "8/28",
+            "8/27",
+            "8/26",
+            "8/25"
+          ]
+        },
+        {
+          "symbol": "6830",
+          "name": "汎銓",
+          "point": "強攻矽光子，自主開發檢測設備將出貨",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/25"
+          ]
+        },
+        {
+          "symbol": "3234",
+          "name": "光環",
+          "point": "矽光子概念股，跟進力挺多方",
+          "status": "逼近新高",
+          "dist": -1.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "3363",
+          "name": "上詮",
+          "point": "矽光子概念股，跟進力挺多方",
+          "limitUp": false
+        },
+        {
+          "symbol": "3163",
+          "name": "波若威",
+          "point": "矽光子概念股，跟進力挺多方",
+          "limitUp": false
+        }
+      ],
+      "background": "矽光子技術受AI高速互連需求爆發而地位升高，CPO成大廠競技擂台。國際半導體展聚焦此技術，帶動光通訊市場升級潮。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxOVzl3WW1Hd2RhbmRaa2doTHhGZFVuU3dGc0c4aU9BX2NIbWZhY2FCYkFCa1JocU55Q1FILU05QlM5OWgyT1BPQ3hxb0kxdVhGOEczS2FmRTQxLVd4R2JLYVkxbVZvSDJodGJ1R24tSS1PYnhFYWo3c0ZiS2hPcDJYUUJnT2xkcFFY",
       "tkey": "熱門族群聯發科從ASIC衝向整座AI工廠！郭明錤揭轉型密碼",
       "title": "《熱門族群》聯發科從ASIC衝向整座AI工廠！郭明錤揭轉型密碼 - 富聯網",
@@ -393,8 +556,7 @@
           "symbol": "3169",
           "name": "亞信",
           "point": "聯發科概念股，同步攻上漲停",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "8040",
@@ -468,8 +630,7 @@
           "symbol": "3169",
           "name": "亞信",
           "point": "聯發科家族成員股價飆漲",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "8040",
@@ -528,8 +689,7 @@
           "point": "載板族群最強勢個股",
           "status": "逼近新高",
           "dist": -8.4,
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "8046",

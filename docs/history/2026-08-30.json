@@ -1,6 +1,6 @@
 {
   "date": "2026-08-30",
-  "updatedAt": "2026-09-01T04:04:44.561Z",
+  "updatedAt": "2026-09-01T05:04:58.465Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPMmdJVnVsWFE5aVZ2TW9RcGNmaXNQazZpcFdWQUhzTzZpNmluVExTbDVIOE9XZzhvbGdOSFlkVW0teU5TSTh3d1gzMG5UOFpQM1RTSzlXMzNXcnE4MjN5STV5Mk90bllSWFVjYjZ4c1RQZlZsakVXeE0xOWxJZ3M5QzI0YThMSTR1",
@@ -9,11 +9,73 @@
       "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6286062001&PU=0010",
       "source": "富聯網",
       "pubDate": "Sun, 30 Aug 2026 07:15:00 GMT",
-      "stocks": [],
-      "background": "生技類股上半年財報亮麗，多數公司獲利優於去年同期，藥證題材、CDMO訂單回溫及新品上市帶動成長，眼球股受惠亞洲市場需求強勁。",
+      "stocks": [
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "point": "Ropeg拿下美國ET藥證，營收獲利爆發"
+        },
+        {
+          "symbol": "6462",
+          "name": "泰合",
+          "point": "藥證倒數計時題材行情"
+        },
+        {
+          "symbol": "6696",
+          "name": "仁新",
+          "point": "藥證倒數計時題材行情"
+        },
+        {
+          "symbol": "6461",
+          "name": "益安",
+          "point": "藥證倒數計時題材行情"
+        },
+        {
+          "symbol": "6472",
+          "name": "保瑞",
+          "point": "併購效益與CDMO訂單回溫，獲利動能快速回溫"
+        },
+        {
+          "symbol": "1747",
+          "name": "美時",
+          "point": "併購效益與新品上市成長，獲利有望追上營收"
+        },
+        {
+          "symbol": "4105",
+          "name": "泰博",
+          "point": "上半年EPS 16.6元稱王，本益比偏低",
+          "status": "逼近新高",
+          "dist": -9.2
+        },
+        {
+          "symbol": "6496",
+          "name": "晶碩",
+          "point": "上半年EPS 13.13元，彩色隱形眼鏡需求強勁"
+        },
+        {
+          "symbol": "6679",
+          "name": "華星光",
+          "point": "上半年EPS 11.35元"
+        },
+        {
+          "symbol": "6684",
+          "name": "豪展",
+          "point": "本益比未達10倍，後市表現樂觀"
+        },
+        {
+          "symbol": "6787",
+          "name": "視陽",
+          "point": "日本、中國彩色隱形眼鏡需求強勁，啟動擴產"
+        },
+        {
+          "symbol": "6747",
+          "name": "望隼",
+          "point": "日本、中國彩色隱形眼鏡需求強勁，啟動擴產"
+        }
+      ],
+      "background": "生技類股上半年財報亮麗，多數公司獲利優於去年同期，藥證題材、併購效益、CDMO訂單回溫及新品上市帶動成長，眼球股受惠亞洲市場需求強勁。",
       "themeTags": [
-        "需求驅動",
-        "循環位置"
+        "需求驅動"
       ]
     },
     {
@@ -27,37 +89,37 @@
         {
           "symbol": "8033",
           "name": "雷虎",
-          "point": "無人載具條例三讀通過，股價收黑"
+          "point": "無人載具條例利多出盡，股價開高走低"
         },
         {
           "symbol": "2634",
           "name": "漢翔",
-          "point": "無人載具條例三讀通過，股價收黑",
+          "point": "無人載具條例利多出盡，股價開高走低",
           "status": "高檔修正",
-          "dist": -12.5
+          "dist": -12.3
         },
         {
           "symbol": "2645",
           "name": "長榮航太",
-          "point": "無人載具條例三讀通過，股價收黑"
+          "point": "無人載具條例利多出盡，股價開高走低"
         },
         {
           "symbol": "2630",
           "name": "亞航",
-          "point": "無人載具條例三讀通過，股價收黑"
+          "point": "無人載具條例利多出盡，股價開高走低"
         },
         {
           "symbol": "6753",
           "name": "龍德造船",
-          "point": "無人載具條例三讀通過，股價收黑"
+          "point": "無人載具條例利多出盡，股價開高走低"
         },
         {
           "symbol": "2208",
           "name": "台船",
-          "point": "無人載具條例三讀通過，股價收黑"
+          "point": "無人載具條例利多出盡，股價開高走低"
         }
       ],
-      "background": "立法院三讀通過「強化國防自主暨無人載具產業發展條例」，預計未來6年編列2400億元推動國防自主及無人載具產業，政策支持中長期看好。",
+      "background": "立法院三讀通過「強化國防自主暨無人載具產業發展條例」，預計6年編列2400億元推動國防自主及無人載具產業發展，政策支持中長期看好。",
       "themeTags": [
         "政策關稅"
       ]
