@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "updatedAt": "2026-08-31T17:42:36.676Z",
+  "updatedAt": "2026-09-01T03:04:42.967Z",
   "news": [
     {
       "gid": "CBMibkFVX3lxTE5CWUVUN21MM0lqN0htb3lRdkdjYXdjSXBTMHV2X1U5V0FfU2oxM0Y2ejZVTnk4NW1nRGRlc2t0cW9ONF8xZWFDTkhCSUIxOFhOemx0c3VlV2JHLXZJQ1lILXVtdkh6SFNndTBCeUV3",
@@ -117,6 +117,8 @@
           "point": "AI Power營收躍居主力，股價強鎖漲停",
           "limitUp": true,
           "pct": 9.7,
+          "status": "逼近新高",
+          "dist": -9,
           "luw": 2,
           "luwd": [
             "8/31",
