@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "updatedAt": "2026-09-02T04:04:58.728Z",
+  "updatedAt": "2026-09-02T05:03:45.805Z",
   "news": [
     {
       "gid": "CBMibkFVX3lxTE5CWUVUN21MM0lqN0htb3lRdkdjYXdjSXBTMHV2X1U5V0FfU2oxM0Y2ejZVTnk4NW1nRGRlc2t0cW9ONF8xZWFDTkhCSUIxOFhOemx0c3VlV2JHLXZJQ1lILXVtdkh6SFNndTBCeUV3",
@@ -11,16 +11,23 @@
       "pubDate": "Mon, 31 Aug 2026 07:00:03 GMT",
       "stocks": [
         {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "跌幅收斂",
+          "status": "逼近新高",
+          "dist": -5.5
+        },
+        {
           "symbol": "3037",
           "name": "欣興",
-          "point": "開盤跌停關門一價到底"
+          "point": "檢調搜索利空跌停"
         },
         {
           "symbol": "3008",
           "name": "大立光",
           "point": "大漲逾8%創新高",
           "status": "逼近新高",
-          "dist": -1.7,
+          "dist": -1.4,
           "luw": 2,
           "luwd": [
             "8/27",
@@ -30,9 +37,9 @@
         {
           "symbol": "3406",
           "name": "玉晶光",
-          "point": "攻上漲停創下新高",
+          "point": "攻上漲停創新高",
           "status": "逼近新高",
-          "dist": -5.5,
+          "dist": -4.1,
           "luw": 4,
           "luwd": [
             "8/31",
@@ -46,7 +53,7 @@
           "name": "南亞",
           "point": "率先掛出紅燈鎖漲停",
           "status": "逼近新高",
-          "dist": -6.8,
+          "dist": -5.2,
           "luw": 3,
           "luwd": [
             "8/31",
@@ -67,17 +74,12 @@
           "luwd": [
             "8/31"
           ]
-        },
-        {
-          "symbol": "2330",
-          "name": "台積電",
-          "point": "跌幅收歛",
-          "status": "逼近新高",
-          "dist": -5.5
         }
       ],
-      "background": "塑化股受資金青睞成為撐盤主力，CPO題材持續吸引買盤，而ABF族群則受利空衝擊。",
-      "themeTags": []
+      "background": "美國聯準會鷹派談話導致台股回檔，資金轉向塑化股避險，CPO題材受買盤青睞，AI相關族群仍受關注。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxPUmwtTC1MT01ZZFhJYk9HSkFsbDlWbDEzTkFBV1J4MVg2bklIWTk0U1hBNjJPZ1ZwcWhCWE9NaVp4QTVmZlduZ3hyMDBjYnNtTGJYbi1BQ3RFRmh3V0hLanZYX19YdFNuLWVxaXJVSHlVWmpTUVBERnR2U1FiSnRtYlltWFpZRjNj",
