@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-02T13:03:45.808+08:00",
-  "generatedAt": "2026-09-02T05:03:45.808Z",
+  "asOf": "2026-09-02T14:06:39.826+08:00",
+  "generatedAt": "2026-09-02T06:06:39.826Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -103,7 +103,7 @@
       ],
       "mentions": 4,
       "status": "逼近新高",
-      "dist": -4.1,
+      "dist": -3.7,
       "luw": 4,
       "luwd": [
         "8/31",
@@ -195,7 +195,8 @@
         "9/1"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 5,
       "luwd": [
         "9/1",
@@ -252,7 +253,7 @@
       ],
       "mentions": 2,
       "status": "逼近新高",
-      "dist": -5.5
+      "dist": -5.9
     },
     {
       "symbol": "2324",
@@ -376,7 +377,8 @@
           "symbol": "6442",
           "name": "光聖",
           "point": "亮燈攻頂，領漲光通訊",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "3234",
@@ -396,7 +398,8 @@
           "symbol": "4971",
           "name": "IET-KY",
           "point": "同步閃紅燈",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "9/1",
