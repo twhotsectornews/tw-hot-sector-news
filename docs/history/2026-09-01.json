@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "updatedAt": "2026-09-02T06:06:39.823Z",
+  "updatedAt": "2026-09-02T07:24:38.718Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOM2JZME8tYlY1RVk3bWNrNjRtcDdyeS11ZEJyWXlGTVY1c29TVGJJSUljQ2tPTVZRQkU0TERQRFBHNndYRjVhMW5admFqRlZIMzQyN25MZms1bmo4QXIzN2h2b0xYcXo4bWU5SUxPdFlnRjhvR1JXbVdzODVROGtWNmZEZzBycUg0",
@@ -41,15 +41,7 @@
           "name": "IET-KY",
           "point": "矽光子概念股，聯袂攻頂",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "9/1",
-            "8/31",
-            "8/28",
-            "8/27",
-            "8/26"
-          ]
+          "pct": 10
         },
         {
           "symbol": "2426",
@@ -95,15 +87,7 @@
           "name": "前鼎",
           "point": "矽光子概念股，聯袂攻頂",
           "limitUp": true,
-          "pct": 9.8,
-          "luw": 5,
-          "luwd": [
-            "9/1",
-            "8/31",
-            "8/28",
-            "8/27",
-            "8/26"
-          ]
+          "pct": 9.8
         },
         {
           "symbol": "6830",
@@ -180,15 +164,7 @@
           "name": "亞信",
           "point": "USB及PCIe乙太網路，股價漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "9/1",
-            "8/31",
-            "8/28",
-            "8/27",
-            "8/26"
-          ]
+          "pct": 10
         },
         {
           "symbol": "8040",
@@ -249,15 +225,7 @@
           "name": "亞信",
           "point": "聯發科概念股，同步攻上漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "9/1",
-            "8/31",
-            "8/28",
-            "8/27",
-            "8/26"
-          ]
+          "pct": 10
         },
         {
           "symbol": "8040",
@@ -346,15 +314,7 @@
           "name": "亞信",
           "point": "聯發科家族成員股價飆漲",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "9/1",
-            "8/31",
-            "8/28",
-            "8/27",
-            "8/26"
-          ]
+          "pct": 10
         },
         {
           "symbol": "8040",
