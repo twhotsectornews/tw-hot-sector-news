@@ -1,0 +1,194 @@
+{
+  "date": "2026-09-02",
+  "updatedAt": "2026-09-03T03:01:33.209Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNaDU1bU00VFZFZVppbjJZSWliclpCNjJpNXBqMzBMb2pwWERSdGJyU2dWRy13Qzh6VUcwcktINjVCenROd1BoVU5laWxyQWRrVnF4ZWJJNlYzbmRuaWVDcUZjOWpiMktEQ1FQeW1WZVpQSWxwdlAxSnBMQTViTG5qOFRIRnQ4ckVl",
+      "tkey": "熱門族群就是那道光！無懼台股殺700點光聖等5檔閃紅燈",
+      "title": "《熱門族群》就是那道「光」！無懼台股殺700點 光聖等5檔閃紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6289164001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 02 Sep 2026 03:22:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6442",
+          "name": "光聖",
+          "point": "亮燈攻頂，領漲光通訊",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 1,
+          "luwd": [
+            "9/2"
+          ]
+        },
+        {
+          "symbol": "3234",
+          "name": "光環",
+          "point": "同步閃紅燈",
+          "status": "逼近新高",
+          "dist": -3.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "3701",
+          "name": "大眾控",
+          "point": "獲買盤拉抬一度觸漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "4971",
+          "name": "IET-KY",
+          "point": "同步閃紅燈",
+          "limitUp": false
+        },
+        {
+          "symbol": "3587",
+          "name": "閎康",
+          "point": "同步閃紅燈",
+          "limitUp": false
+        },
+        {
+          "symbol": "6451",
+          "name": "訊芯-KY",
+          "point": "攜手強彈",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "9/2"
+          ]
+        },
+        {
+          "symbol": "6830",
+          "name": "汎銓",
+          "point": "攜手強彈",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/1"
+          ]
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "炒熱矽光子題材",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/1"
+          ]
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "具切入CPO微透鏡陣列潛力",
+          "status": "逼近新高",
+          "dist": -1.7,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/27"
+          ]
+        }
+      ],
+      "background": "矽光子技術因AI高速互連需求爆發而受矚目，台積電擘劃COUPE藍圖，CPO下半年進入量產，光通訊產業動能明確。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPc2o5Qi1wRHl2QVZaZzhwbHA4RXMwazFvekRERTN1a3FjQm9RMTZtNDVJeGhCX184ck9UZE9PN3pvV1FEYkt2cW9ZMTFTZzE5MzVSY3Z5YkRMNzM5RHdiR25ER2VyeFZwZFJVdHUxZTNVMmZZY0ZTY2gzY2xpZGl5U1oxMTRzc3o1",
+      "tkey": "熱門族群南亞績優開高台塑四寶續強",
+      "title": "《熱門族群》南亞績優開高 台塑四寶續強 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6289090001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Wed, 02 Sep 2026 02:19:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "7月淨利大增，股價創新高",
+          "status": "逼近新高",
+          "dist": -5.4,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "8/31",
+            "8/27"
+          ]
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "外資連六買，股價上攻波段新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "1304",
+          "name": "台聚",
+          "point": "股價有撐",
+          "limitUp": false
+        },
+        {
+          "symbol": "1308",
+          "name": "亞聚",
+          "point": "股價有撐",
+          "limitUp": false
+        },
+        {
+          "symbol": "1309",
+          "name": "台達化",
+          "point": "股價有撐",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "隨台塑四寶上揚",
+          "limitUp": false
+        }
+      ],
+      "background": "塑膠產業受惠於本業改善與轉投資效益，台塑四寶作為台灣石化業龍頭，其營運表現常被視為產業景氣的風向球。",
+      "themeTags": [
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMikgFBVV95cUxNQ3JMWHV2bDgyb2o4eTk0X3J5LWg4WmJBejRicWtVb3lEMnZaR19iVVBGbnd1S2NYSXMyUkZ1NVFfTkFYbUM4dkZra2xMRHJvaEdFWG43NHZwRGxVTmtpS2xGdHA3T3BBRnRPT3VKdi1wMUR4WXRCTnp5OG1TTVVTVm5NTk1fdjFyNzExZTBRWVMyUQ",
+      "tkey": "熱門族群面板雙虎悄悄蠢動量價雙強",
+      "title": "《熱門族群》面板雙虎悄悄蠢動 量價雙強 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6289080001&pu=News_0002_3",
+      "source": "富聯網",
+      "pubDate": "Wed, 02 Sep 2026 02:14:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "point": "開平走高，站上成交量排行第三",
+          "limitUp": false
+        },
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "展現抗空實力，成交量排行第八",
+          "limitUp": false
+        }
+      ],
+      "background": "面板雙虎積極布局AI、先進封裝及光通訊等高附加價值領域，以新技術應用吸引市場資金關注。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPQjRHaE5YOTlXOWJGTzhFWHhYRjItQWlET1hmb1NGQWJyTmtwYjZGU2pyd2o2Z0k5S3VOR2d6Y1pOYkM0VmJWczc5dHFGa21zWTVxUUtFdk9fSi02eVBmdS1qQnlhTnRmQ2VoNTdNVXVydnE1XzY5QVJWSGc5UExNakdkanVYMzRX",
+      "tkey": "熱門族群超商雙雄射多箭開學季搶才",
+      "title": "《熱門族群》超商雙雄射多箭 開學季搶才 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6288809001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 01 Sep 2026 23:53:00 GMT",
+      "stocks": [],
+      "background": "超商雙雄統一超與全家因應開學季及勞動力結構轉變，積極招募多元人才，並提供具競爭力的薪資與職涯發展，以解決超商工作繁瑣、留才不易的問題。",
+      "themeTags": []
+    }
+  ]
+}
