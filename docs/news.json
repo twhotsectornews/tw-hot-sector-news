@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-03T12:02:22.944+08:00",
-  "generatedAt": "2026-09-03T04:02:22.944Z",
+  "asOf": "2026-09-03T13:03:41.620+08:00",
+  "generatedAt": "2026-09-03T05:03:41.620Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -226,6 +226,66 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxPU2lmd280c2NKVmhnUWR6Vko1Nm1VcXhsNkN6Ry1pcVJBRTlQN01NcDV1T0g4azdyMHhHUFA3LTBEdzhkaFREclJoeWgxQmFsdjVxRmRFaUNSTWRGWEJwOXYzM0w4dTRHaDlnYi1SOHVEMEZsYkQtYkRuM1pyYUgtb0dwS0pvdTFy",
+      "tkey": "熱門族群台股鍍金防震！併購利多放大玉山金、台新新光金強勢",
+      "title": "《熱門族群》台股鍍金防震！併購利多放大 玉山金、台新新光金強勢 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6290339001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 03 Sep 2026 03:55:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2884",
+          "name": "玉山金",
+          "point": "併購利多，放量勁揚",
+          "status": "逼近新高",
+          "dist": -0.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "2887",
+          "name": "台新新光金",
+          "point": "合併綜效，股價創新高",
+          "status": "逼近新高",
+          "dist": -1.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "2882",
+          "name": "國泰金",
+          "point": "漲幅居前，吸引資金",
+          "status": "逼近新高",
+          "dist": -2.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "2845",
+          "name": "遠東銀",
+          "point": "漲幅居前，吸引資金",
+          "status": "逼近新高",
+          "dist": -3.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "2801",
+          "name": "彰銀",
+          "point": "漲幅居前，吸引資金",
+          "status": "逼近新高",
+          "dist": -0.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "2883",
+          "name": "凱基金",
+          "point": "漲幅居前，吸引資金",
+          "status": "逼近新高",
+          "dist": -0.7,
+          "limitUp": false
+        }
+      ],
+      "background": "金融股因其防禦性特質，在市場震盪時吸引資金避險。具備併購題材的金控，透過規模擴大與營運綜效，能提升獲利表現。",
+      "themeTags": []
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNaDU1bU00VFZFZVppbjJZSWliclpCNjJpNXBqMzBMb2pwWERSdGJyU2dWRy13Qzh6VUcwcktINjVCenROd1BoVU5laWxyQWRrVnF4ZWJJNlYzbmRuaWVDcUZjOWpiMktEQ1FQeW1WZVpQSWxwdlAxSnBMQTViTG5qOFRIRnQ4ckVl",
       "tkey": "熱門族群就是那道光！無懼台股殺700點光聖等5檔閃紅燈",
       "title": "《熱門族群》就是那道「光」！無懼台股殺700點 光聖等5檔閃紅燈 - 富聯網",
@@ -412,438 +472,6 @@
       "stocks": [],
       "background": "超商雙雄統一超與全家因應開學季及勞動力結構轉變，積極招募多元人才，並提供具競爭力的薪資與職涯發展，以解決超商工作繁瑣、留才不易的問題。",
       "themeTags": []
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxOM2JZME8tYlY1RVk3bWNrNjRtcDdyeS11ZEJyWXlGTVY1c29TVGJJSUljQ2tPTVZRQkU0TERQRFBHNndYRjVhMW5admFqRlZIMzQyN25MZms1bmo4QXIzN2h2b0xYcXo4bWU5SUxPdFlnRjhvR1JXbVdzODVROGtWNmZEZzBycUg0",
-      "tkey": "熱門族群大咖抬轎！矽光子紅到沒朋友漲倍飆股惦惦飛天",
-      "title": "《熱門族群》大咖抬轎！矽光子紅到沒朋友 漲倍飆股惦惦飛天 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6288080001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Tue, 01 Sep 2026 04:11:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2454",
-          "name": "聯發科",
-          "point": "砸輝達35億美元入股利多，一字鎖漲停",
-          "status": "高檔修正",
-          "dist": -12.7,
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "9/1"
-          ]
-        },
-        {
-          "symbol": "3008",
-          "name": "大立光",
-          "point": "衝刺FA產能5度獵地，股價續創歷史高",
-          "status": "逼近新高",
-          "dist": -4.8,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/27"
-          ]
-        },
-        {
-          "symbol": "4971",
-          "name": "IET-KY",
-          "point": "矽光子概念股，聯袂攻頂",
-          "limitUp": true,
-          "pct": 10
-        },
-        {
-          "symbol": "2426",
-          "name": "鼎元",
-          "point": "擴大矽光子與CPO布局，獲利年增616.2%",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "9/1"
-          ]
-        },
-        {
-          "symbol": "6526",
-          "name": "達發",
-          "point": "矽光子概念股，聯袂攻頂",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "9/1"
-          ]
-        },
-        {
-          "symbol": "2455",
-          "name": "全新",
-          "point": "矽光子概念股，聯袂攻頂",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 2,
-          "luwd": [
-            "9/1",
-            "8/31"
-          ]
-        },
-        {
-          "symbol": "4908",
-          "name": "前鼎",
-          "point": "矽光子概念股，聯袂攻頂",
-          "limitUp": true,
-          "pct": 9.8
-        },
-        {
-          "symbol": "6830",
-          "name": "汎銓",
-          "point": "強攻矽光子，自主開發檢測設備將出貨",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 1,
-          "luwd": [
-            "9/1"
-          ]
-        },
-        {
-          "symbol": "3234",
-          "name": "光環",
-          "point": "矽光子概念股，跟進力挺多方",
-          "status": "逼近新高",
-          "dist": -1.7,
-          "limitUp": false
-        },
-        {
-          "symbol": "3363",
-          "name": "上詮",
-          "point": "矽光子概念股，跟進力挺多方",
-          "limitUp": false
-        },
-        {
-          "symbol": "3163",
-          "name": "波若威",
-          "point": "矽光子概念股，跟進力挺多方",
-          "limitUp": false
-        }
-      ],
-      "background": "矽光子技術受AI高速互連需求爆發而地位升高，CPO成大廠競技擂台。國際半導體展聚焦此技術，帶動光通訊市場升級潮。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiakFVX3lxTE9LRklMbE1LMFE5MTg5VW9sYjVNeDN6bWNmWVd0WjlxSzkwTmdodlkxRVVGeTNRUW1zT29VVjRpMU9naUZvNFE3bFFJRk1nZ2s4NkdabjkxVEx5dXdkQmpUS0lGMDVCVXowYUE",
-      "tkey": "熱門族群聯發科從ASIC衝向整座AI工廠！郭明錤揭轉型密碼-上市櫃",
-      "title": "《熱門族群》聯發科從ASIC衝向整座AI工廠！郭明錤揭轉型密碼- 上市櫃 - 旺得富理財網",
-      "url": "https://wantrich.chinatimes.com/news/20260901900305-420101",
-      "source": "旺得富理財網",
-      "pubDate": "Tue, 01 Sep 2026 03:35:53 GMT",
-      "stocks": [
-        {
-          "symbol": "2454",
-          "name": "聯發科",
-          "point": "輝達投資35億美元，股價漲停",
-          "status": "高檔修正",
-          "dist": -12.7,
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "9/1"
-          ]
-        },
-        {
-          "symbol": "6526",
-          "name": "達發",
-          "point": "高速乙太網路與光通訊，股價漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "9/1"
-          ]
-        },
-        {
-          "symbol": "3169",
-          "name": "亞信",
-          "point": "USB及PCIe乙太網路，股價漲停",
-          "limitUp": true,
-          "pct": 10
-        },
-        {
-          "symbol": "8040",
-          "name": "九暘",
-          "point": "乙太網路與PoE晶片，股價漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "9/2",
-            "9/1",
-            "8/31",
-            "8/28",
-            "8/27"
-          ]
-        }
-      ],
-      "background": "聯發科獲輝達大筆投資，深化AI ASIC及AI工廠合作，將AI事業策略提升至系統級設計，帶動集團相關概念股全面噴出。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxOVzl3WW1Hd2RhbmRaa2doTHhGZFVuU3dGc0c4aU9BX2NIbWZhY2FCYkFCa1JocU55Q1FILU05QlM5OWgyT1BPQ3hxb0kxdVhGOEczS2FmRTQxLVd4R2JLYVkxbVZvSDJodGJ1R24tSS1PYnhFYWo3c0ZiS2hPcDJYUUJnT2xkcFFY",
-      "tkey": "熱門族群聯發科從ASIC衝向整座AI工廠！郭明錤揭轉型密碼",
-      "title": "《熱門族群》聯發科從ASIC衝向整座AI工廠！郭明錤揭轉型密碼 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6288021001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Tue, 01 Sep 2026 03:25:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2454",
-          "name": "聯發科",
-          "point": "輝達豪砸35億美元投資，股價漲停",
-          "status": "高檔修正",
-          "dist": -12.7,
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "9/1"
-          ]
-        },
-        {
-          "symbol": "6526",
-          "name": "達發",
-          "point": "聯發科概念股，同步攻上漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "9/1"
-          ]
-        },
-        {
-          "symbol": "3169",
-          "name": "亞信",
-          "point": "聯發科概念股，同步攻上漲停",
-          "limitUp": true,
-          "pct": 10
-        },
-        {
-          "symbol": "8040",
-          "name": "九暘",
-          "point": "聯發科概念股，同步攻上漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "9/2",
-            "9/1",
-            "8/31",
-            "8/28",
-            "8/27"
-          ]
-        }
-      ],
-      "background": "聯發科獲輝達大規模投資，深化AI ASIC與AI工廠合作，將客製化晶片導入輝達生態系，帶動集團股表現。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxOSDkxb2ZmYk91WDFqUzRTOUJnUzhYZ0J2REUxMUFoeHM0OUgwVWJUSHRrM0pLVnpHTmZhZVFCU1Y0dDRYOFU1aFVTUzlRRXBodWh3OUVYc2p3SjZ0aWFQbVlyNzJqRWxzUzNuRjVSZEVfRjJBQ0NoeEZQQlMwX19CY3pJOG9PUGtZ",
-      "tkey": "熱門族群AI點燃人氣重電四雄衝了士電、華城漲半根",
-      "title": "《熱門族群》AI點燃人氣 重電四雄衝了 士電、華城漲半根 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6288020001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Tue, 01 Sep 2026 03:24:00 GMT",
-      "stocks": [
-        {
-          "symbol": "1503",
-          "name": "士電",
-          "point": "AI電力基礎建設需求升溫，衝上半根漲停",
-          "limitUp": false
-        },
-        {
-          "symbol": "1519",
-          "name": "華城",
-          "point": "AI電力基礎建設需求升溫，衝上半根漲停",
-          "limitUp": false
-        },
-        {
-          "symbol": "1513",
-          "name": "中興電",
-          "point": "AI電力基礎建設需求升溫，股價震盪走高",
-          "limitUp": false
-        },
-        {
-          "symbol": "1514",
-          "name": "亞力",
-          "point": "AI電力基礎建設需求升溫，股價站穩均線",
-          "limitUp": false
-        }
-      ],
-      "background": "AI產業鏈擴張推升電力基礎建設需求，重電族群受惠於AI資料中心對變壓器、電網等設備的龐大需求，加上美國供應鏈去中化趨勢。",
-      "themeTags": [
-        "需求驅動",
-        "政策關稅"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxPNnhEVTVKWnBvMkg2RU5pRUdfX1lCTk41WDNSMnQxbUt0aC1RT2NJTFU4UGwyX082M2Z6WUhObm53aGpyb1M4aEJrTEhYUWRwYUY5ak1OY0U5LXdmaDVyNjkzTExILS1YaThjSV8tNFNzUFBiTjF3OWlpWGJQNEt4Tk55TTFsWVhP",
-      "tkey": "熱門族群萬金鋪路？聯發科家有喜事集團連閃紅燈歡慶",
-      "title": "《熱門族群》萬金鋪路？聯發科家有喜事 集團連閃紅燈歡慶 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6287968001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Tue, 01 Sep 2026 02:43:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2454",
-          "name": "聯發科",
-          "point": "輝達結盟帶動股價漲停",
-          "status": "高檔修正",
-          "dist": -12.7,
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "9/1"
-          ]
-        },
-        {
-          "symbol": "3169",
-          "name": "亞信",
-          "point": "聯發科家族成員股價飆漲",
-          "limitUp": true,
-          "pct": 10
-        },
-        {
-          "symbol": "8040",
-          "name": "九暘",
-          "point": "聯發科家族成員股價飆漲",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "9/2",
-            "9/1",
-            "8/31",
-            "8/28",
-            "8/27"
-          ]
-        },
-        {
-          "symbol": "6526",
-          "name": "達發",
-          "point": "受惠AI資料中心成長",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "9/1"
-          ]
-        },
-        {
-          "symbol": "6962",
-          "name": "奕力-KY",
-          "point": "聯發科家族成員股價飆漲",
-          "limitUp": false
-        },
-        {
-          "symbol": "6679",
-          "name": "鈺太",
-          "point": "聯發科家族成員股價飆漲",
-          "limitUp": false
-        },
-        {
-          "symbol": "7749",
-          "name": "意騰-KY",
-          "point": "聯發科家族成員股價飆漲",
-          "limitUp": false
-        }
-      ],
-      "background": "聯發科與輝達、Alphabet合作AI ASIC及NVLink生態系，獲外資看好轉型潛力，有望挑戰千金股。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNMEoycHpjUVRlTDV4QXNtMnZOQkpSc1EwMHM4WU5tdHJCV24yYjVxWE4tV0QzV1VvWDlZWHpjUll3LUFNR1g3MjhuemV4Rzl3SHdVMGF6ZUNpeVgtT0xudnFWRmU3ZnFtTkZnNXFidW1FQnFXTzVnZC1iYUpBMnlzOGwyRnFXT24t",
-      "tkey": "熱門族群欣興轉單聯想發燒景碩飆8%領軍南電、臻鼎-KY",
-      "title": "《熱門族群》欣興轉單聯想發燒 景碩飆8%領軍南電、臻鼎-KY - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6287940001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Tue, 01 Sep 2026 02:14:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3037",
-          "name": "欣興",
-          "point": "轉單題材股價止跌反彈",
-          "limitUp": false
-        },
-        {
-          "symbol": "3189",
-          "name": "景碩",
-          "point": "載板族群最強勢個股",
-          "status": "逼近新高",
-          "dist": -8.4,
-          "limitUp": false
-        },
-        {
-          "symbol": "8046",
-          "name": "南電",
-          "point": "IC載板受惠股",
-          "status": "高檔修正",
-          "dist": -12,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/27"
-          ]
-        },
-        {
-          "symbol": "4958",
-          "name": "臻鼎-KY",
-          "point": "PCB潛在承接者",
-          "limitUp": false
-        },
-        {
-          "symbol": "2368",
-          "name": "金像電",
-          "point": "PCB潛在承接者",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/28"
-          ]
-        }
-      ],
-      "background": "欣興因產地爭議面臨轉單效應，PCB及載板族群受關注，市場預期後續訂單變化。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTE9laVlJajg5eDBzTUNIcnV5cVJWSmlGaVBJeHlZLW9yeFBKWTFmVTlGdEMwSUNlOHF5NEpPMnBYRS1OQ3JTb1dNcHZDY1d6by1wSVlRTlczcUs",
-      "tkey": "熱門族群立院三讀利多出盡？軍工股虎頭蛇尾",
-      "title": "熱門族群》立院三讀利多出盡？軍工股虎頭蛇尾 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/huza9tbwx0af",
-      "source": "自由時報",
-      "pubDate": "Mon, 31 Aug 2026 20:20:32 GMT",
-      "stocks": [],
-      "background": "台灣政府推動國防自主，軍工產業受惠政策支持，訂單能見度提升，但短期可能面臨利多出盡的修正壓力。",
-      "themeTags": [
-        "政策關稅"
-      ]
     }
   ]
 }
