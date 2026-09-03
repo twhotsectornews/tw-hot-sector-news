@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-03T14:02:08.170+08:00",
-  "generatedAt": "2026-09-03T06:02:08.170Z",
+  "asOf": "2026-09-03T15:28:09.751+08:00",
+  "generatedAt": "2026-09-03T07:28:09.751Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -21,6 +21,30 @@
       "luwd": [
         "9/1"
       ]
+    },
+    {
+      "symbol": "2408",
+      "name": "南亞科",
+      "days": 3,
+      "dates": [
+        "9/3",
+        "8/31",
+        "8/28"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2344",
+      "name": "華邦電",
+      "days": 3,
+      "dates": [
+        "9/3",
+        "8/31",
+        "8/28"
+      ],
+      "mentions": 3,
+      "limitUp": false
     },
     {
       "symbol": "3008",
@@ -98,6 +122,17 @@
       "luwd": [
         "8/27"
       ]
+    },
+    {
+      "symbol": "6770",
+      "name": "力積電",
+      "days": 2,
+      "dates": [
+        "9/3",
+        "8/31"
+      ],
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "3234",
@@ -200,28 +235,6 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "2344",
-      "name": "華邦電",
-      "days": 2,
-      "dates": [
-        "8/31",
-        "8/28"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2408",
-      "name": "南亞科",
-      "days": 2,
-      "dates": [
-        "8/31",
-        "8/28"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
@@ -284,6 +297,47 @@
       ],
       "background": "金融股因其防禦性特質，在市場震盪時吸引資金避險。具備併購題材的金控，透過規模擴大與營運綜效，能提升獲利表現。",
       "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPUTRqZTc2QU1FbUdOenRtenZTU1lkZEFrenpZSWpJTGkwS2g0NkwzRHVRZU9sYnAzOWhzWkZKeTdGSFpSclg2ZDJjcTVwR1RFaXF6S0xLbjJLUDdqMUdJdUpxclkxSGxQcENzWVN1UHp2azNZd1FNQTJtUjB2eVhnUy02X09hOExs",
+      "tkey": "熱門族群南亞科營收續創新高逢高遭獲利了結賣壓",
+      "title": "《熱門族群》南亞科營收續創新高 逢高遭獲利了結賣壓 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6290242001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 03 Sep 2026 02:31:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "營收續創新高，逢高遭獲利了結賣壓",
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "開高拉回，回探月線關卡",
+          "limitUp": false
+        },
+        {
+          "symbol": "3006",
+          "name": "晶豪科",
+          "point": "業績亮麗，一度亮燈漲停創高",
+          "status": "高檔修正",
+          "dist": -10.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "成交量居於前20大量股",
+          "limitUp": false
+        }
+      ],
+      "background": "DRAM產業受惠產品價格續漲，記憶體廠營收表現亮麗。南亞科、華邦電為台灣DRAM指標廠，晶豪科為記憶體IC設計廠，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxNaDU1bU00VFZFZVppbjJZSWliclpCNjJpNXBqMzBMb2pwWERSdGJyU2dWRy13Qzh6VUcwcktINjVCenROd1BoVU5laWxyQWRrVnF4ZWJJNlYzbmRuaWVDcUZjOWpiMktEQ1FQeW1WZVpQSWxwdlAxSnBMQTViTG5qOFRIRnQ4ckVl",
