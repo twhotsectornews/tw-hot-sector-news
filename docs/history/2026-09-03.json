@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "updatedAt": "2026-09-04T06:01:30.232Z",
+  "updatedAt": "2026-09-04T07:30:00.100Z",
   "news": [
     {
       "gid": "CBMiakFVX3lxTE1rYXdXTkxia2pQMkZSTllDS0ZHUDJUbGp3OUFXLUZkNGdJOWtqZ3E1c00ta041WmFJN0tEQll5a1ZhOHZocHprXzJ4NG5uOGhIZWFHeEdOOHZiTmp1cWsza3VCbTNZak5Ya2c",
@@ -70,7 +70,15 @@
           "name": "聯一光",
           "point": "概念股同步熄火下挫",
           "status": "逼近新高",
-          "dist": -4.9
+          "dist": -4.9,
+          "luw": 5,
+          "luwd": [
+            "9/3",
+            "9/2",
+            "9/1",
+            "8/31",
+            "8/28"
+          ]
         },
         {
           "symbol": "4976",
