@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-04T18:41:31.045+08:00",
-  "generatedAt": "2026-09-04T10:41:31.045Z",
+  "asOf": "2026-09-04T21:25:47.030+08:00",
+  "generatedAt": "2026-09-04T13:25:47.030Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -574,6 +574,20 @@
       "themeTags": [
         "需求驅動",
         "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTFBIN3JYM0VpZEdRZHdNajZ1VUlwcGJLT1BoRmNydjVRbVY4N3o4ZVZMQWltcVRyVW5pcGxuaVAzWnBRcjBVRGJBNkMyQ29ITmRTb0hqTG9NeXA",
+      "tkey": "熱門族群AI盡頭是電力重電族群扮演基建要角",
+      "title": "熱門族群》 AI盡頭是電力 重電族群扮演基建要角 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/qjy05zlmpyf6",
+      "source": "自由時報",
+      "pubDate": "Wed, 02 Sep 2026 21:14:36 GMT",
+      "stocks": [],
+      "background": "AI 發展對電力需求激增，重電族群作為電力基礎設施的關鍵供應商，受惠於全球電網升級與能源轉型政策推動。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
       ]
     }
   ]
