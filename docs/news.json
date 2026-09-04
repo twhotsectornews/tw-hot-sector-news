@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-04T12:02:44.342+08:00",
-  "generatedAt": "2026-09-04T04:02:44.342Z",
+  "asOf": "2026-09-04T13:02:28.126+08:00",
+  "generatedAt": "2026-09-04T05:02:28.126Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -242,6 +242,68 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOOFJXMFlKdFJHVjRabGpoR3RseWN1NDdzd2JxRzZrdUdnVFZ1ajBZbGRNZV9uelZzRVF0WjRQVXpqbjRBZlJUMW83M0RVMkt4d1J3YnNkdXFMVEdUdFdDOUNvd21BMmhVZGlqZEtpakpBWlB6T1MwZGJRN0hXenhhNUltYWl1djZJ",
+      "tkey": "熱門族群散熱燒燙燙！雙鴻、奇鋐飆天價一詮怎麼了？",
+      "title": "《熱門族群》散熱燒燙燙！雙鴻、奇鋐飆天價 一詮怎麼了？ - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6291513001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 04 Sep 2026 04:23:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "point": "飆天價，前7月賺近三股本",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "大漲6%寫新高，水冷市占優於預期",
+          "status": "逼近新高",
+          "dist": -1,
+          "limitUp": false
+        },
+        {
+          "symbol": "2486",
+          "name": "一詮",
+          "point": "子公司惠智先進攜工研院進軍AI液冷散熱",
+          "limitUp": false
+        },
+        {
+          "symbol": "2421",
+          "name": "建準",
+          "point": "強升半根停板",
+          "status": "逼近新高",
+          "dist": -7,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/31"
+          ]
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "強升半根停板，布局微流道上蓋",
+          "status": "逼近新高",
+          "dist": -4.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "8996",
+          "name": "高力",
+          "point": "強升半根停板",
+          "limitUp": false
+        }
+      ],
+      "background": "AI晶片功耗快速攀升，帶動液冷散熱商機升級，從機櫃端深入晶片封裝，擴大台廠供應鏈機會。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOVVA5VlJETDg3SUhrc1NuZXFpdUFWUkYxa2hzWU1XdmZTLTJEM2RudjYtNDhMV1FqZTFsT29NTUFJMzN2UGhFLURxc0E4di05QVA5ZmhjZi1LR1VKMVBkaHJOU3k4LU9GY1ZSbDlxa3c1QnJfR3ZZdGlSYnY5ZTlFV2R5aVRYX0o0",
       "tkey": "熱門族群SpaceX衝了！低軌衛星跟飛3顆紅燈高掛",
