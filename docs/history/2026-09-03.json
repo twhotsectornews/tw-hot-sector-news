@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-03",
+  "updatedAt": "2026-09-04T03:02:34.486Z",
+  "news": [
+    {
+      "gid": "CBMiakFVX3lxTE1rYXdXTkxia2pQMkZSTllDS0ZHUDJUbGp3OUFXLUZkNGdJOWtqZ3E1c00ta041WmFJN0tEQll5a1ZhOHZocHprXzJ4NG5uOGhIZWFHeEdOOHZiTmp1cWsza3VCbTNZak5Ya2c",
+      "tkey": "熱門族群大哥抓去關！光學股人走茶涼？專家曝解方-上市櫃",
+      "title": "《熱門族群》大哥抓去關！光學股人走茶涼？專家曝解方- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260903900272-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Thu, 03 Sep 2026 04:16:32 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "坐鎮點火拉抬指數",
+          "status": "逼近新高",
+          "dist": -5.5
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "遭列處置股、股價重摔",
+          "status": "高檔修正",
+          "dist": -10.7
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "遭列處置股、股價殺低",
+          "status": "逼近新高",
+          "dist": -8.3,
+          "luw": 2,
+          "luwd": [
+            "8/31",
+            "8/28"
+          ]
+        },
+        {
+          "symbol": "3019",
+          "name": "亞光",
+          "point": "人形機器人鏡頭出貨、CPO送樣",
+          "luw": 1,
+          "luwd": [
+            "9/2"
+          ]
+        },
+        {
+          "symbol": "2374",
+          "name": "佳能",
+          "point": "概念股同步熄火下挫"
+        },
+        {
+          "symbol": "3362",
+          "name": "先進光",
+          "point": "概念股同步熄火下挫"
+        },
+        {
+          "symbol": "3630",
+          "name": "新鉅科",
+          "point": "概念股同步熄火下挫"
+        },
+        {
+          "symbol": "6209",
+          "name": "今國光",
+          "point": "概念股同步熄火下挫"
+        },
+        {
+          "symbol": "3441",
+          "name": "聯一光",
+          "point": "概念股同步熄火下挫",
+          "status": "逼近新高",
+          "dist": -4.9
+        },
+        {
+          "symbol": "4976",
+          "name": "佳凌",
+          "point": "昨日漲停、今日大跌",
+          "luw": 1,
+          "luwd": [
+            "9/2"
+          ]
+        }
+      ],
+      "background": "光學股受惠CPO與機器人雙題材，但龍頭股因漲多被列處置股，導致族群整體熄火。矽光子與高速光互連為產業重點，下半年光通訊產品將放量。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPU2lmd280c2NKVmhnUWR6Vko1Nm1VcXhsNkN6Ry1pcVJBRTlQN01NcDV1T0g4azdyMHhHUFA3LTBEdzhkaFREclJoeWgxQmFsdjVxRmRFaUNSTWRGWEJwOXYzM0w4dTRHaDlnYi1SOHVEMEZsYkQtYkRuM1pyYUgtb0dwS0pvdTFy",
+      "tkey": "熱門族群台股鍍金防震！併購利多放大玉山金、台新新光金強勢",
+      "title": "《熱門族群》台股鍍金防震！併購利多放大 玉山金、台新新光金強勢 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6290339001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 03 Sep 2026 03:55:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2884",
+          "name": "玉山金",
+          "point": "併購利多，放量勁揚",
+          "status": "逼近新高",
+          "dist": -0.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "2887",
+          "name": "台新新光金",
+          "point": "合併綜效，股價創新高",
+          "status": "逼近新高",
+          "dist": -1.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "2882",
+          "name": "國泰金",
+          "point": "漲幅居前，吸引資金",
+          "status": "逼近新高",
+          "dist": -2.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "2845",
+          "name": "遠東銀",
+          "point": "漲幅居前，吸引資金",
+          "status": "逼近新高",
+          "dist": -3.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "2801",
+          "name": "彰銀",
+          "point": "漲幅居前，吸引資金",
+          "status": "逼近新高",
+          "dist": -0.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "2883",
+          "name": "凱基金",
+          "point": "漲幅居前，吸引資金",
+          "status": "逼近新高",
+          "dist": -0.7,
+          "limitUp": false
+        }
+      ],
+      "background": "金融股因其防禦性特質，在市場震盪時吸引資金避險。具備併購題材的金控，透過規模擴大與營運綜效，能提升獲利表現。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPUTRqZTc2QU1FbUdOenRtenZTU1lkZEFrenpZSWpJTGkwS2g0NkwzRHVRZU9sYnAzOWhzWkZKeTdGSFpSclg2ZDJjcTVwR1RFaXF6S0xLbjJLUDdqMUdJdUpxclkxSGxQcENzWVN1UHp2azNZd1FNQTJtUjB2eVhnUy02X09hOExs",
+      "tkey": "熱門族群南亞科營收續創新高逢高遭獲利了結賣壓",
+      "title": "《熱門族群》南亞科營收續創新高 逢高遭獲利了結賣壓 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6290242001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 03 Sep 2026 02:31:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "營收續創新高，逢高遭獲利了結賣壓",
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "開高拉回，回探月線關卡",
+          "limitUp": false
+        },
+        {
+          "symbol": "3006",
+          "name": "晶豪科",
+          "point": "業績亮麗，一度亮燈漲停創高",
+          "status": "高檔修正",
+          "dist": -10.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "成交量居於前20大量股",
+          "limitUp": false
+        }
+      ],
+      "background": "DRAM產業受惠產品價格續漲，記憶體廠營收表現亮麗。南亞科、華邦電為台灣DRAM指標廠，晶豪科為記憶體IC設計廠，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    }
+  ]
+}

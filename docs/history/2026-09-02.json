@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "updatedAt": "2026-09-03T14:44:05.405Z",
+  "updatedAt": "2026-09-04T03:02:34.487Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNaDU1bU00VFZFZVppbjJZSWliclpCNjJpNXBqMzBMb2pwWERSdGJyU2dWRy13Qzh6VUcwcktINjVCenROd1BoVU5laWxyQWRrVnF4ZWJJNlYzbmRuaWVDcUZjOWpiMktEQ1FQeW1WZVpQSWxwdlAxSnBMQTViTG5qOFRIRnQ4ckVl",
@@ -84,11 +84,7 @@
           "point": "具切入CPO微透鏡陣列潛力",
           "status": "逼近新高",
           "dist": -1.7,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/27"
-          ]
+          "limitUp": false
         }
       ],
       "background": "矽光子技術因AI高速互連需求爆發而受矚目，台積電擘劃COUPE藍圖，CPO下半年進入量產，光通訊產業動能明確。",
@@ -111,10 +107,9 @@
           "status": "逼近新高",
           "dist": -5.4,
           "limitUp": false,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "8/31",
-            "8/27"
+            "8/31"
           ]
         },
         {
