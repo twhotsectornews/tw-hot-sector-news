@@ -1,7 +1,21 @@
 {
   "date": "2026-09-03",
-  "updatedAt": "2026-09-04T14:32:26.313Z",
+  "updatedAt": "2026-09-05T03:01:29.854Z",
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE9rcXFZTkJTUUxZSXZCeUV1XzMwUlBnV09YV1RVdTRFV3ItM2lSMl9mRndSUlI0djZIdVoyMkhxZHZqWXRsa0wybV80X3I2M2o2MUM5UkJWOUI",
+      "tkey": "熱門族群AI外溢成熟製程回溫晶圓代工下半年動能看俏",
+      "title": "熱門族群》AI外溢成熟製程回溫 晶圓代工下半年動能看俏 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/t4ypkutddeml",
+      "source": "自由時報",
+      "pubDate": "Thu, 03 Sep 2026 14:59:16 GMT",
+      "stocks": [],
+      "background": "AI需求外溢至成熟製程，晶圓代工產業景氣回溫，下半年動能看俏。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiakFVX3lxTE1rYXdXTkxia2pQMkZSTllDS0ZHUDJUbGp3OUFXLUZkNGdJOWtqZ3E1c00ta041WmFJN0tEQll5a1ZhOHZocHprXzJ4NG5uOGhIZWFHeEdOOHZiTmp1cWsza3VCbTNZak5Ya2c",
       "tkey": "熱門族群大哥抓去關！光學股人走茶涼？專家曝解方-上市櫃",
@@ -30,10 +44,9 @@
           "point": "遭列處置股、股價殺低",
           "status": "逼近新高",
           "dist": -8.3,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "8/31",
-            "8/28"
+            "8/31"
           ]
         },
         {
@@ -73,11 +86,11 @@
           "dist": -4.9,
           "luw": 5,
           "luwd": [
+            "9/4",
             "9/3",
             "9/2",
             "9/1",
-            "8/31",
-            "8/28"
+            "8/31"
           ]
         },
         {

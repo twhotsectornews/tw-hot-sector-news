@@ -1,0 +1,158 @@
+{
+  "date": "2026-09-04",
+  "updatedAt": "2026-09-05T03:01:29.848Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOOFJXMFlKdFJHVjRabGpoR3RseWN1NDdzd2JxRzZrdUdnVFZ1ajBZbGRNZV9uelZzRVF0WjRQVXpqbjRBZlJUMW83M0RVMkt4d1J3YnNkdXFMVEdUdFdDOUNvd21BMmhVZGlqZEtpakpBWlB6T1MwZGJRN0hXenhhNUltYWl1djZJ",
+      "tkey": "熱門族群散熱燒燙燙！雙鴻、奇鋐飆天價一詮怎麼了？",
+      "title": "《熱門族群》散熱燒燙燙！雙鴻、奇鋐飆天價 一詮怎麼了？ - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6291513001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 04 Sep 2026 04:23:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "point": "飆天價，前7月賺近三股本",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "9/4",
+            "9/3",
+            "9/2",
+            "9/1",
+            "8/31"
+          ]
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "大漲6%寫新高，水冷市占優於預期",
+          "status": "逼近新高",
+          "dist": -1,
+          "limitUp": false
+        },
+        {
+          "symbol": "2486",
+          "name": "一詮",
+          "point": "子公司惠智先進攜工研院進軍AI液冷散熱",
+          "limitUp": false
+        },
+        {
+          "symbol": "2421",
+          "name": "建準",
+          "point": "強升半根停板",
+          "status": "逼近新高",
+          "dist": -7,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "8/31"
+          ]
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "強升半根停板，布局微流道上蓋",
+          "status": "逼近新高",
+          "dist": -4.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "8996",
+          "name": "高力",
+          "point": "強升半根停板",
+          "limitUp": true,
+          "pct": 9.7,
+          "luw": 1,
+          "luwd": [
+            "9/4"
+          ]
+        }
+      ],
+      "background": "AI晶片功耗快速攀升，帶動液冷散熱商機升級，從機櫃端深入晶片封裝，擴大台廠供應鏈機會。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOVVA5VlJETDg3SUhrc1NuZXFpdUFWUkYxa2hzWU1XdmZTLTJEM2RudjYtNDhMV1FqZTFsT29NTUFJMzN2UGhFLURxc0E4di05QVA5ZmhjZi1LR1VKMVBkaHJOU3k4LU9GY1ZSbDlxa3c1QnJfR3ZZdGlSYnY5ZTlFV2R5aVRYX0o0",
+      "tkey": "熱門族群SpaceX衝了！低軌衛星跟飛3顆紅燈高掛",
+      "title": "《熱門族群》SpaceX衝了！低軌衛星跟飛 3顆紅燈高掛 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6291451001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 04 Sep 2026 03:15:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6672",
+          "name": "騰輝電子-KY",
+          "point": "高階材料需求升溫，營收創新高",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "9/4"
+          ]
+        },
+        {
+          "symbol": "7717",
+          "name": "萊德光電-KY",
+          "point": "低軌衛星產品出貨，EPS創高",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "9/4",
+            "9/3",
+            "9/2",
+            "9/1",
+            "8/31"
+          ]
+        },
+        {
+          "symbol": "6271",
+          "name": "同欣電",
+          "point": "亮燈攻頂",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "9/4"
+          ]
+        },
+        {
+          "symbol": "3491",
+          "name": "昇達科",
+          "point": "強彈半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "2324",
+          "name": "仁寶",
+          "point": "強彈半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "2332",
+          "name": "友訊",
+          "point": "緊隨其後",
+          "limitUp": false
+        },
+        {
+          "symbol": "4906",
+          "name": "正文",
+          "point": "緊隨其後",
+          "limitUp": false
+        }
+      ],
+      "background": "SpaceX星艦試飛利多激勵，帶動低軌衛星概念股起飛。全球CSP大廠加大AI基礎設施投資，先進封裝與光電介面技術升級需求高。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    }
+  ]
+}

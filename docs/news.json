@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-04T22:32:26.316+08:00",
-  "generatedAt": "2026-09-04T14:32:26.316Z",
+  "asOf": "2026-09-05T11:01:29.858+08:00",
+  "generatedAt": "2026-09-05T03:01:29.858Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -21,22 +21,6 @@
       "dist": -10.7
     },
     {
-      "symbol": "2454",
-      "name": "聯發科",
-      "days": 3,
-      "dates": [
-        "9/2",
-        "9/1",
-        "8/29"
-      ],
-      "mentions": 6,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "9/1"
-      ]
-    },
-    {
       "symbol": "3406",
       "name": "玉晶光",
       "days": 3,
@@ -48,10 +32,24 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -8.3,
-      "luw": 2,
+      "luw": 1,
       "luwd": [
-        "8/31",
-        "8/28"
+        "8/31"
+      ]
+    },
+    {
+      "symbol": "2454",
+      "name": "聯發科",
+      "days": 2,
+      "dates": [
+        "9/2",
+        "9/1"
+      ],
+      "mentions": 5,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "9/1"
       ]
     },
     {
@@ -260,11 +258,11 @@
           "pct": 10,
           "luw": 5,
           "luwd": [
+            "9/4",
             "9/3",
             "9/2",
             "9/1",
-            "8/31",
-            "8/28"
+            "8/31"
           ]
         },
         {
@@ -306,7 +304,11 @@
           "name": "高力",
           "point": "強升半根停板",
           "limitUp": true,
-          "pct": 9.7
+          "pct": 9.7,
+          "luw": 1,
+          "luwd": [
+            "9/4"
+          ]
         }
       ],
       "background": "AI晶片功耗快速攀升，帶動液冷散熱商機升級，從機櫃端深入晶片封裝，擴大台廠供應鏈機會。",
@@ -327,7 +329,11 @@
           "name": "騰輝電子-KY",
           "point": "高階材料需求升溫，營收創新高",
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "9/4"
+          ]
         },
         {
           "symbol": "7717",
@@ -337,11 +343,11 @@
           "pct": 9.9,
           "luw": 5,
           "luwd": [
+            "9/4",
             "9/3",
             "9/2",
             "9/1",
-            "8/31",
-            "8/28"
+            "8/31"
           ]
         },
         {
@@ -349,7 +355,11 @@
           "name": "同欣電",
           "point": "亮燈攻頂",
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "9/4"
+          ]
         },
         {
           "symbol": "3491",
@@ -383,6 +393,20 @@
       ]
     },
     {
+      "gid": "CBMiWEFVX3lxTE9rcXFZTkJTUUxZSXZCeUV1XzMwUlBnV09YV1RVdTRFV3ItM2lSMl9mRndSUlI0djZIdVoyMkhxZHZqWXRsa0wybV80X3I2M2o2MUM5UkJWOUI",
+      "tkey": "熱門族群AI外溢成熟製程回溫晶圓代工下半年動能看俏",
+      "title": "熱門族群》AI外溢成熟製程回溫 晶圓代工下半年動能看俏 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/t4ypkutddeml",
+      "source": "自由時報",
+      "pubDate": "Thu, 03 Sep 2026 14:59:16 GMT",
+      "stocks": [],
+      "background": "AI需求外溢至成熟製程，晶圓代工產業景氣回溫，下半年動能看俏。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiakFVX3lxTE1rYXdXTkxia2pQMkZSTllDS0ZHUDJUbGp3OUFXLUZkNGdJOWtqZ3E1c00ta041WmFJN0tEQll5a1ZhOHZocHprXzJ4NG5uOGhIZWFHeEdOOHZiTmp1cWsza3VCbTNZak5Ya2c",
       "tkey": "熱門族群大哥抓去關！光學股人走茶涼？專家曝解方-上市櫃",
       "title": "《熱門族群》大哥抓去關！光學股人走茶涼？專家曝解方- 上市櫃 - 旺得富理財網",
@@ -410,10 +434,9 @@
           "point": "遭列處置股、股價殺低",
           "status": "逼近新高",
           "dist": -8.3,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "8/31",
-            "8/28"
+            "8/31"
           ]
         },
         {
@@ -453,11 +476,11 @@
           "dist": -4.9,
           "luw": 5,
           "luwd": [
+            "9/4",
             "9/3",
             "9/2",
             "9/1",
-            "8/31",
-            "8/28"
+            "8/31"
           ]
         },
         {
