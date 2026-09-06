@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-06T14:02:19.069+08:00",
-  "generatedAt": "2026-09-06T06:02:19.069Z",
+  "asOf": "2026-09-06T15:24:23.501+08:00",
+  "generatedAt": "2026-09-06T07:24:23.501Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -279,6 +279,38 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNbXQtbk9GSnpHbkU2WFRKbnM1d00tc1NpZVhiVlBBeWpJTmdXdDVmVVpJdzB3RzRvNXBGOXFfclVSVDZCZk5DaGp0bjRjdXJGNnc5RTFLNHNsdGVLelhBY1hzZmpxNWFfbjE4emd5YXJvQWtHNnlBb0xPMkFkOVRxZVZZVTJESy1j",
+      "tkey": "熱門族群節能補助倒數計時家電業齊衝業績",
+      "title": "《熱門族群》節能補助倒數計時 家電業齊衝業績 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6292724001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sun, 06 Sep 2026 05:47:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1606",
+          "name": "聲寶",
+          "point": "營收自6月起連續二個月轉正",
+          "limitUp": false
+        },
+        {
+          "symbol": "5367",
+          "name": "禾聯碩",
+          "point": "營收自6月起連續二個月轉正",
+          "limitUp": false
+        },
+        {
+          "symbol": "1614",
+          "name": "三洋電",
+          "point": "7月營收跟進轉正",
+          "limitUp": false
+        }
+      ],
+      "background": "節能補助政策將於年底到期，有望帶動一波換機潮，加上夏季高溫與南部豪雨，推升空調及除濕機需求。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
     {
       "gid": "CBMiZEFVX3lxTE5TeDRld1hhMm5sY0RNWHFKY3h5U0Z3czNicFpnZU1YSV9yTHNqdDJKNGQ0MGNhQ0pHaXZad3JCdHFnTVBWekZmUlJhUlRPTi10Z3M4eGlQM19WeEpfeWd4Mnl1S2HSAWRBVV95cUxOU3g0ZXdYYTJubGNETVhxSmN4eVNGd3MzYnBaZ2VNWElfckxzanQySjRkNDBjYUNKR2l2WndyQnRxZ01QVnpGZlJSYVJUT04tdGdzOHhpUDNfVnhKX3lneDJ5dUth",
       "tkey": "熱門族群資金尋找避風港金融股閃閃發亮",
