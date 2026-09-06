@@ -1,0 +1,52 @@
+{
+  "date": "2026-09-05",
+  "updatedAt": "2026-09-06T06:02:19.059Z",
+  "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE94S3AxZU80R25LWUhqbXI1eUllZUhvUXdraDkteDZXaHVWVFRYX2c1ZmR3RGVyLTQ0cnktTXZCU29GUUZEaDl2MlpFWXBmaTRIclBXdmlGWnc",
+      "tkey": "2887台新新光金-熱門族群資金尋找避風港金融股閃閃發亮-股市爆料同學會",
+      "title": "2887 台新新光金- 熱門族群》資金尋找避風港金融股閃閃發亮- 股市爆料同學會 - CMoney",
+      "url": "https://www.cmoney.tw/forum/article/184162032",
+      "source": "CMoney",
+      "pubDate": "Sat, 05 Sep 2026 08:24:18 GMT",
+      "stocks": [
+        {
+          "symbol": "2887",
+          "name": "台新新光金",
+          "point": "資金避風港，股價閃閃發亮",
+          "status": "逼近新高",
+          "dist": -2.7
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "熱門股票"
+        },
+        {
+          "symbol": "4743",
+          "name": "合一",
+          "point": "熱門股票"
+        },
+        {
+          "symbol": "4128",
+          "name": "中天",
+          "point": "熱門股票"
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "熱門股票"
+        },
+        {
+          "symbol": "6901",
+          "name": "鑽石投資",
+          "point": "熱門股票"
+        }
+      ],
+      "background": "電子股高檔震盪與地緣政治避險情緒升溫，資金轉向金融股，推升金融保險指數，金融類股尚有補漲空間。",
+      "themeTags": [
+        "循環位置"
+      ]
+    }
+  ]
+}
