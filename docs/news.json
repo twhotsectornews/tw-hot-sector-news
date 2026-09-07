@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-07T13:02:32.655+08:00",
-  "generatedAt": "2026-09-07T05:02:32.655Z",
+  "asOf": "2026-09-07T14:06:28.426+08:00",
+  "generatedAt": "2026-09-07T06:06:28.426Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -22,6 +22,20 @@
       "limitUp": false
     },
     {
+      "symbol": "2884",
+      "name": "玉山金",
+      "days": 3,
+      "dates": [
+        "9/6",
+        "9/5",
+        "9/3"
+      ],
+      "mentions": 3,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": false
+    },
+    {
       "symbol": "2887",
       "name": "新光金",
       "days": 3,
@@ -33,6 +47,20 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -2.7,
+      "limitUp": false
+    },
+    {
+      "symbol": "2883",
+      "name": "開發金",
+      "days": 3,
+      "dates": [
+        "9/6",
+        "9/5",
+        "9/3"
+      ],
+      "mentions": 3,
+      "status": "創新高",
+      "dist": -0.1,
       "limitUp": false
     },
     {
@@ -87,6 +115,28 @@
         "9/2"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2409",
+      "name": "友達",
+      "days": 2,
+      "dates": [
+        "9/7",
+        "9/2"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3481",
+      "name": "群創",
+      "days": 2,
+      "dates": [
+        "9/7",
+        "9/2"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -188,29 +238,29 @@
       "limitUp": false
     },
     {
-      "symbol": "2884",
-      "name": "玉山金",
+      "symbol": "2881",
+      "name": "富邦金",
       "days": 2,
       "dates": [
         "9/6",
-        "9/3"
+        "9/5"
       ],
       "mentions": 2,
-      "status": "創新高",
-      "dist": 0,
+      "status": "逼近新高",
+      "dist": -0.7,
       "limitUp": false
     },
     {
-      "symbol": "2883",
-      "name": "開發金",
+      "symbol": "2890",
+      "name": "永豐金",
       "days": 2,
       "dates": [
         "9/6",
-        "9/3"
+        "9/5"
       ],
       "mentions": 2,
-      "status": "創新高",
-      "dist": -0.1,
+      "status": "逼近新高",
+      "dist": -0.7,
       "limitUp": false
     },
     {
@@ -255,6 +305,46 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxPbmFXMElna1FPZFF2ZVVfRG9MaTBqeUp6VWN1Sm51TTFaWTk0NUZmQWRvM18yOTlKSkhwVlRTTTFTZi1yS1JIOHZEb2NHWFU1VHNFcWV5Vm0yQVJpNVp1V2RiZ2xGcHkzaGdlZmZBU1ZMXzM1YnpDNWJuX3A1cng4SFc1dC1IX29O",
+      "tkey": "熱門族群面板雙虎回神友達觸漲停登上人氣王",
+      "title": "《熱門族群》面板雙虎回神 友達觸漲停登上人氣王 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6293772001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 07 Sep 2026 05:52:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "觸漲停登上人氣王",
+          "limitUp": false
+        },
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "point": "股價上漲約3%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2382",
+          "name": "廣達",
+          "point": "傳聞購入廠房",
+          "limitUp": false
+        },
+        {
+          "symbol": "3711",
+          "name": "日月光",
+          "point": "傳聞購入廠房",
+          "status": "高檔修正",
+          "dist": -14.8,
+          "limitUp": false
+        }
+      ],
+      "background": "面板雙虎透過資產活化優化財務，並積極布局AI光通訊及先進封裝，尋求新成長動能。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNX09LX0ZtWVRkdXcyTlJqUGVSMVZYVzJFYk5PQWZvWHVSbGN0V2gzVG53Ym9PNmlzemNhWEttcWJNRnE4OVlwYXBOdS1peGdzRkc1eEZpcnJyU19MaHgxa25oRkdOS1NCMVF4LWFWUnBxXzZSYlhZckdPY1JYd1FYQVh3OGxWVzJS",
       "tkey": "熱門族群台股化被動為主動！禾伸堂鎖2顆紅燈專家給指引",
       "title": "《熱門族群》台股化「被動」為主動！禾伸堂鎖2顆紅燈 專家給指引 - 富聯網",
@@ -266,7 +356,8 @@
           "symbol": "3026",
           "name": "禾伸堂",
           "point": "領被動元件漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 1,
           "luwd": [
             "9/4"
@@ -282,7 +373,8 @@
           "symbol": "8042",
           "name": "金山電",
           "point": "受現增題材帶動",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "9/4",

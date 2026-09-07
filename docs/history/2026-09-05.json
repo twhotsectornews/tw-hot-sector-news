@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "updatedAt": "2026-09-07T05:02:32.652Z",
+  "updatedAt": "2026-09-07T06:06:28.423Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE94S3AxZU80R25LWUhqbXI1eUllZUhvUXdraDkteDZXaHVWVFRYX2c1ZmR3RGVyLTQ0cnktTXZCU29GUUZEaDl2MlpFWXBmaTRIclBXdmlGWnc",
@@ -13,44 +13,42 @@
         {
           "symbol": "2887",
           "name": "台新新光金",
-          "point": "資金尋找避風港",
+          "point": "金融股閃閃發亮",
           "status": "逼近新高",
-          "dist": -3.5
+          "dist": -3.6
         },
         {
-          "symbol": "3535",
-          "name": "晶彩科",
-          "point": "轉型半導體先進封裝"
+          "symbol": "2883",
+          "name": "凱基證",
+          "point": "股價上漲",
+          "status": "逼近新高",
+          "dist": -1.3
         },
         {
-          "symbol": "3402",
-          "name": "漢科",
-          "point": "受惠半導體擴廠潮"
+          "symbol": "2881",
+          "name": "富邦金",
+          "point": "股價上漲",
+          "status": "逼近新高",
+          "dist": -3.9
         },
         {
-          "symbol": "3624",
-          "name": "光頡",
-          "point": "被動元件報價走揚",
-          "luw": 5,
-          "luwd": [
-            "9/4",
-            "9/3",
-            "9/2",
-            "9/1",
-            "8/31"
-          ]
+          "symbol": "2884",
+          "name": "玉山金",
+          "point": "股價持平",
+          "status": "逼近新高",
+          "dist": -1.9
         },
         {
-          "symbol": "2363",
-          "name": "矽統",
-          "point": "聯電集團資源重組"
+          "symbol": "2890",
+          "name": "永豐金",
+          "point": "股價下跌",
+          "status": "逼近新高",
+          "dist": -1.5
         }
       ],
-      "background": "半導體產業受AI與HPC需求驅動，帶動先進封裝與建廠需求。被動元件則因國際大廠調漲報價，產業景氣自谷底回升。",
+      "background": "資金避險轉向金融股，推升金融指數，類股今年漲幅仍落後大盤，具補漲空間。",
       "themeTags": [
-        "需求驅動",
-        "國際大廠",
-        "循環位置"
+        "需求驅動"
       ]
     }
   ]
