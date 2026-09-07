@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-07T12:05:49.562+08:00",
-  "generatedAt": "2026-09-07T04:05:49.562Z",
+  "asOf": "2026-09-07T13:02:32.655+08:00",
+  "generatedAt": "2026-09-07T05:02:32.655Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -22,20 +22,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2884",
-      "name": "玉山金",
-      "days": 3,
-      "dates": [
-        "9/6",
-        "9/5",
-        "9/3"
-      ],
-      "mentions": 3,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": false
-    },
-    {
       "symbol": "2887",
       "name": "新光金",
       "days": 3,
@@ -47,20 +33,6 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -2.7,
-      "limitUp": false
-    },
-    {
-      "symbol": "2883",
-      "name": "開發金",
-      "days": 3,
-      "dates": [
-        "9/6",
-        "9/5",
-        "9/3"
-      ],
-      "mentions": 3,
-      "status": "創新高",
-      "dist": -0.1,
       "limitUp": false
     },
     {
@@ -216,29 +188,29 @@
       "limitUp": false
     },
     {
-      "symbol": "2881",
-      "name": "富邦金",
+      "symbol": "2884",
+      "name": "玉山金",
       "days": 2,
       "dates": [
         "9/6",
-        "9/5"
+        "9/3"
       ],
       "mentions": 2,
-      "status": "逼近新高",
-      "dist": -0.7,
+      "status": "創新高",
+      "dist": 0,
       "limitUp": false
     },
     {
-      "symbol": "2890",
-      "name": "永豐金",
+      "symbol": "2883",
+      "name": "開發金",
       "days": 2,
       "dates": [
         "9/6",
-        "9/5"
+        "9/3"
       ],
       "mentions": 2,
-      "status": "逼近新高",
-      "dist": -0.7,
+      "status": "創新高",
+      "dist": -0.1,
       "limitUp": false
     },
     {
@@ -294,8 +266,7 @@
           "symbol": "3026",
           "name": "禾伸堂",
           "point": "領被動元件漲停",
-          "limitUp": true,
-          "pct": 10,
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "9/4"
@@ -305,8 +276,7 @@
           "symbol": "6173",
           "name": "信昌電",
           "point": "受惠NVIDIA機櫃題材",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "8042",
