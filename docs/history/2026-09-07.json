@@ -1,0 +1,376 @@
+{
+  "date": "2026-09-07",
+  "updatedAt": "2026-09-07T16:03:29.988Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPbmFXMElna1FPZFF2ZVVfRG9MaTBqeUp6VWN1Sm51TTFaWTk0NUZmQWRvM18yOTlKSkhwVlRTTTFTZi1yS1JIOHZEb2NHWFU1VHNFcWV5Vm0yQVJpNVp1V2RiZ2xGcHkzaGdlZmZBU1ZMXzM1YnpDNWJuX3A1cng4SFc1dC1IX29O",
+      "tkey": "熱門族群面板雙虎回神友達觸漲停登上人氣王",
+      "title": "《熱門族群》面板雙虎回神 友達觸漲停登上人氣王 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6293772001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 07 Sep 2026 05:52:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "觸漲停登上人氣王",
+          "limitUp": false
+        },
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "point": "股價上漲約3%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2382",
+          "name": "廣達",
+          "point": "傳聞購入廠房",
+          "limitUp": false
+        },
+        {
+          "symbol": "3711",
+          "name": "日月光",
+          "point": "傳聞購入廠房",
+          "status": "高檔修正",
+          "dist": -14.8,
+          "limitUp": false
+        }
+      ],
+      "background": "面板雙虎透過資產活化優化財務，並積極布局AI光通訊及先進封裝，尋求新成長動能。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNX09LX0ZtWVRkdXcyTlJqUGVSMVZYVzJFYk5PQWZvWHVSbGN0V2gzVG53Ym9PNmlzemNhWEttcWJNRnE4OVlwYXBOdS1peGdzRkc1eEZpcnJyU19MaHgxa25oRkdOS1NCMVF4LWFWUnBxXzZSYlhZckdPY1JYd1FYQVh3OGxWVzJS",
+      "tkey": "熱門族群台股化被動為主動！禾伸堂鎖2顆紅燈專家給指引",
+      "title": "《熱門族群》台股化「被動」為主動！禾伸堂鎖2顆紅燈 專家給指引 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6293588001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 07 Sep 2026 03:23:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "point": "領被動元件漲停",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 2,
+          "luwd": [
+            "9/7",
+            "9/4"
+          ]
+        },
+        {
+          "symbol": "6173",
+          "name": "信昌電",
+          "point": "受惠NVIDIA機櫃題材",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "9/7",
+            "9/4",
+            "9/3",
+            "9/2",
+            "9/1"
+          ]
+        },
+        {
+          "symbol": "8042",
+          "name": "金山電",
+          "point": "受現增題材帶動",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "9/7",
+            "9/4",
+            "9/3",
+            "9/2",
+            "9/1"
+          ]
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "受MLCC漲價題材激勵",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/4"
+          ]
+        },
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "高階被動元件漲價",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/4"
+          ]
+        },
+        {
+          "symbol": "2375",
+          "name": "凱美",
+          "point": "被動元件族群走強",
+          "limitUp": false
+        },
+        {
+          "symbol": "8043",
+          "name": "蜜望實",
+          "point": "被動元件族群走強",
+          "limitUp": false
+        }
+      ],
+      "background": "被動元件受AI伺服器與車用需求帶動漲價，國際MLCC龍頭村田缺貨外溢，台廠受惠，產業自谷底回升。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNSjZOdEdRYXg0OTRhRS1wdElUcHhINnl3dFNESmdrVnpJUzVQeS10dGREWlZ2aW1rMzd5anpTVjFJZDE1WE40VW5KMXVuaEhKLWdKdFRScXFCaWYzc1g0U21IWDRjOWZnMlZuLXB1aGlMMGJyMW1xTzFqSmZlWTdCcnhCV3RzRzYw",
+      "tkey": "熱門族群油價題材助攻台塑四寶集體發光",
+      "title": "《熱門族群》油價題材助攻 台塑四寶集體發光 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6293539001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 07 Sep 2026 02:23:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "漲幅一度達4%，股價重返80元之上",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "同步大漲約4%",
+          "status": "逼近新高",
+          "dist": -7,
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "漲幅約2%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "漲幅約2%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "8月營收年增560.85%，股價跳空走高",
+          "limitUp": false
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "受惠矽晶圓題材，股價漲逾3%",
+          "limitUp": false
+        }
+      ],
+      "background": "中東地緣政治緊張推升國際油價走強，帶動塑化族群股價上揚。電子股則受惠於美股科技股強勢及個別公司營收成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNbnRZdGhpU3lqTG9DWjlmcXVKVUU4bWtuMFljcFY0a2xlNV85cVAtc0Q5dkZrQjFiNE16Y296TkZQcFZwY0NIcVBPdGtFb1B5S25ZRm1pX2hpMFpiVk91eGZ4R1NrclZvdk9lUE5HMWNjUmtvMkpnbGszWWQtaUkwYWliWURhWjlf",
+      "tkey": "熱門族群油價飆塑化、油氣族群獲青睞",
+      "title": "《熱門族群》油價飆 塑化、油氣族群獲青睞 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6293330001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sun, 06 Sep 2026 23:58:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "五大泛用樹脂行情隨成本推升，營運加分",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "遠東區石化現貨行情漲勢凌厲，營運添利",
+          "status": "逼近新高",
+          "dist": -7,
+          "limitUp": false
+        },
+        {
+          "symbol": "1304",
+          "name": "台聚",
+          "point": "五大泛用樹脂行情隨成本推升，營運加分",
+          "limitUp": false
+        },
+        {
+          "symbol": "1305",
+          "name": "華夏",
+          "point": "五大泛用樹脂行情隨成本推升，營運加分",
+          "limitUp": false
+        },
+        {
+          "symbol": "1308",
+          "name": "亞聚",
+          "point": "五大泛用樹脂行情隨成本推升，營運加分",
+          "limitUp": false
+        },
+        {
+          "symbol": "1309",
+          "name": "台達化",
+          "point": "五大泛用樹脂行情隨成本推升，營運加分",
+          "limitUp": false
+        },
+        {
+          "symbol": "1312",
+          "name": "國喬",
+          "point": "遠東區石化現貨行情漲勢凌厲，營運添利",
+          "limitUp": false
+        },
+        {
+          "symbol": "1313",
+          "name": "聯成",
+          "point": "五大泛用樹脂行情隨成本推升，營運加分",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "遠東區石化現貨行情漲勢凌厲，營運添利",
+          "limitUp": false
+        },
+        {
+          "symbol": "1710",
+          "name": "東聯",
+          "point": "遠東區石化現貨行情漲勢凌厲，營運添利",
+          "limitUp": false
+        },
+        {
+          "symbol": "1718",
+          "name": "中纖",
+          "point": "遠東區石化現貨行情漲勢凌厲，營運添利",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "煉油廠油品日煉量高，柴油價差維持高檔",
+          "limitUp": false
+        },
+        {
+          "symbol": "8926",
+          "name": "台汽電",
+          "point": "持股國光電力增至45.83%，營運收益電力滿滿",
+          "limitUp": false
+        },
+        {
+          "symbol": "8931",
+          "name": "大汽電",
+          "point": "天然氣引擎汽電共生機組商轉，規劃AI算力中心用電",
+          "limitUp": false
+        },
+        {
+          "symbol": "9937",
+          "name": "全國",
+          "point": "加油站核心本業延伸會員經營，建置電動車充電站",
+          "limitUp": false
+        }
+      ],
+      "background": "美伊衝突擴大推升國際油價，帶動塑化產品價格飆漲，提升相關業者營運獲利。油氣族群也因油電需求升溫而受青睞。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNTXg2bURyV1g2dzBySFVRNmlET181LUd5cjRyNTRVQ1ZEdVRvS2YtWGFxOTJIT2FkLWZ1VFMxNGFKSXJaRU9ZdnJyU3Q1T1IwVjRpLVhPMUl5bk0weXVoZGhjZF9laVhsd2FnblFvMmQxVXFSVmxRSmFsWTQxYkdwTW1HMzYybUd0",
+      "tkey": "熱門族群蘋果新品一波波蘋概股吃補丸",
+      "title": "《熱門族群》蘋果新品一波波 蘋概股吃補丸 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6293272001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sun, 06 Sep 2026 23:45:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "蘋果新品拉貨效益，營運受惠",
+          "status": "逼近新高",
+          "dist": -3.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "蘋果新品拉貨效益，營運受惠",
+          "limitUp": false
+        },
+        {
+          "symbol": "4938",
+          "name": "和碩",
+          "point": "蘋果新品拉貨效益，營運受惠",
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "可變光圈第三季逐步放量，第四季營運比重高",
+          "status": "高檔修正",
+          "dist": -14.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "7月已進入旺季，手機鏡頭出貨明顯增加",
+          "status": "逼近新高",
+          "dist": -9.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "2324",
+          "name": "仁寶",
+          "point": "蘋果新品拉貨效益，營運受惠",
+          "limitUp": false
+        },
+        {
+          "symbol": "2382",
+          "name": "廣達",
+          "point": "蘋果新品拉貨效益，營運受惠",
+          "limitUp": false
+        },
+        {
+          "symbol": "3376",
+          "name": "新日興",
+          "point": "蘋果新品拉貨效益，營運受惠",
+          "limitUp": false
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "蘋果新品拉貨效益，營運受惠",
+          "status": "逼近新高",
+          "dist": -4.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "3042",
+          "name": "晶技",
+          "point": "蘋果新品拉貨效益，營運受惠",
+          "limitUp": false
+        }
+      ],
+      "background": "蘋果秋季新品發表會登場，iPhone 18 Pro系列、Apple Watch及折疊iPhone等新品將刺激換機需求，帶動相關供應鏈營運。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}

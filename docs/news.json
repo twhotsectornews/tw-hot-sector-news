@@ -1,26 +1,11 @@
 {
-  "asOf": "2026-09-07T23:01:40.054+08:00",
-  "generatedAt": "2026-09-07T15:01:40.054Z",
+  "asOf": "2026-09-08T00:03:29.995+08:00",
+  "generatedAt": "2026-09-07T16:03:29.995Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
-    {
-      "symbol": "3008",
-      "name": "大立光",
-      "days": 4,
-      "dates": [
-        "9/7",
-        "9/3",
-        "9/2",
-        "9/1"
-      ],
-      "mentions": 4,
-      "status": "高檔修正",
-      "dist": -14.6,
-      "limitUp": false
-    },
     {
       "symbol": "2409",
       "name": "友達",
@@ -31,6 +16,20 @@
         "9/2"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "3008",
+      "name": "大立光",
+      "days": 3,
+      "dates": [
+        "9/7",
+        "9/3",
+        "9/2"
+      ],
+      "mentions": 3,
+      "status": "高檔修正",
+      "dist": -14.6,
       "limitUp": false
     },
     {
@@ -76,21 +75,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2454",
-      "name": "聯發科",
-      "days": 2,
-      "dates": [
-        "9/2",
-        "9/1"
-      ],
-      "mentions": 5,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "9/1"
-      ]
-    },
-    {
       "symbol": "6505",
       "name": "台塑化",
       "days": 2,
@@ -112,11 +96,7 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -7,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "8/31"
-      ]
+      "limitUp": false
     },
     {
       "symbol": "1301",
@@ -151,8 +131,9 @@
       "mentions": 2,
       "limitUp": true,
       "pct": 10,
-      "luw": 1,
+      "luw": 2,
       "luwd": [
+        "9/7",
         "9/4"
       ]
     },
@@ -169,11 +150,11 @@
       "pct": 10,
       "luw": 5,
       "luwd": [
+        "9/7",
         "9/4",
         "9/3",
         "9/2",
-        "9/1",
-        "8/31"
+        "9/1"
       ]
     },
     {
@@ -189,11 +170,11 @@
       "pct": 10,
       "luw": 5,
       "luwd": [
+        "9/7",
         "9/4",
         "9/3",
         "9/2",
-        "9/1",
-        "8/31"
+        "9/1"
       ]
     },
     {
@@ -294,11 +275,7 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -9.4,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "8/31"
-      ]
+      "limitUp": false
     },
     {
       "symbol": "2324",
@@ -349,45 +326,6 @@
       "status": "逼近新高",
       "dist": -0.7,
       "limitUp": false
-    },
-    {
-      "symbol": "3234",
-      "name": "光環",
-      "days": 2,
-      "dates": [
-        "9/2",
-        "9/1"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -3.6,
-      "limitUp": false
-    },
-    {
-      "symbol": "4971",
-      "name": "IET-KY",
-      "days": 2,
-      "dates": [
-        "9/2",
-        "9/1"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "6830",
-      "name": "汎銓",
-      "days": 2,
-      "dates": [
-        "9/2",
-        "9/1"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "9/1"
-      ]
     }
   ],
   "news": [
@@ -445,8 +383,9 @@
           "point": "領被動元件漲停",
           "limitUp": true,
           "pct": 10,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "9/7",
             "9/4"
           ]
         },
@@ -458,11 +397,11 @@
           "pct": 10,
           "luw": 5,
           "luwd": [
+            "9/7",
             "9/4",
             "9/3",
             "9/2",
-            "9/1",
-            "8/31"
+            "9/1"
           ]
         },
         {
@@ -473,11 +412,11 @@
           "pct": 10,
           "luw": 5,
           "luwd": [
+            "9/7",
             "9/4",
             "9/3",
             "9/2",
-            "9/1",
-            "8/31"
+            "9/1"
           ]
         },
         {
@@ -540,11 +479,7 @@
           "point": "同步大漲約4%",
           "status": "逼近新高",
           "dist": -7,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/31"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "1301",
@@ -556,11 +491,7 @@
           "symbol": "1326",
           "name": "台化",
           "point": "漲幅約2%",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/31"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "2408",
@@ -600,11 +531,7 @@
           "point": "遠東區石化現貨行情漲勢凌厲，營運添利",
           "status": "逼近新高",
           "dist": -7,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/31"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "1304",
@@ -634,11 +561,7 @@
           "symbol": "1312",
           "name": "國喬",
           "point": "遠東區石化現貨行情漲勢凌厲，營運添利",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/31"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "1313",
@@ -650,11 +573,7 @@
           "symbol": "1326",
           "name": "台化",
           "point": "遠東區石化現貨行情漲勢凌厲，營運添利",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/31"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "1710",
@@ -740,11 +659,7 @@
           "point": "7月已進入旺季，手機鏡頭出貨明顯增加",
           "status": "逼近新高",
           "dist": -9.4,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "8/31"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "2324",
@@ -812,6 +727,19 @@
         }
       ],
       "background": "節能補助政策將於年底到期，有望帶動一波換機潮，加上夏季高溫與南部豪雨，推升空調及除濕機需求。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNQ0l3WmV4RkpSVFBKd1VWb3A4aDRnZ1FPVlBPLWo1cW9oUThhNlJYVTN5cXVObG1CRmIzNjVRYU9GTDdkYU5ycktRa1dzNmVDSE1OWWZTNmJHclZXT0N0N3Brc0pLQWVVd3pzTnpXRjFfTXlYLURhVnBrS3BJenNSQXpXdXkzRW5M",
+      "tkey": "熱門族群節能補助倒數計時家電業齊衝業績-ww2.money",
+      "title": "《熱門族群》節能補助倒數計時 家電業齊衝業績 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6292724001&PU=1002",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Sun, 06 Sep 2026 05:47:00 GMT",
+      "stocks": [],
+      "background": "政府節能補助政策即將結束，刺激家電產品在補助截止前出現一波銷售熱潮，帶動相關家電業者衝刺業績。",
       "themeTags": [
         "政策關稅"
       ]
