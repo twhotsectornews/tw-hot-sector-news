@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-07T14:06:28.426+08:00",
-  "generatedAt": "2026-09-07T06:06:28.426Z",
+  "asOf": "2026-09-07T15:39:01.555+08:00",
+  "generatedAt": "2026-09-07T07:39:01.555Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -19,6 +19,18 @@
       "mentions": 4,
       "status": "高檔修正",
       "dist": -14.6,
+      "limitUp": false
+    },
+    {
+      "symbol": "2409",
+      "name": "友達",
+      "days": 3,
+      "dates": [
+        "9/7",
+        "9/5",
+        "9/2"
+      ],
+      "mentions": 3,
       "limitUp": false
     },
     {
@@ -118,17 +130,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2409",
-      "name": "友達",
-      "days": 2,
-      "dates": [
-        "9/7",
-        "9/2"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
       "symbol": "3481",
       "name": "群創",
       "days": 2,
@@ -138,6 +139,92 @@
       ],
       "mentions": 2,
       "limitUp": false
+    },
+    {
+      "symbol": "3026",
+      "name": "禾伸堂",
+      "days": 2,
+      "dates": [
+        "9/7",
+        "9/5"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 10,
+      "luw": 1,
+      "luwd": [
+        "9/4"
+      ]
+    },
+    {
+      "symbol": "6173",
+      "name": "信昌電",
+      "days": 2,
+      "dates": [
+        "9/7",
+        "9/5"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 10,
+      "luw": 5,
+      "luwd": [
+        "9/4",
+        "9/3",
+        "9/2",
+        "9/1",
+        "8/31"
+      ]
+    },
+    {
+      "symbol": "8042",
+      "name": "金山電",
+      "days": 2,
+      "dates": [
+        "9/7",
+        "9/5"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 10,
+      "luw": 5,
+      "luwd": [
+        "9/4",
+        "9/3",
+        "9/2",
+        "9/1",
+        "8/31"
+      ]
+    },
+    {
+      "symbol": "2492",
+      "name": "華新科",
+      "days": 2,
+      "dates": [
+        "9/7",
+        "9/5"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "9/4"
+      ]
+    },
+    {
+      "symbol": "2327",
+      "name": "國巨",
+      "days": 2,
+      "dates": [
+        "9/7",
+        "9/5"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "9/4"
+      ]
     },
     {
       "symbol": "2408",
@@ -367,7 +454,16 @@
           "symbol": "6173",
           "name": "信昌電",
           "point": "受惠NVIDIA機櫃題材",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "9/4",
+            "9/3",
+            "9/2",
+            "9/1",
+            "8/31"
+          ]
         },
         {
           "symbol": "8042",

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "updatedAt": "2026-09-07T06:06:28.423Z",
+  "updatedAt": "2026-09-07T07:39:01.552Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE94S3AxZU80R25LWUhqbXI1eUllZUhvUXdraDkteDZXaHVWVFRYX2c1ZmR3RGVyLTQ0cnktTXZCU29GUUZEaDl2MlpFWXBmaTRIclBXdmlGWnc",
@@ -13,42 +13,101 @@
         {
           "symbol": "2887",
           "name": "台新新光金",
-          "point": "金融股閃閃發亮",
+          "point": "金融股資金避風港",
           "status": "逼近新高",
           "dist": -3.6
         },
         {
           "symbol": "2883",
-          "name": "凱基證",
-          "point": "股價上漲",
+          "name": "凱基金",
+          "point": "金融股資金避風港",
           "status": "逼近新高",
           "dist": -1.3
         },
         {
           "symbol": "2881",
           "name": "富邦金",
-          "point": "股價上漲",
+          "point": "金融股資金避風港",
           "status": "逼近新高",
           "dist": -3.9
         },
         {
           "symbol": "2884",
           "name": "玉山金",
-          "point": "股價持平",
+          "point": "金融股資金避風港",
           "status": "逼近新高",
           "dist": -1.9
         },
         {
           "symbol": "2890",
           "name": "永豐金",
-          "point": "股價下跌",
+          "point": "金融股資金避風港",
           "status": "逼近新高",
           "dist": -1.5
+        },
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "被動元件收復600元",
+          "luw": 1,
+          "luwd": [
+            "9/4"
+          ]
+        },
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "point": "被動元件刷漲停",
+          "luw": 1,
+          "luwd": [
+            "9/4"
+          ]
+        },
+        {
+          "symbol": "6173",
+          "name": "信昌電",
+          "point": "被動元件刷漲停",
+          "luw": 5,
+          "luwd": [
+            "9/4",
+            "9/3",
+            "9/2",
+            "9/1",
+            "8/31"
+          ]
+        },
+        {
+          "symbol": "8042",
+          "name": "金山電",
+          "point": "被動元件刷漲停",
+          "luw": 5,
+          "luwd": [
+            "9/4",
+            "9/3",
+            "9/2",
+            "9/1",
+            "8/31"
+          ]
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "被動元件刷漲停",
+          "luw": 1,
+          "luwd": [
+            "9/4"
+          ]
+        },
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "股價站上生命線"
         }
       ],
-      "background": "資金避險轉向金融股，推升金融指數，類股今年漲幅仍落後大盤，具補漲空間。",
+      "background": "電子股高檔震盪與地緣政治避險情緒升溫，資金轉向金融股尋求避風港，金融類股尚有補漲空間。AI需求成長帶動MLCC高階產能排擠，台廠受惠外溢訂單。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "循環位置"
       ]
     }
   ]
