@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-07T11:03:22.538+08:00",
-  "generatedAt": "2026-09-07T03:03:22.538Z",
+  "asOf": "2026-09-07T12:05:49.562+08:00",
+  "generatedAt": "2026-09-07T04:05:49.562Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -22,15 +22,17 @@
       "limitUp": false
     },
     {
-      "symbol": "2408",
-      "name": "南亞科",
+      "symbol": "2884",
+      "name": "玉山金",
       "days": 3,
       "dates": [
-        "9/7",
+        "9/6",
         "9/5",
         "9/3"
       ],
       "mentions": 3,
+      "status": "創新高",
+      "dist": 0,
       "limitUp": false
     },
     {
@@ -45,6 +47,20 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -2.7,
+      "limitUp": false
+    },
+    {
+      "symbol": "2883",
+      "name": "開發金",
+      "days": 3,
+      "dates": [
+        "9/6",
+        "9/5",
+        "9/3"
+      ],
+      "mentions": 3,
+      "status": "創新高",
+      "dist": -0.1,
       "limitUp": false
     },
     {
@@ -99,6 +115,17 @@
         "9/2"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2408",
+      "name": "南亞科",
+      "days": 2,
+      "dates": [
+        "9/7",
+        "9/3"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -189,40 +216,30 @@
       "limitUp": false
     },
     {
-      "symbol": "2884",
-      "name": "玉山金",
+      "symbol": "2881",
+      "name": "富邦金",
       "days": 2,
       "dates": [
         "9/6",
-        "9/3"
+        "9/5"
       ],
       "mentions": 2,
-      "status": "創新高",
-      "dist": 0,
+      "status": "逼近新高",
+      "dist": -0.7,
       "limitUp": false
     },
     {
-      "symbol": "2883",
-      "name": "開發金",
+      "symbol": "2890",
+      "name": "永豐金",
       "days": 2,
       "dates": [
         "9/6",
-        "9/3"
+        "9/5"
       ],
       "mentions": 2,
-      "status": "創新高",
-      "dist": -0.1,
+      "status": "逼近新高",
+      "dist": -0.7,
       "limitUp": false
-    },
-    {
-      "symbol": "2344",
-      "name": "華邦電",
-      "days": 2,
-      "dates": [
-        "9/5",
-        "9/3"
-      ],
-      "mentions": 2
     },
     {
       "symbol": "3234",
@@ -265,6 +282,86 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNX09LX0ZtWVRkdXcyTlJqUGVSMVZYVzJFYk5PQWZvWHVSbGN0V2gzVG53Ym9PNmlzemNhWEttcWJNRnE4OVlwYXBOdS1peGdzRkc1eEZpcnJyU19MaHgxa25oRkdOS1NCMVF4LWFWUnBxXzZSYlhZckdPY1JYd1FYQVh3OGxWVzJS",
+      "tkey": "熱門族群台股化被動為主動！禾伸堂鎖2顆紅燈專家給指引",
+      "title": "《熱門族群》台股化「被動」為主動！禾伸堂鎖2顆紅燈 專家給指引 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6293588001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 07 Sep 2026 03:23:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "point": "領被動元件漲停",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "9/4"
+          ]
+        },
+        {
+          "symbol": "6173",
+          "name": "信昌電",
+          "point": "受惠NVIDIA機櫃題材",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "8042",
+          "name": "金山電",
+          "point": "受現增題材帶動",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "9/4",
+            "9/3",
+            "9/2",
+            "9/1",
+            "8/31"
+          ]
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "受MLCC漲價題材激勵",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/4"
+          ]
+        },
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "高階被動元件漲價",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/4"
+          ]
+        },
+        {
+          "symbol": "2375",
+          "name": "凱美",
+          "point": "被動元件族群走強",
+          "limitUp": false
+        },
+        {
+          "symbol": "8043",
+          "name": "蜜望實",
+          "point": "被動元件族群走強",
+          "limitUp": false
+        }
+      ],
+      "background": "被動元件受AI伺服器與車用需求帶動漲價，國際MLCC龍頭村田缺貨外溢，台廠受惠，產業自谷底回升。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNSjZOdEdRYXg0OTRhRS1wdElUcHhINnl3dFNESmdrVnpJUzVQeS10dGREWlZ2aW1rMzd5anpTVjFJZDE1WE40VW5KMXVuaEhKLWdKdFRScXFCaWYzc1g0U21IWDRjOWZnMlZuLXB1aGlMMGJyMW1xTzFqSmZlWTdCcnhCV3RzRzYw",
       "tkey": "熱門族群油價題材助攻台塑四寶集體發光",
