@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-08T21:32:12.555+08:00",
-  "generatedAt": "2026-09-08T13:32:12.555Z",
+  "asOf": "2026-09-08T22:47:34.461+08:00",
+  "generatedAt": "2026-09-08T14:47:34.461Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -28,7 +28,7 @@
         "9/7",
         "9/2"
       ],
-      "mentions": 5,
+      "mentions": 6,
       "limitUp": false
     },
     {
@@ -40,7 +40,7 @@
         "9/7",
         "9/2"
       ],
-      "mentions": 5,
+      "mentions": 6,
       "status": "逼近新高",
       "dist": -6,
       "limitUp": false
@@ -54,7 +54,7 @@
         "9/7",
         "9/2"
       ],
-      "mentions": 5,
+      "mentions": 6,
       "limitUp": false
     },
     {
@@ -145,7 +145,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 4,
+      "mentions": 5,
       "limitUp": false
     },
     {
@@ -350,6 +350,47 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiakFVX3lxTE41WXF6eTE1bDN1Mk9ha3A2bUQ3WE4tNDhyanQ0cWNGcXMyay1PTTlLOENVekV5dDZ4NUJUaTVhTV9yMnl6Q2lmMEVBbUFWYU9DZDJ5NkJ3YXlSYnZ1MzJWNU5iQndZdFNDTlE",
+      "tkey": "熱門族群台塑四寶9月營運回溫！歲修結束＋油價高檔Q4再拚成長-上市櫃",
+      "title": "《熱門族群》台塑四寶9月營運回溫！歲修結束＋油價高檔Q4再拚成長- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260908900463-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Tue, 08 Sep 2026 08:25:27 GMT",
+      "stocks": [
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "9月產銷量增、Q4營收拚季增",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "AI需求帶動電子材料量價齊揚",
+          "status": "逼近新高",
+          "dist": -6,
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "9月營收回升、油價高檔助獲利",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "OL-3歲修結束、9月恢復開車",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶受惠歲修結束、開工率回升，加上中東衝突推升油價及石化產品行情，Q4營運可望再拚成長。AI需求也帶動電子材料市場暢旺。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQNERoTWRQbnBIbElDRzBESnRTaFl6a1JjTGViMWZxQUprdURwVmJRYVFfcWpCc3Q5Z20wWEY0QUhHNkhZem9WY1pEbGZuWV9rV05OeVdNakZzSHZPZG0zd1J3ck1Nd2hUbW5wRHA1YzF4cjdTb0tFRzFMRkEzbDVTaWRkcVhfaE9t",
       "tkey": "熱門族群台塑四寶9月營運回溫！歲修結束＋油價高檔Q4再拚成長-ww2.money",
