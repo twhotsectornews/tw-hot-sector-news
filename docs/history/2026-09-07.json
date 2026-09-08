@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "updatedAt": "2026-09-08T06:03:27.297Z",
+  "updatedAt": "2026-09-08T07:32:54.083Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPbmFXMElna1FPZFF2ZVVfRG9MaTBqeUp6VWN1Sm51TTFaWTk0NUZmQWRvM18yOTlKSkhwVlRTTTFTZi1yS1JIOHZEb2NHWFU1VHNFcWV5Vm0yQVJpNVp1V2RiZ2xGcHkzaGdlZmZBU1ZMXzM1YnpDNWJuX3A1cng4SFc1dC1IX29O",
@@ -67,30 +67,14 @@
           "name": "信昌電",
           "point": "受惠NVIDIA機櫃題材",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "9/7",
-            "9/4",
-            "9/3",
-            "9/2",
-            "9/1"
-          ]
+          "pct": 10
         },
         {
           "symbol": "8042",
           "name": "金山電",
           "point": "受現增題材帶動",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "9/7",
-            "9/4",
-            "9/3",
-            "9/2",
-            "9/1"
-          ]
+          "pct": 10
         },
         {
           "symbol": "2492",

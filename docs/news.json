@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-08T14:03:27.301+08:00",
-  "generatedAt": "2026-09-08T06:03:27.301Z",
+  "asOf": "2026-09-08T15:32:54.086+08:00",
+  "generatedAt": "2026-09-08T07:32:54.086Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -14,6 +14,44 @@
         "9/8",
         "9/7",
         "9/3",
+        "9/2"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 3,
+      "dates": [
+        "9/8",
+        "9/7",
+        "9/2"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -6,
+      "limitUp": false
+    },
+    {
+      "symbol": "6505",
+      "name": "台塑化",
+      "days": 3,
+      "dates": [
+        "9/8",
+        "9/7",
+        "9/2"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "1301",
+      "name": "台塑",
+      "days": 3,
+      "dates": [
+        "9/8",
+        "9/7",
         "9/2"
       ],
       "mentions": 4,
@@ -100,36 +138,12 @@
       "limitUp": false
     },
     {
-      "symbol": "6505",
-      "name": "台塑化",
+      "symbol": "1326",
+      "name": "台化",
       "days": 2,
       "dates": [
-        "9/7",
-        "9/2"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 2,
-      "dates": [
-        "9/7",
-        "9/2"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -7,
-      "limitUp": false
-    },
-    {
-      "symbol": "1301",
-      "name": "台塑",
-      "days": 2,
-      "dates": [
-        "9/7",
-        "9/2"
+        "9/8",
+        "9/7"
       ],
       "mentions": 3,
       "limitUp": false
@@ -194,15 +208,7 @@
       ],
       "mentions": 2,
       "limitUp": true,
-      "pct": 10,
-      "luw": 5,
-      "luwd": [
-        "9/7",
-        "9/4",
-        "9/3",
-        "9/2",
-        "9/1"
-      ]
+      "pct": 10
     },
     {
       "symbol": "8042",
@@ -214,15 +220,7 @@
       ],
       "mentions": 2,
       "limitUp": true,
-      "pct": 10,
-      "luw": 5,
-      "luwd": [
-        "9/7",
-        "9/4",
-        "9/3",
-        "9/2",
-        "9/1"
-      ]
+      "pct": 10
     },
     {
       "symbol": "2492",
@@ -352,6 +350,46 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQc0cxQ3AxYTlickw5T3Axa1hHVkVWZUJTWEtDcmhfOVdkYlBZemhIVlpzM0ZCbFFPZDVrUFJTbG1BWnhCSnVIbjRDaDFCVkRNdWxHRXl6ZHRPRl9EaFBjMHNfeEVVV1B1clczU3NIRG44TzBXeWYtaGd0UmdzMDNub1l0TnlYMDM1",
+      "tkey": "熱門族群台塑四寶8月營收出爐南亞AI材料旺、台塑化年增逾5成",
+      "title": "《熱門族群》台塑四寶8月營收出爐 南亞AI材料旺、台塑化年增逾5成 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6295269001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 08 Sep 2026 06:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "AI材料需求強勁，營收年增46.7%創新高",
+          "status": "逼近新高",
+          "dist": -6,
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "原油煉製量增加，營收年增50.3%居四寶之冠",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "中東衝突推升油價，營收年增31.7%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "歲修及產銷量減少，營收月減8.5%",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶營收表現分歧，南亞受惠AI帶動電子材料需求強勁，台塑化則因國際油價走高及原油交貨增加，營收顯著成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiWEFVX3lxTFBITlVYN0ZDUXk3c18tdzNzX2VIXzhhMUlpZ0pBLVpmMllMZGdIdlB3SzVySFRTVk9sREV5S2dHN0h6Wm8yVDRrUWpGZWtMWXpJeGJGbHFzZW0",
       "tkey": "熱門族群AIASIC訂單強勁矽智財族群蓄勢待發",
@@ -512,30 +550,14 @@
           "name": "信昌電",
           "point": "受惠NVIDIA機櫃題材",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "9/7",
-            "9/4",
-            "9/3",
-            "9/2",
-            "9/1"
-          ]
+          "pct": 10
         },
         {
           "symbol": "8042",
           "name": "金山電",
           "point": "受現增題材帶動",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "9/7",
-            "9/4",
-            "9/3",
-            "9/2",
-            "9/1"
-          ]
+          "pct": 10
         },
         {
           "symbol": "2492",
