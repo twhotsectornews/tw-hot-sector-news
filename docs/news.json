@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-08T13:02:47.642+08:00",
-  "generatedAt": "2026-09-08T05:02:47.642Z",
+  "asOf": "2026-09-08T14:03:27.301+08:00",
+  "generatedAt": "2026-09-08T06:03:27.301Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -352,6 +352,19 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTFBITlVYN0ZDUXk3c18tdzNzX2VIXzhhMUlpZ0pBLVpmMllMZGdIdlB3SzVySFRTVk9sREV5S2dHN0h6Wm8yVDRrUWpGZWtMWXpJeGJGbHFzZW0",
+      "tkey": "熱門族群AIASIC訂單強勁矽智財族群蓄勢待發",
+      "title": "熱門族群》AI ASIC訂單強勁 矽智財族群蓄勢待發 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/ubmjyhj3tbmq",
+      "source": "自由時報",
+      "pubDate": "Tue, 08 Sep 2026 03:05:20 GMT",
+      "stocks": [],
+      "background": "AI ASIC 晶片設計需求強勁，帶動矽智財 IP 授權與設計服務，是 AI 產業鏈重要一環。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPY1VsOTlYakJQbjkweFhnWU1qSUpQc2dWRzFXc09mUm14bnR5YzlVZ0Vydnc3RW10WW1kNXIwdG9YRjZGczFLa09wT2VKSEJPRmNyOVlUZGFPQ2xXeXdFNEE4NHR6cEZvX1AxX2VZdFp0Q1VzeGgteWZITk81d0k1T09LRE45VFU3",
       "tkey": "熱門族群光學雙雄兩樣情玉晶光漲回千元、大立光跌勢未止",
