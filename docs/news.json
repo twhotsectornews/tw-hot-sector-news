@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-08T15:32:54.086+08:00",
-  "generatedAt": "2026-09-08T07:32:54.086Z",
+  "asOf": "2026-09-08T17:41:44.287+08:00",
+  "generatedAt": "2026-09-08T09:41:44.287Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -20,6 +20,18 @@
       "limitUp": false
     },
     {
+      "symbol": "1301",
+      "name": "台塑",
+      "days": 3,
+      "dates": [
+        "9/8",
+        "9/7",
+        "9/2"
+      ],
+      "mentions": 5,
+      "limitUp": false
+    },
+    {
       "symbol": "1303",
       "name": "南亞",
       "days": 3,
@@ -28,7 +40,7 @@
         "9/7",
         "9/2"
       ],
-      "mentions": 4,
+      "mentions": 5,
       "status": "逼近新高",
       "dist": -6,
       "limitUp": false
@@ -42,19 +54,7 @@
         "9/7",
         "9/2"
       ],
-      "mentions": 4,
-      "limitUp": false
-    },
-    {
-      "symbol": "1301",
-      "name": "台塑",
-      "days": 3,
-      "dates": [
-        "9/8",
-        "9/7",
-        "9/2"
-      ],
-      "mentions": 4,
+      "mentions": 5,
       "limitUp": false
     },
     {
@@ -145,7 +145,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 3,
+      "mentions": 4,
       "limitUp": false
     },
     {
@@ -350,6 +350,47 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQNERoTWRQbnBIbElDRzBESnRTaFl6a1JjTGViMWZxQUprdURwVmJRYVFfcWpCc3Q5Z20wWEY0QUhHNkhZem9WY1pEbGZuWV9rV05OeVdNakZzSHZPZG0zd1J3ck1Nd2hUbW5wRHA1YzF4cjdTb0tFRzFMRkEzbDVTaWRkcVhfaE9t",
+      "tkey": "熱門族群台塑四寶9月營運回溫！歲修結束＋油價高檔Q4再拚成長-ww2.money",
+      "title": "《熱門族群》台塑四寶9月營運回溫！歲修結束＋油價高檔 Q4再拚成長 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6295655001&PU=1002",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Tue, 08 Sep 2026 08:14:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "9月營運回溫，Q4營收將優於Q3",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "AI需求帶動電子材料量價齊揚，Q4營收成長",
+          "status": "逼近新高",
+          "dist": -6,
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "9月營收回升，油價高檔挹注權益法投資收益",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "OL-3歲修結束，9月恢復開車",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶受惠歲修結束、開工率回升，加上中東衝突推升油價及石化產品行情，AI需求亦帶動電子材料成長，產業景氣逐步復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQc0cxQ3AxYTlickw5T3Axa1hHVkVWZUJTWEtDcmhfOVdkYlBZemhIVlpzM0ZCbFFPZDVrUFJTbG1BWnhCSnVIbjRDaDFCVkRNdWxHRXl6ZHRPRl9EaFBjMHNfeEVVV1B1clczU3NIRG44TzBXeWYtaGd0UmdzMDNub1l0TnlYMDM1",
       "tkey": "熱門族群台塑四寶8月營收出爐南亞AI材料旺、台塑化年增逾5成",
