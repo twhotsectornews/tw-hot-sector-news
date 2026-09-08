@@ -1,7 +1,20 @@
 {
   "date": "2026-09-06",
-  "updatedAt": "2026-09-08T04:03:05.779Z",
+  "updatedAt": "2026-09-08T05:02:47.639Z",
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE5MMjNoVW8tekthUnlscUdWbV8zT1NZWWlXQ1VWQVozMnkxejJBUGtQcVd3VUhmN2Z6aFJycUItMUZuMy1rRFdwUElfQnVaVUFoTEtJXzF1Yy0",
+      "tkey": "熱門族群LED延伸高附加價值市場追逐新焦點",
+      "title": "熱門族群》LED延伸高附加價值 市場追逐新焦點 - stock.ltn.com.tw",
+      "url": "https://stock.ltn.com.tw/article/kylh7xby8ge8",
+      "source": "stock.ltn.com.tw",
+      "pubDate": "Sun, 06 Sep 2026 10:04:30 GMT",
+      "stocks": [],
+      "background": "LED產業透過技術升級與應用拓展，如Mini/Micro LED，提升產品附加價值，以滿足高階顯示器與特殊照明市場需求。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNbXQtbk9GSnpHbkU2WFRKbnM1d00tc1NpZVhiVlBBeWpJTmdXdDVmVVpJdzB3RzRvNXBGOXFfclVSVDZCZk5DaGp0bjRjdXJGNnc5RTFLNHNsdGVLelhBY1hzZmpxNWFfbjE4emd5YXJvQWtHNnlBb0xPMkFkOVRxZVZZVTJESy1j",
       "tkey": "熱門族群節能補助倒數計時家電業齊衝業績",
@@ -13,24 +26,22 @@
         {
           "symbol": "1606",
           "name": "聲寶",
-          "point": "營收自6月起連續二個月轉正",
-          "limitUp": false
+          "point": "7月營收年增11%，業績轉強"
         },
         {
-          "symbol": "5367",
+          "symbol": "5309",
           "name": "禾聯碩",
-          "point": "營收自6月起連續二個月轉正",
-          "limitUp": false
+          "point": "7月營收年增3.42%，業績轉強"
         },
         {
-          "symbol": "1614",
+          "symbol": "1707",
           "name": "三洋電",
-          "point": "7月營收跟進轉正",
-          "limitUp": false
+          "point": "7月營收年增7.94%，業績轉強"
         }
       ],
-      "background": "節能補助政策將於年底到期，有望帶動一波換機潮，加上夏季高溫與南部豪雨，推升空調及除濕機需求。",
+      "background": "家電業受惠於夏季高溫帶動空調銷售，以及節能補助政策將於年底到期，刺激汰舊換新需求，帶動下半年業績回溫。",
       "themeTags": [
+        "需求驅動",
         "政策關稅"
       ]
     },
