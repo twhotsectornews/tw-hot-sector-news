@@ -1,0 +1,223 @@
+{
+  "date": "2026-09-08",
+  "updatedAt": "2026-09-09T03:04:53.294Z",
+  "news": [
+    {
+      "gid": "CBMiakFVX3lxTE41WXF6eTE1bDN1Mk9ha3A2bUQ3WE4tNDhyanQ0cWNGcXMyay1PTTlLOENVekV5dDZ4NUJUaTVhTV9yMnl6Q2lmMEVBbUFWYU9DZDJ5NkJ3YXlSYnZ1MzJWNU5iQndZdFNDTlE",
+      "tkey": "熱門族群台塑四寶9月營運回溫！歲修結束＋油價高檔Q4再拚成長-上市櫃",
+      "title": "《熱門族群》台塑四寶9月營運回溫！歲修結束＋油價高檔Q4再拚成長- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260908900463-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Tue, 08 Sep 2026 08:25:27 GMT",
+      "stocks": [
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "9月產銷量增、Q4營收拚季增",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "AI需求帶動電子材料量價齊揚",
+          "status": "逼近新高",
+          "dist": -6,
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "9月營收回升、油價高檔助獲利",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "OL-3歲修結束、9月恢復開車",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶受惠歲修結束、開工率回升，加上中東衝突推升油價及石化產品行情，Q4營運可望再拚成長。AI需求也帶動電子材料市場暢旺。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQNERoTWRQbnBIbElDRzBESnRTaFl6a1JjTGViMWZxQUprdURwVmJRYVFfcWpCc3Q5Z20wWEY0QUhHNkhZem9WY1pEbGZuWV9rV05OeVdNakZzSHZPZG0zd1J3ck1Nd2hUbW5wRHA1YzF4cjdTb0tFRzFMRkEzbDVTaWRkcVhfaE9t",
+      "tkey": "熱門族群台塑四寶9月營運回溫！歲修結束＋油價高檔Q4再拚成長-ww2.money",
+      "title": "《熱門族群》台塑四寶9月營運回溫！歲修結束＋油價高檔 Q4再拚成長 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6295655001&PU=1002",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Tue, 08 Sep 2026 08:14:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "9月營運回溫，Q4營收將優於Q3",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "AI需求帶動電子材料量價齊揚，Q4營收成長",
+          "status": "逼近新高",
+          "dist": -6,
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "9月營收回升，油價高檔挹注權益法投資收益",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "OL-3歲修結束，9月恢復開車",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶受惠歲修結束、開工率回升，加上中東衝突推升油價及石化產品行情，AI需求亦帶動電子材料成長，產業景氣逐步復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQc0cxQ3AxYTlickw5T3Axa1hHVkVWZUJTWEtDcmhfOVdkYlBZemhIVlpzM0ZCbFFPZDVrUFJTbG1BWnhCSnVIbjRDaDFCVkRNdWxHRXl6ZHRPRl9EaFBjMHNfeEVVV1B1clczU3NIRG44TzBXeWYtaGd0UmdzMDNub1l0TnlYMDM1",
+      "tkey": "熱門族群台塑四寶8月營收出爐南亞AI材料旺、台塑化年增逾5成",
+      "title": "《熱門族群》台塑四寶8月營收出爐 南亞AI材料旺、台塑化年增逾5成 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6295269001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 08 Sep 2026 06:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "AI材料需求強勁，營收年增46.7%創新高",
+          "status": "逼近新高",
+          "dist": -6,
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "原油煉製量增加，營收年增50.3%居四寶之冠",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "中東衝突推升油價，營收年增31.7%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "歲修及產銷量減少，營收月減8.5%",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶營收表現分歧，南亞受惠AI帶動電子材料需求強勁，台塑化則因國際油價走高及原油交貨增加，營收顯著成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTFBITlVYN0ZDUXk3c18tdzNzX2VIXzhhMUlpZ0pBLVpmMllMZGdIdlB3SzVySFRTVk9sREV5S2dHN0h6Wm8yVDRrUWpGZWtMWXpJeGJGbHFzZW0",
+      "tkey": "熱門族群AIASIC訂單強勁矽智財族群蓄勢待發",
+      "title": "熱門族群》AI ASIC訂單強勁 矽智財族群蓄勢待發 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/ubmjyhj3tbmq",
+      "source": "自由時報",
+      "pubDate": "Tue, 08 Sep 2026 03:05:20 GMT",
+      "stocks": [],
+      "background": "AI ASIC 晶片設計需求強勁，帶動矽智財 IP 授權與設計服務，是 AI 產業鏈重要一環。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPY1VsOTlYakJQbjkweFhnWU1qSUpQc2dWRzFXc09mUm14bnR5YzlVZ0Vydnc3RW10WW1kNXIwdG9YRjZGczFLa09wT2VKSEJPRmNyOVlUZGFPQ2xXeXdFNEE4NHR6cEZvX1AxX2VZdFp0Q1VzeGgteWZITk81d0k1T09LRE45VFU3",
+      "tkey": "熱門族群光學雙雄兩樣情玉晶光漲回千元、大立光跌勢未止",
+      "title": "《熱門族群》光學雙雄兩樣情 玉晶光漲回千元、大立光跌勢未止 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6295030001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 08 Sep 2026 02:41:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "漲回千元關卡",
+          "status": "逼近新高",
+          "dist": -6.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "跌勢未止，失守6400元關卡",
+          "limitUp": false
+        }
+      ],
+      "background": "光學鏡頭產業進入傳統旺季，兩大廠營收增溫，但大立光受外資降評與競爭加劇影響，股價承壓。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQQ1g1QWJHRFQtM2trYXp6Y0xpdnVWUVFxazZrVWZER252by1SXzlLRm9NU0E1aFk0Vk9WMURROUNoYnFxVkhJZ2xXNUtaaHAzLW9WWG05RDJSclVVX3VvN3B2aUs3OWRlSWVfbUJXZERiMHFkc3JBRFFkOFpkQ3lGR0o2dU9EY2R0",
+      "tkey": "熱門族群DRAM雙雄上攻華邦電領軍南亞科逼近高點",
+      "title": "《熱門族群》DRAM雙雄上攻 華邦電領軍 南亞科逼近高點 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6295014001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 08 Sep 2026 02:33:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "領軍上攻，股價漲逾5%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "逼近前波歷史高點",
+          "limitUp": false
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "開盤上漲，盤中震盪",
+          "limitUp": false
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "隨族群走揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "3260",
+          "name": "威剛",
+          "point": "公布亮麗業績，帶量上攻",
+          "limitUp": false
+        },
+        {
+          "symbol": "4967",
+          "name": "十銓",
+          "point": "同步走高",
+          "status": "逼近新高",
+          "dist": -9.5,
+          "limitUp": false
+        }
+      ],
+      "background": "DRAM產業受惠產品價格持續上漲，國際大廠美光股價強勢，帶動台系記憶體廠營收創新高，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    }
+  ]
+}
