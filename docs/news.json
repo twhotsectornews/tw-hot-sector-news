@@ -1,11 +1,25 @@
 {
-  "asOf": "2026-09-09T11:04:53.298+08:00",
-  "generatedAt": "2026-09-09T03:04:53.298Z",
+  "asOf": "2026-09-09T12:04:09.935+08:00",
+  "generatedAt": "2026-09-09T04:04:09.935Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "3008",
+      "name": "大立光",
+      "days": 4,
+      "dates": [
+        "9/9",
+        "9/8",
+        "9/7",
+        "9/3"
+      ],
+      "mentions": 4,
+      "status": "高檔修正",
+      "dist": -13.3
+    },
     {
       "symbol": "2408",
       "name": "南亞科",
@@ -65,6 +79,30 @@
       "dist": -4.6
     },
     {
+      "symbol": "2409",
+      "name": "友達",
+      "days": 3,
+      "dates": [
+        "9/9",
+        "9/7",
+        "9/5"
+      ],
+      "mentions": 3
+    },
+    {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 3,
+      "dates": [
+        "9/9",
+        "9/7",
+        "9/3"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -2.2
+    },
+    {
       "symbol": "3406",
       "name": "玉晶光",
       "days": 3,
@@ -76,18 +114,6 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -6.9,
-      "limitUp": false
-    },
-    {
-      "symbol": "3008",
-      "name": "大立光",
-      "days": 3,
-      "dates": [
-        "9/8",
-        "9/7",
-        "9/3"
-      ],
-      "mentions": 3,
       "limitUp": false
     },
     {
@@ -133,6 +159,26 @@
       "limitUp": false
     },
     {
+      "symbol": "2382",
+      "name": "廣達",
+      "days": 2,
+      "dates": [
+        "9/9",
+        "9/7"
+      ],
+      "mentions": 3
+    },
+    {
+      "symbol": "3481",
+      "name": "群創",
+      "days": 2,
+      "dates": [
+        "9/9",
+        "9/7"
+      ],
+      "mentions": 2
+    },
+    {
       "symbol": "3532",
       "name": "台勝科",
       "days": 2,
@@ -160,17 +206,6 @@
       "dates": [
         "9/8",
         "9/3"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2409",
-      "name": "友達",
-      "days": 2,
-      "dates": [
-        "9/7",
-        "9/5"
       ],
       "mentions": 2,
       "limitUp": false
@@ -247,19 +282,6 @@
       ]
     },
     {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 2,
-      "dates": [
-        "9/7",
-        "9/3"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -3.2,
-      "limitUp": false
-    },
-    {
       "symbol": "2324",
       "name": "仁寶",
       "days": 2,
@@ -311,6 +333,55 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiakFVX3lxTE5oNFpDNHpaRTgzcjd0UFEwLWstT3F6N0hpWk1RdDVrWlNvbjF6c0k1bzBDRUxoMmlWOUFKU09MNmV5Y05VNVl1cWd3NDg4R1hON2llN3JrWkhvQkdiaml1Y2stZHdtSXlPZHc",
+      "tkey": "熱門族群友達帶頭噴！面板雙虎來真的？專家這樣說-上市櫃",
+      "title": "《熱門族群》友達帶頭噴！面板雙虎來真的？專家這樣說- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260909900250-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Wed, 09 Sep 2026 03:12:14 GMT",
+      "stocks": [
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "帶頭噴漲逾5%高居人氣冠軍"
+        },
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "point": "強彈逾5%高居人氣亞軍"
+        },
+        {
+          "symbol": "6116",
+          "name": "彩晶",
+          "point": "價量俱揚強彈4%"
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "ADR上漲2.35%支撐股價續強",
+          "status": "逼近新高",
+          "dist": -2.2
+        },
+        {
+          "symbol": "2382",
+          "name": "廣達",
+          "point": "回神反彈"
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "回神反彈",
+          "status": "高檔修正",
+          "dist": -13.3
+        }
+      ],
+      "background": "面板產業受惠年底旺季需求，電視、MNT、NB面板價格有望持平，加上資產活化與AI應用布局，吸引資金青睞，產業景氣有觸底回升跡象。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOZThxR20tQmpPNDRDMDE4OUhwbXFScjgxNzY5S2hfTVNrVHczWlNOdlJiME9WVUFIMW1FVHdGZFRHMXdyV05RVUxHRTVuei1yWUZOSDRjeEw2ZWZIZTh2Y3VvSnJ0TEdZcEdZZ0FVSnBOSjZwWFUwZlBtX0hZT19JQnZDNldZMEtF",
       "tkey": "熱門族群台塑集團多點開花南電攻漲停台塑化奪回85關",
@@ -564,7 +635,9 @@
           "symbol": "3008",
           "name": "大立光",
           "point": "跌勢未止，失守6400元關卡",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -13.3
         }
       ],
       "background": "光學鏡頭產業進入傳統旺季，兩大廠營收增溫，但大立光受外資降評與競爭加劇影響，股價承壓。",

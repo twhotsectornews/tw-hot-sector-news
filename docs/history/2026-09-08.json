@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "updatedAt": "2026-09-09T03:04:53.294Z",
+  "updatedAt": "2026-09-09T04:04:09.932Z",
   "news": [
     {
       "gid": "CBMiakFVX3lxTE41WXF6eTE1bDN1Mk9ha3A2bUQ3WE4tNDhyanQ0cWNGcXMyay1PTTlLOENVekV5dDZ4NUJUaTVhTV9yMnl6Q2lmMEVBbUFWYU9DZDJ5NkJ3YXlSYnZ1MzJWNU5iQndZdFNDTlE",
@@ -157,7 +157,9 @@
           "symbol": "3008",
           "name": "大立光",
           "point": "跌勢未止，失守6400元關卡",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -13.3
         }
       ],
       "background": "光學鏡頭產業進入傳統旺季，兩大廠營收增溫，但大立光受外資降評與競爭加劇影響，股價承壓。",
