@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-09T14:01:24.090+08:00",
-  "generatedAt": "2026-09-09T06:01:24.090Z",
+  "asOf": "2026-09-09T15:39:36.198+08:00",
+  "generatedAt": "2026-09-09T07:39:36.198Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -31,7 +31,7 @@
         "9/7",
         "9/3"
       ],
-      "mentions": 4,
+      "mentions": 5,
       "limitUp": false
     },
     {
@@ -43,7 +43,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 6,
+      "mentions": 7,
       "limitUp": true,
       "pct": 9.9
     },
@@ -56,7 +56,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 6,
+      "mentions": 7,
       "limitUp": false
     },
     {
@@ -68,7 +68,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 6,
+      "mentions": 7,
       "limitUp": false
     },
     {
@@ -80,7 +80,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 6,
+      "mentions": 7,
       "status": "逼近新高",
       "dist": -4.6,
       "limitUp": false
@@ -168,19 +168,19 @@
       "limitUp": false
     },
     {
-      "symbol": "2382",
-      "name": "廣達",
+      "symbol": "3532",
+      "name": "台勝科",
       "days": 2,
       "dates": [
         "9/9",
         "9/7"
       ],
-      "mentions": 2,
+      "mentions": 3,
       "limitUp": false
     },
     {
-      "symbol": "3532",
-      "name": "台勝科",
+      "symbol": "2382",
+      "name": "廣達",
       "days": 2,
       "dates": [
         "9/9",
@@ -504,6 +504,65 @@
         }
       ],
       "background": "ABF載板產業受惠於高階載板出貨與PCB傳統旺季，尤其AI應用需求持續增長，帶動欣興、南電等載板三雄營收創新高，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxONGxxUHIyTG1rUExCN25HbVJZUHpCekNBT1h2cjVDOGgybnVJb1dNTUNUT0VHakdOWGtoaEdnTXN0d2o2dXd1YllYeUoyNkxUcnpRWjZGQ2FiOG1vXzJvTGVnYVJHWjFuMUlCMGtyTC1oQUVyejV3cFBkTXBCZFBCWmI5bmRBdWNm",
+      "tkey": "熱門族群台塑集團多點開花南電攻漲停台塑化奪回85關-ww2.money",
+      "title": "《熱門族群》台塑集團多點開花 南電攻漲停 台塑化奪回85關 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6296554001&PU=1002",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Wed, 09 Sep 2026 02:48:00 GMT",
+      "stocks": [
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "ABF載板題材帶動攻漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "國際原油期貨價格攀高",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "國際原油期貨價格攀高",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "國際原油期貨價格攀高",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "股價高檔震盪整理",
+          "status": "逼近新高",
+          "dist": -5.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "12吋新廠產能挹注",
+          "limitUp": false
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "全球記憶體缺貨",
+          "limitUp": false
+        }
+      ],
+      "background": "中東戰火推升國際原油價格，帶動台塑集團相關個股走強。同時，ABF載板與記憶體產業受需求與缺貨題材支撐。",
       "themeTags": [
         "需求驅動"
       ]
