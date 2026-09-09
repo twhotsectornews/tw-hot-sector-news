@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "updatedAt": "2026-09-09T04:04:09.933Z",
+  "updatedAt": "2026-09-09T05:04:09.158Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPbmFXMElna1FPZFF2ZVVfRG9MaTBqeUp6VWN1Sm51TTFaWTk0NUZmQWRvM18yOTlKSkhwVlRTTTFTZi1yS1JIOHZEb2NHWFU1VHNFcWV5Vm0yQVJpNVp1V2RiZ2xGcHkzaGdlZmZBU1ZMXzM1YnpDNWJuX3A1cng4SFc1dC1IX29O",
@@ -14,28 +14,11 @@
           "symbol": "2409",
           "name": "友達",
           "point": "觸漲停登上人氣王"
-        },
-        {
-          "symbol": "3481",
-          "name": "群創",
-          "point": "股價反彈站回50元大關"
-        },
-        {
-          "symbol": "2382",
-          "name": "廣達",
-          "point": "購入群創桃園華亞廠"
-        },
-        {
-          "symbol": "3711",
-          "name": "日月光",
-          "point": "購入群創高雄路竹C5E廠",
-          "status": "高檔修正",
-          "dist": -12.3
         }
       ],
-      "background": "面板雙虎積極活化資產，並拓展AI光通訊與先進封裝應用，搭上半導體與權值股帶動的多頭氣氛，吸引買盤進駐。",
+      "background": "面板雙虎友達與群創回神，顯示面板產業景氣有望復甦，市場對需求回溫抱持期待。",
       "themeTags": [
-        "需求驅動"
+        "循環位置"
       ]
     },
     {

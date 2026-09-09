@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-09T12:04:09.935+08:00",
-  "generatedAt": "2026-09-09T04:04:09.935Z",
+  "asOf": "2026-09-09T13:04:09.161+08:00",
+  "generatedAt": "2026-09-09T05:04:09.161Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -16,9 +16,10 @@
         "9/7",
         "9/3"
       ],
-      "mentions": 4,
+      "mentions": 5,
       "status": "高檔修正",
-      "dist": -13.3
+      "dist": -13.6,
+      "limitUp": false
     },
     {
       "symbol": "2408",
@@ -30,7 +31,8 @@
         "9/7",
         "9/3"
       ],
-      "mentions": 4
+      "mentions": 4,
+      "limitUp": false
     },
     {
       "symbol": "6505",
@@ -41,7 +43,8 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 6
+      "mentions": 6,
+      "limitUp": false
     },
     {
       "symbol": "1326",
@@ -52,7 +55,8 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 6
+      "mentions": 6,
+      "limitUp": false
     },
     {
       "symbol": "1301",
@@ -63,7 +67,8 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 6
+      "mentions": 6,
+      "limitUp": false
     },
     {
       "symbol": "1303",
@@ -76,7 +81,8 @@
       ],
       "mentions": 6,
       "status": "逼近新高",
-      "dist": -4.6
+      "dist": -4.6,
+      "limitUp": false
     },
     {
       "symbol": "2409",
@@ -87,7 +93,8 @@
         "9/7",
         "9/5"
       ],
-      "mentions": 3
+      "mentions": 3,
+      "limitUp": false
     },
     {
       "symbol": "2330",
@@ -100,7 +107,8 @@
       ],
       "mentions": 3,
       "status": "逼近新高",
-      "dist": -2.2
+      "dist": -2.2,
+      "limitUp": false
     },
     {
       "symbol": "3406",
@@ -166,17 +174,8 @@
         "9/9",
         "9/7"
       ],
-      "mentions": 3
-    },
-    {
-      "symbol": "3481",
-      "name": "群創",
-      "days": 2,
-      "dates": [
-        "9/9",
-        "9/7"
-      ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "3532",
@@ -186,7 +185,8 @@
         "9/9",
         "9/7"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "2344",
@@ -334,6 +334,28 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxNTUlreFZpRV9Sb2tFM2tRSUVsN01lWnVkeWFfZFJwM3c2VUFkQm5rZzZYYkMwbG1CWThheks5RmQzVTBUbEVOQWhDWDB5YmVqc1k0eGxJNWltXzZ6Y29tU09xOUI1bG5GalFtVXdYUmV2V2h0dmwtOFFfMTB2bkNlTFlqcHpPVTFQ",
+      "tkey": "熱門族群沾蘋果光？光學二哥天價鎖紅燈大立光帶小兵搭北上列車",
+      "title": "《熱門族群》沾蘋果光？光學二哥天價鎖紅燈 大立光帶小兵搭北上列車 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6296663001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 09 Sep 2026 04:10:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "帶領光學族群",
+          "status": "高檔修正",
+          "dist": -13.6,
+          "limitUp": false
+        }
+      ],
+      "background": "光學鏡頭產業受惠於蘋果新機題材，市場預期需求將回溫，帶動相關供應鏈股價表現。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiakFVX3lxTE5oNFpDNHpaRTgzcjd0UFEwLWstT3F6N0hpWk1RdDVrWlNvbjF6c0k1bzBDRUxoMmlWOUFKU09MNmV5Y05VNVl1cWd3NDg4R1hON2llN3JrWkhvQkdiaml1Y2stZHdtSXlPZHc",
       "tkey": "熱門族群友達帶頭噴！面板雙虎來真的？專家這樣說-上市櫃",
       "title": "《熱門族群》友達帶頭噴！面板雙虎來真的？專家這樣說- 上市櫃 - 旺得富理財網",
@@ -344,36 +366,42 @@
         {
           "symbol": "2409",
           "name": "友達",
-          "point": "帶頭噴漲逾5%高居人氣冠軍"
+          "point": "帶頭噴漲逾5%高居人氣冠軍",
+          "limitUp": false
         },
         {
           "symbol": "3481",
           "name": "群創",
-          "point": "強彈逾5%高居人氣亞軍"
+          "point": "強彈逾5%高居人氣亞軍",
+          "limitUp": false
         },
         {
           "symbol": "6116",
           "name": "彩晶",
-          "point": "價量俱揚強彈4%"
+          "point": "價量俱揚強彈4%",
+          "limitUp": false
         },
         {
           "symbol": "2330",
           "name": "台積電",
           "point": "ADR上漲2.35%支撐股價續強",
           "status": "逼近新高",
-          "dist": -2.2
+          "dist": -2.2,
+          "limitUp": false
         },
         {
           "symbol": "2382",
           "name": "廣達",
-          "point": "回神反彈"
+          "point": "回神反彈",
+          "limitUp": false
         },
         {
           "symbol": "3008",
           "name": "大立光",
           "point": "回神反彈",
           "status": "高檔修正",
-          "dist": -13.3
+          "dist": -13.3,
+          "limitUp": false
         }
       ],
       "background": "面板產業受惠年底旺季需求，電視、MNT、NB面板價格有望持平，加上資產活化與AI應用布局，吸引資金青睞，產業景氣有觸底回升跡象。",
@@ -393,39 +421,46 @@
         {
           "symbol": "6505",
           "name": "台塑化",
-          "point": "大漲逾8%站上85元"
+          "point": "大漲逾8%站上85元",
+          "limitUp": false
         },
         {
           "symbol": "1326",
           "name": "台化",
-          "point": "同步上揚逾3%"
+          "point": "同步上揚逾3%",
+          "limitUp": false
         },
         {
           "symbol": "1301",
           "name": "台塑",
-          "point": "同步上揚逾3%"
+          "point": "同步上揚逾3%",
+          "limitUp": false
         },
         {
           "symbol": "1303",
           "name": "南亞",
           "point": "股價在240元附近整理",
           "status": "逼近新高",
-          "dist": -4.6
+          "dist": -4.6,
+          "limitUp": false
         },
         {
           "symbol": "8046",
           "name": "南電",
-          "point": "強勢攻上漲停"
+          "point": "強勢攻上漲停",
+          "limitUp": false
         },
         {
           "symbol": "3532",
           "name": "台勝科",
-          "point": "盤中一度上漲逾半根漲停板"
+          "point": "盤中一度上漲逾半根漲停板",
+          "limitUp": false
         },
         {
           "symbol": "2408",
           "name": "南亞科",
-          "point": "股價呈現高檔震盪"
+          "point": "股價呈現高檔震盪",
+          "limitUp": false
         }
       ],
       "background": "台塑集團受中東戰火推升國際原油價格，帶動石化本業獲利預期，同時集團內電子事業如ABF載板與記憶體也因市場需求而表現亮眼。",
@@ -444,22 +479,26 @@
         {
           "symbol": "3037",
           "name": "欣興",
-          "point": "重登千元大關"
+          "point": "重登千元大關",
+          "limitUp": false
         },
         {
           "symbol": "8046",
           "name": "南電",
-          "point": "更強攻漲停"
+          "point": "更強攻漲停",
+          "limitUp": false
         },
         {
           "symbol": "3189",
           "name": "景碩",
-          "point": "也大漲"
+          "point": "也大漲",
+          "limitUp": false
         },
         {
           "symbol": "4958",
           "name": "臻鼎-KY",
-          "point": "小漲股價相對強勢"
+          "point": "小漲股價相對強勢",
+          "limitUp": false
         }
       ],
       "background": "ABF載板產業受惠於高階載板出貨與PCB傳統旺季，尤其AI應用需求持續增長，帶動欣興、南電等載板三雄營收創新高，產業景氣復甦。",
