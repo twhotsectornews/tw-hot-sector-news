@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-10T14:03:02.420+08:00",
-  "generatedAt": "2026-09-10T06:03:02.420Z",
+  "asOf": "2026-09-10T15:36:26.378+08:00",
+  "generatedAt": "2026-09-10T07:36:26.378Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -16,7 +16,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 6,
+      "mentions": 7,
       "limitUp": false
     },
     {
@@ -75,6 +75,20 @@
       "limitUp": false
     },
     {
+      "symbol": "3017",
+      "name": "奇鋐",
+      "days": 3,
+      "dates": [
+        "9/10",
+        "9/7",
+        "9/4"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -3.8,
+      "limitUp": false
+    },
+    {
       "symbol": "2408",
       "name": "南亞科",
       "days": 3,
@@ -101,20 +115,6 @@
       "limitUp": false
     },
     {
-      "symbol": "3017",
-      "name": "奇鋐",
-      "days": 3,
-      "dates": [
-        "9/10",
-        "9/7",
-        "9/4"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -4.9,
-      "limitUp": false
-    },
-    {
       "symbol": "2409",
       "name": "友達",
       "days": 3,
@@ -122,6 +122,28 @@
         "9/9",
         "9/7",
         "9/5"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "4958",
+      "name": "臻鼎-KY",
+      "days": 2,
+      "dates": [
+        "9/10",
+        "9/9"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "3376",
+      "name": "新日興",
+      "days": 2,
+      "dates": [
+        "9/10",
+        "9/7"
       ],
       "mentions": 3,
       "limitUp": false
@@ -173,28 +195,6 @@
     {
       "symbol": "2317",
       "name": "鴻海",
-      "days": 2,
-      "dates": [
-        "9/10",
-        "9/7"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "4958",
-      "name": "臻鼎-KY",
-      "days": 2,
-      "dates": [
-        "9/10",
-        "9/9"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3376",
-      "name": "新日興",
       "days": 2,
       "dates": [
         "9/10",
@@ -380,6 +380,58 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE1QQndJcmppY3VvQWFDekxkOUV2emZoWU90RE45QjFpY0xsYlFzT0wzaTRwaGRTN3pYZFlqLU0tVVk1MUxVUlh5Q2ZNLUxBRWJTbTVqbVVLUHc",
+      "tkey": "3017奇鋐-熱門族群iPhoneDuo亮相外資點名6大受惠股-股市爆料同學會",
+      "title": "3017 奇鋐- 《熱門族群》iPhone Duo亮相外資點名6大受惠股- 股市爆料同學會 - CMoney",
+      "url": "https://www.cmoney.tw/forum/article/184509553",
+      "source": "CMoney",
+      "pubDate": "Thu, 10 Sep 2026 06:01:26 GMT",
+      "stocks": [
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "point": "iPhone Duo受惠供應商",
+          "limitUp": false
+        },
+        {
+          "symbol": "4958",
+          "name": "臻鼎-KY",
+          "point": "iPhone Duo受惠供應商",
+          "limitUp": false
+        },
+        {
+          "symbol": "3376",
+          "name": "新日興",
+          "point": "iPhone Duo受惠供應商",
+          "limitUp": false
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "iPhone Duo受惠供應商",
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "iPhone Duo受惠供應商",
+          "limitUp": false
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "iPhone Duo受惠供應商",
+          "status": "逼近新高",
+          "dist": -3.8,
+          "limitUp": false
+        }
+      ],
+      "background": "蘋果正式發表首款摺疊機iPhone Duo，預期出貨量可觀，相關供應鏈可望受惠。AI水冷散熱題材亦持續發酵。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNTHhFNHJ1bC0zT3plWFBDNDJYX3huSlJiN3JKWjZSZXdUNElBTTIyYUQ4WFE5UzNTdlBaeXJPY0VFY1U1TXhYVndubDRzLTBOOEwzZjA4T3QyRW1LdzJjWnR3cGZzZ05mOVR4eV9fUGhWZTJfeXg3Wl9GaTN0V1FGdnJrVUZmVXE3",
       "tkey": "熱門族群記憶體漲夠了！鎧俠開第一槍重挫NANDFLASH概念股",

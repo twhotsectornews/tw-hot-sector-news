@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "updatedAt": "2026-09-10T06:03:02.417Z",
+  "updatedAt": "2026-09-10T07:36:26.374Z",
   "news": [
     {
       "gid": "CBMiakFVX3lxTE41WXF6eTE1bDN1Mk9ha3A2bUQ3WE4tNDhyanQ0cWNGcXMyay1PTTlLOENVekV5dDZ4NUJUaTVhTV9yMnl6Q2lmMEVBbUFWYU9DZDJ5NkJ3YXlSYnZ1MzJWNU5iQndZdFNDTlE",
@@ -13,7 +13,7 @@
         {
           "symbol": "1301",
           "name": "台塑",
-          "point": "9月營運可望較8月改善"
+          "point": "9月營運回溫，Q4營收將優於Q3"
         },
         {
           "symbol": "1303",
@@ -25,19 +25,19 @@
         {
           "symbol": "1326",
           "name": "台化",
-          "point": "9月營收回升，油價維持高檔"
+          "point": "9月營收回升，油價高檔挹注收益"
         },
         {
           "symbol": "6505",
           "name": "台塑化",
-          "point": "OL-3歲修告一段落，9月恢復開車",
+          "point": "OL-3歲修結束，9月恢復開車",
           "luw": 1,
           "luwd": [
             "9/9"
           ]
         }
       ],
-      "background": "台塑四寶受惠歲修結束、開工率回升，加上中東衝突推升油價及石化產品行情，電子材料則受AI需求強勁帶動，整體產業景氣復甦。",
+      "background": "台塑四寶因歲修結束、開工率回升，加上中東衝突推升油價及石化產品行情，9月營運可望改善，Q4再拚成長。AI需求也帶動電子材料市場暢旺。",
       "themeTags": [
         "需求驅動",
         "循環位置"
