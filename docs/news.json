@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-10T11:04:05.130+08:00",
-  "generatedAt": "2026-09-10T03:04:05.130Z",
+  "asOf": "2026-09-10T12:03:58.206+08:00",
+  "generatedAt": "2026-09-10T04:03:58.206Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -16,7 +16,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 5,
+      "mentions": 6,
       "limitUp": false
     },
     {
@@ -28,7 +28,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 7,
+      "mentions": 8,
       "limitUp": true,
       "pct": 9.9,
       "luw": 1,
@@ -45,7 +45,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 7,
+      "mentions": 8,
       "limitUp": false
     },
     {
@@ -57,7 +57,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 7,
+      "mentions": 8,
       "limitUp": false
     },
     {
@@ -69,7 +69,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 7,
+      "mentions": 8,
       "status": "逼近新高",
       "dist": -4.6,
       "limitUp": false
@@ -84,6 +84,20 @@
         "9/7"
       ],
       "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 3,
+      "dates": [
+        "9/10",
+        "9/9",
+        "9/7"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -3.7,
       "limitUp": false
     },
     {
@@ -124,6 +138,17 @@
       "limitUp": false
     },
     {
+      "symbol": "2317",
+      "name": "鴻海",
+      "days": 2,
+      "dates": [
+        "9/10",
+        "9/7"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "4958",
       "name": "臻鼎-KY",
       "days": 2,
@@ -143,19 +168,6 @@
         "9/7"
       ],
       "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 2,
-      "dates": [
-        "9/9",
-        "9/7"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -2.2,
       "limitUp": false
     },
     {
@@ -335,6 +347,81 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQZTFPRXBXemhfX1RIR1hIb2RHTDNBejloWml1Z0U1OUFaeEo2Z2d5Njl1TmJfLVZyNm00WDRxb2lXaVFVRmJ4b2tVeE1vY0hmQ0hWV205VVA2VjZQVDhfdmR5SzFtUjhjRGd1TUd2MkxyWEljYTNycUllcFBnNDVvbmdqaEQzX2RX",
+      "tkey": "熱門族群47K飛了！日月光領封測逆揚壓寶有積之彈？",
+      "title": "《熱門族群》47K飛了！日月光領封測逆揚 壓寶有「積」之彈？ - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6298172001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 10 Sep 2026 03:45:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "回測五日線支撐領跌",
+          "status": "逼近新高",
+          "dist": -3.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "同步走弱",
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "同步走弱",
+          "limitUp": false
+        },
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "point": "股價連2紅，領封測逆揚",
+          "status": "高檔修正",
+          "dist": -11.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "3264",
+          "name": "欣銓",
+          "point": "8月營收締新猷，迎新成長週期",
+          "status": "高檔修正",
+          "dist": -11.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "3265",
+          "name": "台星科",
+          "point": "同步勁揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "6257",
+          "name": "矽格",
+          "point": "8月營收雙增，強攻季線大關",
+          "limitUp": false
+        },
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "point": "8月營收雙增，改寫歷史新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "2449",
+          "name": "京元電子",
+          "point": "8月營收雙增，掌握AI晶片測試",
+          "limitUp": false
+        }
+      ],
+      "background": "封測產業受AI及HPC需求帶動，先進封裝與測試需求持續放大，日月光投控為全球封測龍頭，相關廠商營收表現亮眼。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQRTdnRkNFa1BTVjFPSTI1OTBMNlZHeDJnYXVyanpWV1V2a1kzeTVTdmZ2S1h6cDVrVm5NcnNDV3ZuU1BwRnFqY2tiUXhUcjZTRW1jejl4RXpiekh1aExLNlV2SXZQMmRKejFUNVNlOTI3WWY5YUhaVlkwdHd6dGZaLXd4Q2llbFJs",
       "tkey": "熱門族群iPhoneDuo亮相外資點名6大受惠股",

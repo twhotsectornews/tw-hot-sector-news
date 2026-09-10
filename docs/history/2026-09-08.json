@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "updatedAt": "2026-09-10T03:04:05.127Z",
+  "updatedAt": "2026-09-10T04:03:58.204Z",
   "news": [
     {
       "gid": "CBMiakFVX3lxTE41WXF6eTE1bDN1Mk9ha3A2bUQ3WE4tNDhyanQ0cWNGcXMyay1PTTlLOENVekV5dDZ4NUJUaTVhTV9yMnl6Q2lmMEVBbUFWYU9DZDJ5NkJ3YXlSYnZ1MzJWNU5iQndZdFNDTlE",
@@ -13,35 +13,31 @@
         {
           "symbol": "1301",
           "name": "台塑",
-          "point": "9月產銷量增、Q4營收拚季增",
-          "limitUp": false
+          "point": "9月營運可望改善，Q4營收優於Q3"
         },
         {
           "symbol": "1303",
           "name": "南亞",
-          "point": "AI需求帶動電子材料量價齊揚",
+          "point": "AI需求帶動電子材料，Q4營收續成長",
           "status": "逼近新高",
-          "dist": -6,
-          "limitUp": false
+          "dist": -3.6
         },
         {
           "symbol": "1326",
           "name": "台化",
-          "point": "9月營收回升、油價高檔助獲利",
-          "limitUp": false
+          "point": "9月營收回升，油價高檔挹注收益"
         },
         {
           "symbol": "6505",
           "name": "台塑化",
-          "point": "OL-3歲修結束、9月恢復開車",
-          "limitUp": false,
+          "point": "OL-3歲修結束，9月恢復開車",
           "luw": 1,
           "luwd": [
             "9/9"
           ]
         }
       ],
-      "background": "台塑四寶受惠歲修結束、開工率回升，加上中東衝突推升油價及石化產品行情，Q4營運可望再拚成長。AI需求也帶動電子材料市場暢旺。",
+      "background": "台塑四寶受惠歲修結束、開工率回升，加上中東衝突推升油價及石化產品行情，9月營運可望改善，第四季持續成長。",
       "themeTags": [
         "需求驅動",
         "循環位置"
@@ -87,6 +83,47 @@
         }
       ],
       "background": "台塑四寶受惠歲修結束、開工率回升，加上中東衝突推升油價及石化產品行情，AI需求亦帶動電子材料成長，產業景氣逐步復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTE1vWWt3YU1HUzFIa194cTRXbzNYeUg3YnJHeXhBVGxKS1dwMkxXVzM0VjV5cXZsVnBqQnhLNGR6blVEN091X29KcUlfYmFNVlNic2pOUDBYd3EzZmUzRXZtX3A5ZHpaX2dJVlE",
+      "tkey": "熱門族群台塑四寶8月營收出爐南亞AI材料旺、台塑化年增逾5成",
+      "title": "《熱門族群》台塑四寶8月營收出爐 南亞AI材料旺、台塑化年增逾5成 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260908900353-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Tue, 08 Sep 2026 06:13:02 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "AI帶動電子材料需求強勁，8月營收50個月新高",
+          "status": "逼近新高",
+          "dist": -3.6
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "8月營收年增31.7%，受油價與同業檢修支撐"
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "8月營收年增50.3%，原油煉製量增加",
+          "luw": 1,
+          "luwd": [
+            "9/9"
+          ]
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "8月營收年增6.8%，受歲修影響月減"
+        }
+      ],
+      "background": "台塑四寶8月營收表現分歧，南亞受AI浪潮帶動電子材料需求強勁，台塑化受惠原油煉製量增加，油價維持高檔。",
       "themeTags": [
         "需求驅動",
         "循環位置"
