@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-10T15:36:26.378+08:00",
-  "generatedAt": "2026-09-10T07:36:26.378Z",
+  "asOf": "2026-09-10T17:42:06.691+08:00",
+  "generatedAt": "2026-09-10T09:42:06.691Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -17,6 +17,19 @@
         "9/7"
       ],
       "mentions": 7,
+      "limitUp": false
+    },
+    {
+      "symbol": "2409",
+      "name": "友達",
+      "days": 4,
+      "dates": [
+        "9/10",
+        "9/9",
+        "9/7",
+        "9/5"
+      ],
+      "mentions": 4,
       "limitUp": false
     },
     {
@@ -115,18 +128,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2409",
-      "name": "友達",
-      "days": 3,
-      "dates": [
-        "9/9",
-        "9/7",
-        "9/5"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
       "symbol": "4958",
       "name": "臻鼎-KY",
       "days": 2,
@@ -157,6 +158,17 @@
         "9/7"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "3481",
+      "name": "群創",
+      "days": 2,
+      "dates": [
+        "9/10",
+        "9/9"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -430,6 +442,33 @@
       "background": "蘋果正式發表首款摺疊機iPhone Duo，預期出貨量可觀，相關供應鏈可望受惠。AI水冷散熱題材亦持續發酵。",
       "themeTags": [
         "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPQTdnNktkaFRtMzN1dENtSzFUZzE1NHlGMi03ajhTMXVMY1AtaTBpWG9Mc3FFYmRMUVZsb01HNExaRjhOTEVIZ3dnaDRYdmJpckZOYnRIcnpkVGxTYUFNNWJXbDRYWEQzYk1LblZHNDBWNDhCRmlrMnE3bUlqd2NKOHRjeW9GUkgx",
+      "tkey": "熱門族群面板股一個人的武林友達神拉翻紅收穩31元",
+      "title": "《熱門族群》面板股「一個人的武林」 友達神拉翻紅收穩31元 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6298339001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 10 Sep 2026 05:44:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "午後買盤湧入，股價由黑翻紅",
+          "limitUp": false
+        },
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "point": "股價全日盤下震盪，表現黯淡",
+          "limitUp": false
+        }
+      ],
+      "background": "面板產業受惠年底促銷旺季備貨需求，電視面板採購動能升溫，且9月報價預計止跌，產業有望擺脫低迷。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
       ]
     },
     {
