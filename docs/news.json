@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-10T13:03:29.864+08:00",
-  "generatedAt": "2026-09-10T05:03:29.864Z",
+  "asOf": "2026-09-10T14:03:02.420+08:00",
+  "generatedAt": "2026-09-10T06:03:02.420Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -28,7 +28,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 7,
+      "mentions": 8,
       "limitUp": true,
       "pct": 9.9,
       "luw": 1,
@@ -45,7 +45,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 7,
+      "mentions": 8,
       "limitUp": false
     },
     {
@@ -57,7 +57,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 7,
+      "mentions": 8,
       "limitUp": false
     },
     {
@@ -69,7 +69,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 7,
+      "mentions": 8,
       "status": "逼近新高",
       "dist": -4.6,
       "limitUp": false
