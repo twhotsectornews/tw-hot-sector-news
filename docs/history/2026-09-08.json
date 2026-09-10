@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "updatedAt": "2026-09-10T04:03:58.204Z",
+  "updatedAt": "2026-09-10T05:03:29.861Z",
   "news": [
     {
       "gid": "CBMiakFVX3lxTE41WXF6eTE1bDN1Mk9ha3A2bUQ3WE4tNDhyanQ0cWNGcXMyay1PTTlLOENVekV5dDZ4NUJUaTVhTV9yMnl6Q2lmMEVBbUFWYU9DZDJ5NkJ3YXlSYnZ1MzJWNU5iQndZdFNDTlE",
@@ -9,39 +9,9 @@
       "url": "https://wantrich.chinatimes.com/news/20260908900463-420101",
       "source": "旺得富理財網",
       "pubDate": "Tue, 08 Sep 2026 08:25:27 GMT",
-      "stocks": [
-        {
-          "symbol": "1301",
-          "name": "台塑",
-          "point": "9月營運可望改善，Q4營收優於Q3"
-        },
-        {
-          "symbol": "1303",
-          "name": "南亞",
-          "point": "AI需求帶動電子材料，Q4營收續成長",
-          "status": "逼近新高",
-          "dist": -3.6
-        },
-        {
-          "symbol": "1326",
-          "name": "台化",
-          "point": "9月營收回升，油價高檔挹注收益"
-        },
-        {
-          "symbol": "6505",
-          "name": "台塑化",
-          "point": "OL-3歲修結束，9月恢復開車",
-          "luw": 1,
-          "luwd": [
-            "9/9"
-          ]
-        }
-      ],
-      "background": "台塑四寶受惠歲修結束、開工率回升，加上中東衝突推升油價及石化產品行情，9月營運可望改善，第四季持續成長。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
+      "stocks": [],
+      "background": "台塑四寶9月營運預期回溫，主要受惠於歲修結束及國際油價維持高檔，預計第四季營運將持續成長。",
+      "themeTags": []
     },
     {
       "gid": "CBMiiAFBVV95cUxQNERoTWRQbnBIbElDRzBESnRTaFl6a1JjTGViMWZxQUprdURwVmJRYVFfcWpCc3Q5Z20wWEY0QUhHNkhZem9WY1pEbGZuWV9rV05OeVdNakZzSHZPZG0zd1J3ck1Nd2hUbW5wRHA1YzF4cjdTb0tFRzFMRkEzbDVTaWRkcVhfaE9t",
@@ -99,19 +69,19 @@
         {
           "symbol": "1303",
           "name": "南亞",
-          "point": "AI帶動電子材料需求強勁，8月營收50個月新高",
+          "point": "AI材料需求強勁，營收年增46.7%",
           "status": "逼近新高",
-          "dist": -3.6
+          "dist": -2.4
         },
         {
           "symbol": "1326",
           "name": "台化",
-          "point": "8月營收年增31.7%，受油價與同業檢修支撐"
+          "point": "營收年增31.7%，油價高檔支撐"
         },
         {
           "symbol": "6505",
           "name": "台塑化",
-          "point": "8月營收年增50.3%，原油煉製量增加",
+          "point": "營收年增50.3%，原油煉製量增加",
           "luw": 1,
           "luwd": [
             "9/9"
@@ -120,13 +90,12 @@
         {
           "symbol": "1301",
           "name": "台塑",
-          "point": "8月營收年增6.8%，受歲修影響月減"
+          "point": "受歲修影響，營收月減8.5%"
         }
       ],
-      "background": "台塑四寶8月營收表現分歧，南亞受AI浪潮帶動電子材料需求強勁，台塑化受惠原油煉製量增加，油價維持高檔。",
+      "background": "台塑四寶8月營收表現分歧，南亞受惠AI帶動電子材料需求強勁，台塑化因原油交貨量增加營收大增，國際油價高檔支撐石化產品價格。",
       "themeTags": [
-        "需求驅動",
-        "循環位置"
+        "需求驅動"
       ]
     },
     {

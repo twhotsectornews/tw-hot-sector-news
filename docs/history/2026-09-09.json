@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "updatedAt": "2026-09-10T04:03:58.202Z",
+  "updatedAt": "2026-09-10T05:03:29.860Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE04bkJmcEoza2REc1YtdFBiM2gzcEtpc041SHhTNW94M3BOLXRUWWgwVDhYdWNZU1BkQ2N2ek1XQzNkNVY4dDFTbldPUDBfV1dBXzBobUpINGc",
@@ -179,7 +179,9 @@
           "symbol": "3189",
           "name": "景碩",
           "point": "也大漲",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14.2
         },
         {
           "symbol": "4958",

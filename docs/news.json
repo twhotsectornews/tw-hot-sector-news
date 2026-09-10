@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-10T12:03:58.206+08:00",
-  "generatedAt": "2026-09-10T04:03:58.206Z",
+  "asOf": "2026-09-10T13:03:29.864+08:00",
+  "generatedAt": "2026-09-10T05:03:29.864Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -28,7 +28,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 8,
+      "mentions": 7,
       "limitUp": true,
       "pct": 9.9,
       "luw": 1,
@@ -45,7 +45,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 8,
+      "mentions": 7,
       "limitUp": false
     },
     {
@@ -57,7 +57,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 8,
+      "mentions": 7,
       "limitUp": false
     },
     {
@@ -69,7 +69,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 8,
+      "mentions": 7,
       "status": "逼近新高",
       "dist": -4.6,
       "limitUp": false
@@ -135,6 +135,39 @@
         "9/7"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "3260",
+      "name": "威剛",
+      "days": 2,
+      "dates": [
+        "9/10",
+        "9/8"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "4967",
+      "name": "十銓",
+      "days": 2,
+      "dates": [
+        "9/10",
+        "9/8"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2337",
+      "name": "旺宏",
+      "days": 2,
+      "dates": [
+        "9/10",
+        "9/8"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -347,6 +380,75 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNTHhFNHJ1bC0zT3plWFBDNDJYX3huSlJiN3JKWjZSZXdUNElBTTIyYUQ4WFE5UzNTdlBaeXJPY0VFY1U1TXhYVndubDRzLTBOOEwzZjA4T3QyRW1LdzJjWnR3cGZzZ05mOVR4eV9fUGhWZTJfeXg3Wl9GaTN0V1FGdnJrVUZmVXE3",
+      "tkey": "熱門族群記憶體漲夠了！鎧俠開第一槍重挫NANDFLASH概念股",
+      "title": "《熱門族群》記憶體漲夠了！鎧俠開第一槍重挫NAND FLASH概念股 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6298231001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 10 Sep 2026 04:37:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3260",
+          "name": "威剛",
+          "point": "NAND FLASH概念股跌逾1%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2451",
+          "name": "創見",
+          "point": "NAND FLASH概念股跌逾1%",
+          "limitUp": false
+        },
+        {
+          "symbol": "4967",
+          "name": "十銓",
+          "point": "NAND FLASH概念股跌逾1%",
+          "limitUp": false
+        },
+        {
+          "symbol": "5289",
+          "name": "宜鼎",
+          "point": "NAND FLASH概念股跌幅最深",
+          "limitUp": false
+        },
+        {
+          "symbol": "8271",
+          "name": "宇瞻",
+          "point": "NAND FLASH概念股跌逾1%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "NAND FLASH概念股跌幅最深",
+          "limitUp": false
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "早盤勉力維持平盤以上",
+          "limitUp": false
+        },
+        {
+          "symbol": "8150",
+          "name": "南茂",
+          "point": "封裝測試廠受累走弱",
+          "limitUp": false
+        },
+        {
+          "symbol": "2329",
+          "name": "華泰",
+          "point": "封裝測試廠受累走弱",
+          "limitUp": false
+        }
+      ],
+      "background": "記憶體大廠鎧俠示警價格漲夠了，擔憂傷害AI投資意願，導致NAND Flash概念股受挫。記憶體產業受AI需求驅動，但價格過高恐影響長期成長。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQZTFPRXBXemhfX1RIR1hIb2RHTDNBejloWml1Z0U1OUFaeEo2Z2d5Njl1TmJfLVZyNm00WDRxb2lXaVFVRmJ4b2tVeE1vY0hmQ0hWV205VVA2VjZQVDhfdmR5SzFtUjhjRGd1TUd2MkxyWEljYTNycUllcFBnNDVvbmdqaEQzX2RX",
       "tkey": "熱門族群47K飛了！日月光領封測逆揚壓寶有積之彈？",
@@ -663,7 +765,9 @@
           "symbol": "3189",
           "name": "景碩",
           "point": "也大漲",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14.2
         },
         {
           "symbol": "4958",
