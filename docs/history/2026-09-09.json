@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "updatedAt": "2026-09-10T10:41:44.050Z",
+  "updatedAt": "2026-09-10T13:31:20.844Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE04bkJmcEoza2REc1YtdFBiM2gzcEtpc041SHhTNW94M3BOLXRUWWgwVDhYdWNZU1BkQ2N2ek1XQzNkNVY4dDFTbldPUDBfV1dBXzBobUpINGc",
@@ -35,6 +35,74 @@
       "background": "光學鏡頭產業受惠於蘋果新機題材，市場預期需求將回溫，帶動相關供應鏈股價表現。",
       "themeTags": [
         "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOQkVtTWMtMHF2b1VWQk5qcnNDX3dYSWNwcllFekxwTnFmcEx2WHZRNVJvWHBjWGNzc05RRW5aX2Z3aWJXek53Ylp4VjU3S0dLcjFuTlNwREJDMjVzeWd4Z01mZXhCeHF3QUIwZGJqdldTV3ZCRkdwc2huYnljek5rTmFmNzBWczlp",
+      "tkey": "熱門族群沾蘋果光？光學二哥天價鎖紅燈大立光帶小兵搭北上列車-ww2.money",
+      "title": "《熱門族群》沾蘋果光？光學二哥天價鎖紅燈 大立光帶小兵搭北上列車 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6296663001&PU=0010",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Wed, 09 Sep 2026 04:10:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "止血回升6%"
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "急攻漲停寫天價",
+          "status": "逼近新高",
+          "dist": -4.9,
+          "luw": 1,
+          "luwd": [
+            "9/9"
+          ]
+        },
+        {
+          "symbol": "6668",
+          "name": "中揚光",
+          "point": "跟進轉搭北上列車"
+        },
+        {
+          "symbol": "3504",
+          "name": "揚明光",
+          "point": "跟進轉搭北上列車"
+        },
+        {
+          "symbol": "3019",
+          "name": "亞光",
+          "point": "跟進轉搭北上列車"
+        },
+        {
+          "symbol": "6209",
+          "name": "今國光",
+          "point": "跟進轉搭北上列車"
+        },
+        {
+          "symbol": "3441",
+          "name": "聯一光",
+          "point": "跟進轉搭北上列車",
+          "status": "逼近新高",
+          "dist": -3.8
+        },
+        {
+          "symbol": "6859",
+          "name": "伯特光",
+          "point": "跟進轉搭北上列車"
+        },
+        {
+          "symbol": "3362",
+          "name": "先進光",
+          "point": "跟進轉搭北上列車"
+        }
+      ],
+      "background": "光學族群受惠蘋果新品發表，鏡頭升級與CPO光通訊布局題材帶動，大立光與玉晶光為主要指標廠。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-10T18:41:44.054+08:00",
-  "generatedAt": "2026-09-10T10:41:44.054Z",
+  "asOf": "2026-09-10T21:31:20.848+08:00",
+  "generatedAt": "2026-09-10T13:31:20.848Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -16,7 +16,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 7,
+      "mentions": 9,
       "limitUp": false
     },
     {
@@ -102,6 +102,20 @@
       "limitUp": false
     },
     {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 3,
+      "dates": [
+        "9/10",
+        "9/9",
+        "9/7"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -3.7,
+      "limitUp": false
+    },
+    {
       "symbol": "2408",
       "name": "南亞科",
       "days": 3,
@@ -114,18 +128,21 @@
       "limitUp": false
     },
     {
-      "symbol": "2330",
-      "name": "台積電",
+      "symbol": "3406",
+      "name": "玉晶光",
       "days": 3,
       "dates": [
-        "9/10",
         "9/9",
+        "9/8",
         "9/7"
       ],
       "mentions": 3,
       "status": "逼近新高",
-      "dist": -3.7,
-      "limitUp": false
+      "dist": -4.9,
+      "luw": 1,
+      "luwd": [
+        "9/9"
+      ]
     },
     {
       "symbol": "4958",
@@ -141,6 +158,17 @@
     {
       "symbol": "3376",
       "name": "新日興",
+      "days": 2,
+      "dates": [
+        "9/10",
+        "9/7"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2317",
+      "name": "鴻海",
       "days": 2,
       "dates": [
         "9/10",
@@ -205,17 +233,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2317",
-      "name": "鴻海",
-      "days": 2,
-      "dates": [
-        "9/10",
-        "9/7"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
       "symbol": "2382",
       "name": "廣達",
       "days": 2,
@@ -225,23 +242,6 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "3406",
-      "name": "玉晶光",
-      "days": 2,
-      "dates": [
-        "9/8",
-        "9/7"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -6.9,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "9/9"
-      ]
     },
     {
       "symbol": "3026",
@@ -616,6 +616,82 @@
       ]
     },
     {
+      "gid": "CBMiiAFBVV95cUxNbGI4ZFNjajRhb3hVYVlvc1JsMkZFWDMyeE1IWHRoajRWSU85RUg0UjEyMC1Xc1pLRDhhckFLTWZ2N091Y2d4bzdoM2VVOHlTRlowNmZmU2sxV1dmMFNFcnNacUJLLUlHb2g3WjhoMWdkbktEanc0cmk4Vk4tUnpiT2FacEExRUFw",
+      "tkey": "熱門族群47K飛了！日月光領封測逆揚壓寶有積之彈？-ww2.money",
+      "title": "《熱門族群》47K飛了！日月光領封測逆揚 壓寶有「積」之彈？ - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6298172001&PU=1002",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Thu, 10 Sep 2026 03:45:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "point": "領封測逆揚",
+          "status": "高檔修正",
+          "dist": -10.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "3264",
+          "name": "欣銓",
+          "point": "股價勁揚",
+          "status": "高檔修正",
+          "dist": -11.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "3265",
+          "name": "台星科",
+          "point": "股價勁揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "6257",
+          "name": "矽格",
+          "point": "股價勁揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "point": "股價勁揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "2449",
+          "name": "京元電子",
+          "point": "股價勁揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "回測五日線領跌",
+          "status": "逼近新高",
+          "dist": -3.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "同步走弱",
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "同步走弱",
+          "limitUp": false
+        }
+      ],
+      "background": "封測產業受AI及高效能運算(HPC)需求帶動，先進封裝與測試需求持續放大，日月光投控為全球封測龍頭，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxQRTdnRkNFa1BTVjFPSTI1OTBMNlZHeDJnYXVyanpWV1V2a1kzeTVTdmZ2S1h6cDVrVm5NcnNDV3ZuU1BwRnFqY2tiUXhUcjZTRW1jejl4RXpiekh1aExLNlV2SXZQMmRKejFUNVNlOTI3WWY5YUhaVlkwdHd6dGZaLXd4Q2llbFJs",
       "tkey": "熱門族群iPhoneDuo亮相外資點名6大受惠股",
       "title": "《熱門族群》iPhone Duo亮相 外資點名6大受惠股 - 富聯網",
@@ -712,6 +788,74 @@
       "background": "光學鏡頭產業受惠於蘋果新機題材，市場預期需求將回溫，帶動相關供應鏈股價表現。",
       "themeTags": [
         "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOQkVtTWMtMHF2b1VWQk5qcnNDX3dYSWNwcllFekxwTnFmcEx2WHZRNVJvWHBjWGNzc05RRW5aX2Z3aWJXek53Ylp4VjU3S0dLcjFuTlNwREJDMjVzeWd4Z01mZXhCeHF3QUIwZGJqdldTV3ZCRkdwc2huYnljek5rTmFmNzBWczlp",
+      "tkey": "熱門族群沾蘋果光？光學二哥天價鎖紅燈大立光帶小兵搭北上列車-ww2.money",
+      "title": "《熱門族群》沾蘋果光？光學二哥天價鎖紅燈 大立光帶小兵搭北上列車 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6296663001&PU=0010",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Wed, 09 Sep 2026 04:10:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "止血回升6%"
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "急攻漲停寫天價",
+          "status": "逼近新高",
+          "dist": -4.9,
+          "luw": 1,
+          "luwd": [
+            "9/9"
+          ]
+        },
+        {
+          "symbol": "6668",
+          "name": "中揚光",
+          "point": "跟進轉搭北上列車"
+        },
+        {
+          "symbol": "3504",
+          "name": "揚明光",
+          "point": "跟進轉搭北上列車"
+        },
+        {
+          "symbol": "3019",
+          "name": "亞光",
+          "point": "跟進轉搭北上列車"
+        },
+        {
+          "symbol": "6209",
+          "name": "今國光",
+          "point": "跟進轉搭北上列車"
+        },
+        {
+          "symbol": "3441",
+          "name": "聯一光",
+          "point": "跟進轉搭北上列車",
+          "status": "逼近新高",
+          "dist": -3.8
+        },
+        {
+          "symbol": "6859",
+          "name": "伯特光",
+          "point": "跟進轉搭北上列車"
+        },
+        {
+          "symbol": "3362",
+          "name": "先進光",
+          "point": "跟進轉搭北上列車"
+        }
+      ],
+      "background": "光學族群受惠蘋果新品發表，鏡頭升級與CPO光通訊布局題材帶動，大立光與玉晶光為主要指標廠。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
       ]
     },
     {
