@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-11T13:02:06.241+08:00",
-  "generatedAt": "2026-09-11T05:02:06.241Z",
+  "asOf": "2026-09-11T14:03:07.974+08:00",
+  "generatedAt": "2026-09-11T06:03:07.974Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -442,6 +442,46 @@
       "background": "國際油價受中東地緣政治影響持續飆漲，帶動原油及石化產品報價上揚，使台塑化等相關企業營收成長。",
       "themeTags": [
         "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPNHduTlhSSWVPdXVUQVh5WE9UNm5ocjRsSjNtUFNrZkFBZzEwdzMtaDcyX1NNZ2NaR3JaYzhCVEhpWWNtQ1ZKbWp5YzZ5ZDdCWEJ1Y3JsdVNMbTBKMEFmVXhvcWI1OUZzSXRvNzhpeWd2ckVXeU5yc2h2TnN0THEtWEs3SjAtOURL",
+      "tkey": "熱門族群暑假旺季+AI貨運助攻！航空四雄上月營收3家創歷史次高",
+      "title": "《熱門族群》暑假旺季+AI貨運助攻！航空四雄上月營收 3家創歷史次高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6299710001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 11 Sep 2026 00:14:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2618",
+          "name": "長榮航空",
+          "point": "8月營收創歷史新高",
+          "status": "逼近新高",
+          "dist": -5.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "2610",
+          "name": "華航",
+          "point": "8月營收創同期新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "2646",
+          "name": "星宇航空",
+          "point": "8月營收創歷史次高",
+          "limitUp": false
+        },
+        {
+          "symbol": "6757",
+          "name": "台灣虎航",
+          "point": "載客率達歷史新高",
+          "limitUp": false
+        }
+      ],
+      "background": "暑假旅遊旺季帶動客運需求，AI伺服器與半導體貨運需求亦助攻，航空業營運升溫。",
+      "themeTags": [
+        "需求驅動"
       ]
     },
     {
