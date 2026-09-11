@@ -1,0 +1,369 @@
+{
+  "date": "2026-09-10",
+  "updatedAt": "2026-09-11T03:04:05.790Z",
+  "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE1QQndJcmppY3VvQWFDekxkOUV2emZoWU90RE45QjFpY0xsYlFzT0wzaTRwaGRTN3pYZFlqLU0tVVk1MUxVUlh5Q2ZNLUxBRWJTbTVqbVVLUHc",
+      "tkey": "3017奇鋐-熱門族群iPhoneDuo亮相外資點名6大受惠股-股市爆料同學會",
+      "title": "3017 奇鋐- 《熱門族群》iPhone Duo亮相外資點名6大受惠股- 股市爆料同學會 - CMoney",
+      "url": "https://www.cmoney.tw/forum/article/184509553",
+      "source": "CMoney",
+      "pubDate": "Thu, 10 Sep 2026 06:01:26 GMT",
+      "stocks": [
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "point": "iPhone Duo受惠供應商",
+          "limitUp": false
+        },
+        {
+          "symbol": "4958",
+          "name": "臻鼎-KY",
+          "point": "iPhone Duo受惠供應商",
+          "limitUp": false
+        },
+        {
+          "symbol": "3376",
+          "name": "新日興",
+          "point": "iPhone Duo受惠供應商",
+          "limitUp": false
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "iPhone Duo受惠供應商",
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "iPhone Duo受惠供應商",
+          "limitUp": false
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "iPhone Duo受惠供應商",
+          "status": "逼近新高",
+          "dist": -3.8,
+          "limitUp": false
+        }
+      ],
+      "background": "蘋果正式發表首款摺疊機iPhone Duo，預期出貨量可觀，相關供應鏈可望受惠。AI水冷散熱題材亦持續發酵。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPQTdnNktkaFRtMzN1dENtSzFUZzE1NHlGMi03ajhTMXVMY1AtaTBpWG9Mc3FFYmRMUVZsb01HNExaRjhOTEVIZ3dnaDRYdmJpckZOYnRIcnpkVGxTYUFNNWJXbDRYWEQzYk1LblZHNDBWNDhCRmlrMnE3bUlqd2NKOHRjeW9GUkgx",
+      "tkey": "熱門族群面板股一個人的武林友達神拉翻紅收穩31元",
+      "title": "《熱門族群》面板股「一個人的武林」 友達神拉翻紅收穩31元 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6298339001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 10 Sep 2026 05:44:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "午後買盤湧入，股價由黑翻紅",
+          "limitUp": false
+        },
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "point": "股價全日盤下震盪，表現黯淡",
+          "limitUp": false
+        }
+      ],
+      "background": "面板產業受惠年底促銷旺季備貨需求，電視面板採購動能升溫，且9月報價預計止跌，產業有望擺脫低迷。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNTHhFNHJ1bC0zT3plWFBDNDJYX3huSlJiN3JKWjZSZXdUNElBTTIyYUQ4WFE5UzNTdlBaeXJPY0VFY1U1TXhYVndubDRzLTBOOEwzZjA4T3QyRW1LdzJjWnR3cGZzZ05mOVR4eV9fUGhWZTJfeXg3Wl9GaTN0V1FGdnJrVUZmVXE3",
+      "tkey": "熱門族群記憶體漲夠了！鎧俠開第一槍重挫NANDFLASH概念股",
+      "title": "《熱門族群》記憶體漲夠了！鎧俠開第一槍重挫NAND FLASH概念股 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6298231001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 10 Sep 2026 04:37:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3260",
+          "name": "威剛",
+          "point": "NAND FLASH概念股跌逾1%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2451",
+          "name": "創見",
+          "point": "NAND FLASH概念股跌逾1%",
+          "limitUp": false
+        },
+        {
+          "symbol": "4967",
+          "name": "十銓",
+          "point": "NAND FLASH概念股跌逾1%",
+          "limitUp": false
+        },
+        {
+          "symbol": "5289",
+          "name": "宜鼎",
+          "point": "NAND FLASH概念股跌幅最深",
+          "limitUp": false
+        },
+        {
+          "symbol": "8271",
+          "name": "宇瞻",
+          "point": "NAND FLASH概念股跌逾1%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "NAND FLASH概念股跌幅最深",
+          "limitUp": false
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "早盤勉力維持平盤以上",
+          "limitUp": false
+        },
+        {
+          "symbol": "8150",
+          "name": "南茂",
+          "point": "封裝測試廠受累走弱",
+          "limitUp": false
+        },
+        {
+          "symbol": "2329",
+          "name": "華泰",
+          "point": "封裝測試廠受累走弱",
+          "limitUp": false
+        }
+      ],
+      "background": "記憶體大廠鎧俠示警價格漲夠了，擔憂傷害AI投資意願，導致NAND Flash概念股受挫。記憶體產業受AI需求驅動，但價格過高恐影響長期成長。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQZTFPRXBXemhfX1RIR1hIb2RHTDNBejloWml1Z0U1OUFaeEo2Z2d5Njl1TmJfLVZyNm00WDRxb2lXaVFVRmJ4b2tVeE1vY0hmQ0hWV205VVA2VjZQVDhfdmR5SzFtUjhjRGd1TUd2MkxyWEljYTNycUllcFBnNDVvbmdqaEQzX2RX",
+      "tkey": "熱門族群47K飛了！日月光領封測逆揚壓寶有積之彈？",
+      "title": "《熱門族群》47K飛了！日月光領封測逆揚 壓寶有「積」之彈？ - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6298172001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 10 Sep 2026 03:45:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "回測五日線支撐領跌",
+          "status": "逼近新高",
+          "dist": -3.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "同步走弱",
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "同步走弱",
+          "limitUp": false
+        },
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "point": "股價連2紅，領封測逆揚",
+          "status": "高檔修正",
+          "dist": -11.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "3264",
+          "name": "欣銓",
+          "point": "8月營收締新猷，迎新成長週期",
+          "status": "高檔修正",
+          "dist": -11.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "3265",
+          "name": "台星科",
+          "point": "同步勁揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "6257",
+          "name": "矽格",
+          "point": "8月營收雙增，強攻季線大關",
+          "limitUp": false
+        },
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "point": "8月營收雙增，改寫歷史新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "2449",
+          "name": "京元電子",
+          "point": "8月營收雙增，掌握AI晶片測試",
+          "limitUp": false
+        }
+      ],
+      "background": "封測產業受AI及HPC需求帶動，先進封裝與測試需求持續放大，日月光投控為全球封測龍頭，相關廠商營收表現亮眼。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNbGI4ZFNjajRhb3hVYVlvc1JsMkZFWDMyeE1IWHRoajRWSU85RUg0UjEyMC1Xc1pLRDhhckFLTWZ2N091Y2d4bzdoM2VVOHlTRlowNmZmU2sxV1dmMFNFcnNacUJLLUlHb2g3WjhoMWdkbktEanc0cmk4Vk4tUnpiT2FacEExRUFw",
+      "tkey": "熱門族群47K飛了！日月光領封測逆揚壓寶有積之彈？-ww2.money",
+      "title": "《熱門族群》47K飛了！日月光領封測逆揚 壓寶有「積」之彈？ - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6298172001&PU=1002",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Thu, 10 Sep 2026 03:45:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "point": "領封測逆揚",
+          "status": "高檔修正",
+          "dist": -10.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "3264",
+          "name": "欣銓",
+          "point": "股價勁揚",
+          "status": "高檔修正",
+          "dist": -11.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "3265",
+          "name": "台星科",
+          "point": "股價勁揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "6257",
+          "name": "矽格",
+          "point": "股價勁揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "point": "股價勁揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "2449",
+          "name": "京元電子",
+          "point": "股價勁揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "回測五日線領跌",
+          "status": "逼近新高",
+          "dist": -3.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "同步走弱",
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "同步走弱",
+          "limitUp": false
+        }
+      ],
+      "background": "封測產業受AI及高效能運算(HPC)需求帶動，先進封裝與測試需求持續放大，日月光投控為全球封測龍頭，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQRTdnRkNFa1BTVjFPSTI1OTBMNlZHeDJnYXVyanpWV1V2a1kzeTVTdmZ2S1h6cDVrVm5NcnNDV3ZuU1BwRnFqY2tiUXhUcjZTRW1jejl4RXpiekh1aExLNlV2SXZQMmRKejFUNVNlOTI3WWY5YUhaVlkwdHd6dGZaLXd4Q2llbFJs",
+      "tkey": "熱門族群iPhoneDuo亮相外資點名6大受惠股",
+      "title": "《熱門族群》iPhone Duo亮相 外資點名6大受惠股 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6297986001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 10 Sep 2026 01:30:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "point": "電源廠，受惠iPhone Duo出貨",
+          "limitUp": false
+        },
+        {
+          "symbol": "4958",
+          "name": "臻鼎-KY",
+          "point": "PCB大廠，受惠iPhone Duo出貨",
+          "limitUp": false
+        },
+        {
+          "symbol": "3376",
+          "name": "新日興",
+          "point": "軸承廠，受惠iPhone Duo出貨",
+          "limitUp": false
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "銅箔基板廠，受惠iPhone Duo出貨",
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "鏡頭廠，受惠iPhone Duo出貨",
+          "limitUp": false
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "散熱廠，受惠iPhone Duo出貨",
+          "status": "逼近新高",
+          "dist": -4.9,
+          "limitUp": false
+        }
+      ],
+      "background": "蘋果推出首款摺疊機iPhone Duo，搭載多項新技術與零組件，預期將帶動相關供應鏈出貨量，為產業帶來新的成長動能。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTFBTdy1VSnBXbHl3bk4ydmRYOGU1ZWVLT3VXQzdtZFV3NDdUZzN1SjRmMXhQQkpOQ2VZeElpMDI0dWFfaGl1XzRSaDFETWxOdmlRVUdkV3djQno",
+      "tkey": "熱門族群資金尋找避風港金融股閃閃發亮",
+      "title": "熱門族群》資金尋找避風港 金融股閃閃發亮 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/c5tfzxqfmjmh",
+      "source": "自由時報",
+      "pubDate": "Wed, 09 Sep 2026 18:10:39 GMT",
+      "stocks": [],
+      "background": "金融股在市場不確定性高時常被視為避風港，因其獲利穩定且股息殖利率相對較高，吸引尋求穩健報酬的資金流入。",
+      "themeTags": []
+    }
+  ]
+}

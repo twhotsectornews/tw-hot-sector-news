@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-10T22:38:05.511+08:00",
-  "generatedAt": "2026-09-10T14:38:05.511Z",
+  "asOf": "2026-09-11T11:04:05.796+08:00",
+  "generatedAt": "2026-09-11T03:04:05.796Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,15 +9,50 @@
     {
       "symbol": "3008",
       "name": "大立光",
-      "days": 4,
+      "days": 5,
       "dates": [
+        "9/11",
         "9/10",
         "9/9",
         "9/8",
         "9/7"
       ],
-      "mentions": 9,
+      "mentions": 10,
       "limitUp": false
+    },
+    {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 4,
+      "dates": [
+        "9/11",
+        "9/10",
+        "9/9",
+        "9/7"
+      ],
+      "mentions": 5,
+      "status": "逼近新高",
+      "dist": -4.9,
+      "limitUp": false
+    },
+    {
+      "symbol": "3406",
+      "name": "玉晶光",
+      "days": 4,
+      "dates": [
+        "9/11",
+        "9/9",
+        "9/8",
+        "9/7"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -3.9,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "9/9"
+      ]
     },
     {
       "symbol": "2409",
@@ -88,31 +123,15 @@
       "limitUp": false
     },
     {
-      "symbol": "3017",
-      "name": "奇鋐",
+      "symbol": "2317",
+      "name": "鴻海",
       "days": 3,
       "dates": [
+        "9/11",
         "9/10",
-        "9/7",
-        "9/4"
-      ],
-      "mentions": 4,
-      "status": "逼近新高",
-      "dist": -3.8,
-      "limitUp": false
-    },
-    {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 3,
-      "dates": [
-        "9/10",
-        "9/9",
         "9/7"
       ],
       "mentions": 4,
-      "status": "逼近新高",
-      "dist": -3.7,
       "limitUp": false
     },
     {
@@ -128,21 +147,16 @@
       "limitUp": false
     },
     {
-      "symbol": "3406",
-      "name": "玉晶光",
+      "symbol": "3481",
+      "name": "新日興",
       "days": 3,
       "dates": [
-        "9/9",
-        "9/8",
-        "9/7"
+        "9/11",
+        "9/10",
+        "9/9"
       ],
       "mentions": 3,
-      "status": "逼近新高",
-      "dist": -4.9,
-      "luw": 1,
-      "luwd": [
-        "9/9"
-      ]
+      "limitUp": false
     },
     {
       "symbol": "4958",
@@ -167,14 +181,16 @@
       "limitUp": false
     },
     {
-      "symbol": "2317",
-      "name": "鴻海",
+      "symbol": "3017",
+      "name": "奇鋐",
       "days": 2,
       "dates": [
         "9/10",
         "9/7"
       ],
       "mentions": 3,
+      "status": "逼近新高",
+      "dist": -3.8,
       "limitUp": false
     },
     {
@@ -189,12 +205,12 @@
       "limitUp": false
     },
     {
-      "symbol": "3481",
-      "name": "群創",
+      "symbol": "1707",
+      "name": "葡萄王",
       "days": 2,
       "dates": [
-        "9/10",
-        "9/9"
+        "9/11",
+        "9/6"
       ],
       "mentions": 2,
       "limitUp": false
@@ -315,17 +331,6 @@
       ]
     },
     {
-      "symbol": "2324",
-      "name": "仁寶",
-      "days": 2,
-      "dates": [
-        "9/7",
-        "9/4"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
       "symbol": "2881",
       "name": "富邦金",
       "days": 2,
@@ -392,6 +397,364 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNLXZYajh5QkpoNU1HOEhuSnNnQlJnd1hBM211RnBPUzZBNjM0alZrNmJ5anNoNi1DcVN2UGJTeTNCRDdWaFNtcThMdWxweGFiTi1kNlN6cW1rZm1pZGVNU005Ty1GVDgwbzZfOGlZbjZqU01SZkxReTM3dE5oUkFTTHBKRFJXdnBH",
+      "tkey": "熱門族群規格升級帶動單機價值增蘋果新機亮相蘋概股沾光",
+      "title": "《熱門族群》規格升級帶動單機價值增 蘋果新機亮相 蘋概股沾光 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6299678001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 11 Sep 2026 00:07:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "受惠蘋果2奈米製程升級",
+          "status": "逼近新高",
+          "dist": -4.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "3481",
+          "name": "新日興",
+          "point": "精密鉸鏈主要受惠業者",
+          "limitUp": false
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "折疊手機組裝廠受惠",
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "高階鏡頭技術門檻提高",
+          "limitUp": false
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "高階鏡頭技術門檻提高",
+          "status": "逼近新高",
+          "dist": -3.9,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/9"
+          ]
+        }
+      ],
+      "background": "蘋果新機亮相，折疊手機iPhone Duo規格全面升級，帶動2奈米晶片、高階折疊螢幕及精密鉸鏈等供應鏈單機價值提升。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPWEw5ZV8wSzlLakotbmdzMHpVZlctTWRzME1WcFI4Q09NdXFoUDJoblVXck1TUnJEM3VVVEw2R2s2a015Nzg5bTNoUXdqTUk3Mm45Z1BTN2d5S0xPa2pOeDZDMWtnNEl1YlQyNjNHOTNiWVJRMzBwLTc4V0pJUm1MXzlMNkQ2U3Fw",
+      "tkey": "熱門族群電信三雄備戰果粉換機潮",
+      "title": "《熱門族群》電信三雄 備戰果粉換機潮 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6299677001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 11 Sep 2026 00:07:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2412",
+          "name": "中華電",
+          "point": "開放限量網路預約",
+          "status": "逼近新高",
+          "dist": -2.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "point": "開放預約iPhone 18 Pro",
+          "status": "創新高",
+          "dist": -0.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "point": "開放線上空機預約登記",
+          "status": "逼近新高",
+          "dist": -4.4,
+          "limitUp": false
+        }
+      ],
+      "background": "蘋果新機iPhone 18 Pro系列及折疊手機iPhone Duo上市，儘管售價調漲，電信三雄仍看好新機亮點將帶動果粉換機潮。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPLVQtbHc1OTdSN01tYnFsMk9WdVVYdjI2SklHVVdZVHp5OEtNUm1GNDhacFdscjNibjh4OW9lemFLNzdadFdPSHVaWXAxWDVKckprS3JhU3hMdC1Md3ZzaDdJOXRGUFBnbG1oaUhGMm1ZRURsUkFMbjRCeHNYNWZRejB3QXlZbFcy",
+      "tkey": "熱門族群生技股8月營運發光",
+      "title": "《熱門族群》生技股 8月營運發光 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6299664001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Fri, 11 Sep 2026 00:06:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1795",
+          "name": "美時",
+          "point": "8月營收年增82％",
+          "limitUp": false
+        },
+        {
+          "symbol": "6547",
+          "name": "高端",
+          "point": "8月營收年增逾4倍",
+          "limitUp": false
+        },
+        {
+          "symbol": "6598",
+          "name": "瑞磁",
+          "point": "8月營收年增70％",
+          "limitUp": false
+        },
+        {
+          "symbol": "7713",
+          "name": "威力德",
+          "point": "8月營收年增14.81％",
+          "status": "逼近新高",
+          "dist": -4.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "1707",
+          "name": "葡萄王",
+          "point": "積極布局海外及代工",
+          "limitUp": false
+        }
+      ],
+      "background": "生技股受惠於新產品出貨、檢測需求增加及海外市場拓展，8月營收表現亮眼，部分公司營運顯著成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQWWlnUEFXSFhCWU1ORlVITG12WlAyWGozOWdicGRFUUR1LTBFT2dqNXN5cXJObmNtYjRzcW0zV2xUUF81T2hsLUhULW9wYWZMcEJKelRMYmdLQlVBZC1rTl9BeWcwZTZCUEtUNmpSWFpPRnc4bzhpaGVNY0M5Mkc4YVFqcVd5X1V4",
+      "tkey": "熱門族群華碩、富世達高價股受矚目",
+      "title": "《熱門族群》華碩、富世達 高價股受矚目 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6299666001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Fri, 11 Sep 2026 00:06:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2357",
+          "name": "華碩",
+          "point": "AI伺服器業務強勁",
+          "status": "高檔修正",
+          "dist": -10.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "6805",
+          "name": "富世達",
+          "point": "本季營運創單季新高",
+          "status": "高檔修正",
+          "dist": -11.9,
+          "limitUp": false
+        }
+      ],
+      "background": "高價股受AI趨勢帶動，華碩AI伺服器業務強勁，富世達受惠多平台新品放量，營運表現受市場矚目。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQZWhoYmdQWUota2paWk9yN3ZHNDNGWDdlYl9mOWxHLVVJbGZwSWJxVGE3T1FUdnB3amZGUUw4VFBVRmtzazhMdUNLMG9aeFYxMVUxSG5xUFVGTnhkcjFzLTdXQThwRWVCV0p5VXhPVWM2NXg2THlmNXJ4c1ZGVnhOWG14OFlPQ19P",
+      "tkey": "熱門族群OE汽零廠8月營收走出谷底",
+      "title": "《熱門族群》OE汽零廠 8月營收走出谷底 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6299660001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 11 Sep 2026 00:06:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3346",
+          "name": "麗清",
+          "point": "8月營收月增28.36％",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/10"
+          ]
+        },
+        {
+          "symbol": "1338",
+          "name": "廣華-KY",
+          "point": "8月營收年月雙增",
+          "limitUp": false
+        },
+        {
+          "symbol": "2228",
+          "name": "劍麟",
+          "point": "8月營收與去年同期相當",
+          "limitUp": false
+        },
+        {
+          "symbol": "1536",
+          "name": "和大",
+          "point": "8月營收年增13.73％",
+          "limitUp": false
+        }
+      ],
+      "background": "國際車廠暑休結束，供應鏈拉貨恢復正常，OE汽車零件廠8月營收走出谷底，並積極布局機器人與AI伺服器液冷散熱。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPTXVLTFJmMlhTSGVHQ1NCQ0kzZmx2TDFNNC1yTEVvQ1lUR2xOYnVwWWY4UEVzU09RVW03cmYxejZaOE1lcWVSb3lVVXFLMlA3THBmd0JVNkY0VU1KSFQ1VjJZRFhnME5jRHZuREJ3ZElSU0hhY3hpWXRkY2dZeXF6RHpqZEExQ1Qx",
+      "tkey": "熱門族群蔚華科、光聖法說行情點火",
+      "title": "《熱門族群》蔚華科、光聖 法說行情點火 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6299667001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Fri, 11 Sep 2026 00:06:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3055",
+          "name": "蔚華科",
+          "point": "8月營收年增108.24％",
+          "limitUp": false
+        },
+        {
+          "symbol": "6442",
+          "name": "光聖",
+          "point": "8月營收年增152.24％",
+          "limitUp": false
+        }
+      ],
+      "background": "法說會旺季展開，蔚華科受惠AI先進封裝檢測需求，光聖則因AI資料中心需求大增，兩者營運皆顯著成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOY3ZfM1lNallwVFhRS3JGWmtCY2ZrVTF0RHNISC1XNFVscS1TSFNxMktUREExb2l6eUh4RVI1X3VzTUVYd2xRRm1icVVtLTB0RUZXdDFKYVk3b1hfNW9VN0h3Mi1PY0IyS3czalhFTk1Ed2ZBTTZ1cjN4WE54TXo2VEhsNkFON2F2",
+      "tkey": "熱門族群無懼民俗月影響和泰車、汎德永業逆勢績昂",
+      "title": "《熱門族群》無懼民俗月影響 和泰車、汎德永業逆勢績昂 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6299661001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 11 Sep 2026 00:06:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2207",
+          "name": "和泰車",
+          "point": "8月營收年增10.57％",
+          "limitUp": false
+        },
+        {
+          "symbol": "2247",
+          "name": "汎德永業",
+          "point": "8月營收年增0.71％",
+          "limitUp": false
+        },
+        {
+          "symbol": "2201",
+          "name": "裕隆",
+          "point": "8月營收年減2.02％",
+          "limitUp": false
+        },
+        {
+          "symbol": "2227",
+          "name": "裕日車",
+          "point": "8月營收年減3.47％",
+          "limitUp": false
+        },
+        {
+          "symbol": "2204",
+          "name": "中華",
+          "point": "8月營收年減3.04％",
+          "limitUp": false
+        },
+        {
+          "symbol": "2206",
+          "name": "三陽",
+          "point": "8月營收年減0.22％",
+          "limitUp": false
+        }
+      ],
+      "background": "儘管民俗月影響車市，和泰車與汎德永業受惠新車款及經銷事業併表效益，8月營收逆勢成長，其他車廠則小幅年減。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOZWlGejYtSHhjbGVES2dZNEtCSEM4OTRFVGh2WXFRSnA0ODFqR2xseE5kQWhzbzNWSzRXWF9oeWQyRHBjcVJnWmV6Vk5xOVBQTVpLSi1WN2swY2tFdTBNaGRGSjFmamt3UE8xbEZxQUVBcjI0WEUzMDBxTmtydGJ2bl84cjNuUndK",
+      "tkey": "熱門族群PCB三雄8月營收齊創高",
+      "title": "《熱門族群》PCB三雄 8月營收齊創高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6299654001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 11 Sep 2026 00:06:00 GMT",
+      "stocks": [
+        {
+          "symbol": "5439",
+          "name": "高技",
+          "point": "8月營收創單月歷史新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "8155",
+          "name": "博智",
+          "point": "8月營收創單月歷史新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "6924",
+          "name": "榮惠-KY",
+          "point": "8月營收創單月歷史新高",
+          "limitUp": true,
+          "pct": 9.7
+        }
+      ],
+      "background": "PCB三雄受惠AI伺服器及高階運算需求，8月營收同步創歷史新高，並持續升級高層數板與布局液冷相關產品。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPcTZfMnpHY3E3Qlk2Q2cyOUQ4SUYtOG9KbWM3dkRRdFp3X2lyVWZzU0kzZkFNZzFyb0Z4TWd2VmkwWG5CbEt6dkh5WnRFVGRTVDRBdF9KTU9lX2czQ0lHZ1N1bzdscGVOUmI5ZUt5T2FxQ0pIalRyMEVzeTBVUHo5amk1M3NCUllF",
+      "tkey": "熱門族群資產活化中華電8月封王！台灣大前8月EPS仍居三雄之首",
+      "title": "《熱門族群》資產活化中華電8月封王！台灣大前8月EPS仍居三雄之首 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6299416001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 10 Sep 2026 23:34:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2412",
+          "name": "中華電",
+          "point": "8月獲利居三雄之冠",
+          "status": "逼近新高",
+          "dist": -2.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "point": "前8月EPS仍居三雄之首",
+          "status": "創新高",
+          "dist": -0.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "point": "8月營收刷新單月歷史新高",
+          "status": "逼近新高",
+          "dist": -4.4,
+          "limitUp": false
+        }
+      ],
+      "background": "電信三雄受惠5G升級、AI及企業資通訊需求，8月營運均維持成長動能，中華電因資產活化獲利跳升，台灣大前8月EPS領先。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiWEFVX3lxTE1QQndJcmppY3VvQWFDekxkOUV2emZoWU90RE45QjFpY0xsYlFzT0wzaTRwaGRTN3pYZFlqLU0tVVk1MUxVUlh5Q2ZNLUxBRWJTbTVqbVVLUHc",
       "tkey": "3017奇鋐-熱門族群iPhoneDuo亮相外資點名6大受惠股-股市爆料同學會",
@@ -754,343 +1117,6 @@
       "stocks": [],
       "background": "金融股在市場不確定性高時常被視為避風港，因其獲利穩定且股息殖利率相對較高，吸引尋求穩健報酬的資金流入。",
       "themeTags": []
-    },
-    {
-      "gid": "CBMiWEFVX3lxTE04bkJmcEoza2REc1YtdFBiM2gzcEtpc041SHhTNW94M3BOLXRUWWgwVDhYdWNZU1BkQ2N2ek1XQzNkNVY4dDFTbldPUDBfV1dBXzBobUpINGc",
-      "tkey": "熱門族群油價回落航空股喜迎暑假旺季",
-      "title": "熱門族群》油價回落 航空股喜迎暑假旺季 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/vacpbjnuybnb",
-      "source": "自由時報",
-      "pubDate": "Wed, 09 Sep 2026 12:57:32 GMT",
-      "stocks": [],
-      "background": "國際油價回落降低航空公司的營運成本，加上暑假旅遊旺季來臨，航空客運需求增加，有助於提升航空股的獲利表現。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNTUlreFZpRV9Sb2tFM2tRSUVsN01lWnVkeWFfZFJwM3c2VUFkQm5rZzZYYkMwbG1CWThheks5RmQzVTBUbEVOQWhDWDB5YmVqc1k0eGxJNWltXzZ6Y29tU09xOUI1bG5GalFtVXdYUmV2V2h0dmwtOFFfMTB2bkNlTFlqcHpPVTFQ",
-      "tkey": "熱門族群沾蘋果光？光學二哥天價鎖紅燈大立光帶小兵搭北上列車",
-      "title": "《熱門族群》沾蘋果光？光學二哥天價鎖紅燈 大立光帶小兵搭北上列車 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6296663001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Wed, 09 Sep 2026 04:10:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3008",
-          "name": "大立光",
-          "point": "帶領光學族群",
-          "status": "高檔修正",
-          "dist": -13.6,
-          "limitUp": false
-        }
-      ],
-      "background": "光學鏡頭產業受惠於蘋果新機題材，市場預期需求將回溫，帶動相關供應鏈股價表現。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxOQkVtTWMtMHF2b1VWQk5qcnNDX3dYSWNwcllFekxwTnFmcEx2WHZRNVJvWHBjWGNzc05RRW5aX2Z3aWJXek53Ylp4VjU3S0dLcjFuTlNwREJDMjVzeWd4Z01mZXhCeHF3QUIwZGJqdldTV3ZCRkdwc2huYnljek5rTmFmNzBWczlp",
-      "tkey": "熱門族群沾蘋果光？光學二哥天價鎖紅燈大立光帶小兵搭北上列車-ww2.money",
-      "title": "《熱門族群》沾蘋果光？光學二哥天價鎖紅燈 大立光帶小兵搭北上列車 - ww2.money-link.com.tw",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6296663001&PU=0010",
-      "source": "ww2.money-link.com.tw",
-      "pubDate": "Wed, 09 Sep 2026 04:10:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3008",
-          "name": "大立光",
-          "point": "止血回升6%"
-        },
-        {
-          "symbol": "3406",
-          "name": "玉晶光",
-          "point": "急攻漲停寫天價",
-          "status": "逼近新高",
-          "dist": -4.9,
-          "luw": 1,
-          "luwd": [
-            "9/9"
-          ]
-        },
-        {
-          "symbol": "6668",
-          "name": "中揚光",
-          "point": "跟進轉搭北上列車"
-        },
-        {
-          "symbol": "3504",
-          "name": "揚明光",
-          "point": "跟進轉搭北上列車"
-        },
-        {
-          "symbol": "3019",
-          "name": "亞光",
-          "point": "跟進轉搭北上列車"
-        },
-        {
-          "symbol": "6209",
-          "name": "今國光",
-          "point": "跟進轉搭北上列車"
-        },
-        {
-          "symbol": "3441",
-          "name": "聯一光",
-          "point": "跟進轉搭北上列車",
-          "status": "逼近新高",
-          "dist": -3.8
-        },
-        {
-          "symbol": "6859",
-          "name": "伯特光",
-          "point": "跟進轉搭北上列車"
-        },
-        {
-          "symbol": "3362",
-          "name": "先進光",
-          "point": "跟進轉搭北上列車"
-        }
-      ],
-      "background": "光學族群受惠蘋果新品發表，鏡頭升級與CPO光通訊布局題材帶動，大立光與玉晶光為主要指標廠。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiakFVX3lxTE5oNFpDNHpaRTgzcjd0UFEwLWstT3F6N0hpWk1RdDVrWlNvbjF6c0k1bzBDRUxoMmlWOUFKU09MNmV5Y05VNVl1cWd3NDg4R1hON2llN3JrWkhvQkdiaml1Y2stZHdtSXlPZHc",
-      "tkey": "熱門族群友達帶頭噴！面板雙虎來真的？專家這樣說-上市櫃",
-      "title": "《熱門族群》友達帶頭噴！面板雙虎來真的？專家這樣說- 上市櫃 - 旺得富理財網",
-      "url": "https://wantrich.chinatimes.com/news/20260909900250-420101",
-      "source": "旺得富理財網",
-      "pubDate": "Wed, 09 Sep 2026 03:12:14 GMT",
-      "stocks": [
-        {
-          "symbol": "2409",
-          "name": "友達",
-          "point": "帶頭噴漲逾5%高居人氣冠軍",
-          "limitUp": false
-        },
-        {
-          "symbol": "3481",
-          "name": "群創",
-          "point": "強彈逾5%高居人氣亞軍",
-          "limitUp": false
-        },
-        {
-          "symbol": "6116",
-          "name": "彩晶",
-          "point": "價量俱揚強彈4%",
-          "limitUp": false
-        },
-        {
-          "symbol": "2330",
-          "name": "台積電",
-          "point": "ADR上漲2.35%支撐股價續強",
-          "status": "逼近新高",
-          "dist": -2.2,
-          "limitUp": false
-        },
-        {
-          "symbol": "2382",
-          "name": "廣達",
-          "point": "回神反彈",
-          "limitUp": false
-        },
-        {
-          "symbol": "3008",
-          "name": "大立光",
-          "point": "回神反彈",
-          "status": "高檔修正",
-          "dist": -13.3,
-          "limitUp": false
-        }
-      ],
-      "background": "面板產業受惠年底旺季需求，電視、MNT、NB面板價格有望持平，加上資產活化與AI應用布局，吸引資金青睞，產業景氣有觸底回升跡象。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxOZThxR20tQmpPNDRDMDE4OUhwbXFScjgxNzY5S2hfTVNrVHczWlNOdlJiME9WVUFIMW1FVHdGZFRHMXdyV05RVUxHRTVuei1yWUZOSDRjeEw2ZWZIZTh2Y3VvSnJ0TEdZcEdZZ0FVSnBOSjZwWFUwZlBtX0hZT19JQnZDNldZMEtF",
-      "tkey": "熱門族群台塑集團多點開花南電攻漲停台塑化奪回85關",
-      "title": "《熱門族群》台塑集團多點開花 南電攻漲停 台塑化奪回85關 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6296554001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Wed, 09 Sep 2026 02:48:00 GMT",
-      "stocks": [
-        {
-          "symbol": "6505",
-          "name": "台塑化",
-          "point": "大漲逾8%站上85元",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "9/9"
-          ]
-        },
-        {
-          "symbol": "1326",
-          "name": "台化",
-          "point": "同步上揚逾3%",
-          "limitUp": false
-        },
-        {
-          "symbol": "1301",
-          "name": "台塑",
-          "point": "同步上揚逾3%",
-          "limitUp": false
-        },
-        {
-          "symbol": "1303",
-          "name": "南亞",
-          "point": "股價在240元附近整理",
-          "status": "逼近新高",
-          "dist": -4.6,
-          "limitUp": false
-        },
-        {
-          "symbol": "8046",
-          "name": "南電",
-          "point": "強勢攻上漲停",
-          "limitUp": false
-        },
-        {
-          "symbol": "3532",
-          "name": "台勝科",
-          "point": "盤中一度上漲逾半根漲停板",
-          "limitUp": false
-        },
-        {
-          "symbol": "2408",
-          "name": "南亞科",
-          "point": "股價呈現高檔震盪",
-          "limitUp": false
-        }
-      ],
-      "background": "台塑集團受中東戰火推升國際原油價格，帶動石化本業獲利預期，同時集團內電子事業如ABF載板與記憶體也因市場需求而表現亮眼。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNdVlULXdoaGRaa0xKdE56YUhZd3VwcGNoYVFBd3N2UnNmM1M1dzhWOERQU0JxZTNYRGs4TWZPMW52djF4SHNWWWJMRHFaSjYwSjlVQUk2WE81ZjBfQ3lsV0dzbDA3OUxPUndBTVpiaWV4Yl9tR3dyMG1YM2k3UlNGeVl2dGdFTHlj",
-      "tkey": "熱門族群欣興重返千元大關載板三雄反攻",
-      "title": "《熱門族群》欣興重返千元大關 載板三雄反攻 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6296555001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Wed, 09 Sep 2026 02:48:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3037",
-          "name": "欣興",
-          "point": "重登千元大關",
-          "limitUp": false
-        },
-        {
-          "symbol": "8046",
-          "name": "南電",
-          "point": "更強攻漲停",
-          "limitUp": false
-        },
-        {
-          "symbol": "3189",
-          "name": "景碩",
-          "point": "也大漲",
-          "limitUp": false,
-          "status": "高檔修正",
-          "dist": -14.2
-        },
-        {
-          "symbol": "4958",
-          "name": "臻鼎-KY",
-          "point": "小漲股價相對強勢",
-          "limitUp": false
-        }
-      ],
-      "background": "ABF載板產業受惠於高階載板出貨與PCB傳統旺季，尤其AI應用需求持續增長，帶動欣興、南電等載板三雄營收創新高，產業景氣復甦。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxONGxxUHIyTG1rUExCN25HbVJZUHpCekNBT1h2cjVDOGgybnVJb1dNTUNUT0VHakdOWGtoaEdnTXN0d2o2dXd1YllYeUoyNkxUcnpRWjZGQ2FiOG1vXzJvTGVnYVJHWjFuMUlCMGtyTC1oQUVyejV3cFBkTXBCZFBCWmI5bmRBdWNm",
-      "tkey": "熱門族群台塑集團多點開花南電攻漲停台塑化奪回85關-ww2.money",
-      "title": "《熱門族群》台塑集團多點開花 南電攻漲停 台塑化奪回85關 - ww2.money-link.com.tw",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6296554001&PU=1002",
-      "source": "ww2.money-link.com.tw",
-      "pubDate": "Wed, 09 Sep 2026 02:48:00 GMT",
-      "stocks": [
-        {
-          "symbol": "8046",
-          "name": "南電",
-          "point": "ABF載板題材帶動攻漲停",
-          "limitUp": false
-        },
-        {
-          "symbol": "6505",
-          "name": "台塑化",
-          "point": "國際原油期貨價格攀高",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "9/9"
-          ]
-        },
-        {
-          "symbol": "1326",
-          "name": "台化",
-          "point": "國際原油期貨價格攀高",
-          "limitUp": false
-        },
-        {
-          "symbol": "1301",
-          "name": "台塑",
-          "point": "國際原油期貨價格攀高",
-          "limitUp": false
-        },
-        {
-          "symbol": "1303",
-          "name": "南亞",
-          "point": "股價高檔震盪整理",
-          "status": "逼近新高",
-          "dist": -5.4,
-          "limitUp": false
-        },
-        {
-          "symbol": "3532",
-          "name": "台勝科",
-          "point": "12吋新廠產能挹注",
-          "limitUp": false
-        },
-        {
-          "symbol": "2408",
-          "name": "南亞科",
-          "point": "全球記憶體缺貨",
-          "limitUp": false
-        }
-      ],
-      "background": "中東戰火推升國際原油價格，帶動台塑集團相關個股走強。同時，ABF載板與記憶體產業受需求與缺貨題材支撐。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTE5MMjNoVW8tekthUnlscUdWbV8zT1NZWWlXQ1VWQVozMnkxejJBUGtQcVd3VUhmN2Z6aFJycUItMUZuMy1rRFdwUElfQnVaVUFoTEtJXzF1Yy0",
-      "tkey": "熱門族群LED延伸高附加價值市場追逐新焦點",
-      "title": "熱門族群》LED延伸高附加價值 市場追逐新焦點 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/kylh7xby8ge8",
-      "source": "自由時報",
-      "pubDate": "Tue, 08 Sep 2026 22:32:25 GMT",
-      "stocks": [],
-      "background": "LED 產業透過技術創新與應用拓展，從傳統照明轉向高附加價值的利基市場，如車用、顯示器或特殊照明，以提升產品競爭力。",
-      "themeTags": [
-        "需求驅動"
-      ]
     }
   ]
 }
