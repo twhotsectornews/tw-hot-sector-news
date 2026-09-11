@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "updatedAt": "2026-09-11T03:04:05.793Z",
+  "updatedAt": "2026-09-11T04:05:14.258Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE04bkJmcEoza2REc1YtdFBiM2gzcEtpc041SHhTNW94M3BOLXRUWWgwVDhYdWNZU1BkQ2N2ek1XQzNkNVY4dDFTbldPUDBfV1dBXzBobUpINGc",
@@ -10,7 +10,20 @@
       "source": "自由時報",
       "pubDate": "Wed, 09 Sep 2026 12:57:32 GMT",
       "stocks": [],
-      "background": "國際油價回落降低航空公司的營運成本，加上暑假旅遊旺季來臨，航空客運需求增加，有助於提升航空股的獲利表現。",
+      "background": "國際油價回落降低航空公司的營運成本，加上暑假旅遊旺季來臨，預期客運需求增加，有助於航空股獲利。",
+      "themeTags": [
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE5MMjNoVW8tekthUnlscUdWbV8zT1NZWWlXQ1VWQVozMnkxejJBUGtQcVd3VUhmN2Z6aFJycUItMUZuMy1rRFdwUElfQnVaVUFoTEtJXzF1Yy0",
+      "tkey": "熱門族群LED延伸高附加價值市場追逐新焦點",
+      "title": "熱門族群》LED延伸高附加價值 市場追逐新焦點 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/kylh7xby8ge8",
+      "source": "自由時報",
+      "pubDate": "Wed, 09 Sep 2026 06:38:21 GMT",
+      "stocks": [],
+      "background": "LED產業透過技術升級，開發高附加價值應用，如Mini/Micro LED，以提升產品單價與毛利，擺脫傳統照明的價格競爭。",
       "themeTags": [
         "需求驅動"
       ]
@@ -53,9 +66,9 @@
         {
           "symbol": "3406",
           "name": "玉晶光",
-          "point": "急攻漲停寫天價",
+          "point": "強鎖漲停寫天價",
           "status": "逼近新高",
-          "dist": -4.9,
+          "dist": -4.8,
           "luw": 1,
           "luwd": [
             "9/9"
@@ -85,8 +98,8 @@
           "symbol": "3441",
           "name": "聯一光",
           "point": "跟進轉搭北上列車",
-          "status": "逼近新高",
-          "dist": -3.8
+          "status": "創新高",
+          "dist": 0
         },
         {
           "symbol": "6859",
@@ -99,7 +112,7 @@
           "point": "跟進轉搭北上列車"
         }
       ],
-      "background": "光學族群受惠蘋果新品發表，鏡頭升級與CPO光通訊布局題材帶動，大立光與玉晶光為主要指標廠。",
+      "background": "蘋果新品發表會預期將帶動鏡頭升級與CPO光通訊需求，激勵光學族群股價表現，市場資金重新聚焦相關題材。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
@@ -322,19 +335,6 @@
         }
       ],
       "background": "中東戰火推升國際原油價格，帶動台塑集團相關個股走強。同時，ABF載板與記憶體產業受需求與缺貨題材支撐。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTE5MMjNoVW8tekthUnlscUdWbV8zT1NZWWlXQ1VWQVozMnkxejJBUGtQcVd3VUhmN2Z6aFJycUItMUZuMy1rRFdwUElfQnVaVUFoTEtJXzF1Yy0",
-      "tkey": "熱門族群LED延伸高附加價值市場追逐新焦點",
-      "title": "熱門族群》LED延伸高附加價值 市場追逐新焦點 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/kylh7xby8ge8",
-      "source": "自由時報",
-      "pubDate": "Tue, 08 Sep 2026 22:32:25 GMT",
-      "stocks": [],
-      "background": "LED 產業透過技術創新與應用拓展，從傳統照明轉向高附加價值的利基市場，如車用、顯示器或特殊照明，以提升產品競爭力。",
       "themeTags": [
         "需求驅動"
       ]

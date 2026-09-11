@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-11T11:04:05.796+08:00",
-  "generatedAt": "2026-09-11T03:04:05.796Z",
+  "asOf": "2026-09-11T12:05:14.261+08:00",
+  "generatedAt": "2026-09-11T04:05:14.261Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -19,6 +19,60 @@
       ],
       "mentions": 10,
       "limitUp": false
+    },
+    {
+      "symbol": "6505",
+      "name": "台塑化",
+      "days": 4,
+      "dates": [
+        "9/11",
+        "9/9",
+        "9/8",
+        "9/7"
+      ],
+      "mentions": 9,
+      "luw": 1,
+      "luwd": [
+        "9/9"
+      ]
+    },
+    {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 4,
+      "dates": [
+        "9/11",
+        "9/9",
+        "9/8",
+        "9/7"
+      ],
+      "mentions": 9,
+      "status": "逼近新高",
+      "dist": -5.4
+    },
+    {
+      "symbol": "1301",
+      "name": "台塑",
+      "days": 4,
+      "dates": [
+        "9/11",
+        "9/9",
+        "9/8",
+        "9/7"
+      ],
+      "mentions": 9
+    },
+    {
+      "symbol": "1326",
+      "name": "台化",
+      "days": 4,
+      "dates": [
+        "9/11",
+        "9/9",
+        "9/8",
+        "9/7"
+      ],
+      "mentions": 9
     },
     {
       "symbol": "2330",
@@ -65,61 +119,6 @@
         "9/5"
       ],
       "mentions": 4,
-      "limitUp": false
-    },
-    {
-      "symbol": "6505",
-      "name": "台塑化",
-      "days": 3,
-      "dates": [
-        "9/9",
-        "9/8",
-        "9/7"
-      ],
-      "mentions": 8,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 1,
-      "luwd": [
-        "9/9"
-      ]
-    },
-    {
-      "symbol": "1326",
-      "name": "台化",
-      "days": 3,
-      "dates": [
-        "9/9",
-        "9/8",
-        "9/7"
-      ],
-      "mentions": 8,
-      "limitUp": false
-    },
-    {
-      "symbol": "1301",
-      "name": "台塑",
-      "days": 3,
-      "dates": [
-        "9/9",
-        "9/8",
-        "9/7"
-      ],
-      "mentions": 8,
-      "limitUp": false
-    },
-    {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 3,
-      "dates": [
-        "9/9",
-        "9/8",
-        "9/7"
-      ],
-      "mentions": 8,
-      "status": "逼近新高",
-      "dist": -4.6,
       "limitUp": false
     },
     {
@@ -397,6 +396,46 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQUllfRjJZNTMwbWU4MWJObl9mSUY1OU9wb0g3SDJPOExyOEJmWDVaZWNraWxwSEgwbUM5cE1oZlZxTUo3LWFHMVhGSHBUaTl1dVJPSklaWFRENXF0YWhMREJwaFFqUC1DaWphZUFSY1BsX180ak4yMTM2OEFQNndiYXQtQ18tWjB0",
+      "tkey": "熱門族群油價助威台塑化創波段高台塑四寶一強三弱-ww2.money",
+      "title": "《熱門族群》油價助威 台塑化創波段高 台塑四寶「一強三弱」 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6300014001&PU=1002",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Fri, 11 Sep 2026 03:03:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "油價助威創波段高",
+          "luw": 1,
+          "luwd": [
+            "9/9"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "盤中下跌約3%",
+          "status": "逼近新高",
+          "dist": -5.4
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "股價走弱"
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "股價走弱"
+        }
+      ],
+      "background": "國際油價受中東地緣政治影響持續飆漲，帶動原油及石化產品報價上揚，使台塑化等相關企業營收成長。",
+      "themeTags": [
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNLXZYajh5QkpoNU1HOEhuSnNnQlJnd1hBM211RnBPUzZBNjM0alZrNmJ5anNoNi1DcVN2UGJTeTNCRDdWaFNtcThMdWxweGFiTi1kNlN6cW1rZm1pZGVNU005Ty1GVDgwbzZfOGlZbjZqU01SZkxReTM3dE5oUkFTTHBKRFJXdnBH",
       "tkey": "熱門族群規格升級帶動單機價值增蘋果新機亮相蘋概股沾光",
