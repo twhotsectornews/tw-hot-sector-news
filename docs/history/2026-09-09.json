@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "updatedAt": "2026-09-11T04:05:14.258Z",
+  "updatedAt": "2026-09-11T05:02:06.235Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE04bkJmcEoza2REc1YtdFBiM2gzcEtpc041SHhTNW94M3BOLXRUWWgwVDhYdWNZU1BkQ2N2ek1XQzNkNVY4dDFTbldPUDBfV1dBXzBobUpINGc",
@@ -10,9 +10,9 @@
       "source": "自由時報",
       "pubDate": "Wed, 09 Sep 2026 12:57:32 GMT",
       "stocks": [],
-      "background": "國際油價回落降低航空公司的營運成本，加上暑假旅遊旺季來臨，預期客運需求增加，有助於航空股獲利。",
+      "background": "油價下跌降低航空公司的燃油成本，加上暑假旅遊旺季來臨，有助於提升載客率與營收，改善獲利表現。",
       "themeTags": [
-        "循環位置"
+        "需求驅動"
       ]
     },
     {
@@ -23,7 +23,7 @@
       "source": "自由時報",
       "pubDate": "Wed, 09 Sep 2026 06:38:21 GMT",
       "stocks": [],
-      "background": "LED產業透過技術升級，開發高附加價值應用，如Mini/Micro LED，以提升產品單價與毛利，擺脫傳統照明的價格競爭。",
+      "background": "LED產業從傳統照明轉型，聚焦高附加價值應用，如車用、Mini/Micro LED顯示器等，以提升產品單價與毛利。",
       "themeTags": [
         "需求驅動"
       ]

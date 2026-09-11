@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-11T12:05:14.261+08:00",
-  "generatedAt": "2026-09-11T04:05:14.261Z",
+  "asOf": "2026-09-11T13:02:06.241+08:00",
+  "generatedAt": "2026-09-11T05:02:06.241Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -31,6 +31,7 @@
         "9/7"
       ],
       "mentions": 9,
+      "limitUp": false,
       "luw": 1,
       "luwd": [
         "9/9"
@@ -48,7 +49,8 @@
       ],
       "mentions": 9,
       "status": "逼近新高",
-      "dist": -5.4
+      "dist": -5.4,
+      "limitUp": false
     },
     {
       "symbol": "1301",
@@ -60,7 +62,8 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 9
+      "mentions": 9,
+      "limitUp": false
     },
     {
       "symbol": "1326",
@@ -72,7 +75,8 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 9
+      "mentions": 9,
+      "limitUp": false
     },
     {
       "symbol": "2330",
@@ -408,6 +412,7 @@
           "symbol": "6505",
           "name": "台塑化",
           "point": "油價助威創波段高",
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "9/9"
@@ -418,17 +423,20 @@
           "name": "南亞",
           "point": "盤中下跌約3%",
           "status": "逼近新高",
-          "dist": -5.4
+          "dist": -5.4,
+          "limitUp": false
         },
         {
           "symbol": "1301",
           "name": "台塑",
-          "point": "股價走弱"
+          "point": "股價走弱",
+          "limitUp": false
         },
         {
           "symbol": "1326",
           "name": "台化",
-          "point": "股價走弱"
+          "point": "股價走弱",
+          "limitUp": false
         }
       ],
       "background": "國際油價受中東地緣政治影響持續飆漲，帶動原油及石化產品報價上揚，使台塑化等相關企業營收成長。",
@@ -747,8 +755,7 @@
           "symbol": "6924",
           "name": "榮惠-KY",
           "point": "8月營收創單月歷史新高",
-          "limitUp": true,
-          "pct": 9.7
+          "limitUp": false
         }
       ],
       "background": "PCB三雄受惠AI伺服器及高階運算需求，8月營收同步創歷史新高，並持續升級高層數板與布局液冷相關產品。",
