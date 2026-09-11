@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-11T14:03:07.974+08:00",
-  "generatedAt": "2026-09-11T06:03:07.974Z",
+  "asOf": "2026-09-11T15:35:18.068+08:00",
+  "generatedAt": "2026-09-11T07:35:18.068Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -401,6 +401,19 @@
   ],
   "news": [
     {
+      "gid": "CBMiWEFVX3lxTE9scUtlbTdwQ3FXNVJrRWtNTjJSV2NQdzdaa1Jsc1VkVlp5YjAwWi1vUUVaYUE3ajdmbVJWb2hWeUtkTkczT0Jzd3JHUWI5ODRXa2tEVzNDcXM",
+      "tkey": "熱門族群AI需求旺到2030年晶圓代工產業迎榮景",
+      "title": "熱門族群》AI需求旺到2030年 晶圓代工產業迎榮景 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/7hmghe8jscxg",
+      "source": "自由時報",
+      "pubDate": "Fri, 11 Sep 2026 05:07:59 GMT",
+      "stocks": [],
+      "background": "AI技術快速發展，帶動晶圓代工產業需求，預期將持續成長至2030年，產業前景看好。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxQUllfRjJZNTMwbWU4MWJObl9mSUY1OU9wb0g3SDJPOExyOEJmWDVaZWNraWxwSEgwbUM5cE1oZlZxTUo3LWFHMVhGSHBUaTl1dVJPSklaWFRENXF0YWhMREJwaFFqUC1DaWphZUFSY1BsX180ak4yMTM2OEFQNndiYXQtQ18tWjB0",
       "tkey": "熱門族群油價助威台塑化創波段高台塑四寶一強三弱-ww2.money",
       "title": "《熱門族群》油價助威 台塑化創波段高 台塑四寶「一強三弱」 - ww2.money-link.com.tw",
@@ -795,10 +808,49 @@
           "symbol": "6924",
           "name": "榮惠-KY",
           "point": "8月營收創單月歷史新高",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.7
         }
       ],
       "background": "PCB三雄受惠AI伺服器及高階運算需求，8月營收同步創歷史新高，並持續升級高層數板與布局液冷相關產品。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTFBzNFJwUWtXOFpERFFSR0k5SXNqYTBjOG9IZm5kNnptTzFUU2czVXhRaWRoOGVxQklVT2p6NUdCUW9BV0RuUXpDYlFsbjBwRXRNZFd3VW55QnJreVlvT2d5T1hERzlqOUtoM3c",
+      "tkey": "熱門族群資產活化中華電8月封王！台灣大前8月EPS仍居三雄之首-上市櫃",
+      "title": "《熱門族群》資產活化中華電8月封王！台灣大前8月EPS仍居三雄之首- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260911900057-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Fri, 11 Sep 2026 00:01:14 GMT",
+      "stocks": [
+        {
+          "symbol": "2412",
+          "name": "中華電",
+          "point": "資產活化與本業成長，8月獲利居三雄之冠",
+          "status": "逼近新高",
+          "dist": -1.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "point": "前8月EPS居三雄之冠，受惠AI與資安需求",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false
+        },
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "point": "5G用戶與企業資通訊成長，8月營收獲利創新高",
+          "status": "逼近新高",
+          "dist": -3.5,
+          "limitUp": false
+        }
+      ],
+      "background": "電信三雄受惠5G升級、AI及企業資通訊需求，營運維持成長動能，中華電資產活化挹注獲利。",
       "themeTags": [
         "需求驅動"
       ]
