@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-12T18:44:04.617+08:00",
-  "generatedAt": "2026-09-12T10:44:04.617Z",
+  "asOf": "2026-09-12T20:51:24.025+08:00",
+  "generatedAt": "2026-09-12T12:51:24.025Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -19,6 +19,22 @@
         "9/7"
       ],
       "mentions": 10,
+      "limitUp": false
+    },
+    {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 5,
+      "dates": [
+        "9/12",
+        "9/11",
+        "9/10",
+        "9/9",
+        "9/7"
+      ],
+      "mentions": 6,
+      "status": "逼近新高",
+      "dist": -4.9,
       "limitUp": false
     },
     {
@@ -80,18 +96,16 @@
       "limitUp": false
     },
     {
-      "symbol": "2330",
-      "name": "台積電",
+      "symbol": "2408",
+      "name": "南亞科",
       "days": 4,
       "dates": [
-        "9/11",
-        "9/10",
+        "9/12",
         "9/9",
+        "9/8",
         "9/7"
       ],
       "mentions": 5,
-      "status": "逼近新高",
-      "dist": -4.9,
       "limitUp": false
     },
     {
@@ -120,18 +134,6 @@
       "dates": [
         "9/11",
         "9/10",
-        "9/7"
-      ],
-      "mentions": 4,
-      "limitUp": false
-    },
-    {
-      "symbol": "2408",
-      "name": "南亞科",
-      "days": 3,
-      "dates": [
-        "9/9",
-        "9/8",
         "9/7"
       ],
       "mentions": 4,
@@ -174,6 +176,19 @@
       "limitUp": false
     },
     {
+      "symbol": "6805",
+      "name": "富世達",
+      "days": 2,
+      "dates": [
+        "9/12",
+        "9/11"
+      ],
+      "mentions": 3,
+      "status": "高檔修正",
+      "dist": -11.7,
+      "limitUp": false
+    },
+    {
       "symbol": "3532",
       "name": "台勝科",
       "days": 2,
@@ -185,17 +200,42 @@
       "limitUp": false
     },
     {
-      "symbol": "6805",
-      "name": "富世達",
+      "symbol": "6770",
+      "name": "力積電",
       "days": 2,
       "dates": [
         "9/12",
-        "9/11"
+        "9/8"
       ],
       "mentions": 2,
-      "status": "高檔修正",
-      "dist": -11.7,
       "limitUp": false
+    },
+    {
+      "symbol": "3037",
+      "name": "欣興",
+      "days": 2,
+      "dates": [
+        "9/12",
+        "9/9"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2468",
+      "name": "華經",
+      "days": 2,
+      "dates": [
+        "9/12",
+        "9/10"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 10,
+      "luw": 1,
+      "luwd": [
+        "9/11"
+      ]
     },
     {
       "symbol": "1707",
@@ -278,6 +318,178 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOVjNuMjdUT2VfZWRLcTRHT1NrdTFYbHVlNGpTQjU4TG54eWlHNkNyNHpXQWlveC1qa0RyQ2JVZzVMTGktcERzOGdkZ2xXallRNXdxOGR2cWlXUW1ZcUlWeEFFNWNHeks3UkNRbE1IRXRHVXRwaFJvZ3UzVHJEZU41T28xUmt4dmJ0",
+      "tkey": "熱門族群15檔營收雙增強勢抗震",
+      "title": "《熱門族群》15檔營收雙增 強勢抗震 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6300864001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sat, 12 Sep 2026 08:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "營收雙增，獲三大法人買超",
+          "status": "逼近新高",
+          "dist": -4.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "營收雙增，獲三大法人買超",
+          "limitUp": false
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "營收雙增，獲三大法人買超",
+          "limitUp": false
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "營收雙增",
+          "limitUp": false
+        },
+        {
+          "symbol": "2360",
+          "name": "致茂",
+          "point": "營收雙增",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/7"
+          ]
+        },
+        {
+          "symbol": "6510",
+          "name": "精測",
+          "point": "營收雙增",
+          "limitUp": false
+        },
+        {
+          "symbol": "3167",
+          "name": "大量",
+          "point": "營收雙增",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/7"
+          ]
+        },
+        {
+          "symbol": "6533",
+          "name": "信驊",
+          "point": "營收雙增",
+          "limitUp": false
+        },
+        {
+          "symbol": "2303",
+          "name": "聯電",
+          "point": "營收雙增",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/7"
+          ]
+        },
+        {
+          "symbol": "1474",
+          "name": "富喬",
+          "point": "營收雙增",
+          "limitUp": false
+        },
+        {
+          "symbol": "3034",
+          "name": "聯詠",
+          "point": "營收雙增",
+          "status": "逼近新高",
+          "dist": -5.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "1560",
+          "name": "中砂",
+          "point": "營收雙增",
+          "status": "逼近新高",
+          "dist": -0.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "2455",
+          "name": "全新",
+          "point": "營收雙增",
+          "status": "逼近新高",
+          "dist": -7.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "2609",
+          "name": "陽明",
+          "point": "營收雙增",
+          "limitUp": false
+        },
+        {
+          "symbol": "6805",
+          "name": "富世達",
+          "point": "營收雙增",
+          "status": "高檔修正",
+          "dist": -11.7,
+          "limitUp": false
+        }
+      ],
+      "background": "台股高檔震盪，市場轉向聚焦基本面與籌碼面兼具的標的。這些公司7、8月營收年、月雙增，顯示營運動能持續升溫，且獲三大法人加碼，在大盤震盪期間相對有撐。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQTjFlWTNWbVplU01OMldxWC1RVDNnXzB2YS1XZ1ZYNk9jY192bGZLTjRVSXA4UHlqS25kSFNGSlB5UWhPZFJWWG84RG1ydmk4RVAyZkVhZWM2SGpBQUpVM19SbVdqbFJ2QVJwWTVMN3poQjh4VGNNbEZkcGpuMXZDOUVKN2VhOHMy",
+      "tkey": "熱門族群黃仁勳點名資安概念股飆",
+      "title": "《熱門族群》黃仁勳點名 資安概念股飆 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6300823001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sat, 12 Sep 2026 08:28:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2468",
+          "name": "華經",
+          "point": "爆量衝上漲停",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "9/11"
+          ]
+        },
+        {
+          "symbol": "6148",
+          "name": "驊宏資",
+          "point": "爆量衝上漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "7714",
+          "name": "創泓科技",
+          "point": "爆量衝上漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6214",
+          "name": "精誠",
+          "point": "收盤改寫歷史新高",
+          "status": "逼近新高",
+          "dist": -1,
+          "limitUp": false
+        }
+      ],
+      "background": "輝達執行長黃仁勳點名網路安全將是AI下一個大型應用領域，帶動資安概念股飆漲。AI技術的普及與企業應用深化，對網路安全的需求將大幅提升。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOVUp5WUFoSjZtZGNOaWozd2pnMTZ2RWRoa0hiN0U1SVQ2anlvV09UcU55MDlKU2dNQzZvSVZMYms0TVFud3I2N2xFcnB0UHlSR0ljQVA5WEZPQzRTRzFDVjBhTEtKREZaNDU1YWJrVC0yYlRud0oxUHljc2J2T2J6M2NrRkwyNFVL",
       "tkey": "熱門族群先進製程點火特化廠進補",
