@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-12T14:04:10.295+08:00",
-  "generatedAt": "2026-09-12T06:04:10.295Z",
+  "asOf": "2026-09-12T15:27:38.552+08:00",
+  "generatedAt": "2026-09-12T07:27:38.552Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -264,6 +264,64 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQMEtyb3dleTJ1WUFfVHFaYVdrT2Zsb3podGdsajYyVm1IYnlNUmtwaVc4U1c3bWRwWmNMZXhlS0E3RGhlbHZpTHplSTZ3ZkR4V3c2ZzJyc05pV2EwVVNocWdscXV2N3NMdk9mc295bTlSd3JPRHhCOGlMUFJlTFNGbld3ajdtbzFw",
+      "tkey": "熱門族群需求升溫力旺、M31營運剽悍",
+      "title": "《熱門族群》需求升溫 力旺、M31營運剽悍 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6300794001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sat, 12 Sep 2026 07:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3529",
+          "name": "力旺",
+          "point": "8月營收年增逾4成，3奈米先進製程貢獻",
+          "limitUp": false
+        },
+        {
+          "symbol": "6643",
+          "name": "M31",
+          "point": "8月營收年增逾7成，先進製程專案認列",
+          "limitUp": false
+        }
+      ],
+      "background": "矽智財（IP）業者受AI、HPC及先進製程晶片開案需求帶動，營運動能轉強。晶片安全與高速介面需求亦同步升溫，推升權利金成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNU2J5MDBWX2M5THFNdlU2cHA3MVU2Z1dYOEQzQU1KRjhqSEJLVm5fY1RIR2ZBclJRRGlNQU10dXQ5Ty1kVm5uaTU0Nkk4akxrZll1b2ZjSHc1YXA0UmY2MjIyeTJ4cXdkQWtoUjJZbWRTWVV6STY5ZHFrN2pYUElnOE9ZVmp5WXVv",
+      "tkey": "熱門族群朋億、銳澤、信紘科擴接單版圖",
+      "title": "《熱門族群》朋億、銳澤、信紘科擴接單版圖 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6300789001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sat, 12 Sep 2026 06:35:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6613",
+          "name": "朋億*",
+          "point": "大型專案執行進度加快",
+          "limitUp": false
+        },
+        {
+          "symbol": "7703",
+          "name": "銳澤",
+          "point": "積極將工程能力複製至日本、美國",
+          "limitUp": false
+        },
+        {
+          "symbol": "6667",
+          "name": "信紘科",
+          "point": "朝跨工種統包及多廠區標準化發展",
+          "limitUp": false
+        }
+      ],
+      "background": "半導體廠務工程受惠於AI、高效能運算及先進製程投資，需求持續升溫。台灣廠商積極擴大接單與服務範圍，並拓展海外市場。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPMVJPbzZtRFNLVWxpOWpTcUllVlpqUUxrSTVMUDVkV3FPTE0wcG1VdXNTUHRrMFMwazZ1ZTNXWFR5dkVaWUxtUmFldFR3aWc1ZVh6ZDB2WW1Idlc1cjIyYm13QWpZUndTX1gyMjRTVE9nRFdSRldvejBuZVF5bUdmdDFwd1EzUFY5",
       "tkey": "熱門族群高球代工四雄8月營運兩樣情",
