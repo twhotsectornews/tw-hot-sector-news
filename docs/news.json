@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-12T13:01:56.368+08:00",
-  "generatedAt": "2026-09-12T05:01:56.368Z",
+  "asOf": "2026-09-12T14:04:10.295+08:00",
+  "generatedAt": "2026-09-12T06:04:10.295Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -18,7 +18,7 @@
         "9/8",
         "9/7"
       ],
-      "mentions": 11,
+      "mentions": 10,
       "limitUp": false
     },
     {
@@ -162,41 +162,6 @@
       "limitUp": false
     },
     {
-      "symbol": "4958",
-      "name": "臻鼎-KY",
-      "days": 2,
-      "dates": [
-        "9/10",
-        "9/9"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "3376",
-      "name": "新日興",
-      "days": 2,
-      "dates": [
-        "9/10",
-        "9/7"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "3017",
-      "name": "奇鋐",
-      "days": 2,
-      "dates": [
-        "9/10",
-        "9/7"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -3.8,
-      "limitUp": false
-    },
-    {
       "symbol": "3532",
       "name": "台勝科",
       "days": 2,
@@ -252,6 +217,41 @@
       "limitUp": false
     },
     {
+      "symbol": "4958",
+      "name": "臻鼎-KY",
+      "days": 2,
+      "dates": [
+        "9/10",
+        "9/9"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3376",
+      "name": "新日興",
+      "days": 2,
+      "dates": [
+        "9/10",
+        "9/7"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3017",
+      "name": "奇鋐",
+      "days": 2,
+      "dates": [
+        "9/10",
+        "9/7"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -4.9,
+      "limitUp": false
+    },
+    {
       "symbol": "2382",
       "name": "廣達",
       "days": 2,
@@ -264,6 +264,45 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPMVJPbzZtRFNLVWxpOWpTcUllVlpqUUxrSTVMUDVkV3FPTE0wcG1VdXNTUHRrMFMwazZ1ZTNXWFR5dkVaWUxtUmFldFR3aWc1ZVh6ZDB2WW1Idlc1cjIyYm13QWpZUndTX1gyMjRTVE9nRFdSRldvejBuZVF5bUdmdDFwd1EzUFY5",
+      "tkey": "熱門族群高球代工四雄8月營運兩樣情",
+      "title": "《熱門族群》高球代工四雄 8月營運兩樣情 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6300767001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sat, 12 Sep 2026 03:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6670",
+          "name": "復盛應用",
+          "point": "受惠美系客戶拉貨，營收雙位數年增",
+          "limitUp": false
+        },
+        {
+          "symbol": "8938",
+          "name": "明安",
+          "point": "客戶拉貨分散，營收年增17.80%",
+          "limitUp": false
+        },
+        {
+          "symbol": "8924",
+          "name": "大田",
+          "point": "新廠產能未開出，營收表現受限",
+          "limitUp": false
+        },
+        {
+          "symbol": "8928",
+          "name": "鉅明",
+          "point": "客戶提貨時程調整，營收年減21.77%",
+          "limitUp": false
+        }
+      ],
+      "background": "高爾夫球桿頭代工產業進入傳統旺季，品牌廠新品改款週期拉長，但主力客戶備貨積極，產能利用率可望逐月走升。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiWEFVX3lxTE0xczUzZWN3STdtNlEyTjNPNEs5ZnNFbW4xeExlUmkyRXFNWVhJZkljTmtub2trYVYyNEJtVXA5YTlFOXByNU92aUFTVE1TZHlZcERJME5NRkw",
       "tkey": "熱門族群受惠CPO題材大立光領軍光學族群上衝",

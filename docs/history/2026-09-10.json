@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "updatedAt": "2026-09-12T05:01:56.364Z",
+  "updatedAt": "2026-09-12T06:04:10.292Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE1QQndJcmppY3VvQWFDekxkOUV2emZoWU90RE45QjFpY0xsYlFzT0wzaTRwaGRTN3pYZFlqLU0tVVk1MUxVUlh5Q2ZNLUxBRWJTbTVqbVVLUHc",
@@ -11,47 +11,44 @@
       "pubDate": "Thu, 10 Sep 2026 06:01:26 GMT",
       "stocks": [
         {
-          "symbol": "2308",
-          "name": "台達電",
-          "point": "iPhone Duo受惠供應商",
-          "limitUp": false
+          "symbol": "1528",
+          "name": "恩德",
+          "point": "8月營收亮眼，受惠關稅利多與AI題材",
+          "luw": 2,
+          "luwd": [
+            "9/11",
+            "9/8"
+          ]
         },
         {
-          "symbol": "4958",
-          "name": "臻鼎-KY",
-          "point": "iPhone Duo受惠供應商",
-          "limitUp": false
+          "symbol": "2468",
+          "name": "華經",
+          "point": "輝達AI資安策略刺激，股價衝上漲停",
+          "luw": 1,
+          "luwd": [
+            "9/11"
+          ]
         },
         {
-          "symbol": "3376",
-          "name": "新日興",
-          "point": "iPhone Duo受惠供應商",
-          "limitUp": false
+          "symbol": "6909",
+          "name": "創控",
+          "point": "受惠AI與HBM需求，營收創同期新高",
+          "luw": 1,
+          "luwd": [
+            "9/11"
+          ]
         },
         {
-          "symbol": "2383",
-          "name": "台光電",
-          "point": "iPhone Duo受惠供應商",
-          "limitUp": false
-        },
-        {
-          "symbol": "3008",
-          "name": "大立光",
-          "point": "iPhone Duo受惠供應商",
-          "limitUp": false
-        },
-        {
-          "symbol": "3017",
-          "name": "奇鋐",
-          "point": "iPhone Duo受惠供應商",
-          "status": "逼近新高",
-          "dist": -3.8,
-          "limitUp": false
+          "symbol": "3013",
+          "name": "晟銘電",
+          "point": "轉型AI伺服器液冷機櫃，營收動能放緩"
         }
       ],
-      "background": "蘋果正式發表首款摺疊機iPhone Duo，預期出貨量可觀，相關供應鏈可望受惠。AI水冷散熱題材亦持續發酵。",
+      "background": "AI伺服器、HBM與AI資安需求爆發，帶動半導體建廠與先進封裝擴產，相關供應鏈受惠，但部分公司成長動能放緩。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "國際大廠",
+        "政策關稅"
       ]
     },
     {
