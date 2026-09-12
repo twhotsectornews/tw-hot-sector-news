@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-12T15:27:38.552+08:00",
-  "generatedAt": "2026-09-12T07:27:38.552Z",
+  "asOf": "2026-09-12T17:43:24.012+08:00",
+  "generatedAt": "2026-09-12T09:43:24.012Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -138,6 +138,18 @@
       "limitUp": false
     },
     {
+      "symbol": "3376",
+      "name": "新日興",
+      "days": 3,
+      "dates": [
+        "9/12",
+        "9/10",
+        "9/7"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "3481",
       "name": "新日興",
       "days": 3,
@@ -170,6 +182,19 @@
         "9/7"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "6805",
+      "name": "富世達",
+      "days": 2,
+      "dates": [
+        "9/12",
+        "9/11"
+      ],
+      "mentions": 2,
+      "status": "高檔修正",
+      "dist": -11.7,
       "limitUp": false
     },
     {
@@ -228,17 +253,6 @@
       "limitUp": false
     },
     {
-      "symbol": "3376",
-      "name": "新日興",
-      "days": 2,
-      "dates": [
-        "9/10",
-        "9/7"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
       "symbol": "3017",
       "name": "奇鋐",
       "days": 2,
@@ -264,6 +278,105 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOVUp5WUFoSjZtZGNOaWozd2pnMTZ2RWRoa0hiN0U1SVQ2anlvV09UcU55MDlKU2dNQzZvSVZMYms0TVFud3I2N2xFcnB0UHlSR0ljQVA5WEZPQzRTRzFDVjBhTEtKREZaNDU1YWJrVC0yYlRud0oxUHljc2J2T2J6M2NrRkwyNFVL",
+      "tkey": "熱門族群先進製程點火特化廠進補",
+      "title": "《熱門族群》先進製程點火 特化廠進補 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6300815001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sat, 12 Sep 2026 07:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "4770",
+          "name": "上品",
+          "point": "受惠半導體擴廠，在手訂單大增",
+          "limitUp": false
+        },
+        {
+          "symbol": "4749",
+          "name": "新應材",
+          "point": "2奈米製程稼動率提升，8月營收新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "4772",
+          "name": "台特化",
+          "point": "矽乙烷產能利用率高，無水氟化氫量產",
+          "limitUp": false
+        }
+      ],
+      "background": "半導體先進製程投資與升級，帶動特用化學品需求大增，相關廠商營運進補，產業供應鏈布局加速。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNcmREdHlDclhjMnU0MnA5VER6Yy11bmQ4S25JZmNuTVZfNzc5a1JvM1RhblcyLTV6ckxycHFtaWFHMlIySWJiUVkzbDdLajlkSHdmLW5VWl9vZGc0bjE3VTEteHhOYkJoSjBBanZUS0d2Q1J5U3daTzNOdjFjeG1OYkhJQ3Q0N3RS",
+      "tkey": "熱門族群軸承四雄8月營收表現分歧",
+      "title": "《熱門族群》軸承四雄 8月營收表現分歧 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6300800001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sat, 12 Sep 2026 07:29:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3376",
+          "name": "新日興",
+          "point": "8月營收年減，供應蘋果折疊手機",
+          "limitUp": false
+        },
+        {
+          "symbol": "3548",
+          "name": "兆利",
+          "point": "8月營收年減，開發車用轉軸",
+          "limitUp": false
+        },
+        {
+          "symbol": "1582",
+          "name": "信錦",
+          "point": "8月營收年增，低軌衛星業務正向",
+          "limitUp": false
+        },
+        {
+          "symbol": "6805",
+          "name": "富世達",
+          "point": "8月營收歷史次高，受惠AI伺服器",
+          "status": "高檔修正",
+          "dist": -11.7,
+          "limitUp": false
+        }
+      ],
+      "background": "軸承產業受消費性電子需求疲軟影響，但AI伺服器、低軌衛星、車用等新應用成為成長動能，部分廠商營收表現分歧。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPZkIxRXZvc1ZlT3BQRHo2d3pzNm9SR2RPR0NLblJjaVAyTkpCVS1UVGtvMzF5N3VlbjdndHU4Vm4yemQyOWozRy1iZlhTcTZNTmpNN2Vvd2FyV3RPV3liUE1Ja0NZaHV6Zl9YQ2FJRVZYUE1WamtIUXJtVVVhMXFrZHFFWk1fRm9R",
+      "tkey": "熱門族群擷發、通寶跨足實體AI",
+      "title": "《熱門族群》擷發、通寶 跨足實體AI - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6300797001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sat, 12 Sep 2026 07:18:00 GMT",
+      "stocks": [
+        {
+          "symbol": "7796",
+          "name": "擷發科技",
+          "point": "取得AI智慧住宅專案，合約6.3億元",
+          "limitUp": false
+        },
+        {
+          "symbol": "7913",
+          "name": "通寶半導體",
+          "point": "8月營收年增近5.8倍，布局機器人無人機",
+          "limitUp": false
+        }
+      ],
+      "background": "AI客製化晶片商機從雲端擴散至邊緣應用，如智慧住宅、機器人、無人機等，帶動中小型IC設計業者成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQMEtyb3dleTJ1WUFfVHFaYVdrT2Zsb3podGdsajYyVm1IYnlNUmtwaVc4U1c3bWRwWmNMZXhlS0E3RGhlbHZpTHplSTZ3ZkR4V3c2ZzJyc05pV2EwVVNocWdscXV2N3NMdk9mc295bTlSd3JPRHhCOGlMUFJlTFNGbld3ajdtbzFw",
       "tkey": "熱門族群需求升溫力旺、M31營運剽悍",
