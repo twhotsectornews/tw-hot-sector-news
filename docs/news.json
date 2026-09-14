@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-14T12:05:12.303+08:00",
-  "generatedAt": "2026-09-14T04:05:12.303Z",
+  "asOf": "2026-09-14T13:08:47.892+08:00",
+  "generatedAt": "2026-09-14T05:08:47.892Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -160,27 +160,6 @@
       "limitUp": false
     },
     {
-      "symbol": "6690",
-      "name": "安碁資訊",
-      "days": 2,
-      "dates": [
-        "9/14",
-        "9/12"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "2449",
-      "name": "欣興",
-      "days": 2,
-      "dates": [
-        "9/12",
-        "9/10"
-      ],
-      "mentions": 3
-    },
-    {
       "symbol": "6805",
       "name": "富世達",
       "days": 2,
@@ -190,7 +169,7 @@
       ],
       "mentions": 3,
       "status": "高檔修正",
-      "dist": -10.5
+      "dist": -10.1
     },
     {
       "symbol": "2317",
@@ -204,41 +183,8 @@
       "limitUp": false
     },
     {
-      "symbol": "6689",
-      "name": "伊雲谷",
-      "days": 2,
-      "dates": [
-        "9/14",
-        "9/12"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "6811",
-      "name": "宏碁資訊",
-      "days": 2,
-      "dates": [
-        "9/14",
-        "9/12"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
       "symbol": "6148",
       "name": "驊宏資",
-      "days": 2,
-      "dates": [
-        "9/14",
-        "9/12"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3029",
-      "name": "零壹",
       "days": 2,
       "dates": [
         "9/14",
@@ -264,7 +210,7 @@
     },
     {
       "symbol": "3037",
-      "name": "信驊",
+      "name": "欣興",
       "days": 2,
       "dates": [
         "9/12",
@@ -384,6 +330,28 @@
       ]
     },
     {
+      "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
+      "tkey": "熱門族群龍頭聯發科創新高IC設計股搶發AI財",
+      "title": "熱門族群》龍頭聯發科創新高 IC設計股搶發AI財 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/k0bsc03rnawt",
+      "source": "自由時報",
+      "pubDate": "Mon, 14 Sep 2026 03:21:19 GMT",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "IC設計龍頭創新高",
+          "status": "逼近新高",
+          "dist": -7.4,
+          "limitUp": false
+        }
+      ],
+      "background": "AI 應用需求強勁，帶動 IC 設計龍頭營運成長，搶攻 AI 財。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNMkM0eVNTZHBHUm9pR1ZtYVpFNGcyOGxaY0VweFpPd1hrVGtZcWZzODB1WE9MajBvVGxRVGY0V19GdWNFNXJtZk53SHdMMU9maGhkeVhtN3E3dDZlT1BrQlc1RFhyWlEtMXowc01SNHd0SzFZUlEwU2RfVHk1LWdoMEl0Vlo0d0V2",
       "tkey": "熱門族群黃仁勳點名AI下一波商機資安族群多檔漲停",
       "title": "《熱門族群》黃仁勳點名AI下一波商機 資安族群多檔漲停 - 富聯網",
@@ -401,7 +369,8 @@
           "symbol": "7765",
           "name": "中華資安",
           "point": "AI下一波商機，資安概念股漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "2468",
