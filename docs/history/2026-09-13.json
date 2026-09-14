@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "updatedAt": "2026-09-14T03:03:46.400Z",
+  "updatedAt": "2026-09-14T04:05:12.299Z",
   "news": [
     {
       "gid": "CBMiX0FVX3lxTE56MGFSdU1DQTR3OW1weGFFNU1MbmpmYWlucXF2R0djTTVicnFGMHkybUxHVnNKdkI0eDNDMUFqWlVTNC15SHpKUTFwUGk1MEtWRGI1X2lCWVlHRERnNzBJ0gFkQVVfeXFMUDREaUNqQURMbHlqTjcyVXJRVjFtcFh4SE1uYTItTWU1VFk1QWpMaFdMcFdpdENKeExzR2E4TUZxYjdZTUdlUi1vM0VTNDJCZVJxdzhPUWtEeXV1aXdWaVVUT2tHTg",
@@ -54,9 +54,41 @@
       "url": "https://www.cmoney.tw/forum/article/184570933",
       "source": "CMoney",
       "pubDate": "Sat, 12 Sep 2026 22:17:59 GMT",
-      "stocks": [],
-      "background": "",
-      "themeTags": []
+      "stocks": [
+        {
+          "symbol": "1409",
+          "name": "新纖",
+          "point": "綠色紡品當道，添利基",
+          "luw": 1,
+          "luwd": [
+            "9/9"
+          ]
+        },
+        {
+          "symbol": "1402",
+          "name": "遠東新",
+          "point": "綠色紡品當道，添利基"
+        },
+        {
+          "symbol": "1434",
+          "name": "福懋",
+          "point": "綠色紡品當道，添利基"
+        },
+        {
+          "symbol": "1444",
+          "name": "力麗",
+          "point": "綠色紡品當道，添利基"
+        },
+        {
+          "symbol": "1476",
+          "name": "儒鴻",
+          "point": "積極採用環保回收紡品物料"
+        }
+      ],
+      "background": "全球品牌服飾廠提升環保材質標準，台灣紡纖廠因應ESG趨勢，加大綠色產品出貨比重。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiWEFVX3lxTFBsMm9YZFdPVS1abHBvSkN4VkV0M0RIUUQxQ1k0V3NQZExnM1lfYW1FU2c5bHA2Wkk4NmhSRkN3blhnUzJpRnNIU2h2aWU4NGhzVVVqVHotcmc",

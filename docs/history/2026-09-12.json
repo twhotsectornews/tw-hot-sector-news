@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "updatedAt": "2026-09-14T03:03:46.402Z",
+  "updatedAt": "2026-09-14T04:05:12.300Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOVjNuMjdUT2VfZWRLcTRHT1NrdTFYbHVlNGpTQjU4TG54eWlHNkNyNHpXQWlveC1qa0RyQ2JVZzVMTGktcERzOGdkZ2xXallRNXdxOGR2cWlXUW1ZcUlWeEFFNWNHeks3UkNRbE1IRXRHVXRwaFJvZ3UzVHJEZU41T28xUmt4dmJ0",
@@ -15,118 +15,98 @@
           "name": "台積電",
           "point": "營收雙增，獲三大法人買超",
           "status": "逼近新高",
-          "dist": -4.9,
-          "limitUp": false
+          "dist": -5.9
         },
         {
           "symbol": "2408",
           "name": "南亞科",
-          "point": "營收雙增，獲三大法人買超",
-          "limitUp": false
+          "point": "營收雙增，獲三大法人買超"
         },
         {
           "symbol": "6770",
           "name": "力積電",
-          "point": "營收雙增，獲三大法人買超",
-          "limitUp": false
+          "point": "營收雙增，獲三大法人買超"
+        },
+        {
+          "symbol": "2449",
+          "name": "欣興",
+          "point": "營收雙增，獲三大法人買超"
+        },
+        {
+          "symbol": "3702",
+          "name": "茂",
+          "point": "營收雙增，獲三大法人買超"
+        },
+        {
+          "symbol": "3598",
+          "name": "精測",
+          "point": "營收雙增，獲三大法人買超"
+        },
+        {
+          "symbol": "6435",
+          "name": "大量",
+          "point": "營收雙增，獲三大法人買超"
         },
         {
           "symbol": "3037",
-          "name": "欣興",
-          "point": "營收雙增",
-          "limitUp": false
-        },
-        {
-          "symbol": "2360",
-          "name": "致茂",
-          "point": "營收雙增",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "9/7"
-          ]
-        },
-        {
-          "symbol": "6510",
-          "name": "精測",
-          "point": "營收雙增",
-          "limitUp": false
-        },
-        {
-          "symbol": "3167",
-          "name": "大量",
-          "point": "營收雙增",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "9/7"
-          ]
-        },
-        {
-          "symbol": "6533",
           "name": "信驊",
-          "point": "營收雙增",
-          "limitUp": false
+          "point": "營收雙增，獲三大法人買超"
         },
         {
           "symbol": "2303",
           "name": "聯電",
-          "point": "營收雙增",
-          "limitUp": false,
+          "point": "營收雙增，獲三大法人買超",
           "luw": 1,
           "luwd": [
             "9/7"
           ]
         },
         {
-          "symbol": "1474",
+          "symbol": "3046",
           "name": "富喬",
-          "point": "營收雙增",
-          "limitUp": false
+          "point": "營收雙增，獲三大法人買超"
         },
         {
           "symbol": "3034",
           "name": "聯詠",
-          "point": "營收雙增",
+          "point": "營收雙增，獲三大法人買超",
           "status": "逼近新高",
-          "dist": -5.7,
-          "limitUp": false
+          "dist": -4.2
         },
         {
-          "symbol": "1560",
+          "symbol": "1101",
+          "name": "台泥",
+          "point": "營收雙增，獲三大法人買超"
+        },
+        {
+          "symbol": "1723",
           "name": "中砂",
-          "point": "營收雙增",
-          "status": "逼近新高",
-          "dist": -0.5,
-          "limitUp": false
+          "point": "營收雙增，獲三大法人買超"
         },
         {
-          "symbol": "2455",
+          "symbol": "3167",
           "name": "全新",
-          "point": "營收雙增",
-          "status": "逼近新高",
-          "dist": -7.2,
-          "limitUp": false
+          "point": "營收雙增，獲三大法人買超",
+          "luw": 1,
+          "luwd": [
+            "9/7"
+          ]
         },
         {
           "symbol": "2609",
           "name": "陽明",
-          "point": "營收雙增",
-          "limitUp": false
+          "point": "營收雙增，獲三大法人買超"
         },
         {
           "symbol": "6805",
           "name": "富世達",
-          "point": "營收雙增",
+          "point": "營收雙增，獲三大法人買超",
           "status": "高檔修正",
-          "dist": -11.7,
-          "limitUp": false
+          "dist": -10.5
         }
       ],
-      "background": "台股高檔震盪，市場轉向聚焦基本面與籌碼面兼具的標的。這些公司7、8月營收年、月雙增，顯示營運動能持續升溫，且獲三大法人加碼，在大盤震盪期間相對有撐。",
-      "themeTags": [
-        "需求驅動"
-      ]
+      "background": "7、8月營收年、月雙增，顯示營運動能升溫，股價穩站月線之上，獲三大法人加持。",
+      "themeTags": []
     },
     {
       "gid": "CBMiiAFBVV95cUxQTjFlWTNWbVplU01OMldxWC1RVDNnXzB2YS1XZ1ZYNk9jY192bGZLTjRVSXA4UHlqS25kSFNGSlB5UWhPZFJWWG84RG1ydmk4RVAyZkVhZWM2SGpBQUpVM19SbVdqbFJ2QVJwWTVMN3poQjh4VGNNbEZkcGpuMXZDOUVKN2VhOHMy",
@@ -139,9 +119,7 @@
         {
           "symbol": "2468",
           "name": "華經",
-          "point": "爆量衝上漲停",
-          "limitUp": true,
-          "pct": 10,
+          "point": "黃仁勳點名，資安概念股飆漲",
           "luw": 1,
           "luwd": [
             "9/11"
@@ -150,28 +128,44 @@
         {
           "symbol": "6148",
           "name": "驊宏資",
-          "point": "爆量衝上漲停",
-          "limitUp": false
+          "point": "黃仁勳點名，資安概念股飆漲"
         },
         {
           "symbol": "7714",
           "name": "創泓科技",
-          "point": "爆量衝上漲停",
-          "limitUp": false
+          "point": "黃仁勳點名，資安概念股飆漲"
         },
         {
           "symbol": "6214",
           "name": "精誠",
-          "point": "收盤改寫歷史新高",
+          "point": "營運亮眼，股價創歷史新高",
           "status": "逼近新高",
-          "dist": -1,
-          "limitUp": false
+          "dist": -1.6
+        },
+        {
+          "symbol": "6689",
+          "name": "伊雲谷",
+          "point": "資安概念股，大漲"
+        },
+        {
+          "symbol": "6690",
+          "name": "安碁資訊",
+          "point": "資安概念股，大漲"
+        },
+        {
+          "symbol": "3029",
+          "name": "零壹",
+          "point": "資安概念股，大漲"
+        },
+        {
+          "symbol": "6811",
+          "name": "宏碁資訊",
+          "point": "資安概念股，大漲"
         }
       ],
-      "background": "輝達執行長黃仁勳點名網路安全將是AI下一個大型應用領域，帶動資安概念股飆漲。AI技術的普及與企業應用深化，對網路安全的需求將大幅提升。",
+      "background": "黃仁勳點名網路安全為AI下一個重大應用，激勵資安概念股走強，營運表現亮眼。",
       "themeTags": [
-        "需求驅動",
-        "國際大廠"
+        "需求驅動"
       ]
     },
     {
@@ -185,26 +179,22 @@
         {
           "symbol": "4770",
           "name": "上品",
-          "point": "受惠半導體擴廠，在手訂單大增",
-          "limitUp": false
+          "point": "半導體氟素材料，訂單回升"
         },
         {
           "symbol": "4749",
           "name": "新應材",
-          "point": "2奈米製程稼動率提升，8月營收新高",
-          "limitUp": false
+          "point": "半導體客戶2奈米製程稼動率提升"
         },
         {
           "symbol": "4772",
           "name": "台特化",
-          "point": "矽乙烷產能利用率高，無水氟化氫量產",
-          "limitUp": false
+          "point": "矽乙烷產能利用率近九成"
         }
       ],
-      "background": "半導體先進製程投資與升級，帶動特用化學品需求大增，相關廠商營運進補，產業供應鏈布局加速。",
+      "background": "半導體製程升級帶動特用化學品需求，先進製程與封裝發展刺激新材料與特殊氣體需求。",
       "themeTags": [
-        "需求驅動",
-        "循環位置"
+        "需求驅動"
       ]
     },
     {
@@ -218,31 +208,27 @@
         {
           "symbol": "3376",
           "name": "新日興",
-          "point": "8月營收年減，供應蘋果折疊手機",
-          "limitUp": false
+          "point": "8月營收年減，消費電子保守"
         },
         {
           "symbol": "3548",
           "name": "兆利",
-          "point": "8月營收年減，開發車用轉軸",
-          "limitUp": false
+          "point": "8月營收年減，消費電子保守"
         },
         {
           "symbol": "1582",
           "name": "信錦",
-          "point": "8月營收年增，低軌衛星業務正向",
-          "limitUp": false
+          "point": "8月營收月減年增"
         },
         {
           "symbol": "6805",
           "name": "富世達",
-          "point": "8月營收歷史次高，受惠AI伺服器",
+          "point": "受惠AI伺服器需求，營收次高",
           "status": "高檔修正",
-          "dist": -11.7,
-          "limitUp": false
+          "dist": -10.5
         }
       ],
-      "background": "軸承產業受消費性電子需求疲軟影響，但AI伺服器、低軌衛星、車用等新應用成為成長動能，部分廠商營收表現分歧。",
+      "background": "軸承廠布局AI伺服器、低軌衛星等新應用，富世達受惠AI伺服器需求營收突出。",
       "themeTags": [
         "需求驅動"
       ]
@@ -274,6 +260,30 @@
       ]
     },
     {
+      "gid": "CBMiiAFBVV95cUxNejRpbTIxQWhOMmJrRjlmRDVIeGdNSWJwVDNIUjVjd3duMzZzalhaUkNFX3BLazZyYXk3YU9UaGhCaTVBczFsN0luYkxoZ3dTTFdvQ044SlVOSWo4MFQtNVFnRDNiSkowNjIyRXdxMjU3YnprOGVoVkxZNUV2STJ4cG9YS1ZhcENY",
+      "tkey": "熱門族群擷發、通寶跨足實體AI",
+      "title": "《熱門族群》擷發、通寶 跨足實體AI - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6300797001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sat, 12 Sep 2026 07:18:00 GMT",
+      "stocks": [
+        {
+          "symbol": "7796",
+          "name": "擷發科技",
+          "point": "跨足實體AI，取得智慧住宅專案"
+        },
+        {
+          "symbol": "7913",
+          "name": "通寶半導體",
+          "point": "跨足實體AI，晶片出貨及併購效益"
+        }
+      ],
+      "background": "AI客製化晶片商機擴散至智慧住宅、機器人等邊緣應用，中小型IC設計業者迎來成長契機。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxQMEtyb3dleTJ1WUFfVHFaYVdrT2Zsb3podGdsajYyVm1IYnlNUmtwaVc4U1c3bWRwWmNMZXhlS0E3RGhlbHZpTHplSTZ3ZkR4V3c2ZzJyc05pV2EwVVNocWdscXV2N3NMdk9mc295bTlSd3JPRHhCOGlMUFJlTFNGbld3ajdtbzFw",
       "tkey": "熱門族群需求升溫力旺、M31營運剽悍",
       "title": "《熱門族群》需求升溫 力旺、M31營運剽悍 - 富聯網",
@@ -284,17 +294,15 @@
         {
           "symbol": "3529",
           "name": "力旺",
-          "point": "8月營收年增逾4成，3奈米先進製程貢獻",
-          "limitUp": false
+          "point": "需求升溫，營運剽悍"
         },
         {
           "symbol": "6643",
           "name": "M31",
-          "point": "8月營收年增逾7成，先進製程專案認列",
-          "limitUp": false
+          "point": "需求升溫，營運剽悍"
         }
       ],
-      "background": "矽智財（IP）業者受AI、HPC及先進製程晶片開案需求帶動，營運動能轉強。晶片安全與高速介面需求亦同步升溫，推升權利金成長。",
+      "background": "AI、HPC推升先進製程晶片開案，晶片安全、高速介面需求升溫，矽智財業者營運動能轉強。",
       "themeTags": [
         "需求驅動"
       ]
@@ -327,6 +335,35 @@
         }
       ],
       "background": "半導體廠務工程受惠於AI、高效能運算及先進製程投資，需求持續升溫。台灣廠商積極擴大接單與服務範圍，並拓展海外市場。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNdldqT19Qd1JGR3phOUF0dFhDeDlMTUNsZ1RMXzFfamFVZTVtNzI5ZC1pQ1g0RjRTdENlZXZXM3hhSDd5RUhvaDRUZ0F6VDByaDJXclpNem12SnJhY3h5cXViSVkzNXR6c0xaa25wOGRvemxaci1CM2MxMWpsdG91MHByUzkyRGlG",
+      "tkey": "熱門族群朋億、銳澤、信紘科擴接單版圖",
+      "title": "《熱門族群》朋億、銳澤、信紘科擴接單版圖 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6300789001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sat, 12 Sep 2026 06:35:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6613",
+          "name": "朋億*",
+          "point": "擴接單版圖，廠務工程需求升溫"
+        },
+        {
+          "symbol": "7703",
+          "name": "銳澤",
+          "point": "擴接單版圖，廠務工程需求升溫"
+        },
+        {
+          "symbol": "6667",
+          "name": "信紘科",
+          "point": "擴接單版圖，廠務工程需求升溫"
+        }
+      ],
+      "background": "AI、HPC、先進製程投資推動半導體廠務工程需求，廠商擴大接單與服務範圍。",
       "themeTags": [
         "需求驅動"
       ]

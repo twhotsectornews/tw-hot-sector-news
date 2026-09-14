@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-14T11:03:46.412+08:00",
-  "generatedAt": "2026-09-14T03:03:46.412Z",
+  "asOf": "2026-09-14T12:05:12.303+08:00",
+  "generatedAt": "2026-09-14T04:05:12.303Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,15 +9,16 @@
     {
       "symbol": "3008",
       "name": "大立光",
-      "days": 5,
+      "days": 6,
       "dates": [
+        "9/14",
         "9/12",
         "9/11",
         "9/10",
         "9/9",
         "9/8"
       ],
-      "mentions": 9,
+      "mentions": 10,
       "limitUp": false
     },
     {
@@ -35,6 +36,23 @@
       "status": "逼近新高",
       "dist": -4.9,
       "limitUp": false
+    },
+    {
+      "symbol": "3406",
+      "name": "玉晶光",
+      "days": 4,
+      "dates": [
+        "9/14",
+        "9/11",
+        "9/9",
+        "9/8"
+      ],
+      "mentions": 4,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "9/9"
+      ]
     },
     {
       "symbol": "6505",
@@ -91,6 +109,22 @@
       "limitUp": false
     },
     {
+      "symbol": "2468",
+      "name": "華經",
+      "days": 3,
+      "dates": [
+        "9/14",
+        "9/12",
+        "9/10"
+      ],
+      "mentions": 4,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "9/11"
+      ]
+    },
+    {
       "symbol": "2408",
       "name": "南亞科",
       "days": 3,
@@ -99,8 +133,7 @@
         "9/9",
         "9/8"
       ],
-      "mentions": 4,
-      "limitUp": false
+      "mentions": 4
     },
     {
       "symbol": "6770",
@@ -127,22 +160,25 @@
       "limitUp": false
     },
     {
-      "symbol": "3406",
-      "name": "玉晶光",
-      "days": 3,
+      "symbol": "6690",
+      "name": "安碁資訊",
+      "days": 2,
       "dates": [
-        "9/11",
-        "9/9",
-        "9/8"
+        "9/14",
+        "9/12"
       ],
       "mentions": 3,
-      "status": "逼近新高",
-      "dist": -3.9,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "9/9"
-      ]
+      "limitUp": false
+    },
+    {
+      "symbol": "2449",
+      "name": "欣興",
+      "days": 2,
+      "dates": [
+        "9/12",
+        "9/10"
+      ],
+      "mentions": 3
     },
     {
       "symbol": "6805",
@@ -154,8 +190,7 @@
       ],
       "mentions": 3,
       "status": "高檔修正",
-      "dist": -11.7,
-      "limitUp": false
+      "dist": -10.5
     },
     {
       "symbol": "2317",
@@ -166,6 +201,50 @@
         "9/10"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "6689",
+      "name": "伊雲谷",
+      "days": 2,
+      "dates": [
+        "9/14",
+        "9/12"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "6811",
+      "name": "宏碁資訊",
+      "days": 2,
+      "dates": [
+        "9/14",
+        "9/12"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "6148",
+      "name": "驊宏資",
+      "days": 2,
+      "dates": [
+        "9/14",
+        "9/12"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3029",
+      "name": "零壹",
+      "days": 2,
+      "dates": [
+        "9/14",
+        "9/12"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -185,30 +264,13 @@
     },
     {
       "symbol": "3037",
-      "name": "欣興",
+      "name": "信驊",
       "days": 2,
       "dates": [
         "9/12",
         "9/9"
       ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2468",
-      "name": "華經",
-      "days": 2,
-      "dates": [
-        "9/12",
-        "9/10"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 1,
-      "luwd": [
-        "9/11"
-      ]
+      "mentions": 2
     },
     {
       "symbol": "3376",
@@ -218,8 +280,7 @@
         "9/12",
         "9/10"
       ],
-      "mentions": 2,
-      "limitUp": false
+      "mentions": 2
     },
     {
       "symbol": "2409",
@@ -279,14 +340,135 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxOX0VwdXpOd2ZJblhxVnZ0QVU3UG1mTlk0TVpWNVhFdDg2bm5jckNqRGlnQjE2Mm9peWNQcWt4aUhEZ1VCUFdlaUJBZWZsWXFzcC1IRUNmWWxzLUlqRi13UnowaHVXVVhicktpdEdRN2dWUl85V29RVVRma1l3T1hPaGt6eHNNWDFQ",
+      "tkey": "熱門族群機電四雄訂單滿載股價開低走高",
+      "title": "《熱門族群》機電四雄訂單滿載 股價開低走高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6301959001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 14 Sep 2026 03:33:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2376",
+          "name": "軍電",
+          "point": "訂單滿載，股價開低走高",
+          "status": "高檔修正",
+          "dist": -14.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "2360",
+          "name": "中興電",
+          "point": "訂單滿載，股價開低走高",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/7"
+          ]
+        },
+        {
+          "symbol": "1513",
+          "name": "華城",
+          "point": "訂單滿載，股價開低走高",
+          "limitUp": false
+        },
+        {
+          "symbol": "1146",
+          "name": "亞力",
+          "point": "訂單滿載，股價開低走高",
+          "limitUp": false
+        }
+      ],
+      "background": "機電廠受惠台電強韌電網計畫、半導體建廠及AI資料中心訂單，訂單能見度達2029年。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNMkM0eVNTZHBHUm9pR1ZtYVpFNGcyOGxaY0VweFpPd1hrVGtZcWZzODB1WE9MajBvVGxRVGY0V19GdWNFNXJtZk53SHdMMU9maGhkeVhtN3E3dDZlT1BrQlc1RFhyWlEtMXowc01SNHd0SzFZUlEwU2RfVHk1LWdoMEl0Vlo0d0V2",
+      "tkey": "熱門族群黃仁勳點名AI下一波商機資安族群多檔漲停",
+      "title": "《熱門族群》黃仁勳點名AI下一波商機 資安族群多檔漲停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6301927001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 14 Sep 2026 03:10:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6689",
+          "name": "伊雲谷",
+          "point": "AI下一波商機，資安概念股漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "7765",
+          "name": "中華資安",
+          "point": "AI下一波商機，資安概念股漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2468",
+          "name": "華經",
+          "point": "AI下一波商機，資安概念股漲停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/11"
+          ]
+        },
+        {
+          "symbol": "6690",
+          "name": "安碁資訊",
+          "point": "AI下一波商機，資安概念股漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6865",
+          "name": "偉康科技",
+          "point": "AI下一波商機，資安概念股漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6811",
+          "name": "宏碁資訊",
+          "point": "AI下一波商機，資安概念股漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6925",
+          "name": "意藍",
+          "point": "AI下一波商機，資安概念股漲停",
+          "limitUp": false
+        }
+      ],
+      "background": "黃仁勳點名網路安全為AI下一個重大應用，AI快速發展帶動企業資安防護需求升溫。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMikgFBVV95cUxOenRvSG5BX0RPMWplRnVUUndDbkpZd0V1QVFVeWU5OTl5RGRsU1hlN09zVXJoS3gwdzBnclJDQy1zdzhNR2IyRW85UlItRDJ5ZURaTjdBTlR2eF9iRHJCNUxSaWZGZmM1SXFUN0c3X2UtNExTYWVoM3RJLVlacjdiWXZ4ODhQSWJZM0Vzdi1RNl9vQQ",
       "tkey": "熱門族群外資放火！光學雙雄自由落體大立光跌停、玉晶光失千元",
       "title": "《熱門族群》外資放火！光學雙雄自由落體 大立光跌停、玉晶光失千元 - 富聯網",
       "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6301862001&pu=News_0002_3",
       "source": "富聯網",
       "pubDate": "Mon, 14 Sep 2026 02:16:00 GMT",
-      "stocks": [],
-      "background": "",
+      "stocks": [
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "外資降評股價跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "外資降評股價重挫",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/9"
+          ]
+        }
+      ],
+      "background": "光學鏡頭廠受外資調降評等影響，股價重挫，市場擔憂股價已反映長期預期。",
       "themeTags": []
     },
     {
@@ -296,9 +478,58 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6301821001&PU=1002",
       "source": "富聯網",
       "pubDate": "Mon, 14 Sep 2026 01:39:00 GMT",
-      "stocks": [],
-      "background": "",
-      "themeTags": []
+      "stocks": [
+        {
+          "symbol": "2468",
+          "name": "華經",
+          "point": "避險資金轉進資安，股價漲停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/11"
+          ]
+        },
+        {
+          "symbol": "6148",
+          "name": "驊宏資",
+          "point": "避險資金轉進資安，股價漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6140",
+          "name": "訊達",
+          "point": "資安概念股，股價漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6221",
+          "name": "晉泰",
+          "point": "資安概念股，股價漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "5202",
+          "name": "力新",
+          "point": "資安概念股，股價漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3029",
+          "name": "零壹",
+          "point": "資安概念股，股價大漲",
+          "limitUp": false
+        },
+        {
+          "symbol": "6690",
+          "name": "安碁資訊",
+          "point": "資安概念股，股價強勢攻頂",
+          "limitUp": false
+        }
+      ],
+      "background": "AI發展帶動資安需求，加上部分公司業績穩定成長且股價便宜，吸引避險買盤進駐。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiX0FVX3lxTE56MGFSdU1DQTR3OW1weGFFNU1MbmpmYWlucXF2R0djTTVicnFGMHkybUxHVnNKdkI0eDNDMUFqWlVTNC15SHpKUTFwUGk1MEtWRGI1X2lCWVlHRERnNzBJ0gFkQVVfeXFMUDREaUNqQURMbHlqTjcyVXJRVjFtcFh4SE1uYTItTWU1VFk1QWpMaFdMcFdpdENKeExzR2E4TUZxYjdZTUdlUi1vM0VTNDJCZVJxdzhPUWtEeXV1aXdWaVVUT2tHTg",
@@ -352,9 +583,41 @@
       "url": "https://www.cmoney.tw/forum/article/184570933",
       "source": "CMoney",
       "pubDate": "Sat, 12 Sep 2026 22:17:59 GMT",
-      "stocks": [],
-      "background": "",
-      "themeTags": []
+      "stocks": [
+        {
+          "symbol": "1409",
+          "name": "新纖",
+          "point": "綠色紡品當道，添利基",
+          "luw": 1,
+          "luwd": [
+            "9/9"
+          ]
+        },
+        {
+          "symbol": "1402",
+          "name": "遠東新",
+          "point": "綠色紡品當道，添利基"
+        },
+        {
+          "symbol": "1434",
+          "name": "福懋",
+          "point": "綠色紡品當道，添利基"
+        },
+        {
+          "symbol": "1444",
+          "name": "力麗",
+          "point": "綠色紡品當道，添利基"
+        },
+        {
+          "symbol": "1476",
+          "name": "儒鴻",
+          "point": "積極採用環保回收紡品物料"
+        }
+      ],
+      "background": "全球品牌服飾廠提升環保材質標準，台灣紡纖廠因應ESG趨勢，加大綠色產品出貨比重。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiWEFVX3lxTFBsMm9YZFdPVS1abHBvSkN4VkV0M0RIUUQxQ1k0V3NQZExnM1lfYW1FU2c5bHA2Wkk4NmhSRkN3blhnUzJpRnNIU2h2aWU4NGhzVVVqVHotcmc",
