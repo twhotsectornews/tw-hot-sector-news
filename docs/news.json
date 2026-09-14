@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-14T13:08:47.892+08:00",
-  "generatedAt": "2026-09-14T05:08:47.892Z",
+  "asOf": "2026-09-14T14:07:47.520+08:00",
+  "generatedAt": "2026-09-14T06:07:47.520Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -118,7 +118,8 @@
         "9/10"
       ],
       "mentions": 4,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 1,
       "luwd": [
         "9/11"
@@ -169,7 +170,7 @@
       ],
       "mentions": 3,
       "status": "高檔修正",
-      "dist": -10.1
+      "dist": -11.1
     },
     {
       "symbol": "2317",
@@ -210,7 +211,7 @@
     },
     {
       "symbol": "3037",
-      "name": "欣興",
+      "name": "欣葉",
       "days": 2,
       "dates": [
         "9/12",
@@ -363,7 +364,8 @@
           "symbol": "6689",
           "name": "伊雲谷",
           "point": "AI下一波商機，資安概念股漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "7765",
@@ -376,7 +378,8 @@
           "symbol": "2468",
           "name": "華經",
           "point": "AI下一波商機，資安概念股漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "9/11"
@@ -452,7 +455,8 @@
           "symbol": "2468",
           "name": "華經",
           "point": "避險資金轉進資安，股價漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "9/11"

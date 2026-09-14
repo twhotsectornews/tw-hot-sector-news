@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "updatedAt": "2026-09-14T05:08:47.888Z",
+  "updatedAt": "2026-09-14T06:07:47.516Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOVjNuMjdUT2VfZWRLcTRHT1NrdTFYbHVlNGpTQjU4TG54eWlHNkNyNHpXQWlveC1qa0RyQ2JVZzVMTGktcERzOGdkZ2xXallRNXdxOGR2cWlXUW1ZcUlWeEFFNWNHeks3UkNRbE1IRXRHVXRwaFJvZ3UzVHJEZU41T28xUmt4dmJ0",
@@ -13,93 +13,98 @@
         {
           "symbol": "2330",
           "name": "台積電",
-          "point": "8月營收創高，AI 需求升溫",
+          "point": "AI GPU、2奈米需求升溫",
           "status": "逼近新高",
-          "dist": -5.7
+          "dist": -6.1
         },
         {
           "symbol": "2408",
           "name": "南亞科",
-          "point": "三大法人加碼，看好 HBM 產品"
+          "point": "DRAM市況正面逐季向上"
         },
         {
           "symbol": "6770",
           "name": "力積電",
-          "point": "營收雙增，股價站穩月線"
+          "point": "營收雙增抗震"
         },
         {
-          "symbol": "3037",
+          "symbol": "2375",
           "name": "欣興",
-          "point": "營收雙增，股價站穩月線"
+          "point": "營收雙增抗震"
         },
         {
-          "symbol": "3552",
+          "symbol": "3704",
           "name": "致茂",
-          "point": "營收雙增，股價站穩月線"
+          "point": "營收雙增抗震"
         },
         {
-          "symbol": "3598",
+          "symbol": "3545",
           "name": "精測",
-          "point": "營收雙增，股價站穩月線"
+          "point": "營收雙增抗震"
         },
         {
-          "symbol": "1451",
+          "symbol": "3026",
           "name": "大量",
-          "point": "營收雙增，股價站穩月線"
-        },
-        {
-          "symbol": "3622",
-          "name": "信驊",
-          "point": "營收雙增，股價站穩月線"
-        },
-        {
-          "symbol": "2303",
-          "name": "聯電",
-          "point": "營收雙增，股價站穩月線",
+          "point": "營收雙增抗震",
           "luw": 1,
           "luwd": [
             "9/7"
           ]
         },
         {
-          "symbol": "4974",
-          "name": "富喬",
-          "point": "營收雙增，股價站穩月線"
+          "symbol": "3037",
+          "name": "欣葉",
+          "point": "營收雙增抗震"
         },
         {
-          "symbol": "2459",
+          "symbol": "2303",
+          "name": "聯電",
+          "point": "營收雙增抗震",
+          "luw": 1,
+          "luwd": [
+            "9/7"
+          ]
+        },
+        {
+          "symbol": "3046",
+          "name": "富喬",
+          "point": "營收雙增抗震"
+        },
+        {
+          "symbol": "3034",
           "name": "聯詠",
-          "point": "營收雙增，股價站穩月線",
+          "point": "營收雙增抗震",
           "status": "逼近新高",
-          "dist": -9.3
+          "dist": -4.2
         },
         {
           "symbol": "1106",
           "name": "中砂",
-          "point": "營收雙增，股價站穩月線"
+          "point": "營收雙增抗震"
         },
         {
-          "symbol": "2455",
-          "name": "全新",
-          "point": "營收雙增，股價站穩月線",
-          "status": "逼近新高",
-          "dist": -4.9
+          "symbol": "3163",
+          "name": "波若威",
+          "point": "營收雙增抗震"
         },
         {
           "symbol": "2609",
           "name": "陽明",
-          "point": "營收雙增，股價站穩月線"
+          "point": "營收雙增抗震"
         },
         {
           "symbol": "6805",
           "name": "富世達",
-          "point": "營收雙增，股價站穩月線",
+          "point": "營收雙增抗震",
           "status": "高檔修正",
-          "dist": -10.1
+          "dist": -11.1
         }
       ],
-      "background": "台股高檔震盪，聚焦基本面與籌碼面兼具標的，營收雙增個股相對抗震。",
-      "themeTags": []
+      "background": "AI伺服器與雲端運算需求帶動半導體產業營運動能，記憶體價格走勢逐季向上，相關供應鏈營收成長。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxQTjFlWTNWbVplU01OMldxWC1RVDNnXzB2YS1XZ1ZYNk9jY192bGZLTjRVSXA4UHlqS25kSFNGSlB5UWhPZFJWWG84RG1ydmk4RVAyZkVhZWM2SGpBQUpVM19SbVdqbFJ2QVJwWTVMN3poQjh4VGNNbEZkcGpuMXZDOUVKN2VhOHMy",
@@ -112,7 +117,7 @@
         {
           "symbol": "2468",
           "name": "華經",
-          "point": "黃仁勳點名 AI 資安，漲停爆量",
+          "point": "資安概念股漲停",
           "luw": 1,
           "luwd": [
             "9/11"
@@ -121,22 +126,64 @@
         {
           "symbol": "6148",
           "name": "驊宏資",
-          "point": "黃仁勳點名 AI 資安，漲停爆量"
+          "point": "資安概念股漲停"
         },
         {
           "symbol": "7714",
           "name": "創泓科技",
-          "point": "黃仁勳點名 AI 資安，漲停爆量"
+          "point": "資安概念股漲停"
         },
         {
           "symbol": "6214",
           "name": "精誠",
-          "point": "營運亮眼，獲台灣大公開收購",
+          "point": "營運亮眼股價創新高",
           "status": "逼近新高",
-          "dist": -1
+          "dist": -1.6
+        },
+        {
+          "symbol": "6427",
+          "name": "伊雲谷",
+          "point": "資安概念股大漲"
+        },
+        {
+          "symbol": "3003",
+          "name": "宏碁資訊",
+          "point": "資安概念股大漲"
+        },
+        {
+          "symbol": "6711",
+          "name": "零壹",
+          "point": "資安概念股大漲"
+        },
+        {
+          "symbol": "6289",
+          "name": "瑞祺電通",
+          "point": "資安概念股大漲"
+        },
+        {
+          "symbol": "3682",
+          "name": "弘憶國際",
+          "point": "資安概念股大漲"
+        },
+        {
+          "symbol": "3040",
+          "name": "訊達",
+          "point": "資安概念股大漲"
+        },
+        {
+          "symbol": "3693",
+          "name": "邁達特",
+          "point": "資安概念股大漲",
+          "status": "逼近新高",
+          "dist": -7.5
+        },
+        {
+          "symbol": "3515",
+          "name": "合勤控",
+          "point": "資安概念股大漲"
         }
       ],
-      "background": "輝達執行長黃仁勳點名 AI 資安商機，帶動資安概念股走強，精誠獲公開收購利多。",
+      "background": "輝達執行長黃仁勳點名AI將帶動資安商機，資安概念股應聲大漲，精誠因營運表現亮眼獲青睞。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
@@ -153,22 +200,23 @@
         {
           "symbol": "4770",
           "name": "上品",
-          "point": "半導體氟素材料，訂單回升"
+          "point": "半導體氟素材料訂單增"
         },
         {
           "symbol": "4749",
           "name": "新應材",
-          "point": "半導體製程升級，營收創高"
+          "point": "半導體客戶2奈米製程放量"
         },
         {
           "symbol": "4772",
           "name": "台特化",
-          "point": "電子特殊氣體需求增，擴產"
+          "point": "矽乙烷、無水氟化氫產能擴張"
         }
       ],
-      "background": "半導體先進製程投資活絡，帶動特用化學品需求，上品、新應材、台特化營運進補。",
+      "background": "先進製程與先進封裝帶動半導體化學材料需求，上品、新應材、台特化等特化廠受惠，訂單與產能均見成長。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "循環位置"
       ]
     },
     {
@@ -182,27 +230,27 @@
         {
           "symbol": "6805",
           "name": "富世達",
-          "point": "受惠 AI 伺服器，營收創次高",
+          "point": "受惠AI伺服器需求營收次高",
           "status": "高檔修正",
-          "dist": -10.1
+          "dist": -11.1
         },
         {
           "symbol": "3376",
           "name": "新日興",
-          "point": "蘋果折疊手機供應商，營收年減"
+          "point": "蘋果折疊手機供應商"
         },
         {
           "symbol": "3548",
           "name": "兆利",
-          "point": "消費電子需求弱，營收年減"
+          "point": "轉向高階手機專案與新應用"
         },
         {
           "symbol": "1582",
           "name": "信錦",
-          "point": "低軌衛星業務正向，營收月減年增"
+          "point": "低軌衛星業務正向發展"
         }
       ],
-      "background": "軸承廠營收表現分歧，富世達受惠 AI 伺服器需求成長，新日興、兆利受消費電子保守影響。",
+      "background": "軸承廠營收表現分歧，部分受消費性電子保守影響，但富世達受惠AI伺服器需求強勁，信錦則耕耘低軌衛星新應用。",
       "themeTags": [
         "需求驅動"
       ]
@@ -244,15 +292,15 @@
         {
           "symbol": "7796",
           "name": "擷發科技",
-          "point": "取得 AI 智慧住宅專案，營收增"
+          "point": "取得AI智慧住宅專案"
         },
         {
           "symbol": "7913",
           "name": "通寶半導體",
-          "point": "跨足實體 AI，營收年增近 5.8 倍"
+          "point": "跨足機器人與無人機晶片"
         }
       ],
-      "background": "AI 應用從雲端擴散至智慧住宅、機器人等邊緣應用，中小型 IC 設計業者迎成長契機。",
+      "background": "AI應用從雲端擴散至邊緣，中小型IC設計業者切入實體AI市場，擷發科技取得智慧住宅專案，通寶半導體布局機器人與無人機晶片。",
       "themeTags": [
         "需求驅動"
       ]
@@ -268,17 +316,18 @@
         {
           "symbol": "3529",
           "name": "力旺",
-          "point": "AI、HPC 推升先進製程 IP，營收增"
+          "point": "3奈米製程貢獻權利金"
         },
         {
           "symbol": "6643",
           "name": "M31",
-          "point": "先進製程專案認列，營收轉增"
+          "point": "先進製程權利金成長動能強"
         }
       ],
-      "background": "AI、HPC 推升先進製程晶片開案，矽智財業者營運動能轉強，權利金成長動能受關注。",
+      "background": "AI與HPC推升先進製程晶片開案，矽智財業者力旺、M31營運剽悍，權利金收入成長可期。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "循環位置"
       ]
     },
     {
@@ -323,21 +372,21 @@
       "stocks": [
         {
           "symbol": "6613",
-          "name": "朋億*",
-          "point": "半導體廠務工程，訂單高檔"
+          "name": "朋億",
+          "point": "半導體廠務工程訂單高檔"
         },
         {
           "symbol": "7703",
           "name": "銳澤",
-          "point": "半導體廠務工程，海外布局"
+          "point": "擴展日本、美國市場"
         },
         {
           "symbol": "6667",
           "name": "信紘科",
-          "point": "半導體廠務工程，擴大統包"
+          "point": "朝跨工種統包發展"
         }
       ],
-      "background": "AI、HPC、先進製程投資推進，半導體廠務工程需求升溫，朋億、銳澤、信紘科擴大接單。",
+      "background": "AI、HPC、先進製程等投資持續，半導體廠務工程需求升溫，朋億、銳澤、信紘科擴大接單版圖。",
       "themeTags": [
         "需求驅動"
       ]
