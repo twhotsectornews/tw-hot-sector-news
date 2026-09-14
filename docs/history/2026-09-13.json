@@ -1,0 +1,75 @@
+{
+  "date": "2026-09-13",
+  "updatedAt": "2026-09-14T03:03:46.400Z",
+  "news": [
+    {
+      "gid": "CBMiX0FVX3lxTE56MGFSdU1DQTR3OW1weGFFNU1MbmpmYWlucXF2R0djTTVicnFGMHkybUxHVnNKdkI0eDNDMUFqWlVTNC15SHpKUTFwUGk1MEtWRGI1X2lCWVlHRERnNzBJ0gFkQVVfeXFMUDREaUNqQURMbHlqTjcyVXJRVjFtcFh4SE1uYTItTWU1VFk1QWpMaFdMcFdpdENKeExzR2E4TUZxYjdZTUdlUi1vM0VTNDJCZVJxdzhPUWtEeXV1aXdWaVVUT2tHTg",
+      "tkey": "熱門族群AI需求暢旺供給吃緊晶圓代工漲價行情蓄勢待發",
+      "title": "熱門族群》 AI需求暢旺供給吃緊 晶圓代工漲價行情蓄勢待發 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5571459",
+      "source": "自由財經",
+      "pubDate": "Sat, 12 Sep 2026 23:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "8月營收創新高，先進製程出貨升溫",
+          "status": "逼近新高",
+          "dist": -4.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "2303",
+          "name": "聯電",
+          "point": "8月營收近47個月高點，漲價效益發酵",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/7"
+          ]
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "8月營收近50個月高點，反映漲價動能",
+          "limitUp": false
+        },
+        {
+          "symbol": "5347",
+          "name": "世界先進",
+          "point": "成熟製程供給吃緊，毛利率可望向上",
+          "limitUp": false
+        }
+      ],
+      "background": "AI需求暢旺帶動晶圓代工先進製程與封裝需求，成熟製程供給吃緊，國際指標大廠台積電營收創新高，晶圓代工族群漲價行情蓄勢待發。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE9OaHpzRHdSOXNyWm1mUTdET1E0amZrTXhNYml5dEo2Q241cVg0Ymp6YTd4ZjQ3WE1VVVBCSVpoMS1tX1ZZWnl0bFoxY2h0aTh5eXotRmg0Snc",
+      "tkey": "1409新纖-熱門族群綠色紡品當道紡纖廠添利基時報新聞2026...-股市爆料同學會",
+      "title": "1409 新纖 - 《熱門族群》綠色紡品當道 紡纖廠添利基 時報新聞 2026... - 股市爆料同學會 - CMoney",
+      "url": "https://www.cmoney.tw/forum/article/184570933",
+      "source": "CMoney",
+      "pubDate": "Sat, 12 Sep 2026 22:17:59 GMT",
+      "stocks": [],
+      "background": "",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiWEFVX3lxTFBsMm9YZFdPVS1abHBvSkN4VkV0M0RIUUQxQ1k0V3NQZExnM1lfYW1FU2c5bHA2Wkk4NmhSRkN3blhnUzJpRnNIU2h2aWU4NGhzVVVqVHotcmc",
+      "tkey": "熱門族群AIASIC市場發燒矽智財族群前景看旺",
+      "title": "熱門族群》AI ASIC市場發燒 矽智財族群前景看旺 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/3mrn0hqmj1wd",
+      "source": "自由時報",
+      "pubDate": "Sat, 12 Sep 2026 22:04:04 GMT",
+      "stocks": [],
+      "background": "AI ASIC市場需求持續發燒，矽智財族群因其在客製化晶片設計中的關鍵地位，前景看好。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}
