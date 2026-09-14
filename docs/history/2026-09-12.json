@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "updatedAt": "2026-09-14T06:07:47.516Z",
+  "updatedAt": "2026-09-14T08:16:05.128Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOVjNuMjdUT2VfZWRLcTRHT1NrdTFYbHVlNGpTQjU4TG54eWlHNkNyNHpXQWlveC1qa0RyQ2JVZzVMTGktcERzOGdkZ2xXallRNXdxOGR2cWlXUW1ZcUlWeEFFNWNHeks3UkNRbE1IRXRHVXRwaFJvZ3UzVHJEZU41T28xUmt4dmJ0",
@@ -13,97 +13,104 @@
         {
           "symbol": "2330",
           "name": "台積電",
-          "point": "AI GPU、2奈米需求升溫",
+          "point": "營收雙增，獲三大法人買超",
           "status": "逼近新高",
           "dist": -6.1
         },
         {
           "symbol": "2408",
           "name": "南亞科",
-          "point": "DRAM市況正面逐季向上"
+          "point": "營收雙增，獲三大法人買超"
         },
         {
           "symbol": "6770",
           "name": "力積電",
-          "point": "營收雙增抗震"
+          "point": "營收雙增，獲三大法人買超"
         },
         {
-          "symbol": "2375",
+          "symbol": "3037",
           "name": "欣興",
-          "point": "營收雙增抗震"
+          "point": "營收雙增"
         },
         {
-          "symbol": "3704",
+          "symbol": "2360",
           "name": "致茂",
-          "point": "營收雙增抗震"
-        },
-        {
-          "symbol": "3545",
-          "name": "精測",
-          "point": "營收雙增抗震"
-        },
-        {
-          "symbol": "3026",
-          "name": "大量",
-          "point": "營收雙增抗震",
+          "point": "營收雙增",
           "luw": 1,
           "luwd": [
             "9/7"
           ]
         },
         {
-          "symbol": "3037",
-          "name": "欣葉",
-          "point": "營收雙增抗震"
+          "symbol": "6510",
+          "name": "精測",
+          "point": "營收雙增"
+        },
+        {
+          "symbol": "3167",
+          "name": "大量",
+          "point": "營收雙增",
+          "luw": 1,
+          "luwd": [
+            "9/7"
+          ]
+        },
+        {
+          "symbol": "6533",
+          "name": "信驊",
+          "point": "營收雙增"
         },
         {
           "symbol": "2303",
           "name": "聯電",
-          "point": "營收雙增抗震",
+          "point": "營收雙增",
           "luw": 1,
           "luwd": [
             "9/7"
           ]
         },
         {
-          "symbol": "3046",
+          "symbol": "1474",
           "name": "富喬",
-          "point": "營收雙增抗震"
+          "point": "營收雙增"
         },
         {
           "symbol": "3034",
           "name": "聯詠",
-          "point": "營收雙增抗震",
+          "point": "營收雙增",
           "status": "逼近新高",
           "dist": -4.2
         },
         {
-          "symbol": "1106",
+          "symbol": "1560",
           "name": "中砂",
-          "point": "營收雙增抗震"
+          "point": "營收雙增",
+          "status": "逼近新高",
+          "dist": -5.2
         },
         {
-          "symbol": "3163",
-          "name": "波若威",
-          "point": "營收雙增抗震"
+          "symbol": "2455",
+          "name": "全新",
+          "point": "營收雙增",
+          "status": "逼近新高",
+          "dist": -3.6
         },
         {
           "symbol": "2609",
           "name": "陽明",
-          "point": "營收雙增抗震"
+          "point": "營收雙增"
         },
         {
           "symbol": "6805",
           "name": "富世達",
-          "point": "營收雙增抗震",
+          "point": "營收雙增",
           "status": "高檔修正",
           "dist": -11.1
         }
       ],
-      "background": "AI伺服器與雲端運算需求帶動半導體產業營運動能，記憶體價格走勢逐季向上，相關供應鏈營收成長。",
+      "background": "台股高檔震盪，市場轉向聚焦基本面與籌碼面兼具的標的。聯準會利率決策、美債殖利率攀升及原油價格上漲，使盤勢維持高檔震盪格局。",
       "themeTags": [
-        "需求驅動",
-        "循環位置"
+        "需求驅動"
       ]
     },
     {
@@ -117,7 +124,7 @@
         {
           "symbol": "2468",
           "name": "華經",
-          "point": "資安概念股漲停",
+          "point": "爆量衝上漲停",
           "luw": 1,
           "luwd": [
             "9/11"
@@ -126,64 +133,22 @@
         {
           "symbol": "6148",
           "name": "驊宏資",
-          "point": "資安概念股漲停"
+          "point": "爆量衝上漲停"
         },
         {
           "symbol": "7714",
           "name": "創泓科技",
-          "point": "資安概念股漲停"
+          "point": "爆量衝上漲停"
         },
         {
           "symbol": "6214",
           "name": "精誠",
-          "point": "營運亮眼股價創新高",
+          "point": "收盤改寫歷史新高",
           "status": "逼近新高",
           "dist": -1.6
-        },
-        {
-          "symbol": "6427",
-          "name": "伊雲谷",
-          "point": "資安概念股大漲"
-        },
-        {
-          "symbol": "3003",
-          "name": "宏碁資訊",
-          "point": "資安概念股大漲"
-        },
-        {
-          "symbol": "6711",
-          "name": "零壹",
-          "point": "資安概念股大漲"
-        },
-        {
-          "symbol": "6289",
-          "name": "瑞祺電通",
-          "point": "資安概念股大漲"
-        },
-        {
-          "symbol": "3682",
-          "name": "弘憶國際",
-          "point": "資安概念股大漲"
-        },
-        {
-          "symbol": "3040",
-          "name": "訊達",
-          "point": "資安概念股大漲"
-        },
-        {
-          "symbol": "3693",
-          "name": "邁達特",
-          "point": "資安概念股大漲",
-          "status": "逼近新高",
-          "dist": -7.5
-        },
-        {
-          "symbol": "3515",
-          "name": "合勤控",
-          "point": "資安概念股大漲"
         }
       ],
-      "background": "輝達執行長黃仁勳點名AI將帶動資安商機，資安概念股應聲大漲，精誠因營運表現亮眼獲青睞。",
+      "background": "輝達執行長黃仁勳點名網路安全將成為AI下一個大型應用領域，帶動資安概念股飆漲。AI人工智慧從聊天機器人走向企業核心應用後，網路安全市場將被AI重新改寫。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
