@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-15T13:03:29.893+08:00",
-  "generatedAt": "2026-09-15T05:03:29.893Z",
+  "asOf": "2026-09-15T14:06:43.927+08:00",
+  "generatedAt": "2026-09-15T06:06:43.927Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -65,7 +65,8 @@
         "9/12"
       ],
       "mentions": 3,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 5,
       "luwd": [
         "9/14",
@@ -112,7 +113,8 @@
         "9/14"
       ],
       "mentions": 3,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 5,
       "luwd": [
         "9/14",
@@ -393,7 +395,8 @@
           "symbol": "6148",
           "name": "驊宏資",
           "point": "持續亮出漲停紅燈",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "9/14",
@@ -407,7 +410,8 @@
           "symbol": "6690",
           "name": "安碁資訊",
           "point": "盤中維持3%以上漲幅",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "9/14",
@@ -471,7 +475,8 @@
           "symbol": "3675",
           "name": "德微",
           "point": "8月營收首度突破3億元大關",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.8,
           "luw": 5,
           "luwd": [
             "9/14",
