@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-15T16:07:17.864+08:00",
-  "generatedAt": "2026-09-15T08:07:17.864Z",
+  "asOf": "2026-09-15T17:41:33.691+08:00",
+  "generatedAt": "2026-09-15T09:41:33.691Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -34,7 +34,7 @@
         "9/10",
         "9/9"
       ],
-      "mentions": 9,
+      "mentions": 10,
       "limitUp": false
     },
     {
@@ -56,6 +56,22 @@
       ]
     },
     {
+      "symbol": "3406",
+      "name": "玉晶光",
+      "days": 3,
+      "dates": [
+        "9/14",
+        "9/11",
+        "9/9"
+      ],
+      "mentions": 4,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "9/9"
+      ]
+    },
+    {
       "symbol": "6148",
       "name": "驊宏資",
       "days": 3,
@@ -74,22 +90,6 @@
         "9/10",
         "9/9",
         "9/8"
-      ]
-    },
-    {
-      "symbol": "3406",
-      "name": "玉晶光",
-      "days": 3,
-      "dates": [
-        "9/14",
-        "9/11",
-        "9/9"
-      ],
-      "mentions": 3,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "9/9"
       ]
     },
     {
@@ -659,6 +659,34 @@
       "themeTags": []
     },
     {
+      "gid": "CBMiiAFBVV95cUxOR3h5VFZVNEY4NEFkdkMweVhCd042bGtwTElYMHhVUG1nZXVuZ1ZESUEycG1WMjJlM1JmRlBLdC0zU0ZKZlNXeFE4eS1zd1pMa1FTNTBCbHd3eFlGc2NDT3BCTTJsTWJ1eHpkTHpaUUlYTlByV0pHbGZnZ09qd0ZWQVJNb1ZvMjdx",
+      "tkey": "熱門族群外資放火！光學雙雄自由落體大立光跌停、玉晶光失千元-ww2.money",
+      "title": "《熱門族群》外資放火！光學雙雄自由落體 大立光跌停、玉晶光失千元 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6301862001&PU=1002",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Mon, 14 Sep 2026 02:16:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "外資降評、股價跌停"
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "外資降評、股價重挫",
+          "luw": 1,
+          "luwd": [
+            "9/9"
+          ]
+        }
+      ],
+      "background": "光學雙雄股價因前期漲幅過大，遭外資降評，加上大盤重挫，導致股價大幅修正，市場對新業務進度持觀望態度。",
+      "themeTags": [
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxOR1NJVC1QMzNNMWh0cmRWMTlDWDlSR1luaXRZUXVKYXhmVUY5a2Y0cWtBOVk0RnRja1ZURDVDZE1IUjZOaWtpSk1IVGE5dW5CNzlIZF85OG12cXNYZmtIaHdKaUpFVUNuOTFkZURWWGppVGJtQUVqRzFyUzVNaFRQVnhNSVNOYzdV",
       "tkey": "熱門族群避險資金轉進資安華經、驊宏資等多檔漲停",
       "title": "《熱門族群》避險資金轉進資安 華經、驊宏資等多檔漲停 - 富聯網",
@@ -753,6 +781,19 @@
         }
       ],
       "background": "AI發展帶動資安需求，加上部分公司業績穩定成長且股價便宜，吸引避險買盤進駐。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTFBsMm9YZFdPVS1abHBvSkN4VkV0M0RIUUQxQ1k0V3NQZExnM1lfYW1FU2c5bHA2Wkk4NmhSRkN3blhnUzJpRnNIU2h2aWU4NGhzVVVqVHotcmc",
+      "tkey": "熱門族群AIASIC市場發燒矽智財族群前景看旺",
+      "title": "熱門族群》AI ASIC市場發燒 矽智財族群前景看旺 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/3mrn0hqmj1wd",
+      "source": "自由時報",
+      "pubDate": "Sun, 13 Sep 2026 16:16:20 GMT",
+      "stocks": [],
+      "background": "AI ASIC晶片需求強勁，帶動矽智財（IP）產業前景看好，為AI發展的關鍵基礎。",
       "themeTags": [
         "需求驅動"
       ]
