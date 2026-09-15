@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-15T17:41:33.691+08:00",
-  "generatedAt": "2026-09-15T09:41:33.691Z",
+  "asOf": "2026-09-15T18:42:07.350+08:00",
+  "generatedAt": "2026-09-15T10:42:07.350Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -18,7 +18,7 @@
         "9/10",
         "9/9"
       ],
-      "mentions": 7,
+      "mentions": 8,
       "status": "逼近新高",
       "dist": -5.9,
       "limitUp": false
@@ -100,6 +100,17 @@
         "9/11",
         "9/10",
         "9/9"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2454",
+      "name": "聯發科",
+      "days": 2,
+      "dates": [
+        "9/15",
+        "9/14"
       ],
       "mentions": 3,
       "limitUp": false
@@ -196,19 +207,6 @@
         "9/10"
       ],
       "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "2454",
-      "name": "聯發科",
-      "days": 2,
-      "dates": [
-        "9/15",
-        "9/14"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -9.3,
       "limitUp": false
     },
     {
@@ -329,6 +327,49 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiakFVX3lxTE9JNnZncGJ1Mi1iTkk1VEw2TTJhUFJ6Mjl0eEtVaDF0U2hHWG5HZ0lsMzNrZzBDZzROWlJEVno5NGVycmxqTjc2SktnZjVNeDRxeEdWczFQaEFqeU5OMWY0V0xyVV9GeG0zNWc",
+      "tkey": "熱門族群AI三巨頭喊降速！聯發科股價承壓法人點名逆勢受惠股-上市櫃",
+      "title": "《熱門族群》AI三巨頭喊降速！聯發科股價承壓法人點名逆勢受惠股- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260915900310-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Tue, 15 Sep 2026 04:37:33 GMT",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "AI三巨頭喊降速，股價承壓",
+          "limitUp": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "先進製程與封裝測試需求供不應求",
+          "status": "逼近新高",
+          "dist": -5.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "point": "ASIC需求持續成長，可望受惠",
+          "status": "逼近新高",
+          "dist": -7,
+          "limitUp": false
+        },
+        {
+          "symbol": "3661",
+          "name": "世芯-KY",
+          "point": "ASIC需求持續成長，可望受惠",
+          "limitUp": false
+        }
+      ],
+      "background": "AI產業巨頭呼籲放慢前沿模型開發腳步，引發市場對資本支出下修的擔憂。然而，AI算力需求仍高，ASIC、先進製程及封裝測試需求持續供不應求。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQdUVFWi1LQVh4RUl3TDRSSk5kMjNGMGNKR1AycHBNVGF4ajJKYTkyMkhpWVVEbkUxczBtM28yY3JYeUlsS1dyVnRHSnRjZ0lPVjBMMTl2SGo0dm5mQUE2NW5panpBa3pQc21IaExvWDA4SGFKVENVc2NpaWJqUEtadkMwUmpoeFB5",
       "tkey": "熱門族群AI三巨頭喊降速！聯發科股價承壓法人點名逆勢受惠股",
