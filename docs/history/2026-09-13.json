@@ -1,7 +1,21 @@
 {
   "date": "2026-09-13",
-  "updatedAt": "2026-09-15T03:03:04.635Z",
+  "updatedAt": "2026-09-15T04:04:04.644Z",
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTFBsMm9YZFdPVS1abHBvSkN4VkV0M0RIUUQxQ1k0V3NQZExnM1lfYW1FU2c5bHA2Wkk4NmhSRkN3blhnUzJpRnNIU2h2aWU4NGhzVVVqVHotcmc",
+      "tkey": "熱門族群AIASIC市場發燒矽智財族群前景看旺",
+      "title": "熱門族群》AI ASIC市場發燒 矽智財族群前景看旺 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/3mrn0hqmj1wd",
+      "source": "自由時報",
+      "pubDate": "Sun, 13 Sep 2026 09:04:04 GMT",
+      "stocks": [],
+      "background": "AI ASIC市場需求強勁，帶動矽智財（IP）產業成長，國際大廠如ARM、Synopsys等持續投入，台灣廠商受惠於AI晶片設計需求。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
     {
       "gid": "CBMiX0FVX3lxTE56MGFSdU1DQTR3OW1weGFFNU1MbmpmYWlucXF2R0djTTVicnFGMHkybUxHVnNKdkI0eDNDMUFqWlVTNC15SHpKUTFwUGk1MEtWRGI1X2lCWVlHRERnNzBJ0gFkQVVfeXFMUDREaUNqQURMbHlqTjcyVXJRVjFtcFh4SE1uYTItTWU1VFk1QWpMaFdMcFdpdENKeExzR2E4TUZxYjdZTUdlUi1vM0VTNDJCZVJxdzhPUWtEeXV1aXdWaVVUT2tHTg",
       "tkey": "熱門族群AI需求暢旺供給吃緊晶圓代工漲價行情蓄勢待發",
@@ -82,19 +96,6 @@
         }
       ],
       "background": "全球品牌服飾廠提升環保材質標準，台灣紡纖廠因應ESG趨勢，加大綠色產品出貨比重。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTFBsMm9YZFdPVS1abHBvSkN4VkV0M0RIUUQxQ1k0V3NQZExnM1lfYW1FU2c5bHA2Wkk4NmhSRkN3blhnUzJpRnNIU2h2aWU4NGhzVVVqVHotcmc",
-      "tkey": "熱門族群AIASIC市場發燒矽智財族群前景看旺",
-      "title": "熱門族群》AI ASIC市場發燒 矽智財族群前景看旺 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/3mrn0hqmj1wd",
-      "source": "自由時報",
-      "pubDate": "Sat, 12 Sep 2026 22:04:04 GMT",
-      "stocks": [],
-      "background": "AI ASIC市場需求持續發燒，矽智財族群因其在客製化晶片設計中的關鍵地位，前景看好。",
       "themeTags": [
         "需求驅動"
       ]
