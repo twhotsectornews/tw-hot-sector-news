@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-15T00:32:10.621+08:00",
-  "generatedAt": "2026-09-14T16:32:10.621Z",
+  "asOf": "2026-09-15T11:03:04.639+08:00",
+  "generatedAt": "2026-09-15T03:03:04.639Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -55,6 +55,26 @@
       ]
     },
     {
+      "symbol": "6148",
+      "name": "驊宏資",
+      "days": 3,
+      "dates": [
+        "9/15",
+        "9/14",
+        "9/12"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "9/14",
+        "9/11",
+        "9/10",
+        "9/9",
+        "9/8"
+      ]
+    },
+    {
       "symbol": "3406",
       "name": "玉晶光",
       "days": 3,
@@ -81,6 +101,25 @@
       ],
       "mentions": 3,
       "limitUp": false
+    },
+    {
+      "symbol": "6690",
+      "name": "安碁資訊",
+      "days": 2,
+      "dates": [
+        "9/15",
+        "9/14"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "9/14",
+        "9/11",
+        "9/10",
+        "9/9",
+        "9/8"
+      ]
     },
     {
       "symbol": "2408",
@@ -166,6 +205,47 @@
       "limitUp": false
     },
     {
+      "symbol": "7765",
+      "name": "中華資安",
+      "days": 2,
+      "dates": [
+        "9/15",
+        "9/14"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "9/14"
+      ]
+    },
+    {
+      "symbol": "6689",
+      "name": "伊雲谷",
+      "days": 2,
+      "dates": [
+        "9/15",
+        "9/14"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "9/14"
+      ]
+    },
+    {
+      "symbol": "7714",
+      "name": "創泓科技",
+      "days": 2,
+      "dates": [
+        "9/15",
+        "9/12"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "2360",
       "name": "中興電",
       "days": 2,
@@ -175,26 +255,6 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "6148",
-      "name": "驊宏資",
-      "days": 2,
-      "dates": [
-        "9/14",
-        "9/12"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 5,
-      "luwd": [
-        "9/14",
-        "9/11",
-        "9/10",
-        "9/9",
-        "9/8"
-      ]
     },
     {
       "symbol": "2303",
@@ -262,6 +322,118 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQdW4xbGNsX3hEMHlOUWU2bWFmX2ZRaElBM3VVQXYzOWd4VlBCTHVfTHRqZnpVVWdYMzZlYnMtWnBhTVdURFh2Nld4dlFpUHNMSGJ2MV81UFN3MkllbnRlR3NQQVZrMTYwYWxBMzFTWlRmLUZaZmt3RmhvNXJIZDc2VW1FWjNRdzdC",
+      "tkey": "熱門族群資安行情燒不停驊宏資續亮漲停",
+      "title": "《熱門族群》資安行情燒不停 驊宏資續亮漲停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6302989001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 15 Sep 2026 02:43:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6148",
+          "name": "驊宏資",
+          "point": "持續亮出漲停紅燈",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "9/14",
+            "9/11",
+            "9/10",
+            "9/9",
+            "9/8"
+          ]
+        },
+        {
+          "symbol": "6690",
+          "name": "安碁資訊",
+          "point": "盤中維持3%以上漲幅",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "9/14",
+            "9/11",
+            "9/10",
+            "9/9",
+            "9/8"
+          ]
+        },
+        {
+          "symbol": "7765",
+          "name": "中華資安",
+          "point": "盤中維持3%以上漲幅",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/14"
+          ]
+        },
+        {
+          "symbol": "6689",
+          "name": "伊雲谷",
+          "point": "盤中維持3%以上漲幅",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/14"
+          ]
+        },
+        {
+          "symbol": "6112",
+          "name": "邁達特",
+          "point": "漲多休息，股價震盪整理",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/14"
+          ]
+        },
+        {
+          "symbol": "7714",
+          "name": "創泓科技",
+          "point": "漲多休息，股價震盪整理",
+          "limitUp": false
+        }
+      ],
+      "background": "AI產業巨頭擔憂安全風險，呼籲放緩AI模型開發，使市場資金轉向資安族群。輝達執行長黃仁勳看好資安將成為AI下一個主要應用方向，需求增加。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNZU5MTk9aZVBTZGtuVlhvMHpQMjJvZEJvOW52UVBoS3hTS0Y0aVNIQWpLblNlY0l2X2Jrdk9WanlXbVJSOEtlTTJ4Z0FBTWtDRG1feENZRHJXeEVqTjhRek9WTUVudkRielF2WG96eFp4S3FYaFM2QzJVUHUzcWJLZzVzMTIzSzhy",
+      "tkey": "熱門族群AI電力升級點火德微、強茂營運衝",
+      "title": "《熱門族群》AI電力升級點火 德微、強茂營運衝 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6302769001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 15 Sep 2026 00:23:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3675",
+          "name": "德微",
+          "point": "8月營收首度突破3億元大關",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "9/14",
+            "9/11",
+            "9/10",
+            "9/9",
+            "9/8"
+          ]
+        },
+        {
+          "symbol": "2481",
+          "name": "強茂",
+          "point": "8月營收年增近3成",
+          "limitUp": false
+        }
+      ],
+      "background": "AI資料中心電力架構升級，帶動功率半導體需求增溫。AI伺服器功率密度提升，加上車用電子及供應鏈多元化需求，推動功率元件產業成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiWEFVX3lxTE5BQjZ3eXhxaW1KQjB0VGdDSC0yOS1BTUR0cXZqa0dnelVncWF2UHFMV0xKdFhYZjJBRlRZbFVYU1BPQkI5cTNBUUhIbDVHV05HZVFEVEZhYVE",
       "tkey": "熱門族群AI資料中心帶動BBU需求電池模組族群氣勢大振",
@@ -576,103 +748,6 @@
         }
       ],
       "background": "AI發展帶動資安需求，加上部分公司業績穩定成長且股價便宜，吸引避險買盤進駐。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiX0FVX3lxTE56MGFSdU1DQTR3OW1weGFFNU1MbmpmYWlucXF2R0djTTVicnFGMHkybUxHVnNKdkI0eDNDMUFqWlVTNC15SHpKUTFwUGk1MEtWRGI1X2lCWVlHRERnNzBJ0gFkQVVfeXFMUDREaUNqQURMbHlqTjcyVXJRVjFtcFh4SE1uYTItTWU1VFk1QWpMaFdMcFdpdENKeExzR2E4TUZxYjdZTUdlUi1vM0VTNDJCZVJxdzhPUWtEeXV1aXdWaVVUT2tHTg",
-      "tkey": "熱門族群AI需求暢旺供給吃緊晶圓代工漲價行情蓄勢待發",
-      "title": "熱門族群》 AI需求暢旺供給吃緊 晶圓代工漲價行情蓄勢待發 - 自由財經",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5571459",
-      "source": "自由財經",
-      "pubDate": "Sat, 12 Sep 2026 23:05:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2330",
-          "name": "台積電",
-          "point": "8月營收創新高，先進製程出貨升溫",
-          "status": "逼近新高",
-          "dist": -4.9,
-          "limitUp": false
-        },
-        {
-          "symbol": "2303",
-          "name": "聯電",
-          "point": "8月營收近47個月高點，漲價效益發酵",
-          "limitUp": false
-        },
-        {
-          "symbol": "6770",
-          "name": "力積電",
-          "point": "8月營收近50個月高點，反映漲價動能",
-          "limitUp": false
-        },
-        {
-          "symbol": "5347",
-          "name": "世界先進",
-          "point": "成熟製程供給吃緊，毛利率可望向上",
-          "limitUp": false
-        }
-      ],
-      "background": "AI需求暢旺帶動晶圓代工先進製程與封裝需求，成熟製程供給吃緊，國際指標大廠台積電營收創新高，晶圓代工族群漲價行情蓄勢待發。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTE9OaHpzRHdSOXNyWm1mUTdET1E0amZrTXhNYml5dEo2Q241cVg0Ymp6YTd4ZjQ3WE1VVVBCSVpoMS1tX1ZZWnl0bFoxY2h0aTh5eXotRmg0Snc",
-      "tkey": "1409新纖-熱門族群綠色紡品當道紡纖廠添利基時報新聞2026...-股市爆料同學會",
-      "title": "1409 新纖 - 《熱門族群》綠色紡品當道 紡纖廠添利基 時報新聞 2026... - 股市爆料同學會 - CMoney",
-      "url": "https://www.cmoney.tw/forum/article/184570933",
-      "source": "CMoney",
-      "pubDate": "Sat, 12 Sep 2026 22:17:59 GMT",
-      "stocks": [
-        {
-          "symbol": "1409",
-          "name": "新纖",
-          "point": "綠色紡品當道，添利基",
-          "luw": 1,
-          "luwd": [
-            "9/9"
-          ]
-        },
-        {
-          "symbol": "1402",
-          "name": "遠東新",
-          "point": "綠色紡品當道，添利基"
-        },
-        {
-          "symbol": "1434",
-          "name": "福懋",
-          "point": "綠色紡品當道，添利基"
-        },
-        {
-          "symbol": "1444",
-          "name": "力麗",
-          "point": "綠色紡品當道，添利基"
-        },
-        {
-          "symbol": "1476",
-          "name": "儒鴻",
-          "point": "積極採用環保回收紡品物料"
-        }
-      ],
-      "background": "全球品牌服飾廠提升環保材質標準，台灣紡纖廠因應ESG趨勢，加大綠色產品出貨比重。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTFBsMm9YZFdPVS1abHBvSkN4VkV0M0RIUUQxQ1k0V3NQZExnM1lfYW1FU2c5bHA2Wkk4NmhSRkN3blhnUzJpRnNIU2h2aWU4NGhzVVVqVHotcmc",
-      "tkey": "熱門族群AIASIC市場發燒矽智財族群前景看旺",
-      "title": "熱門族群》AI ASIC市場發燒 矽智財族群前景看旺 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/3mrn0hqmj1wd",
-      "source": "自由時報",
-      "pubDate": "Sat, 12 Sep 2026 22:04:04 GMT",
-      "stocks": [],
-      "background": "AI ASIC市場需求持續發燒，矽智財族群因其在客製化晶片設計中的關鍵地位，前景看好。",
       "themeTags": [
         "需求驅動"
       ]
