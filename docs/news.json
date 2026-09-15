@@ -1,11 +1,28 @@
 {
-  "asOf": "2026-09-15T12:04:04.646+08:00",
-  "generatedAt": "2026-09-15T04:04:04.646Z",
+  "asOf": "2026-09-15T13:03:29.893+08:00",
+  "generatedAt": "2026-09-15T05:03:29.893Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 6,
+      "dates": [
+        "9/15",
+        "9/13",
+        "9/12",
+        "9/11",
+        "9/10",
+        "9/9"
+      ],
+      "mentions": 7,
+      "status": "逼近新高",
+      "dist": -5.9,
+      "limitUp": false
+    },
     {
       "symbol": "3008",
       "name": "大立光",
@@ -18,22 +35,6 @@
         "9/9"
       ],
       "mentions": 9,
-      "limitUp": false
-    },
-    {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 5,
-      "dates": [
-        "9/13",
-        "9/12",
-        "9/11",
-        "9/10",
-        "9/9"
-      ],
-      "mentions": 6,
-      "status": "逼近新高",
-      "dist": -4.9,
       "limitUp": false
     },
     {
@@ -64,8 +65,7 @@
         "9/12"
       ],
       "mentions": 3,
-      "limitUp": true,
-      "pct": 10,
+      "limitUp": false,
       "luw": 5,
       "luwd": [
         "9/14",
@@ -206,6 +206,19 @@
       "limitUp": false
     },
     {
+      "symbol": "2454",
+      "name": "聯發科",
+      "days": 2,
+      "dates": [
+        "9/15",
+        "9/14"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -9.3,
+      "limitUp": false
+    },
+    {
       "symbol": "7765",
       "name": "中華資安",
       "days": 2,
@@ -324,6 +337,51 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxQdUVFWi1LQVh4RUl3TDRSSk5kMjNGMGNKR1AycHBNVGF4ajJKYTkyMkhpWVVEbkUxczBtM28yY3JYeUlsS1dyVnRHSnRjZ0lPVjBMMTl2SGo0dm5mQUE2NW5panpBa3pQc21IaExvWDA4SGFKVENVc2NpaWJqUEtadkMwUmpoeFB5",
+      "tkey": "熱門族群AI三巨頭喊降速！聯發科股價承壓法人點名逆勢受惠股",
+      "title": "《熱門族群》AI三巨頭喊降速！聯發科股價承壓 法人點名逆勢受惠股 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6303100001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 15 Sep 2026 04:31:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "股價承壓但基本面與新品題材具支撐",
+          "status": "逼近新高",
+          "dist": -9.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "ASIC、先進製程及封裝測試需求仍供不應求",
+          "status": "逼近新高",
+          "dist": -5.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "point": "ASIC、先進製程及封裝測試需求仍供不應求",
+          "status": "逼近新高",
+          "dist": -5.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "3661",
+          "name": "世芯-KY",
+          "point": "ASIC、先進製程及封裝測試需求仍供不應求",
+          "limitUp": false
+        }
+      ],
+      "background": "AI三巨頭呼籲放慢前沿模型開發，但AI產業轉型仍高度仰賴算力支撐，推論需求持續成長，ASIC、先進製程及封裝測試需求仍供不應求。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxQdW4xbGNsX3hEMHlOUWU2bWFmX2ZRaElBM3VVQXYzOWd4VlBCTHVfTHRqZnpVVWdYMzZlYnMtWnBhTVdURFh2Nld4dlFpUHNMSGJ2MV81UFN3MkllbnRlR3NQQVZrMTYwYWxBMzFTWlRmLUZaZmt3RmhvNXJIZDc2VW1FWjNRdzdC",
       "tkey": "熱門族群資安行情燒不停驊宏資續亮漲停",
       "title": "《熱門族群》資安行情燒不停 驊宏資續亮漲停 - 富聯網",
@@ -335,8 +393,7 @@
           "symbol": "6148",
           "name": "驊宏資",
           "point": "持續亮出漲停紅燈",
-          "limitUp": true,
-          "pct": 10,
+          "limitUp": false,
           "luw": 5,
           "luwd": [
             "9/14",
