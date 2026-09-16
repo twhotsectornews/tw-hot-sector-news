@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-16T16:03:29.972+08:00",
-  "generatedAt": "2026-09-16T08:03:29.972Z",
+  "asOf": "2026-09-16T17:41:38.533+08:00",
+  "generatedAt": "2026-09-16T09:41:38.533Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -56,6 +56,18 @@
       ]
     },
     {
+      "symbol": "6770",
+      "name": "力積電",
+      "days": 3,
+      "dates": [
+        "9/16",
+        "9/13",
+        "9/12"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
       "symbol": "2468",
       "name": "華經",
       "days": 3,
@@ -75,18 +87,6 @@
       ]
     },
     {
-      "symbol": "6770",
-      "name": "力積電",
-      "days": 3,
-      "dates": [
-        "9/16",
-        "9/13",
-        "9/12"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
       "symbol": "6148",
       "name": "驊宏資",
       "days": 3,
@@ -98,6 +98,17 @@
       "mentions": 3,
       "limitUp": true,
       "pct": 10
+    },
+    {
+      "symbol": "2408",
+      "name": "南亞科",
+      "days": 2,
+      "dates": [
+        "9/16",
+        "9/12"
+      ],
+      "mentions": 3,
+      "limitUp": false
     },
     {
       "symbol": "2454",
@@ -144,17 +155,6 @@
         "9/10"
       ],
       "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "2408",
-      "name": "南亞科",
-      "days": 2,
-      "dates": [
-        "9/16",
-        "9/12"
-      ],
-      "mentions": 2,
       "limitUp": false
     },
     {
@@ -304,6 +304,40 @@
         }
       ],
       "background": "DRAM產業受AI需求帶動，供需吃緊恐延續至2030年，國際大廠三星、SK海力士、美光受惠，台廠南亞科、華邦電、力積電亦看好。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPeXczcWNsWDN2ZFA0ZTdSMjVMSW5tRDJ3bEhFSnktNmtCbVpjZTBtUWszWEs5NjlCZjBxeWRTeFJkTDdiSXlXRE9QZE95UGdIUjZzY0ZBcXdoYV95dDVMUzFkR2dGd3dRRnlvSmFQcUdDQmRMWW9HU0hYT2JIZVJCY1hRUElXSW1D",
+      "tkey": "熱門族群DRAM供需吃緊恐延至2030年南亞科、華邦電漲逾3%-ww2.money",
+      "title": "《熱門族群》DRAM供需吃緊恐延至2030年 南亞科、華邦電漲逾3% - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6304041001&PU=1002",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Wed, 16 Sep 2026 01:31:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "DRAM供需吃緊漲逾3%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "DRAM供需吃緊漲逾3%",
+          "limitUp": false
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "DRAM供需吃緊人氣旺",
+          "limitUp": false
+        }
+      ],
+      "background": "DRAM產業受AI需求帶動，供需吃緊預計將延續至2030年，國際大廠三星、SK海力士、美光受惠，台廠也因產能供不應求而看好後市。",
       "themeTags": [
         "需求驅動",
         "國際大廠",
