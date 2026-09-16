@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "updatedAt": "2026-09-16T06:01:35.311Z",
+  "updatedAt": "2026-09-16T08:03:29.968Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE90VTMtTEJTMXdYaVd0bURQVVBIcnZsak54TlRlZEx6VVZsN3hMaXVmVUtMQzBkd1MxMzZlOWdlYnVUbk1sYm5vdkJwX0xLeVdXNS1zV1N3aXM",
@@ -118,15 +118,7 @@
           "name": "驊宏資",
           "point": "持續亮出漲停紅燈",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "9/15",
-            "9/14",
-            "9/11",
-            "9/10",
-            "9/9"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6690",
@@ -188,7 +180,15 @@
           "symbol": "3675",
           "name": "德微",
           "point": "8月營收首度突破3億元大關",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "9/15",
+            "9/14",
+            "9/11",
+            "9/10",
+            "9/9"
+          ]
         },
         {
           "symbol": "2481",
