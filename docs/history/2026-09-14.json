@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "updatedAt": "2026-09-15T15:15:46.396Z",
+  "updatedAt": "2026-09-16T03:04:18.626Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE5BQjZ3eXhxaW1KQjB0VGdDSC0yOS1BTUR0cXZqa0dnelVncWF2UHFMV0xKdFhYZjJBRlRZbFVYU1BPQkI5cTNBUUhIbDVHV05HZVFEVEZhYVE",
@@ -113,8 +113,9 @@
           "point": "AI下一波商機，資安概念股漲停",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "9/15",
             "9/14",
             "9/11"
           ]
@@ -145,15 +146,7 @@
           "name": "意藍",
           "point": "AI下一波商機，資安概念股漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "9/14",
-            "9/11",
-            "9/10",
-            "9/9",
-            "9/8"
-          ]
+          "pct": 10
         }
       ],
       "background": "黃仁勳點名網路安全為AI下一個重大應用，AI快速發展帶動企業資安防護需求升溫。",
@@ -180,6 +173,8 @@
           "name": "玉晶光",
           "point": "外資降評股價重挫",
           "limitUp": false,
+          "status": "高檔修正",
+          "dist": -11.8,
           "luw": 1,
           "luwd": [
             "9/9"
@@ -206,6 +201,8 @@
           "symbol": "3406",
           "name": "玉晶光",
           "point": "外資降評、股價重挫",
+          "status": "高檔修正",
+          "dist": -11.8,
           "luw": 1,
           "luwd": [
             "9/9"
@@ -231,8 +228,9 @@
           "point": "避險資金轉進資安，股價漲停",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "9/15",
             "9/14",
             "9/11"
           ]
@@ -242,60 +240,28 @@
           "name": "驊宏資",
           "point": "避險資金轉進資安，股價漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "9/14",
-            "9/11",
-            "9/10",
-            "9/9",
-            "9/8"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6140",
           "name": "訊達",
           "point": "資安概念股，股價漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "9/14",
-            "9/11",
-            "9/10",
-            "9/9",
-            "9/8"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6221",
           "name": "晉泰",
           "point": "資安概念股，股價漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "9/14",
-            "9/11",
-            "9/10",
-            "9/9",
-            "9/8"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "5202",
           "name": "力新",
           "point": "資安概念股，股價漲停",
           "limitUp": true,
-          "pct": 9.8,
-          "luw": 5,
-          "luwd": [
-            "9/14",
-            "9/11",
-            "9/10",
-            "9/9",
-            "9/8"
-          ]
+          "pct": 9.8
         },
         {
           "symbol": "3029",
