@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "updatedAt": "2026-09-16T03:04:18.626Z",
+  "updatedAt": "2026-09-16T04:04:21.008Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE5BQjZ3eXhxaW1KQjB0VGdDSC0yOS1BTUR0cXZqa0dnelVncWF2UHFMV0xKdFhYZjJBRlRZbFVYU1BPQkI5cTNBUUhIbDVHV05HZVFEVEZhYVE",
@@ -10,7 +10,7 @@
       "source": "自由時報",
       "pubDate": "Mon, 14 Sep 2026 08:37:14 GMT",
       "stocks": [],
-      "background": "AI 資料中心對備用電池單元（BBU）需求增加，帶動電池模組產業成長，產業景氣受惠於新應用需求。",
+      "background": "AI資料中心對備用電池單元（BBU）需求增加，帶動電池模組產業成長，主要受惠於AI伺服器與HPC應用擴張。",
       "themeTags": [
         "需求驅動"
       ]

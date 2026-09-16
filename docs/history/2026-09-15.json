@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "updatedAt": "2026-09-16T03:04:18.625Z",
+  "updatedAt": "2026-09-16T04:04:21.007Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE90VTMtTEJTMXdYaVd0bURQVVBIcnZsak54TlRlZEx6VVZsN3hMaXVmVUtMQzBkd1MxMzZlOWdlYnVUbk1sYm5vdkJwX0xLeVdXNS1zV1N3aXM",
@@ -118,7 +118,15 @@
           "name": "驊宏資",
           "point": "持續亮出漲停紅燈",
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "9/15",
+            "9/14",
+            "9/11",
+            "9/10",
+            "9/9"
+          ]
         },
         {
           "symbol": "6690",
