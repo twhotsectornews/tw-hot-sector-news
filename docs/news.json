@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-17T17:41:17.215+08:00",
-  "generatedAt": "2026-09-17T09:41:17.215Z",
+  "asOf": "2026-09-17T18:42:35.684+08:00",
+  "generatedAt": "2026-09-17T10:42:35.684Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -17,9 +17,9 @@
         "9/12",
         "9/11"
       ],
-      "mentions": 10,
+      "mentions": 11,
       "status": "逼近新高",
-      "dist": -3.9,
+      "dist": -4.1,
       "limitUp": false
     },
     {
@@ -57,7 +57,7 @@
         "9/16",
         "9/12"
       ],
-      "mentions": 4,
+      "mentions": 5,
       "limitUp": false
     },
     {
@@ -94,6 +94,18 @@
       ]
     },
     {
+      "symbol": "2303",
+      "name": "聯電",
+      "days": 3,
+      "dates": [
+        "9/17",
+        "9/13",
+        "9/12"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "6148",
       "name": "驊宏資",
       "days": 3,
@@ -105,6 +117,17 @@
       "mentions": 3,
       "limitUp": true,
       "pct": 10
+    },
+    {
+      "symbol": "2344",
+      "name": "華邦電",
+      "days": 2,
+      "dates": [
+        "9/17",
+        "9/16"
+      ],
+      "mentions": 4,
+      "limitUp": false
     },
     {
       "symbol": "2455",
@@ -126,17 +149,6 @@
       "dates": [
         "9/17",
         "9/11"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "2344",
-      "name": "華邦電",
-      "days": 2,
-      "dates": [
-        "9/17",
-        "9/16"
       ],
       "mentions": 3,
       "limitUp": false
@@ -233,20 +245,59 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "2303",
-      "name": "聯電",
-      "days": 2,
-      "dates": [
-        "9/13",
-        "9/12"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE1RdnRDeUV6eWlSTXNvVlVDekF3WXZtVmxpd3lXYkk2c2RBMTJpUFRqeF9waDhyenlKbUNrelBhQ1ZmUnotNWpMd2d0MXJOeV93a1FuWXRtLWw",
+      "tkey": "3706神達-目前視為很多熱門族群都在下跌資金轉移中低位階股票裡面...-股市爆料同學會",
+      "title": "3706 神達 - 目前視為 很多熱門族群 都在下跌 資金轉移 中低位階股票裡面... - 股市爆料同學會 - CMoney",
+      "url": "https://www.cmoney.tw/forum/article/184794232",
+      "source": "CMoney",
+      "pubDate": "Thu, 17 Sep 2026 09:07:36 GMT",
+      "stocks": [
+        {
+          "symbol": "3706",
+          "name": "神達",
+          "point": "熱門族群下跌資金轉移中低位階股票",
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "熱門股票",
+          "limitUp": false
+        },
+        {
+          "symbol": "2303",
+          "name": "聯電",
+          "point": "熱門股票",
+          "limitUp": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "熱門股票",
+          "status": "逼近新高",
+          "dist": -4.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "熱門股票",
+          "limitUp": false
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "熱門股票",
+          "limitUp": false
+        }
+      ],
+      "background": "市場資金從高位階熱門族群轉向中低位階股票，反映投資人對當前市場風險的規避心態，尋求相對安全的投資標的。",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxOdTdlM3dMSGlBV2lVS2dDRDA0ZDU1ak5uYzFkeUVUZjVYVUE5bURPb3YzaG81TjU3QmwxRHpLaGUwQmo2VG5CSVR6a2ZHaU5WcUZFb1VPUnJfdG0xeVBtZHA5UTlQM1M5WUxZS1hnN01Tai1sTFpkdE90cU43dm94Rkg1Qi1kYlZJ",
       "tkey": "熱門族群迎SpaceX第14次飛行測試耀登、萊德光電再鍍金-ww2.money",
