@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-17T16:06:55.149+08:00",
-  "generatedAt": "2026-09-17T08:06:55.149Z",
+  "asOf": "2026-09-17T17:41:17.215+08:00",
+  "generatedAt": "2026-09-17T09:41:17.215Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -247,6 +247,89 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOdTdlM3dMSGlBV2lVS2dDRDA0ZDU1ak5uYzFkeUVUZjVYVUE5bURPb3YzaG81TjU3QmwxRHpLaGUwQmo2VG5CSVR6a2ZHaU5WcUZFb1VPUnJfdG0xeVBtZHA5UTlQM1M5WUxZS1hnN01Tai1sTFpkdE90cU43dm94Rkg1Qi1kYlZJ",
+      "tkey": "熱門族群迎SpaceX第14次飛行測試耀登、萊德光電再鍍金-ww2.money",
+      "title": "《熱門族群》迎SpaceX第14次飛行測試 耀登、萊德光電再鍍金 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6305577001&PU=1002",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Thu, 17 Sep 2026 08:30:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3491",
+          "name": "昇達科",
+          "point": "SpaceX概念股",
+          "limitUp": false
+        },
+        {
+          "symbol": "2313",
+          "name": "華通",
+          "point": "SpaceX概念股",
+          "limitUp": false
+        },
+        {
+          "symbol": "6285",
+          "name": "啟碁",
+          "point": "SpaceX概念股",
+          "limitUp": false
+        },
+        {
+          "symbol": "3138",
+          "name": "耀登",
+          "point": "連拉二根漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "9/16"
+          ]
+        },
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "SpaceX概念股",
+          "limitUp": false
+        },
+        {
+          "symbol": "2367",
+          "name": "燿華",
+          "point": "SpaceX概念股",
+          "limitUp": false
+        },
+        {
+          "symbol": "5222",
+          "name": "全訊",
+          "point": "SpaceX概念股",
+          "limitUp": false
+        },
+        {
+          "symbol": "5243",
+          "name": "乙盛-KY",
+          "point": "SpaceX概念股",
+          "limitUp": false
+        },
+        {
+          "symbol": "7717",
+          "name": "萊德光電",
+          "point": "連拉二根漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "9/16",
+            "9/15",
+            "9/14",
+            "9/11",
+            "9/10"
+          ]
+        }
+      ],
+      "background": "SpaceX星艦飛行測試將部署第三代星鏈衛星，帶動低軌衛星市場成長，高盛預估2035年規模上看1080億美元。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNdHJaSkczcVFJRHE4OHV2X2doczd5MFhjWkRLbllVS25LYkdDSVlHS09pZUpVT1oyMmZYMDAwam1kd0h3RFpQT2R6TzhzMzVudzlmaWhPakJZVUhYaTRTQ3Vnc2w2bXNPZ3VRY2ZQNXJvbjBTX1l0cU1aNmY1d016T2RSZjBUNUxp",
       "tkey": "熱門族群CPO傳導致CCL降規銅箔基板廠喊冤-ww2.money",
