@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "updatedAt": "2026-09-16T15:10:52.717Z",
+  "updatedAt": "2026-09-17T03:03:06.917Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE90VTMtTEJTMXdYaVd0bURQVVBIcnZsak54TlRlZEx6VVZsN3hMaXVmVUtMQzBkd1MxMzZlOWdlYnVUbk1sYm5vdkJwX0xLeVdXNS1zV1N3aXM",
@@ -183,18 +183,22 @@
           "limitUp": false,
           "luw": 5,
           "luwd": [
+            "9/16",
             "9/15",
             "9/14",
             "9/11",
-            "9/10",
-            "9/9"
+            "9/10"
           ]
         },
         {
           "symbol": "2481",
           "name": "強茂",
           "point": "8月營收年增近3成",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/16"
+          ]
         }
       ],
       "background": "AI資料中心電力架構升級，帶動功率半導體需求增溫。AI伺服器功率密度提升，加上車用電子及供應鏈多元化需求，推動功率元件產業成長。",
