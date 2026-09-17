@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-17T11:03:06.920+08:00",
-  "generatedAt": "2026-09-17T03:03:06.920Z",
+  "asOf": "2026-09-17T12:03:05.576+08:00",
+  "generatedAt": "2026-09-17T04:03:05.576Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -17,9 +17,9 @@
         "9/12",
         "9/11"
       ],
-      "mentions": 7,
+      "mentions": 8,
       "status": "逼近新高",
-      "dist": -4.1,
+      "dist": -3.9,
       "limitUp": false
     },
     {
@@ -159,6 +159,19 @@
       "dist": -11.1
     },
     {
+      "symbol": "2455",
+      "name": "全新",
+      "days": 2,
+      "dates": [
+        "9/17",
+        "9/12"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -6.7,
+      "limitUp": false
+    },
+    {
       "symbol": "3481",
       "name": "群創",
       "days": 2,
@@ -234,6 +247,110 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMikgFBVV95cUxPNU9DYXVDU2pKQWpXUXFjYjlkamwtS3JwUThtZXAyM0ZqOThJZ3d3bkVybk85WEw2dWRGX2prb3paWTgwSVowTWdfNVluX0R2aG16c3FlUHl1aWZXQjViRTVPU1hPQ0ROd01sS05wb3FiVHdOZGIwS3pRUGowTHEwLVN0a1I0Qy1KYmd5Y1JTTzNfZw",
+      "tkey": "熱門族群老CPO不吃香？LED接棒放閃光鋐攻頂、1檔奪4燈獎",
+      "title": "《熱門族群》老CPO不吃香？LED接棒放閃 光鋐攻頂、1檔奪4燈獎 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6305261001&pu=News_0002_3",
+      "source": "富聯網",
+      "pubDate": "Thu, 17 Sep 2026 03:32:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "強勢領軍，盤初狂噴千點",
+          "status": "逼近新高",
+          "dist": -3.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "6226",
+          "name": "光鼎",
+          "point": "強鎖紅燈，連拉4根漲停",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false,
+          "luw": 4,
+          "luwd": [
+            "9/16",
+            "9/15",
+            "9/14",
+            "9/10"
+          ]
+        },
+        {
+          "symbol": "4956",
+          "name": "光鋐",
+          "point": "強鎖紅燈，攻頂半年線",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/16"
+          ]
+        },
+        {
+          "symbol": "3437",
+          "name": "榮創",
+          "point": "跟進攻頂",
+          "limitUp": false
+        },
+        {
+          "symbol": "6168",
+          "name": "宏齊",
+          "point": "跟進攻頂",
+          "status": "逼近新高",
+          "dist": -3.5,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "9/16"
+          ]
+        },
+        {
+          "symbol": "3066",
+          "name": "李洲",
+          "point": "跟進攻頂",
+          "limitUp": false
+        },
+        {
+          "symbol": "3363",
+          "name": "上詮",
+          "point": "同步翻黑",
+          "limitUp": false
+        },
+        {
+          "symbol": "3163",
+          "name": "波若威",
+          "point": "同步翻黑",
+          "limitUp": false
+        },
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "同步翻黑",
+          "limitUp": false
+        },
+        {
+          "symbol": "2455",
+          "name": "全新",
+          "point": "獲買盤捧場強勢走高",
+          "status": "逼近新高",
+          "dist": -6.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "3701",
+          "name": "大眾控",
+          "point": "獲買盤捧場強勢走高",
+          "limitUp": false
+        }
+      ],
+      "background": "LED族群受惠於光通訊領域的拓展，特別是Micro LED與AI功率元件的應用，市場看好其轉機題材。CPO技術在AI時代的應用潛力大。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPczBRVFl2MHNuR2dBTW91T3hBNTR0SklZcXo3a0V4QWE3ZXROU1NwNXV2YlN2Q2lzbUZNODM2YWlPRmtLWThCTEQxNVlPSFJJRlVXV1U3ZGxTaU1uSnI2VnRmSzRNRzd0VnIyRWNQbHphSmVyVC0zclF2VW9LY0xHWXRPNFlPVU1P",
       "tkey": "熱門族群外資大買推進！面板雙虎雙響砲友達衝31、群創摸50元",

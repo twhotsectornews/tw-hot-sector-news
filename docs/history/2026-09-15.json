@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "updatedAt": "2026-09-17T03:03:06.917Z",
+  "updatedAt": "2026-09-17T04:03:05.573Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE90VTMtTEJTMXdYaVd0bURQVVBIcnZsak54TlRlZEx6VVZsN3hMaXVmVUtMQzBkd1MxMzZlOWdlYnVUbk1sYm5vdkJwX0xLeVdXNS1zV1N3aXM",
@@ -26,35 +26,31 @@
         {
           "symbol": "2454",
           "name": "聯發科",
-          "point": "AI三巨頭喊降速，股價承壓",
-          "limitUp": false,
+          "point": "股價承壓，早盤回測10日線",
           "status": "逼近新高",
-          "dist": -7.7
+          "dist": -6.8
         },
         {
           "symbol": "2330",
           "name": "台積電",
-          "point": "先進製程與封裝測試需求供不應求",
+          "point": "先進製程及封裝測試需求供不應求",
           "status": "逼近新高",
-          "dist": -5.9,
-          "limitUp": false
+          "dist": -3.9
         },
         {
           "symbol": "3443",
           "name": "創意",
-          "point": "ASIC需求持續成長，可望受惠",
+          "point": "ASIC、先進製程及封裝測試需求供不應求",
           "status": "逼近新高",
-          "dist": -7,
-          "limitUp": false
+          "dist": -2
         },
         {
           "symbol": "3661",
           "name": "世芯-KY",
-          "point": "ASIC需求持續成長，可望受惠",
-          "limitUp": false
+          "point": "ASIC、先進製程及封裝測試需求供不應求"
         }
       ],
-      "background": "AI產業巨頭呼籲放慢前沿模型開發腳步，引發市場對資本支出下修的擔憂。然而，AI算力需求仍高，ASIC、先進製程及封裝測試需求持續供不應求。",
+      "background": "AI產業巨頭呼籲放慢前沿模型開發，但AI算力需求仍強勁，ASIC在成本與運算效率上具優勢，先進製程與封裝測試需求持續供不應求。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
