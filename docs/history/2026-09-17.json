@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "updatedAt": "2026-09-18T06:03:55.827Z",
+  "updatedAt": "2026-09-18T07:42:40.551Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE1RdnRDeUV6eWlSTXNvVlVDekF3WXZtVmxpd3lXYkk2c2RBMTJpUFRqeF9waDhyenlKbUNrelBhQ1ZmUnotNWpMd2d0MXJOeV93a1FuWXRtLWw",
@@ -119,15 +119,7 @@
           "name": "萊德光電",
           "point": "連拉二根漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "9/17",
-            "9/16",
-            "9/15",
-            "9/14",
-            "9/11"
-          ]
+          "pct": 9.9
         }
       ],
       "background": "SpaceX星艦飛行測試將部署第三代星鏈衛星，帶動低軌衛星市場成長，高盛預估2035年規模上看1080億美元。",
@@ -244,15 +236,7 @@
           "name": "李洲",
           "point": "跟進攻頂",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "9/17",
-            "9/16",
-            "9/15",
-            "9/14",
-            "9/11"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "3363",
@@ -366,15 +350,7 @@
           "name": "李洲",
           "point": "跟進攻頂",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "9/17",
-            "9/16",
-            "9/15",
-            "9/14",
-            "9/11"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "3363",
