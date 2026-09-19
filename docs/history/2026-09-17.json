@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "updatedAt": "2026-09-19T04:02:26.181Z",
+  "updatedAt": "2026-09-19T05:01:43.764Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE1RdnRDeUV6eWlSTXNvVlVDekF3WXZtVmxpd3lXYkk2c2RBMTJpUFRqeF9waDhyenlKbUNrelBhQ1ZmUnotNWpMd2d0MXJOeV93a1FuWXRtLWw",
@@ -54,36 +54,31 @@
     },
     {
       "gid": "CBMiiAFBVV95cUxOdTdlM3dMSGlBV2lVS2dDRDA0ZDU1ak5uYzFkeUVUZjVYVUE5bURPb3YzaG81TjU3QmwxRHpLaGUwQmo2VG5CSVR6a2ZHaU5WcUZFb1VPUnJfdG0xeVBtZHA5UTlQM1M5WUxZS1hnN01Tai1sTFpkdE90cU43dm94Rkg1Qi1kYlZJ",
-      "tkey": "熱門族群迎SpaceX第14次飛行測試耀登、萊德光電再鍍金-ww2.money",
-      "title": "《熱門族群》迎SpaceX第14次飛行測試 耀登、萊德光電再鍍金 - ww2.money-link.com.tw",
+      "tkey": "熱門族群迎SpaceX第14次飛行測試耀登、萊德光電再鍍金",
+      "title": "《熱門族群》迎SpaceX第14次飛行測試 耀登、萊德光電再鍍金 - 富聯網",
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6305577001&PU=1002",
-      "source": "ww2.money-link.com.tw",
+      "source": "富聯網",
       "pubDate": "Thu, 17 Sep 2026 08:30:00 GMT",
       "stocks": [
         {
           "symbol": "3491",
           "name": "昇達科",
-          "point": "SpaceX概念股",
-          "limitUp": false
+          "point": "SpaceX概念股"
         },
         {
           "symbol": "2313",
           "name": "華通",
-          "point": "SpaceX概念股",
-          "limitUp": false
+          "point": "SpaceX概念股"
         },
         {
           "symbol": "6285",
           "name": "啟碁",
-          "point": "SpaceX概念股",
-          "limitUp": false
+          "point": "SpaceX概念股"
         },
         {
           "symbol": "3138",
           "name": "耀登",
           "point": "連拉二根漲停",
-          "limitUp": true,
-          "pct": 9.9,
           "luw": 2,
           "luwd": [
             "9/17",
@@ -93,40 +88,45 @@
         {
           "symbol": "3105",
           "name": "穩懋",
-          "point": "SpaceX概念股",
-          "limitUp": false
+          "point": "SpaceX概念股"
         },
         {
           "symbol": "2367",
           "name": "燿華",
-          "point": "SpaceX概念股",
-          "limitUp": false
+          "point": "SpaceX概念股"
         },
         {
           "symbol": "5222",
           "name": "全訊",
-          "point": "SpaceX概念股",
-          "limitUp": false
+          "point": "SpaceX概念股"
         },
         {
           "symbol": "5243",
           "name": "乙盛-KY",
-          "point": "SpaceX概念股",
-          "limitUp": false
+          "point": "SpaceX概念股"
         },
         {
           "symbol": "7717",
           "name": "萊德光電",
-          "point": "連拉二根漲停",
-          "limitUp": true,
-          "pct": 9.9
+          "point": "連拉二根漲停"
         }
       ],
-      "background": "SpaceX星艦飛行測試將部署第三代星鏈衛星，帶動低軌衛星市場成長，高盛預估2035年規模上看1080億美元。",
+      "background": "低軌衛星市場受SpaceX等國際大廠積極投入，預計未來成長快速。星艦飛行測試與新衛星部署，帶動相關供應鏈需求。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
       ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE90Y1VKdHd1OWhTZHRyeGd4SEpIUlhPZF8xVmRPZFpXaDVqV1pMWS1JRWtaQW8yZExUcGN0YUJHYy1mRC1zalVzVVIwVG5LMmFxNlZfMS1Lb3c",
+      "tkey": "盤勢分析FOMC利率出爐熱門族群將轉強",
+      "title": "盤勢分析》FOMC利率出爐 熱門族群將轉強 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/blvdlxff7bsv",
+      "source": "自由時報",
+      "pubDate": "Thu, 17 Sep 2026 07:35:34 GMT",
+      "stocks": [],
+      "background": "FOMC 利率決議是影響全球金融市場的重要事件，其結果將牽動資金流向與投資人信心，進而影響各產業族群的表現。",
+      "themeTags": []
     },
     {
       "gid": "CBMiiAFBVV95cUxNdHJaSkczcVFJRHE4OHV2X2doczd5MFhjWkRLbllVS25LYkdDSVlHS09pZUpVT1oyMmZYMDAwam1kd0h3RFpQT2R6TzhzMzVudzlmaWhPakJZVUhYaTRTQ3Vnc2w2bXNPZ3VRY2ZQNXJvbjBTX1l0cU1aNmY1d016T2RSZjBUNUxp",
