@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "updatedAt": "2026-09-18T14:38:54.159Z",
+  "updatedAt": "2026-09-19T03:01:38.790Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE1RdnRDeUV6eWlSTXNvVlVDekF3WXZtVmxpd3lXYkk2c2RBMTJpUFRqeF9waDhyenlKbUNrelBhQ1ZmUnotNWpMd2d0MXJOeV93a1FuWXRtLWw",
@@ -200,8 +200,9 @@
           "point": "強鎖紅燈，攻頂半年線",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "9/18",
             "9/17",
             "9/16"
           ]
@@ -212,8 +213,9 @@
           "point": "跟進攻頂",
           "limitUp": true,
           "pct": 10,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "9/18",
             "9/17"
           ]
         },
@@ -225,8 +227,9 @@
           "dist": -3.5,
           "limitUp": true,
           "pct": 10,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "9/18",
             "9/17",
             "9/16"
           ]
@@ -314,8 +317,9 @@
           "point": "強鎖紅燈、攻頂",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "9/18",
             "9/17",
             "9/16"
           ]
@@ -326,8 +330,9 @@
           "point": "跟進攻頂",
           "limitUp": true,
           "pct": 10,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "9/18",
             "9/17"
           ]
         },
@@ -339,8 +344,9 @@
           "dist": -3.5,
           "limitUp": true,
           "pct": 10,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "9/18",
             "9/17",
             "9/16"
           ]
@@ -491,7 +497,11 @@
           "symbol": "8110",
           "name": "華東",
           "point": "同集團早盤上攻",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/18"
+          ]
         },
         {
           "symbol": "2408",

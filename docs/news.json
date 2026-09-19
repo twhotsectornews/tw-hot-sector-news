@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-18T22:38:54.162+08:00",
-  "generatedAt": "2026-09-18T14:38:54.162Z",
+  "asOf": "2026-09-19T11:01:38.793+08:00",
+  "generatedAt": "2026-09-19T03:01:38.793Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,28 +9,26 @@
     {
       "symbol": "6770",
       "name": "力積電",
-      "days": 5,
+      "days": 4,
       "dates": [
         "9/18",
         "9/17",
         "9/16",
-        "9/13",
-        "9/12"
+        "9/13"
       ],
-      "mentions": 6,
+      "mentions": 5,
       "limitUp": false
     },
     {
       "symbol": "2330",
       "name": "台積電",
-      "days": 4,
+      "days": 3,
       "dates": [
         "9/17",
         "9/15",
-        "9/13",
-        "9/12"
+        "9/13"
       ],
-      "mentions": 10,
+      "mentions": 9,
       "status": "逼近新高",
       "dist": -4.1,
       "limitUp": false
@@ -38,14 +36,13 @@
     {
       "symbol": "2408",
       "name": "南亞科",
-      "days": 4,
+      "days": 3,
       "dates": [
         "9/18",
         "9/17",
-        "9/16",
-        "9/12"
+        "9/16"
       ],
-      "mentions": 6,
+      "mentions": 5,
       "limitUp": false
     },
     {
@@ -75,56 +72,6 @@
       "limitUp": false
     },
     {
-      "symbol": "3008",
-      "name": "大立光",
-      "days": 3,
-      "dates": [
-        "9/16",
-        "9/14",
-        "9/12"
-      ],
-      "mentions": 4,
-      "limitUp": false
-    },
-    {
-      "symbol": "2303",
-      "name": "聯電",
-      "days": 3,
-      "dates": [
-        "9/17",
-        "9/13",
-        "9/12"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "6148",
-      "name": "驊宏資",
-      "days": 3,
-      "dates": [
-        "9/15",
-        "9/14",
-        "9/12"
-      ],
-      "mentions": 3,
-      "limitUp": true,
-      "pct": 10
-    },
-    {
-      "symbol": "2455",
-      "name": "全新",
-      "days": 2,
-      "dates": [
-        "9/17",
-        "9/12"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -6.7,
-      "limitUp": false
-    },
-    {
       "symbol": "3406",
       "name": "玉晶光",
       "days": 2,
@@ -143,6 +90,17 @@
       ]
     },
     {
+      "symbol": "3008",
+      "name": "大立光",
+      "days": 2,
+      "dates": [
+        "9/16",
+        "9/14"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "6690",
       "name": "安碁資訊",
       "days": 2,
@@ -152,24 +110,6 @@
       ],
       "mentions": 3,
       "limitUp": false
-    },
-    {
-      "symbol": "2468",
-      "name": "華經",
-      "days": 2,
-      "dates": [
-        "9/14",
-        "9/12"
-      ],
-      "mentions": 3,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 3,
-      "luwd": [
-        "9/15",
-        "9/14",
-        "9/11"
-      ]
     },
     {
       "symbol": "2337",
@@ -287,6 +227,29 @@
       "limitUp": false
     },
     {
+      "symbol": "2303",
+      "name": "聯電",
+      "days": 2,
+      "dates": [
+        "9/17",
+        "9/13"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "6148",
+      "name": "驊宏資",
+      "days": 2,
+      "dates": [
+        "9/15",
+        "9/14"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 10
+    },
+    {
       "symbol": "7765",
       "name": "中華資安",
       "days": 2,
@@ -315,28 +278,6 @@
       "luwd": [
         "9/14"
       ]
-    },
-    {
-      "symbol": "7714",
-      "name": "創泓科技",
-      "days": 2,
-      "dates": [
-        "9/15",
-        "9/12"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2360",
-      "name": "中興電",
-      "days": 2,
-      "dates": [
-        "9/14",
-        "9/12"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
@@ -490,11 +431,11 @@
           "pct": 9.9,
           "luw": 5,
           "luwd": [
+            "9/18",
             "9/17",
             "9/16",
             "9/15",
-            "9/14",
-            "9/11"
+            "9/14"
           ]
         }
       ],
@@ -732,8 +673,9 @@
           "point": "強鎖紅燈，攻頂半年線",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "9/18",
             "9/17",
             "9/16"
           ]
@@ -744,8 +686,9 @@
           "point": "跟進攻頂",
           "limitUp": true,
           "pct": 10,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "9/18",
             "9/17"
           ]
         },
@@ -757,8 +700,9 @@
           "dist": -3.5,
           "limitUp": true,
           "pct": 10,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "9/18",
             "9/17",
             "9/16"
           ]
@@ -846,8 +790,9 @@
           "point": "強鎖紅燈、攻頂",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "9/18",
             "9/17",
             "9/16"
           ]
@@ -858,8 +803,9 @@
           "point": "跟進攻頂",
           "limitUp": true,
           "pct": 10,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "9/18",
             "9/17"
           ]
         },
@@ -871,8 +817,9 @@
           "dist": -3.5,
           "limitUp": true,
           "pct": 10,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "9/18",
             "9/17",
             "9/16"
           ]
@@ -1023,7 +970,11 @@
           "symbol": "8110",
           "name": "華東",
           "point": "同集團早盤上攻",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/18"
+          ]
         },
         {
           "symbol": "2408",
