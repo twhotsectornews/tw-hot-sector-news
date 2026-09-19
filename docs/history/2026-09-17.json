@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "updatedAt": "2026-09-19T06:01:47.194Z",
+  "updatedAt": "2026-09-19T07:38:16.121Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE1RdnRDeUV6eWlSTXNvVlVDekF3WXZtVmxpd3lXYkk2c2RBMTJpUFRqeF9waDhyenlKbUNrelBhQ1ZmUnotNWpMd2d0MXJOeV93a1FuWXRtLWw",
@@ -61,6 +61,21 @@
       "pubDate": "Thu, 17 Sep 2026 08:30:00 GMT",
       "stocks": [
         {
+          "symbol": "3491",
+          "name": "昇達科",
+          "point": "SpaceX概念股揚帆"
+        },
+        {
+          "symbol": "2313",
+          "name": "華通",
+          "point": "SpaceX概念股揚帆"
+        },
+        {
+          "symbol": "6285",
+          "name": "啟碁",
+          "point": "SpaceX概念股揚帆"
+        },
+        {
           "symbol": "3138",
           "name": "耀登",
           "point": "連拉二根漲停",
@@ -71,47 +86,32 @@
           ]
         },
         {
-          "symbol": "7717",
-          "name": "萊德光電",
-          "point": "連拉二根漲停"
-        },
-        {
-          "symbol": "3491",
-          "name": "昇達科",
-          "point": "SpaceX概念股"
-        },
-        {
-          "symbol": "2313",
-          "name": "華通",
-          "point": "SpaceX概念股"
-        },
-        {
-          "symbol": "6285",
-          "name": "啟碁",
-          "point": "SpaceX概念股"
-        },
-        {
           "symbol": "3105",
           "name": "穩懋",
-          "point": "SpaceX概念股"
+          "point": "SpaceX概念股揚帆"
         },
         {
           "symbol": "2367",
           "name": "燿華",
-          "point": "SpaceX概念股"
+          "point": "SpaceX概念股揚帆"
         },
         {
           "symbol": "5222",
           "name": "全訊",
-          "point": "SpaceX概念股"
+          "point": "SpaceX概念股揚帆"
         },
         {
           "symbol": "5243",
           "name": "乙盛-KY",
-          "point": "SpaceX概念股"
+          "point": "SpaceX概念股揚帆"
+        },
+        {
+          "symbol": "7717",
+          "name": "萊德光電",
+          "point": "連拉二根漲停"
         }
       ],
-      "background": "低軌衛星市場受SpaceX星艦飛行測試與星鏈衛星部署帶動，高盛證券預估市場規模將大幅成長，集邦科技也看好全球太空經濟進入新成長週期。",
+      "background": "SpaceX星艦第14次飛行測試將部署第三代星艦衛星，帶動低軌衛星概念股。高盛證券預估低軌衛星市場將快速成長。",
       "themeTags": [
         "需求驅動",
         "國際大廠"

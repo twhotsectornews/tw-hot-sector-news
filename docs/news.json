@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-19T14:01:47.198+08:00",
-  "generatedAt": "2026-09-19T06:01:47.198Z",
+  "asOf": "2026-09-19T15:38:16.124+08:00",
+  "generatedAt": "2026-09-19T07:38:16.124Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -281,6 +281,41 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPVFRlVE9TdlBKa0I2djFWS29ONlRlb0o1MXRacXFOMXFmWTZqbXJjZ1lCWTJ1VVNRQjI4OGoza1pJbEpDcHhwU0hUY0x0ZEpvWFVYNF9rYXdIMmJ3MkwwV0ZNZVNVdUhLcHVZLTJWdkpibWUybTliNTdsczhWelNPUzdfV2RQYVZi",
+      "tkey": "熱門族群管制鬆綁營建股買氣升",
+      "title": "《熱門族群》管制鬆綁 營建股買氣升 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6307101001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sat, 19 Sep 2026 06:09:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2524",
+          "name": "京城建",
+          "point": "開盤直奔漲停並鎖死",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/18"
+          ]
+        },
+        {
+          "symbol": "9906",
+          "name": "欣巴巴",
+          "point": "開盤直奔漲停並鎖死",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "9/18"
+          ]
+        }
+      ],
+      "background": "央行信用管制政策鬆綁，市場解讀房市交易限制可望逐步放寬，激勵營建股買氣升溫，具推案題材建商受關注。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
     {
       "gid": "CBMiakFVX3lxTE5Cb3I5MlZkUElaaDJwZjJ2R3IwLWRyWm44ck9SdWdmSENrMjI0Vk8wX1BqeDR4OEZKTnpXbk9VNXgzcmJTdEFlWF9wd0xFSkdyOERoMTEtQjZKYVpScmdyVklVd1RnSmxrZ0E",
       "tkey": "熱門族群iPhone18Pro首週末開戰電信三雄首日戰報一次看-上市櫃",
