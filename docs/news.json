@@ -1,36 +1,23 @@
 {
-  "asOf": "2026-09-19T22:00:01.597+08:00",
-  "generatedAt": "2026-09-19T14:00:01.597Z",
+  "asOf": "2026-09-20T11:02:15.640+08:00",
+  "generatedAt": "2026-09-20T03:02:15.640Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
     {
-      "symbol": "6770",
-      "name": "力積電",
-      "days": 4,
-      "dates": [
-        "9/18",
-        "9/17",
-        "9/16",
-        "9/13"
-      ],
-      "mentions": 5,
-      "limitUp": false
-    },
-    {
       "symbol": "2330",
       "name": "台積電",
       "days": 3,
       "dates": [
+        "9/20",
         "9/17",
-        "9/15",
-        "9/13"
+        "9/15"
       ],
       "mentions": 9,
       "status": "逼近新高",
-      "dist": -4.1,
+      "dist": -9.1,
       "limitUp": false
     },
     {
@@ -55,6 +42,18 @@
         "9/16"
       ],
       "mentions": 5,
+      "limitUp": false
+    },
+    {
+      "symbol": "6770",
+      "name": "力積電",
+      "days": 3,
+      "dates": [
+        "9/18",
+        "9/17",
+        "9/16"
+      ],
+      "mentions": 4,
       "limitUp": false
     },
     {
@@ -227,17 +226,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2303",
-      "name": "聯電",
-      "days": 2,
-      "dates": [
-        "9/17",
-        "9/13"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
       "symbol": "6148",
       "name": "驊宏資",
       "days": 2,
@@ -281,6 +269,180 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTFB0cVNUM3Z0bW1Vck9SWUt2TjVQa3UwQWlmMm5Ydk41eTZBbnU1THRQNmZGOGhrOWFYal9hdTZkem5XRnBVc2c5aGNSRV9WN3JIblhpMmFJZ3I",
+      "tkey": "3605宏致-熱門族群AI資料中心光銅並進連接元件吸睛-股市爆料同學會",
+      "title": "3605 宏致- 熱門族群》 AI資料中心光銅並進連接元件吸睛- 股市爆料同學會 - CMoney",
+      "url": "https://www.cmoney.tw/forum/article/184836909",
+      "source": "CMoney",
+      "pubDate": "Sun, 20 Sep 2026 01:38:50 GMT",
+      "stocks": [
+        {
+          "symbol": "3605",
+          "name": "宏致",
+          "point": "AI資料中心光銅並進連接元件吸睛",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 2,
+          "luwd": [
+            "9/18",
+            "9/16"
+          ]
+        },
+        {
+          "symbol": "6190",
+          "name": "萬泰科",
+          "point": "高速傳輸線纜需求",
+          "limitUp": false
+        }
+      ],
+      "background": "AI資料中心需求持續擴大，推動高速傳輸規格升級，連接元件產業受惠於「光銅並進」架構，市場關注度提升。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiX0FVX3lxTE9YdDdDMUU2SHlGQ3dsZFhjYk1NS1NVLXlhS1hZeUtoU1lyY1BON3VDT3RNc2NDb0dvaDZVQjRheVBGRWRXTm4tX1JSQlVmZmdsdVNkUlVqNVZ6Y2N5SEEw0gFkQVVfeXFMTzNNa1lDaFFreFJVUDB0NEJiaHF0S0VhZ3RpOHViNS1teEVRODhfNWhrOFd0elV6WHI2Tl83VUthLV9zNElwbmloNGRDaDdXVElYMl93cmUyZy1oNE1rY3dwZDg5VQ",
+      "tkey": "熱門族群AI資料中心光銅並進連接元件吸睛",
+      "title": "熱門族群》 AI資料中心光銅並進 連接元件吸睛 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5578831",
+      "source": "自由財經",
+      "pubDate": "Sat, 19 Sep 2026 23:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6715",
+          "name": "嘉基",
+          "point": "AI伺服器設計NPO前景佳",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "9/18",
+            "9/16"
+          ]
+        },
+        {
+          "symbol": "8103",
+          "name": "瀚荃",
+          "point": "AI電源類連接元件出貨挹注",
+          "status": "逼近新高",
+          "dist": -2.2,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/17"
+          ]
+        },
+        {
+          "symbol": "3605",
+          "name": "宏致",
+          "point": "算力電力雙引擎放大效益",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 2,
+          "luwd": [
+            "9/18",
+            "9/16"
+          ]
+        },
+        {
+          "symbol": "3665",
+          "name": "貿聯-KY",
+          "point": "AI資料中心光銅分工",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "9/18"
+          ]
+        },
+        {
+          "symbol": "6190",
+          "name": "萬泰科",
+          "point": "高速傳輸線纜需求",
+          "limitUp": false
+        }
+      ],
+      "background": "AI資料中心需求擴大，帶動高速傳輸規格升級，形成機櫃內高速銅、跨機櫃光通訊的「光銅並進」架構，激勵連接元件需求升溫。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiX0FVX3lxTE5RSURMQ2U3UXpVVnFQbTlmWUVVMGRjQkFWN1ZNXy1FVWVDUWNYUW5OMTlBYUVsWVNfOHRVZndZM2tHSlZZUXV1SUlQNGRMTXp5SW0ydFI0d09CWkRFeGFZ0gFkQVVfeXFMTmhrWE50SFpjR1l6X2luVWF2andWV0kyQ1NyY3J4N0RZYUtKZXdVb0dzRngxRVFIb2ZkRnd1cl9MRmtQT0dJNkVMZUw0QTJXblVnMGxGSXlQSnJNQzBjVzJQNUpXNg",
+      "tkey": "熱門族群化工股轉型半導體有成股價扶搖直上",
+      "title": "熱門族群》化工股轉型半導體有成 股價扶搖直上 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5578736",
+      "source": "自由財經",
+      "pubDate": "Sat, 19 Sep 2026 23:00:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1709",
+          "name": "和益",
+          "point": "跨入半導體領域開發碳氫樹脂",
+          "status": "逼近新高",
+          "dist": -8.7,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "9/17",
+            "9/16"
+          ]
+        },
+        {
+          "symbol": "1727",
+          "name": "中華化",
+          "point": "電子級硫酸供應半導體客戶",
+          "status": "逼近新高",
+          "dist": -5.2,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/17"
+          ]
+        },
+        {
+          "symbol": "1312",
+          "name": "國喬",
+          "point": "參與半導體特殊氣體增資案",
+          "limitUp": false
+        },
+        {
+          "symbol": "1710",
+          "name": "東聯",
+          "point": "聚焦電子化學品發展高階材料",
+          "limitUp": false
+        },
+        {
+          "symbol": "1717",
+          "name": "長興",
+          "point": "半導體先進封裝材料出貨增",
+          "limitUp": false
+        },
+        {
+          "symbol": "1722",
+          "name": "台肥",
+          "point": "與台積電合作硫酸資源再利用",
+          "limitUp": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "與台肥簽約合作硫酸資源再利用",
+          "status": "逼近新高",
+          "dist": -9.1,
+          "limitUp": false
+        }
+      ],
+      "background": "化工股積極轉型切入半導體領域，開發高值化產品如高階載板材料、電子級硫酸、特殊氣體等，受惠於半導體產業需求。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPVFRlVE9TdlBKa0I2djFWS29ONlRlb0o1MXRacXFOMXFmWTZqbXJjZ1lCWTJ1VVNRQjI4OGoza1pJbEpDcHhwU0hUY0x0ZEpvWFVYNF9rYXdIMmJ3MkwwV0ZNZVNVdUhLcHVZLTJWdkpibWUybTliNTdsczhWelNPUzdfV2RQYVZi",
       "tkey": "熱門族群管制鬆綁營建股買氣升",
@@ -352,200 +514,6 @@
       "background": "蘋果iPhone新機上市，帶動電信三雄銷量成長，高階機型與新色受歡迎，預期將迎來交機熱潮。",
       "themeTags": [
         "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTFBIN3JYM0VpZEdRZHdNajZ1VUlwcGJLT1BoRmNydjVRbVY4N3o4ZVZMQWltcVRyVW5pcGxuaVAzWnBRcjBVRGJBNkMyQ29ITmRTb0hqTG9NeXA",
-      "tkey": "熱門族群AI盡頭是電力重電族群扮演基建要角",
-      "title": "熱門族群》 AI盡頭是電力 重電族群扮演基建要角 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/qjy05zlmpyf6",
-      "source": "自由時報",
-      "pubDate": "Fri, 18 Sep 2026 06:24:50 GMT",
-      "stocks": [],
-      "background": "AI 發展對電力需求激增，重電族群作為電力基礎設施的關鍵，受惠於全球電網升級與能源轉型政策推動，產業前景看好。",
-      "themeTags": [
-        "需求驅動",
-        "政策關稅"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxQakpHQ215eGN2cmJ4RV9pZ1RIeHYzekRrNW03amYydUM1TjBEOTZaYU1SejBtTmI2NmozTnZtOFNBWkJ3RG5LZy1MMFB3YkR0U1lIYTg1MzZfZmJrUVd3aDBBaWpFZkl4TnZ1cXdTejBHaTNYZGtSbGZjb0hIZU9UM3pBaHREdW8x",
-      "tkey": "熱門族群美光飆5.5%南亞科、華邦電領攻",
-      "title": "《熱門族群》美光飆5.5% 南亞科、華邦電領攻 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6306189001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Fri, 18 Sep 2026 01:49:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2408",
-          "name": "南亞科",
-          "point": "跳空開高大漲約4%",
-          "limitUp": false
-        },
-        {
-          "symbol": "2344",
-          "name": "華邦電",
-          "point": "跳空開高大漲約4%",
-          "limitUp": false
-        },
-        {
-          "symbol": "6770",
-          "name": "力積電",
-          "point": "開高",
-          "limitUp": false
-        },
-        {
-          "symbol": "2337",
-          "name": "旺宏",
-          "point": "穩揚",
-          "limitUp": false
-        }
-      ],
-      "background": "美光股價飆升帶動台系記憶體股跟漲。DRAM供不應求，預計至少延續至2027年。華邦電收購英飛凌NOR Flash與F-RAM事業，鞏固市場領先地位。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxQUlNXM0JNRGw3eHFpSmVaQkcwT0diam16cVd2QjJkaUxDRHZhQjhybm5hWHRBVmx6YnNjQnRXLWpjYnJnZFBESUt3LVpZYzQ5c21zQmQ1QUR4STdXZ2szWEU4THdaU09vaURIaFVWYVBDbklGTjlNdV9vakFBSURhVGVDbDZzemI5",
-      "tkey": "熱門族群SpaceX第14次試飛倒數概念股升空",
-      "title": "《熱門族群》SpaceX第14次試飛倒數 概念股升空 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6306002001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Fri, 18 Sep 2026 00:06:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3491",
-          "name": "昇達科",
-          "point": "主攻波導組件、濾波器",
-          "limitUp": false
-        },
-        {
-          "symbol": "2313",
-          "name": "華通",
-          "point": "SpaceX太空板最大供應商",
-          "limitUp": false
-        },
-        {
-          "symbol": "6285",
-          "name": "啟碁",
-          "point": "布局衛星用戶終端",
-          "limitUp": false
-        },
-        {
-          "symbol": "3138",
-          "name": "耀登",
-          "point": "連拉兩根漲停",
-          "limitUp": false,
-          "luw": 2,
-          "luwd": [
-            "9/17",
-            "9/16"
-          ]
-        },
-        {
-          "symbol": "3105",
-          "name": "穩懋",
-          "point": "砷化鎵晶圓代工",
-          "limitUp": false
-        },
-        {
-          "symbol": "2367",
-          "name": "燿華",
-          "point": "供應高階HDI板",
-          "limitUp": false
-        },
-        {
-          "symbol": "5222",
-          "name": "全訊",
-          "point": "切入低軌衛星用SSPA",
-          "limitUp": false
-        },
-        {
-          "symbol": "5243",
-          "name": "乙盛-KY",
-          "point": "手握天線及散熱訂單",
-          "limitUp": false
-        },
-        {
-          "symbol": "7717",
-          "name": "萊德光電",
-          "point": "連拉兩根漲停",
-          "limitUp": false
-        }
-      ],
-      "background": "SpaceX星艦試飛倒數，將部署第三代星鏈衛星，帶動低軌衛星概念股。高盛證券預估低軌衛星市場將在2035年前成長約7倍，產業規模快速成長。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxOemttb0tMTjhxU1FhNEkxYWpPWldSTkw4eUpKZmdvY3oySkpRMDY5M1k2Y1VldUtkU216a1k5SFNFdHpIaGxOUmpYTm1uRWFoM2J5X0cyVElEZXVrejhNS2VldHVhRzRYZkdTWTVtUW1Rc3FtaGYtajQ5YkpUdlRxcVNSdTZXV3Rf",
-      "tkey": "熱門族群偉訓、富驊AI布局有成營運大躍進",
-      "title": "《熱門族群》偉訓、富驊AI布局有成 營運大躍進 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6306004001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Fri, 18 Sep 2026 00:06:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3032",
-          "name": "偉訓",
-          "point": "機櫃業務占營收三成",
-          "limitUp": false
-        },
-        {
-          "symbol": "5465",
-          "name": "富驊",
-          "point": "訂單能見度至2029年",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "9/18",
-            "9/17",
-            "9/16",
-            "9/15",
-            "9/14"
-          ]
-        }
-      ],
-      "background": "偉訓與富驊受惠AI布局，AI機櫃、HPC、1.6T交換器、光通訊及液冷新品陸續放量，泰國新產能加入，推升集團營運動能。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxQbjRtcFBVdDBYek4xaW5IUHk2a3o4dFdMSUQ4U0ZEZElHc0ZORmxjNlFGeWhyTDMxSlZlWFU3a2hrZ09LNmFJUWROYnVUYllDdGRMTXJqOUt3YU5BUURxUU40Yk1mb3QybVVSMHQzWlY1R3RHNkRzVTdMLW9JOFZ6dDNlQlNDVU1P",
-      "tkey": "熱門族群奇鋐、雙鴻擁題材法人按讚",
-      "title": "《熱門族群》奇鋐、雙鴻擁題材 法人按讚 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6306010001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Fri, 18 Sep 2026 00:06:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3017",
-          "name": "奇鋐",
-          "point": "第三、四季營收強勁成長",
-          "status": "逼近新高",
-          "dist": -6.5,
-          "limitUp": false
-        },
-        {
-          "symbol": "3324",
-          "name": "雙鴻",
-          "point": "法人給予「買進」評等",
-          "status": "逼近新高",
-          "dist": -2.3,
-          "limitUp": false
-        }
-      ],
-      "background": "輝達GB300與ASIC新伺服器放量，AI晶片熱流密度提高，帶動高階水冷板需求。奇鋐、雙鴻具備水冷板設計、製造與系統液冷整合能力，受惠於AI散熱需求。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
       ]
     }
   ]

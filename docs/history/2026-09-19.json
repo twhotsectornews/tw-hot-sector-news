@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-19",
+  "updatedAt": "2026-09-20T03:02:15.635Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPVFRlVE9TdlBKa0I2djFWS29ONlRlb0o1MXRacXFOMXFmWTZqbXJjZ1lCWTJ1VVNRQjI4OGoza1pJbEpDcHhwU0hUY0x0ZEpvWFVYNF9rYXdIMmJ3MkwwV0ZNZVNVdUhLcHVZLTJWdkpibWUybTliNTdsczhWelNPUzdfV2RQYVZi",
+      "tkey": "熱門族群管制鬆綁營建股買氣升",
+      "title": "《熱門族群》管制鬆綁 營建股買氣升 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6307101001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sat, 19 Sep 2026 06:09:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2524",
+          "name": "京城建",
+          "point": "開盤直奔漲停並鎖死",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/18"
+          ]
+        },
+        {
+          "symbol": "9906",
+          "name": "欣巴巴",
+          "point": "開盤直奔漲停並鎖死",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "9/18"
+          ]
+        }
+      ],
+      "background": "央行信用管制政策鬆綁，市場解讀房市交易限制可望逐步放寬，激勵營建股買氣升溫，具推案題材建商受關注。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTE5Cb3I5MlZkUElaaDJwZjJ2R3IwLWRyWm44ck9SdWdmSENrMjI0Vk8wX1BqeDR4OEZKTnpXbk9VNXgzcmJTdEFlWF9wd0xFSkdyOERoMTEtQjZKYVpScmdyVklVd1RnSmxrZ0E",
+      "tkey": "熱門族群iPhone18Pro首週末開戰電信三雄首日戰報一次看-上市櫃",
+      "title": "《熱門族群》iPhone 18 Pro首週末開戰電信三雄首日戰報一次看- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20260919900094-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Sat, 19 Sep 2026 01:31:34 GMT",
+      "stocks": [
+        {
+          "symbol": "2412",
+          "name": "中華電",
+          "point": "iPhone 18 Pro銷量較去年增逾6成",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false
+        },
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "point": "iPhone 18 Pro預購及首賣買氣熱絡",
+          "status": "逼近新高",
+          "dist": -1.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "point": "iPhone 18 Pro首日銷量顯著成長",
+          "status": "逼近新高",
+          "dist": -2.1,
+          "limitUp": false
+        }
+      ],
+      "background": "蘋果iPhone新機上市，帶動電信三雄銷量成長，高階機型與新色受歡迎，預期將迎來交機熱潮。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}
