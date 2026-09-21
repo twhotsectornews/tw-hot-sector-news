@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-21",
+  "updatedAt": "2026-09-21T16:35:17.388Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNVGEtcG1yanF2UEtiOEprNE5XTDFWVTdyakNmcXUxNlppa3pBa3poZEEwcGUycnBEU2FDdGpCWW1HTmhoZDVZVkQySUlKNm8wYzFIdGViZlRMQzdEbzBJUnJJMzlnMmJFSEIzNmFLdTNfbU5QbGRkZm80TFBIRTR1UVFZMXpxX0pZ",
+      "tkey": "熱門族群日月光領衝封測南茂登百元、小兵鎖2紅燈",
+      "title": "《熱門族群》日月光領衝封測 南茂登百元、小兵鎖2紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6308362001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 21 Sep 2026 03:34:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "point": "領衝封測族群，大漲近5%",
+          "status": "逼近新高",
+          "dist": -9.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "2449",
+          "name": "京元電子",
+          "point": "股價強彈",
+          "status": "高檔修正",
+          "dist": -13.4,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/18"
+          ]
+        },
+        {
+          "symbol": "2441",
+          "name": "超豐",
+          "point": "股價強彈",
+          "limitUp": false
+        },
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "point": "股價強彈",
+          "limitUp": false
+        },
+        {
+          "symbol": "2369",
+          "name": "菱生",
+          "point": "股價強彈",
+          "limitUp": false
+        },
+        {
+          "symbol": "8110",
+          "name": "華東",
+          "point": "連鎖兩顆紅燈",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "9/21",
+            "9/18"
+          ]
+        },
+        {
+          "symbol": "8150",
+          "name": "南茂",
+          "point": "攻頂鎖紅燈，重登百元大關",
+          "limitUp": true,
+          "pct": 9.6,
+          "luw": 1,
+          "luwd": [
+            "9/21"
+          ]
+        }
+      ],
+      "background": "受惠AI GPU需求與台積電CoWoS產能吃緊，封測業外溢需求強勁。日月光投控為全球龍頭，南茂也轉向高階邏輯、AI與光通訊封測。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNLXEzb1U2dkV3SE5ETzd3RTFjSjZfU1c3NTZBN2dNbHhmb0hMVkVuSW5ST0N4VE1KLURMWmwtamg5TGRGeUR4ejg3MHJOS21IZ3FaOG85RHV5VE9LOE81TDBGTVoxV1F0bHJpT0tvQjhsVkxOVzVMREdKU293SFVHUERuSXlRUERO",
+      "tkey": "熱門族群友達傳攜英特爾攻CPO大漲8%成交量居冠",
+      "title": "《熱門族群》友達傳攜英特爾攻CPO 大漲8%成交量居冠 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6308316001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 21 Sep 2026 02:18:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "傳攜手英特爾攻CPO，大漲8%成交量居冠",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "9/21"
+          ]
+        },
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "point": "股價增量上攻50元關卡",
+          "limitUp": false
+        }
+      ],
+      "background": "面板雙虎友達與群創積極轉型，跨足AI半導體、先進封裝與光通訊領域，友達傳與英特爾合作CPO，群創推進FOPLP技術。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "updatedAt": "2026-09-21T15:52:00.296Z",
+  "updatedAt": "2026-09-21T16:35:17.389Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE9HZGZFVFJDS0I1Y2RZQW1xSDUtb29GUUx4a0hxUlBNMlp6TXFERWpUWXBrOGxRZXJBX19LSTc4SHR6Q0RabHZOY3Jienp2RmlGZV9BaUtTd0Q",
@@ -32,8 +32,9 @@
           "dist": 0,
           "limitUp": true,
           "pct": 10,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "9/21",
             "9/18",
             "9/16"
           ]
@@ -90,8 +91,9 @@
           "dist": 0,
           "limitUp": true,
           "pct": 10,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "9/21",
             "9/18",
             "9/16"
           ]
@@ -134,8 +136,9 @@
           "status": "逼近新高",
           "dist": -8.7,
           "limitUp": false,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "9/21",
             "9/17",
             "9/16"
           ]

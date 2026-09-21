@@ -1,25 +1,11 @@
 {
-  "asOf": "2026-09-21T23:52:00.299+08:00",
-  "generatedAt": "2026-09-21T15:52:00.299Z",
+  "asOf": "2026-09-22T00:35:17.392+08:00",
+  "generatedAt": "2026-09-21T16:35:17.392Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
-    {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 3,
-      "dates": [
-        "9/20",
-        "9/17",
-        "9/15"
-      ],
-      "mentions": 9,
-      "status": "逼近新高",
-      "dist": -9.1,
-      "limitUp": false
-    },
     {
       "symbol": "2408",
       "name": "南亞科",
@@ -57,6 +43,19 @@
       "limitUp": false
     },
     {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 2,
+      "dates": [
+        "9/20",
+        "9/17"
+      ],
+      "mentions": 7,
+      "status": "逼近新高",
+      "dist": -9.1,
+      "limitUp": false
+    },
+    {
       "symbol": "2409",
       "name": "友達",
       "days": 2,
@@ -66,7 +65,11 @@
       ],
       "mentions": 4,
       "limitUp": true,
-      "pct": 9.9
+      "pct": 9.9,
+      "luw": 1,
+      "luwd": [
+        "9/21"
+      ]
     },
     {
       "symbol": "3481",
@@ -80,19 +83,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2454",
-      "name": "聯發科",
-      "days": 2,
-      "dates": [
-        "9/17",
-        "9/15"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -6.7,
-      "limitUp": false
-    },
-    {
       "symbol": "8110",
       "name": "華東",
       "days": 2,
@@ -103,8 +93,9 @@
       "mentions": 2,
       "limitUp": true,
       "pct": 9.9,
-      "luw": 1,
+      "luw": 2,
       "luwd": [
+        "9/21",
         "9/18"
       ]
     },
@@ -277,8 +268,9 @@
           "point": "連鎖兩顆紅燈",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "9/21",
             "9/18"
           ]
         },
@@ -287,7 +279,11 @@
           "name": "南茂",
           "point": "攻頂鎖紅燈，重登百元大關",
           "limitUp": true,
-          "pct": 9.6
+          "pct": 9.6,
+          "luw": 1,
+          "luwd": [
+            "9/21"
+          ]
         }
       ],
       "background": "受惠AI GPU需求與台積電CoWoS產能吃緊，封測業外溢需求強勁。日月光投控為全球龍頭，南茂也轉向高階邏輯、AI與光通訊封測。",
@@ -310,7 +306,11 @@
           "name": "友達",
           "point": "傳攜手英特爾攻CPO，大漲8%成交量居冠",
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "9/21"
+          ]
         },
         {
           "symbol": "3481",
@@ -355,8 +355,9 @@
           "dist": 0,
           "limitUp": true,
           "pct": 10,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "9/21",
             "9/18",
             "9/16"
           ]
@@ -413,8 +414,9 @@
           "dist": 0,
           "limitUp": true,
           "pct": 10,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "9/21",
             "9/18",
             "9/16"
           ]
@@ -457,8 +459,9 @@
           "status": "逼近新高",
           "dist": -8.7,
           "limitUp": false,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "9/21",
             "9/17",
             "9/16"
           ]
