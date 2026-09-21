@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-21T11:01:20.470+08:00",
-  "generatedAt": "2026-09-21T03:01:20.470Z",
+  "asOf": "2026-09-21T12:03:30.395+08:00",
+  "generatedAt": "2026-09-21T04:03:30.395Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -57,6 +57,29 @@
       "limitUp": false
     },
     {
+      "symbol": "2409",
+      "name": "友達",
+      "days": 2,
+      "dates": [
+        "9/21",
+        "9/17"
+      ],
+      "mentions": 4,
+      "limitUp": true,
+      "pct": 9.9
+    },
+    {
+      "symbol": "3481",
+      "name": "群創",
+      "days": 2,
+      "dates": [
+        "9/21",
+        "9/17"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "2454",
       "name": "聯發科",
       "days": 2,
@@ -68,6 +91,22 @@
       "status": "逼近新高",
       "dist": -6.7,
       "limitUp": false
+    },
+    {
+      "symbol": "8110",
+      "name": "華東",
+      "days": 2,
+      "dates": [
+        "9/21",
+        "9/17"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 9.9,
+      "luw": 1,
+      "luwd": [
+        "9/18"
+      ]
     },
     {
       "symbol": "2337",
@@ -186,6 +225,105 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNVGEtcG1yanF2UEtiOEprNE5XTDFWVTdyakNmcXUxNlppa3pBa3poZEEwcGUycnBEU2FDdGpCWW1HTmhoZDVZVkQySUlKNm8wYzFIdGViZlRMQzdEbzBJUnJJMzlnMmJFSEIzNmFLdTNfbU5QbGRkZm80TFBIRTR1UVFZMXpxX0pZ",
+      "tkey": "熱門族群日月光領衝封測南茂登百元、小兵鎖2紅燈",
+      "title": "《熱門族群》日月光領衝封測 南茂登百元、小兵鎖2紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6308362001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 21 Sep 2026 03:34:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "point": "領衝封測族群，大漲近5%",
+          "status": "逼近新高",
+          "dist": -9.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "2449",
+          "name": "京元電子",
+          "point": "股價強彈",
+          "status": "高檔修正",
+          "dist": -13.4,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/18"
+          ]
+        },
+        {
+          "symbol": "2441",
+          "name": "超豐",
+          "point": "股價強彈",
+          "limitUp": false
+        },
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "point": "股價強彈",
+          "limitUp": false
+        },
+        {
+          "symbol": "2369",
+          "name": "菱生",
+          "point": "股價強彈",
+          "limitUp": false
+        },
+        {
+          "symbol": "8110",
+          "name": "華東",
+          "point": "連鎖兩顆紅燈",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "9/18"
+          ]
+        },
+        {
+          "symbol": "8150",
+          "name": "南茂",
+          "point": "攻頂鎖紅燈，重登百元大關",
+          "limitUp": false
+        }
+      ],
+      "background": "受惠AI GPU需求與台積電CoWoS產能吃緊，封測業外溢需求強勁。日月光投控為全球龍頭，南茂也轉向高階邏輯、AI與光通訊封測。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNLXEzb1U2dkV3SE5ETzd3RTFjSjZfU1c3NTZBN2dNbHhmb0hMVkVuSW5ST0N4VE1KLURMWmwtamg5TGRGeUR4ejg3MHJOS21IZ3FaOG85RHV5VE9LOE81TDBGTVoxV1F0bHJpT0tvQjhsVkxOVzVMREdKU293SFVHUERuSXlRUERO",
+      "tkey": "熱門族群友達傳攜英特爾攻CPO大漲8%成交量居冠",
+      "title": "《熱門族群》友達傳攜英特爾攻CPO 大漲8%成交量居冠 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6308316001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 21 Sep 2026 02:18:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "傳攜手英特爾攻CPO，大漲8%成交量居冠",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "point": "股價增量上攻50元關卡",
+          "limitUp": false
+        }
+      ],
+      "background": "面板雙虎友達與群創積極轉型，跨足AI半導體、先進封裝與光通訊領域，友達傳與英特爾合作CPO，群創推進FOPLP技術。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
     {
       "gid": "CBMiWEFVX3lxTE9HZGZFVFJDS0I1Y2RZQW1xSDUtb29GUUx4a0hxUlBNMlp6TXFERWpUWXBrOGxRZXJBX19LSTc4SHR6Q0RabHZOY3Jienp2RmlGZV9BaUtTd0Q",
       "tkey": "熱門族群低軌衛星產業發燒太空板PCB前景看俏",
@@ -370,79 +508,6 @@
         }
       ],
       "background": "化工股積極轉型切入半導體領域，開發高值化產品如高階載板材料、電子級硫酸、特殊氣體等，受惠於半導體產業需求。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxPVFRlVE9TdlBKa0I2djFWS29ONlRlb0o1MXRacXFOMXFmWTZqbXJjZ1lCWTJ1VVNRQjI4OGoza1pJbEpDcHhwU0hUY0x0ZEpvWFVYNF9rYXdIMmJ3MkwwV0ZNZVNVdUhLcHVZLTJWdkpibWUybTliNTdsczhWelNPUzdfV2RQYVZi",
-      "tkey": "熱門族群管制鬆綁營建股買氣升",
-      "title": "《熱門族群》管制鬆綁 營建股買氣升 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6307101001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Sat, 19 Sep 2026 06:09:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2524",
-          "name": "京城建",
-          "point": "開盤直奔漲停並鎖死",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "9/18"
-          ]
-        },
-        {
-          "symbol": "9906",
-          "name": "欣巴巴",
-          "point": "開盤直奔漲停並鎖死",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 1,
-          "luwd": [
-            "9/18"
-          ]
-        }
-      ],
-      "background": "央行信用管制政策鬆綁，市場解讀房市交易限制可望逐步放寬，激勵營建股買氣升溫，具推案題材建商受關注。",
-      "themeTags": [
-        "政策關稅"
-      ]
-    },
-    {
-      "gid": "CBMiakFVX3lxTE5Cb3I5MlZkUElaaDJwZjJ2R3IwLWRyWm44ck9SdWdmSENrMjI0Vk8wX1BqeDR4OEZKTnpXbk9VNXgzcmJTdEFlWF9wd0xFSkdyOERoMTEtQjZKYVpScmdyVklVd1RnSmxrZ0E",
-      "tkey": "熱門族群iPhone18Pro首週末開戰電信三雄首日戰報一次看-上市櫃",
-      "title": "《熱門族群》iPhone 18 Pro首週末開戰電信三雄首日戰報一次看- 上市櫃 - 旺得富理財網",
-      "url": "https://wantrich.chinatimes.com/news/20260919900094-420101",
-      "source": "旺得富理財網",
-      "pubDate": "Sat, 19 Sep 2026 01:31:34 GMT",
-      "stocks": [
-        {
-          "symbol": "2412",
-          "name": "中華電",
-          "point": "iPhone 18 Pro銷量較去年增逾6成",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": false
-        },
-        {
-          "symbol": "3045",
-          "name": "台灣大",
-          "point": "iPhone 18 Pro預購及首賣買氣熱絡",
-          "status": "逼近新高",
-          "dist": -1.2,
-          "limitUp": false
-        },
-        {
-          "symbol": "4904",
-          "name": "遠傳",
-          "point": "iPhone 18 Pro首日銷量顯著成長",
-          "status": "逼近新高",
-          "dist": -2.1,
-          "limitUp": false
-        }
-      ],
-      "background": "蘋果iPhone新機上市，帶動電信三雄銷量成長，高階機型與新色受歡迎，預期將迎來交機熱潮。",
       "themeTags": [
         "需求驅動"
       ]
