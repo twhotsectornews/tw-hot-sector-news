@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "updatedAt": "2026-09-21T05:02:51.151Z",
+  "updatedAt": "2026-09-21T06:05:43.808Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPVFRlVE9TdlBKa0I2djFWS29ONlRlb0o1MXRacXFOMXFmWTZqbXJjZ1lCWTJ1VVNRQjI4OGoza1pJbEpDcHhwU0hUY0x0ZEpvWFVYNF9rYXdIMmJ3MkwwV0ZNZVNVdUhLcHVZLTJWdkpibWUybTliNTdsczhWelNPUzdfV2RQYVZi",
@@ -9,27 +9,8 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6307101001&PU=1002",
       "source": "富聯網",
       "pubDate": "Sat, 19 Sep 2026 06:09:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2524",
-          "name": "京城建",
-          "point": "開盤直奔漲停並鎖死至收盤",
-          "luw": 1,
-          "luwd": [
-            "9/18"
-          ]
-        },
-        {
-          "symbol": "9906",
-          "name": "欣巴巴",
-          "point": "開盤直奔漲停並鎖死至收盤",
-          "luw": 1,
-          "luwd": [
-            "9/18"
-          ]
-        }
-      ],
-      "background": "央行信用管制政策鬆綁，市場解讀房市交易限制可望逐步放寬，激勵營建股買氣升溫。建商推案題材與土地開發布局受關注。",
+      "stocks": [],
+      "background": "政府管制鬆綁，有利於營建業發展，市場買氣升溫，預期將帶動相關個股表現。",
       "themeTags": [
         "政策關稅"
       ]
@@ -45,26 +26,26 @@
         {
           "symbol": "2412",
           "name": "中華電",
-          "point": "iPhone 18 Pro銷量較去年大增逾6成",
+          "point": "iPhone 18 Pro銷量增逾6成",
           "status": "逼近新高",
-          "dist": -1
+          "dist": -0.7
         },
         {
           "symbol": "3045",
           "name": "台灣大",
-          "point": "iPhone 18 Pro預購及首賣買氣熱絡",
+          "point": "iPhone 18 Pro預購買氣熱絡",
           "status": "逼近新高",
-          "dist": -1.2
+          "dist": -0.8
         },
         {
           "symbol": "4904",
           "name": "遠傳",
-          "point": "iPhone 18 Pro首日銷量顯著成長",
+          "point": "iPhone 18 Pro銷量顯著成長",
           "status": "逼近新高",
           "dist": -3
         }
       ],
-      "background": "蘋果iPhone 18 Pro系列新機開賣，電信三雄受惠於高階機種買氣升溫，帶動換機需求。新色與容量升級為消費者選購重點。",
+      "background": "蘋果新機iPhone 18 Pro系列上市，電信三雄積極搶市，帶動換機需求，新色與高階機型受歡迎。",
       "themeTags": [
         "需求驅動"
       ]
