@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-22T16:03:12.272+08:00",
-  "generatedAt": "2026-09-22T08:03:12.272Z",
+  "asOf": "2026-09-22T17:41:35.157+08:00",
+  "generatedAt": "2026-09-22T09:41:35.157Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -239,6 +239,45 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPVVdLSzZUREtVNk56blk2LUdReG1vdGFfTzJSQlAxMnBSQjlOX3NmSG5HU0gwWWFYUlRtRF9fa3VZbTdhVUVaSEF1RjdGdGpTWU85c1UwcVFJeFpPdnlkdlVreV9yU0FCUFkwVUNTUURST19mc3p6cmJLcHZZS3BEME1ORWxLZm84",
+      "tkey": "熱門族群全球DRAM模組營收吸金212億美元威剛、宜鼎搭AI順風車",
+      "title": "《熱門族群》全球DRAM模組營收吸金212億美元 威剛、宜鼎搭AI順風車 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6309721001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 22 Sep 2026 08:14:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3260",
+          "name": "威剛",
+          "point": "低成本庫存放大獲利，營收大增82%奪全球第2",
+          "limitUp": false
+        },
+        {
+          "symbol": "5289",
+          "name": "宜鼎",
+          "point": "專攻工控與邊緣AI，營收翻倍狂飆132%拿下第7",
+          "limitUp": false
+        },
+        {
+          "symbol": "4967",
+          "name": "十銓",
+          "point": "搶攻北美通路繳出亮麗成績",
+          "limitUp": false
+        },
+        {
+          "symbol": "8271",
+          "name": "宇瞻",
+          "point": "確保料源策略繳出亮麗成績",
+          "limitUp": false
+        }
+      ],
+      "background": "全球AI伺服器算力建置潮引發記憶體原廠產能排擠，DRAM模組市場營收飆升。台廠威剛、宜鼎等受惠於低價庫存與高階應用轉型，營收獲利強勁。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOTXJRbVZVTUMzbjdlOTI1VkxYWVRfYlZ4cE1ZYnpHM0VQUDA1aDNPYWVTTEQ5M3QzU1JrcnBtRmVzQWx3dFMxVmNmQVdqSkNTOEl6cFpZamYyTHV5bXNYMUFycEdNWHN5UW1WcWhGQUx4Z1lWd3ZkT05BSEpFNjFRb0tycVJRMWdL",
       "tkey": "熱門族群環球晶戰千金！矽晶圓滿村紅1檔強衝頂",
