@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-22T00:35:17.392+08:00",
-  "generatedAt": "2026-09-21T16:35:17.392Z",
+  "asOf": "2026-09-22T11:03:19.786+08:00",
+  "generatedAt": "2026-09-22T03:03:19.786Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -80,6 +80,28 @@
         "9/17"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2383",
+      "name": "台光電",
+      "days": 2,
+      "dates": [
+        "9/22",
+        "9/17"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "6274",
+      "name": "台燿",
+      "days": 2,
+      "dates": [
+        "9/22",
+        "9/17"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -217,6 +239,38 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxPNTBobTFpYzAtSkRFdUpxbkJZdTkxTmpuaEs3SUlHS2hOX3J3NVpqdmpRRjNYYjlEcjJ2Q2k0bERJZXRVWEZuR1c2eUpmcFZmWDNlQk5WUVFlMElaN0l1Q240R2NRVUxXTHpjcG5zelRidjVxOHBSN2JNM2ZUS1lSbzBueXhXVTRv",
+      "tkey": "熱門族群CCL掀全球擴產競賽三雄也跟上",
+      "title": "《熱門族群》CCL掀全球擴產競賽 三雄也跟上 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6309108001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 21 Sep 2026 23:51:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "加碼資本支出擴充產能",
+          "limitUp": false
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "兩度公告擴產計畫",
+          "limitUp": false
+        },
+        {
+          "symbol": "6121",
+          "name": "聯茂",
+          "point": "推進泰國與無錫擴產",
+          "limitUp": false
+        }
+      ],
+      "background": "高階銅箔基板（CCL）受AI伺服器、高速交換器需求強勁帶動，全球掀起擴產競賽，台灣三雄也積極卡位高速材料商機。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNVGEtcG1yanF2UEtiOEprNE5XTDFWVTdyakNmcXUxNlppa3pBa3poZEEwcGUycnBEU2FDdGpCWW1HTmhoZDVZVkQySUlKNm8wYzFIdGViZlRMQzdEbzBJUnJJMzlnMmJFSEIzNmFLdTNfbU5QbGRkZm80TFBIRTR1UVFZMXpxX0pZ",
       "tkey": "熱門族群日月光領衝封測南茂登百元、小兵鎖2紅燈",
       "title": "《熱門族群》日月光領衝封測 南茂登百元、小兵鎖2紅燈 - 富聯網",
@@ -248,7 +302,9 @@
           "symbol": "2441",
           "name": "超豐",
           "point": "股價強彈",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14.5
         },
         {
           "symbol": "6239",
@@ -323,197 +379,6 @@
       "themeTags": [
         "需求驅動",
         "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTE9HZGZFVFJDS0I1Y2RZQW1xSDUtb29GUUx4a0hxUlBNMlp6TXFERWpUWXBrOGxRZXJBX19LSTc4SHR6Q0RabHZOY3Jienp2RmlGZV9BaUtTd0Q",
-      "tkey": "熱門族群低軌衛星產業發燒太空板PCB前景看俏",
-      "title": "熱門族群》低軌衛星產業發燒 太空板PCB前景看俏 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/j2srhbjxzeyj",
-      "source": "自由時報",
-      "pubDate": "Sun, 20 Sep 2026 07:02:41 GMT",
-      "stocks": [],
-      "background": "低軌衛星產業受惠於全球通訊需求與地緣政治影響，各國積極發展衛星網路，相關零組件需求看漲，產業處於成長初期。",
-      "themeTags": [
-        "需求驅動",
-        "政策關稅"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTFB0cVNUM3Z0bW1Vck9SWUt2TjVQa3UwQWlmMm5Ydk41eTZBbnU1THRQNmZGOGhrOWFYal9hdTZkem5XRnBVc2c5aGNSRV9WN3JIblhpMmFJZ3I",
-      "tkey": "3605宏致-熱門族群AI資料中心光銅並進連接元件吸睛-股市爆料同學會",
-      "title": "3605 宏致- 熱門族群》 AI資料中心光銅並進連接元件吸睛- 股市爆料同學會 - CMoney",
-      "url": "https://www.cmoney.tw/forum/article/184836909",
-      "source": "CMoney",
-      "pubDate": "Sun, 20 Sep 2026 01:38:50 GMT",
-      "stocks": [
-        {
-          "symbol": "3605",
-          "name": "宏致",
-          "point": "AI資料中心光銅並進連接元件吸睛",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 10,
-          "luw": 3,
-          "luwd": [
-            "9/21",
-            "9/18",
-            "9/16"
-          ]
-        },
-        {
-          "symbol": "6190",
-          "name": "萬泰科",
-          "point": "高速傳輸線纜需求",
-          "limitUp": false
-        }
-      ],
-      "background": "AI資料中心需求持續擴大，推動高速傳輸規格升級，連接元件產業受惠於「光銅並進」架構，市場關注度提升。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiX0FVX3lxTE9YdDdDMUU2SHlGQ3dsZFhjYk1NS1NVLXlhS1hZeUtoU1lyY1BON3VDT3RNc2NDb0dvaDZVQjRheVBGRWRXTm4tX1JSQlVmZmdsdVNkUlVqNVZ6Y2N5SEEw0gFkQVVfeXFMTzNNa1lDaFFreFJVUDB0NEJiaHF0S0VhZ3RpOHViNS1teEVRODhfNWhrOFd0elV6WHI2Tl83VUthLV9zNElwbmloNGRDaDdXVElYMl93cmUyZy1oNE1rY3dwZDg5VQ",
-      "tkey": "熱門族群AI資料中心光銅並進連接元件吸睛",
-      "title": "熱門族群》 AI資料中心光銅並進 連接元件吸睛 - 自由財經",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5578831",
-      "source": "自由財經",
-      "pubDate": "Sat, 19 Sep 2026 23:05:00 GMT",
-      "stocks": [
-        {
-          "symbol": "6715",
-          "name": "嘉基",
-          "point": "AI伺服器設計NPO前景佳",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 2,
-          "luwd": [
-            "9/18",
-            "9/16"
-          ]
-        },
-        {
-          "symbol": "8103",
-          "name": "瀚荃",
-          "point": "AI電源類連接元件出貨挹注",
-          "status": "逼近新高",
-          "dist": -2.2,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "9/17"
-          ]
-        },
-        {
-          "symbol": "3605",
-          "name": "宏致",
-          "point": "算力電力雙引擎放大效益",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 10,
-          "luw": 3,
-          "luwd": [
-            "9/21",
-            "9/18",
-            "9/16"
-          ]
-        },
-        {
-          "symbol": "3665",
-          "name": "貿聯-KY",
-          "point": "AI資料中心光銅分工",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 1,
-          "luwd": [
-            "9/18"
-          ]
-        },
-        {
-          "symbol": "6190",
-          "name": "萬泰科",
-          "point": "高速傳輸線纜需求",
-          "limitUp": false
-        }
-      ],
-      "background": "AI資料中心需求擴大，帶動高速傳輸規格升級，形成機櫃內高速銅、跨機櫃光通訊的「光銅並進」架構，激勵連接元件需求升溫。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiX0FVX3lxTE5RSURMQ2U3UXpVVnFQbTlmWUVVMGRjQkFWN1ZNXy1FVWVDUWNYUW5OMTlBYUVsWVNfOHRVZndZM2tHSlZZUXV1SUlQNGRMTXp5SW0ydFI0d09CWkRFeGFZ0gFkQVVfeXFMTmhrWE50SFpjR1l6X2luVWF2andWV0kyQ1NyY3J4N0RZYUtKZXdVb0dzRngxRVFIb2ZkRnd1cl9MRmtQT0dJNkVMZUw0QTJXblVnMGxGSXlQSnJNQzBjVzJQNUpXNg",
-      "tkey": "熱門族群化工股轉型半導體有成股價扶搖直上",
-      "title": "熱門族群》化工股轉型半導體有成 股價扶搖直上 - 自由財經",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5578736",
-      "source": "自由財經",
-      "pubDate": "Sat, 19 Sep 2026 23:00:00 GMT",
-      "stocks": [
-        {
-          "symbol": "1709",
-          "name": "和益",
-          "point": "跨入半導體領域開發碳氫樹脂",
-          "status": "逼近新高",
-          "dist": -8.7,
-          "limitUp": false,
-          "luw": 3,
-          "luwd": [
-            "9/21",
-            "9/17",
-            "9/16"
-          ]
-        },
-        {
-          "symbol": "1727",
-          "name": "中華化",
-          "point": "電子級硫酸供應半導體客戶",
-          "status": "逼近新高",
-          "dist": -5.2,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "9/17"
-          ]
-        },
-        {
-          "symbol": "1312",
-          "name": "國喬",
-          "point": "參與半導體特殊氣體增資案",
-          "limitUp": false
-        },
-        {
-          "symbol": "1710",
-          "name": "東聯",
-          "point": "聚焦電子化學品發展高階材料",
-          "limitUp": false
-        },
-        {
-          "symbol": "1717",
-          "name": "長興",
-          "point": "半導體先進封裝材料出貨增",
-          "limitUp": false
-        },
-        {
-          "symbol": "1722",
-          "name": "台肥",
-          "point": "與台積電合作硫酸資源再利用",
-          "limitUp": false
-        },
-        {
-          "symbol": "2330",
-          "name": "台積電",
-          "point": "與台肥簽約合作硫酸資源再利用",
-          "status": "逼近新高",
-          "dist": -9.1,
-          "limitUp": false
-        }
-      ],
-      "background": "化工股積極轉型切入半導體領域，開發高值化產品如高階載板材料、電子級硫酸、特殊氣體等，受惠於半導體產業需求。",
-      "themeTags": [
-        "需求驅動"
       ]
     }
   ]
