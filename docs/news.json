@@ -1,11 +1,27 @@
 {
-  "asOf": "2026-09-22T12:03:52.231+08:00",
-  "generatedAt": "2026-09-22T04:03:52.231Z",
+  "asOf": "2026-09-22T13:05:30.254+08:00",
+  "generatedAt": "2026-09-22T05:05:30.254Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "2409",
+      "name": "友達",
+      "days": 3,
+      "dates": [
+        "9/22",
+        "9/21",
+        "9/17"
+      ],
+      "mentions": 5,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "9/21"
+      ]
+    },
     {
       "symbol": "2408",
       "name": "南亞科",
@@ -54,22 +70,6 @@
       "status": "逼近新高",
       "dist": -9.1,
       "limitUp": false
-    },
-    {
-      "symbol": "2409",
-      "name": "友達",
-      "days": 2,
-      "dates": [
-        "9/21",
-        "9/17"
-      ],
-      "mentions": 4,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 1,
-      "luwd": [
-        "9/21"
-      ]
     },
     {
       "symbol": "3481",
@@ -239,6 +239,52 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxOTXJRbVZVTUMzbjdlOTI1VkxYWVRfYlZ4cE1ZYnpHM0VQUDA1aDNPYWVTTEQ5M3QzU1JrcnBtRmVzQWx3dFMxVmNmQVdqSkNTOEl6cFpZamYyTHV5bXNYMUFycEdNWHN5UW1WcWhGQUx4Z1lWd3ZkT05BSEpFNjFRb0tycVJRMWdL",
+      "tkey": "熱門族群環球晶戰千金！矽晶圓滿村紅1檔強衝頂",
+      "title": "《熱門族群》環球晶戰千金！矽晶圓滿村紅 1檔強衝頂 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6309400001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 22 Sep 2026 02:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "point": "股價挑戰千元大關",
+          "limitUp": false
+        }
+      ],
+      "background": "矽晶圓為半導體關鍵材料，受惠於半導體產業景氣復甦與AI相關需求帶動，產業鏈需求回溫。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQNFF4SGpKdEgtUTlFeUczTzFtczhtSHF1dDBldk9rbHhFbkRVOERyZWtmWEdjRk9ySlFGd3QwR3ZTOHo1VUpzRDJnMGpiSk50c3FiSmtTOUlWRFVXOE5VU04zbzliaTAwQnJvVF9MbmIxUGR2ZEc2ZHJIX0JmRFhNbFlhdlNZRDZS",
+      "tkey": "熱門族群友達連2天漲停創新高面板三虎人氣火爆",
+      "title": "《熱門族群》友達連2天漲停創新高 面板三虎人氣火爆 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6309399001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 22 Sep 2026 02:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "股價連續兩天漲停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/21"
+          ]
+        }
+      ],
+      "background": "面板產業受惠於電視、IT產品需求回溫，加上面板廠嚴控產能，供需結構改善，帶動報價上漲。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxPNTBobTFpYzAtSkRFdUpxbkJZdTkxTmpuaEs3SUlHS2hOX3J3NVpqdmpRRjNYYjlEcjJ2Q2k0bERJZXRVWEZuR1c2eUpmcFZmWDNlQk5WUVFlMElaN0l1Q240R2NRVUxXTHpjcG5zelRidjVxOHBSN2JNM2ZUS1lSbzBueXhXVTRv",
       "tkey": "熱門族群CCL掀全球擴產競賽三雄也跟上",
       "title": "《熱門族群》CCL掀全球擴產競賽 三雄也跟上 - 富聯網",
@@ -348,6 +394,20 @@
       "themeTags": [
         "需求驅動",
         "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE9rcXFZTkJTUUxZSXZCeUV1XzMwUlBnV09YV1RVdTRFV3ItM2lSMl9mRndSUlI0djZIdVoyMkhxZHZqWXRsa0wybV80X3I2M2o2MUM5UkJWOUI",
+      "tkey": "熱門族群AI外溢成熟製程回溫晶圓代工下半年動能看俏",
+      "title": "熱門族群》AI外溢成熟製程回溫 晶圓代工下半年動能看俏 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/t4ypkutddeml",
+      "source": "自由時報",
+      "pubDate": "Mon, 21 Sep 2026 03:08:33 GMT",
+      "stocks": [],
+      "background": "AI需求外溢效應帶動成熟製程晶圓代工訂單回溫，下半年動能看俏，產業景氣逐步復甦。",
+      "themeTags": [
+        "需求驅動",
         "循環位置"
       ]
     },

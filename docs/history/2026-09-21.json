@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "updatedAt": "2026-09-22T04:03:52.223Z",
+  "updatedAt": "2026-09-22T05:05:30.250Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNVGEtcG1yanF2UEtiOEprNE5XTDFWVTdyakNmcXUxNlppa3pBa3poZEEwcGUycnBEU2FDdGpCWW1HTmhoZDVZVkQySUlKNm8wYzFIdGViZlRMQzdEbzBJUnJJMzlnMmJFSEIzNmFLdTNfbU5QbGRkZm80TFBIRTR1UVFZMXpxX0pZ",
@@ -80,6 +80,20 @@
       "themeTags": [
         "需求驅動",
         "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE9rcXFZTkJTUUxZSXZCeUV1XzMwUlBnV09YV1RVdTRFV3ItM2lSMl9mRndSUlI0djZIdVoyMkhxZHZqWXRsa0wybV80X3I2M2o2MUM5UkJWOUI",
+      "tkey": "熱門族群AI外溢成熟製程回溫晶圓代工下半年動能看俏",
+      "title": "熱門族群》AI外溢成熟製程回溫 晶圓代工下半年動能看俏 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/t4ypkutddeml",
+      "source": "自由時報",
+      "pubDate": "Mon, 21 Sep 2026 03:08:33 GMT",
+      "stocks": [],
+      "background": "AI需求外溢效應帶動成熟製程晶圓代工訂單回溫，下半年動能看俏，產業景氣逐步復甦。",
+      "themeTags": [
+        "需求驅動",
         "循環位置"
       ]
     },

@@ -1,7 +1,33 @@
 {
   "date": "2026-09-20",
-  "updatedAt": "2026-09-22T03:03:19.784Z",
+  "updatedAt": "2026-09-22T05:05:30.251Z",
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE5hc3BycElaUE9sRjZxMUpkaFkwVGVJeFg0ZWFxZEM1UHlxZGg1Mkp3MFN0aU1FekNFRUlRS0FPZXJrV1NpU3VBYVNuZUpuSm0wNjV5ZjRvTjA",
+      "tkey": "熱門族群化工股轉型半導體有成股價扶搖直上",
+      "title": "熱門族群》化工股轉型半導體有成 股價扶搖直上 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/kkqdmbx050rn",
+      "source": "自由時報",
+      "pubDate": "Sun, 20 Sep 2026 15:01:01 GMT",
+      "stocks": [],
+      "background": "部分化工廠成功轉型跨足半導體材料領域，受惠於半導體產業成長，帶動公司營運與股價表現。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE56cDBrRURuYlhPR0g0cTNkTTdVc21XMlY4VmV3TkVsQ0hDWGxmS2ZkUmVpZmIxaGQ5WUVIbVRBUzJSeXJla1U4MTZqQnZSakEtdi05UmM3Y2w",
+      "tkey": "熱門族群AI資料中心光銅並進連接元件吸睛",
+      "title": "熱門族群》 AI資料中心光銅並進 連接元件吸睛 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/pb0vzqv0qusn",
+      "source": "自由時報",
+      "pubDate": "Sun, 20 Sep 2026 10:09:01 GMT",
+      "stocks": [],
+      "background": "AI資料中心對高速傳輸需求大增，光纖與銅纜連接元件並進，相關供應商受惠。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiWEFVX3lxTE9HZGZFVFJDS0I1Y2RZQW1xSDUtb29GUUx4a0hxUlBNMlp6TXFERWpUWXBrOGxRZXJBX19LSTc4SHR6Q0RabHZOY3Jienp2RmlGZV9BaUtTd0Q",
       "tkey": "熱門族群低軌衛星產業發燒太空板PCB前景看俏",
@@ -10,10 +36,9 @@
       "source": "自由時報",
       "pubDate": "Sun, 20 Sep 2026 07:02:41 GMT",
       "stocks": [],
-      "background": "低軌衛星產業受惠於全球通訊需求與地緣政治影響，各國積極發展衛星網路，相關零組件需求看漲，產業處於成長初期。",
+      "background": "低軌衛星產業快速發展，帶動相關太空板PCB需求，前景看好，為新興應用市場。",
       "themeTags": [
-        "需求驅動",
-        "政策關稅"
+        "需求驅動"
       ]
     },
     {
