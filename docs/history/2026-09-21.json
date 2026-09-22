@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "updatedAt": "2026-09-22T03:03:19.783Z",
+  "updatedAt": "2026-09-22T04:03:52.223Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNVGEtcG1yanF2UEtiOEprNE5XTDFWVTdyakNmcXUxNlppa3pBa3poZEEwcGUycnBEU2FDdGpCWW1HTmhoZDVZVkQySUlKNm8wYzFIdGViZlRMQzdEbzBJUnJJMzlnMmJFSEIzNmFLdTNfbU5QbGRkZm80TFBIRTR1UVFZMXpxX0pZ",
@@ -68,6 +68,8 @@
           "point": "攻頂鎖紅燈，重登百元大關",
           "limitUp": true,
           "pct": 9.6,
+          "status": "高檔修正",
+          "dist": -14.4,
           "luw": 1,
           "luwd": [
             "9/21"
