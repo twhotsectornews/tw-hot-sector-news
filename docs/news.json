@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-23T11:03:58.352+08:00",
-  "generatedAt": "2026-09-23T03:03:58.352Z",
+  "asOf": "2026-09-23T12:03:32.295+08:00",
+  "generatedAt": "2026-09-23T04:03:32.295Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -354,6 +354,66 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNemZ1LUx0OF8zM0FqOGNVQlhEOTBpWkJVUHVJM0pTWDI5WFhYOWRpVWNPRFhheEh0ZWxZVGFac3FBcFNRYUdrQXo0cVdJM3A0MjlnUmduak9sMy1mcHFUZ1hCbEUyUmtkRXNyNE1WYUdWVFpwbHVuYVZPQjJETmZ0Sk9fUlVuX01E",
+      "tkey": "熱門族群Meta添光！宏達電領AI眼鏡發亮2顆紅燈先鎖",
+      "title": "《熱門族群》Meta添光！宏達電領AI眼鏡發亮 2顆紅燈先鎖 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6310446001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 23 Sep 2026 03:04:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2498",
+          "name": "宏達電",
+          "point": "預告發表全新神秘產品",
+          "limitUp": false
+        },
+        {
+          "symbol": "6237",
+          "name": "驊訊",
+          "point": "鎖紅燈",
+          "limitUp": false
+        },
+        {
+          "symbol": "3294",
+          "name": "英濟",
+          "point": "鎖紅燈",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "6456",
+          "name": "GIS-KY",
+          "point": "吸引買盤追捧價量俱揚",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/21"
+          ]
+        },
+        {
+          "symbol": "3645",
+          "name": "達邁",
+          "point": "吸引買盤追捧價量俱揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "6742",
+          "name": "澤米",
+          "point": "吸引買盤追捧價量俱揚",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/17"
+          ]
+        }
+      ],
+      "background": "Meta 將發表 AI 眼鏡等穿戴新品，帶動相關概念股買氣。AI 眼鏡出貨量預計年增 263%，長期成長趨勢明確。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPMGpuYmg4eVRsd0IwUEVNQjI0cTA2cVVYZ3JoMHdBYlVsaVRxOUdWcVpzYkdjY1lFLTk4aE16U1FmcV9vTXpFeExxVkRZU2RFNjQ2bHZaNWEzb3lRZjNzZEJwQl9wTVZ6c1lYbmNQN2hKQnJscDQ2UkRpTjg4eWNCUkhSZFpYZ3FG",
       "tkey": "熱門族群獨霸AI晶片散熱健策飆天價、奇鋐同樂",
