@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-23T12:03:32.295+08:00",
-  "generatedAt": "2026-09-23T04:03:32.295Z",
+  "asOf": "2026-09-23T13:08:28.152+08:00",
+  "generatedAt": "2026-09-23T05:08:28.152Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -23,6 +23,20 @@
         "9/22",
         "9/21"
       ]
+    },
+    {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 3,
+      "dates": [
+        "9/23",
+        "9/20",
+        "9/17"
+      ],
+      "mentions": 8,
+      "status": "逼近新高",
+      "dist": -1.3,
+      "limitUp": false
     },
     {
       "symbol": "2408",
@@ -70,19 +84,6 @@
         "9/17"
       ],
       "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 2,
-      "dates": [
-        "9/20",
-        "9/17"
-      ],
-      "mentions": 7,
-      "status": "逼近新高",
-      "dist": -9.1,
       "limitUp": false
     },
     {
@@ -355,6 +356,96 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxNWThYU3BsMkZwQUdPS20zU1BTLU42WUV1SlhKZXViRFA5eU44a1lERVJ0Yzh0SHlVbjlvOFFOaFJEVWl1ZjVUV2ZYYVJ3S0pIRGtHaDlUTlg0Z3NrYS1zQ0pHb0IxYnlTTUR6NW9ZdFhaSEQyZ3pxTjVXUk42ajBjU1NaZlNkTTRQ",
+      "tkey": "熱門族群功率元件漲聲響！5顆紅燈放閃嘉晶月噴4成",
+      "title": "《熱門族群》功率元件漲聲響！5顆紅燈放閃 嘉晶月噴4成 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6310531001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 23 Sep 2026 04:13:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "權王撐盤指數重登大關",
+          "status": "逼近新高",
+          "dist": -1.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "2342",
+          "name": "茂矽",
+          "point": "功率元件強鎖漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3016",
+          "name": "嘉晶",
+          "point": "功率元件強鎖漲停，月噴4成",
+          "status": "逼近新高",
+          "dist": -4.9,
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 1,
+          "luwd": [
+            "9/22"
+          ]
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "功率元件強鎖漲停",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false
+        },
+        {
+          "symbol": "3675",
+          "name": "德微",
+          "point": "功率元件強鎖漲停，8月營收創新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "3317",
+          "name": "尼克森",
+          "point": "功率元件強鎖漲停",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "3707",
+          "name": "漢磊",
+          "point": "功率元件聯袂走高",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "9/22",
+            "9/21",
+            "9/18",
+            "9/17",
+            "9/16"
+          ]
+        },
+        {
+          "symbol": "8255",
+          "name": "朋程",
+          "point": "功率元件聯袂走高",
+          "limitUp": false
+        },
+        {
+          "symbol": "7712",
+          "name": "博盛半導體",
+          "point": "功率元件聯袂走高",
+          "limitUp": false
+        }
+      ],
+      "background": "AI伺服器電源升級潮與化合物磊晶車用需求推動功率元件漲價，國際大廠德州儀器、瑞薩、安森美接連調價，台廠有望受惠產品組合與價格改善。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNemZ1LUx0OF8zM0FqOGNVQlhEOTBpWkJVUHVJM0pTWDI5WFhYOWRpVWNPRFhheEh0ZWxZVGFac3FBcFNRYUdrQXo0cVdJM3A0MjlnUmduak9sMy1mcHFUZ1hCbEUyUmtkRXNyNE1WYUdWVFpwbHVuYVZPQjJETmZ0Sk9fUlVuX01E",
       "tkey": "熱門族群Meta添光！宏達電領AI眼鏡發亮2顆紅燈先鎖",
       "title": "《熱門族群》Meta添光！宏達電領AI眼鏡發亮 2顆紅燈先鎖 - 富聯網",
@@ -372,14 +463,14 @@
           "symbol": "6237",
           "name": "驊訊",
           "point": "鎖紅燈",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "3294",
           "name": "英濟",
           "point": "鎖紅燈",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "6456",
