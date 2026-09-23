@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-23T13:08:28.152+08:00",
-  "generatedAt": "2026-09-23T05:08:28.152Z",
+  "asOf": "2026-09-23T14:03:10.598+08:00",
+  "generatedAt": "2026-09-23T06:03:10.598Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -375,7 +375,8 @@
           "symbol": "2342",
           "name": "茂矽",
           "point": "功率元件強鎖漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "3016",
@@ -396,7 +397,8 @@
           "point": "功率元件強鎖漲停",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "3675",
@@ -408,14 +410,14 @@
           "symbol": "3317",
           "name": "尼克森",
           "point": "功率元件強鎖漲停",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "3707",
           "name": "漢磊",
           "point": "功率元件聯袂走高",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.6,
           "luw": 5,
           "luwd": [
             "9/22",
@@ -463,8 +465,7 @@
           "symbol": "6237",
           "name": "驊訊",
           "point": "鎖紅燈",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "3294",
@@ -519,7 +520,8 @@
           "point": "獨霸AI晶片散熱技術，股價飆天價",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "3017",
@@ -659,6 +661,8 @@
           "name": "南電",
           "point": "ABF載板亮燈漲停，站穩千元",
           "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14.5,
           "luw": 1,
           "luwd": [
             "9/22"
@@ -786,6 +790,8 @@
           "name": "南電",
           "point": "ABF載板亮燈漲停",
           "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14.5,
           "luw": 1,
           "luwd": [
             "9/22"
@@ -846,7 +852,8 @@
           "point": "散熱與電源表現強勁",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "8996",
