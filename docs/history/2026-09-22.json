@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-22",
+  "updatedAt": "2026-09-23T03:03:58.348Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPVVdLSzZUREtVNk56blk2LUdReG1vdGFfTzJSQlAxMnBSQjlOX3NmSG5HU0gwWWFYUlRtRF9fa3VZbTdhVUVaSEF1RjdGdGpTWU85c1UwcVFJeFpPdnlkdlVreV9yU0FCUFkwVUNTUURST19mc3p6cmJLcHZZS3BEME1ORWxLZm84",
+      "tkey": "熱門族群全球DRAM模組營收吸金212億美元威剛、宜鼎搭AI順風車",
+      "title": "《熱門族群》全球DRAM模組營收吸金212億美元 威剛、宜鼎搭AI順風車 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6309721001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 22 Sep 2026 08:14:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3260",
+          "name": "威剛",
+          "point": "低成本庫存放大獲利，營收大增82%奪全球第2",
+          "limitUp": false
+        },
+        {
+          "symbol": "5289",
+          "name": "宜鼎",
+          "point": "專攻工控與邊緣AI，營收翻倍狂飆132%拿下第7",
+          "limitUp": false
+        },
+        {
+          "symbol": "4967",
+          "name": "十銓",
+          "point": "搶攻北美通路繳出亮麗成績",
+          "limitUp": false
+        },
+        {
+          "symbol": "8271",
+          "name": "宇瞻",
+          "point": "確保料源策略繳出亮麗成績",
+          "limitUp": false
+        }
+      ],
+      "background": "全球AI伺服器算力建置潮引發記憶體原廠產能排擠，DRAM模組市場營收飆升。台廠威剛、宜鼎等受惠於低價庫存與高階應用轉型，營收獲利強勁。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOTXJRbVZVTUMzbjdlOTI1VkxYWVRfYlZ4cE1ZYnpHM0VQUDA1aDNPYWVTTEQ5M3QzU1JrcnBtRmVzQWx3dFMxVmNmQVdqSkNTOEl6cFpZamYyTHV5bXNYMUFycEdNWHN5UW1WcWhGQUx4Z1lWd3ZkT05BSEpFNjFRb0tycVJRMWdL",
+      "tkey": "熱門族群環球晶戰千金！矽晶圓滿村紅1檔強衝頂",
+      "title": "《熱門族群》環球晶戰千金！矽晶圓滿村紅 1檔強衝頂 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6309400001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 22 Sep 2026 02:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "point": "股價挑戰千元大關",
+          "limitUp": false
+        }
+      ],
+      "background": "矽晶圓為半導體關鍵材料，受惠於半導體產業景氣復甦與AI相關需求帶動，產業鏈需求回溫。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQNFF4SGpKdEgtUTlFeUczTzFtczhtSHF1dDBldk9rbHhFbkRVOERyZWtmWEdjRk9ySlFGd3QwR3ZTOHo1VUpzRDJnMGpiSk50c3FiSmtTOUlWRFVXOE5VU04zbzliaTAwQnJvVF9MbmIxUGR2ZEc2ZHJIX0JmRFhNbFlhdlNZRDZS",
+      "tkey": "熱門族群友達連2天漲停創新高面板三虎人氣火爆",
+      "title": "《熱門族群》友達連2天漲停創新高 面板三虎人氣火爆 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6309399001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 22 Sep 2026 02:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "股價連續兩天漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "9/22",
+            "9/21"
+          ]
+        }
+      ],
+      "background": "面板產業受惠於電視、IT產品需求回溫，加上面板廠嚴控產能，供需結構改善，帶動報價上漲。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPNTBobTFpYzAtSkRFdUpxbkJZdTkxTmpuaEs3SUlHS2hOX3J3NVpqdmpRRjNYYjlEcjJ2Q2k0bERJZXRVWEZuR1c2eUpmcFZmWDNlQk5WUVFlMElaN0l1Q240R2NRVUxXTHpjcG5zelRidjVxOHBSN2JNM2ZUS1lSbzBueXhXVTRv",
+      "tkey": "熱門族群CCL掀全球擴產競賽三雄也跟上",
+      "title": "《熱門族群》CCL掀全球擴產競賽 三雄也跟上 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6309108001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 21 Sep 2026 23:51:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "加碼資本支出擴充產能",
+          "limitUp": false
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "兩度公告擴產計畫",
+          "limitUp": false
+        },
+        {
+          "symbol": "6121",
+          "name": "聯茂",
+          "point": "推進泰國與無錫擴產",
+          "limitUp": false
+        }
+      ],
+      "background": "高階銅箔基板（CCL）受AI伺服器、高速交換器需求強勁帶動，全球掀起擴產競賽，台灣三雄也積極卡位高速材料商機。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}

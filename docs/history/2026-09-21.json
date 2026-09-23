@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "updatedAt": "2026-09-22T15:10:00.246Z",
+  "updatedAt": "2026-09-23T03:03:58.349Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNVGEtcG1yanF2UEtiOEprNE5XTDFWVTdyakNmcXUxNlppa3pBa3poZEEwcGUycnBEU2FDdGpCWW1HTmhoZDVZVkQySUlKNm8wYzFIdGViZlRMQzdEbzBJUnJJMzlnMmJFSEIzNmFLdTNfbU5QbGRkZm80TFBIRTR1UVFZMXpxX0pZ",
@@ -111,8 +111,9 @@
           "point": "傳攜手英特爾攻CPO，大漲8%成交量居冠",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "9/22",
             "9/21"
           ]
         },

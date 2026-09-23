@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-22T23:10:00.250+08:00",
-  "generatedAt": "2026-09-22T15:10:00.250Z",
+  "asOf": "2026-09-23T11:03:58.352+08:00",
+  "generatedAt": "2026-09-23T03:03:58.352Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,17 +9,18 @@
     {
       "symbol": "2409",
       "name": "友達",
-      "days": 3,
+      "days": 4,
       "dates": [
+        "9/23",
         "9/22",
         "9/21",
         "9/17"
       ],
-      "mentions": 5,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 1,
+      "mentions": 6,
+      "limitUp": false,
+      "luw": 2,
       "luwd": [
+        "9/22",
         "9/21"
       ]
     },
@@ -28,11 +29,11 @@
       "name": "南亞科",
       "days": 3,
       "dates": [
+        "9/23",
         "9/18",
-        "9/17",
-        "9/16"
+        "9/17"
       ],
-      "mentions": 5,
+      "mentions": 4,
       "limitUp": false
     },
     {
@@ -40,11 +41,11 @@
       "name": "華邦電",
       "days": 3,
       "dates": [
+        "9/23",
         "9/18",
-        "9/17",
-        "9/16"
+        "9/17"
       ],
-      "mentions": 5,
+      "mentions": 4,
       "limitUp": false
     },
     {
@@ -52,11 +53,23 @@
       "name": "力積電",
       "days": 3,
       "dates": [
+        "9/23",
         "9/18",
-        "9/17",
-        "9/16"
+        "9/17"
       ],
-      "mentions": 4,
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2337",
+      "name": "旺宏",
+      "days": 3,
+      "dates": [
+        "9/23",
+        "9/18",
+        "9/17"
+      ],
+      "mentions": 3,
       "limitUp": false
     },
     {
@@ -73,6 +86,19 @@
       "limitUp": false
     },
     {
+      "symbol": "3017",
+      "name": "奇鋐",
+      "days": 2,
+      "dates": [
+        "9/23",
+        "9/18"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -1.7,
+      "limitUp": false
+    },
+    {
       "symbol": "3481",
       "name": "群創",
       "days": 2,
@@ -81,6 +107,106 @@
         "9/17"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "8150",
+      "name": "南茂",
+      "days": 2,
+      "dates": [
+        "9/23",
+        "9/21"
+      ],
+      "mentions": 2,
+      "status": "高檔修正",
+      "dist": -14.8,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "9/21"
+      ]
+    },
+    {
+      "symbol": "3260",
+      "name": "威剛",
+      "days": 2,
+      "dates": [
+        "9/23",
+        "9/22"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "5289",
+      "name": "宜鼎",
+      "days": 2,
+      "dates": [
+        "9/23",
+        "9/22"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3324",
+      "name": "雙鴻",
+      "days": 2,
+      "dates": [
+        "9/23",
+        "9/18"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -3.1,
+      "limitUp": false
+    },
+    {
+      "symbol": "6488",
+      "name": "環球晶",
+      "days": 2,
+      "dates": [
+        "9/23",
+        "9/22"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2454",
+      "name": "聯發科",
+      "days": 2,
+      "dates": [
+        "9/23",
+        "9/17"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -5.4,
+      "limitUp": false
+    },
+    {
+      "symbol": "2308",
+      "name": "台達電",
+      "days": 2,
+      "dates": [
+        "9/23",
+        "9/17"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3711",
+      "name": "日月光投控",
+      "days": 2,
+      "dates": [
+        "9/23",
+        "9/21"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -4.1,
       "limitUp": false
     },
     {
@@ -121,17 +247,6 @@
         "9/21",
         "9/18"
       ]
-    },
-    {
-      "symbol": "2337",
-      "name": "旺宏",
-      "days": 2,
-      "dates": [
-        "9/18",
-        "9/17"
-      ],
-      "mentions": 2,
-      "limitUp": false
     },
     {
       "symbol": "3491",
@@ -240,6 +355,368 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxPMGpuYmg4eVRsd0IwUEVNQjI0cTA2cVVYZ3JoMHdBYlVsaVRxOUdWcVpzYkdjY1lFLTk4aE16U1FmcV9vTXpFeExxVkRZU2RFNjQ2bHZaNWEzb3lRZjNzZEJwQl9wTVZ6c1lYbmNQN2hKQnJscDQ2UkRpTjg4eWNCUkhSZFpYZ3FG",
+      "tkey": "熱門族群獨霸AI晶片散熱健策飆天價、奇鋐同樂",
+      "title": "《熱門族群》獨霸AI晶片散熱 健策飆天價、奇鋐同樂 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6310399001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 23 Sep 2026 02:27:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "獨霸AI晶片散熱技術，股價飆天價",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "同步走高",
+          "status": "逼近新高",
+          "dist": -1.7,
+          "limitUp": false
+        }
+      ],
+      "background": "Nvidia、AMD及CSP廠AI晶片熱設計功耗攀升，健策以獨家散熱技術解決高熱問題，獲大廠青睞。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOQmtQWXl4aHNRWGN2emM4LTc3dDlHY3NobDg2YlBIWUNlZ0llYmlQVW9fMXFPLW9CZTVhOGFFSjk3eHFXNlZOdHpUTkJhdVlwTTNkenlORUV3NUtoVkd3QVRqclhkcW0yRGlqU01iSk5NeHBjWkwtUEZoOEhHZjNrdlZLa0dfRVJh",
+      "tkey": "熱門族群美光、Sandisk大漲台系記憶體開高走強",
+      "title": "《熱門族群》美光、Sandisk大漲 台系記憶體開高走強 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6310341001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 23 Sep 2026 01:30:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "DRAM廠股價大漲5%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "DRAM廠股價漲約3%",
+          "limitUp": false
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "開高逾2%重返短多格局",
+          "limitUp": false
+        },
+        {
+          "symbol": "8150",
+          "name": "南茂",
+          "point": "記憶體封測股爆量強攻",
+          "status": "高檔修正",
+          "dist": -14.8,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/21"
+          ]
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "Flash廠股價走穩",
+          "limitUp": false
+        },
+        {
+          "symbol": "3260",
+          "name": "威剛",
+          "point": "下游模組廠股價走穩",
+          "limitUp": false
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "高價千金股大漲逾4%",
+          "limitUp": false
+        },
+        {
+          "symbol": "5289",
+          "name": "宜鼎",
+          "point": "高價千金股大漲逾4%",
+          "limitUp": false
+        }
+      ],
+      "background": "美光、Sandisk等國際記憶體指標股大漲，帶動台系記憶體族群開高走強，受惠AI需求強勁。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOcnd6VC1SNFlfd1F4NkpGamxsdlgtdDhnc2x4RktXR3NTekxOTXk2YXozLUlpTkxUWWs0SE10R1BVcHlMdVZOZ3RtWDAwUzNiaXo5bUFXeWhyZFhJSXlSUmpOYUh1SzVqVkV0aXhzNGlGWDdpMzdpVjdWaEJIT3hkd3RaZm5QUE9S",
+      "tkey": "熱門族群水冷需求旺奇鋐、雙鴻有戲",
+      "title": "《熱門族群》水冷需求旺 奇鋐、雙鴻有戲 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6310172001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 22 Sep 2026 23:51:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "水冷板均價提升，擴充產能",
+          "status": "逼近新高",
+          "dist": -1.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "point": "GB300訂單提升，水冷產品出貨增溫",
+          "status": "逼近新高",
+          "dist": -3.1,
+          "limitUp": false
+        }
+      ],
+      "background": "AI成長趨勢帶動水冷散熱需求旺盛，GPU水冷板均價提升，相關廠商持續擴充產能，營運展望正向。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQRk1FbDRyUkZETk9lWWtibUJCeHl4b2J6bUhzNllUdXFQNFhDeXJBUGFzVFFyd29Va05hTXk0R0V1R0ZKTFpZTEFHTlRISUxjMnJtZWN3aG5VcVNaS3lacjNqdFIwU0FYTEtMc0ZvS2NuZTZVeGlCWl9GamtEVmFuaTlGZERaaVN0",
+      "tkey": "熱門族群ABF供不應求載板三雄飆漲停",
+      "title": "《熱門族群》ABF供不應求 載板三雄飆漲停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6310162001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 22 Sep 2026 23:49:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "ABF載板亮燈漲停，站穩千元",
+          "status": "逼近新高",
+          "dist": -5.3,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/22"
+          ]
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "ABF載板亮燈漲停，站穩千元",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/22"
+          ]
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "ABF載板亮燈漲停，距千金股一步之遙",
+          "status": "逼近新高",
+          "dist": -6,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/22"
+          ]
+        }
+      ],
+      "background": "AI、HPC需求快速成長，導致ABF載板供不應求，缺口持續擴大，載板三雄漲價話語權提升。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQZEY2MVJtcXlPZjN5ZEFxd0c2ZFNOUzJFam1qVFptSlB3QmJjOVR5ZWhjSm9GT3NkZVliaS1kTHM1QlJpQkU1UWRaNHp0dnh5akFMbC1aSjVSalNQdHRtT2ZoSjhMSWEtclFwbHhUcnlNWDROWkxNd3NMQWU3WEJkUWNwQnZCMWdS",
+      "tkey": "熱門族群12吋矽晶圓明年長約看漲",
+      "title": "《熱門族群》12吋矽晶圓 明年長約看漲 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6310108001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 22 Sep 2026 23:37:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "point": "12吋矽晶圓平均售價看漲",
+          "limitUp": false
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "12吋矽晶圓長約看漲",
+          "limitUp": false
+        },
+        {
+          "symbol": "6182",
+          "name": "合晶",
+          "point": "12吋矽晶圓長約看漲",
+          "limitUp": false
+        }
+      ],
+      "background": "AI邏輯晶片與記憶體擴產，推升12吋矽晶圓需求，導致供需轉緊，長約價格預期上漲。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE5BQjZ3eXhxaW1KQjB0VGdDSC0yOS1BTUR0cXZqa0dnelVncWF2UHFMV0xKdFhYZjJBRlRZbFVYU1BPQkI5cTNBUUhIbDVHV05HZVFEVEZhYVE",
+      "tkey": "熱門族群AI資料中心帶動BBU需求電池模組族群氣勢大振",
+      "title": "熱門族群》AI資料中心帶動BBU需求 電池模組族群氣勢大振 - stock.ltn.com.tw",
+      "url": "https://stock.ltn.com.tw/article/dqdvu8nlt2rl",
+      "source": "stock.ltn.com.tw",
+      "pubDate": "Tue, 22 Sep 2026 20:51:55 GMT",
+      "stocks": [],
+      "background": "AI資料中心對備用電池單元（BBU）的需求增加，帶動電池模組產業的成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMia0FVX3lxTE9fTlk1ZjU5TEQxeDZKekszSkI4MVBqTEh4OHdsWVl6aF9QWE9GTkpCMXNCcWJGajZHSk9ITlczQWNkb2JwS09FZlVwaHFtblJKR3FRemNqNkRlS0Q2ME1TWnR1dUdMT0hyX2cw",
+      "tkey": "聯發科、台達電領軍四大熱門族群帶頭飆-財經要聞-工商時報",
+      "title": "聯發科、台達電領軍四大熱門族群帶頭飆- 財經要聞- 工商時報 - 中時新聞網",
+      "url": "https://www.chinatimes.com/newspapers/20260923000223-260202",
+      "source": "中時新聞網",
+      "pubDate": "Tue, 22 Sep 2026 20:10:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "領軍ASIC/IC設計族群",
+          "status": "逼近新高",
+          "dist": -5.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "point": "領軍散熱與電源族群",
+          "limitUp": false
+        },
+        {
+          "symbol": "3661",
+          "name": "信驊",
+          "point": "股價突破20,000元大關",
+          "limitUp": false
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "point": "ASIC/IC設計漲幅凌厲",
+          "status": "逼近新高",
+          "dist": -1.8,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "9/22",
+            "9/18"
+          ]
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "ABF載板亮燈漲停",
+          "status": "逼近新高",
+          "dist": -5.3,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/22"
+          ]
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "ABF載板亮燈漲停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/22"
+          ]
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "ABF載板亮燈漲停",
+          "status": "逼近新高",
+          "dist": -6,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/22"
+          ]
+        },
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "point": "封測族群表現強勁",
+          "status": "逼近新高",
+          "dist": -4.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "2444",
+          "name": "京元電子",
+          "point": "封測族群表現強勁",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/21"
+          ]
+        },
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "宣布轉進先進封裝",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "9/22",
+            "9/21"
+          ]
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "散熱與電源表現強勁",
+          "status": "逼近新高",
+          "dist": -1.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "散熱與電源表現強勁",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false
+        },
+        {
+          "symbol": "8996",
+          "name": "高力",
+          "point": "散熱與電源表現強勁",
+          "status": "逼近新高",
+          "dist": -7.4,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "9/22",
+            "9/18"
+          ]
+        }
+      ],
+      "background": "AI供應鏈受惠費城半導體指數大漲，Agentic AI題材帶動ASIC/IC設計、ABF載板、封測、散熱與電源等族群需求。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxPVVdLSzZUREtVNk56blk2LUdReG1vdGFfTzJSQlAxMnBSQjlOX3NmSG5HU0gwWWFYUlRtRF9fa3VZbTdhVUVaSEF1RjdGdGpTWU85c1UwcVFJeFpPdnlkdlVreV9yU0FCUFkwVUNTUURST19mc3p6cmJLcHZZS3BEME1ORWxLZm84",
       "tkey": "熱門族群全球DRAM模組營收吸金212億美元威剛、宜鼎搭AI順風車",
       "title": "《熱門族群》全球DRAM模組營收吸金212億美元 威剛、宜鼎搭AI順風車 - 富聯網",
@@ -313,8 +790,9 @@
           "point": "股價連續兩天漲停",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "9/22",
             "9/21"
           ]
         }
@@ -355,133 +833,6 @@
       "background": "高階銅箔基板（CCL）受AI伺服器、高速交換器需求強勁帶動，全球掀起擴產競賽，台灣三雄也積極卡位高速材料商機。",
       "themeTags": [
         "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNVGEtcG1yanF2UEtiOEprNE5XTDFWVTdyakNmcXUxNlppa3pBa3poZEEwcGUycnBEU2FDdGpCWW1HTmhoZDVZVkQySUlKNm8wYzFIdGViZlRMQzdEbzBJUnJJMzlnMmJFSEIzNmFLdTNfbU5QbGRkZm80TFBIRTR1UVFZMXpxX0pZ",
-      "tkey": "熱門族群日月光領衝封測南茂登百元、小兵鎖2紅燈",
-      "title": "《熱門族群》日月光領衝封測 南茂登百元、小兵鎖2紅燈 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6308362001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Mon, 21 Sep 2026 03:34:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3711",
-          "name": "日月光投控",
-          "point": "領衝封測族群，大漲近5%",
-          "status": "逼近新高",
-          "dist": -9.2,
-          "limitUp": false
-        },
-        {
-          "symbol": "2449",
-          "name": "京元電子",
-          "point": "股價強彈",
-          "status": "高檔修正",
-          "dist": -13.4,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "9/18"
-          ]
-        },
-        {
-          "symbol": "2441",
-          "name": "超豐",
-          "point": "股價強彈",
-          "limitUp": false,
-          "status": "高檔修正",
-          "dist": -14.5
-        },
-        {
-          "symbol": "6239",
-          "name": "力成",
-          "point": "股價強彈",
-          "limitUp": false
-        },
-        {
-          "symbol": "2369",
-          "name": "菱生",
-          "point": "股價強彈",
-          "limitUp": false
-        },
-        {
-          "symbol": "8110",
-          "name": "華東",
-          "point": "連鎖兩顆紅燈",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 2,
-          "luwd": [
-            "9/21",
-            "9/18"
-          ]
-        },
-        {
-          "symbol": "8150",
-          "name": "南茂",
-          "point": "攻頂鎖紅燈，重登百元大關",
-          "limitUp": true,
-          "pct": 9.6,
-          "status": "高檔修正",
-          "dist": -14.4,
-          "luw": 1,
-          "luwd": [
-            "9/21"
-          ]
-        }
-      ],
-      "background": "受惠AI GPU需求與台積電CoWoS產能吃緊，封測業外溢需求強勁。日月光投控為全球龍頭，南茂也轉向高階邏輯、AI與光通訊封測。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTE9rcXFZTkJTUUxZSXZCeUV1XzMwUlBnV09YV1RVdTRFV3ItM2lSMl9mRndSUlI0djZIdVoyMkhxZHZqWXRsa0wybV80X3I2M2o2MUM5UkJWOUI",
-      "tkey": "熱門族群AI外溢成熟製程回溫晶圓代工下半年動能看俏",
-      "title": "熱門族群》AI外溢成熟製程回溫 晶圓代工下半年動能看俏 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/t4ypkutddeml",
-      "source": "自由時報",
-      "pubDate": "Mon, 21 Sep 2026 03:08:33 GMT",
-      "stocks": [],
-      "background": "AI需求外溢效應帶動成熟製程晶圓代工訂單回溫，下半年動能看俏，產業景氣逐步復甦。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNLXEzb1U2dkV3SE5ETzd3RTFjSjZfU1c3NTZBN2dNbHhmb0hMVkVuSW5ST0N4VE1KLURMWmwtamg5TGRGeUR4ejg3MHJOS21IZ3FaOG85RHV5VE9LOE81TDBGTVoxV1F0bHJpT0tvQjhsVkxOVzVMREdKU293SFVHUERuSXlRUERO",
-      "tkey": "熱門族群友達傳攜英特爾攻CPO大漲8%成交量居冠",
-      "title": "《熱門族群》友達傳攜英特爾攻CPO 大漲8%成交量居冠 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6308316001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Mon, 21 Sep 2026 02:18:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2409",
-          "name": "友達",
-          "point": "傳攜手英特爾攻CPO，大漲8%成交量居冠",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "9/21"
-          ]
-        },
-        {
-          "symbol": "3481",
-          "name": "群創",
-          "point": "股價增量上攻50元關卡",
-          "limitUp": false
-        }
-      ],
-      "background": "面板雙虎友達與群創積極轉型，跨足AI半導體、先進封裝與光通訊領域，友達傳與英特爾合作CPO，群創推進FOPLP技術。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
       ]
     }
   ]
