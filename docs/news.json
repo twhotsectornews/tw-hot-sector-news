@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-23T14:03:10.598+08:00",
-  "generatedAt": "2026-09-23T06:03:10.598Z",
+  "asOf": "2026-09-23T16:06:02.346+08:00",
+  "generatedAt": "2026-09-23T08:06:02.346Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -100,6 +100,17 @@
       "limitUp": false
     },
     {
+      "symbol": "2308",
+      "name": "台達電",
+      "days": 2,
+      "dates": [
+        "9/23",
+        "9/17"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "3481",
       "name": "群創",
       "days": 2,
@@ -184,17 +195,6 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -5.4,
-      "limitUp": false
-    },
-    {
-      "symbol": "2308",
-      "name": "台達電",
-      "days": 2,
-      "dates": [
-        "9/23",
-        "9/17"
-      ],
-      "mentions": 2,
       "limitUp": false
     },
     {
@@ -356,6 +356,45 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxPa1hnQzJsYTZJVjdpTlpNanhTMl9KVkVWeXR2MGlTWjJVeFFqRy04QXIyNS1FUm9UYkZrZHRaZUFNdHA3bFp4SW40OE8wVUkydERsSTZtZ1hTdGE3OGU2X1lNdUlLSElvOXdxbWNCcVNXbDJVZloxa3lwOUFienl6RzR6VXJUZU5r",
+      "tkey": "熱門族群美封殺陸企逆變器大洗牌台廠迎轉單利多",
+      "title": "《熱門族群》美封殺陸企逆變器大洗牌 台廠迎轉單利多 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6310713001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 23 Sep 2026 07:39:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "point": "具美規大型產品與在美案場實績",
+          "limitUp": false
+        },
+        {
+          "symbol": "1514",
+          "name": "亞力",
+          "point": "具產品基礎，需補強安全與客戶認證",
+          "limitUp": false
+        },
+        {
+          "symbol": "6138",
+          "name": "亞源",
+          "point": "具產品基礎，需補強安全與客戶認證",
+          "limitUp": false
+        },
+        {
+          "symbol": "1504",
+          "name": "東元",
+          "point": "電力轉換系統可深度整合",
+          "limitUp": false
+        }
+      ],
+      "background": "美國FCC將具連網功能的逆變器納入管制，重創陸企供應鏈。台廠在美中科技戰下，迎來轉單利多，尤其在太陽能、儲能及AI資料中心領域。",
+      "themeTags": [
+        "政策關稅",
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNWThYU3BsMkZwQUdPS20zU1BTLU42WUV1SlhKZXViRFA5eU44a1lERVJ0Yzh0SHlVbjlvOFFOaFJEVWl1ZjVUV2ZYYVJ3S0pIRGtHaDlUTlg0Z3NrYS1zQ0pHb0IxYnlTTUR6NW9ZdFhaSEQyZ3pxTjVXUk42ajBjU1NaZlNkTTRQ",
       "tkey": "熱門族群功率元件漲聲響！5顆紅燈放閃嘉晶月噴4成",
       "title": "《熱門族群》功率元件漲聲響！5顆紅燈放閃 嘉晶月噴4成 - 富聯網",
@@ -404,20 +443,8 @@
           "symbol": "3675",
           "name": "德微",
           "point": "功率元件強鎖漲停，8月營收創新高",
-          "limitUp": false
-        },
-        {
-          "symbol": "3317",
-          "name": "尼克森",
-          "point": "功率元件強鎖漲停",
-          "limitUp": false
-        },
-        {
-          "symbol": "3707",
-          "name": "漢磊",
-          "point": "功率元件聯袂走高",
           "limitUp": true,
-          "pct": 9.6,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "9/22",
@@ -426,6 +453,27 @@
             "9/17",
             "9/16"
           ]
+        },
+        {
+          "symbol": "3317",
+          "name": "尼克森",
+          "point": "功率元件強鎖漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "9/22",
+            "9/21",
+            "9/18",
+            "9/17",
+            "9/16"
+          ]
+        },
+        {
+          "symbol": "3707",
+          "name": "漢磊",
+          "point": "功率元件聯袂走高",
+          "limitUp": false
         },
         {
           "symbol": "8255",
@@ -465,13 +513,31 @@
           "symbol": "6237",
           "name": "驊訊",
           "point": "鎖紅燈",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "9/22",
+            "9/21",
+            "9/18",
+            "9/17",
+            "9/16"
+          ]
         },
         {
           "symbol": "3294",
           "name": "英濟",
           "point": "鎖紅燈",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "9/22",
+            "9/21",
+            "9/18",
+            "9/17",
+            "9/16"
+          ]
         },
         {
           "symbol": "6456",
