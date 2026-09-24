@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-24T14:03:40.216+08:00",
-  "generatedAt": "2026-09-24T06:03:40.216Z",
+  "asOf": "2026-09-24T15:56:31.014+08:00",
+  "generatedAt": "2026-09-24T07:56:31.014Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -226,6 +226,28 @@
       "limitUp": false
     },
     {
+      "symbol": "3260",
+      "name": "威剛",
+      "days": 2,
+      "dates": [
+        "9/23",
+        "9/22"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "5289",
+      "name": "宜鼎",
+      "days": 2,
+      "dates": [
+        "9/23",
+        "9/22"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "3324",
       "name": "雙鴻",
       "days": 2,
@@ -261,8 +283,10 @@
       "source": "富聯網",
       "pubDate": "Thu, 24 Sep 2026 05:47:00 GMT",
       "stocks": [],
-      "background": "",
-      "themeTags": []
+      "background": "AI伺服器需求強勁，帶動散熱模組出貨量與單價提升，散熱廠受惠於高階產品滲透率增加，產業景氣持續看好。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMikgFBVV95cUxPUGJtQU5jSlJJQWJnS09Cc0twMm9qczhQcHNucl9PRWhFWWJmNnRYWmR3Q05QLXAtd3U4WkNkQzBaV0xoYW9jME9KdldrRWpiR1dwUlc5YzFOUVpyYV9YengwbFJ4bFlJSzRQTVAwQkxydkk5cFF6S1MtdF9xQkgyV3hWVGJ3S1NYYW1Qck5Ud0pMdw",
@@ -320,8 +344,10 @@
       "source": "自由時報",
       "pubDate": "Thu, 24 Sep 2026 03:19:41 GMT",
       "stocks": [],
-      "background": "",
-      "themeTags": []
+      "background": "國際油價回落降低航空業營運成本，加上暑假旅遊旺季來臨，客運需求增加，有利於航空股獲利表現。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxQdGRjY0c1eG11dnNzUzN2dEVkMVlpVnlWclVSRENlQVB1d2YwdVFUX0N2eC1VNVFZd0VYWlN2NXZIYW96LVJGM0xTNTU1Z3pMTGhOejN3MVdidXB0R1JGenBWSkJBUm1YeVFLOUVyRGZHWl9yYnFVWXY0Y3J5N2Y0Zy0zbnFOZ1Vx",
@@ -646,30 +672,14 @@
           "name": "德微",
           "point": "功率元件強鎖漲停，8月營收創新高",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "9/23",
-            "9/22",
-            "9/21",
-            "9/18",
-            "9/17"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "3317",
           "name": "尼克森",
           "point": "功率元件強鎖漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "9/23",
-            "9/22",
-            "9/21",
-            "9/18",
-            "9/17"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "3707",
@@ -716,30 +726,14 @@
           "name": "驊訊",
           "point": "鎖紅燈",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "9/23",
-            "9/22",
-            "9/21",
-            "9/18",
-            "9/17"
-          ]
+          "pct": 10
         },
         {
           "symbol": "3294",
           "name": "英濟",
           "point": "鎖紅燈",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "9/23",
-            "9/22",
-            "9/21",
-            "9/18",
-            "9/17"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6456",

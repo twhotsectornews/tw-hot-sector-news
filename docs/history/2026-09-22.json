@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "updatedAt": "2026-09-24T06:03:40.213Z",
+  "updatedAt": "2026-09-24T07:56:31.011Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPVVdLSzZUREtVNk56blk2LUdReG1vdGFfTzJSQlAxMnBSQjlOX3NmSG5HU0gwWWFYUlRtRF9fa3VZbTdhVUVaSEF1RjdGdGpTWU85c1UwcVFJeFpPdnlkdlVreV9yU0FCUFkwVUNTUURST19mc3p6cmJLcHZZS3BEME1ORWxLZm84",
@@ -9,9 +9,24 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6309721001&PU=1002",
       "source": "富聯網",
       "pubDate": "Tue, 22 Sep 2026 08:14:00 GMT",
-      "stocks": [],
-      "background": "",
-      "themeTags": []
+      "stocks": [
+        {
+          "symbol": "3260",
+          "name": "威剛",
+          "point": "搭AI順風車"
+        },
+        {
+          "symbol": "5289",
+          "name": "宜鼎",
+          "point": "搭AI順風車"
+        }
+      ],
+      "background": "AI應用帶動DRAM模組需求成長，記憶體大廠三星、SK海力士、美光等減產有助於供需改善，產業景氣有望谷底翻揚。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxOTXJRbVZVTUMzbjdlOTI1VkxYWVRfYlZ4cE1ZYnpHM0VQUDA1aDNPYWVTTEQ5M3QzU1JrcnBtRmVzQWx3dFMxVmNmQVdqSkNTOEl6cFpZamYyTHV5bXNYMUFycEdNWHN5UW1WcWhGQUx4Z1lWd3ZkT05BSEpFNjFRb0tycVJRMWdL",
