@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "updatedAt": "2026-09-24T04:04:51.545Z",
+  "updatedAt": "2026-09-24T05:05:00.542Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPVVdLSzZUREtVNk56blk2LUdReG1vdGFfTzJSQlAxMnBSQjlOX3NmSG5HU0gwWWFYUlRtRF9fa3VZbTdhVUVaSEF1RjdGdGpTWU85c1UwcVFJeFpPdnlkdlVreV9yU0FCUFkwVUNTUURST19mc3p6cmJLcHZZS3BEME1ORWxLZm84",
@@ -11,36 +11,17 @@
       "pubDate": "Tue, 22 Sep 2026 08:14:00 GMT",
       "stocks": [
         {
-          "symbol": "2395",
+          "symbol": "3234",
           "name": "威剛",
-          "point": "營收大增82%奪全球第2",
-          "status": "創新高",
-          "dist": 0
+          "point": "憑低成本庫存放大獲利，營收大增82%"
         },
         {
-          "symbol": "2353",
-          "name": "宏碁",
-          "point": "營收翻倍狂飆132%"
-        },
-        {
-          "symbol": "2455",
-          "name": "全新",
-          "point": "營收翻倍狂飆132%",
-          "status": "逼近新高",
-          "dist": -6.9
-        },
-        {
-          "symbol": "3049",
-          "name": "華新科",
-          "point": "營收翻倍狂飆132%"
-        },
-        {
-          "symbol": "6271",
-          "name": "協益",
-          "point": "營收翻倍狂飆132%"
+          "symbol": "5289",
+          "name": "宜鼎",
+          "point": "專攻工控與邊緣AI，營收翻倍狂飆"
         }
       ],
-      "background": "AI伺服器需求帶動記憶體價格上漲，全球DRAM模組營收飆升。威剛、宜鼎等台廠受惠於低價庫存與高附加價值產品轉型。",
+      "background": "全球DRAM模組市場受AI伺服器算力建置潮驅動，記憶體原廠產能排擠，推升DRAM價格上漲，模組廠獲利強勁轉折。",
       "themeTags": [
         "需求驅動",
         "循環位置"

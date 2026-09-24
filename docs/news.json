@@ -1,11 +1,23 @@
 {
-  "asOf": "2026-09-24T12:04:51.548+08:00",
-  "generatedAt": "2026-09-24T04:04:51.548Z",
+  "asOf": "2026-09-24T13:05:00.545+08:00",
+  "generatedAt": "2026-09-24T05:05:00.545Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "6488",
+      "name": "環球晶",
+      "days": 3,
+      "dates": [
+        "9/24",
+        "9/23",
+        "9/22"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
     {
       "symbol": "2409",
       "name": "友達",
@@ -86,6 +98,35 @@
       "luwd": [
         "9/22"
       ]
+    },
+    {
+      "symbol": "3016",
+      "name": "嘉晶",
+      "days": 2,
+      "dates": [
+        "9/24",
+        "9/23"
+      ],
+      "mentions": 2,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "9/23",
+        "9/22"
+      ]
+    },
+    {
+      "symbol": "6182",
+      "name": "合晶",
+      "days": 2,
+      "dates": [
+        "9/24",
+        "9/23"
+      ],
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "2383",
@@ -184,6 +225,17 @@
       "limitUp": false
     },
     {
+      "symbol": "5289",
+      "name": "宜鼎",
+      "days": 2,
+      "dates": [
+        "9/23",
+        "9/22"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "3324",
       "name": "雙鴻",
       "days": 2,
@@ -194,17 +246,6 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -3.1,
-      "limitUp": false
-    },
-    {
-      "symbol": "6488",
-      "name": "環球晶",
-      "days": 2,
-      "dates": [
-        "9/23",
-        "9/22"
-      ],
-      "mentions": 2,
       "limitUp": false
     },
     {
@@ -222,6 +263,53 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMikgFBVV95cUxPUGJtQU5jSlJJQWJnS09Cc0twMm9qczhQcHNucl9PRWhFWWJmNnRYWmR3Q05QLXAtd3U4WkNkQzBaV0xoYW9jME9KdldrRWpiR1dwUlc5YzFOUVpyYV9YengwbFJ4bFlJSzRQTVAwQkxydkk5cFF6S1MtdF9xQkgyV3hWVGJ3S1NYYW1Qck5Ud0pMdw",
+      "tkey": "熱門族群嘉晶亮3顆燈領漲矽晶圓AI矽光子題材助攻",
+      "title": "《熱門族群》嘉晶亮3顆燈領漲矽晶圓 AI矽光子題材助攻 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6311551001&pu=News_0002_3",
+      "source": "富聯網",
+      "pubDate": "Thu, 24 Sep 2026 03:55:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3016",
+          "name": "嘉晶",
+          "point": "亮3顆燈領漲，矽光子磊晶獲大客戶認證",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "9/23",
+            "9/22"
+          ]
+        },
+        {
+          "symbol": "6182",
+          "name": "合晶",
+          "point": "擁車用與AI相關晶圓需求",
+          "limitUp": false
+        },
+        {
+          "symbol": "8028",
+          "name": "昇陽半導體",
+          "point": "漲幅居前",
+          "limitUp": false
+        },
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "point": "完成海外存託憑證訂價，擴產",
+          "limitUp": false
+        }
+      ],
+      "background": "矽晶圓產業受AI矽光子題材助攻，加上300mm晶圓需求強勁，產業景氣逐步改善，國際大廠環球晶積極擴產。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQdGRjY0c1eG11dnNzUzN2dEVkMVlpVnlWclVSRENlQVB1d2YwdVFUX0N2eC1VNVFZd0VYWlN2NXZIYW96LVJGM0xTNTU1Z3pMTGhOejN3MVdidXB0R1JGenBWSkJBUm1YeVFLOUVyRGZHWl9yYnFVWXY0Y3J5N2Y0Zy0zbnFOZ1Vx",
       "tkey": "熱門族群聯茂財報利多漲停銅箔基板四雄齊揚",
@@ -389,6 +477,20 @@
       "themeTags": [
         "需求驅動",
         "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE1KRTV3bGdxeFpKLTBURldqM0JoeWZrM3p2RTYzbi1GYU5DVTVOVUFmeHdtRTZNME1CZHpaeE1IalZ4c3dlYkpaczEyZmRIQmFkYnl3dko5bDM",
+      "tkey": "熱門族群汽車零組件帶量長紅防漲多拉回修正",
+      "title": "熱門族群》汽車零組件帶量長紅 防漲多拉回修正 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/6eqsjzymmmwb",
+      "source": "自由時報",
+      "pubDate": "Wed, 23 Sep 2026 21:55:16 GMT",
+      "stocks": [],
+      "background": "汽車零組件產業受惠於全球車市復甦與電動車趨勢，訂單能見度提升，但需留意短期漲多後的修正風險。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
       ]
     },
     {
