@@ -1,11 +1,25 @@
 {
-  "asOf": "2026-09-24T18:42:09.533+08:00",
-  "generatedAt": "2026-09-24T10:42:09.533Z",
+  "asOf": "2026-09-24T22:10:38.275+08:00",
+  "generatedAt": "2026-09-24T14:10:38.275Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "3711",
+      "name": "日月光投控",
+      "days": 3,
+      "dates": [
+        "9/24",
+        "9/23",
+        "9/21"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -4.1,
+      "limitUp": false
+    },
     {
       "symbol": "6488",
       "name": "環球晶",
@@ -98,6 +112,19 @@
       "luwd": [
         "9/22"
       ]
+    },
+    {
+      "symbol": "2454",
+      "name": "聯發科",
+      "days": 2,
+      "dates": [
+        "9/24",
+        "9/23"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -3.6,
+      "limitUp": false
     },
     {
       "symbol": "3016",
@@ -259,22 +286,52 @@
       "status": "逼近新高",
       "dist": -3.1,
       "limitUp": false
-    },
-    {
-      "symbol": "3711",
-      "name": "日月光投控",
-      "days": 2,
-      "dates": [
-        "9/23",
-        "9/21"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -4.1,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE10c1VuOExvdUlJMlJGajU0d3RsOF8wZ1ZETE9GcW9JdlZsWjdua0tZVlgwWjBiV2tWclN4VDlER0hqaTJGTkRTWGdlb1ZZaHZNS2xJamxsVHk",
+      "tkey": "TWA00加權指數-熱門族群AI散熱需求太夯散熱三雄全創新天價-股市爆料同學會",
+      "title": "TWA00 加權指數- 《熱門族群》AI散熱需求太夯散熱三雄全創新天價- 股市爆料同學會 - CMoney",
+      "url": "https://www.cmoney.tw/forum/article/184947369",
+      "source": "CMoney",
+      "pubDate": "Thu, 24 Sep 2026 10:02:09 GMT",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "AI ASIC出貨目標提高",
+          "status": "逼近新高",
+          "dist": -3.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "AI伺服器與網通新成長來源",
+          "limitUp": false
+        },
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "AI伺服器需求帶動MLCC",
+          "limitUp": false
+        },
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "point": "客戶需求續強獲利預估調升",
+          "status": "逼近新高",
+          "dist": -4.1,
+          "limitUp": false
+        }
+      ],
+      "background": "AI伺服器需求強勁，帶動相關晶片設計、組裝、散熱及被動元件等供應鏈成長。國際大廠如Google、輝達、美光等需求增溫，使台廠受惠。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNbzgyNG9FQ0c4NkZiY3ZpVGkwaTVxWVAydFBEWENUNmM4VGNmVkNDeDN3a1EyVl9fMVdlZ050RGZHYWN0UEI5VzF1d2UzRXVZVUpnTmZSS3F0QUlLTUF1LVh2R294OTJ6MVdXcm5XTkxlM21IelBpSEE3eHZQNUtja3RMbDlsMjZJ",
       "tkey": "熱門族群AI散熱需求太夯散熱三雄全創新天價",
