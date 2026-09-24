@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "updatedAt": "2026-09-24T05:05:00.542Z",
+  "updatedAt": "2026-09-24T06:03:40.213Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPVVdLSzZUREtVNk56blk2LUdReG1vdGFfTzJSQlAxMnBSQjlOX3NmSG5HU0gwWWFYUlRtRF9fa3VZbTdhVUVaSEF1RjdGdGpTWU85c1UwcVFJeFpPdnlkdlVreV9yU0FCUFkwVUNTUURST19mc3p6cmJLcHZZS3BEME1ORWxLZm84",
@@ -9,23 +9,9 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6309721001&PU=1002",
       "source": "富聯網",
       "pubDate": "Tue, 22 Sep 2026 08:14:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3234",
-          "name": "威剛",
-          "point": "憑低成本庫存放大獲利，營收大增82%"
-        },
-        {
-          "symbol": "5289",
-          "name": "宜鼎",
-          "point": "專攻工控與邊緣AI，營收翻倍狂飆"
-        }
-      ],
-      "background": "全球DRAM模組市場受AI伺服器算力建置潮驅動，記憶體原廠產能排擠，推升DRAM價格上漲，模組廠獲利強勁轉折。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
+      "stocks": [],
+      "background": "",
+      "themeTags": []
     },
     {
       "gid": "CBMiiAFBVV95cUxOTXJRbVZVTUMzbjdlOTI1VkxYWVRfYlZ4cE1ZYnpHM0VQUDA1aDNPYWVTTEQ5M3QzU1JrcnBtRmVzQWx3dFMxVmNmQVdqSkNTOEl6cFpZamYyTHV5bXNYMUFycEdNWHN5UW1WcWhGQUx4Z1lWd3ZkT05BSEpFNjFRb0tycVJRMWdL",

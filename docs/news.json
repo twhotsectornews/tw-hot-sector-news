@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-24T13:05:00.545+08:00",
-  "generatedAt": "2026-09-24T05:05:00.545Z",
+  "asOf": "2026-09-24T14:03:40.216+08:00",
+  "generatedAt": "2026-09-24T06:03:40.216Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -110,7 +110,8 @@
       "mentions": 2,
       "status": "創新高",
       "dist": 0,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 2,
       "luwd": [
         "9/23",
@@ -225,17 +226,6 @@
       "limitUp": false
     },
     {
-      "symbol": "5289",
-      "name": "宜鼎",
-      "days": 2,
-      "dates": [
-        "9/23",
-        "9/22"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
       "symbol": "3324",
       "name": "雙鴻",
       "days": 2,
@@ -264,6 +254,17 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxNbzgyNG9FQ0c4NkZiY3ZpVGkwaTVxWVAydFBEWENUNmM4VGNmVkNDeDN3a1EyVl9fMVdlZ050RGZHYWN0UEI5VzF1d2UzRXVZVUpnTmZSS3F0QUlLTUF1LVh2R294OTJ6MVdXcm5XTkxlM21IelBpSEE3eHZQNUtja3RMbDlsMjZJ",
+      "tkey": "熱門族群AI散熱需求太夯散熱三雄全創新天價",
+      "title": "《熱門族群》AI散熱需求太夯 散熱三雄全創新天價 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6311676001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 24 Sep 2026 05:47:00 GMT",
+      "stocks": [],
+      "background": "",
+      "themeTags": []
+    },
+    {
       "gid": "CBMikgFBVV95cUxPUGJtQU5jSlJJQWJnS09Cc0twMm9qczhQcHNucl9PRWhFWWJmNnRYWmR3Q05QLXAtd3U4WkNkQzBaV0xoYW9jME9KdldrRWpiR1dwUlc5YzFOUVpyYV9YengwbFJ4bFlJSzRQTVAwQkxydkk5cFF6S1MtdF9xQkgyV3hWVGJ3S1NYYW1Qck5Ud0pMdw",
       "tkey": "熱門族群嘉晶亮3顆燈領漲矽晶圓AI矽光子題材助攻",
       "title": "《熱門族群》嘉晶亮3顆燈領漲矽晶圓 AI矽光子題材助攻 - 富聯網",
@@ -277,7 +278,8 @@
           "point": "亮3顆燈領漲，矽光子磊晶獲大客戶認證",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 2,
           "luwd": [
             "9/23",
@@ -311,6 +313,17 @@
       ]
     },
     {
+      "gid": "CBMiWEFVX3lxTE04bkJmcEoza2REc1YtdFBiM2gzcEtpc041SHhTNW94M3BOLXRUWWgwVDhYdWNZU1BkQ2N2ek1XQzNkNVY4dDFTbldPUDBfV1dBXzBobUpINGc",
+      "tkey": "熱門族群油價回落航空股喜迎暑假旺季",
+      "title": "熱門族群》油價回落 航空股喜迎暑假旺季 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/vacpbjnuybnb",
+      "source": "自由時報",
+      "pubDate": "Thu, 24 Sep 2026 03:19:41 GMT",
+      "stocks": [],
+      "background": "",
+      "themeTags": []
+    },
+    {
       "gid": "CBMiiAFBVV95cUxQdGRjY0c1eG11dnNzUzN2dEVkMVlpVnlWclVSRENlQVB1d2YwdVFUX0N2eC1VNVFZd0VYWlN2NXZIYW96LVJGM0xTNTU1Z3pMTGhOejN3MVdidXB0R1JGenBWSkJBUm1YeVFLOUVyRGZHWl9yYnFVWXY0Y3J5N2Y0Zy0zbnFOZ1Vx",
       "tkey": "熱門族群聯茂財報利多漲停銅箔基板四雄齊揚",
       "title": "《熱門族群》聯茂財報利多漲停 銅箔基板四雄齊揚 - 富聯網",
@@ -324,7 +337,8 @@
           "point": "財報利多漲停",
           "status": "逼近新高",
           "dist": -0.7,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "2383",
@@ -350,7 +364,8 @@
           "point": "銅箔基板漲價潮",
           "status": "逼近新高",
           "dist": -0.6,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "3037",
