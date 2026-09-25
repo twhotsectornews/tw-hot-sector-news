@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "updatedAt": "2026-09-25T09:41:25.801Z",
+  "updatedAt": "2026-09-25T10:42:15.489Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE10c1VuOExvdUlJMlJGajU0d3RsOF8wZ1ZETE9GcW9JdlZsWjdua0tZVlgwWjBiV2tWclN4VDlER0hqaTJGTkRTWGdlb1ZZaHZNS2xJamxsVHk",
@@ -54,6 +54,45 @@
       "pubDate": "Thu, 24 Sep 2026 05:47:00 GMT",
       "stocks": [],
       "background": "AI伺服器需求強勁，帶動散熱模組出貨量與單價提升，散熱廠受惠於高階產品滲透率增加，產業景氣持續看好。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOOFRrYlc3U3JGbFJibWFGQUw2QTJPekJTQ01CVGxObk9nYlRwQW1jZUpMbnlHQTVodVZMSVI5aC11SUY5YjI2U2QzM3l3OTl2cnpxYlJHVFRFZll6VGNqWFZoOU9lWmo3V0p5THR3UUg4SER6cDhGWUItZjZIbmNqSmpEOWt3czYw",
+      "tkey": "熱門族群AI散熱需求太夯散熱三雄全創新天價-ww2.money",
+      "title": "《熱門族群》AI散熱需求太夯 散熱三雄全創新天價 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6311676001&PU=0010",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Thu, 24 Sep 2026 05:47:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "point": "股價攻上漲停，改寫歷史新高",
+          "status": "逼近新高",
+          "dist": -2.3
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "股價強勢拉尾，刷新歷史新高",
+          "status": "創新高",
+          "dist": 0,
+          "luw": 1,
+          "luwd": [
+            "9/23"
+          ]
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "股價震盪走高，創下歷史新高",
+          "status": "逼近新高",
+          "dist": -1.2
+        }
+      ],
+      "background": "AI伺服器與高效能運算（HPC）需求持續推升水冷散熱，散熱三雄受惠，外資持續看好並上調目標價。",
       "themeTags": [
         "需求驅動"
       ]
