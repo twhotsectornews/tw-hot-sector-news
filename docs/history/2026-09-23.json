@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "updatedAt": "2026-09-25T04:02:09.785Z",
+  "updatedAt": "2026-09-25T05:01:32.853Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE5YUmtVV2t6X1BHd3NUX1VodV84bDZLejFqX2Q2LWcxSzNyd2N4V24wRGJBLTNoX0VtdlB2OWFpQWpFbkN0QUs2MVYzUDJjR3JXWURSYTJGeVk",
@@ -10,10 +10,9 @@
       "source": "自由時報",
       "pubDate": "Wed, 23 Sep 2026 13:29:51 GMT",
       "stocks": [],
-      "background": "ABF 載板受惠於 AI、HPC 等高階應用需求，產能持續吃緊，預期下半年將再度漲價，明年供應缺口擴大。",
+      "background": "ABF 載板受惠於 AI、HPC 等高階應用需求，下半年預期再漲價，明年供應缺口擴大，產業景氣復甦。",
       "themeTags": [
-        "需求驅動",
-        "循環位置"
+        "需求驅動"
       ]
     },
     {
@@ -32,17 +31,16 @@
         {
           "symbol": "1504",
           "name": "東元",
-          "point": "可整合電力轉換系統"
+          "point": "可整合電力轉換與儲能系統"
         },
         {
-          "symbol": "1513",
+          "symbol": "1515",
           "name": "亞力",
-          "point": "具產品基礎需補強認證"
+          "point": "具產品基礎但需補強認證"
         }
       ],
-      "background": "美中科技戰擴大至電力基礎設施，美國 FCC 封殺中國逆變器，為非中系與具海外供貨能力的台廠帶來轉單利多，尤其在 AI 資料中心供電領域。",
+      "background": "美國封殺陸企逆變器，導致市場大洗牌，台廠因具備海外供貨能力，迎來轉單利多，特別是AI資料中心供電需求。",
       "themeTags": [
-        "政策關稅",
         "需求驅動"
       ]
     },
@@ -54,7 +52,7 @@
       "source": "自由時報",
       "pubDate": "Wed, 23 Sep 2026 07:18:28 GMT",
       "stocks": [],
-      "background": "AI 晶片設計需求激增，ASIC 訂單強勁帶動矽智財（IP）產業成長，為晶片設計提供關鍵技術支援。",
+      "background": "AI ASIC 訂單強勁，帶動矽智財族群需求，為 AI 晶片設計提供關鍵 IP，產業前景看好。",
       "themeTags": [
         "需求驅動"
       ]
