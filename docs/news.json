@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-25T11:02:57.061+08:00",
-  "generatedAt": "2026-09-25T03:02:57.061Z",
+  "asOf": "2026-09-25T12:02:09.788+08:00",
+  "generatedAt": "2026-09-25T04:02:09.788Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -167,19 +167,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 2,
-      "dates": [
-        "9/23",
-        "9/20"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -1.3,
-      "limitUp": false
-    },
-    {
       "symbol": "8150",
       "name": "南茂",
       "days": 2,
@@ -229,6 +216,19 @@
       "pubDate": "Thu, 24 Sep 2026 22:49:06 GMT",
       "stocks": [],
       "background": "AI技術快速發展，帶動對高效能運算晶片的需求，使晶圓代工產業在先進製程領域迎來長期成長動能。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTFBIN3JYM0VpZEdRZHdNajZ1VUlwcGJLT1BoRmNydjVRbVY4N3o4ZVZMQWltcVRyVW5pcGxuaVAzWnBRcjBVRGJBNkMyQ29ITmRTb0hqTG9NeXA",
+      "tkey": "熱門族群AI盡頭是電力重電族群扮演基建要角",
+      "title": "熱門族群》 AI盡頭是電力 重電族群扮演基建要角 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/qjy05zlmpyf6",
+      "source": "自由時報",
+      "pubDate": "Thu, 24 Sep 2026 18:26:19 GMT",
+      "stocks": [],
+      "background": "AI 發展對電力需求龐大，重電族群作為電力基礎設施的關鍵供應商，在能源轉型與電網升級趨勢下扮演要角。",
       "themeTags": [
         "需求驅動"
       ]

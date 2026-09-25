@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "updatedAt": "2026-09-25T03:02:57.058Z",
+  "updatedAt": "2026-09-25T04:02:09.785Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE5YUmtVV2t6X1BHd3NUX1VodV84bDZLejFqX2Q2LWcxSzNyd2N4V24wRGJBLTNoX0VtdlB2OWFpQWpFbkN0QUs2MVYzUDJjR3JXWURSYTJGeVk",
@@ -10,7 +10,7 @@
       "source": "自由時報",
       "pubDate": "Wed, 23 Sep 2026 13:29:51 GMT",
       "stocks": [],
-      "background": "ABF載板因AI伺服器、HPC等高階晶片需求強勁，供應持續吃緊，預期下半年將再漲價，明年供應缺口擴大，產業處於景氣復甦階段。",
+      "background": "ABF 載板受惠於 AI、HPC 等高階應用需求，產能持續吃緊，預期下半年將再度漲價，明年供應缺口擴大。",
       "themeTags": [
         "需求驅動",
         "循環位置"
@@ -27,29 +27,20 @@
         {
           "symbol": "2308",
           "name": "台達電",
-          "point": "具美規大型產品與在美案場實績",
-          "limitUp": false
-        },
-        {
-          "symbol": "1514",
-          "name": "亞力",
-          "point": "具產品基礎，需補強安全與客戶認證",
-          "limitUp": false
-        },
-        {
-          "symbol": "6138",
-          "name": "亞源",
-          "point": "具產品基礎，需補強安全與客戶認證",
-          "limitUp": false
+          "point": "具美規大型產品與案場實績"
         },
         {
           "symbol": "1504",
           "name": "東元",
-          "point": "電力轉換系統可深度整合",
-          "limitUp": false
+          "point": "可整合電力轉換系統"
+        },
+        {
+          "symbol": "1513",
+          "name": "亞力",
+          "point": "具產品基礎需補強認證"
         }
       ],
-      "background": "美國FCC將具連網功能的逆變器納入管制，重創陸企供應鏈。台廠在美中科技戰下，迎來轉單利多，尤其在太陽能、儲能及AI資料中心領域。",
+      "background": "美中科技戰擴大至電力基礎設施，美國 FCC 封殺中國逆變器，為非中系與具海外供貨能力的台廠帶來轉單利多，尤其在 AI 資料中心供電領域。",
       "themeTags": [
         "政策關稅",
         "需求驅動"
@@ -63,7 +54,7 @@
       "source": "自由時報",
       "pubDate": "Wed, 23 Sep 2026 07:18:28 GMT",
       "stocks": [],
-      "background": "AI ASIC訂單強勁，帶動矽智財（IP）需求升溫，特別是先進製程、記憶體、高速介面與硬體安全功能等IP，為晶片設計關鍵。",
+      "background": "AI 晶片設計需求激增，ASIC 訂單強勁帶動矽智財（IP）產業成長，為晶片設計提供關鍵技術支援。",
       "themeTags": [
         "需求驅動"
       ]
@@ -77,19 +68,9 @@
       "pubDate": "Wed, 23 Sep 2026 04:13:00 GMT",
       "stocks": [
         {
-          "symbol": "2330",
-          "name": "台積電",
-          "point": "權王撐盤指數重登大關",
-          "status": "逼近新高",
-          "dist": -1.3,
-          "limitUp": false
-        },
-        {
           "symbol": "2342",
           "name": "茂矽",
-          "point": "功率元件強鎖漲停",
-          "limitUp": true,
-          "pct": 10,
+          "point": "功率元件漲價強鎖漲停",
           "luw": 1,
           "luwd": [
             "9/23"
@@ -98,11 +79,9 @@
         {
           "symbol": "3016",
           "name": "嘉晶",
-          "point": "功率元件強鎖漲停，月噴4成",
-          "status": "逼近新高",
-          "dist": -4.9,
-          "limitUp": true,
-          "pct": 9.8,
+          "point": "磊晶廠法說報喜月噴4成",
+          "status": "創新高",
+          "dist": 0,
           "luw": 3,
           "luwd": [
             "9/24",
@@ -113,11 +92,9 @@
         {
           "symbol": "3653",
           "name": "健策",
-          "point": "功率元件強鎖漲停",
+          "point": "功率元件漲價強鎖漲停",
           "status": "創新高",
           "dist": 0,
-          "limitUp": true,
-          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "9/23"
@@ -126,37 +103,30 @@
         {
           "symbol": "3675",
           "name": "德微",
-          "point": "功率元件強鎖漲停，8月營收創新高",
-          "limitUp": true,
-          "pct": 9.9
+          "point": "8月營收創新高強攻漲停"
         },
         {
           "symbol": "3317",
           "name": "尼克森",
-          "point": "功率元件強鎖漲停",
-          "limitUp": true,
-          "pct": 9.9
+          "point": "功率元件漲價強鎖漲停"
         },
         {
           "symbol": "3707",
           "name": "漢磊",
-          "point": "功率元件聯袂走高",
-          "limitUp": false
+          "point": "功率元件漲價聯袂走高"
         },
         {
           "symbol": "8255",
           "name": "朋程",
-          "point": "功率元件聯袂走高",
-          "limitUp": false
+          "point": "功率元件漲價聯袂走高"
         },
         {
           "symbol": "7712",
           "name": "博盛半導體",
-          "point": "功率元件聯袂走高",
-          "limitUp": false
+          "point": "功率元件漲價聯袂走高"
         }
       ],
-      "background": "AI伺服器電源升級潮與化合物磊晶車用需求推動功率元件漲價，國際大廠德州儀器、瑞薩、安森美接連調價，台廠有望受惠產品組合與價格改善。",
+      "background": "AI 算力推升單機功耗，帶動功率半導體需求與漲價潮，國際大廠如德州儀器、瑞薩、安森美接連調價，產業有望量增價穩。",
       "themeTags": [
         "需求驅動",
         "國際大廠",
