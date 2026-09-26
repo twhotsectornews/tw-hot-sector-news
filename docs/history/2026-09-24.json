@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "updatedAt": "2026-09-26T08:05:15.340Z",
+  "updatedAt": "2026-09-26T09:41:10.286Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE10c1VuOExvdUlJMlJGajU0d3RsOF8wZ1ZETE9GcW9JdlZsWjdua0tZVlgwWjBiV2tWclN4VDlER0hqaTJGTkRTWGdlb1ZZaHZNS2xJamxsVHk",
@@ -11,120 +11,41 @@
       "pubDate": "Thu, 24 Sep 2026 10:02:09 GMT",
       "stocks": [
         {
-          "symbol": "2313",
-          "name": "華通",
-          "point": "前期每股純益達2.50元"
-        },
-        {
-          "symbol": "2454",
-          "name": "聯發科",
-          "point": "前期每股純益高達30.44元",
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "中美關係若緩和，將迎隱藏AI交易",
           "status": "逼近新高",
-          "dist": -3.6
+          "dist": -2.1
         },
         {
-          "symbol": "3105",
-          "name": "穩懋",
-          "point": "前期每股純益3.56元"
+          "symbol": "3324",
+          "name": "雙鴻",
+          "point": "AI散熱需求太夯，股價創新天價",
+          "status": "逼近新高",
+          "dist": -2.3
         },
         {
-          "symbol": "3042",
-          "name": "晶技",
-          "point": "前期每股純益2.96元"
-        },
-        {
-          "symbol": "2485",
-          "name": "兆赫",
-          "point": "前期每股純益0.55元"
-        },
-        {
-          "symbol": "2419",
-          "name": "仲琦",
-          "point": "前期每股純益0.14元",
+          "symbol": "3653",
+          "name": "健策",
+          "point": "AI散熱需求太夯，股價創新天價",
+          "status": "創新高",
+          "dist": 0,
           "luw": 1,
           "luwd": [
-            "9/21"
+            "9/23"
           ]
         },
         {
-          "symbol": "3138",
-          "name": "耀登",
-          "point": "前期每股純益0.41元"
-        },
-        {
-          "symbol": "2314",
-          "name": "台揚",
-          "point": "前期呈現虧損"
-        },
-        {
-          "symbol": "2332",
-          "name": "友訊",
-          "point": "前期呈現虧損"
-        },
-        {
-          "symbol": "2367",
-          "name": "燿華",
-          "point": "前期呈現虧損"
-        },
-        {
-          "symbol": "3491",
-          "name": "昇達科",
-          "point": "前期每股純益達8.15元"
-        },
-        {
-          "symbol": "6285",
-          "name": "啟碁",
-          "point": "每股純益5.75元"
-        },
-        {
-          "symbol": "4916",
-          "name": "事欣科",
-          "point": "每股純益5.45元"
-        },
-        {
-          "symbol": "6271",
-          "name": "同欣電",
-          "point": "每股純益4.37元"
-        },
-        {
-          "symbol": "3305",
-          "name": "昇貿",
-          "point": "遭外資賣超1972張"
-        },
-        {
-          "symbol": "6568",
-          "name": "宏觀",
-          "point": "每股純益2.48元"
-        },
-        {
-          "symbol": "3481",
-          "name": "群創",
-          "point": "未提及具體數據"
-        },
-        {
-          "symbol": "3178",
-          "name": "公準",
-          "point": "每股純益0.43元"
-        },
-        {
-          "symbol": "4909",
-          "name": "新復興",
-          "point": "未提及具體數據"
-        },
-        {
-          "symbol": "6443",
-          "name": "元晶",
-          "point": "未提及具體數據",
-          "luw": 1,
-          "luwd": [
-            "9/21"
-          ]
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "AI散熱需求太夯，股價創新天價",
+          "status": "逼近新高",
+          "dist": -1.2
         }
       ],
-      "background": "AI散熱需求因AI伺服器與HPC應用而大增，帶動相關供應鏈成長。低軌衛星應用從通訊服務延伸至分散式AI運算平台，SpaceX加速部署，台灣網通與零組件供應鏈受惠。",
+      "background": "AI伺服器需求持續增長，帶動散熱模組供應商訂單強勁，尤其水冷散熱技術受市場高度關注，產業處於景氣復甦階段。",
       "themeTags": [
-        "需求驅動",
-        "國際大廠"
+        "需求驅動"
       ]
     },
     {
