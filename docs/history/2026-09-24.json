@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "updatedAt": "2026-09-26T05:01:07.319Z",
+  "updatedAt": "2026-09-26T06:03:21.390Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE10c1VuOExvdUlJMlJGajU0d3RsOF8wZ1ZETE9GcW9JdlZsWjdua0tZVlgwWjBiV2tWclN4VDlER0hqaTJGTkRTWGdlb1ZZaHZNS2xJamxsVHk",
@@ -13,14 +13,14 @@
         {
           "symbol": "3324",
           "name": "雙鴻",
-          "point": "AI散熱需求太夯，股價創新天價",
+          "point": "股價創歷史新高",
           "status": "逼近新高",
           "dist": -2.3
         },
         {
           "symbol": "3653",
           "name": "健策",
-          "point": "AI散熱需求太夯，股價創新天價",
+          "point": "股價創歷史新高",
           "status": "創新高",
           "dist": 0,
           "luw": 1,
@@ -31,21 +31,33 @@
         {
           "symbol": "3017",
           "name": "奇鋐",
-          "point": "AI散熱需求太夯，股價創新天價",
+          "point": "股價創歷史新高",
           "status": "逼近新高",
           "dist": -1.2
         },
         {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "ABF載板需求成長",
+          "status": "逼近新高",
+          "dist": -3.4,
+          "luw": 1,
+          "luwd": [
+            "9/22"
+          ]
+        },
+        {
           "symbol": "2330",
           "name": "台積電",
-          "point": "股價承壓，維持在2500元之下",
+          "point": "股價承壓",
           "status": "逼近新高",
           "dist": -2.1
         }
       ],
-      "background": "AI伺服器與高效能運算持續推升水冷散熱需求，散熱三雄受惠，外資看好後市並上調目標價。",
+      "background": "AI伺服器與高效能運算（HPC）帶動水冷散熱需求爆發，散熱三雄受惠於輝達（NVIDIA）新平台放量，外資看好後市並上調目標價。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "國際大廠"
       ]
     },
     {
