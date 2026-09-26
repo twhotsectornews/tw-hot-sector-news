@@ -1,25 +1,11 @@
 {
-  "asOf": "2026-09-26T11:01:30.512+08:00",
-  "generatedAt": "2026-09-26T03:01:30.512Z",
+  "asOf": "2026-09-26T12:01:39.812+08:00",
+  "generatedAt": "2026-09-26T04:01:39.812Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
-    {
-      "symbol": "3711",
-      "name": "日月光投控",
-      "days": 3,
-      "dates": [
-        "9/24",
-        "9/23",
-        "9/21"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -4.1,
-      "limitUp": false
-    },
     {
       "symbol": "6488",
       "name": "環球晶",
@@ -57,7 +43,7 @@
         "9/24",
         "9/23"
       ],
-      "mentions": 4,
+      "mentions": 5,
       "status": "創新高",
       "dist": 0,
       "luw": 1,
@@ -73,9 +59,33 @@
         "9/24",
         "9/23"
       ],
-      "mentions": 4,
+      "mentions": 5,
       "status": "逼近新高",
       "dist": -1.2
+    },
+    {
+      "symbol": "3324",
+      "name": "雙鴻",
+      "days": 2,
+      "dates": [
+        "9/24",
+        "9/23"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -2.3
+    },
+    {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 2,
+      "dates": [
+        "9/24",
+        "9/20"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -2.1
     },
     {
       "symbol": "3037",
@@ -127,31 +137,6 @@
       "luwd": [
         "9/22"
       ]
-    },
-    {
-      "symbol": "2454",
-      "name": "聯發科",
-      "days": 2,
-      "dates": [
-        "9/24",
-        "9/23"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -3.6,
-      "limitUp": false
-    },
-    {
-      "symbol": "3324",
-      "name": "雙鴻",
-      "days": 2,
-      "dates": [
-        "9/24",
-        "9/23"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -2.3
     },
     {
       "symbol": "3016",
@@ -243,6 +228,19 @@
         "9/22"
       ],
       "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3711",
+      "name": "日月光投控",
+      "days": 2,
+      "dates": [
+        "9/23",
+        "9/21"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -4.1,
       "limitUp": false
     }
   ],
