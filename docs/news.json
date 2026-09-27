@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-27T12:01:49.846+08:00",
-  "generatedAt": "2026-09-27T04:01:49.846Z",
+  "asOf": "2026-09-27T13:02:16.554+08:00",
+  "generatedAt": "2026-09-27T05:02:16.554Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -148,6 +148,17 @@
       ]
     },
     {
+      "symbol": "6121",
+      "name": "永擎",
+      "days": 2,
+      "dates": [
+        "9/27",
+        "9/22"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "3707",
       "name": "漢磊",
       "days": 2,
@@ -260,6 +271,75 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxORzFRN0xRczQ2TUFWMngwakJwaVRZV2c0aVY0SzRwS1B4aGt3dXItaU9fYV9Ud2hseDdUR1Bfd1N3YVRxZHViQ0NVT0ptUm4wc1dBSVJIRmdsX016NlFIQXc0cGhxUXNTenVyYTVCcHBxc1Vrd2lSQjZlWU5Dc1htd1JLTElCdVBI",
+      "tkey": "熱門族群需求爆AI伺服器廠籌資拚擴產",
+      "title": "《熱門族群》需求爆 AI伺服器廠籌資拚擴產 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6313224001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sun, 27 Sep 2026 03:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2382",
+          "name": "廣達",
+          "point": "發行GDS籌資逾700億元",
+          "limitUp": false
+        },
+        {
+          "symbol": "3231",
+          "name": "緯創",
+          "point": "發行GDR募得467億元",
+          "status": "高檔修正",
+          "dist": -10.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "發行600億元無擔保普通公司債",
+          "limitUp": false
+        },
+        {
+          "symbol": "6669",
+          "name": "緯穎",
+          "point": "發行20億美元ECB",
+          "limitUp": false
+        },
+        {
+          "symbol": "2357",
+          "name": "華碩",
+          "point": "發行25億美元ECB與EB",
+          "status": "逼近新高",
+          "dist": -7.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "6121",
+          "name": "永擎",
+          "point": "擬發行42億元無擔保普通公司債",
+          "limitUp": false
+        },
+        {
+          "symbol": "2376",
+          "name": "技嘉",
+          "point": "規畫發行GDR募資150億元",
+          "status": "高檔修正",
+          "dist": -10.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "2356",
+          "name": "英業達",
+          "point": "美國德州AI伺服器產線量產",
+          "limitUp": false
+        }
+      ],
+      "background": "AI伺服器需求持續爆發，NVIDIA新平台B200、B300、GB300 NVL72持續放量，台廠積極擴產並籌資以支應龐大訂單與新平台升級。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
     {
       "gid": "CBMiZEFVX3lxTFBMOG00UWpRaGY4MFVfaVo5UGhOVW5ES2d6bGFFMHFtUlJtWTBhd1oyVDFyMFJtTDNvZUNQX2dXVG1TMHlGOExrZkZlLUZ4LUIzZTFueVZRN0JqUnhKM3VZb3I3MjXSAWRBVV95cUxQTDhtNFFqUWhmODBVX2laOVBoTlVuREtnemxhRTBxbVJSbVkwYXdaMlQxcjBSbUwzb2VDUF9nV1RtUzB5RjhMa2ZGZS1GeC1CM2UxbnlWUTdCalJ4SjN1WW9yNzI1",
       "tkey": "熱門族群AI催動功率元件需求嘉晶、漢磊、茂矽喜迎營運轉機",
