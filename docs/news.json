@@ -1,11 +1,32 @@
 {
-  "asOf": "2026-09-26T22:42:40.351+08:00",
-  "generatedAt": "2026-09-26T14:42:40.351Z",
+  "asOf": "2026-09-27T11:02:13.886+08:00",
+  "generatedAt": "2026-09-27T03:02:13.886Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "3016",
+      "name": "嘉晶",
+      "days": 3,
+      "dates": [
+        "9/27",
+        "9/24",
+        "9/23"
+      ],
+      "mentions": 3,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": true,
+      "pct": 10,
+      "luw": 3,
+      "luwd": [
+        "9/24",
+        "9/23",
+        "9/22"
+      ]
+    },
     {
       "symbol": "6488",
       "name": "環球晶",
@@ -62,18 +83,6 @@
       "mentions": 5,
       "status": "逼近新高",
       "dist": -1.2
-    },
-    {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 2,
-      "dates": [
-        "9/24",
-        "9/20"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -2.1
     },
     {
       "symbol": "3324",
@@ -139,23 +148,29 @@
       ]
     },
     {
-      "symbol": "3016",
-      "name": "嘉晶",
+      "symbol": "3707",
+      "name": "漢磊",
       "days": 2,
       "dates": [
-        "9/24",
+        "9/27",
         "9/23"
       ],
       "mentions": 2,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2342",
+      "name": "茂矽",
+      "days": 2,
+      "dates": [
+        "9/27",
+        "9/23"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
       "luwd": [
-        "9/24",
-        "9/23",
-        "9/22"
+        "9/23"
       ]
     },
     {
@@ -246,6 +261,52 @@
   ],
   "news": [
     {
+      "gid": "CBMiZEFVX3lxTFBMOG00UWpRaGY4MFVfaVo5UGhOVW5ES2d6bGFFMHFtUlJtWTBhd1oyVDFyMFJtTDNvZUNQX2dXVG1TMHlGOExrZkZlLUZ4LUIzZTFueVZRN0JqUnhKM3VZb3I3MjXSAWRBVV95cUxQTDhtNFFqUWhmODBVX2laOVBoTlVuREtnemxhRTBxbVJSbVkwYXdaMlQxcjBSbUwzb2VDUF9nV1RtUzB5RjhMa2ZGZS1GeC1CM2UxbnlWUTdCalJ4SjN1WW9yNzI1",
+      "tkey": "熱門族群AI催動功率元件需求嘉晶、漢磊、茂矽喜迎營運轉機",
+      "title": "熱門族群》AI催動功率元件需求 嘉晶、漢磊、茂矽喜迎營運轉機 - ec.ltn.com.tw",
+      "url": "https://ec.ltn.com.tw/amp/article/breakingnews/5585523",
+      "source": "ec.ltn.com.tw",
+      "pubDate": "Sat, 26 Sep 2026 23:00:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3016",
+          "name": "嘉晶",
+          "point": "AI催動功率元件需求，磊晶產能滿載",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 3,
+          "luwd": [
+            "9/24",
+            "9/23",
+            "9/22"
+          ]
+        },
+        {
+          "symbol": "3707",
+          "name": "漢磊",
+          "point": "搶攻SiC高壓功率元件，推新一代技術平台",
+          "limitUp": false
+        },
+        {
+          "symbol": "2342",
+          "name": "茂矽",
+          "point": "受惠AI資料中心外溢效應，推進SiC產品",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/23"
+          ]
+        }
+      ],
+      "background": "AI資料中心擴建帶動電源管理及功率元件需求，功率半導體市場傳出漲價消息，相關磊晶與晶圓代工廠喜迎新一波需求動能。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiWEFVX3lxTE80SVEwN1oySnUxZXVLOXo4MV9mTWpTS1plSW90NTM4aWpZQVBjRWxyX0hPUHZzREZOa0F2dVBBLVhJc1VDUml4TkY3UzFUcWZ3c2dYdFhnVGM",
       "tkey": "熱門族群雲端基建持續砸錢老AI族群老當益壯",
       "title": "熱門族群》雲端基建持續砸錢 老AI族群老當益壯 - 自由時報",
@@ -254,43 +315,6 @@
       "pubDate": "Fri, 25 Sep 2026 16:27:08 GMT",
       "stocks": [],
       "background": "雲端基礎建設投資持續，帶動AI相關產業需求，尤其在AI伺服器與高效能運算（HPC）領域，產業景氣持續復甦。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTE5jWUJSakZESUQ3TXIxa3g5dGp3Y1ZobUtyTkEtTE9JeXVUMWEzOUJtWlEybEtyYTZqOEk0QXlQVDVXdXN2eHgzQzhBdWJGQmdZVUpuUjh6cmo",
-      "tkey": "熱門族群AI產業鏈跌一跤紡織股扮撐盤要角",
-      "title": "熱門族群》AI產業鏈跌一跤 紡織股扮撐盤要角 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/nfkvsvqghrjy",
-      "source": "自由時報",
-      "pubDate": "Thu, 24 Sep 2026 23:29:26 GMT",
-      "stocks": [],
-      "background": "AI產業鏈近期面臨修正，資金轉向其他族群。紡織股因其內需與傳產特性，在市場震盪時常扮演資金避風港角色。",
-      "themeTags": []
-    },
-    {
-      "gid": "CBMiWEFVX3lxTE9scUtlbTdwQ3FXNVJrRWtNTjJSV2NQdzdaa1Jsc1VkVlp5YjAwWi1vUUVaYUE3ajdmbVJWb2hWeUtkTkczT0Jzd3JHUWI5ODRXa2tEVzNDcXM",
-      "tkey": "熱門族群AI需求旺到2030年晶圓代工產業迎榮景",
-      "title": "熱門族群》AI需求旺到2030年 晶圓代工產業迎榮景 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/7hmghe8jscxg",
-      "source": "自由時報",
-      "pubDate": "Thu, 24 Sep 2026 22:49:06 GMT",
-      "stocks": [],
-      "background": "AI技術快速發展，帶動對高效能運算晶片的需求，使晶圓代工產業在先進製程領域迎來長期成長動能。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTFBIN3JYM0VpZEdRZHdNajZ1VUlwcGJLT1BoRmNydjVRbVY4N3o4ZVZMQWltcVRyVW5pcGxuaVAzWnBRcjBVRGJBNkMyQ29ITmRTb0hqTG9NeXA",
-      "tkey": "熱門族群AI盡頭是電力重電族群扮演基建要角",
-      "title": "熱門族群》 AI盡頭是電力 重電族群扮演基建要角 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/qjy05zlmpyf6",
-      "source": "自由時報",
-      "pubDate": "Thu, 24 Sep 2026 18:26:19 GMT",
-      "stocks": [],
-      "background": "AI 發展對電力需求龐大，重電族群作為電力基礎設施的關鍵供應商，在能源轉型與電網升級趨勢下扮演要角。",
       "themeTags": [
         "需求驅動"
       ]
