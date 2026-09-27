@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-27T18:41:35.740+08:00",
-  "generatedAt": "2026-09-27T10:41:35.740Z",
+  "asOf": "2026-09-27T22:40:46.125+08:00",
+  "generatedAt": "2026-09-27T14:40:46.125Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -271,6 +271,26 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE0xczUzZWN3STdtNlEyTjNPNEs5ZnNFbW4xeExlUmkyRXFNWVhJZkljTmtub2trYVYyNEJtVXA5YTlFOXByNU92aUFTVE1TZHlZcERJME5NRkw",
+      "tkey": "熱門族群受惠CPO題材大立光領軍光學族群上衝",
+      "title": "熱門族群》受惠CPO題材 大立光領軍光學族群上衝 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/b4kt7zt65bh5",
+      "source": "自由時報",
+      "pubDate": "Sun, 27 Sep 2026 08:18:06 GMT",
+      "stocks": [
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "受CPO題材激勵，領軍光學族群上漲",
+          "limitUp": false
+        }
+      ],
+      "background": "光學族群受惠於CPO（共同封裝光學）技術發展，此技術為AI伺服器與高速運算需求下的關鍵零組件，產業前景看好。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxORTVtMFRYOC1qY1h0ZFo3aVE3SFJPODF2bkp3bW1iTlpEUERiX1JnRzZWVllEdnJZLW9NT19ORmY4aXk0VUNtUzNzNExEbFlMbTJRM1E4YnhiXzZsZ0ZqSEphQXNzOTdrT0dJcXhVWTA2dndJTjBfZEh5YkR5Mi1US0NwVk5LXzE1",
       "tkey": "熱門族群品牌拉貨分化高球代工四雄喊衝",
