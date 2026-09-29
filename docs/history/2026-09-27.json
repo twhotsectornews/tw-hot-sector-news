@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "updatedAt": "2026-09-29T03:05:02.941Z",
+  "updatedAt": "2026-09-29T04:05:19.167Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE0xczUzZWN3STdtNlEyTjNPNEs5ZnNFbW4xeExlUmkyRXFNWVhJZkljTmtub2trYVYyNEJtVXA5YTlFOXByNU92aUFTVE1TZHlZcERJME5NRkw",
@@ -56,6 +56,57 @@
         }
       ],
       "background": "高爾夫球具市場進入旺季，國際品牌新品週期與庫存策略調整，牽動台灣高球代工廠接單節奏。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiX0FVX3lxTE1CcVhIbW5TN0pJVUpWdUpmSDN5UldQWXJzTnNuSVRTTm5veHNkaDBiYXJ1WlhqWW5nQk9qVTZIaDlRSm1oQkpxaEhCb3hsLWNaNGZEeHFHUnplNmZKX3pB0gFkQVVfeXFMUGg5QUFOa3hDbFlLT0JMdUJ2YnE1aS1QaHR0T1RyaHlsSlNSSzdnZDROVmY4WnZWQWV6WUtVRk5RXzNSbHhmOXdhTFpzalVUYkJPWWN5a2k5SDNfei1oa2dwcXRvaA",
+      "tkey": "熱門族群水冷散熱需求強資金轉進散熱族群",
+      "title": "熱門族群》水冷散熱需求強 資金轉進散熱族群 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5587600",
+      "source": "自由財經",
+      "pubDate": "Sun, 27 Sep 2026 06:20:05 GMT",
+      "stocks": [
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "point": "重回輝達水冷板供應鏈",
+          "status": "逼近新高",
+          "dist": -7.7
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "AI伺服器需求帶動出貨",
+          "status": "逼近新高",
+          "dist": -7.9
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "輝達B300伺服器散熱放量",
+          "status": "逼近新高",
+          "dist": -3.4,
+          "luw": 1,
+          "luwd": [
+            "9/23"
+          ]
+        },
+        {
+          "symbol": "6933",
+          "name": "AMAX-KY",
+          "point": "受惠AI資料中心水冷散熱",
+          "status": "逼近新高",
+          "dist": -4.3,
+          "luw": 2,
+          "luwd": [
+            "9/24",
+            "9/23"
+          ]
+        }
+      ],
+      "background": "AI基礎建設擴張，資料中心功耗提升，帶動GPU、ASIC伺服器水冷散熱滲透率持續提升，有利散熱廠商營運。",
       "themeTags": [
         "需求驅動"
       ]

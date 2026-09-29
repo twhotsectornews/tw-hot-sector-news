@@ -1,11 +1,41 @@
 {
-  "asOf": "2026-09-29T11:05:02.947+08:00",
-  "generatedAt": "2026-09-29T03:05:02.947Z",
+  "asOf": "2026-09-29T12:05:19.170+08:00",
+  "generatedAt": "2026-09-29T04:05:19.170Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "3017",
+      "name": "奇鋐",
+      "days": 3,
+      "dates": [
+        "9/27",
+        "9/24",
+        "9/23"
+      ],
+      "mentions": 6,
+      "status": "逼近新高",
+      "dist": -7.9
+    },
+    {
+      "symbol": "3653",
+      "name": "健策",
+      "days": 3,
+      "dates": [
+        "9/27",
+        "9/24",
+        "9/23"
+      ],
+      "mentions": 6,
+      "status": "逼近新高",
+      "dist": -3.4,
+      "luw": 1,
+      "luwd": [
+        "9/23"
+      ]
+    },
     {
       "symbol": "3189",
       "name": "景碩",
@@ -61,6 +91,19 @@
       ]
     },
     {
+      "symbol": "3324",
+      "name": "雙鴻",
+      "days": 3,
+      "dates": [
+        "9/27",
+        "9/24",
+        "9/23"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -7.7
+    },
+    {
       "symbol": "3016",
       "name": "嘉晶",
       "days": 3,
@@ -80,34 +123,6 @@
         "9/23",
         "9/22"
       ]
-    },
-    {
-      "symbol": "3653",
-      "name": "健策",
-      "days": 2,
-      "dates": [
-        "9/24",
-        "9/23"
-      ],
-      "mentions": 5,
-      "status": "創新高",
-      "dist": 0,
-      "luw": 1,
-      "luwd": [
-        "9/23"
-      ]
-    },
-    {
-      "symbol": "3017",
-      "name": "奇鋐",
-      "days": 2,
-      "dates": [
-        "9/24",
-        "9/23"
-      ],
-      "mentions": 5,
-      "status": "逼近新高",
-      "dist": -1.2
     },
     {
       "symbol": "1303",
@@ -143,18 +158,6 @@
       ],
       "mentions": 3,
       "limitUp": false
-    },
-    {
-      "symbol": "3324",
-      "name": "雙鴻",
-      "days": 2,
-      "dates": [
-        "9/24",
-        "9/23"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -2.3
     },
     {
       "symbol": "3529",
@@ -712,6 +715,57 @@
         }
       ],
       "background": "高爾夫球具市場進入旺季，國際品牌新品週期與庫存策略調整，牽動台灣高球代工廠接單節奏。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiX0FVX3lxTE1CcVhIbW5TN0pJVUpWdUpmSDN5UldQWXJzTnNuSVRTTm5veHNkaDBiYXJ1WlhqWW5nQk9qVTZIaDlRSm1oQkpxaEhCb3hsLWNaNGZEeHFHUnplNmZKX3pB0gFkQVVfeXFMUGg5QUFOa3hDbFlLT0JMdUJ2YnE1aS1QaHR0T1RyaHlsSlNSSzdnZDROVmY4WnZWQWV6WUtVRk5RXzNSbHhmOXdhTFpzalVUYkJPWWN5a2k5SDNfei1oa2dwcXRvaA",
+      "tkey": "熱門族群水冷散熱需求強資金轉進散熱族群",
+      "title": "熱門族群》水冷散熱需求強 資金轉進散熱族群 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5587600",
+      "source": "自由財經",
+      "pubDate": "Sun, 27 Sep 2026 06:20:05 GMT",
+      "stocks": [
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "point": "重回輝達水冷板供應鏈",
+          "status": "逼近新高",
+          "dist": -7.7
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "AI伺服器需求帶動出貨",
+          "status": "逼近新高",
+          "dist": -7.9
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "輝達B300伺服器散熱放量",
+          "status": "逼近新高",
+          "dist": -3.4,
+          "luw": 1,
+          "luwd": [
+            "9/23"
+          ]
+        },
+        {
+          "symbol": "6933",
+          "name": "AMAX-KY",
+          "point": "受惠AI資料中心水冷散熱",
+          "status": "逼近新高",
+          "dist": -4.3,
+          "luw": 2,
+          "luwd": [
+            "9/24",
+            "9/23"
+          ]
+        }
+      ],
+      "background": "AI基礎建設擴張，資料中心功耗提升，帶動GPU、ASIC伺服器水冷散熱滲透率持續提升，有利散熱廠商營運。",
       "themeTags": [
         "需求驅動"
       ]
