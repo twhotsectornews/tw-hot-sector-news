@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-29T18:41:05.179+08:00",
-  "generatedAt": "2026-09-29T10:41:05.179Z",
+  "asOf": "2026-09-29T23:41:32.460+08:00",
+  "generatedAt": "2026-09-29T15:41:32.460Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -125,6 +125,19 @@
       ]
     },
     {
+      "symbol": "2454",
+      "name": "聯發科",
+      "days": 2,
+      "dates": [
+        "9/29",
+        "9/23"
+      ],
+      "mentions": 3,
+      "status": "高檔修正",
+      "dist": -10.4,
+      "limitUp": false
+    },
+    {
       "symbol": "1303",
       "name": "南亞",
       "days": 2,
@@ -168,19 +181,6 @@
         "9/24"
       ],
       "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2454",
-      "name": "聯發科",
-      "days": 2,
-      "dates": [
-        "9/29",
-        "9/23"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -9.6,
       "limitUp": false
     },
     {
@@ -248,6 +248,29 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
+      "tkey": "熱門族群龍頭聯發科創新高IC設計股搶發AI財",
+      "title": "熱門族群》龍頭聯發科創新高 IC設計股搶發AI財 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/k0bsc03rnawt",
+      "source": "自由時報",
+      "pubDate": "Tue, 29 Sep 2026 09:35:56 GMT",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "龍頭股價創新高",
+          "status": "高檔修正",
+          "dist": -10.4,
+          "limitUp": false
+        }
+      ],
+      "background": "IC設計產業受AI應用需求強勁帶動，聯發科作為台灣IC設計龍頭，股價表現亮眼，反映產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNYzBpQXJ4S0JXeENfQ05XVm93ckNET0NxeDZMbnF2R2lkRmFtXzhBcW83aHNwbGNJMFV3ZUJkSVpjSmpZLWVsYnZ3ek0zdXI5cklOVGFwUlNpQXRuMUZCNjlPenVGcVRqdlFlSnVoYko5VC1GX0hsVTNlRlU0eWxodTVwRG41SkZu",
       "tkey": "熱門族群股王股后帶頭跌！千金股疲軟又爆警訊？萬潤唯一漲停",
