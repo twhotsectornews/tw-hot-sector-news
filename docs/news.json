@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-29T13:02:54.209+08:00",
-  "generatedAt": "2026-09-29T05:02:54.209Z",
+  "asOf": "2026-09-29T14:03:32.140+08:00",
+  "generatedAt": "2026-09-29T06:03:32.140Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -659,6 +659,41 @@
       "background": "光學業者積極轉型，布局共同封裝光學（CPO）、機器人、無人機三大領域，相關產品陸續出貨。",
       "themeTags": [
         "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQM0tMUGtLU2tuSGlVc0FWTGtWRGVQajBEbjZFcGxzMGM5UzFmWm1oLVVKMU5MTC1DaW05ZndIdG9iV1RfeGtQbHpMVFdlYkpKS19FS3JZQ0hjWXc3b1NPbHRjd3FORzh4WGhYeHhZdjMyRERBQURXOFBFZnRyVDBTVzh0dVlJOVls",
+      "tkey": "熱門族群BBU三雄擴產Q4營收衝高",
+      "title": "《熱門族群》BBU三雄擴產 Q4營收衝高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6314506001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 29 Sep 2026 00:12:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6781",
+          "name": "AES-KY",
+          "point": "BBU營收占比突破8成，擴產迎商機",
+          "limitUp": false
+        },
+        {
+          "symbol": "3211",
+          "name": "順達",
+          "point": "BBU非IT產品出貨增至5成以上",
+          "limitUp": false
+        },
+        {
+          "symbol": "4931",
+          "name": "新盛力",
+          "point": "BBU需求大幅成長，新產線量產挹注",
+          "status": "高檔修正",
+          "dist": -14.6,
+          "limitUp": false
+        }
+      ],
+      "background": "AI資料中心擴建與電源規格提升，帶動BBU（電池備援單元）需求強勁。國際大廠如Google、Amazon、Microsoft等積極擴張，推升供應鏈營收。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
       ]
     },
     {
