@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-30T18:41:58.914+08:00",
-  "generatedAt": "2026-09-30T10:41:58.914Z",
+  "asOf": "2026-09-30T23:52:33.179+08:00",
+  "generatedAt": "2026-09-30T15:52:33.179Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -231,6 +231,19 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE1ZdXZ1M2dGRHpOcDJ1SXltY2xPU040bHIzX3VRR3Vhdkx1QkpZSzFMdGxUdk5Ia2JMS21IS1lGby0teXBxakRRTTg2T0FiRDIwTTVTQTQ4MTQ",
+      "tkey": "熱門族群水冷散熱需求強資金轉進散熱族群",
+      "title": "熱門族群》水冷散熱需求強 資金轉進散熱族群 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/knuuu1ez9eun",
+      "source": "自由時報",
+      "pubDate": "Wed, 30 Sep 2026 13:00:41 GMT",
+      "stocks": [],
+      "background": "AI伺服器與高效能運算（HPC）需求帶動，水冷散熱技術因應高功耗晶片散熱需求，產業景氣持續看好。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiWEFVX3lxTFB5emZNY0M4dF9BX2ZwN3lUSEw4OHE1VVBKZkM3bXVBak1xamNtUy05MVhCUloxRV95Zm94ZGFWTUFWMHE2aV9GUlVTLUVibmI3UDY2WGZUaEw",
       "tkey": "熱門族群輝達GTC新AI架構散熱雙雄帶頭衝",
