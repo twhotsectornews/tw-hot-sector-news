@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-30T00:38:42.766+08:00",
-  "generatedAt": "2026-09-29T16:38:42.766Z",
+  "asOf": "2026-09-30T11:03:33.186+08:00",
+  "generatedAt": "2026-09-30T03:03:33.186Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -130,6 +130,50 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPREZTeXBxQ2kxM1F6VnQ0S0JkZnNHdnZzZXdWSGM5YVctdEQwVHN1QlFwZHV5NHpQV3lKVXFkbHNZVk1UQmlfSzFUY0dVME9BRjNBeDlhV0U2U01CT0ZnS29FVFRESUNyUjJBVl9neUlra0xaQW5RNjJEVGRVMDVjZlFlUldxeXhl",
+      "tkey": "熱門族群美光財報將揭曉南亞科、華邦電開高卡位",
+      "title": "《熱門族群》美光財報將揭曉 南亞科、華邦電開高卡位 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6315750001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 30 Sep 2026 02:33:00 GMT",
+      "stocks": [],
+      "background": "",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQMTRXNTl3LWU2M1BBdDYzU0R4dWNmVlRlX2N0bFhZTU53UnI5bjF2VnpyVzQ1S1hEZl9GVmx4bll4WEJwLWFFMUFLMWprZmJHclRSdTdyUzhFbHR6OWxpWnJnQ1lTQl9lUk1TNXhUVXU4Yi05THcybldtaUprSDdwWHVjUXVwcDA2",
+      "tkey": "熱門族群玻璃基板引爆買氣面板雙虎漲停掀熱潮",
+      "title": "《熱門族群》玻璃基板引爆買氣 面板雙虎漲停掀熱潮 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6315714001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 30 Sep 2026 02:05:00 GMT",
+      "stocks": [],
+      "background": "",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQdXJtYWhfa2d3WmNBWklsNjg5QnM2cHNDekwxVTFKN3J1Rko3Y0pqVFREa3dOYy1xYUlLMXdoNnFFaGZMZU9iQjh1a3ZEdHdLTVhkemQ2WUgzV1V4elVpbzRQdFI5NTkyMmVhUTdPOTJ4SDVVNWtIX1J3MEhldWVsRWRzWlp0cVJq",
+      "tkey": "熱門族群彰源績昂攻漲停帶動不鏽鋼族群",
+      "title": "《熱門族群》彰源績昂攻漲停 帶動不鏽鋼族群 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6315672001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 30 Sep 2026 01:27:00 GMT",
+      "stocks": [],
+      "background": "",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNa2FYTlRBRVp0SG5QR1VMeS01QV9TVlVlZE5vRVRqWDFfTFQ2b3FDUEJHd0VsdmNiT1E1UW5DUTdRYnBsWGVQenVfM1daQ2FrREJNc01ZTFFobjgzbTRUdGwxZVM5Z0VwcWZ0dlE2Y2hfelBZSjZpZVY3QUdOSWdvaGM4NFdXNEM0",
+      "tkey": "熱門族群藥證、授權催化新藥股旺到2027年",
+      "title": "《熱門族群》藥證、授權催化 新藥股旺到2027年 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6315586001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 30 Sep 2026 00:21:00 GMT",
+      "stocks": [],
+      "background": "",
+      "themeTags": []
+    },
     {
       "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
       "tkey": "熱門族群龍頭聯發科創新高IC設計股搶發AI財",
@@ -391,19 +435,25 @@
           "symbol": "2409",
           "name": "友達",
           "point": "三大法人買盤卡位",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -5.3
         },
         {
           "symbol": "2449",
           "name": "京元電子",
           "point": "三大法人買盤卡位",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14
         },
         {
           "symbol": "8150",
           "name": "南茂",
           "point": "三大法人買盤卡位",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -8.4
         },
         {
           "symbol": "2327",
@@ -442,6 +492,8 @@
           "name": "漢唐",
           "point": "三大法人買盤卡位",
           "limitUp": false,
+          "status": "逼近新高",
+          "dist": -8.2,
           "luw": 1,
           "luwd": [
             "9/23"
@@ -488,13 +540,17 @@
           "symbol": "2449",
           "name": "京元電子",
           "point": "資本支出上修至500億元歷史新高",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14
         },
         {
           "symbol": "8150",
           "name": "南茂",
           "point": "資本支出上調至營收占比逾25%",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -8.4
         }
       ],
       "background": "AI熱潮外溢至封裝測試業，AI晶片測試需求升溫，記憶體需求強勁，帶動封測廠積極擴產。",
@@ -609,227 +665,15 @@
       ]
     },
     {
-      "gid": "CBMiWEFVX3lxTE0xczUzZWN3STdtNlEyTjNPNEs5ZnNFbW4xeExlUmkyRXFNWVhJZkljTmtub2trYVYyNEJtVXA5YTlFOXByNU92aUFTVE1TZHlZcERJME5NRkw",
-      "tkey": "熱門族群受惠CPO題材大立光領軍光學族群上衝",
-      "title": "熱門族群》受惠CPO題材 大立光領軍光學族群上衝 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/b4kt7zt65bh5",
-      "source": "自由時報",
-      "pubDate": "Sun, 27 Sep 2026 08:18:06 GMT",
-      "stocks": [
-        {
-          "symbol": "3008",
-          "name": "大立光",
-          "point": "受CPO題材激勵，領軍光學族群上漲",
-          "limitUp": false
-        }
-      ],
-      "background": "光學族群受惠於CPO（共同封裝光學）技術發展，此技術為AI伺服器與高速運算需求下的關鍵零組件，產業前景看好。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxORTVtMFRYOC1qY1h0ZFo3aVE3SFJPODF2bkp3bW1iTlpEUERiX1JnRzZWVllEdnJZLW9NT19ORmY4aXk0VUNtUzNzNExEbFlMbTJRM1E4YnhiXzZsZ0ZqSEphQXNzOTdrT0dJcXhVWTA2dndJTjBfZEh5YkR5Mi1US0NwVk5LXzE1",
-      "tkey": "熱門族群品牌拉貨分化高球代工四雄喊衝",
-      "title": "《熱門族群》品牌拉貨分化 高球代工四雄喊衝 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6313254001&PU=0010",
+      "gid": "CBMiiAFBVV95cUxQNFlMR1ZiUHF1Q0MtNkJFcERmd2JfVS03MU1wM1g2UjJGUmllNkt1eE1PX2xEN1R5NkhjNjd3NC13VVhPczZxRFhnOUQ3Y2FVM3RYRk9fbWZRZTV5RkxvOGg2Ty1qcy1OV2p0LU9wWWNlcHo1YzAyMkgzRGF5MHVjOTFCelkzbWts",
+      "tkey": "熱門族群AI運算需求旺ABF、PCB營運喊燒",
+      "title": "《熱門族群》AI運算需求旺 ABF、PCB 營運喊燒 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6314492001&PU=1002",
       "source": "富聯網",
-      "pubDate": "Sun, 27 Sep 2026 06:59:00 GMT",
-      "stocks": [
-        {
-          "symbol": "6679",
-          "name": "復盛應用",
-          "point": "高球代工出貨高峰，切入AI液冷零配件",
-          "limitUp": false
-        },
-        {
-          "symbol": "8924",
-          "name": "大田",
-          "point": "高球代工觀察Titleist新品銷售",
-          "limitUp": false
-        },
-        {
-          "symbol": "8928",
-          "name": "鉅明",
-          "point": "高球代工觀察TaylorMade新品銷售延續性",
-          "limitUp": false
-        },
-        {
-          "symbol": "8938",
-          "name": "明安",
-          "point": "高球代工受惠不同品牌新品刺激與補庫存",
-          "limitUp": false
-        }
-      ],
-      "background": "高爾夫球具市場進入旺季，國際品牌新品週期與庫存策略調整，牽動台灣高球代工廠接單節奏。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiX0FVX3lxTE1CcVhIbW5TN0pJVUpWdUpmSDN5UldQWXJzTnNuSVRTTm5veHNkaDBiYXJ1WlhqWW5nQk9qVTZIaDlRSm1oQkpxaEhCb3hsLWNaNGZEeHFHUnplNmZKX3pB0gFkQVVfeXFMUGg5QUFOa3hDbFlLT0JMdUJ2YnE1aS1QaHR0T1RyaHlsSlNSSzdnZDROVmY4WnZWQWV6WUtVRk5RXzNSbHhmOXdhTFpzalVUYkJPWWN5a2k5SDNfei1oa2dwcXRvaA",
-      "tkey": "熱門族群水冷散熱需求強資金轉進散熱族群",
-      "title": "熱門族群》水冷散熱需求強 資金轉進散熱族群 - 自由財經",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5587600",
-      "source": "自由財經",
-      "pubDate": "Sun, 27 Sep 2026 06:20:05 GMT",
-      "stocks": [
-        {
-          "symbol": "3324",
-          "name": "雙鴻",
-          "point": "重回輝達水冷板供應鏈",
-          "status": "逼近新高",
-          "dist": -7.7
-        },
-        {
-          "symbol": "3017",
-          "name": "奇鋐",
-          "point": "AI伺服器需求帶動出貨",
-          "status": "逼近新高",
-          "dist": -7.9
-        },
-        {
-          "symbol": "3653",
-          "name": "健策",
-          "point": "輝達B300伺服器散熱放量",
-          "status": "逼近新高",
-          "dist": -3.4,
-          "luw": 1,
-          "luwd": [
-            "9/23"
-          ]
-        },
-        {
-          "symbol": "6933",
-          "name": "AMAX-KY",
-          "point": "受惠AI資料中心水冷散熱",
-          "status": "逼近新高",
-          "dist": -4.3,
-          "luw": 2,
-          "luwd": [
-            "9/24",
-            "9/23"
-          ]
-        }
-      ],
-      "background": "AI基礎建設擴張，資料中心功耗提升，帶動GPU、ASIC伺服器水冷散熱滲透率持續提升，有利散熱廠商營運。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxORzFRN0xRczQ2TUFWMngwakJwaVRZV2c0aVY0SzRwS1B4aGt3dXItaU9fYV9Ud2hseDdUR1Bfd1N3YVRxZHViQ0NVT0ptUm4wc1dBSVJIRmdsX016NlFIQXc0cGhxUXNTenVyYTVCcHBxc1Vrd2lSQjZlWU5Dc1htd1JLTElCdVBI",
-      "tkey": "熱門族群需求爆AI伺服器廠籌資拚擴產",
-      "title": "《熱門族群》需求爆 AI伺服器廠籌資拚擴產 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6313224001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Sun, 27 Sep 2026 03:59:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2382",
-          "name": "廣達",
-          "point": "發行GDS籌資逾700億元",
-          "limitUp": false
-        },
-        {
-          "symbol": "3231",
-          "name": "緯創",
-          "point": "發行GDR募得467億元",
-          "status": "高檔修正",
-          "dist": -10.4,
-          "limitUp": false
-        },
-        {
-          "symbol": "2317",
-          "name": "鴻海",
-          "point": "發行600億元無擔保普通公司債",
-          "limitUp": false
-        },
-        {
-          "symbol": "6669",
-          "name": "緯穎",
-          "point": "發行20億美元ECB",
-          "limitUp": false
-        },
-        {
-          "symbol": "2357",
-          "name": "華碩",
-          "point": "發行25億美元ECB與EB",
-          "status": "逼近新高",
-          "dist": -7.5,
-          "limitUp": false
-        },
-        {
-          "symbol": "6121",
-          "name": "永擎",
-          "point": "擬發行42億元無擔保普通公司債",
-          "limitUp": false
-        },
-        {
-          "symbol": "2376",
-          "name": "技嘉",
-          "point": "規畫發行GDR募資150億元",
-          "status": "高檔修正",
-          "dist": -10.1,
-          "limitUp": false
-        },
-        {
-          "symbol": "2356",
-          "name": "英業達",
-          "point": "美國德州AI伺服器產線量產",
-          "limitUp": false
-        }
-      ],
-      "background": "AI伺服器需求持續爆發，NVIDIA新平台B200、B300、GB300 NVL72持續放量，台廠積極擴產並籌資以支應龐大訂單與新平台升級。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiZEFVX3lxTFBMOG00UWpRaGY4MFVfaVo5UGhOVW5ES2d6bGFFMHFtUlJtWTBhd1oyVDFyMFJtTDNvZUNQX2dXVG1TMHlGOExrZkZlLUZ4LUIzZTFueVZRN0JqUnhKM3VZb3I3MjXSAWRBVV95cUxQTDhtNFFqUWhmODBVX2laOVBoTlVuREtnemxhRTBxbVJSbVkwYXdaMlQxcjBSbUwzb2VDUF9nV1RtUzB5RjhMa2ZGZS1GeC1CM2UxbnlWUTdCalJ4SjN1WW9yNzI1",
-      "tkey": "熱門族群AI催動功率元件需求嘉晶、漢磊、茂矽喜迎營運轉機",
-      "title": "熱門族群》AI催動功率元件需求 嘉晶、漢磊、茂矽喜迎營運轉機 - ec.ltn.com.tw",
-      "url": "https://ec.ltn.com.tw/amp/article/breakingnews/5585523",
-      "source": "ec.ltn.com.tw",
-      "pubDate": "Sat, 26 Sep 2026 23:00:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3016",
-          "name": "嘉晶",
-          "point": "AI催動功率元件需求，磊晶產能滿載",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 10,
-          "luw": 2,
-          "luwd": [
-            "9/24",
-            "9/23"
-          ]
-        },
-        {
-          "symbol": "3707",
-          "name": "漢磊",
-          "point": "搶攻SiC高壓功率元件，推新一代技術平台",
-          "limitUp": false
-        },
-        {
-          "symbol": "2342",
-          "name": "茂矽",
-          "point": "受惠AI資料中心外溢效應，推進SiC產品",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "9/23"
-          ]
-        }
-      ],
-      "background": "AI資料中心擴建帶動電源管理及功率元件需求，功率半導體市場傳出漲價消息，相關磊晶與晶圓代工廠喜迎新一波需求動能。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
+      "pubDate": "Tue, 29 Sep 2026 00:12:00 GMT",
+      "stocks": [],
+      "background": "",
+      "themeTags": []
     }
   ]
 }

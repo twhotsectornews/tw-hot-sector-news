@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "updatedAt": "2026-09-29T16:38:42.762Z",
+  "updatedAt": "2026-09-30T03:03:33.182Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
@@ -263,19 +263,25 @@
           "symbol": "2409",
           "name": "友達",
           "point": "三大法人買盤卡位",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -5.3
         },
         {
           "symbol": "2449",
           "name": "京元電子",
           "point": "三大法人買盤卡位",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14
         },
         {
           "symbol": "8150",
           "name": "南茂",
           "point": "三大法人買盤卡位",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -8.4
         },
         {
           "symbol": "2327",
@@ -314,6 +320,8 @@
           "name": "漢唐",
           "point": "三大法人買盤卡位",
           "limitUp": false,
+          "status": "逼近新高",
+          "dist": -8.2,
           "luw": 1,
           "luwd": [
             "9/23"
@@ -360,13 +368,17 @@
           "symbol": "2449",
           "name": "京元電子",
           "point": "資本支出上修至500億元歷史新高",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14
         },
         {
           "symbol": "8150",
           "name": "南茂",
           "point": "資本支出上調至營收占比逾25%",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -8.4
         }
       ],
       "background": "AI熱潮外溢至封裝測試業，AI晶片測試需求升溫，記憶體需求強勁，帶動封測廠積極擴產。",
@@ -479,6 +491,17 @@
         "需求驅動",
         "國際大廠"
       ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQNFlMR1ZiUHF1Q0MtNkJFcERmd2JfVS03MU1wM1g2UjJGUmllNkt1eE1PX2xEN1R5NkhjNjd3NC13VVhPczZxRFhnOUQ3Y2FVM3RYRk9fbWZRZTV5RkxvOGg2Ty1qcy1OV2p0LU9wWWNlcHo1YzAyMkgzRGF5MHVjOTFCelkzbWts",
+      "tkey": "熱門族群AI運算需求旺ABF、PCB營運喊燒",
+      "title": "《熱門族群》AI運算需求旺 ABF、PCB 營運喊燒 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6314492001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 29 Sep 2026 00:12:00 GMT",
+      "stocks": [],
+      "background": "",
+      "themeTags": []
     }
   ]
 }
