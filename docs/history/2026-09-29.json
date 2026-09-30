@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "updatedAt": "2026-09-30T06:01:50.994Z",
+  "updatedAt": "2026-09-30T09:07:09.943Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
@@ -38,13 +38,7 @@
           "name": "萬潤",
           "point": "挾先進封裝擴產效應，逆勢亮燈漲停",
           "limitUp": true,
-          "pct": 9.6,
-          "luw": 3,
-          "luwd": [
-            "9/29",
-            "9/24",
-            "9/23"
-          ]
+          "pct": 9.6
         }
       ],
       "background": "千金股為市場多頭人氣指標，受美股震盪及日韓股市下挫影響，整體表現疲軟，但部分個股因先進封裝擴產等題材逆勢上漲。",
