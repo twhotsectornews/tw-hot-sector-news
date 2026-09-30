@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "updatedAt": "2026-09-30T15:52:33.176Z",
+  "updatedAt": "2026-09-30T16:30:15.345Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
@@ -259,7 +259,11 @@
           "point": "三大法人買盤卡位",
           "limitUp": false,
           "status": "逼近新高",
-          "dist": -5.3
+          "dist": -5.3,
+          "luw": 1,
+          "luwd": [
+            "9/30"
+          ]
         },
         {
           "symbol": "2449",
@@ -275,7 +279,11 @@
           "point": "三大法人買盤卡位",
           "limitUp": false,
           "status": "逼近新高",
-          "dist": -8.4
+          "dist": -8.4,
+          "luw": 1,
+          "luwd": [
+            "9/30"
+          ]
         },
         {
           "symbol": "2327",
@@ -289,11 +297,7 @@
           "point": "三大法人買盤卡位",
           "status": "逼近新高",
           "dist": -5.3,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "9/23"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "2379",
@@ -315,11 +319,7 @@
           "point": "三大法人買盤卡位",
           "limitUp": false,
           "status": "逼近新高",
-          "dist": -8.2,
-          "luw": 1,
-          "luwd": [
-            "9/23"
-          ]
+          "dist": -8.2
         },
         {
           "symbol": "6805",
@@ -372,7 +372,11 @@
           "point": "資本支出上調至營收占比逾25%",
           "limitUp": false,
           "status": "逼近新高",
-          "dist": -8.4
+          "dist": -8.4,
+          "luw": 1,
+          "luwd": [
+            "9/30"
+          ]
         }
       ],
       "background": "AI熱潮外溢至封裝測試業，AI晶片測試需求升溫，記憶體需求強勁，帶動封測廠積極擴產。",
@@ -523,11 +527,7 @@
         {
           "symbol": "2368",
           "name": "金像電",
-          "point": "ASIC伺服器需求延續",
-          "luw": 1,
-          "luwd": [
-            "9/23"
-          ]
+          "point": "ASIC伺服器需求延續"
         }
       ],
       "background": "AI運算需求逐步走向GPU、ASIC多軌並進，CSP自研ASIC將於2027年放量，推升高階ABF載板與PCB需求，載板三雄與PCB廠營運可望創新高。",

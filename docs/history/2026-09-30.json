@@ -1,0 +1,311 @@
+{
+  "date": "2026-09-30",
+  "updatedAt": "2026-09-30T16:30:15.345Z",
+  "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE1ZdXZ1M2dGRHpOcDJ1SXltY2xPU040bHIzX3VRR3Vhdkx1QkpZSzFMdGxUdk5Ia2JMS21IS1lGby0teXBxakRRTTg2T0FiRDIwTTVTQTQ4MTQ",
+      "tkey": "熱門族群水冷散熱需求強資金轉進散熱族群",
+      "title": "熱門族群》水冷散熱需求強 資金轉進散熱族群 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/knuuu1ez9eun",
+      "source": "自由時報",
+      "pubDate": "Wed, 30 Sep 2026 13:00:41 GMT",
+      "stocks": [],
+      "background": "AI伺服器與高效能運算（HPC）需求帶動，水冷散熱技術因應高功耗晶片散熱需求，產業景氣持續看好。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTFB5emZNY0M4dF9BX2ZwN3lUSEw4OHE1VVBKZkM3bXVBak1xamNtUy05MVhCUloxRV95Zm94ZGFWTUFWMHE2aV9GUlVTLUVibmI3UDY2WGZUaEw",
+      "tkey": "熱門族群輝達GTC新AI架構散熱雙雄帶頭衝",
+      "title": "熱門族群》輝達GTC新AI架構 散熱雙雄帶頭衝 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/ytvagrc0sscc",
+      "source": "自由時報",
+      "pubDate": "Wed, 30 Sep 2026 07:29:23 GMT",
+      "stocks": [],
+      "background": "輝達GTC大會發表新AI架構，預期將帶動AI伺服器散熱需求，散熱模組廠受惠，產業前景看好。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPV2lCaUFwcEJLSE1nYnpCekt1Vkd1Sno5TXIzNmRSLVJOLWpkakFiYVRQNHpQdUxXNl9iY0lVaU41RE84TnpkMXQ0YndPY3BLbmVud2VfQVhOQkpIZW5lQkI1MTBENkpRRGdubE1acHEwZ2hlOVhDT25VcmNDU01Sb1dfUUFYdXVi",
+      "tkey": "熱門族群台塑集團走紅毯南亞飆天價它沒沾光竟跌跤",
+      "title": "《熱門族群》台塑集團走紅毯 南亞飆天價 它沒沾光竟跌跤 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6315862001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 30 Sep 2026 04:11:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "飆天價攻上265元高點",
+          "status": "逼近新高",
+          "dist": -2.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "1727",
+          "name": "中華化",
+          "point": "逆勢重摔7%利多出盡",
+          "status": "高檔修正",
+          "dist": -12.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "雙雙大漲5%",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "雙雙大漲5%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "跟進走揚4%",
+          "limitUp": false
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "高掛半顆紅燈",
+          "status": "高檔修正",
+          "dist": -13.3,
+          "limitUp": false
+        }
+      ],
+      "background": "台塑集團積極佈局半導體供應鏈，透過策略結盟與擴大投資，搶攻電子級化學品市場，以因應AI龐大用電壓力與先進製程耗材需求。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPREZTeXBxQ2kxM1F6VnQ0S0JkZnNHdnZzZXdWSGM5YVctdEQwVHN1QlFwZHV5NHpQV3lKVXFkbHNZVk1UQmlfSzFUY0dVME9BRjNBeDlhV0U2U01CT0ZnS29FVFRESUNyUjJBVl9neUlra0xaQW5RNjJEVGRVMDVjZlFlUldxeXhl",
+      "tkey": "熱門族群美光財報將揭曉南亞科、華邦電開高卡位",
+      "title": "《熱門族群》美光財報將揭曉 南亞科、華邦電開高卡位 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6315750001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 30 Sep 2026 02:33:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "開高卡位美光財報",
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "開高卡位美光財報",
+          "limitUp": false
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "開高股價強勢盤整",
+          "limitUp": false
+        },
+        {
+          "symbol": "8150",
+          "name": "南茂",
+          "point": "爆量強攻重返高檔",
+          "status": "逼近新高",
+          "dist": -8.4,
+          "limitUp": true,
+          "pct": 9.6,
+          "luw": 1,
+          "luwd": [
+            "9/30"
+          ]
+        },
+        {
+          "symbol": "3260",
+          "name": "威剛",
+          "point": "下游模組廠走穩",
+          "limitUp": false
+        },
+        {
+          "symbol": "2451",
+          "name": "創見",
+          "point": "下游模組廠走穩",
+          "limitUp": false
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "高價千金股向上反攻",
+          "limitUp": false
+        },
+        {
+          "symbol": "5289",
+          "name": "宜鼎",
+          "point": "高價千金股向上反攻",
+          "limitUp": false
+        }
+      ],
+      "background": "記憶體產業受惠AI需求強勁，市場預期市況緊俏將延續至明年上半年，國際指標大廠美光財報與展望受關注，台廠開高卡位。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQMTRXNTl3LWU2M1BBdDYzU0R4dWNmVlRlX2N0bFhZTU53UnI5bjF2VnpyVzQ1S1hEZl9GVmx4bll4WEJwLWFFMUFLMWprZmJHclRSdTdyUzhFbHR6OWxpWnJnQ1lTQl9lUk1TNXhUVXU4Yi05THcybldtaUprSDdwWHVjUXVwcDA2",
+      "tkey": "熱門族群玻璃基板引爆買氣面板雙虎漲停掀熱潮",
+      "title": "《熱門族群》玻璃基板引爆買氣 面板雙虎漲停掀熱潮 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6315714001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 30 Sep 2026 02:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "漲停創16年半新高",
+          "status": "逼近新高",
+          "dist": -5.3,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "9/30"
+          ]
+        },
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "point": "同步亮燈觸及漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "9/30"
+          ]
+        }
+      ],
+      "background": "面板雙虎受惠AI晶片玻璃基板新題材引爆買氣，輝達評估導入玻璃基板，為面板產業增添新想像空間，台灣供應鏈積極卡位AI先進封裝商機。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQdXJtYWhfa2d3WmNBWklsNjg5QnM2cHNDekwxVTFKN3J1Rko3Y0pqVFREa3dOYy1xYUlLMXdoNnFFaGZMZU9iQjh1a3ZEdHdLTVhkemQ2WUgzV1V4elVpbzRQdFI5NTkyMmVhUTdPOTJ4SDVVNWtIX1J3MEhldWVsRWRzWlp0cVJq",
+      "tkey": "熱門族群彰源績昂攻漲停帶動不鏽鋼族群",
+      "title": "《熱門族群》彰源績昂攻漲停 帶動不鏽鋼族群 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6315672001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 30 Sep 2026 01:27:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2030",
+          "name": "彰源",
+          "point": "8月獲利倍增攻漲停",
+          "status": "逼近新高",
+          "dist": -8.9,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 3,
+          "luwd": [
+            "9/30",
+            "9/29",
+            "9/24"
+          ]
+        },
+        {
+          "symbol": "2002",
+          "name": "中鋼",
+          "point": "碳鋼龍頭開漲",
+          "limitUp": false
+        },
+        {
+          "symbol": "2020",
+          "name": "美亞",
+          "point": "鋼管廠強勢漲停",
+          "status": "逼近新高",
+          "dist": -8.1,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "9/30",
+            "9/29"
+          ]
+        },
+        {
+          "symbol": "2027",
+          "name": "大成鋼",
+          "point": "不鏽鋼相關股走高",
+          "status": "逼近新高",
+          "dist": -8.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "2034",
+          "name": "允強",
+          "point": "不鏽鋼相關股走高",
+          "limitUp": false
+        },
+        {
+          "symbol": "1605",
+          "name": "華新",
+          "point": "不鏽鋼盤價調漲",
+          "limitUp": false
+        }
+      ],
+      "background": "不鏽鋼廠彰源獲利倍增帶動族群買氣，不鏽鋼價維持緩漲格局，業者微漲盤價以守住價格底線並宣示成本立場。",
+      "themeTags": [
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNa2FYTlRBRVp0SG5QR1VMeS01QV9TVlVlZE5vRVRqWDFfTFQ2b3FDUEJHd0VsdmNiT1E1UW5DUTdRYnBsWGVQenVfM1daQ2FrREJNc01ZTFFobjgzbTRUdGwxZVM5Z0VwcWZ0dlE2Y2hfelBZSjZpZVY3QUdOSWdvaGM4NFdXNEM0",
+      "tkey": "熱門族群藥證、授權催化新藥股旺到2027年",
+      "title": "《熱門族群》藥證、授權催化 新藥股旺到2027年 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6315586001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 30 Sep 2026 00:21:00 GMT",
+      "stocks": [],
+      "background": "新藥股受藥證與授權利多催化，預期營運動能可望延續至2027年，市場對新藥研發成果抱持期待。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiWEFVX3lxTFBwMTV3clNBSlRDWWt5c29ydTU5Y3V3aFpuMDZfRnBPY3U0c1BUeTlERGY1R0RSUkxscGl3V1ZmalRHZENDZEF5ZUJUQ1N1U0oxZHp2WnRsM2k",
+      "tkey": "熱門族群AI催動功率元件需求嘉晶、漢磊、茂矽喜迎營運轉機",
+      "title": "熱門族群》AI催動功率元件需求 嘉晶、漢磊、茂矽喜迎營運轉機 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/hnnxjrgvzmf5",
+      "source": "自由時報",
+      "pubDate": "Tue, 29 Sep 2026 22:35:51 GMT",
+      "stocks": [
+        {
+          "symbol": "6170",
+          "name": "嘉晶",
+          "point": "喜迎營運轉機",
+          "limitUp": false
+        },
+        {
+          "symbol": "5475",
+          "name": "漢磊",
+          "point": "喜迎營運轉機",
+          "limitUp": false
+        },
+        {
+          "symbol": "2342",
+          "name": "茂矽",
+          "point": "喜迎營運轉機",
+          "limitUp": false
+        }
+      ],
+      "background": "AI應用持續擴展，催動功率元件需求增長，相關廠商嘉晶、漢磊、茂矽有望迎來營運轉機。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}

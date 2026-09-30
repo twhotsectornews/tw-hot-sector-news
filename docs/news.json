@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-09-30T23:52:33.179+08:00",
-  "generatedAt": "2026-09-30T15:52:33.179Z",
+  "asOf": "2026-10-01T00:30:15.347+08:00",
+  "generatedAt": "2026-09-30T16:30:15.347Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,28 +9,14 @@
     {
       "symbol": "1303",
       "name": "南亞",
-      "days": 3,
-      "dates": [
-        "9/30",
-        "9/29",
-        "9/24"
-      ],
-      "mentions": 4,
-      "status": "逼近新高",
-      "dist": -2.1,
-      "limitUp": false
-    },
-    {
-      "symbol": "3189",
-      "name": "景碩",
       "days": 2,
       "dates": [
-        "9/29",
-        "9/24"
+        "9/30",
+        "9/29"
       ],
-      "mentions": 4,
+      "mentions": 3,
       "status": "逼近新高",
-      "dist": -4.1,
+      "dist": -2.1,
       "limitUp": false
     },
     {
@@ -78,72 +64,10 @@
       "status": "逼近新高",
       "dist": -8.4,
       "limitUp": true,
-      "pct": 9.6
-    },
-    {
-      "symbol": "3037",
-      "name": "欣興",
-      "days": 2,
-      "dates": [
-        "9/29",
-        "9/24"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -4.9,
-      "limitUp": false
-    },
-    {
-      "symbol": "8046",
-      "name": "南電",
-      "days": 2,
-      "dates": [
-        "9/29",
-        "9/24"
-      ],
-      "mentions": 3,
-      "status": "高檔修正",
-      "dist": -11,
-      "limitUp": false
-    },
-    {
-      "symbol": "3324",
-      "name": "雙鴻",
-      "days": 2,
-      "dates": [
-        "9/27",
-        "9/24"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -7.7
-    },
-    {
-      "symbol": "3017",
-      "name": "奇鋐",
-      "days": 2,
-      "dates": [
-        "9/27",
-        "9/24"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -7.9
-    },
-    {
-      "symbol": "3653",
-      "name": "健策",
-      "days": 2,
-      "dates": [
-        "9/27",
-        "9/24"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -3.4,
+      "pct": 9.6,
       "luw": 1,
       "luwd": [
-        "9/23"
+        "9/30"
       ]
     },
     {
@@ -158,7 +82,11 @@
       "status": "逼近新高",
       "dist": -5.3,
       "limitUp": true,
-      "pct": 10
+      "pct": 10,
+      "luw": 1,
+      "luwd": [
+        "9/30"
+      ]
     },
     {
       "symbol": "2342",
@@ -169,65 +97,7 @@
         "9/27"
       ],
       "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "9/23"
-      ]
-    },
-    {
-      "symbol": "3529",
-      "name": "力旺",
-      "days": 2,
-      "dates": [
-        "9/29",
-        "9/24"
-      ],
-      "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "4958",
-      "name": "臻鼎-KY",
-      "days": 2,
-      "dates": [
-        "9/29",
-        "9/24"
-      ],
-      "mentions": 2
-    },
-    {
-      "symbol": "2368",
-      "name": "金像電",
-      "days": 2,
-      "dates": [
-        "9/29",
-        "9/24"
-      ],
-      "mentions": 2,
-      "luw": 1,
-      "luwd": [
-        "9/23"
-      ]
-    },
-    {
-      "symbol": "3016",
-      "name": "嘉晶",
-      "days": 2,
-      "dates": [
-        "9/27",
-        "9/24"
-      ],
-      "mentions": 2,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 2,
-      "luwd": [
-        "9/24",
-        "9/23"
-      ]
     }
   ],
   "news": [
@@ -280,11 +150,7 @@
           "point": "逆勢重摔7%利多出盡",
           "status": "高檔修正",
           "dist": -12.8,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "9/23"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "1301",
@@ -351,7 +217,11 @@
           "status": "逼近新高",
           "dist": -8.4,
           "limitUp": true,
-          "pct": 9.6
+          "pct": 9.6,
+          "luw": 1,
+          "luwd": [
+            "9/30"
+          ]
         },
         {
           "symbol": "3260",
@@ -400,14 +270,22 @@
           "status": "逼近新高",
           "dist": -5.3,
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "9/30"
+          ]
         },
         {
           "symbol": "3481",
           "name": "群創",
           "point": "同步亮燈觸及漲停",
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "9/30"
+          ]
         }
       ],
       "background": "面板雙虎受惠AI晶片玻璃基板新題材引爆買氣，輝達評估導入玻璃基板，為面板產業增添新想像空間，台灣供應鏈積極卡位AI先進封裝商機。",
@@ -432,8 +310,9 @@
           "dist": -8.9,
           "limitUp": true,
           "pct": 9.9,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "9/30",
             "9/29",
             "9/24"
           ]
@@ -452,8 +331,9 @@
           "dist": -8.1,
           "limitUp": true,
           "pct": 9.9,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "9/30",
             "9/29"
           ]
         },
@@ -518,11 +398,7 @@
           "symbol": "2342",
           "name": "茂矽",
           "point": "喜迎營運轉機",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "9/23"
-          ]
+          "limitUp": false
         }
       ],
       "background": "AI應用持續擴展，催動功率元件需求增長，相關廠商嘉晶、漢磊、茂矽有望迎來營運轉機。",
@@ -787,7 +663,11 @@
           "point": "三大法人買盤卡位",
           "limitUp": false,
           "status": "逼近新高",
-          "dist": -5.3
+          "dist": -5.3,
+          "luw": 1,
+          "luwd": [
+            "9/30"
+          ]
         },
         {
           "symbol": "2449",
@@ -803,7 +683,11 @@
           "point": "三大法人買盤卡位",
           "limitUp": false,
           "status": "逼近新高",
-          "dist": -8.4
+          "dist": -8.4,
+          "luw": 1,
+          "luwd": [
+            "9/30"
+          ]
         },
         {
           "symbol": "2327",
@@ -817,11 +701,7 @@
           "point": "三大法人買盤卡位",
           "status": "逼近新高",
           "dist": -5.3,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "9/23"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "2379",
@@ -843,11 +723,7 @@
           "point": "三大法人買盤卡位",
           "limitUp": false,
           "status": "逼近新高",
-          "dist": -8.2,
-          "luw": 1,
-          "luwd": [
-            "9/23"
-          ]
+          "dist": -8.2
         },
         {
           "symbol": "6805",
@@ -900,7 +776,11 @@
           "point": "資本支出上調至營收占比逾25%",
           "limitUp": false,
           "status": "逼近新高",
-          "dist": -8.4
+          "dist": -8.4,
+          "luw": 1,
+          "luwd": [
+            "9/30"
+          ]
         }
       ],
       "background": "AI熱潮外溢至封裝測試業，AI晶片測試需求升溫，記憶體需求強勁，帶動封測廠積極擴產。",
@@ -1051,11 +931,7 @@
         {
           "symbol": "2368",
           "name": "金像電",
-          "point": "ASIC伺服器需求延續",
-          "luw": 1,
-          "luwd": [
-            "9/23"
-          ]
+          "point": "ASIC伺服器需求延續"
         }
       ],
       "background": "AI運算需求逐步走向GPU、ASIC多軌並進，CSP自研ASIC將於2027年放量，推升高階ABF載板與PCB需求，載板三雄與PCB廠營運可望創新高。",
