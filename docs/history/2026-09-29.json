@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "updatedAt": "2026-09-30T03:03:33.182Z",
+  "updatedAt": "2026-09-30T04:03:59.102Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
@@ -499,9 +499,48 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6314492001&PU=1002",
       "source": "富聯網",
       "pubDate": "Tue, 29 Sep 2026 00:12:00 GMT",
-      "stocks": [],
-      "background": "",
-      "themeTags": []
+      "stocks": [
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "續擴高階載板產能",
+          "status": "逼近新高",
+          "dist": -5.3
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "積極擴充ABF產能",
+          "status": "逼近新高",
+          "dist": -3.8
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "投入高階載板新產能",
+          "status": "逼近新高",
+          "dist": -9.9
+        },
+        {
+          "symbol": "4958",
+          "name": "臻鼎-KY",
+          "point": "布局AI伺服器高階應用"
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "point": "ASIC伺服器需求延續",
+          "luw": 1,
+          "luwd": [
+            "9/23"
+          ]
+        }
+      ],
+      "background": "AI運算需求逐步走向GPU、ASIC多軌並進，CSP自研ASIC將於2027年放量，推升高階ABF載板與PCB需求，載板三雄與PCB廠營運可望創新高。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
     }
   ]
 }
