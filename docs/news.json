@@ -1,11 +1,25 @@
 {
-  "asOf": "2026-09-30T12:03:59.105+08:00",
-  "generatedAt": "2026-09-30T04:03:59.105Z",
+  "asOf": "2026-09-30T13:02:50.019+08:00",
+  "generatedAt": "2026-09-30T05:02:50.019Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 3,
+      "dates": [
+        "9/30",
+        "9/29",
+        "9/24"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -2.1,
+      "limitUp": false
+    },
     {
       "symbol": "3189",
       "name": "景碩",
@@ -20,6 +34,39 @@
       "limitUp": false
     },
     {
+      "symbol": "1301",
+      "name": "台塑",
+      "days": 2,
+      "dates": [
+        "9/30",
+        "9/29"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "6505",
+      "name": "台塑化",
+      "days": 2,
+      "dates": [
+        "9/30",
+        "9/29"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "1326",
+      "name": "台化",
+      "days": 2,
+      "dates": [
+        "9/30",
+        "9/29"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "8150",
       "name": "南茂",
       "days": 2,
@@ -30,19 +77,6 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -8.4,
-      "limitUp": false
-    },
-    {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 2,
-      "dates": [
-        "9/29",
-        "9/24"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -3.2,
       "limitUp": false
     },
     {
@@ -196,6 +230,66 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxPV2lCaUFwcEJLSE1nYnpCekt1Vkd1Sno5TXIzNmRSLVJOLWpkakFiYVRQNHpQdUxXNl9iY0lVaU41RE84TnpkMXQ0YndPY3BLbmVud2VfQVhOQkpIZW5lQkI1MTBENkpRRGdubE1acHEwZ2hlOVhDT25VcmNDU01Sb1dfUUFYdXVi",
+      "tkey": "熱門族群台塑集團走紅毯南亞飆天價它沒沾光竟跌跤",
+      "title": "《熱門族群》台塑集團走紅毯 南亞飆天價 它沒沾光竟跌跤 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6315862001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 30 Sep 2026 04:11:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "飆天價攻上265元高點",
+          "status": "逼近新高",
+          "dist": -2.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "1727",
+          "name": "中華化",
+          "point": "逆勢重摔7%利多出盡",
+          "status": "高檔修正",
+          "dist": -12.8,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/23"
+          ]
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "雙雙大漲5%",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "雙雙大漲5%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "跟進走揚4%",
+          "limitUp": false
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "高掛半顆紅燈",
+          "status": "高檔修正",
+          "dist": -13.3,
+          "limitUp": false
+        }
+      ],
+      "background": "台塑集團積極佈局半導體供應鏈，透過策略結盟與擴大投資，搶攻電子級化學品市場，以因應AI龐大用電壓力與先進製程耗材需求。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxPREZTeXBxQ2kxM1F6VnQ0S0JkZnNHdnZzZXdWSGM5YVctdEQwVHN1QlFwZHV5NHpQV3lKVXFkbHNZVk1UQmlfSzFUY0dVME9BRjNBeDlhV0U2U01CT0ZnS29FVFRESUNyUjJBVl9neUlra0xaQW5RNjJEVGRVMDVjZlFlUldxeXhl",
       "tkey": "熱門族群美光財報將揭曉南亞科、華邦電開高卡位",
       "title": "《熱門族群》美光財報將揭曉 南亞科、華邦電開高卡位 - 富聯網",
@@ -281,8 +375,7 @@
           "symbol": "3481",
           "name": "群創",
           "point": "同步亮燈觸及漲停",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         }
       ],
       "background": "面板雙虎受惠AI晶片玻璃基板新題材引爆買氣，輝達評估導入玻璃基板，為面板產業增添新想像空間，台灣供應鏈積極卡位AI先進封裝商機。",
