@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "updatedAt": "2026-10-01T03:04:46.022Z",
+  "updatedAt": "2026-10-01T04:06:02.974Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE1ZdXZ1M2dGRHpOcDJ1SXltY2xPU040bHIzX3VRR3Vhdkx1QkpZSzFMdGxUdk5Ia2JMS21IS1lGby0teXBxakRRTTg2T0FiRDIwTTVTQTQ4MTQ",
@@ -276,6 +276,65 @@
       "themeTags": []
     },
     {
+      "gid": "CBMiiAFBVV95cUxNZVhhV3VEbzR1RDVUZzlaUjVISFFUWS1XSDFYa3Exam1ycUZUdzdMaWZ4c1ZMR3RyOVBCNWNRTWxaY09DODNrUFdtbUpJcG9jRjdXa3MzZHg3UDd1OGpnSnIxemhieFhfVTlOaEZTRXBWcmpYSFgxandtVkdhUGNZcmpQZ0dfOEc5",
+      "tkey": "熱門族群藥證、授權催化新藥股旺到2027年-ww2.money",
+      "title": "《熱門族群》藥證、授權催化 新藥股旺到2027年 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6315586001&PU=0010",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Wed, 30 Sep 2026 00:21:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "point": "新藥Ropeg取得多國藥證並啟動銷售"
+        },
+        {
+          "symbol": "6550",
+          "name": "仁新",
+          "point": "子公司新藥Tinlarebant獲美國FDA優先審查"
+        },
+        {
+          "symbol": "1760",
+          "name": "寶齡",
+          "point": "腎病新藥已取得中國藥證"
+        },
+        {
+          "symbol": "6467",
+          "name": "泰合",
+          "point": "核心產品BEQIA新劑型NDA審查中"
+        },
+        {
+          "symbol": "6973",
+          "name": "仲恩",
+          "point": "具藥證題材加持"
+        },
+        {
+          "symbol": "4152",
+          "name": "TLC-KY",
+          "point": "兩項產品推進美國三期臨床，TLC590將解盲"
+        },
+        {
+          "symbol": "6803",
+          "name": "鼎晉",
+          "point": "受惠解盲及授權進展",
+          "status": "逼近新高",
+          "dist": -10
+        },
+        {
+          "symbol": "6799",
+          "name": "全福",
+          "point": "受惠解盲及授權進展"
+        },
+        {
+          "symbol": "4192",
+          "name": "瑩碩",
+          "point": "受惠解盲及授權進展"
+        }
+      ],
+      "background": "新藥股受藥證取得與國際授權進展催化，利多持續發酵。多項新藥進入臨床後期或已獲藥證，營運展望樂觀，預計旺到2027年。",
+      "themeTags": []
+    },
+    {
       "gid": "CBMiiAFBVV95cUxPQjNSMlkzWkcxam00MWg2d2plVW5Kamp0dE9MSi15TENVNUtpNU9NV1VERVZzdnlKOXpPR2FfbzlkcERkRWlWSkkxQkl0djNacWRmMGg1Z0JwYWUxck9DLUdxaEp0Ulkzd3FYeGY3QWZ5aEVBLW1PbFYzWDE3NkN6T2c3bFdxa2xv",
       "tkey": "熱門族群台特化、新應材外資按讚",
       "title": "《熱門族群》台特化、新應材 外資按讚 - 富聯網",
@@ -311,7 +370,9 @@
           "symbol": "6170",
           "name": "嘉晶",
           "point": "喜迎營運轉機",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -9.7
         },
         {
           "symbol": "5475",

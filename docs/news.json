@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-01T11:04:46.028+08:00",
-  "generatedAt": "2026-10-01T03:04:46.028Z",
+  "asOf": "2026-10-01T12:06:02.979+08:00",
+  "generatedAt": "2026-10-01T04:06:02.979Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -51,6 +51,19 @@
       ]
     },
     {
+      "symbol": "6196",
+      "name": "帆宣",
+      "days": 2,
+      "dates": [
+        "10/1",
+        "9/29"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -2,
+      "limitUp": false
+    },
+    {
       "symbol": "6505",
       "name": "台塑化",
       "days": 2,
@@ -91,6 +104,17 @@
       ]
     },
     {
+      "symbol": "2327",
+      "name": "國巨",
+      "days": 2,
+      "dates": [
+        "10/1",
+        "9/29"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "1727",
       "name": "中華化",
       "days": 2,
@@ -119,17 +143,14 @@
       ]
     },
     {
-      "symbol": "6196",
-      "name": "帆宣",
+      "symbol": "6446",
+      "name": "藥華藥",
       "days": 2,
       "dates": [
-        "10/1",
+        "9/30",
         "9/29"
       ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -2,
-      "limitUp": false
+      "mentions": 2
     },
     {
       "symbol": "2342",
@@ -144,6 +165,116 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOYmJSZGlUQldqTFR4V3dNUnhvSElsTUprRzRGU2ZsRjMyaHdiM1N5bi1SeS1nendqUEkwcFEyRmhlS1JVbWk1NkFxaWJ2NTNrQjk1bWZsbUVyWWl0OFpWbGdOU2ZOT2VGdjNSczhiMk5mZFlvalhNcHRfaUw3VWZCNTNzYk5HREt1",
+      "tkey": "熱門族群法說行情變調牧德、正淩臉綠-ww2.money",
+      "title": "《熱門族群》法說行情變調 牧德、正淩臉綠 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6316846001&PU=1002",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Thu, 01 Oct 2026 02:50:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3563",
+          "name": "牧德",
+          "point": "法說會行情落空，股價走弱",
+          "limitUp": false
+        },
+        {
+          "symbol": "8147",
+          "name": "正淩",
+          "point": "法說會行情落空，股價走弱",
+          "limitUp": false
+        }
+      ],
+      "background": "設備廠牧德與連接器廠正淩法說會後，儘管營運展望樂觀，仍受獲利賣壓影響，股價聯袂走弱。牧德受惠AI伺服器、高速傳輸，正淩深耕醫療、AI伺服器、人形機器人、光通訊。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOdXdyYUU1YV9pZXFtMXZPWjN4UV92S1J0blVDVTFBY21Palh4eHVhX0JZSVpTUDZ4Ti1ZT1c1cF9GeHNLQ1JzalZRMkRVaWR4ako4Vk5NUm1TdElBSTI0eXZjbXBQRnBKaW95dm9HTWxvcTM3cXJZNk9aZEt4YTJfalpVSl9LVGRE",
+      "tkey": "熱門族群被動元件風雲再起！國巨力衝600關5勇士攻頂插旗-ww2.money",
+      "title": "《熱門族群》被動元件風雲再起！國巨力衝600關 5勇士攻頂插旗 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6316848001&PU=1002",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Thu, 01 Oct 2026 02:50:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "被動元件龍頭，獲美系外資喊上1050元",
+          "limitUp": false
+        },
+        {
+          "symbol": "3236",
+          "name": "千如",
+          "point": "強攻漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6155",
+          "name": "鈞寶",
+          "point": "強攻漲停",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "5228",
+          "name": "鈺鎧",
+          "point": "強攻漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6127",
+          "name": "九豪",
+          "point": "強攻漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "4760",
+          "name": "勤凱",
+          "point": "強攻漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "5328",
+          "name": "華容",
+          "point": "勁升逾半根停板",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "6175",
+          "name": "立敦",
+          "point": "勁升逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "3624",
+          "name": "光頡",
+          "point": "勁升逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "勁升逾半根停板，受惠日韓大廠訂單",
+          "limitUp": false
+        },
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "point": "受惠日韓大廠訂單",
+          "limitUp": false
+        }
+      ],
+      "background": "被動元件產業受AI推動高階MLCC需求吃緊，日系大廠TDK與太陽誘電合作，顯示市場進入門檻提高。國巨等台廠迎接產業上升循環，訂單能見度至明年底無虞。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPWXltT3ViWWUxU09ibW1XUjI2TGNuN0xpby1XdVAwSzY3NXQ1VXNyckRMd0lQN09LR0NLVk5Fbll1VklxNk1QSUJBUkhVcEJkZ3lZMEFPM1l5ZnhQOEg0T0tvLUpieE53Q1JWcE56YW52S1NoVHpuQzFveWtnWG0yOFRHU0hnWWNa",
       "tkey": "熱門族群研華Q3狂飆47.6%居冠工業電腦Q4營運續看旺",
@@ -224,6 +355,100 @@
         }
       ],
       "background": "工業電腦受邊緣AI與實體AI浪潮引爆，軟硬體整合需求攀升，機器人與半導體擴產成為驅動成長核心動力。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPaHhPZl9ic3NYRHVLOWNuUzRLVjZoNlI3MTlRc1RoWVFlYTlRWm5DWGVPZjRrU0xxSmc0cXZYWXZzZVZQU2o2TEhlanR6U1JLM3hhYThhUllvUnM4SHhUMVhJdlZGNFVaQXJPYkkwOEFOVzFNYVNJdXRaVm16LWNDSkVrTC04QWZH",
+      "tkey": "熱門族群研華Q3狂飆47.6%居冠工業電腦Q4營運續看旺-ww2.money",
+      "title": "《熱門族群》研華Q3狂飆47.6%居冠 工業電腦Q4營運續看旺 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6316750001&PU=0010",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Thu, 01 Oct 2026 01:12:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2395",
+          "name": "研華",
+          "point": "第三季漲幅47.6%居冠，營收超前",
+          "status": "逼近新高",
+          "dist": -1.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "6416",
+          "name": "瑞祺電通",
+          "point": "大漲42.9%，具網通與資安題材",
+          "limitUp": false
+        },
+        {
+          "symbol": "6922",
+          "name": "宸曜",
+          "point": "漲幅達27%",
+          "status": "逼近新高",
+          "dist": -9.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "8050",
+          "name": "廣積",
+          "point": "上揚21.6%",
+          "limitUp": false
+        },
+        {
+          "symbol": "3564",
+          "name": "其陽",
+          "point": "單季漲幅站上一成以上，具網通與資安題材",
+          "limitUp": false
+        },
+        {
+          "symbol": "2397",
+          "name": "友通",
+          "point": "單季漲幅站上一成以上",
+          "limitUp": false
+        },
+        {
+          "symbol": "6441",
+          "name": "廣錠",
+          "point": "單季漲幅站上一成以上，9月漲幅居冠",
+          "limitUp": false
+        },
+        {
+          "symbol": "3022",
+          "name": "威強電",
+          "point": "單季漲幅站上一成以上",
+          "limitUp": false
+        },
+        {
+          "symbol": "6166",
+          "name": "凌華",
+          "point": "單月漲幅在12%-15%以上",
+          "limitUp": false
+        },
+        {
+          "symbol": "6414",
+          "name": "樺漢",
+          "point": "在手訂單直衝歷史新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "6196",
+          "name": "帆宣",
+          "point": "受惠北美與全球半導體建廠熱潮",
+          "status": "逼近新高",
+          "dist": -2,
+          "limitUp": false
+        },
+        {
+          "symbol": "3479",
+          "name": "安勤",
+          "point": "半導體設備專案陸續開花結果",
+          "limitUp": false
+        }
+      ],
+      "background": "工業電腦(IPC)族群受邊緣AI與實體AI浪潮引爆，軟硬體整合需求攀升。輝達點名資安與網路安全為AI應用，機器人、半導體擴產驅動成長，產業營運看旺。",
       "themeTags": [
         "需求驅動",
         "國際大廠",
@@ -510,6 +735,20 @@
       "pubDate": "Wed, 30 Sep 2026 23:47:00 GMT",
       "stocks": [],
       "background": "AI需求持續排擠記憶體產能，DRAM與NAND Flash第四季合約價預估雙位數增長，伺服器需求為主要支撐。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNWm03RWtDNGd1VHFCTVo2SXNOWG9LRXpaVnpueEJ5TmstRHZIS29oT2RYajBPcXNGSHRHR191bDFqQWVIMXdiNjB1OXU0WGlLMWlDT3lQSU95d0s1VUx2bWxJUnZnOHQ1dUtoRlphQzdhdVRzOFB4TWdxVHdfQ1FtSGxuQjVkQ1A5",
+      "tkey": "熱門族群記憶體Q4合約價估增雙位數-ww2.money",
+      "title": "《熱門族群》記憶體Q4合約價 估增雙位數 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6316554001&PU=1002",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Wed, 30 Sep 2026 23:47:00 GMT",
+      "stocks": [],
+      "background": "AI需求持續排擠記憶體產能，DRAM與NAND Flash第四季合約價預估將雙位數增長。伺服器需求為主要支撐，CSP與伺服器品牌廠增加採購，供應仍偏緊。",
       "themeTags": [
         "需求驅動",
         "循環位置"
@@ -803,6 +1042,65 @@
       "themeTags": []
     },
     {
+      "gid": "CBMiiAFBVV95cUxNZVhhV3VEbzR1RDVUZzlaUjVISFFUWS1XSDFYa3Exam1ycUZUdzdMaWZ4c1ZMR3RyOVBCNWNRTWxaY09DODNrUFdtbUpJcG9jRjdXa3MzZHg3UDd1OGpnSnIxemhieFhfVTlOaEZTRXBWcmpYSFgxandtVkdhUGNZcmpQZ0dfOEc5",
+      "tkey": "熱門族群藥證、授權催化新藥股旺到2027年-ww2.money",
+      "title": "《熱門族群》藥證、授權催化 新藥股旺到2027年 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6315586001&PU=0010",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Wed, 30 Sep 2026 00:21:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "point": "新藥Ropeg取得多國藥證並啟動銷售"
+        },
+        {
+          "symbol": "6550",
+          "name": "仁新",
+          "point": "子公司新藥Tinlarebant獲美國FDA優先審查"
+        },
+        {
+          "symbol": "1760",
+          "name": "寶齡",
+          "point": "腎病新藥已取得中國藥證"
+        },
+        {
+          "symbol": "6467",
+          "name": "泰合",
+          "point": "核心產品BEQIA新劑型NDA審查中"
+        },
+        {
+          "symbol": "6973",
+          "name": "仲恩",
+          "point": "具藥證題材加持"
+        },
+        {
+          "symbol": "4152",
+          "name": "TLC-KY",
+          "point": "兩項產品推進美國三期臨床，TLC590將解盲"
+        },
+        {
+          "symbol": "6803",
+          "name": "鼎晉",
+          "point": "受惠解盲及授權進展",
+          "status": "逼近新高",
+          "dist": -10
+        },
+        {
+          "symbol": "6799",
+          "name": "全福",
+          "point": "受惠解盲及授權進展"
+        },
+        {
+          "symbol": "4192",
+          "name": "瑩碩",
+          "point": "受惠解盲及授權進展"
+        }
+      ],
+      "background": "新藥股受藥證取得與國際授權進展催化，利多持續發酵。多項新藥進入臨床後期或已獲藥證，營運展望樂觀，預計旺到2027年。",
+      "themeTags": []
+    },
+    {
       "gid": "CBMiiAFBVV95cUxPQjNSMlkzWkcxam00MWg2d2plVW5Kamp0dE9MSi15TENVNUtpNU9NV1VERVZzdnlKOXpPR2FfbzlkcERkRWlWSkkxQkl0djNacWRmMGg1Z0JwYWUxck9DLUdxaEp0Ulkzd3FYeGY3QWZ5aEVBLW1PbFYzWDE3NkN6T2c3bFdxa2xv",
       "tkey": "熱門族群台特化、新應材外資按讚",
       "title": "《熱門族群》台特化、新應材 外資按讚 - 富聯網",
@@ -838,7 +1136,9 @@
           "symbol": "6170",
           "name": "嘉晶",
           "point": "喜迎營運轉機",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -9.7
         },
         {
           "symbol": "5475",
