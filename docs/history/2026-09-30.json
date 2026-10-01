@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "updatedAt": "2026-10-01T10:41:36.188Z",
+  "updatedAt": "2026-10-01T16:19:15.660Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE1ZdXZ1M2dGRHpOcDJ1SXltY2xPU040bHIzX3VRR3Vhdkx1QkpZSzFMdGxUdk5Ia2JMS21IS1lGby0teXBxakRRTTg2T0FiRDIwTTVTQTQ4MTQ",
@@ -211,11 +211,10 @@
           "dist": -8.9,
           "limitUp": true,
           "pct": 9.9,
-          "luw": 3,
+          "luw": 2,
           "luwd": [
             "9/30",
-            "9/29",
-            "9/24"
+            "9/29"
           ]
         },
         {
