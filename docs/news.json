@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-01T13:05:09.219+08:00",
-  "generatedAt": "2026-10-01T05:05:09.219Z",
+  "asOf": "2026-10-01T14:06:14.687+08:00",
+  "generatedAt": "2026-10-01T06:06:14.687Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -125,7 +125,8 @@
         "9/29"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "3481",
@@ -235,20 +236,21 @@
           "symbol": "2327",
           "name": "國巨",
           "point": "被動元件龍頭，獲美系外資喊上1050元",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "3236",
           "name": "千如",
           "point": "強攻漲停",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "6155",
           "name": "鈞寶",
           "point": "強攻漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "5228",
@@ -260,8 +262,7 @@
           "symbol": "6127",
           "name": "九豪",
           "point": "強攻漲停",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "4760",

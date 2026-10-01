@@ -1,16 +1,24 @@
 {
   "date": "2026-09-29",
-  "updatedAt": "2026-10-01T05:05:09.215Z",
+  "updatedAt": "2026-10-01T06:06:14.684Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
       "tkey": "熱門族群龍頭聯發科創新高IC設計股搶發AI財",
-      "title": "熱門族群》龍頭聯發科創新高 IC設計股搶發AI財 - stock.ltn.com.tw",
+      "title": "熱門族群》龍頭聯發科創新高 IC設計股搶發AI財 - 自由時報",
       "url": "https://stock.ltn.com.tw/article/k0bsc03rnawt",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "pubDate": "Tue, 29 Sep 2026 09:35:56 GMT",
-      "stocks": [],
-      "background": "IC設計產業受惠於AI技術發展，特別是AI晶片需求強勁，帶動相關公司營收成長，產業景氣復甦。",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "龍頭聯發科創新高",
+          "status": "逼近新高",
+          "dist": -9.1
+        }
+      ],
+      "background": "AI 晶片需求強勁，聯發科為手機及 AI 應用龍頭，受惠於先進製程與 AI 題材，股價創新高。",
       "themeTags": [
         "需求驅動"
       ]
@@ -26,13 +34,31 @@
         {
           "symbol": "6187",
           "name": "萬潤",
-          "point": "挾先進封裝擴產效應漲停"
+          "point": "挾先進封裝擴產效應，逆勢亮燈漲停"
+        },
+        {
+          "symbol": "6276",
+          "name": "均華",
+          "point": "股價上漲"
+        },
+        {
+          "symbol": "4162",
+          "name": "藥華藥",
+          "point": "股價上漲"
+        },
+        {
+          "symbol": "2375",
+          "name": "南電",
+          "point": "股價維持不錯漲勢"
+        },
+        {
+          "symbol": "1590",
+          "name": "亞德客-KY",
+          "point": "股價維持不錯漲勢"
         }
       ],
-      "background": "千金股受美股震盪影響普遍下跌，但部分個股如萬潤因先進封裝擴產效應逆勢上漲，顯示半導體先進製程需求仍強勁。",
-      "themeTags": [
-        "需求驅動"
-      ]
+      "background": "千金股普遍疲軟，但萬潤受惠先進封裝擴產題材，帶動股價漲停。整體市場擔憂美股高檔震盪。",
+      "themeTags": []
     },
     {
       "gid": "CBMiiAFBVV95cUxPVW1zRm0zU1VZQXZTbC1OZURzdGg5ck84a0xsZF9tenpqZmh5LVZocXhHblpOVnFabzFLbEdFWlVpUll4Y3lhN0lSMU1RNk9FQjI3RERqbDZiSGdVNDlteE9VLU1DZDZZTG1YWFE4UnpWdm85NFdJZHRSWHpXWTNWX1JUQS1NeVVX",
