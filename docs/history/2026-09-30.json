@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "updatedAt": "2026-09-30T16:30:15.345Z",
+  "updatedAt": "2026-10-01T03:04:46.022Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE1ZdXZ1M2dGRHpOcDJ1SXltY2xPU040bHIzX3VRR3Vhdkx1QkpZSzFMdGxUdk5Ia2JMS21IS1lGby0teXBxakRRTTg2T0FiRDIwTTVTQTQ4MTQ",
@@ -274,6 +274,30 @@
       "stocks": [],
       "background": "新藥股受藥證與授權利多催化，預期營運動能可望延續至2027年，市場對新藥研發成果抱持期待。",
       "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPQjNSMlkzWkcxam00MWg2d2plVW5Kamp0dE9MSi15TENVNUtpNU9NV1VERVZzdnlKOXpPR2FfbzlkcERkRWlWSkkxQkl0djNacWRmMGg1Z0JwYWUxck9DLUdxaEp0Ulkzd3FYeGY3QWZ5aEVBLW1PbFYzWDE3NkN6T2c3bFdxa2xv",
+      "tkey": "熱門族群台特化、新應材外資按讚",
+      "title": "《熱門族群》台特化、新應材 外資按讚 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6315529001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 30 Sep 2026 00:00:00 GMT",
+      "stocks": [
+        {
+          "symbol": "4772",
+          "name": "台特化",
+          "point": "矽乙烷產能利用率近9成，無水氟化氫進入量產"
+        },
+        {
+          "symbol": "4749",
+          "name": "新應材",
+          "point": "客戶廠區先進製程2奈米產能持續開出"
+        }
+      ],
+      "background": "半導體先進製程與封裝材料需求持續暢旺，特殊氣體與化學品需求量同步提升，帶動特化族群營運。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiWEFVX3lxTFBwMTV3clNBSlRDWWt5c29ydTU5Y3V3aFpuMDZfRnBPY3U0c1BUeTlERGY1R0RSUkxscGl3V1ZmalRHZENDZEF5ZUJUQ1N1U0oxZHp2WnRsM2k",
