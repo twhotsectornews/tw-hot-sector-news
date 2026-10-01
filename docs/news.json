@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-01T12:06:02.979+08:00",
-  "generatedAt": "2026-10-01T04:06:02.979Z",
+  "asOf": "2026-10-01T13:05:09.219+08:00",
+  "generatedAt": "2026-10-01T05:05:09.219Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -49,6 +49,19 @@
       "luwd": [
         "9/30"
       ]
+    },
+    {
+      "symbol": "1727",
+      "name": "中華化",
+      "days": 2,
+      "dates": [
+        "10/1",
+        "9/30"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -8,
+      "limitUp": false
     },
     {
       "symbol": "6196",
@@ -115,19 +128,6 @@
       "limitUp": false
     },
     {
-      "symbol": "1727",
-      "name": "中華化",
-      "days": 2,
-      "dates": [
-        "10/1",
-        "9/30"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -12,
-      "limitUp": false
-    },
-    {
       "symbol": "3481",
       "name": "群創",
       "days": 2,
@@ -143,16 +143,6 @@
       ]
     },
     {
-      "symbol": "6446",
-      "name": "藥華藥",
-      "days": 2,
-      "dates": [
-        "9/30",
-        "9/29"
-      ],
-      "mentions": 2
-    },
-    {
       "symbol": "2342",
       "name": "茂矽",
       "days": 2,
@@ -165,6 +155,48 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxON0xTTVl4Q1RYSE0xSmRJX3BZaE94dEJBRGJYU21Nbm1uaUhHalM4UVpDeDZzSmJWQXJqeE1ONUl3RTRjTUdRcHExTjJsVHhyNnI5dDhDaDZEX014ZUpZQXk1MEh4ZzVJaEo4WkZWNzhHcnFfSFlobFV5OE5nblB3NmNnTW1yc3Jx",
+      "tkey": "熱門族群化工股有亮點！和益又鎖紅燈中華化虛驚？",
+      "title": "《熱門族群》化工股有亮點！和益又鎖紅燈 中華化虛驚？ - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6316941001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 01 Oct 2026 04:28:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1709",
+          "name": "和益",
+          "point": "轉型高值化材料效益顯現",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "9/30"
+          ]
+        },
+        {
+          "symbol": "4722",
+          "name": "國精化",
+          "point": "高頻高速CCL樹脂材料供不應求",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "1727",
+          "name": "中華化",
+          "point": "擴大布局電子級硫酸事業",
+          "status": "逼近新高",
+          "dist": -8,
+          "limitUp": false
+        }
+      ],
+      "background": "化工股受惠於跨入半導體產業，搭上AI多頭列車，開發高值化特殊化學材料，應用於高階載板、CoWoS封裝等領域，帶動營運成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOYmJSZGlUQldqTFR4V3dNUnhvSElsTUprRzRGU2ZsRjMyaHdiM1N5bi1SeS1nendqUEkwcFEyRmhlS1JVbWk1NkFxaWJ2NTNrQjk1bWZsbUVyWWl0OFpWbGdOU2ZOT2VGdjNSczhiMk5mZFlvalhNcHRfaUw3VWZCNTNzYk5HREt1",
       "tkey": "熱門族群法說行情變調牧德、正淩臉綠-ww2.money",
@@ -209,14 +241,14 @@
           "symbol": "3236",
           "name": "千如",
           "point": "強攻漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "6155",
           "name": "鈞寶",
           "point": "強攻漲停",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "5228",
@@ -228,7 +260,8 @@
           "symbol": "6127",
           "name": "九豪",
           "point": "強攻漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "4760",
@@ -240,8 +273,7 @@
           "symbol": "5328",
           "name": "華容",
           "point": "勁升逾半根停板",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "6175",
@@ -259,7 +291,8 @@
           "symbol": "2492",
           "name": "華新科",
           "point": "勁升逾半根停板，受惠日韓大廠訂單",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "3026",

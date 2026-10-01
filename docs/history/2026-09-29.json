@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "updatedAt": "2026-10-01T04:06:02.976Z",
+  "updatedAt": "2026-10-01T05:05:09.215Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE5SckliQkVDMjdUcTJSOEpYM3hwdVRIX0hQX1doYTdteXlEVm1LUFF1N1d0RklpUFZLbmlaTUFrLXkwZGpKVTU0SXdHdUc4VmUxOTkzUGxnUl8",
@@ -9,63 +9,27 @@
       "url": "https://stock.ltn.com.tw/article/k0bsc03rnawt",
       "source": "stock.ltn.com.tw",
       "pubDate": "Tue, 29 Sep 2026 09:35:56 GMT",
-      "stocks": [
-        {
-          "symbol": "2454",
-          "name": "聯發科",
-          "point": "龍頭股價創新高",
-          "status": "高檔修正",
-          "dist": -10.2
-        }
-      ],
-      "background": "IC設計產業受AI熱潮帶動，龍頭聯發科股價創新高，顯示市場對AI相關晶片需求強勁，帶動整體族群搶攻AI商機。",
+      "stocks": [],
+      "background": "IC設計產業受惠於AI技術發展，特別是AI晶片需求強勁，帶動相關公司營收成長，產業景氣復甦。",
       "themeTags": [
         "需求驅動"
       ]
     },
     {
       "gid": "CBMiiAFBVV95cUxNYzBpQXJ4S0JXeENfQ05XVm93ckNET0NxeDZMbnF2R2lkRmFtXzhBcW83aHNwbGNJMFV3ZUJkSVpjSmpZLWVsYnZ3ek0zdXI5cklOVGFwUlNpQXRuMUZCNjlPenVGcVRqdlFlSnVoYko5VC1GX0hsVTNlRlU0eWxodTVwRG41SkZu",
-      "tkey": "熱門族群股王股后帶頭跌！千金股疲軟又爆警訊？萬潤唯一漲停-ww2.money",
-      "title": "《熱門族群》股王股后帶頭跌！千金股疲軟又爆警訊？萬潤唯一漲停 - ww2.money-link.com.tw",
+      "tkey": "熱門族群股王股后帶頭跌！千金股疲軟又爆警訊？萬潤唯一漲停",
+      "title": "《熱門族群》股王股后帶頭跌！千金股疲軟又爆警訊？萬潤唯一漲停 - 富聯網",
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6314894001&PU=1002",
-      "source": "ww2.money-link.com.tw",
+      "source": "富聯網",
       "pubDate": "Tue, 29 Sep 2026 06:05:00 GMT",
       "stocks": [
         {
           "symbol": "6187",
           "name": "萬潤",
-          "point": "挾先進封裝擴產效應，逆勢亮燈漲停"
-        },
-        {
-          "symbol": "6533",
-          "name": "均華",
-          "point": "股價上漲3%～5%",
-          "luw": 3,
-          "luwd": [
-            "9/30",
-            "9/29",
-            "9/24"
-          ]
-        },
-        {
-          "symbol": "6446",
-          "name": "藥華藥",
-          "point": "股價上漲3%～5%"
-        },
-        {
-          "symbol": "8046",
-          "name": "南電",
-          "point": "維持不錯的漲勢",
-          "status": "逼近新高",
-          "dist": -1.7
-        },
-        {
-          "symbol": "1590",
-          "name": "亞德客-KY",
-          "point": "維持不錯的漲勢"
+          "point": "挾先進封裝擴產效應漲停"
         }
       ],
-      "background": "台股受美股震盪與日韓股市下挫影響，開盤後賣壓湧現，千金股普遍疲軟。然而，萬潤受惠先進封裝擴產效應，逆勢漲停，顯示半導體設備需求仍強勁。",
+      "background": "千金股受美股震盪影響普遍下跌，但部分個股如萬潤因先進封裝擴產效應逆勢上漲，顯示半導體先進製程需求仍強勁。",
       "themeTags": [
         "需求驅動"
       ]
