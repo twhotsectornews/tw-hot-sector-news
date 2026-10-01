@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-01T14:06:14.687+08:00",
-  "generatedAt": "2026-10-01T06:06:14.687Z",
+  "asOf": "2026-10-01T17:35:34.627+08:00",
+  "generatedAt": "2026-10-01T09:35:34.627Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -49,6 +49,45 @@
       "luwd": [
         "9/30"
       ]
+    },
+    {
+      "symbol": "3189",
+      "name": "景碩",
+      "days": 2,
+      "dates": [
+        "10/1",
+        "9/29"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -1,
+      "limitUp": false
+    },
+    {
+      "symbol": "8046",
+      "name": "南電",
+      "days": 2,
+      "dates": [
+        "10/1",
+        "9/29"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -2.1,
+      "limitUp": false
+    },
+    {
+      "symbol": "3037",
+      "name": "欣興",
+      "days": 2,
+      "dates": [
+        "10/1",
+        "9/29"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -1.2,
+      "limitUp": false
     },
     {
       "symbol": "1727",
@@ -157,6 +196,44 @@
   ],
   "news": [
     {
+      "gid": "CBMikgFBVV95cUxPTXZiYmtTUXFCMVotcUVUV0p4Zmd6YWJjTEstSzR4TlU1amRoZ2VIajEtZVotbk9LREpzYWJkZ0ZIek9hLU5iQWlYQ0MtUUdlX0tXSm41b3U4azdLUGxUMDdhcjNpVnJTWFJwNzV2SndIVkxRUm1EUXJhMlE4djdIV19rSm1Cc0VtLTJWelItX19BZw",
+      "tkey": "熱門族群ABF三雄抱團攻高南電領軍齊聚千金圈",
+      "title": "《熱門族群》ABF三雄抱團攻高 南電領軍齊聚千金圈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6317031001&pu=News_0002_3",
+      "source": "富聯網",
+      "pubDate": "Thu, 01 Oct 2026 08:20:00 GMT",
+      "stocks": [
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "股價強勢突破1400元大關，漲幅逼近6%，成為今日族群領頭羊",
+          "status": "逼近新高",
+          "dist": -2.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "收盤前加速攻高，漲幅拉升至4%以上，收在1010元，站上千元關卡",
+          "status": "逼近新高",
+          "dist": -1,
+          "limitUp": false
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "終場上漲3.4%，為1215元，盤中最高觸及1230元，同樣改寫歷史新高",
+          "status": "逼近新高",
+          "dist": -1.2,
+          "limitUp": false
+        }
+      ],
+      "background": "ABF載板受AI運算市場ASIC滲透率提升帶動，高階載板需求增加，市場供給吃緊情況可望維持至2030年前。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxON0xTTVl4Q1RYSE0xSmRJX3BZaE94dEJBRGJYU21Nbm1uaUhHalM4UVpDeDZzSmJWQXJqeE1ONUl3RTRjTUdRcHExTjJsVHhyNnI5dDhDaDZEX014ZUpZQXk1MEh4ZzVJaEo4WkZWNzhHcnFfSFlobFV5OE5nblB3NmNnTW1yc3Jx",
       "tkey": "熱門族群化工股有亮點！和益又鎖紅燈中華化虛驚？",
       "title": "《熱門族群》化工股有亮點！和益又鎖紅燈 中華化虛驚？ - 富聯網",
@@ -243,7 +320,14 @@
           "symbol": "3236",
           "name": "千如",
           "point": "強攻漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10,
+          "luw": 3,
+          "luwd": [
+            "9/30",
+            "9/29",
+            "9/24"
+          ]
         },
         {
           "symbol": "6155",
@@ -256,25 +340,53 @@
           "symbol": "5228",
           "name": "鈺鎧",
           "point": "強攻漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 3,
+          "luwd": [
+            "9/30",
+            "9/29",
+            "9/24"
+          ]
         },
         {
           "symbol": "6127",
           "name": "九豪",
           "point": "強攻漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 3,
+          "luwd": [
+            "9/30",
+            "9/29",
+            "9/24"
+          ]
         },
         {
           "symbol": "4760",
           "name": "勤凱",
           "point": "強攻漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 3,
+          "luwd": [
+            "9/30",
+            "9/29",
+            "9/24"
+          ]
         },
         {
           "symbol": "5328",
           "name": "華容",
           "point": "勁升逾半根停板",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10,
+          "luw": 3,
+          "luwd": [
+            "9/30",
+            "9/29",
+            "9/24"
+          ]
         },
         {
           "symbol": "6175",
@@ -286,7 +398,14 @@
           "symbol": "3624",
           "name": "光頡",
           "point": "勁升逾半根停板",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 3,
+          "luwd": [
+            "9/30",
+            "9/29",
+            "9/24"
+          ]
         },
         {
           "symbol": "2492",
