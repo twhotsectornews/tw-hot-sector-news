@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-02T11:04:44.528+08:00",
-  "generatedAt": "2026-10-02T03:04:44.528Z",
+  "asOf": "2026-10-02T12:03:40.710+08:00",
+  "generatedAt": "2026-10-02T04:03:40.710Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -175,6 +175,17 @@
       ]
     },
     {
+      "symbol": "3008",
+      "name": "大立光",
+      "days": 2,
+      "dates": [
+        "10/2",
+        "9/27"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "3236",
       "name": "千如",
       "days": 2,
@@ -218,7 +229,8 @@
         "10/1"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 3,
       "luwd": [
         "10/1",
@@ -235,8 +247,7 @@
         "10/1"
       ],
       "mentions": 2,
-      "limitUp": true,
-      "pct": 9.9,
+      "limitUp": false,
       "luw": 1,
       "luwd": [
         "10/1"
@@ -269,18 +280,175 @@
       ]
     },
     {
+      "symbol": "3016",
+      "name": "嘉晶",
+      "days": 2,
+      "dates": [
+        "10/1",
+        "9/27"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -1.1
+    },
+    {
       "symbol": "2342",
       "name": "茂矽",
       "days": 2,
       "dates": [
-        "9/30",
+        "10/1",
         "9/27"
       ],
-      "mentions": 2,
-      "limitUp": false
+      "mentions": 2
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNb1U0UDNkcFBuV1VsdlBha0FPdW8tQzNUV0ItN1RINTR1T2VzbERxbzZma2l5TDdCWmoyMW5tcHZka1Vfbm5DZHVYZXZhVWlkNG9TMnBscld1VnhnNEVlSWdoWTJSSEItc0llSjhYckpLRWlKcVVVQURNdTN5UWIwQVVIaE9pdmNB",
+      "tkey": "熱門族群矽光子回來了！迎轉單利多聯亞等5顆紅燈高掛",
+      "title": "《熱門族群》矽光子回來了！迎轉單利多 聯亞等5顆紅燈高掛 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6317972001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 02 Oct 2026 03:43:00 GMT",
+      "stocks": [
+        {
+          "symbol": "4991",
+          "name": "環宇-KY",
+          "point": "強鎖漲停",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "強鎖漲停，布局InP磊晶與高速光通訊元件",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "4971",
+          "name": "IET-KY",
+          "point": "強鎖漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "強鎖漲停",
+          "status": "逼近新高",
+          "dist": -6.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "4908",
+          "name": "前鼎",
+          "point": "強鎖漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6442",
+          "name": "光聖",
+          "point": "大漲逾6%，卡位CPO、光纖與高速連接",
+          "limitUp": false
+        },
+        {
+          "symbol": "3163",
+          "name": "波若威",
+          "point": "大漲逾6%，卡位CPO",
+          "limitUp": false
+        },
+        {
+          "symbol": "3450",
+          "name": "聯鈞",
+          "point": "大漲逾6%",
+          "limitUp": false
+        },
+        {
+          "symbol": "4979",
+          "name": "華星光",
+          "point": "切入高速光收發模組",
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "切入CPO光學龍頭廠",
+          "limitUp": false
+        }
+      ],
+      "background": "矽光子CPO技術因AI算力擴張而加速商轉，加上美國擬禁中國光模組，台廠有望迎來轉單利多，產業前景看好。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOX0RvUDNtNnV4MUFXZ2l4U2o2ZUptbHh2by1GWExRUTdxbGZyVUxwUVZzRkdNZkNPbmpEeGExWU14NTBBMzVvTkMyd0NDVUNzaGNQOG05UDVKQWhCOEJ0c0kxdDlKa2tNSG0xNW4xMy1OUmsyYWRRbDZpTGhGRldQRU5saFgtRFZO",
+      "tkey": "熱門族群石英元件超火！晶技續噴雙強鎖2顆紅燈",
+      "title": "《熱門族群》石英元件超火！晶技續噴 雙強鎖2顆紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6317946001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 02 Oct 2026 03:15:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3042",
+          "name": "晶技",
+          "point": "AI/低軌衛星供應商，營收創同期新高",
+          "status": "逼近新高",
+          "dist": -9.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "8289",
+          "name": "泰藝",
+          "point": "連噴2根漲停",
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "10/1",
+            "9/30",
+            "9/29"
+          ]
+        },
+        {
+          "symbol": "6174",
+          "name": "安碁",
+          "point": "連噴2根漲停，車用電子與AI商機",
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "10/1",
+            "9/30",
+            "9/29"
+          ]
+        },
+        {
+          "symbol": "8182",
+          "name": "加高",
+          "point": "齊亮半顆紅燈",
+          "limitUp": false
+        },
+        {
+          "symbol": "3221",
+          "name": "台嘉碩",
+          "point": "齊亮半顆紅燈",
+          "limitUp": false
+        },
+        {
+          "symbol": "2484",
+          "name": "希華",
+          "point": "聯袂走強",
+          "status": "高檔修正",
+          "dist": -14.5,
+          "limitUp": false
+        }
+      ],
+      "background": "AI伺服器與高速光通訊需求推升高頻、高穩定度石英元件需求，產業走出谷底，迎來新一波成長動能。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQTEVSZTJCT1V0N2drSGEtVnJLVEJncnJyYl9VZWZNTlhoem5Oek9MNmVPTk1iV0NFTDhId0NwV2JrTV82TGhiR3dPQW5HeFE4UjBISXgxU3l3R3BfUG9sXy03azBrbVpPUnduS1dkMGtHV1k3OFRZc0kxQkNNdm1XVHVDb0VKZE9k",
       "tkey": "熱門族群3.2T光模組變天？美國政策轉向點火台光通訊廠受關注",
@@ -293,7 +461,8 @@
           "symbol": "3081",
           "name": "聯亞",
           "point": "布局InP磊晶與高速光通訊元件受關注",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "4979",
@@ -357,7 +526,8 @@
           "symbol": "4760",
           "name": "勤凱",
           "point": "被動元件漲價題材亮燈漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 3,
           "luwd": [
             "10/1",
@@ -369,8 +539,7 @@
           "symbol": "2492",
           "name": "華新科",
           "point": "被動元件漲價題材亮燈漲停",
-          "limitUp": true,
-          "pct": 9.9,
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "10/1"
@@ -382,8 +551,7 @@
           "point": "被動元件漲價題材亮燈漲停",
           "status": "逼近新高",
           "dist": -8.4,
-          "limitUp": true,
-          "pct": 9.6,
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "10/1"
@@ -1218,6 +1386,37 @@
       "themeTags": [
         "需求驅動",
         "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTFBwMTV3clNBSlRDWWt5c29ydTU5Y3V3aFpuMDZfRnBPY3U0c1BUeTlERGY1R0RSUkxscGl3V1ZmalRHZENDZEF5ZUJUQ1N1U0oxZHp2WnRsM2k",
+      "tkey": "熱門族群AI催動功率元件需求嘉晶、漢磊、茂矽喜迎營運轉機",
+      "title": "熱門族群》AI催動功率元件需求 嘉晶、漢磊、茂矽喜迎營運轉機 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/hnnxjrgvzmf5",
+      "source": "自由時報",
+      "pubDate": "Wed, 30 Sep 2026 17:29:38 GMT",
+      "stocks": [
+        {
+          "symbol": "3016",
+          "name": "嘉晶",
+          "point": "AI催動功率元件需求",
+          "status": "逼近新高",
+          "dist": -1.1
+        },
+        {
+          "symbol": "5425",
+          "name": "漢磊",
+          "point": "AI催動功率元件需求"
+        },
+        {
+          "symbol": "2342",
+          "name": "茂矽",
+          "point": "AI催動功率元件需求"
+        }
+      ],
+      "background": "AI應用帶動功率元件需求成長，特別是第三代半導體材料如碳化矽（SiC）和氮化鎵（GaN）相關供應商，營運有望迎來轉機。",
+      "themeTags": [
+        "需求驅動"
       ]
     }
   ]

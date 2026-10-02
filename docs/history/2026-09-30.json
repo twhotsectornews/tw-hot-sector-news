@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "updatedAt": "2026-10-02T03:04:44.526Z",
+  "updatedAt": "2026-10-02T04:03:40.699Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE1ZdXZ1M2dGRHpOcDJ1SXltY2xPU040bHIzX3VRR3Vhdkx1QkpZSzFMdGxUdk5Ia2JMS21IS1lGby0teXBxakRRTTg2T0FiRDIwTTVTQTQ4MTQ",
@@ -10,7 +10,7 @@
       "source": "自由時報",
       "pubDate": "Wed, 30 Sep 2026 13:00:41 GMT",
       "stocks": [],
-      "background": "AI伺服器與高效能運算（HPC）需求帶動，水冷散熱技術因應高功耗晶片散熱需求，產業景氣持續看好。",
+      "background": "AI伺服器與高效能運算（HPC）需求激增，傳統氣冷散熱已不足，水冷散熱技術成為主流，帶動相關供應鏈營運成長。",
       "themeTags": [
         "需求驅動"
       ]
@@ -23,7 +23,7 @@
       "source": "自由時報",
       "pubDate": "Wed, 30 Sep 2026 07:29:23 GMT",
       "stocks": [],
-      "background": "輝達GTC大會發表新AI架構，預期將帶動AI伺服器散熱需求，散熱模組廠受惠，產業前景看好。",
+      "background": "輝達（NVIDIA）推出新AI架構，推動AI伺服器散熱技術升級，水冷散熱需求持續增溫，相關供應商受惠。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
@@ -40,47 +40,41 @@
         {
           "symbol": "1303",
           "name": "南亞",
-          "point": "飆天價攻上265元高點",
+          "point": "飆天價265元",
           "status": "逼近新高",
-          "dist": -2.1,
-          "limitUp": false
-        },
-        {
-          "symbol": "1727",
-          "name": "中華化",
-          "point": "逆勢重摔7%利多出盡",
-          "status": "高檔修正",
-          "dist": -12.8,
-          "limitUp": false
+          "dist": -2.1
         },
         {
           "symbol": "1301",
           "name": "台塑",
-          "point": "雙雙大漲5%",
-          "limitUp": false
+          "point": "大漲5%"
         },
         {
           "symbol": "6505",
           "name": "台塑化",
-          "point": "雙雙大漲5%",
-          "limitUp": false
+          "point": "大漲5%"
         },
         {
           "symbol": "1326",
           "name": "台化",
-          "point": "跟進走揚4%",
-          "limitUp": false
+          "point": "走揚4%"
+        },
+        {
+          "symbol": "1727",
+          "name": "中華化",
+          "point": "逆勢重摔7%，與台塑合資電子級硫酸",
+          "status": "逼近新高",
+          "dist": -1.6
         },
         {
           "symbol": "3532",
           "name": "台勝科",
           "point": "高掛半顆紅燈",
           "status": "高檔修正",
-          "dist": -13.3,
-          "limitUp": false
+          "dist": -12.8
         }
       ],
-      "background": "台塑集團積極佈局半導體供應鏈，透過策略結盟與擴大投資，搶攻電子級化學品市場，以因應AI龐大用電壓力與先進製程耗材需求。",
+      "background": "台塑集團積極布局半導體供應鏈，透過策略結盟擴大電子級化學品事業，受惠於AI龐大用電壓力與先進製程耗材需求。",
       "themeTags": [
         "需求驅動"
       ]
