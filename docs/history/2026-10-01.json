@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "updatedAt": "2026-10-02T06:05:24.099Z",
+  "updatedAt": "2026-10-02T09:09:18.939Z",
   "news": [
     {
       "gid": "CBMikgFBVV95cUxPTXZiYmtTUXFCMVotcUVUV0p4Zmd6YWJjTEstSzR4TlU1amRoZ2VIajEtZVotbk9LREpzYWJkZ0ZIek9hLU5iQWlYQ0MtUUdlX0tXSm41b3U4azdLUGxUMDdhcjNpVnJTWFJwNzV2SndIVkxRUm1EUXJhMlE4djdIV19rSm1Cc0VtLTJWelItX19BZw",
@@ -174,13 +174,7 @@
           "name": "九豪",
           "point": "強攻漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 3,
-          "luwd": [
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "4760",
@@ -200,13 +194,7 @@
           "name": "華容",
           "point": "勁升逾半根停板",
           "limitUp": true,
-          "pct": 10,
-          "luw": 3,
-          "luwd": [
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6175",
@@ -219,13 +207,7 @@
           "name": "光頡",
           "point": "勁升逾半根停板",
           "limitUp": true,
-          "pct": 9.8,
-          "luw": 3,
-          "luwd": [
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 9.8
         },
         {
           "symbol": "2492",
@@ -292,7 +274,13 @@
           "symbol": "3564",
           "name": "其陽",
           "point": "單季漲幅站上一成以上",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "10/1",
+            "9/30",
+            "9/29"
+          ]
         },
         {
           "symbol": "2397",
@@ -378,7 +366,13 @@
           "symbol": "3564",
           "name": "其陽",
           "point": "單季漲幅站上一成以上，具網通與資安題材",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "10/1",
+            "9/30",
+            "9/29"
+          ]
         },
         {
           "symbol": "2397",
@@ -454,7 +448,13 @@
           "point": "勁揚51.9%居次",
           "status": "逼近新高",
           "dist": -5.1,
-          "limitUp": false
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "10/1",
+            "9/30",
+            "9/29"
+          ]
         },
         {
           "symbol": "6168",
@@ -636,7 +636,13 @@
           "point": "勁揚51.9%居次",
           "status": "逼近新高",
           "dist": -5.1,
-          "limitUp": false
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "10/1",
+            "9/30",
+            "9/29"
+          ]
         },
         {
           "symbol": "6168",

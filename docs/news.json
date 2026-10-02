@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-02T14:05:24.103+08:00",
-  "generatedAt": "2026-10-02T06:05:24.103Z",
+  "asOf": "2026-10-02T17:09:18.943+08:00",
+  "generatedAt": "2026-10-02T09:09:18.943Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -102,6 +102,17 @@
       "mentions": 4,
       "status": "逼近新高",
       "dist": -1,
+      "limitUp": false
+    },
+    {
+      "symbol": "3529",
+      "name": "力旺",
+      "days": 2,
+      "dates": [
+        "10/2",
+        "9/29"
+      ],
+      "mentions": 3,
       "limitUp": false
     },
     {
@@ -213,7 +224,7 @@
       ],
       "mentions": 2,
       "limitUp": true,
-      "pct": 9.9,
+      "pct": 10,
       "luw": 3,
       "luwd": [
         "10/1",
@@ -254,17 +265,6 @@
       "luwd": [
         "10/1"
       ]
-    },
-    {
-      "symbol": "3529",
-      "name": "力旺",
-      "days": 2,
-      "dates": [
-        "10/2",
-        "9/29"
-      ],
-      "mentions": 2,
-      "limitUp": false
     },
     {
       "symbol": "3481",
@@ -317,19 +317,40 @@
           "symbol": "4991",
           "name": "環宇-KY",
           "point": "強鎖漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10,
+          "luw": 3,
+          "luwd": [
+            "10/1",
+            "9/30",
+            "9/29"
+          ]
         },
         {
           "symbol": "3081",
           "name": "聯亞",
           "point": "強鎖漲停，布局InP磊晶與高速光通訊元件",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10,
+          "luw": 3,
+          "luwd": [
+            "10/1",
+            "9/30",
+            "9/29"
+          ]
         },
         {
           "symbol": "4971",
           "name": "IET-KY",
           "point": "強鎖漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 3,
+          "luwd": [
+            "10/1",
+            "9/30",
+            "9/29"
+          ]
         },
         {
           "symbol": "3105",
@@ -337,13 +358,27 @@
           "point": "強鎖漲停",
           "status": "逼近新高",
           "dist": -6.8,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 3,
+          "luwd": [
+            "10/1",
+            "9/30",
+            "9/29"
+          ]
         },
         {
           "symbol": "4908",
           "name": "前鼎",
           "point": "強鎖漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 3,
+          "luwd": [
+            "10/1",
+            "9/30",
+            "9/29"
+          ]
         },
         {
           "symbol": "6442",
@@ -356,7 +391,14 @@
           "symbol": "3163",
           "name": "波若威",
           "point": "大漲逾6%，卡位CPO",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.5,
+          "luw": 3,
+          "luwd": [
+            "10/1",
+            "9/30",
+            "9/29"
+          ]
         },
         {
           "symbol": "3450",
@@ -404,7 +446,7 @@
           "name": "泰藝",
           "point": "連噴2根漲停",
           "limitUp": true,
-          "pct": 9.9,
+          "pct": 10,
           "luw": 3,
           "luwd": [
             "10/1",
@@ -417,7 +459,7 @@
           "name": "安碁",
           "point": "連噴2根漲停，車用電子與AI商機",
           "limitUp": true,
-          "pct": 9.9,
+          "pct": 10,
           "luw": 3,
           "luwd": [
             "10/1",
@@ -464,7 +506,14 @@
           "symbol": "3081",
           "name": "聯亞",
           "point": "布局InP磊晶與高速光通訊元件受關注",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10,
+          "luw": 3,
+          "luwd": [
+            "10/1",
+            "9/30",
+            "9/29"
+          ]
         },
         {
           "symbol": "4979",
@@ -476,7 +525,14 @@
           "symbol": "3163",
           "name": "波若威",
           "point": "CPO布局受關注",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.5,
+          "luw": 3,
+          "luwd": [
+            "10/1",
+            "9/30",
+            "9/29"
+          ]
         },
         {
           "symbol": "6442",
@@ -518,7 +574,7 @@
           "name": "鈺鎧",
           "point": "被動元件漲價題材亮燈漲停",
           "limitUp": true,
-          "pct": 9.9,
+          "pct": 10,
           "luw": 3,
           "luwd": [
             "10/1",
@@ -608,6 +664,44 @@
         }
       ],
       "background": "國際油價強勢反彈，帶動台塑四寶營運展望，台塑化煉油與石化業務獲利改善預期。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTE9ZVjNjNjJwWUxCWGh0VFNyVFFWSzBwc1pwNDJPWjZyTTBUSVE4UFd1WWNKYmNaX0oxOV9IbV9JcVVPc2dNWVNOQUpSYmRPLWgyZUhpSGFaR2UtR0VuY0xtcXV1Ty0weGt6R1E",
+      "tkey": "熱門族群AgenticAI帶旺IP股！力旺、晶心科、M31搶吃升級商機-上市櫃",
+      "title": "《熱門族群》Agentic AI帶旺IP股！力旺、晶心科、M31搶吃升級商機- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20261002900197-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Fri, 02 Oct 2026 01:42:05 GMT",
+      "stocks": [
+        {
+          "symbol": "3529",
+          "name": "力旺",
+          "point": "卡位資安IP商機",
+          "limitUp": false
+        },
+        {
+          "symbol": "6533",
+          "name": "晶心科",
+          "point": "受惠RISC-V在Edge AI應用擴張",
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "10/1",
+            "9/30",
+            "9/29"
+          ]
+        },
+        {
+          "symbol": "6643",
+          "name": "M31",
+          "point": "低功耗記憶體IP鎖定Edge AI與AIoT市場",
+          "limitUp": false
+        }
+      ],
+      "background": "Agentic AI導入帶動單一裝置半導體IP數量與矽含量提升，IP產業進入「Content Growth」成長階段。Edge AI應用複雜化，對資安、RISC-V處理器及低功耗記憶體IP需求增加。",
       "themeTags": [
         "需求驅動"
       ]
@@ -822,13 +916,7 @@
           "name": "九豪",
           "point": "強攻漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 3,
-          "luwd": [
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "4760",
@@ -848,13 +936,7 @@
           "name": "華容",
           "point": "勁升逾半根停板",
           "limitUp": true,
-          "pct": 10,
-          "luw": 3,
-          "luwd": [
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6175",
@@ -867,13 +949,7 @@
           "name": "光頡",
           "point": "勁升逾半根停板",
           "limitUp": true,
-          "pct": 9.8,
-          "luw": 3,
-          "luwd": [
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 9.8
         },
         {
           "symbol": "2492",
@@ -940,7 +1016,13 @@
           "symbol": "3564",
           "name": "其陽",
           "point": "單季漲幅站上一成以上",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "10/1",
+            "9/30",
+            "9/29"
+          ]
         },
         {
           "symbol": "2397",
@@ -1026,7 +1108,13 @@
           "symbol": "3564",
           "name": "其陽",
           "point": "單季漲幅站上一成以上，具網通與資安題材",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "10/1",
+            "9/30",
+            "9/29"
+          ]
         },
         {
           "symbol": "2397",
@@ -1102,7 +1190,13 @@
           "point": "勁揚51.9%居次",
           "status": "逼近新高",
           "dist": -5.1,
-          "limitUp": false
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "10/1",
+            "9/30",
+            "9/29"
+          ]
         },
         {
           "symbol": "6168",
@@ -1284,7 +1378,13 @@
           "point": "勁揚51.9%居次",
           "status": "逼近新高",
           "dist": -5.1,
-          "limitUp": false
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "10/1",
+            "9/30",
+            "9/29"
+          ]
         },
         {
           "symbol": "6168",
