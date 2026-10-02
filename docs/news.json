@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-02T12:03:40.710+08:00",
-  "generatedAt": "2026-10-02T04:03:40.710Z",
+  "asOf": "2026-10-02T13:04:00.152+08:00",
+  "generatedAt": "2026-10-02T05:04:00.152Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -194,8 +194,7 @@
         "10/1"
       ],
       "mentions": 2,
-      "limitUp": true,
-      "pct": 10,
+      "limitUp": false,
       "luw": 3,
       "luwd": [
         "10/1",
@@ -229,8 +228,7 @@
         "10/1"
       ],
       "mentions": 2,
-      "limitUp": true,
-      "pct": 9.9,
+      "limitUp": false,
       "luw": 3,
       "luwd": [
         "10/1",
@@ -322,14 +320,14 @@
           "symbol": "3081",
           "name": "聯亞",
           "point": "強鎖漲停，布局InP磊晶與高速光通訊元件",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "4971",
           "name": "IET-KY",
           "point": "強鎖漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "3105",
@@ -337,7 +335,8 @@
           "point": "強鎖漲停",
           "status": "逼近新高",
           "dist": -6.8,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "4908",
@@ -402,7 +401,8 @@
           "symbol": "8289",
           "name": "泰藝",
           "point": "連噴2根漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 3,
           "luwd": [
             "10/1",
@@ -461,8 +461,7 @@
           "symbol": "3081",
           "name": "聯亞",
           "point": "布局InP磊晶與高速光通訊元件受關注",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "4979",
@@ -501,8 +500,7 @@
           "symbol": "3236",
           "name": "千如",
           "point": "被動元件漲價題材亮燈漲停",
-          "limitUp": true,
-          "pct": 10,
+          "limitUp": false,
           "luw": 3,
           "luwd": [
             "10/1",
@@ -526,8 +524,7 @@
           "symbol": "4760",
           "name": "勤凱",
           "point": "被動元件漲價題材亮燈漲停",
-          "limitUp": true,
-          "pct": 9.9,
+          "limitUp": false,
           "luw": 3,
           "luwd": [
             "10/1",

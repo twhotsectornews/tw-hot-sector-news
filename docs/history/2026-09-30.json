@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "updatedAt": "2026-10-02T04:03:40.699Z",
+  "updatedAt": "2026-10-02T05:04:00.149Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE1ZdXZ1M2dGRHpOcDJ1SXltY2xPU040bHIzX3VRR3Vhdkx1QkpZSzFMdGxUdk5Ia2JMS21IS1lGby0teXBxakRRTTg2T0FiRDIwTTVTQTQ4MTQ",
@@ -10,7 +10,7 @@
       "source": "自由時報",
       "pubDate": "Wed, 30 Sep 2026 13:00:41 GMT",
       "stocks": [],
-      "background": "AI伺服器與高效能運算（HPC）需求激增，傳統氣冷散熱已不足，水冷散熱技術成為主流，帶動相關供應鏈營運成長。",
+      "background": "AI 伺服器與高效能運算需求增長，帶動水冷散熱技術發展，市場資金轉向散熱族群。",
       "themeTags": [
         "需求驅動"
       ]
@@ -23,7 +23,7 @@
       "source": "自由時報",
       "pubDate": "Wed, 30 Sep 2026 07:29:23 GMT",
       "stocks": [],
-      "background": "輝達（NVIDIA）推出新AI架構，推動AI伺服器散熱技術升級，水冷散熱需求持續增溫，相關供應商受惠。",
+      "background": "輝達GTC大會推出新AI架構，預期將推升AI伺服器散熱需求，激勵相關散熱個股表現。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
