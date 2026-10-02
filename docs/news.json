@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-02T13:04:00.152+08:00",
-  "generatedAt": "2026-10-02T05:04:00.152Z",
+  "asOf": "2026-10-02T14:05:24.103+08:00",
+  "generatedAt": "2026-10-02T06:05:24.103Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -194,7 +194,8 @@
         "10/1"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 3,
       "luwd": [
         "10/1",
@@ -211,7 +212,8 @@
         "10/1"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 3,
       "luwd": [
         "10/1",
@@ -228,7 +230,8 @@
         "10/1"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 3,
       "luwd": [
         "10/1",
@@ -245,7 +248,8 @@
         "10/1"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 1,
       "luwd": [
         "10/1"
@@ -313,8 +317,7 @@
           "symbol": "4991",
           "name": "環宇-KY",
           "point": "強鎖漲停",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "3081",
@@ -326,8 +329,7 @@
           "symbol": "4971",
           "name": "IET-KY",
           "point": "強鎖漲停",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "3105",
@@ -335,8 +337,7 @@
           "point": "強鎖漲停",
           "status": "逼近新高",
           "dist": -6.8,
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "4908",
@@ -348,7 +349,8 @@
           "symbol": "6442",
           "name": "光聖",
           "point": "大漲逾6%，卡位CPO、光纖與高速連接",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "3163",
@@ -402,7 +404,7 @@
           "name": "泰藝",
           "point": "連噴2根漲停",
           "limitUp": true,
-          "pct": 10,
+          "pct": 9.9,
           "luw": 3,
           "luwd": [
             "10/1",
@@ -414,7 +416,8 @@
           "symbol": "6174",
           "name": "安碁",
           "point": "連噴2根漲停，車用電子與AI商機",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 3,
           "luwd": [
             "10/1",
@@ -479,7 +482,8 @@
           "symbol": "6442",
           "name": "光聖",
           "point": "光纖與高速連接布局受關注",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         }
       ],
       "background": "美國政策轉向，可能要求光收發模組提高美國供應鏈含量，台廠有望迎來轉單商機。",
@@ -500,7 +504,8 @@
           "symbol": "3236",
           "name": "千如",
           "point": "被動元件漲價題材亮燈漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 3,
           "luwd": [
             "10/1",
@@ -512,7 +517,8 @@
           "symbol": "5228",
           "name": "鈺鎧",
           "point": "被動元件漲價題材亮燈漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 3,
           "luwd": [
             "10/1",
@@ -524,7 +530,8 @@
           "symbol": "4760",
           "name": "勤凱",
           "point": "被動元件漲價題材亮燈漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 3,
           "luwd": [
             "10/1",
@@ -536,7 +543,8 @@
           "symbol": "2492",
           "name": "華新科",
           "point": "被動元件漲價題材亮燈漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "10/1"
