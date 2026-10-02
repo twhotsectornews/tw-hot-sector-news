@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "updatedAt": "2026-10-02T15:43:37.646Z",
+  "updatedAt": "2026-10-02T16:22:57.644Z",
   "news": [
     {
       "gid": "CBMikgFBVV95cUxPTXZiYmtTUXFCMVotcUVUV0p4Zmd6YWJjTEstSzR4TlU1amRoZ2VIajEtZVotbk9LREpzYWJkZ0ZIek9hLU5iQWlYQ0MtUUdlX0tXSm41b3U4azdLUGxUMDdhcjNpVnJTWFJwNzV2SndIVkxRUm1EUXJhMlE4djdIV19rSm1Cc0VtLTJWelItX19BZw",
@@ -56,8 +56,9 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.9,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "10/2",
             "10/1",
             "9/30"
           ]
@@ -68,8 +69,9 @@
           "point": "高頻高速CCL樹脂材料供不應求",
           "limitUp": true,
           "pct": 10,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "10/2",
             "10/1"
           ]
         },
@@ -79,7 +81,11 @@
           "point": "擴大布局電子級硫酸事業",
           "status": "逼近新高",
           "dist": -8,
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/2"
+          ]
         }
       ],
       "background": "化工股受惠於跨入半導體產業，搭上AI多頭列車，開發高值化特殊化學材料，應用於高階載板、CoWoS封裝等領域，帶動營運成長。",
@@ -138,8 +144,9 @@
           "point": "強攻漲停",
           "limitUp": true,
           "pct": 10,
-          "luw": 3,
+          "luw": 4,
           "luwd": [
+            "10/2",
             "10/1",
             "9/30",
             "9/29"
@@ -162,8 +169,9 @@
           "point": "強攻漲停",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 3,
+          "luw": 4,
           "luwd": [
+            "10/2",
             "10/1",
             "9/30",
             "9/29"
@@ -182,8 +190,9 @@
           "point": "強攻漲停",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 3,
+          "luw": 4,
           "luwd": [
+            "10/2",
             "10/1",
             "9/30",
             "9/29"
@@ -215,8 +224,9 @@
           "point": "勁升逾半根停板，受惠日韓大廠訂單",
           "limitUp": true,
           "pct": 9.8,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "10/2",
             "10/1"
           ]
         },
@@ -275,8 +285,9 @@
           "name": "其陽",
           "point": "單季漲幅站上一成以上",
           "limitUp": false,
-          "luw": 3,
+          "luw": 4,
           "luwd": [
+            "10/2",
             "10/1",
             "9/30",
             "9/29"
@@ -367,8 +378,9 @@
           "name": "其陽",
           "point": "單季漲幅站上一成以上，具網通與資安題材",
           "limitUp": false,
-          "luw": 3,
+          "luw": 4,
           "luwd": [
+            "10/2",
             "10/1",
             "9/30",
             "9/29"
@@ -449,8 +461,9 @@
           "status": "逼近新高",
           "dist": -5.1,
           "limitUp": false,
-          "luw": 3,
+          "luw": 4,
           "luwd": [
+            "10/2",
             "10/1",
             "9/30",
             "9/29"
@@ -576,7 +589,11 @@
           "point": "與台塑集團合資新公司，擴大電子級硫酸事業",
           "status": "高檔修正",
           "dist": -12,
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/2"
+          ]
         }
       ],
       "background": "台塑集團加碼半導體化學品布局，南亞受惠AI需求帶動CCL報價攀升，電子材料營收比重走揚。",
@@ -637,8 +654,9 @@
           "status": "逼近新高",
           "dist": -5.1,
           "limitUp": false,
-          "luw": 3,
+          "luw": 4,
           "luwd": [
+            "10/2",
             "10/1",
             "9/30",
             "9/29"
