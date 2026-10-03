@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-03T00:22:57.647+08:00",
-  "generatedAt": "2026-10-02T16:22:57.647Z",
+  "asOf": "2026-10-03T11:03:18.454+08:00",
+  "generatedAt": "2026-10-03T03:03:18.454Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -210,14 +210,7 @@
       ],
       "mentions": 2,
       "limitUp": true,
-      "pct": 10,
-      "luw": 4,
-      "luwd": [
-        "10/2",
-        "10/1",
-        "9/30",
-        "9/29"
-      ]
+      "pct": 10
     },
     {
       "symbol": "5228",
@@ -229,14 +222,7 @@
       ],
       "mentions": 2,
       "limitUp": true,
-      "pct": 10,
-      "luw": 4,
-      "luwd": [
-        "10/2",
-        "10/1",
-        "9/30",
-        "9/29"
-      ]
+      "pct": 10
     },
     {
       "symbol": "4760",
@@ -248,14 +234,7 @@
       ],
       "mentions": 2,
       "limitUp": true,
-      "pct": 9.9,
-      "luw": 4,
-      "luwd": [
-        "10/2",
-        "10/1",
-        "9/30",
-        "9/29"
-      ]
+      "pct": 9.9
     },
     {
       "symbol": "2492",
@@ -314,6 +293,19 @@
   ],
   "news": [
     {
+      "gid": "CBMiWEFVX3lxTE9yUGVoWXhjRUxTN3VhSm02TmdBTWFsRmNjNW1rSXhya3ZPYndoLWlHVGRUZHNpcUNXRUI1S2xWS3ZacWJwWlZaeEhPM21ocUthWS1zUVFRVW4",
+      "tkey": "熱門族群AI伺服器持續升級散熱族群熱呼呼",
+      "title": "熱門族群》AI伺服器持續升級 散熱族群熱呼呼 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/u2br8jd8cvgb",
+      "source": "自由時報",
+      "pubDate": "Fri, 02 Oct 2026 05:47:37 GMT",
+      "stocks": [],
+      "background": "AI伺服器持續升級，對散熱效能要求提高，帶動散熱模組需求增長，產業景氣受惠。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNb1U0UDNkcFBuV1VsdlBha0FPdW8tQzNUV0ItN1RINTR1T2VzbERxbzZma2l5TDdCWmoyMW5tcHZka1Vfbm5DZHVYZXZhVWlkNG9TMnBscld1VnhnNEVlSWdoWTJSSEItc0llSjhYckpLRWlKcVVVQURNdTN5UWIwQVVIaE9pdmNB",
       "tkey": "熱門族群矽光子回來了！迎轉單利多聯亞等5顆紅燈高掛",
       "title": "《熱門族群》矽光子回來了！迎轉單利多 聯亞等5顆紅燈高掛 - 富聯網",
@@ -326,42 +318,21 @@
           "name": "環宇-KY",
           "point": "強鎖漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "3081",
           "name": "聯亞",
           "point": "強鎖漲停，布局InP磊晶與高速光通訊元件",
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "4971",
           "name": "IET-KY",
           "point": "強鎖漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "3105",
@@ -370,28 +341,14 @@
           "status": "逼近新高",
           "dist": -6.8,
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "4908",
           "name": "前鼎",
           "point": "強鎖漲停",
           "limitUp": true,
-          "pct": 9.8,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 9.8
         },
         {
           "symbol": "6442",
@@ -409,14 +366,7 @@
           "name": "波若威",
           "point": "大漲逾6%，卡位CPO",
           "limitUp": true,
-          "pct": 9.5,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 9.5
         },
         {
           "symbol": "3450",
@@ -464,28 +414,14 @@
           "name": "泰藝",
           "point": "連噴2根漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6174",
           "name": "安碁",
           "point": "連噴2根漲停，車用電子與AI商機",
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "8182",
@@ -527,14 +463,7 @@
           "name": "聯亞",
           "point": "布局InP磊晶與高速光通訊元件受關注",
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "4979",
@@ -547,14 +476,7 @@
           "name": "波若威",
           "point": "CPO布局受關注",
           "limitUp": true,
-          "pct": 9.5,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 9.5
         },
         {
           "symbol": "6442",
@@ -587,42 +509,21 @@
           "name": "千如",
           "point": "被動元件漲價題材亮燈漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "5228",
           "name": "鈺鎧",
           "point": "被動元件漲價題材亮燈漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "4760",
           "name": "勤凱",
           "point": "被動元件漲價題材亮燈漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "2492",
@@ -915,14 +816,7 @@
           "name": "千如",
           "point": "強攻漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6155",
@@ -940,14 +834,7 @@
           "name": "鈺鎧",
           "point": "強攻漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6127",
@@ -961,14 +848,7 @@
           "name": "勤凱",
           "point": "強攻漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "5328",
@@ -1056,14 +936,7 @@
           "symbol": "3564",
           "name": "其陽",
           "point": "單季漲幅站上一成以上",
-          "limitUp": false,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "2397",
@@ -1149,14 +1022,7 @@
           "symbol": "3564",
           "name": "其陽",
           "point": "單季漲幅站上一成以上，具網通與資安題材",
-          "limitUp": false,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "2397",
@@ -1232,14 +1098,7 @@
           "point": "勁揚51.9%居次",
           "status": "逼近新高",
           "dist": -5.1,
-          "limitUp": false,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "6168",
@@ -1425,14 +1284,7 @@
           "point": "勁揚51.9%居次",
           "status": "逼近新高",
           "dist": -5.1,
-          "limitUp": false,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "6168",
