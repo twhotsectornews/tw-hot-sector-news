@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "updatedAt": "2026-10-03T05:02:51.830Z",
+  "updatedAt": "2026-10-03T06:03:34.704Z",
   "news": [
     {
       "gid": "CBMikgFBVV95cUxPTXZiYmtTUXFCMVotcUVUV0p4Zmd6YWJjTEstSzR4TlU1amRoZ2VIajEtZVotbk9LREpzYWJkZ0ZIek9hLU5iQWlYQ0MtUUdlX0tXSm41b3U4azdLUGxUMDdhcjNpVnJTWFJwNzV2SndIVkxRUm1EUXJhMlE4djdIV19rSm1Cc0VtLTJWelItX19BZw",
@@ -13,31 +13,29 @@
         {
           "symbol": "8046",
           "name": "南電",
-          "point": "股價強勢突破1400元大關，漲幅逼近6%，成為今日族群領頭羊",
+          "point": "領軍ABF三雄攻高，突破1400元大關",
           "status": "逼近新高",
-          "dist": -2.1,
-          "limitUp": false
-        },
-        {
-          "symbol": "3189",
-          "name": "景碩",
-          "point": "收盤前加速攻高，漲幅拉升至4%以上，收在1010元，站上千元關卡",
-          "status": "逼近新高",
-          "dist": -1,
-          "limitUp": false
+          "dist": -1.4
         },
         {
           "symbol": "3037",
           "name": "欣興",
-          "point": "終場上漲3.4%，為1215元，盤中最高觸及1230元，同樣改寫歷史新高",
+          "point": "股價上漲3.4%，改寫歷史新高",
+          "status": "創新高",
+          "dist": 0
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "收盤站上千元關卡，漲幅逾4%",
           "status": "逼近新高",
-          "dist": -1.2,
-          "limitUp": false
+          "dist": -1.9
         }
       ],
-      "background": "ABF載板受AI運算市場ASIC滲透率提升帶動，高階載板需求增加，市場供給吃緊情況可望維持至2030年前。",
+      "background": "ABF載板受AI運算市場ASIC滲透率提升帶動，AI伺服器對高階PCB、低損耗材料及ABF載板需求增加。市場預期供給吃緊將維持至2030年。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "循環位置"
       ]
     },
     {

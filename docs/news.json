@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-03T13:02:51.834+08:00",
-  "generatedAt": "2026-10-03T05:02:51.834Z",
+  "asOf": "2026-10-03T14:03:34.708+08:00",
+  "generatedAt": "2026-10-03T06:03:34.708Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -101,8 +101,7 @@
       ],
       "mentions": 4,
       "status": "逼近新高",
-      "dist": -1,
-      "limitUp": false
+      "dist": -1.9
     },
     {
       "symbol": "3529",
@@ -125,8 +124,7 @@
       ],
       "mentions": 3,
       "status": "逼近新高",
-      "dist": -2.1,
-      "limitUp": false
+      "dist": -1.4
     },
     {
       "symbol": "3037",
@@ -137,9 +135,8 @@
         "9/29"
       ],
       "mentions": 3,
-      "status": "逼近新高",
-      "dist": -1.2,
-      "limitUp": false
+      "status": "創新高",
+      "dist": 0
     },
     {
       "symbol": "1727",
@@ -299,9 +296,58 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6318733001&PU=1002",
       "source": "富聯網",
       "pubDate": "Sat, 03 Oct 2026 03:51:00 GMT",
-      "stocks": [],
-      "background": "",
-      "themeTags": []
+      "stocks": [
+        {
+          "symbol": "7846",
+          "name": "德揚",
+          "point": "單周狂飆近5成，奪興櫃周漲幅冠軍",
+          "status": "逼近新高",
+          "dist": -5.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "6812",
+          "name": "梭特",
+          "point": "獲印能科技策略入股，股價大漲逾4成",
+          "limitUp": false
+        },
+        {
+          "symbol": "7734",
+          "name": "印能科技",
+          "point": "斥資3億元策略入股梭特",
+          "limitUp": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "法說行情提前點火，帶動供應鏈",
+          "status": "逼近新高",
+          "dist": -1.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "6515",
+          "name": "穎崴",
+          "point": "受輝達GPU探針卡題材帶動股價走強",
+          "limitUp": false
+        },
+        {
+          "symbol": "6223",
+          "name": "旺矽",
+          "point": "受輝達GPU探針卡題材帶動股價走強",
+          "limitUp": false
+        },
+        {
+          "symbol": "6838",
+          "name": "勵威",
+          "point": "自主研發MEMS探針卡，預計第四季出貨",
+          "limitUp": false
+        }
+      ],
+      "background": "台積電法說會前，市場資金提前布局半導體供應鏈，特別是興櫃市場的相關題材股。先進製程與封裝需求帶動清洗服務與設備廠表現。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiWEFVX3lxTE9yUGVoWXhjRUxTN3VhSm02TmdBTWFsRmNjNW1rSXhya3ZPYndoLWlHVGRUZHNpcUNXRUI1S2xWS3ZacWJwWlZaeEhPM21ocUthWS1zUVFRVW4",
