@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "updatedAt": "2026-10-03T14:56:15.840Z",
+  "updatedAt": "2026-10-04T03:03:13.547Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE9yUGVoWXhjRUxTN3VhSm02TmdBTWFsRmNjNW1rSXhya3ZPYndoLWlHVGRUZHNpcUNXRUI1S2xWS3ZacWJwWlZaeEhPM21ocUthWS1zUVFRVW4",
@@ -28,42 +28,21 @@
           "name": "環宇-KY",
           "point": "強鎖漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "3081",
           "name": "聯亞",
           "point": "強鎖漲停，布局InP磊晶與高速光通訊元件",
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "4971",
           "name": "IET-KY",
           "point": "強鎖漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "3105",
@@ -72,28 +51,14 @@
           "status": "逼近新高",
           "dist": -6.8,
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "4908",
           "name": "前鼎",
           "point": "強鎖漲停",
           "limitUp": true,
-          "pct": 9.8,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 9.8
         },
         {
           "symbol": "6442",
@@ -111,14 +76,7 @@
           "name": "波若威",
           "point": "大漲逾6%，卡位CPO",
           "limitUp": true,
-          "pct": 9.5,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 9.5
         },
         {
           "symbol": "3450",
@@ -166,28 +124,14 @@
           "name": "泰藝",
           "point": "連噴2根漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6174",
           "name": "安碁",
           "point": "連噴2根漲停，車用電子與AI商機",
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "8182",
@@ -229,14 +173,7 @@
           "name": "聯亞",
           "point": "布局InP磊晶與高速光通訊元件受關注",
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "4979",
@@ -249,14 +186,7 @@
           "name": "波若威",
           "point": "CPO布局受關注",
           "limitUp": true,
-          "pct": 9.5,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 9.5
         },
         {
           "symbol": "6442",
@@ -289,42 +219,21 @@
           "name": "千如",
           "point": "被動元件漲價題材亮燈漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "5228",
           "name": "鈺鎧",
           "point": "被動元件漲價題材亮燈漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "4760",
           "name": "勤凱",
           "point": "被動元件漲價題材亮燈漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "2492",

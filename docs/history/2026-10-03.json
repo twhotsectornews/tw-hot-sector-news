@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-03",
+  "updatedAt": "2026-10-04T03:03:13.546Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQVnhHTXdKYU1pblNhcExYX0UwRFZ5cmF3MHZBVEdtNkdoRjFsbGYzWG0yU0FfZVhVT2pVZ2M3MTdOZlBWN0lkN0lrNWFkTmplcXZhODEzMFpPczBuT1JCNVQ2dDNmbDJJRWpXWFNLbVRjbld5cnF2Y2NRWFhOeTFPTVhpTVRmYkRs",
+      "tkey": "熱門族群台積法說行情延燒興櫃德揚、梭特扮先鋒周漲幅逾4成",
+      "title": "《熱門族群》台積法說行情延燒興櫃 德揚、梭特扮先鋒 周漲幅逾4成 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6318733001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sat, 03 Oct 2026 03:51:00 GMT",
+      "stocks": [
+        {
+          "symbol": "7846",
+          "name": "德揚",
+          "point": "單周狂飆近5成，奪興櫃周漲幅冠軍",
+          "status": "逼近新高",
+          "dist": -5.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "6812",
+          "name": "梭特",
+          "point": "獲印能科技策略入股，股價大漲逾4成",
+          "limitUp": false
+        },
+        {
+          "symbol": "7734",
+          "name": "印能科技",
+          "point": "斥資3億元策略入股梭特",
+          "limitUp": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "法說行情提前點火，帶動供應鏈",
+          "status": "逼近新高",
+          "dist": -1.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "6515",
+          "name": "穎崴",
+          "point": "受輝達GPU探針卡題材帶動股價走強",
+          "limitUp": false
+        },
+        {
+          "symbol": "6223",
+          "name": "旺矽",
+          "point": "受輝達GPU探針卡題材帶動股價走強",
+          "limitUp": false
+        },
+        {
+          "symbol": "6838",
+          "name": "勵威",
+          "point": "自主研發MEMS探針卡，預計第四季出貨",
+          "limitUp": false
+        }
+      ],
+      "background": "台積電法說會前，市場資金提前布局半導體供應鏈，特別是興櫃市場的相關題材股。先進製程與封裝需求帶動清洗服務與設備廠表現。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}
