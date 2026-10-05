@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-04",
+  "updatedAt": "2026-10-05T03:05:49.620Z",
+  "news": [
+    {
+      "gid": "CBMiWEFVX3lxTFBIN3JYM0VpZEdRZHdNajZ1VUlwcGJLT1BoRmNydjVRbVY4N3o4ZVZMQWltcVRyVW5pcGxuaVAzWnBRcjBVRGJBNkMyQ29ITmRTb0hqTG9NeXA",
+      "tkey": "熱門族群AI盡頭是電力重電族群扮演基建要角",
+      "title": "熱門族群》 AI盡頭是電力 重電族群扮演基建要角 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/qjy05zlmpyf6",
+      "source": "自由時報",
+      "pubDate": "Sun, 04 Oct 2026 05:51:03 GMT",
+      "stocks": [],
+      "background": "AI發展對電力需求劇增，重電族群作為基礎建設要角，受惠於全球電網升級與能源轉型趨勢。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiX0FVX3lxTE5TYlBXN1h3V2VfVUZlR0J1dW84THlzZkxRSERBZFZhdEI5eHhCMUpVX2dpVGVyS3RvTVh4b2loWFA4b1VNUXJsQXNpSmlQblZ5SzBVMlcxZlFwekZCRUFZ0gFkQVVfeXFMTVZlWXlKc3Fqa3pPZ3l3eDlXdTRZM1Q2YkxuUkx3dWdDczgyMnNjaVo3UmtGamJ2bnZ0SS1QaldpNWJheFRjQW5Gbm9RU3VxXy1NS3pSQ1hWOUl6WXduUWhZdEQ3ag",
+      "tkey": "熱門族群AI擴產潮席捲上下游矽晶圓族群喜迎漲價循環",
+      "title": "熱門族群》AI擴產潮席捲上下游 矽晶圓族群喜迎漲價循環 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5593798",
+      "source": "自由財經",
+      "pubDate": "Sat, 03 Oct 2026 23:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6488",
+          "name": "環球晶",
+          "point": "重返千金股，迎漲價循環",
+          "limitUp": true,
+          "pct": 9.7,
+          "luw": 4,
+          "luwd": [
+            "10/2",
+            "10/1",
+            "9/30",
+            "9/29"
+          ]
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "受惠AI需求，擴大12吋先進製程",
+          "limitUp": false
+        },
+        {
+          "symbol": "6182",
+          "name": "合晶",
+          "point": "產能滿載，產品價格調漲",
+          "limitUp": false
+        }
+      ],
+      "background": "AI晶片與記憶體擴產潮帶動矽晶圓需求，從先進製程外溢至成熟製程，12吋矽晶圓供給吃緊，產業進入漲價循環。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiX0FVX3lxTFBEbHBKWDAwUmlGQTBaU3h4bkY4TVNWZHZQeHNFMWROWjRwZ0NhRXBsdHR3dTkwTGw3bU45UWM2aER5eC1oVWFkbjF6WFM0aWRQRFRpcDNtSm1nMHkzWU130gFkQVVfeXFMT3Z3UUdua3VhM2VxNVJrZzVjR3NHajFvTzBvSksyME1fRlR0NmZSc3Z2V2J0M25tWmZJdkNsc2pGanZXbXdpaTUza0RWUWZZRGVKN2JTdm9nSXFPWHVZOXE1Z2NJRA",
+      "tkey": "熱門族群ABF載板缺口擴大載板廠成長動能加溫",
+      "title": "熱門族群》ABF載板缺口擴大 載板廠成長動能加溫 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5593811",
+      "source": "自由財經",
+      "pubDate": "Sat, 03 Oct 2026 23:00:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "擴充高階ABF載板，訂單能見度佳",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "受惠ABF載板供需短缺及漲價",
+          "status": "逼近新高",
+          "dist": -1.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "獲輝達大單，啟動新一輪擴產",
+          "status": "逼近新高",
+          "dist": -1.9,
+          "limitUp": false
+        }
+      ],
+      "background": "AI伺服器、HPC等需求強勁，ABF載板市場進入超級循環，供應缺口擴大，價格逐季調漲，預計缺貨至2028年。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    }
+  ]
+}
