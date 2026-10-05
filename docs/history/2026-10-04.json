@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "updatedAt": "2026-10-05T06:02:29.223Z",
+  "updatedAt": "2026-10-05T09:42:33.697Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTFBIN3JYM0VpZEdRZHdNajZ1VUlwcGJLT1BoRmNydjVRbVY4N3o4ZVZMQWltcVRyVW5pcGxuaVAzWnBRcjBVRGJBNkMyQ29ITmRTb0hqTG9NeXA",
@@ -29,14 +29,7 @@
           "name": "環球晶",
           "point": "重返千金股，迎漲價循環",
           "limitUp": true,
-          "pct": 9.7,
-          "luw": 4,
-          "luwd": [
-            "10/2",
-            "10/1",
-            "9/30",
-            "9/29"
-          ]
+          "pct": 9.7
         },
         {
           "symbol": "3532",
