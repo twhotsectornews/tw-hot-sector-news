@@ -1,11 +1,30 @@
 {
-  "asOf": "2026-10-05T12:02:43.106+08:00",
-  "generatedAt": "2026-10-05T04:02:43.106Z",
+  "asOf": "2026-10-05T13:03:29.187+08:00",
+  "generatedAt": "2026-10-05T05:03:29.187Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "2409",
+      "name": "友達",
+      "days": 4,
+      "dates": [
+        "10/5",
+        "10/1",
+        "9/30",
+        "9/29"
+      ],
+      "mentions": 5,
+      "status": "逼近新高",
+      "dist": -8,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "9/30"
+      ]
+    },
     {
       "symbol": "1301",
       "name": "台塑",
@@ -20,25 +39,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2409",
-      "name": "友達",
-      "days": 4,
-      "dates": [
-        "10/5",
-        "10/1",
-        "9/30",
-        "9/29"
-      ],
-      "mentions": 4,
-      "status": "逼近新高",
-      "dist": -8,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "9/30"
-      ]
-    },
-    {
       "symbol": "3189",
       "name": "景碩",
       "days": 3,
@@ -51,6 +51,22 @@
       "status": "逼近新高",
       "dist": -1.9,
       "limitUp": false
+    },
+    {
+      "symbol": "3481",
+      "name": "群創",
+      "days": 3,
+      "dates": [
+        "10/5",
+        "10/1",
+        "9/30"
+      ],
+      "mentions": 4,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "9/30"
+      ]
     },
     {
       "symbol": "3037",
@@ -117,22 +133,6 @@
       "status": "逼近新高",
       "dist": -3.6,
       "limitUp": false
-    },
-    {
-      "symbol": "3481",
-      "name": "群創",
-      "days": 3,
-      "dates": [
-        "10/5",
-        "10/1",
-        "9/30"
-      ],
-      "mentions": 3,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "9/30"
-      ]
     },
     {
       "symbol": "3532",
@@ -337,6 +337,43 @@
         }
       ],
       "background": "面板產業景氣回升，面板雙虎積極轉型半導體先進封裝與Micro LED等高階應用，市場關注轉型效益。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMikgFBVV95cUxNMDA3ZTFTaFNXNWJ0LV9ReXplQ2RmZENsZnBQeUtxZGZTMk9iaVBFTzNkamJPTmNaZC00b1RJYUQ2cE1EeUFQdm9DOVdhMVBEM0NYekoyS29qQmY5M3ZtQTY0V1hVaEl3LW44VnJfb2JON2hRN2ROWEF4bkRYbURJaVFXWjZ0S3hQMjNVNkFpRHFvZw",
+      "tkey": "熱門族群面板雙虎高檔警報響！友達創高秒變臉群創苦守5日線-ww2.money",
+      "title": "《熱門族群》面板雙虎高檔警報響！友達創高秒變臉 群創苦守5日線 - ww2.money-link.com.tw",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6319945001&pu=News_0002_3",
+      "source": "ww2.money-link.com.tw",
+      "pubDate": "Mon, 05 Oct 2026 02:31:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "股價創高後變臉",
+          "status": "逼近新高",
+          "dist": -9.8,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/30"
+          ]
+        },
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "point": "股價苦守5日線",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "9/30"
+          ]
+        }
+      ],
+      "background": "面板產業受惠於電視面板需求回溫及庫存去化，加上奧運備貨潮，產業景氣有望自谷底翻揚，但高檔警報響起。",
       "themeTags": [
         "需求驅動",
         "循環位置"
