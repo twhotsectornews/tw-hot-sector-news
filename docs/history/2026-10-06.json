@@ -1,0 +1,355 @@
+{
+  "date": "2026-10-06",
+  "updatedAt": "2026-10-06T16:56:37.560Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPYVppUUlvNEl1Q0lQVXFueDFYUGR4WG9XRkxLbjVLa1FBZVVYLXBGcnpsYjZRLUFRZDk2ZVdVQWxfNkVPTElwekJxQ1FUc25JMFN1Y2phQmpieURYdFFDN21vS3NDVHJmMzVkMW9EcGlReFFBMGJfRzVHMEx3MGR2U1VkbmM3d2VD",
+      "tkey": "熱門族群蘇姿丰炫風訪台！下午直奔台積電鬆口將擴大投資",
+      "title": "《熱門族群》蘇姿丰炫風訪台！下午直奔台積電 鬆口將擴大投資 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6321361001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 06 Oct 2026 05:22:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "AMD擴大投資，深化合作夥伴關係",
+          "status": "創新高",
+          "dist": -0.2,
+          "limitUp": false
+        }
+      ],
+      "background": "AMD董事長蘇姿丰訪台，與台灣AI與半導體供應鏈高層會談，強調AI算力需求強勁，將擴大投資並深化與台積電等夥伴的合作。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOTUhJZzVscE9MbUdmV0ZRTDdzS3ZZYnByaDdJV0pqVExBYkJjUThyRVBLNUtmZHpaeUxyMU8wN0VVa1REX3k5Zkg0ZENrRG5PeFhvYjkyejBuR0VzQTFKQmQwVi1teDZTUkp4a1pTSzRsV3YzcEJuTUZfbFJBakYwLTFRaGlBTnlr",
+      "tkey": "熱門族群大立光法說前罩光學股聯一光又天價鎖燈",
+      "title": "《熱門族群》大立光法說前罩光學股 聯一光又天價鎖燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6321279001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 06 Oct 2026 03:54:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "法說會前扮演撐盤要角",
+          "status": "創新高",
+          "dist": -0.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "法說會前吸引買盤卡位",
+          "status": "高檔修正",
+          "dist": -14.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "3441",
+          "name": "聯一光",
+          "point": "連鎖漲停創天價",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "10/6",
+            "10/5",
+            "10/2",
+            "10/1",
+            "9/30"
+          ]
+        },
+        {
+          "symbol": "3630",
+          "name": "新鉅科",
+          "point": "股價攜手走揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "6498",
+          "name": "久禾光",
+          "point": "股價攜手走揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "3362",
+          "name": "先進光",
+          "point": "股價攜手走揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "6517",
+          "name": "保勝光學",
+          "point": "股價攜手走揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "力守盤上",
+          "status": "逼近新高",
+          "dist": -8.3,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "6209",
+          "name": "今國光",
+          "point": "力守盤上",
+          "limitUp": false
+        }
+      ],
+      "background": "光學股受惠於大立光法說會前對CPO、光纖陣列等新技術布局的關注，以及聯一光切入AI新興應用，帶動族群表現。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQZDBiZXZIa25nR053MVJlZEEyQllGMXJvNkFiQVRfZTh2NG1SSGxONU11YWdaRDE5YU5GZHF0eG4xRFlmaGluUnUtYVBXZ3h5UHdQU1BZTXA3RlVMcFFjLVBsTnpZNU1TMDUxOWVCem4tVmpHSldUOG1ZMEJxdk51MVdCa3VzLUNM",
+      "tkey": "熱門族群SpaceX狂噴！低軌衛星沾光2檔閃紅燈",
+      "title": "《熱門族群》SpaceX狂噴！低軌衛星沾光 2檔閃紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6321217001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 06 Oct 2026 02:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "7717",
+          "name": "萊德光電-KY",
+          "point": "盤初衝漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6152",
+          "name": "百一",
+          "point": "盤初衝漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "10/6",
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "3491",
+          "name": "昇達科",
+          "point": "低軌衛星業務高速成長，股價續強",
+          "limitUp": false
+        },
+        {
+          "symbol": "4906",
+          "name": "正文",
+          "point": "股價逆勢走高",
+          "limitUp": false
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "股價逆勢走高",
+          "status": "逼近新高",
+          "dist": -7,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "6285",
+          "name": "啟碁",
+          "point": "股價逆勢走高",
+          "limitUp": false
+        },
+        {
+          "symbol": "2485",
+          "name": "兆赫",
+          "point": "股價逆勢走高",
+          "limitUp": false
+        },
+        {
+          "symbol": "2313",
+          "name": "華通",
+          "point": "昨日帶隊攻頂",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "point": "昨日帶隊攻頂",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "昨日帶隊攻頂",
+          "status": "逼近新高",
+          "dist": -8.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "3701",
+          "name": "大眾控",
+          "point": "昨日帶隊攻頂",
+          "limitUp": false,
+          "luw": 4,
+          "luwd": [
+            "10/5",
+            "10/2",
+            "10/1",
+            "9/30"
+          ]
+        }
+      ],
+      "background": "低軌衛星受SpaceX成功發射載人任務與AI晶片上軌道利多激勵，科技巨頭押寶太空資料中心，帶動相關概念股轉強。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQOUJXZnJBa2pCMW5WNlBYUTE1aUFPVVZacy1HdGNDZDR1RC16Ukg1TFBwOS1pOC1lZTJ2M3RfQ1NTXzhsQUdSRktTZjU4UVZKeXpjRFZETm1majh5QnpFX3lrNG8yWWRyX0xTUE5fbmtOMkhublMzeEwyM21hVWxfYXVyUFhWNnBK",
+      "tkey": "熱門族群銅箔基板三雄營收強勁聯茂攻800元天價",
+      "title": "《熱門族群》銅箔基板三雄營收強勁 聯茂攻800元天價 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6321215001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 06 Oct 2026 02:53:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "9月營收創新高，股價開高大漲",
+          "status": "逼近新高",
+          "dist": -7,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "6213",
+          "name": "聯茂",
+          "point": "9月營收創新高，攻歷史新天價",
+          "status": "逼近新高",
+          "dist": -1.6,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "9月營收創新高，股價高檔震盪",
+          "status": "逼近新高",
+          "dist": -8.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "point": "三大法人加碼，股價創波段新高",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "3044",
+          "name": "健鼎",
+          "point": "三大法人買超，股價創逾2個月高點",
+          "status": "逼近新高",
+          "dist": -2.2,
+          "limitUp": false
+        }
+      ],
+      "background": "銅箔基板（CCL）受惠AI伺服器需求強勁，帶動營收大幅成長，產品漲價效應顯著，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNbXVGNlBtNDVyZkhDUEptRFNrUEJrNVpObDkzQlBMbnM2VmxRWUg3ZXY4c29GaVZJN1RMXzEzRjR1bFR1LTQ4MWJpcnpZOVQ4MlpZTVU0Smc2aVdHYWo4WTR1N1oxVFJBTmFjZU1XcFlqU1N5UDVpaXE0ckRtX29Id292S1d6dE1O",
+      "tkey": "熱門族群CCL三雄營收連袂創高日系外資喊買",
+      "title": "《熱門族群》CCL三雄營收連袂創高 日系外資喊買 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6321140001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 06 Oct 2026 01:51:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "9月營收與Q3營收創歷史新高",
+          "status": "逼近新高",
+          "dist": -7,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "9月營收與Q3營收創歷史新高",
+          "status": "逼近新高",
+          "dist": -8.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "6213",
+          "name": "聯茂",
+          "point": "9月營收與Q3營收創歷史新高",
+          "status": "逼近新高",
+          "dist": -1.6,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/5"
+          ]
+        }
+      ],
+      "background": "銅箔基板（CCL）受AI資料中心及高階交換機需求強勁，供不應求且漲價不斷，日系外資給予買進評等。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTFBSM285aU85VF9laHBWbHNRazhROC0zVVBnT2gzdnE4R0RjdWRyRmlvVEZVcXpwXzVhZmY2VWVkdllscFRQNG9uTHZNRFZIb1Q4S2w5OEdhRUc",
+      "tkey": "熱門族群ABF載板缺口擴大載板廠成長動能加溫",
+      "title": "熱門族群》ABF載板缺口擴大 載板廠成長動能加溫 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/raw1mzbmzuyf",
+      "source": "自由時報",
+      "pubDate": "Mon, 05 Oct 2026 21:07:57 GMT",
+      "stocks": [],
+      "background": "ABF載板因AI、HPC等高階晶片需求強勁，加上製程複雜度提升，導致供給吃緊，缺口持續擴大，產業處於景氣復甦階段。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    }
+  ]
+}

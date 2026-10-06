@@ -1,68 +1,11 @@
 {
-  "asOf": "2026-10-06T23:52:16.115+08:00",
-  "generatedAt": "2026-10-06T15:52:16.115Z",
+  "asOf": "2026-10-07T00:56:37.566+08:00",
+  "generatedAt": "2026-10-06T16:56:37.566Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
-    {
-      "symbol": "3532",
-      "name": "台勝科",
-      "days": 3,
-      "dates": [
-        "10/5",
-        "10/4",
-        "9/30"
-      ],
-      "mentions": 5
-    },
-    {
-      "symbol": "2409",
-      "name": "友達",
-      "days": 3,
-      "dates": [
-        "10/5",
-        "10/1",
-        "9/30"
-      ],
-      "mentions": 4,
-      "status": "逼近新高",
-      "dist": -8,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "9/30"
-      ]
-    },
-    {
-      "symbol": "3481",
-      "name": "群創",
-      "days": 3,
-      "dates": [
-        "10/5",
-        "10/1",
-        "9/30"
-      ],
-      "mentions": 4,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "9/30"
-      ]
-    },
-    {
-      "symbol": "1301",
-      "name": "台塑",
-      "days": 3,
-      "dates": [
-        "10/2",
-        "10/1",
-        "9/30"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
     {
       "symbol": "2368",
       "name": "金像電",
@@ -91,6 +34,16 @@
     {
       "symbol": "6488",
       "name": "環球晶",
+      "days": 2,
+      "dates": [
+        "10/5",
+        "10/4"
+      ],
+      "mentions": 4
+    },
+    {
+      "symbol": "3532",
+      "name": "台勝科",
       "days": 2,
       "dates": [
         "10/5",
@@ -148,12 +101,12 @@
       "limitUp": false
     },
     {
-      "symbol": "1727",
-      "name": "中華化",
+      "symbol": "2409",
+      "name": "友達",
       "days": 2,
       "dates": [
-        "10/1",
-        "9/30"
+        "10/5",
+        "10/1"
       ],
       "mentions": 3,
       "status": "逼近新高",
@@ -161,7 +114,22 @@
       "limitUp": false,
       "luw": 1,
       "luwd": [
-        "10/2"
+        "9/30"
+      ]
+    },
+    {
+      "symbol": "3481",
+      "name": "群創",
+      "days": 2,
+      "dates": [
+        "10/5",
+        "10/1"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "9/30"
       ]
     },
     {
@@ -272,38 +240,14 @@
       ]
     },
     {
-      "symbol": "6505",
-      "name": "台塑化",
+      "symbol": "1301",
+      "name": "台塑",
       "days": 2,
       "dates": [
         "10/2",
-        "9/30"
+        "10/1"
       ],
       "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "1326",
-      "name": "台化",
-      "days": 2,
-      "dates": [
-        "10/2",
-        "9/30"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 2,
-      "dates": [
-        "10/1",
-        "9/30"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -3.6,
       "limitUp": false
     }
   ],
@@ -365,11 +309,11 @@
           "pct": 9.9,
           "luw": 5,
           "luwd": [
+            "10/6",
             "10/5",
             "10/2",
             "10/1",
-            "9/30",
-            "9/29"
+            "9/30"
           ]
         },
         {
@@ -440,8 +384,9 @@
           "point": "盤初衝漲停",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "10/6",
             "10/5"
           ]
         },
