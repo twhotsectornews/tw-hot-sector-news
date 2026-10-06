@@ -1,7 +1,21 @@
 {
   "date": "2026-10-04",
-  "updatedAt": "2026-10-06T04:03:49.666Z",
+  "updatedAt": "2026-10-06T05:06:01.359Z",
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE9mc2ctc0hPd2ZBd1kwek83aHh3ak9NVTVCamotWDhCWFNiQnhfN2c2RWg0TnRVZXhISHVyQ2NTWWxOWU1kbjhIX3BCQmx4ZC1jbm1IMGxpODA",
+      "tkey": "熱門族群AI擴產潮席捲上下游矽晶圓族群喜迎漲價循環",
+      "title": "熱門族群》AI擴產潮席捲上下游 矽晶圓族群喜迎漲價循環 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/b7a2avzqgn6z",
+      "source": "自由時報",
+      "pubDate": "Sun, 04 Oct 2026 15:40:27 GMT",
+      "stocks": [],
+      "background": "矽晶圓族群受AI伺服器、HPC等需求帶動，半導體產業擴產潮席捲上下游，預期將迎來漲價循環，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPRXJlcmFmZlRUWjlKMjlXeVJGTERueVVneUNLUVQ3TlkyZXZ3NWpVc0dCOWNHWGk0THJ4TjFvc2xmcmR5ZEJUcFI5ZFhJRUhOUGpUb0tRWkdvZE1obFFfTjlrNjNCY2Y5LVhaZWZndEJGSmJza3lQSDEzZlQtdXlTaW1QS0lWQjFJ",
       "tkey": "熱門族群三主軸助攻PCB台鏈Q4營運續燒",
@@ -62,6 +76,70 @@
       ]
     },
     {
+      "gid": "CBMikgFBVV95cUxNNVVQTG9qNnBOM1VmYVY1S2FIejY3Ri1LUjRyQ0lkMnpVc2ZPZUIzZ1UxdFFTSlZhWDZuUENnNW14S1FNVkFoY2ZXSGl2aWloNEJDTFhyUHJZcVM1TVNwQkszXzQtbFNCaXBMM0ZDaG9WaE93amxHNm1UQTdXRzByYVR3MFNqbVUtV3N0M3JPTjhKUQ",
+      "tkey": "熱門族群三主軸助攻PCB台鏈Q4營運續燒",
+      "title": "《熱門族群》三主軸助攻 PCB台鏈Q4營運續燒 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6319151001&pu=News_0002_2",
+      "source": "富聯網",
+      "pubDate": "Sun, 04 Oct 2026 09:00:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "受惠載板需求",
+          "status": "逼近新高",
+          "dist": -3.4
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "受惠載板需求",
+          "status": "逼近新高",
+          "dist": -1.6
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "受惠載板需求",
+          "status": "逼近新高",
+          "dist": -3.6
+        },
+        {
+          "symbol": "4958",
+          "name": "臻鼎",
+          "point": "掌握高速網通與AI伺服器商機",
+          "luw": 1,
+          "luwd": [
+            "10/2"
+          ]
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "point": "掌握高速網通與AI伺服器商機",
+          "luw": 1,
+          "luwd": [
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "4927",
+          "name": "台虹",
+          "point": "研發新材料受關注",
+          "luw": 2,
+          "luwd": [
+            "10/5",
+            "10/2"
+          ]
+        }
+      ],
+      "background": "PCB台廠受惠於AI新品放量、ABF載板供需轉緊及上游材料漲價三大主軸，高階PCB與低損耗材料需求增加，產業營運持續升溫。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiWEFVX3lxTFBIN3JYM0VpZEdRZHdNajZ1VUlwcGJLT1BoRmNydjVRbVY4N3o4ZVZMQWltcVRyVW5pcGxuaVAzWnBRcjBVRGJBNkMyQ29ITmRTb0hqTG9NeXA",
       "tkey": "熱門族群AI盡頭是電力重電族群扮演基建要角",
       "title": "熱門族群》 AI盡頭是電力 重電族群扮演基建要角 - 自由時報",
@@ -69,10 +147,9 @@
       "source": "自由時報",
       "pubDate": "Sun, 04 Oct 2026 05:51:03 GMT",
       "stocks": [],
-      "background": "AI發展對電力需求劇增，重電族群作為基礎建設要角，受惠於全球電網升級與能源轉型趨勢。",
+      "background": "AI發展對電力需求大幅增加，重電族群作為電力基礎建設關鍵，受惠於AI數據中心建置與電網升級，扮演重要角色。",
       "themeTags": [
-        "需求驅動",
-        "政策關稅"
+        "需求驅動"
       ]
     },
     {
