@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "updatedAt": "2026-10-06T05:06:01.359Z",
+  "updatedAt": "2026-10-06T06:03:20.399Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE9mc2ctc0hPd2ZBd1kwek83aHh3ak9NVTVCamotWDhCWFNiQnhfN2c2RWg0TnRVZXhISHVyQ2NTWWxOWU1kbjhIX3BCQmx4ZC1jbm1IMGxpODA",
@@ -10,7 +10,7 @@
       "source": "自由時報",
       "pubDate": "Sun, 04 Oct 2026 15:40:27 GMT",
       "stocks": [],
-      "background": "矽晶圓族群受AI伺服器、HPC等需求帶動，半導體產業擴產潮席捲上下游，預期將迎來漲價循環，產業景氣復甦。",
+      "background": "AI擴產潮帶動半導體產業鏈對矽晶圓的需求增加，市場預期將迎來漲價循環，反映產業景氣復甦。",
       "themeTags": [
         "需求驅動",
         "循環位置"
@@ -86,28 +86,28 @@
         {
           "symbol": "3037",
           "name": "欣興",
-          "point": "受惠載板需求",
+          "point": "受惠載板需求，產能稼動率滿載",
           "status": "逼近新高",
-          "dist": -3.4
+          "dist": -2.2
         },
         {
           "symbol": "8046",
           "name": "南電",
-          "point": "受惠載板需求",
+          "point": "受惠載板需求，產能稼動率滿載",
           "status": "逼近新高",
-          "dist": -1.6
+          "dist": -1
         },
         {
           "symbol": "3189",
           "name": "景碩",
-          "point": "受惠載板需求",
+          "point": "受惠載板需求，下半年產能滿載",
           "status": "逼近新高",
-          "dist": -3.6
+          "dist": -3.2
         },
         {
           "symbol": "4958",
-          "name": "臻鼎",
-          "point": "掌握高速網通與AI伺服器商機",
+          "name": "臻鼎-KY",
+          "point": "掌握高速網通與AI伺服器升級商機",
           "luw": 1,
           "luwd": [
             "10/2"
@@ -116,7 +116,7 @@
         {
           "symbol": "2368",
           "name": "金像電",
-          "point": "掌握高速網通與AI伺服器商機",
+          "point": "掌握高速網通與AI伺服器升級商機",
           "luw": 1,
           "luwd": [
             "10/5"
@@ -133,7 +133,7 @@
           ]
         }
       ],
-      "background": "PCB台廠受惠於AI新品放量、ABF載板供需轉緊及上游材料漲價三大主軸，高階PCB與低損耗材料需求增加，產業營運持續升溫。",
+      "background": "PCB產業受AI新品放量、載板供需轉緊及上游材料漲價三大主軸助攻，台廠受惠於高階ABF載板與高速網通PCB需求，第四季營運續燒。",
       "themeTags": [
         "需求驅動",
         "循環位置"

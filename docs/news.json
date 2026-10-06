@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-06T13:06:01.362+08:00",
-  "generatedAt": "2026-10-06T05:06:01.362Z",
+  "asOf": "2026-10-06T14:03:20.402+08:00",
+  "generatedAt": "2026-10-06T06:03:20.402Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -116,6 +116,19 @@
       "dist": -3.6
     },
     {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 2,
+      "dates": [
+        "10/6",
+        "10/3"
+      ],
+      "mentions": 3,
+      "status": "創新高",
+      "dist": -0.2,
+      "limitUp": false
+    },
+    {
       "symbol": "6488",
       "name": "環球晶",
       "days": 2,
@@ -155,19 +168,6 @@
       ]
     },
     {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 2,
-      "dates": [
-        "10/6",
-        "10/3"
-      ],
-      "mentions": 2,
-      "status": "創新高",
-      "dist": -0.4,
-      "limitUp": false
-    },
-    {
       "symbol": "3008",
       "name": "大立光",
       "days": 2,
@@ -189,7 +189,8 @@
         "10/1"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.8,
       "luw": 5,
       "luwd": [
         "10/5",
@@ -320,6 +321,29 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxPYVppUUlvNEl1Q0lQVXFueDFYUGR4WG9XRkxLbjVLa1FBZVVYLXBGcnpsYjZRLUFRZDk2ZVdVQWxfNkVPTElwekJxQ1FUc25JMFN1Y2phQmpieURYdFFDN21vS3NDVHJmMzVkMW9EcGlReFFBMGJfRzVHMEx3MGR2U1VkbmM3d2VD",
+      "tkey": "熱門族群蘇姿丰炫風訪台！下午直奔台積電鬆口將擴大投資",
+      "title": "《熱門族群》蘇姿丰炫風訪台！下午直奔台積電 鬆口將擴大投資 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6321361001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 06 Oct 2026 05:22:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "AMD擴大投資，深化合作夥伴關係",
+          "status": "創新高",
+          "dist": -0.2,
+          "limitUp": false
+        }
+      ],
+      "background": "AMD董事長蘇姿丰訪台，與台灣AI與半導體供應鏈高層會談，強調AI算力需求強勁，將擴大投資並深化與台積電等夥伴的合作。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxOTUhJZzVscE9MbUdmV0ZRTDdzS3ZZYnByaDdJV0pqVExBYkJjUThyRVBLNUtmZHpaeUxyMU8wN0VVa1REX3k5Zkg0ZENrRG5PeFhvYjkyejBuR0VzQTFKQmQwVi1teDZTUkp4a1pTSzRsV3YzcEJuTUZfbFJBakYwLTFRaGlBTnlr",
       "tkey": "熱門族群大立光法說前罩光學股聯一光又天價鎖燈",
       "title": "《熱門族群》大立光法說前罩光學股 聯一光又天價鎖燈 - 富聯網",
@@ -349,7 +373,8 @@
           "point": "連鎖漲停創天價",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "10/5",
@@ -436,7 +461,8 @@
           "symbol": "3491",
           "name": "昇達科",
           "point": "低軌衛星業務高速成長，股價續強",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.8,
           "luw": 5,
           "luwd": [
             "10/5",
@@ -502,7 +528,8 @@
           "point": "昨日帶隊攻頂",
           "status": "逼近新高",
           "dist": -8.9,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "10/5",
@@ -570,7 +597,8 @@
           "point": "9月營收創新高，股價高檔震盪",
           "status": "逼近新高",
           "dist": -8.9,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "10/5",
@@ -631,7 +659,8 @@
           "point": "9月營收與Q3營收創歷史新高",
           "status": "逼近新高",
           "dist": -8.9,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "10/5",
