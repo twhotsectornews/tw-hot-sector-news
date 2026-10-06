@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-06T03:24:51.251+08:00",
-  "generatedAt": "2026-10-05T19:24:51.251Z",
+  "asOf": "2026-10-06T11:12:34.674+08:00",
+  "generatedAt": "2026-10-06T03:12:34.674Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -87,6 +87,42 @@
       "limitUp": false
     },
     {
+      "symbol": "3037",
+      "name": "欣興",
+      "days": 2,
+      "dates": [
+        "10/4",
+        "10/1"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -3
+    },
+    {
+      "symbol": "8046",
+      "name": "南電",
+      "days": 2,
+      "dates": [
+        "10/4",
+        "10/1"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -1.3
+    },
+    {
+      "symbol": "3189",
+      "name": "景碩",
+      "days": 2,
+      "dates": [
+        "10/4",
+        "10/1"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -3.6
+    },
+    {
       "symbol": "1727",
       "name": "中華化",
       "days": 2,
@@ -102,45 +138,6 @@
       "luwd": [
         "10/2"
       ]
-    },
-    {
-      "symbol": "3037",
-      "name": "欣興",
-      "days": 2,
-      "dates": [
-        "10/4",
-        "10/1"
-      ],
-      "mentions": 2,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": false
-    },
-    {
-      "symbol": "8046",
-      "name": "南電",
-      "days": 2,
-      "dates": [
-        "10/4",
-        "10/1"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -1.4,
-      "limitUp": false
-    },
-    {
-      "symbol": "3189",
-      "name": "景碩",
-      "days": 2,
-      "dates": [
-        "10/4",
-        "10/1"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -1.9,
-      "limitUp": false
     },
     {
       "symbol": "3236",
@@ -413,6 +410,65 @@
       "background": "電信三雄受惠於5G升速與國際漫遊需求增溫，行動服務營收持續成長，並推出多項漫遊優惠搶攻秋季旅遊商機。",
       "themeTags": [
         "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPRXJlcmFmZlRUWjlKMjlXeVJGTERueVVneUNLUVQ3TlkyZXZ3NWpVc0dCOWNHWGk0THJ4TjFvc2xmcmR5ZEJUcFI5ZFhJRUhOUGpUb0tRWkdvZE1obFFfTjlrNjNCY2Y5LVhaZWZndEJGSmJza3lQSDEzZlQtdXlTaW1QS0lWQjFJ",
+      "tkey": "熱門族群三主軸助攻PCB台鏈Q4營運續燒",
+      "title": "《熱門族群》三主軸助攻 PCB台鏈Q4營運續燒 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6319151001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sun, 04 Oct 2026 09:00:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "受惠載板需求、產能稼動率滿載",
+          "status": "逼近新高",
+          "dist": -3
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "受惠載板需求、產能稼動率滿載",
+          "status": "逼近新高",
+          "dist": -1.3
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "受惠載板需求、下半年產能滿載",
+          "status": "逼近新高",
+          "dist": -3.6
+        },
+        {
+          "symbol": "4958",
+          "name": "臻鼎",
+          "point": "掌握高速網通與AI伺服器升級商機",
+          "luw": 1,
+          "luwd": [
+            "10/2"
+          ]
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "point": "掌握高速網通與AI伺服器升級商機",
+          "luw": 1,
+          "luwd": [
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "4768",
+          "name": "台虹",
+          "point": "研發新材料、布局相關材料新方案"
+        }
+      ],
+      "background": "PCB產業受AI新品放量、載板供需轉緊及上游材料漲價三大主軸助攻，高階ABF載板與高速網通PCB需求強勁，產業景氣持續升溫。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
       ]
     },
     {
