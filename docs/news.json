@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-07T13:07:06.961+08:00",
-  "generatedAt": "2026-10-07T05:07:06.961Z",
+  "asOf": "2026-10-07T14:03:30.083+08:00",
+  "generatedAt": "2026-10-07T06:03:30.083Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -15,7 +15,35 @@
         "10/5",
         "10/4"
       ],
-      "mentions": 5,
+      "mentions": 6,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/5"
+      ]
+    },
+    {
+      "symbol": "3491",
+      "name": "昇達科",
+      "days": 3,
+      "dates": [
+        "10/6",
+        "10/5",
+        "10/1"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "2313",
+      "name": "華通",
+      "days": 3,
+      "dates": [
+        "10/6",
+        "10/5",
+        "10/1"
+      ],
+      "mentions": 4,
       "limitUp": false,
       "luw": 1,
       "luwd": [
@@ -62,7 +90,8 @@
         "10/1"
       ],
       "mentions": 3,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 2,
       "luwd": [
         "10/2",
@@ -94,34 +123,6 @@
       "limitUp": false
     },
     {
-      "symbol": "3491",
-      "name": "昇達科",
-      "days": 3,
-      "dates": [
-        "10/6",
-        "10/5",
-        "10/1"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "2313",
-      "name": "華通",
-      "days": 3,
-      "dates": [
-        "10/6",
-        "10/5",
-        "10/1"
-      ],
-      "mentions": 3,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/5"
-      ]
-    },
-    {
       "symbol": "2383",
       "name": "台光電",
       "days": 2,
@@ -129,7 +130,7 @@
         "10/6",
         "10/5"
       ],
-      "mentions": 4,
+      "mentions": 5,
       "status": "逼近新高",
       "dist": -7,
       "limitUp": false,
@@ -146,20 +147,10 @@
         "10/6",
         "10/5"
       ],
-      "mentions": 4,
+      "mentions": 5,
       "status": "逼近新高",
       "dist": -8.9,
       "limitUp": false
-    },
-    {
-      "symbol": "6182",
-      "name": "合晶",
-      "days": 2,
-      "dates": [
-        "10/5",
-        "10/4"
-      ],
-      "mentions": 4
     },
     {
       "symbol": "6488",
@@ -182,6 +173,16 @@
       "mentions": 4,
       "status": "逼近新高",
       "dist": -7.1
+    },
+    {
+      "symbol": "6182",
+      "name": "合晶",
+      "days": 2,
+      "dates": [
+        "10/5",
+        "10/4"
+      ],
+      "mentions": 4
     },
     {
       "symbol": "3037",
@@ -231,6 +232,24 @@
       "status": "創新高",
       "dist": -0.2,
       "limitUp": false
+    },
+    {
+      "symbol": "3701",
+      "name": "大眾控",
+      "days": 2,
+      "dates": [
+        "10/6",
+        "10/5"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 4,
+      "luwd": [
+        "10/5",
+        "10/2",
+        "10/1",
+        "9/30"
+      ]
     },
     {
       "symbol": "2409",
@@ -318,24 +337,6 @@
       "luw": 1,
       "luwd": [
         "10/1"
-      ]
-    },
-    {
-      "symbol": "3701",
-      "name": "大眾控",
-      "days": 2,
-      "dates": [
-        "10/6",
-        "10/5"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 4,
-      "luwd": [
-        "10/5",
-        "10/2",
-        "10/1",
-        "9/30"
       ]
     },
     {
@@ -528,7 +529,8 @@
           "symbol": "2492",
           "name": "華新科",
           "point": "直拉攻頂漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 2,
           "luwd": [
             "10/2",
@@ -575,8 +577,7 @@
           "symbol": "6862",
           "name": "三集瑞-KY",
           "point": "盤中強勢漲停",
-          "limitUp": true,
-          "pct": 9.7
+          "limitUp": false
         },
         {
           "symbol": "8042",
