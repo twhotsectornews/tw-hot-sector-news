@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "updatedAt": "2026-10-07T16:30:18.708Z",
+  "updatedAt": "2026-10-07T17:33:32.765Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNcmdOUWtQVHNIUnB6UlpiLS1oQWgwbkZ5WDhRb245RWUybVR4VjJrQ1oyNFVyQkd5MExQV09sbHplLVk2d1hnNUFnQ3UyRUF5Q2xfa0U4SFM5VnV2VGpDdjVBNldQRlVVMHV3cnNYYnpTeFo4Q1M5Uk5vbjJmNnNUMzNHbmxnRnRY",
@@ -146,6 +146,55 @@
       ]
     },
     {
+      "gid": "CBMiX0FVX3lxTE9HLU1mUWVlTFBtbkVTY0tHQ3NmM0JfMWktTEJ5UG5qNVpvYVdkQWxsM0ZqR25NRk9kQTY3UExmWVRFbklGd0hXamcxWFYwOW1OalZNbHZFQkdPWWFJZ0Jr",
+      "tkey": "熱門族群流感逼近14萬人次！資金搶進防疫股-證券",
+      "title": "《熱門族群》流感逼近14萬人次！ 資金搶進防疫股- 證券 - 工商時報",
+      "url": "https://www.ctee.com.tw/news/20261007701154-430201",
+      "source": "工商時報",
+      "pubDate": "Wed, 07 Oct 2026 03:15:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3373",
+          "name": "熱映",
+          "point": "大漲逾5.5%"
+        },
+        {
+          "symbol": "1325",
+          "name": "恆大",
+          "point": "漲幅超過4%"
+        },
+        {
+          "symbol": "9103",
+          "name": "美德醫療-DR",
+          "point": "漲幅超過4%"
+        },
+        {
+          "symbol": "2108",
+          "name": "南帝",
+          "point": "漲幅達2%以上"
+        },
+        {
+          "symbol": "9919",
+          "name": "康那香",
+          "point": "漲幅達2%以上"
+        },
+        {
+          "symbol": "4133",
+          "name": "亞諾法",
+          "point": "漲幅達2%以上"
+        },
+        {
+          "symbol": "1732",
+          "name": "毛寶",
+          "point": "漲幅達2%以上"
+        }
+      ],
+      "background": "國內流感與新冠疫情持續維持高檔，流感門急診就診人次與重症、死亡病例數創新高，帶動防疫概念股表現強勁。疫苗接種量顯著高於去年同期，反映民眾防範疫情警覺性升溫。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNS0VqNENMYWFvSDlJNkNCcV9sbzR6MWpjX2NnTHB5QXAxbjlaV0t3dzA2cGFhU2FBektlVXA1aFhEOW9tenFyeHlPY2o2WlJKYVg5VFJQb0FMM1dfekZoVDFscmhCYXpiY19VNmU2WTBPSnd2QXdMNzlyUlZaSUpxOU05bG9GRjdO",
       "tkey": "熱門族群國巨、華新科領軍被動元件掀漲停潮",
       "title": "《熱門族群》國巨、華新科領軍 被動元件掀漲停潮 - 富聯網",
@@ -196,8 +245,12 @@
           "dist": -9.6,
           "limitUp": true,
           "pct": 10,
-          "luw": 1,
+          "luw": 5,
           "luwd": [
+            "10/7",
+            "10/6",
+            "10/5",
+            "10/2",
             "10/1"
           ]
         },
@@ -207,8 +260,12 @@
           "point": "盤中強勢漲停",
           "limitUp": true,
           "pct": 9.8,
-          "luw": 1,
+          "luw": 5,
           "luwd": [
+            "10/7",
+            "10/6",
+            "10/5",
+            "10/2",
             "10/1"
           ]
         },
