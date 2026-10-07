@@ -1,11 +1,68 @@
 {
-  "asOf": "2026-10-07T00:56:37.566+08:00",
-  "generatedAt": "2026-10-06T16:56:37.566Z",
+  "asOf": "2026-10-07T11:06:47.322+08:00",
+  "generatedAt": "2026-10-07T03:06:47.322Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "2327",
+      "name": "國巨",
+      "days": 3,
+      "dates": [
+        "10/7",
+        "10/2",
+        "10/1"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/1"
+      ]
+    },
+    {
+      "symbol": "2492",
+      "name": "華新科",
+      "days": 3,
+      "dates": [
+        "10/7",
+        "10/2",
+        "10/1"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "10/2",
+        "10/1"
+      ]
+    },
+    {
+      "symbol": "3236",
+      "name": "千如",
+      "days": 3,
+      "dates": [
+        "10/7",
+        "10/2",
+        "10/1"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "5228",
+      "name": "鈺鎧",
+      "days": 3,
+      "dates": [
+        "10/7",
+        "10/2",
+        "10/1"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
     {
       "symbol": "2368",
       "name": "金像電",
@@ -133,6 +190,45 @@
       ]
     },
     {
+      "symbol": "3026",
+      "name": "禾伸堂",
+      "days": 2,
+      "dates": [
+        "10/7",
+        "10/1"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3624",
+      "name": "光頡",
+      "days": 2,
+      "dates": [
+        "10/7",
+        "10/1"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -9.6,
+      "limitUp": false
+    },
+    {
+      "symbol": "6834",
+      "name": "天二科技",
+      "days": 2,
+      "dates": [
+        "10/7",
+        "10/2"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/1"
+      ]
+    },
+    {
       "symbol": "3008",
       "name": "大立光",
       "days": 2,
@@ -172,30 +268,6 @@
       ]
     },
     {
-      "symbol": "3236",
-      "name": "千如",
-      "days": 2,
-      "dates": [
-        "10/2",
-        "10/1"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 10
-    },
-    {
-      "symbol": "5228",
-      "name": "鈺鎧",
-      "days": 2,
-      "dates": [
-        "10/2",
-        "10/1"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 10
-    },
-    {
       "symbol": "4760",
       "name": "勤凱",
       "days": 2,
@@ -206,38 +278,6 @@
       "mentions": 2,
       "limitUp": true,
       "pct": 9.9
-    },
-    {
-      "symbol": "2492",
-      "name": "華新科",
-      "days": 2,
-      "dates": [
-        "10/2",
-        "10/1"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 2,
-      "luwd": [
-        "10/2",
-        "10/1"
-      ]
-    },
-    {
-      "symbol": "2327",
-      "name": "國巨",
-      "days": 2,
-      "dates": [
-        "10/2",
-        "10/1"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/1"
-      ]
     },
     {
       "symbol": "1301",
@@ -252,6 +292,171 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNS0VqNENMYWFvSDlJNkNCcV9sbzR6MWpjX2NnTHB5QXAxbjlaV0t3dzA2cGFhU2FBektlVXA1aFhEOW9tenFyeHlPY2o2WlJKYVg5VFJQb0FMM1dfekZoVDFscmhCYXpiY19VNmU2WTBPSnd2QXdMNzlyUlZaSUpxOU05bG9GRjdO",
+      "tkey": "熱門族群國巨、華新科領軍被動元件掀漲停潮",
+      "title": "《熱門族群》國巨、華新科領軍 被動元件掀漲停潮 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6322416001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 07 Oct 2026 01:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "領軍被動元件漲停潮",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/1"
+          ]
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "直拉攻頂漲停",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "10/2",
+            "10/1"
+          ]
+        },
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "point": "回攻波段高檔區",
+          "limitUp": false
+        },
+        {
+          "symbol": "3236",
+          "name": "千如",
+          "point": "盤中強勢漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3624",
+          "name": "光頡",
+          "point": "盤中強勢漲停",
+          "status": "逼近新高",
+          "dist": -9.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "5228",
+          "name": "鈺鎧",
+          "point": "盤中強勢漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6834",
+          "name": "天二科技",
+          "point": "盤中強勢漲停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/1"
+          ]
+        },
+        {
+          "symbol": "6862",
+          "name": "三集瑞-KY",
+          "point": "盤中強勢漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "8042",
+          "name": "金山電",
+          "point": "一度上攻漲停",
+          "limitUp": false
+        }
+      ],
+      "background": "被動元件族群因基期較低，受惠AI相關需求，龍頭股國巨、華新科領軍，帶動整體族群強勢漲停。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMi7AVBVV95cUxOR0pNSzRMbmpYWjNqdlVWTTlRMzNWMWE2Ym5pZk9SWHpmdDJ0NHc4UzRZUDNEdjVtLXd2UEE1M1d2MnJEZ0p2eE9vTjJieDFrMG1NZUc1WUdHQV93Vm5henMtSUo3cjVaNGVMZ1MxVHhCT2VfN1hXTV9nTUNSNHE1clIwSWFDYVA4amZiV1EtRE5XbEM3dkdYRTVCRnRmdnhKVXc0dlpVdEF6WlJ5ZWplZ2FubzY4X1VtdFFIUzVuQ29KYlNYRzlKelVyTzlIRjBMOEhaRFBlZ0d3aW5jZWhaQ1NzM3hLQlhtUWxyU2J1YzlxRkxkaUFsV0pVN01BRHJfRjZvR2JnTzBJMUZ5d0trV1RRMklwdDR2VDNEMG1sWFUyalpTeXVLbGNwclRlejJJRDJQSXZvMm1MdDNKUGVrc3c1NU92UGI4Uzk3bGV2bjZxNkhnVVNRNklSTWdpa1ZGUzlCY1FHMGhndk9wUks2dVREUU5fZjVMWWdKcS1XMTBHclNQZVgxc3dvdjA1ZEZVV0JKdF9DRzg1UVlUcHpkdVhZNVMwOGpKLWl6SUtrYW1zVFBVckxISl9QZmsxUUZ3S3ZzT2VvQkQxc3VDMWxLZ3JhSEh1TFpBaDRyTWtFLXNWTE1UX2RSSmF2SXRSSm1aa2cydDEzdWdNWjlkU1JHU2E1OTJaTFBxb1g3dzlTd2ZzZkhQb2c5S3JHTHR2VEp6RHBhNjk1aWk3aXphbk5UNjZvQUpzZjFHQmc3Ti14REE4NWpVSUFNY1Y3UDF2MTdMWlhfYUFOZDZlY1pQUWVldlJfQk1RbG9WbFJZbWE0ajFaRW5jVk9LMkFsVEx4WE1jdldJMVd4NkdWdjZYNVlpTlMtNmlTMGxOXzBYVEFNZGt6RkNhZl9qWVg3cGFURDVhUlhTMjBqNGNvRE9JTHNnOW9vOUdNbmZRdkVaSWpPdUNKMU9GejhzZkxrMVgwQlVyVWgtVGRWMk9ZQm5S",
+      "tkey": "1007台股盤前熱門族群漲多拉回！投信獲利了結大賣約略159億元，加權微幅收紅叩關五萬點，營收創高模範生鎖定技嘉、中砂、信邦｜豐雲學堂2026年10月",
+      "title": "【1007台股盤前】熱門族群漲多拉回！投信獲利了結大賣約略159億元，加權微幅收紅叩關五萬點，營收創高模範生鎖定技嘉、中砂、信邦｜豐雲學堂2026 年 10 月 - 永豐金證券",
+      "url": "https://www.sinotrade.com.tw/richclub/MarketTrends/-1007%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%89%8D-%E7%86%B1%E9%96%80%E6%97%8F%E7%BE%A4%E6%BC%B2%E5%A4%9A%E6%8B%89%E5%9B%9E-%E6%8A%95%E4%BF%A1%E7%8D%B2%E5%88%A9%E4%BA%86%E7%B5%90%E5%A4%A7%E8%B3%A3%E7%B4%84%E7%95%A5159%E5%84%84%E5%85%83-%E5%8A%A0%E6%AC%8A%E5%BE%AE%E5%B9%85%E6%94%B6%E7%B4%85%E5%8F%A9%E9%97%9C%E4%BA%94%E8%90%AC%E9%BB%9E-%E7%87%9F%E6%94%B6%E5%89%B5%E9%AB%98%E6%A8%A1%E7%AF%84%E7%94%9F%E9%8E%96%E5%AE%9A%E6%8A%80%E5%98%89-%E4%B8%AD%E7%A0%82-%E4%BF%A1%E9%82%A6-6ac4b5f4e3717e015713774d",
+      "source": "永豐金證券",
+      "pubDate": "Wed, 07 Oct 2026 01:18:45 GMT",
+      "stocks": [
+        {
+          "symbol": "2357",
+          "name": "技嘉",
+          "point": "營收創高模範生",
+          "status": "逼近新高",
+          "dist": -4,
+          "limitUp": false
+        },
+        {
+          "symbol": "1560",
+          "name": "中砂",
+          "point": "營收創高模範生",
+          "status": "逼近新高",
+          "dist": -3.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "3376",
+          "name": "信邦",
+          "point": "營收創高模範生",
+          "limitUp": false
+        }
+      ],
+      "background": "台股熱門族群因漲幅已大，投信與外資獲利了結大賣，導致個股劇烈洗刷，指數仍在高檔。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMioAdBVV95cUxOQVYtYlZhci1JU2pWR2ZnbWVZR1EtUjU0cFVfVnV0SGFRWC1VR2ZSX19yQzVvR0p6M0hvU2pIalRCSnczLUp4QWNhYzJOcnJkTnI4WERRSWFJM20xUlhxclY4VjNVS0hURHZMZHdfRHJNOUUwbC13VHBIX0JKNjQxMlZMMXhsQWN4M3plaXBUd1hIeDE3RkRVVDRYaDd4eHR2ZjY5d0l2YVIwQzFkSC1PRmVBa3oxcjFET1MtSG1kQWRrVmlTdTlZSS1hNTlPcXBNNnJWNkptZDI1Z0RfSjI1Y1lVSHBIb2hpajFHUmx2RTJfZXozMlRYeHV1UEM1WGpzdmVEeUFjZ25Sal9IanVCaFhTT0MyUkktaW5xYkFzWnZaMWJoYXpxZHY5WEhLX1dpenNiV1FKR2xGdW9WU0F1RDhYTTRlZzd5RzdJeVpLTnZkZ0V3MWRlX3MzREtKYzN0VzN0T2xHbzV1cDVUSXhycV9EeDlrR1dOajBoazR2bF8yMzZtMElrUWRrVVJmamdHYzdzbm9QNVM5MTltZUlwZ1M5Mlp5ZFNMeFNnX1hpcFdOSXFuNnNLanUzN2tYeUMyNWFlUG40ek1VXzBRaFNnRTR0WnFXekJONlRkYXVYZXZvRWdPLVRfVXNjbGVpZWxSbVFRWU92YlBXRkpxVm5pTFdwSzZWRmMxazZ2bmhPVFd0ZV94UmVkMFpfNGVMWmZlSlQzV3BfZ1RhTk5EVTg4cDY2ZDVrWG1kZ3BWUy0xYWtTcFdKREVCTzI5aHRNaWxITDIzc3lLTW50QnRfUUl1d1pjUWwtZlI0LTNaTVRJQUkyV3pnWmhVMzNkMFQ4UDBlaHZvOXVOUjg5RUd6bjhDZzljMEZkYmVrRUtxOE5wX25CTE9NaFViakY5aG9YenBuZzBSUjlON2pxYWZXQWc1UlNlVk4zWnZmOGZMdjBmeU83ZjdRVEJFbllNdF84NFh5Ynplbmd6VGNKVFgyUnV4b0VRMUNxRjRRc2lydUdUZmtQSG44QVVsWDBxS2lLeVNuS3YwRUFCcUU1d0ptUHJSOTBabWxWSkNwNDY4U0VHUVpsWGJjeVF4dkJFRWJ4Z0cwazZ6MFZQMS1aQU96Q2dHWUloVTBteXdkN1hQUzExMFVBR094LXdZSlU3aEc0NUFqeTVkeEFLT2VmVmpEZHZINVAySnNDV1AwdTRQMGgxZ0hJcTBMMk5vVm1OenBYcTFi",
+      "tkey": "熱門族群漲多拉回！投信獲利了結大賣約略159億元，加權微幅收紅叩關五萬點，營收創高模範生鎖定技嘉、中砂、信邦｜2026.10.07#台股盤前解析｜今天Shot這盤｜豐雲學堂直播｜豐雲學堂2026年10月",
+      "title": "熱門族群漲多拉回！投信獲利了結大賣約略159億元，加權微幅收紅叩關五萬點，營收創高模範生鎖定技嘉、中砂、信邦｜ 2026.10.07 #台股盤前解析｜今天 Shot 這盤｜豐雲學堂直播｜豐雲學堂2026 年 10 月 - 永豐金證券",
+      "url": "https://www.sinotrade.com.tw/richclub/Daily_livestream/video/%E7%86%B1%E9%96%80%E6%97%8F%E7%BE%A4%E6%BC%B2%E5%A4%9A%E6%8B%89%E5%9B%9E-%E6%8A%95%E4%BF%A1%E7%8D%B2%E5%88%A9%E4%BA%86%E7%B5%90%E5%A4%A7%E8%B3%A3%E7%B4%84%E7%95%A5159%E5%84%84%E5%85%83-%E5%8A%A0%E6%AC%8A%E5%BE%AE%E5%B9%85%E6%94%B6%E7%B4%85%E5%8F%A9%E9%97%9C%E4%BA%94%E8%90%AC%E9%BB%9E-%E7%87%9F%E6%94%B6%E5%89%B5%E9%AB%98%E6%A8%A1%E7%AF%84%E7%94%9F%E9%8E%96%E5%AE%9A%E6%8A%80%E5%98%89-%E4%B8%AD%E7%A0%82-%E4%BF%A1%E9%82%A6--2026-10-07--%E5%8F%B0%E8%82%A1-%E7%9B%A4%E5%89%8D%E8%A7%A3%E6%9E%90-%E4%BB%8A%E5%A4%A9-Shot-%E9%80%99%E7%9B%A4-%E8%B1%90%E9%9B%B2%E5%AD%B8%E5%A0%82%E7%9B%B4%E6%92%AD-6ac4bfdbbc822800fc47f767",
+      "source": "永豐金證券",
+      "pubDate": "Wed, 07 Oct 2026 00:15:31 GMT",
+      "stocks": [
+        {
+          "symbol": "2357",
+          "name": "技嘉",
+          "point": "營收創高模範生",
+          "status": "逼近新高",
+          "dist": -4,
+          "limitUp": false
+        },
+        {
+          "symbol": "1560",
+          "name": "中砂",
+          "point": "營收創高模範生",
+          "status": "逼近新高",
+          "dist": -3.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "3376",
+          "name": "信邦",
+          "point": "營收創高模範生",
+          "limitUp": false
+        }
+      ],
+      "background": "台股熱門族群因漲幅已大，投信獲利了結大賣，導致個股劇烈洗刷，指數仍在高檔。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE5BQjZ3eXhxaW1KQjB0VGdDSC0yOS1BTUR0cXZqa0dnelVncWF2UHFMV0xKdFhYZjJBRlRZbFVYU1BPQkI5cTNBUUhIbDVHV05HZVFEVEZhYVE",
+      "tkey": "熱門族群AI資料中心帶動BBU需求電池模組族群氣勢大振",
+      "title": "熱門族群》AI資料中心帶動BBU需求 電池模組族群氣勢大振 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/dqdvu8nlt2rl",
+      "source": "自由時報",
+      "pubDate": "Tue, 06 Oct 2026 18:02:56 GMT",
+      "stocks": [],
+      "background": "AI 資料中心對備用電池單元（BBU）的需求增加，帶動電池模組族群的市場氣勢。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPYVppUUlvNEl1Q0lQVXFueDFYUGR4WG9XRkxLbjVLa1FBZVVYLXBGcnpsYjZRLUFRZDk2ZVdVQWxfNkVPTElwekJxQ1FUc25JMFN1Y2phQmpieURYdFFDN21vS3NDVHJmMzVkMW9EcGlReFFBMGJfRzVHMEx3MGR2U1VkbmM3d2VD",
       "tkey": "熱門族群蘇姿丰炫風訪台！下午直奔台積電鬆口將擴大投資",
@@ -599,204 +804,6 @@
       "themeTags": [
         "需求驅動",
         "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxPY01pRVZfLWZFSllGYmhXUms2RWVsanZFQV91UEtmbmRpeFZqb3lmUnZnWWRLMkNJbGswWFpMS1BLUFYxZDc5TDRHeUoyOU83bmJObEtOaFY1eTk3b2phd3pDMnkxanJFakNkOWlYcHpMdEtEUE1iTlN3cW1DQXZ6R2diclNfSVd3",
-      "tkey": "熱門族群AMD蘇姿丰即將訪台！今年二度來台AI新版圖成焦點",
-      "title": "《熱門族群》AMD蘇姿丰即將訪台！今年二度來台 AI新版圖成焦點 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6320401001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Mon, 05 Oct 2026 08:16:00 GMT",
-      "stocks": [],
-      "background": "超微（AMD）董事長蘇姿丰二度訪台，市場關注其AI新版圖布局，尤其在AI GPU、CPU、機架級系統及AI ASIC的擴張，高度倚重台灣供應鏈。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTE5PNzNtbjlGZlY0anZNRnlobXVaOWxDQVZFQzhKb0pyX25GV2xQZUR5dFdyelYxNFROSk1naDlfNE1NdWxhWDJza0RUOUREaWs5QWVXbVMzVzI",
-      "tkey": "6182合晶-熱門族群AI擴產潮席捲上下游矽晶圓族群喜迎漲價循環-股市爆料同學會",
-      "title": "6182 合晶- 熱門族群》AI擴產潮席捲上下游矽晶圓族群喜迎漲價循環- 股市爆料同學會 - CMoney",
-      "url": "https://www.cmoney.tw/forum/article/185135313",
-      "source": "CMoney",
-      "pubDate": "Mon, 05 Oct 2026 06:32:30 GMT",
-      "stocks": [
-        {
-          "symbol": "6182",
-          "name": "合晶",
-          "point": "AI擴產潮帶動矽晶圓漲價"
-        },
-        {
-          "symbol": "6488",
-          "name": "環球晶",
-          "point": "重返千金股，矽晶圓漲價趨勢確立"
-        },
-        {
-          "symbol": "3532",
-          "name": "台勝科",
-          "point": "受惠AI需求，擴大12吋先進製程晶圓"
-        }
-      ],
-      "background": "AI晶片與記憶體擴產潮推升矽晶圓需求，從先進製程到成熟製程皆受惠，12吋矽晶圓供給吃緊，現貨價與長約價格同步上漲，產業進入漲價循環。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTE1qdDdkdXBwOTV6NFVXQjUwYUlQRTFaazlzbnRNRVk0X3ZKT01oX1FKS3I1VUpqaWtyeDBEUy1rRUtZOW5HUjZfSmVPcXNfQzR1Y2pZU25VX1M",
-      "tkey": "6488環球晶-熱門族群AI擴產潮席捲上下游矽晶圓族群喜迎漲價循環-股市爆料同學會",
-      "title": "6488 環球晶- 熱門族群》AI擴產潮席捲上下游矽晶圓族群喜迎漲價循環- 股市爆料同學會 - CMoney",
-      "url": "https://www.cmoney.tw/forum/article/185135293",
-      "source": "CMoney",
-      "pubDate": "Mon, 05 Oct 2026 06:30:07 GMT",
-      "stocks": [
-        {
-          "symbol": "6488",
-          "name": "環球晶",
-          "point": "重返千金股，股價飆漲25.5%",
-          "limitUp": false
-        },
-        {
-          "symbol": "3532",
-          "name": "台勝科",
-          "point": "受惠AI需求，12吋先進製程晶圓需求強勁",
-          "limitUp": false
-        },
-        {
-          "symbol": "6182",
-          "name": "合晶",
-          "point": "6吋、8吋與12吋產能接近滿載",
-          "limitUp": false
-        }
-      ],
-      "background": "AI晶片與記憶體擴產潮帶動矽晶圓需求升溫，12吋矽晶圓產能吃緊，現貨價走高，長約漲價趨勢確立，產業啟動漲價循環。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxOeUpqTXFmV1lfYzZDZTJvczJzYk9OSThwTWYzNENiZDI0U0Z1TEJ4dVljclBBYlN1WnJuYXdJalJlcTI1blQ3ZXMtclZSeU5GSV9fdDBwdWhvblpPZFM3a3ZkT3ZVLWFpWnYzQkZIZkhtRGREck0yS29SVjRJZEsxY0V3bDRHdEFv",
-      "tkey": "熱門族群面板雙虎高檔警報響！友達創高秒變臉群創苦守5日線",
-      "title": "《熱門族群》面板雙虎高檔警報響！友達創高秒變臉 群創苦守5日線 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6319945001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Mon, 05 Oct 2026 02:31:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2409",
-          "name": "友達",
-          "point": "創高秒變臉，轉型先進封裝與Micro LED",
-          "status": "逼近新高",
-          "dist": -8,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "9/30"
-          ]
-        },
-        {
-          "symbol": "3481",
-          "name": "群創",
-          "point": "苦守5日線，切入半導體先進封裝",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "9/30"
-          ]
-        }
-      ],
-      "background": "面板產業景氣回升，面板雙虎積極轉型半導體先進封裝與Micro LED等高階應用，市場關注轉型效益。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMikgFBVV95cUxNMDA3ZTFTaFNXNWJ0LV9ReXplQ2RmZENsZnBQeUtxZGZTMk9iaVBFTzNkamJPTmNaZC00b1RJYUQ2cE1EeUFQdm9DOVdhMVBEM0NYekoyS29qQmY5M3ZtQTY0V1hVaEl3LW44VnJfb2JON2hRN2ROWEF4bkRYbURJaVFXWjZ0S3hQMjNVNkFpRHFvZw",
-      "tkey": "熱門族群面板雙虎高檔警報響！友達創高秒變臉群創苦守5日線-ww2.money",
-      "title": "《熱門族群》面板雙虎高檔警報響！友達創高秒變臉 群創苦守5日線 - ww2.money-link.com.tw",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6319945001&pu=News_0002_3",
-      "source": "ww2.money-link.com.tw",
-      "pubDate": "Mon, 05 Oct 2026 02:31:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2409",
-          "name": "友達",
-          "point": "股價創高後變臉",
-          "status": "逼近新高",
-          "dist": -9.8,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "9/30"
-          ]
-        },
-        {
-          "symbol": "3481",
-          "name": "群創",
-          "point": "股價苦守5日線",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "9/30"
-          ]
-        }
-      ],
-      "background": "面板產業受惠於電視面板需求回溫及庫存去化，加上奧運備貨潮，產業景氣有望自谷底翻揚，但高檔警報響起。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxQOXcwU0RyejNHRzBDV0J6MEhZcm8wU3ZiWXVZNU0xaEswMVBLdlpQeDhRWTJjUThGUlJ0aHhacUFuQ1hXT050dEFmRlY2dHJMZm04OEFGR2d6dUdOd1c0ZEtGLVBRUUl0emJheFg4SWtRUTBiTUgzeXRNSTloVXVMTkdqMm9sd05T",
-      "tkey": "熱門族群矽晶圓迎漲價循環台廠吃香",
-      "title": "《熱門族群》矽晶圓迎漲價循環 台廠吃香 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6319713001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Mon, 05 Oct 2026 00:05:00 GMT",
-      "stocks": [
-        {
-          "symbol": "6488",
-          "name": "環球晶",
-          "point": "各尺寸晶圓出貨回升，產線接近滿載",
-          "limitUp": false
-        },
-        {
-          "symbol": "3532",
-          "name": "台勝科",
-          "point": "12吋晶圓比重高，受惠景氣變化",
-          "limitUp": false
-        },
-        {
-          "symbol": "6182",
-          "name": "合晶",
-          "point": "6吋產品已漲價，8吋產品具價格協商空間",
-          "limitUp": false
-        }
-      ],
-      "background": "矽晶圓產業歷經庫存調整後，迎來新一輪漲價循環，AI、HPC需求加速，主要供應商擴產紀律，預期2027年下半年供需轉為短缺。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNb1pkNHBRUjlzd1Y3ZWlES2RPMndKMEt1X1VWRTJEV0RRSFQ4aWxmMXpLNFFPaUtmazR2a1dxUldXTWE5S2JYVEVxTVZsaHVyN0FfdFYyR1ZhVW5jTXZ2R2cwRThOOXFPSDM0RE03UUFFUDU5c0hLWmhzOUxZTTZYdW9sRkVpX3R5",
-      "tkey": "熱門族群搶攻秋遊電信三雄漫遊降價",
-      "title": "《熱門族群》搶攻秋遊 電信三雄漫遊降價 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6319433001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Sun, 04 Oct 2026 23:39:00 GMT",
-      "stocks": [],
-      "background": "電信三雄受惠於5G升速與國際漫遊需求增溫，行動服務營收持續成長，並推出多項漫遊優惠搶攻秋季旅遊商機。",
-      "themeTags": [
-        "需求驅動"
       ]
     }
   ]
