@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-07T11:06:47.322+08:00",
-  "generatedAt": "2026-10-07T03:06:47.322Z",
+  "asOf": "2026-10-07T12:06:49.941+08:00",
+  "generatedAt": "2026-10-07T04:06:49.941Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,13 +9,14 @@
     {
       "symbol": "2327",
       "name": "國巨",
-      "days": 3,
+      "days": 4,
       "dates": [
         "10/7",
+        "10/5",
         "10/2",
         "10/1"
       ],
-      "mentions": 3,
+      "mentions": 5,
       "limitUp": false,
       "luw": 1,
       "luwd": [
@@ -25,13 +26,14 @@
     {
       "symbol": "2492",
       "name": "華新科",
-      "days": 3,
+      "days": 4,
       "dates": [
         "10/7",
+        "10/5",
         "10/2",
         "10/1"
       ],
-      "mentions": 3,
+      "mentions": 5,
       "limitUp": false,
       "luw": 2,
       "luwd": [
@@ -42,36 +44,39 @@
     {
       "symbol": "3236",
       "name": "千如",
-      "days": 3,
+      "days": 4,
       "dates": [
         "10/7",
+        "10/5",
         "10/2",
         "10/1"
       ],
-      "mentions": 3,
+      "mentions": 5,
       "limitUp": false
     },
     {
       "symbol": "5228",
       "name": "鈺鎧",
-      "days": 3,
+      "days": 4,
       "dates": [
         "10/7",
+        "10/5",
         "10/2",
         "10/1"
       ],
-      "mentions": 3,
+      "mentions": 5,
       "limitUp": false
     },
     {
       "symbol": "2368",
       "name": "金像電",
-      "days": 2,
+      "days": 3,
       "dates": [
         "10/6",
+        "10/5",
         "10/4"
       ],
-      "mentions": 4,
+      "mentions": 5,
       "limitUp": false,
       "luw": 1,
       "luwd": [
@@ -79,34 +84,143 @@
       ]
     },
     {
-      "symbol": "6182",
-      "name": "合晶",
-      "days": 2,
+      "symbol": "3026",
+      "name": "禾伸堂",
+      "days": 3,
       "dates": [
+        "10/7",
         "10/5",
-        "10/4"
+        "10/1"
       ],
-      "mentions": 4
+      "mentions": 4,
+      "limitUp": false
     },
     {
-      "symbol": "6488",
-      "name": "環球晶",
-      "days": 2,
+      "symbol": "3624",
+      "name": "光頡",
+      "days": 3,
       "dates": [
+        "10/7",
         "10/5",
-        "10/4"
+        "10/1"
       ],
-      "mentions": 4
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -9.6,
+      "limitUp": false
     },
     {
-      "symbol": "3532",
-      "name": "台勝科",
+      "symbol": "6834",
+      "name": "天二科技",
+      "days": 3,
+      "dates": [
+        "10/7",
+        "10/5",
+        "10/2"
+      ],
+      "mentions": 4,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/1"
+      ]
+    },
+    {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 3,
+      "dates": [
+        "10/6",
+        "10/5",
+        "10/3"
+      ],
+      "mentions": 4,
+      "status": "創新高",
+      "dist": -0.2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3491",
+      "name": "昇達科",
+      "days": 3,
+      "dates": [
+        "10/6",
+        "10/5",
+        "10/1"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2313",
+      "name": "華通",
+      "days": 3,
+      "dates": [
+        "10/6",
+        "10/5",
+        "10/1"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/5"
+      ]
+    },
+    {
+      "symbol": "2383",
+      "name": "台光電",
+      "days": 2,
+      "dates": [
+        "10/6",
+        "10/5"
+      ],
+      "mentions": 5,
+      "status": "逼近新高",
+      "dist": -7,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/5"
+      ]
+    },
+    {
+      "symbol": "6274",
+      "name": "台燿",
+      "days": 2,
+      "dates": [
+        "10/6",
+        "10/5"
+      ],
+      "mentions": 5,
+      "status": "逼近新高",
+      "dist": -8.9,
+      "limitUp": false
+    },
+    {
+      "symbol": "3373",
+      "name": "熱映",
+      "days": 2,
+      "dates": [
+        "10/7",
+        "10/5"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "6442",
+      "name": "光聖",
       "days": 2,
       "dates": [
         "10/5",
-        "10/4"
+        "10/2"
       ],
-      "mentions": 4
+      "mentions": 4,
+      "luw": 1,
+      "luwd": [
+        "10/2"
+      ]
     },
     {
       "symbol": "3037",
@@ -145,17 +259,81 @@
       "dist": -3.6
     },
     {
-      "symbol": "2330",
-      "name": "台積電",
+      "symbol": "6862",
+      "name": "三集瑞-KY",
+      "days": 2,
+      "dates": [
+        "10/7",
+        "10/5"
+      ],
+      "mentions": 3,
+      "limitUp": true,
+      "pct": 9.7
+    },
+    {
+      "symbol": "8042",
+      "name": "金山電",
+      "days": 2,
+      "dates": [
+        "10/7",
+        "10/5"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "3441",
+      "name": "聯一光",
       "days": 2,
       "dates": [
         "10/6",
-        "10/3"
+        "10/5"
       ],
       "mentions": 3,
       "status": "創新高",
-      "dist": -0.2,
-      "limitUp": false
+      "dist": 0,
+      "limitUp": true,
+      "pct": 9.9,
+      "luw": 5,
+      "luwd": [
+        "10/6",
+        "10/5",
+        "10/2",
+        "10/1",
+        "9/30"
+      ]
+    },
+    {
+      "symbol": "6182",
+      "name": "合晶",
+      "days": 2,
+      "dates": [
+        "10/5",
+        "10/4"
+      ],
+      "mentions": 3
+    },
+    {
+      "symbol": "3016",
+      "name": "嘉晶",
+      "days": 2,
+      "dates": [
+        "10/5",
+        "10/1"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -0.5
+    },
+    {
+      "symbol": "6488",
+      "name": "環球晶",
+      "days": 2,
+      "dates": [
+        "10/5",
+        "10/4"
+      ],
+      "mentions": 3
     },
     {
       "symbol": "2409",
@@ -190,45 +368,6 @@
       ]
     },
     {
-      "symbol": "3026",
-      "name": "禾伸堂",
-      "days": 2,
-      "dates": [
-        "10/7",
-        "10/1"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3624",
-      "name": "光頡",
-      "days": 2,
-      "dates": [
-        "10/7",
-        "10/1"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -9.6,
-      "limitUp": false
-    },
-    {
-      "symbol": "6834",
-      "name": "天二科技",
-      "days": 2,
-      "dates": [
-        "10/7",
-        "10/2"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/1"
-      ]
-    },
-    {
       "symbol": "3008",
       "name": "大立光",
       "days": 2,
@@ -242,30 +381,33 @@
       "limitUp": false
     },
     {
-      "symbol": "3491",
-      "name": "昇達科",
+      "symbol": "3701",
+      "name": "大眾控",
       "days": 2,
       "dates": [
         "10/6",
-        "10/1"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2313",
-      "name": "華通",
-      "days": 2,
-      "dates": [
-        "10/6",
-        "10/1"
+        "10/5"
       ],
       "mentions": 2,
       "limitUp": false,
-      "luw": 1,
+      "luw": 4,
       "luwd": [
-        "10/5"
+        "10/5",
+        "10/2",
+        "10/1",
+        "9/30"
       ]
+    },
+    {
+      "symbol": "3532",
+      "name": "台勝科",
+      "days": 2,
+      "dates": [
+        "10/5",
+        "10/4"
+      ],
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "4760",
@@ -278,20 +420,117 @@
       "mentions": 2,
       "limitUp": true,
       "pct": 9.9
-    },
-    {
-      "symbol": "1301",
-      "name": "台塑",
-      "days": 2,
-      "dates": [
-        "10/2",
-        "10/1"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOc0cwTkpWdWs1MFB4Zjhlekszdm9kQkdKa2c5bE96OXdQRnZZc3VjQWhzQk15dkE4b2RzbU02eFBITWJqWUNRRTVIdzRXcDh6c0tzUlRBcV9BNm5rOXZjUklnblBneFI0aDJydWNpRjduZFZOQk5jdnJ3TFRQbm4tMWVyNWwwQlZ6",
+      "tkey": "熱門族群防疫題材再發威！熱映搶先亮燈口罩疫苗股齊揚",
+      "title": "《熱門族群》防疫題材再發威！熱映搶先亮燈 口罩疫苗股齊揚 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6322543001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Wed, 07 Oct 2026 03:43:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3373",
+          "name": "熱映",
+          "point": "防疫題材發威亮燈漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "1325",
+          "name": "恆大",
+          "point": "口罩股勁揚5.8%",
+          "limitUp": false
+        },
+        {
+          "symbol": "9919",
+          "name": "康那香",
+          "point": "口罩股漲近4%",
+          "limitUp": false
+        },
+        {
+          "symbol": "4736",
+          "name": "泰博",
+          "point": "快篩試劑供應商走高",
+          "limitUp": false
+        },
+        {
+          "symbol": "4142",
+          "name": "國光生",
+          "point": "流感疫苗國家隊走高",
+          "limitUp": false
+        },
+        {
+          "symbol": "4105",
+          "name": "東洋",
+          "point": "流感疫苗國家隊走高",
+          "status": "逼近新高",
+          "dist": -6.7,
+          "limitUp": false
+        }
+      ],
+      "background": "國內流感疫情嚴峻，重症死亡人數創新高，帶動資金轉向防疫概念股，疫苗接種需求升溫。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPbjdzTDdVZTN0Ukc5QXFjTHlZOUVXN3loVk5CRUlRWUJ6QUNMUFduZmx1cWVjWUh6TDdhZ0ZiZDFqRVNOWUY5MXp1eVFjd1FmSVhxZDVpMGNwMlJyeW5rQVNJM21WaloxS2Z1WGJSR0dEaDdBNFFEVWYtVVc2bUpzV2Q4MFhVeDVJ",
+      "tkey": "熱門族群流感逼近14萬人次！資金搶進防疫股",
+      "title": "《熱門族群》流感逼近14萬人次！ 資金搶進防疫股 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6322512001&PU=0031",
+      "source": "富聯網",
+      "pubDate": "Wed, 07 Oct 2026 03:15:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3373",
+          "name": "熱映",
+          "point": "防疫概念股盤中強勁",
+          "limitUp": false
+        },
+        {
+          "symbol": "1325",
+          "name": "恆大",
+          "point": "口罩股漲幅超過4%",
+          "limitUp": false
+        },
+        {
+          "symbol": "9103",
+          "name": "美德醫療-DR",
+          "point": "漲幅超過4%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2108",
+          "name": "南帝",
+          "point": "相關個股同步走揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "9919",
+          "name": "康那香",
+          "point": "相關個股同步走揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "4133",
+          "name": "亞諾法",
+          "point": "相關個股同步走揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "1732",
+          "name": "毛寶",
+          "point": "相關個股同步走揚",
+          "limitUp": false
+        }
+      ],
+      "background": "國內流感與新冠疫情維持高檔，單周重症及死亡病例創新高，疫苗接種量顯著高於去年同期。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNS0VqNENMYWFvSDlJNkNCcV9sbzR6MWpjX2NnTHB5QXAxbjlaV0t3dzA2cGFhU2FBektlVXA1aFhEOW9tenFyeHlPY2o2WlJKYVg5VFJQb0FMM1dfekZoVDFscmhCYXpiY19VNmU2WTBPSnd2QXdMNzlyUlZaSUpxOU05bG9GRjdO",
       "tkey": "熱門族群國巨、華新科領軍被動元件掀漲停潮",
@@ -361,7 +600,8 @@
           "symbol": "6862",
           "name": "三集瑞-KY",
           "point": "盤中強勢漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.7
         },
         {
           "symbol": "8042",
