@@ -1,0 +1,326 @@
+{
+  "date": "2026-10-07",
+  "updatedAt": "2026-10-07T16:30:18.708Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNcmdOUWtQVHNIUnB6UlpiLS1oQWgwbkZ5WDhRb245RWUybVR4VjJrQ1oyNFVyQkd5MExQV09sbHplLVk2d1hnNUFnQ3UyRUF5Q2xfa0U4SFM5VnV2VGpDdjVBNldQRlVVMHV3cnNYYnpTeFo4Q1M5Uk5vbjJmNnNUMzNHbmxnRnRY",
+      "tkey": "熱門族群大立光CPO獲外資按讚攜手玉晶光走強",
+      "title": "《熱門族群》大立光CPO獲外資按讚 攜手玉晶光走強 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6322593001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 07 Oct 2026 04:28:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "CPO光纖陣列模組進展順利，獲外資按讚",
+          "status": "高檔修正",
+          "dist": -13.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "股價聯袂大立光走高",
+          "status": "逼近新高",
+          "dist": -3.9,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/5"
+          ]
+        }
+      ],
+      "background": "大立光積極佈局CPO（Co-packaged Optics）相關產品，獲外資看好其未來獲利貢獻，帶動股價走強。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOc0cwTkpWdWs1MFB4Zjhlekszdm9kQkdKa2c5bE96OXdQRnZZc3VjQWhzQk15dkE4b2RzbU02eFBITWJqWUNRRTVIdzRXcDh6c0tzUlRBcV9BNm5rOXZjUklnblBneFI0aDJydWNpRjduZFZOQk5jdnJ3TFRQbm4tMWVyNWwwQlZ6",
+      "tkey": "熱門族群防疫題材再發威！熱映搶先亮燈口罩疫苗股齊揚",
+      "title": "《熱門族群》防疫題材再發威！熱映搶先亮燈 口罩疫苗股齊揚 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6322543001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Wed, 07 Oct 2026 03:43:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3373",
+          "name": "熱映",
+          "point": "防疫題材發威亮燈漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "1325",
+          "name": "恆大",
+          "point": "口罩股勁揚5.8%",
+          "limitUp": false
+        },
+        {
+          "symbol": "9919",
+          "name": "康那香",
+          "point": "口罩股漲近4%",
+          "limitUp": false
+        },
+        {
+          "symbol": "4736",
+          "name": "泰博",
+          "point": "快篩試劑供應商走高",
+          "limitUp": false
+        },
+        {
+          "symbol": "4142",
+          "name": "國光生",
+          "point": "流感疫苗國家隊走高",
+          "limitUp": false
+        },
+        {
+          "symbol": "4105",
+          "name": "東洋",
+          "point": "流感疫苗國家隊走高",
+          "status": "逼近新高",
+          "dist": -6.7,
+          "limitUp": false
+        }
+      ],
+      "background": "國內流感疫情嚴峻，重症死亡人數創新高，帶動資金轉向防疫概念股，疫苗接種需求升溫。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPbjdzTDdVZTN0Ukc5QXFjTHlZOUVXN3loVk5CRUlRWUJ6QUNMUFduZmx1cWVjWUh6TDdhZ0ZiZDFqRVNOWUY5MXp1eVFjd1FmSVhxZDVpMGNwMlJyeW5rQVNJM21WaloxS2Z1WGJSR0dEaDdBNFFEVWYtVVc2bUpzV2Q4MFhVeDVJ",
+      "tkey": "熱門族群流感逼近14萬人次！資金搶進防疫股",
+      "title": "《熱門族群》流感逼近14萬人次！ 資金搶進防疫股 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6322512001&PU=0031",
+      "source": "富聯網",
+      "pubDate": "Wed, 07 Oct 2026 03:15:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3373",
+          "name": "熱映",
+          "point": "防疫概念股盤中強勁",
+          "limitUp": false
+        },
+        {
+          "symbol": "1325",
+          "name": "恆大",
+          "point": "口罩股漲幅超過4%",
+          "limitUp": false
+        },
+        {
+          "symbol": "9103",
+          "name": "美德醫療-DR",
+          "point": "漲幅超過4%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2108",
+          "name": "南帝",
+          "point": "相關個股同步走揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "9919",
+          "name": "康那香",
+          "point": "相關個股同步走揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "4133",
+          "name": "亞諾法",
+          "point": "相關個股同步走揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "1732",
+          "name": "毛寶",
+          "point": "相關個股同步走揚",
+          "limitUp": false
+        }
+      ],
+      "background": "國內流感與新冠疫情維持高檔，單周重症及死亡病例創新高，疫苗接種量顯著高於去年同期。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNS0VqNENMYWFvSDlJNkNCcV9sbzR6MWpjX2NnTHB5QXAxbjlaV0t3dzA2cGFhU2FBektlVXA1aFhEOW9tenFyeHlPY2o2WlJKYVg5VFJQb0FMM1dfekZoVDFscmhCYXpiY19VNmU2WTBPSnd2QXdMNzlyUlZaSUpxOU05bG9GRjdO",
+      "tkey": "熱門族群國巨、華新科領軍被動元件掀漲停潮",
+      "title": "《熱門族群》國巨、華新科領軍 被動元件掀漲停潮 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6322416001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 07 Oct 2026 01:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "領軍被動元件漲停潮",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/1"
+          ]
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "直拉攻頂漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 3,
+          "luwd": [
+            "10/7",
+            "10/2",
+            "10/1"
+          ]
+        },
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "point": "回攻波段高檔區",
+          "limitUp": false
+        },
+        {
+          "symbol": "3236",
+          "name": "千如",
+          "point": "盤中強勢漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3624",
+          "name": "光頡",
+          "point": "盤中強勢漲停",
+          "status": "逼近新高",
+          "dist": -9.6,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "10/1"
+          ]
+        },
+        {
+          "symbol": "5228",
+          "name": "鈺鎧",
+          "point": "盤中強勢漲停",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 1,
+          "luwd": [
+            "10/1"
+          ]
+        },
+        {
+          "symbol": "6834",
+          "name": "天二科技",
+          "point": "盤中強勢漲停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/1"
+          ]
+        },
+        {
+          "symbol": "6862",
+          "name": "三集瑞-KY",
+          "point": "盤中強勢漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "8042",
+          "name": "金山電",
+          "point": "一度上攻漲停",
+          "limitUp": false
+        }
+      ],
+      "background": "被動元件族群因基期較低，受惠AI相關需求，龍頭股國巨、華新科領軍，帶動整體族群強勢漲停。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMi7AVBVV95cUxOR0pNSzRMbmpYWjNqdlVWTTlRMzNWMWE2Ym5pZk9SWHpmdDJ0NHc4UzRZUDNEdjVtLXd2UEE1M1d2MnJEZ0p2eE9vTjJieDFrMG1NZUc1WUdHQV93Vm5henMtSUo3cjVaNGVMZ1MxVHhCT2VfN1hXTV9nTUNSNHE1clIwSWFDYVA4amZiV1EtRE5XbEM3dkdYRTVCRnRmdnhKVXc0dlpVdEF6WlJ5ZWplZ2FubzY4X1VtdFFIUzVuQ29KYlNYRzlKelVyTzlIRjBMOEhaRFBlZ0d3aW5jZWhaQ1NzM3hLQlhtUWxyU2J1YzlxRkxkaUFsV0pVN01BRHJfRjZvR2JnTzBJMUZ5d0trV1RRMklwdDR2VDNEMG1sWFUyalpTeXVLbGNwclRlejJJRDJQSXZvMm1MdDNKUGVrc3c1NU92UGI4Uzk3bGV2bjZxNkhnVVNRNklSTWdpa1ZGUzlCY1FHMGhndk9wUks2dVREUU5fZjVMWWdKcS1XMTBHclNQZVgxc3dvdjA1ZEZVV0JKdF9DRzg1UVlUcHpkdVhZNVMwOGpKLWl6SUtrYW1zVFBVckxISl9QZmsxUUZ3S3ZzT2VvQkQxc3VDMWxLZ3JhSEh1TFpBaDRyTWtFLXNWTE1UX2RSSmF2SXRSSm1aa2cydDEzdWdNWjlkU1JHU2E1OTJaTFBxb1g3dzlTd2ZzZkhQb2c5S3JHTHR2VEp6RHBhNjk1aWk3aXphbk5UNjZvQUpzZjFHQmc3Ti14REE4NWpVSUFNY1Y3UDF2MTdMWlhfYUFOZDZlY1pQUWVldlJfQk1RbG9WbFJZbWE0ajFaRW5jVk9LMkFsVEx4WE1jdldJMVd4NkdWdjZYNVlpTlMtNmlTMGxOXzBYVEFNZGt6RkNhZl9qWVg3cGFURDVhUlhTMjBqNGNvRE9JTHNnOW9vOUdNbmZRdkVaSWpPdUNKMU9GejhzZkxrMVgwQlVyVWgtVGRWMk9ZQm5S",
+      "tkey": "1007台股盤前熱門族群漲多拉回！投信獲利了結大賣約略159億元，加權微幅收紅叩關五萬點，營收創高模範生鎖定技嘉、中砂、信邦｜豐雲學堂2026年10月",
+      "title": "【1007台股盤前】熱門族群漲多拉回！投信獲利了結大賣約略159億元，加權微幅收紅叩關五萬點，營收創高模範生鎖定技嘉、中砂、信邦｜豐雲學堂2026 年 10 月 - 永豐金證券",
+      "url": "https://www.sinotrade.com.tw/richclub/MarketTrends/-1007%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%89%8D-%E7%86%B1%E9%96%80%E6%97%8F%E7%BE%A4%E6%BC%B2%E5%A4%9A%E6%8B%89%E5%9B%9E-%E6%8A%95%E4%BF%A1%E7%8D%B2%E5%88%A9%E4%BA%86%E7%B5%90%E5%A4%A7%E8%B3%A3%E7%B4%84%E7%95%A5159%E5%84%84%E5%85%83-%E5%8A%A0%E6%AC%8A%E5%BE%AE%E5%B9%85%E6%94%B6%E7%B4%85%E5%8F%A9%E9%97%9C%E4%BA%94%E8%90%AC%E9%BB%9E-%E7%87%9F%E6%94%B6%E5%89%B5%E9%AB%98%E6%A8%A1%E7%AF%84%E7%94%9F%E9%8E%96%E5%AE%9A%E6%8A%80%E5%98%89-%E4%B8%AD%E7%A0%82-%E4%BF%A1%E9%82%A6-6ac4b5f4e3717e015713774d",
+      "source": "永豐金證券",
+      "pubDate": "Wed, 07 Oct 2026 01:18:45 GMT",
+      "stocks": [
+        {
+          "symbol": "2357",
+          "name": "技嘉",
+          "point": "營收創高模範生",
+          "status": "逼近新高",
+          "dist": -4,
+          "limitUp": false
+        },
+        {
+          "symbol": "1560",
+          "name": "中砂",
+          "point": "營收創高模範生",
+          "status": "逼近新高",
+          "dist": -3.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "3376",
+          "name": "信邦",
+          "point": "營收創高模範生",
+          "limitUp": false
+        }
+      ],
+      "background": "台股熱門族群因漲幅已大，投信與外資獲利了結大賣，導致個股劇烈洗刷，指數仍在高檔。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMioAdBVV95cUxOQVYtYlZhci1JU2pWR2ZnbWVZR1EtUjU0cFVfVnV0SGFRWC1VR2ZSX19yQzVvR0p6M0hvU2pIalRCSnczLUp4QWNhYzJOcnJkTnI4WERRSWFJM20xUlhxclY4VjNVS0hURHZMZHdfRHJNOUUwbC13VHBIX0JKNjQxMlZMMXhsQWN4M3plaXBUd1hIeDE3RkRVVDRYaDd4eHR2ZjY5d0l2YVIwQzFkSC1PRmVBa3oxcjFET1MtSG1kQWRrVmlTdTlZSS1hNTlPcXBNNnJWNkptZDI1Z0RfSjI1Y1lVSHBIb2hpajFHUmx2RTJfZXozMlRYeHV1UEM1WGpzdmVEeUFjZ25Sal9IanVCaFhTT0MyUkktaW5xYkFzWnZaMWJoYXpxZHY5WEhLX1dpenNiV1FKR2xGdW9WU0F1RDhYTTRlZzd5RzdJeVpLTnZkZ0V3MWRlX3MzREtKYzN0VzN0T2xHbzV1cDVUSXhycV9EeDlrR1dOajBoazR2bF8yMzZtMElrUWRrVVJmamdHYzdzbm9QNVM5MTltZUlwZ1M5Mlp5ZFNMeFNnX1hpcFdOSXFuNnNLanUzN2tYeUMyNWFlUG40ek1VXzBRaFNnRTR0WnFXekJONlRkYXVYZXZvRWdPLVRfVXNjbGVpZWxSbVFRWU92YlBXRkpxVm5pTFdwSzZWRmMxazZ2bmhPVFd0ZV94UmVkMFpfNGVMWmZlSlQzV3BfZ1RhTk5EVTg4cDY2ZDVrWG1kZ3BWUy0xYWtTcFdKREVCTzI5aHRNaWxITDIzc3lLTW50QnRfUUl1d1pjUWwtZlI0LTNaTVRJQUkyV3pnWmhVMzNkMFQ4UDBlaHZvOXVOUjg5RUd6bjhDZzljMEZkYmVrRUtxOE5wX25CTE9NaFViakY5aG9YenBuZzBSUjlON2pxYWZXQWc1UlNlVk4zWnZmOGZMdjBmeU83ZjdRVEJFbllNdF84NFh5Ynplbmd6VGNKVFgyUnV4b0VRMUNxRjRRc2lydUdUZmtQSG44QVVsWDBxS2lLeVNuS3YwRUFCcUU1d0ptUHJSOTBabWxWSkNwNDY4U0VHUVpsWGJjeVF4dkJFRWJ4Z0cwazZ6MFZQMS1aQU96Q2dHWUloVTBteXdkN1hQUzExMFVBR094LXdZSlU3aEc0NUFqeTVkeEFLT2VmVmpEZHZINVAySnNDV1AwdTRQMGgxZ0hJcTBMMk5vVm1OenBYcTFi",
+      "tkey": "熱門族群漲多拉回！投信獲利了結大賣約略159億元，加權微幅收紅叩關五萬點，營收創高模範生鎖定技嘉、中砂、信邦｜2026.10.07#台股盤前解析｜今天Shot這盤｜豐雲學堂直播｜豐雲學堂2026年10月",
+      "title": "熱門族群漲多拉回！投信獲利了結大賣約略159億元，加權微幅收紅叩關五萬點，營收創高模範生鎖定技嘉、中砂、信邦｜ 2026.10.07 #台股盤前解析｜今天 Shot 這盤｜豐雲學堂直播｜豐雲學堂2026 年 10 月 - 永豐金證券",
+      "url": "https://www.sinotrade.com.tw/richclub/Daily_livestream/video/%E7%86%B1%E9%96%80%E6%97%8F%E7%BE%A4%E6%BC%B2%E5%A4%9A%E6%8B%89%E5%9B%9E-%E6%8A%95%E4%BF%A1%E7%8D%B2%E5%88%A9%E4%BA%86%E7%B5%90%E5%A4%A7%E8%B3%A3%E7%B4%84%E7%95%A5159%E5%84%84%E5%85%83-%E5%8A%A0%E6%AC%8A%E5%BE%AE%E5%B9%85%E6%94%B6%E7%B4%85%E5%8F%A9%E9%97%9C%E4%BA%94%E8%90%AC%E9%BB%9E-%E7%87%9F%E6%94%B6%E5%89%B5%E9%AB%98%E6%A8%A1%E7%AF%84%E7%94%9F%E9%8E%96%E5%AE%9A%E6%8A%80%E5%98%89-%E4%B8%AD%E7%A0%82-%E4%BF%A1%E9%82%A6--2026-10-07--%E5%8F%B0%E8%82%A1-%E7%9B%A4%E5%89%8D%E8%A7%A3%E6%9E%90-%E4%BB%8A%E5%A4%A9-Shot-%E9%80%99%E7%9B%A4-%E8%B1%90%E9%9B%B2%E5%AD%B8%E5%A0%82%E7%9B%B4%E6%92%AD-6ac4bfdbbc822800fc47f767",
+      "source": "永豐金證券",
+      "pubDate": "Wed, 07 Oct 2026 00:15:31 GMT",
+      "stocks": [
+        {
+          "symbol": "2357",
+          "name": "技嘉",
+          "point": "營收創高模範生",
+          "status": "逼近新高",
+          "dist": -4,
+          "limitUp": false
+        },
+        {
+          "symbol": "1560",
+          "name": "中砂",
+          "point": "營收創高模範生",
+          "status": "逼近新高",
+          "dist": -3.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "3376",
+          "name": "信邦",
+          "point": "營收創高模範生",
+          "limitUp": false
+        }
+      ],
+      "background": "台股熱門族群因漲幅已大，投信獲利了結大賣，導致個股劇烈洗刷，指數仍在高檔。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE5BQjZ3eXhxaW1KQjB0VGdDSC0yOS1BTUR0cXZqa0dnelVncWF2UHFMV0xKdFhYZjJBRlRZbFVYU1BPQkI5cTNBUUhIbDVHV05HZVFEVEZhYVE",
+      "tkey": "熱門族群AI資料中心帶動BBU需求電池模組族群氣勢大振",
+      "title": "熱門族群》AI資料中心帶動BBU需求 電池模組族群氣勢大振 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/dqdvu8nlt2rl",
+      "source": "自由時報",
+      "pubDate": "Tue, 06 Oct 2026 18:02:56 GMT",
+      "stocks": [],
+      "background": "AI 資料中心對備用電池單元（BBU）的需求增加，帶動電池模組族群的市場氣勢。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}
