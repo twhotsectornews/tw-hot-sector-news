@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-07T14:03:30.083+08:00",
-  "generatedAt": "2026-10-07T06:03:30.083Z",
+  "asOf": "2026-10-07T17:38:25.501+08:00",
+  "generatedAt": "2026-10-07T09:38:25.501Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -120,7 +120,12 @@
         "10/1"
       ],
       "mentions": 3,
-      "limitUp": false
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "10/6",
+        "9/30"
+      ]
     },
     {
       "symbol": "2383",
@@ -322,7 +327,12 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -9.6,
-      "limitUp": false
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "10/6",
+        "9/30"
+      ]
     },
     {
       "symbol": "6834",
@@ -555,13 +565,23 @@
           "point": "盤中強勢漲停",
           "status": "逼近新高",
           "dist": -9.6,
-          "limitUp": false
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "10/6",
+            "9/30"
+          ]
         },
         {
           "symbol": "5228",
           "name": "鈺鎧",
           "point": "盤中強勢漲停",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "10/6",
+            "9/30"
+          ]
         },
         {
           "symbol": "6834",
@@ -727,15 +747,7 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "10/6",
-            "10/5",
-            "10/2",
-            "10/1",
-            "9/30"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "3630",
