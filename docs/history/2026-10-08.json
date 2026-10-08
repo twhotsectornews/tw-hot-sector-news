@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "updatedAt": "2026-10-08T16:24:25.448Z",
+  "updatedAt": "2026-10-08T17:37:12.028Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNWFVyOTd1cUctRE95cXlmdUJXdVFXblVnUXpUSS03bGFkOU1nWDc2Zzg0NGhUaXI5S2NvdFR6d3lqMEhIbFkyTW9UdnZqU0h0ZjBSOWgyX0QwdU5vd3NHbGUwbV91RlRzQnpKWkcxWjU5d0VteFhvNmtFRUNvNWNHUmpyQjJXaFcw",
@@ -21,30 +21,14 @@
           "name": "九豪",
           "point": "強鎖紅燈",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "10/8",
-            "10/7",
-            "10/6",
-            "10/5",
-            "10/2"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "8042",
           "name": "金山電",
           "point": "強鎖紅燈",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "10/8",
-            "10/7",
-            "10/6",
-            "10/5",
-            "10/2"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "3624",
@@ -53,45 +37,21 @@
           "status": "逼近新高",
           "dist": -0.9,
           "limitUp": true,
-          "pct": 9.7,
-          "luw": 5,
-          "luwd": [
-            "10/8",
-            "10/7",
-            "10/6",
-            "10/5",
-            "10/2"
-          ]
+          "pct": 9.7
         },
         {
           "symbol": "5228",
           "name": "鈺鎧",
           "point": "強鎖紅燈",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "10/8",
-            "10/7",
-            "10/6",
-            "10/5",
-            "10/2"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "4760",
           "name": "勤凱",
           "point": "9月營收創歷史新高",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "10/8",
-            "10/7",
-            "10/6",
-            "10/5",
-            "10/2"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "3236",
@@ -202,15 +162,7 @@
           "name": "金山電",
           "point": "走穩或衝高",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "10/8",
-            "10/7",
-            "10/6",
-            "10/5",
-            "10/2"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "3090",
@@ -237,15 +189,7 @@
           "status": "逼近新高",
           "dist": -0.9,
           "limitUp": true,
-          "pct": 9.7,
-          "luw": 5,
-          "luwd": [
-            "10/8",
-            "10/7",
-            "10/6",
-            "10/5",
-            "10/2"
-          ]
+          "pct": 9.7
         },
         {
           "symbol": "2383",
@@ -478,15 +422,7 @@
           "name": "合世",
           "point": "防疫概念強閃紅燈",
           "limitUp": true,
-          "pct": 9.8,
-          "luw": 5,
-          "luwd": [
-            "10/8",
-            "10/7",
-            "10/6",
-            "10/5",
-            "10/2"
-          ]
+          "pct": 9.8
         },
         {
           "symbol": "4157",
