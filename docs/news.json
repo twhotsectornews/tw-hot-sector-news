@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-08T12:05:15.081+08:00",
-  "generatedAt": "2026-10-08T04:05:15.081Z",
+  "asOf": "2026-10-08T13:04:50.820+08:00",
+  "generatedAt": "2026-10-08T05:04:50.820Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -76,10 +76,26 @@
         "10/6",
         "10/3"
       ],
-      "mentions": 4,
+      "mentions": 5,
       "status": "逼近新高",
       "dist": -1,
       "limitUp": false
+    },
+    {
+      "symbol": "2327",
+      "name": "國巨",
+      "days": 3,
+      "dates": [
+        "10/8",
+        "10/7",
+        "10/2"
+      ],
+      "mentions": 4,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/1"
+      ]
     },
     {
       "symbol": "2492",
@@ -90,7 +106,7 @@
         "10/7",
         "10/2"
       ],
-      "mentions": 3,
+      "mentions": 4,
       "limitUp": false,
       "luw": 3,
       "luwd": [
@@ -100,8 +116,8 @@
       ]
     },
     {
-      "symbol": "2327",
-      "name": "國巨*",
+      "symbol": "5228",
+      "name": "鈺鎧",
       "days": 3,
       "dates": [
         "10/8",
@@ -109,6 +125,40 @@
         "10/2"
       ],
       "mentions": 3,
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "10/7",
+        "10/6",
+        "10/5",
+        "10/2",
+        "10/1"
+      ]
+    },
+    {
+      "symbol": "3236",
+      "name": "千如",
+      "days": 3,
+      "dates": [
+        "10/8",
+        "10/7",
+        "10/2"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "6834",
+      "name": "天二科技",
+      "days": 3,
+      "dates": [
+        "10/8",
+        "10/7",
+        "10/2"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -6.6,
       "limitUp": false,
       "luw": 1,
       "luwd": [
@@ -163,7 +213,8 @@
         "10/7"
       ],
       "mentions": 4,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "1325",
@@ -218,6 +269,38 @@
         "10/4"
       ],
       "mentions": 4
+    },
+    {
+      "symbol": "8042",
+      "name": "金山電",
+      "days": 2,
+      "dates": [
+        "10/8",
+        "10/7"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "3624",
+      "name": "光頡",
+      "days": 2,
+      "dates": [
+        "10/8",
+        "10/7"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -0.9,
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "10/7",
+        "10/6",
+        "10/5",
+        "10/2",
+        "10/1"
+      ]
     },
     {
       "symbol": "6213",
@@ -330,8 +413,8 @@
       ]
     },
     {
-      "symbol": "8042",
-      "name": "金山電",
+      "symbol": "3026",
+      "name": "禾伸堂",
       "days": 2,
       "dates": [
         "10/8",
@@ -339,90 +422,125 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "3624",
-      "name": "光頡",
-      "days": 2,
-      "dates": [
-        "10/8",
-        "10/7"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -0.9,
-      "limitUp": true,
-      "pct": 9.7,
-      "luw": 5,
-      "luwd": [
-        "10/7",
-        "10/6",
-        "10/5",
-        "10/2",
-        "10/1"
-      ]
-    },
-    {
-      "symbol": "4142",
-      "name": "國光生",
-      "days": 2,
-      "dates": [
-        "10/8",
-        "10/7"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3406",
-      "name": "玉晶光",
-      "days": 2,
-      "dates": [
-        "10/7",
-        "10/6"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -3.9,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/5"
-      ]
-    },
-    {
-      "symbol": "3236",
-      "name": "千如",
-      "days": 2,
-      "dates": [
-        "10/7",
-        "10/2"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "5228",
-      "name": "鈺鎧",
-      "days": 2,
-      "dates": [
-        "10/7",
-        "10/2"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 9.8,
-      "luw": 5,
-      "luwd": [
-        "10/7",
-        "10/6",
-        "10/5",
-        "10/2",
-        "10/1"
-      ]
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNWFVyOTd1cUctRE95cXlmdUJXdVFXblVnUXpUSS03bGFkOU1nWDc2Zzg0NGhUaXI5S2NvdFR6d3lqMEhIbFkyTW9UdnZqU0h0ZjBSOWgyX0QwdU5vd3NHbGUwbV91RlRzQnpKWkcxWjU5d0VteFhvNmtFRUNvNWNHUmpyQjJXaFcw",
+      "tkey": "熱門族群被動元件再鎖5紅燈！光頡戰天價國巨竟扯後腿",
+      "title": "《熱門族群》被動元件再鎖5紅燈！光頡戰天價 國巨竟扯後腿 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6324079001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 08 Oct 2026 04:17:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "point": "AI伺服器升級帶動，目標價千元",
+          "limitUp": false
+        },
+        {
+          "symbol": "6127",
+          "name": "九豪",
+          "point": "強鎖紅燈",
+          "limitUp": false
+        },
+        {
+          "symbol": "8042",
+          "name": "金山電",
+          "point": "強鎖紅燈",
+          "limitUp": false
+        },
+        {
+          "symbol": "3624",
+          "name": "光頡",
+          "point": "AI伺服器高精度電阻拉貨強勁",
+          "status": "逼近新高",
+          "dist": -0.9,
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "10/7",
+            "10/6",
+            "10/5",
+            "10/2",
+            "10/1"
+          ]
+        },
+        {
+          "symbol": "5228",
+          "name": "鈺鎧",
+          "point": "強鎖紅燈",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "10/7",
+            "10/6",
+            "10/5",
+            "10/2",
+            "10/1"
+          ]
+        },
+        {
+          "symbol": "4760",
+          "name": "勤凱",
+          "point": "9月營收創歷史新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "3236",
+          "name": "千如",
+          "point": "聯袂勁揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "2428",
+          "name": "興勤",
+          "point": "9月營收創歷史新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "6834",
+          "name": "天二科技",
+          "point": "9月營收創歷史新高",
+          "status": "逼近新高",
+          "dist": -6.6,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/1"
+          ]
+        },
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "9月營收續創新高，逆勢下挫",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/1"
+          ]
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "漲多修正",
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "10/7",
+            "10/2",
+            "10/1"
+          ]
+        }
+      ],
+      "background": "被動元件受AI伺服器與車用升級帶動，日韓廠策略調整，台廠迎轉單與漲價紅利，產業供不應求。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPQzJPQTUyOE84V2JPNzBQTG0yMmN5TUtqVUd2LWhraVltNHB4a2pkbXNnLTk0di1uaW1jTDhieGw5cmQ4eGV2WE5ta3lrdDB0VjBYVHhzNHl6ZzdGVFExbHNmaXJncTVScDFUQ00yLUVleUU1SGcwZnBvWXpQV1Q4WmpvZnBYSkps",
       "tkey": "盤中分析：權值股震盪，熱門族群高檔換手，連假前資金降低風險部位",
@@ -517,8 +635,7 @@
           "point": "走穩或衝高",
           "status": "逼近新高",
           "dist": -0.9,
-          "limitUp": true,
-          "pct": 9.7,
+          "limitUp": false,
           "luw": 5,
           "luwd": [
             "10/7",
@@ -709,7 +826,8 @@
           "symbol": "9919",
           "name": "康那香",
           "point": "防疫概念強閃紅燈",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "1325",
