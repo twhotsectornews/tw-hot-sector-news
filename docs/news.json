@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-08T13:04:50.820+08:00",
-  "generatedAt": "2026-10-08T05:04:50.820Z",
+  "asOf": "2026-10-08T14:03:41.375+08:00",
+  "generatedAt": "2026-10-08T06:03:41.375Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -125,12 +125,12 @@
         "10/2"
       ],
       "mentions": 3,
-      "limitUp": false,
-      "luw": 5,
+      "limitUp": true,
+      "pct": 9.8,
+      "luw": 4,
       "luwd": [
         "10/7",
         "10/6",
-        "10/5",
         "10/2",
         "10/1"
       ]
@@ -225,7 +225,8 @@
         "10/7"
       ],
       "mentions": 4,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "3373",
@@ -292,12 +293,12 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -0.9,
-      "limitUp": false,
-      "luw": 5,
+      "limitUp": true,
+      "pct": 10,
+      "luw": 4,
       "luwd": [
         "10/7",
         "10/6",
-        "10/5",
         "10/2",
         "10/1"
       ]
@@ -356,7 +357,8 @@
         "10/7"
       ],
       "mentions": 3,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "4133",
@@ -457,12 +459,12 @@
           "point": "AI伺服器高精度電阻拉貨強勁",
           "status": "逼近新高",
           "dist": -0.9,
-          "limitUp": false,
-          "luw": 5,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 4,
           "luwd": [
             "10/7",
             "10/6",
-            "10/5",
             "10/2",
             "10/1"
           ]
@@ -471,12 +473,12 @@
           "symbol": "5228",
           "name": "鈺鎧",
           "point": "強鎖紅燈",
-          "limitUp": false,
-          "luw": 5,
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 4,
           "luwd": [
             "10/7",
             "10/6",
-            "10/5",
             "10/2",
             "10/1"
           ]
@@ -635,12 +637,12 @@
           "point": "走穩或衝高",
           "status": "逼近新高",
           "dist": -0.9,
-          "limitUp": false,
-          "luw": 5,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 4,
           "luwd": [
             "10/7",
             "10/6",
-            "10/5",
             "10/2",
             "10/1"
           ]
@@ -820,7 +822,8 @@
           "symbol": "9103",
           "name": "美德醫療-DR",
           "point": "防疫概念強閃紅燈",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "9919",
@@ -833,19 +836,22 @@
           "symbol": "1325",
           "name": "恆大",
           "point": "防疫概念強閃紅燈",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6504",
           "name": "南六",
           "point": "防疫概念強閃紅燈",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6645",
           "name": "金萬林-創",
           "point": "防疫概念強閃紅燈",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "1781",
@@ -1136,11 +1142,10 @@
           "dist": -9.6,
           "limitUp": true,
           "pct": 10,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "10/7",
             "10/6",
-            "10/5",
             "10/2",
             "10/1"
           ]
@@ -1151,11 +1156,10 @@
           "point": "盤中強勢漲停",
           "limitUp": true,
           "pct": 9.8,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "10/7",
             "10/6",
-            "10/5",
             "10/2",
             "10/1"
           ]
