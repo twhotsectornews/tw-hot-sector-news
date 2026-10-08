@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "updatedAt": "2026-10-07T17:33:32.765Z",
+  "updatedAt": "2026-10-08T03:02:26.267Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNcmdOUWtQVHNIUnB6UlpiLS1oQWgwbkZ5WDhRb245RWUybVR4VjJrQ1oyNFVyQkd5MExQV09sbHplLVk2d1hnNUFnQ3UyRUF5Q2xfa0U4SFM5VnV2VGpDdjVBNldQRlVVMHV3cnNYYnpTeFo4Q1M5Uk5vbjJmNnNUMzNHbmxnRnRY",
@@ -274,6 +274,8 @@
           "name": "天二科技",
           "point": "盤中強勢漲停",
           "limitUp": false,
+          "status": "逼近新高",
+          "dist": -9.1,
           "luw": 1,
           "luwd": [
             "10/1"
