@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "updatedAt": "2026-10-08T06:03:41.371Z",
+  "updatedAt": "2026-10-08T09:42:59.493Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNcmdOUWtQVHNIUnB6UlpiLS1oQWgwbkZ5WDhRb245RWUybVR4VjJrQ1oyNFVyQkd5MExQV09sbHplLVk2d1hnNUFnQ3UyRUF5Q2xfa0U4SFM5VnV2VGpDdjVBNldQRlVVMHV3cnNYYnpTeFo4Q1M5Uk5vbjJmNnNUMzNHbmxnRnRY",
@@ -245,10 +245,11 @@
           "dist": -9.6,
           "limitUp": true,
           "pct": 10,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
             "10/7",
             "10/6",
+            "10/5",
             "10/2",
             "10/1"
           ]
@@ -259,10 +260,11 @@
           "point": "盤中強勢漲停",
           "limitUp": true,
           "pct": 9.8,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
             "10/7",
             "10/6",
+            "10/5",
             "10/2",
             "10/1"
           ]
@@ -289,7 +291,15 @@
           "symbol": "8042",
           "name": "金山電",
           "point": "一度上攻漲停",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "10/7",
+            "10/6",
+            "10/5",
+            "10/2",
+            "10/1"
+          ]
         }
       ],
       "background": "被動元件族群因基期較低，受惠AI相關需求，龍頭股國巨、華新科領軍，帶動整體族群強勢漲停。",
