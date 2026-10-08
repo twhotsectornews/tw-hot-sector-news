@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "updatedAt": "2026-10-08T10:42:16.988Z",
+  "updatedAt": "2026-10-08T16:24:25.450Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNcmdOUWtQVHNIUnB6UlpiLS1oQWgwbkZ5WDhRb245RWUybVR4VjJrQ1oyNFVyQkd5MExQV09sbHplLVk2d1hnNUFnQ3UyRUF5Q2xfa0U4SFM5VnV2VGpDdjVBNldQRlVVMHV3cnNYYnpTeFo4Q1M5Uk5vbjJmNnNUMzNHbmxnRnRY",
@@ -55,13 +55,21 @@
           "symbol": "1325",
           "name": "恆大",
           "point": "口罩股勁揚5.8%",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/8"
+          ]
         },
         {
           "symbol": "9919",
           "name": "康那香",
           "point": "口罩股漲近4%",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/8"
+          ]
         },
         {
           "symbol": "4736",
@@ -107,13 +115,21 @@
           "symbol": "1325",
           "name": "恆大",
           "point": "口罩股漲幅超過4%",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/8"
+          ]
         },
         {
           "symbol": "9103",
           "name": "美德醫療-DR",
           "point": "漲幅超過4%",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/8"
+          ]
         },
         {
           "symbol": "2108",
@@ -125,7 +141,11 @@
           "symbol": "9919",
           "name": "康那香",
           "point": "相關個股同步走揚",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/8"
+          ]
         },
         {
           "symbol": "4133",
@@ -161,12 +181,20 @@
         {
           "symbol": "1325",
           "name": "恆大",
-          "point": "漲幅超過4%"
+          "point": "漲幅超過4%",
+          "luw": 1,
+          "luwd": [
+            "10/8"
+          ]
         },
         {
           "symbol": "9103",
           "name": "美德醫療-DR",
-          "point": "漲幅超過4%"
+          "point": "漲幅超過4%",
+          "luw": 1,
+          "luwd": [
+            "10/8"
+          ]
         },
         {
           "symbol": "2108",
@@ -176,7 +204,11 @@
         {
           "symbol": "9919",
           "name": "康那香",
-          "point": "漲幅達2%以上"
+          "point": "漲幅達2%以上",
+          "luw": 1,
+          "luwd": [
+            "10/8"
+          ]
         },
         {
           "symbol": "4133",
@@ -206,11 +238,7 @@
           "symbol": "2327",
           "name": "國巨",
           "point": "領軍被動元件漲停潮",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "10/1"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "2492",
@@ -218,11 +246,10 @@
           "point": "直拉攻頂漲停",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 3,
+          "luw": 2,
           "luwd": [
             "10/7",
-            "10/2",
-            "10/1"
+            "10/2"
           ]
         },
         {
@@ -247,11 +274,11 @@
           "pct": 10,
           "luw": 5,
           "luwd": [
+            "10/8",
             "10/7",
             "10/6",
             "10/5",
-            "10/2",
-            "10/1"
+            "10/2"
           ]
         },
         {
@@ -262,11 +289,11 @@
           "pct": 9.8,
           "luw": 5,
           "luwd": [
+            "10/8",
             "10/7",
             "10/6",
             "10/5",
-            "10/2",
-            "10/1"
+            "10/2"
           ]
         },
         {
@@ -275,11 +302,7 @@
           "point": "盤中強勢漲停",
           "limitUp": false,
           "status": "逼近新高",
-          "dist": -9.1,
-          "luw": 1,
-          "luwd": [
-            "10/1"
-          ]
+          "dist": -9.1
         },
         {
           "symbol": "6862",
@@ -294,11 +317,11 @@
           "limitUp": false,
           "luw": 5,
           "luwd": [
+            "10/8",
             "10/7",
             "10/6",
             "10/5",
-            "10/2",
-            "10/1"
+            "10/2"
           ]
         }
       ],

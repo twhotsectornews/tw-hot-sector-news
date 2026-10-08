@@ -1,0 +1,532 @@
+{
+  "date": "2026-10-08",
+  "updatedAt": "2026-10-08T16:24:25.448Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNWFVyOTd1cUctRE95cXlmdUJXdVFXblVnUXpUSS03bGFkOU1nWDc2Zzg0NGhUaXI5S2NvdFR6d3lqMEhIbFkyTW9UdnZqU0h0ZjBSOWgyX0QwdU5vd3NHbGUwbV91RlRzQnpKWkcxWjU5d0VteFhvNmtFRUNvNWNHUmpyQjJXaFcw",
+      "tkey": "熱門族群被動元件再鎖5紅燈！光頡戰天價國巨竟扯後腿",
+      "title": "《熱門族群》被動元件再鎖5紅燈！光頡戰天價 國巨竟扯後腿 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6324079001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 08 Oct 2026 04:17:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "point": "AI伺服器升級帶動，目標價千元",
+          "limitUp": false
+        },
+        {
+          "symbol": "6127",
+          "name": "九豪",
+          "point": "強鎖紅燈",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "10/8",
+            "10/7",
+            "10/6",
+            "10/5",
+            "10/2"
+          ]
+        },
+        {
+          "symbol": "8042",
+          "name": "金山電",
+          "point": "強鎖紅燈",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "10/8",
+            "10/7",
+            "10/6",
+            "10/5",
+            "10/2"
+          ]
+        },
+        {
+          "symbol": "3624",
+          "name": "光頡",
+          "point": "AI伺服器高精度電阻拉貨強勁",
+          "status": "逼近新高",
+          "dist": -0.9,
+          "limitUp": true,
+          "pct": 9.7,
+          "luw": 5,
+          "luwd": [
+            "10/8",
+            "10/7",
+            "10/6",
+            "10/5",
+            "10/2"
+          ]
+        },
+        {
+          "symbol": "5228",
+          "name": "鈺鎧",
+          "point": "強鎖紅燈",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "10/8",
+            "10/7",
+            "10/6",
+            "10/5",
+            "10/2"
+          ]
+        },
+        {
+          "symbol": "4760",
+          "name": "勤凱",
+          "point": "9月營收創歷史新高",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "10/8",
+            "10/7",
+            "10/6",
+            "10/5",
+            "10/2"
+          ]
+        },
+        {
+          "symbol": "3236",
+          "name": "千如",
+          "point": "聯袂勁揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "2428",
+          "name": "興勤",
+          "point": "9月營收創歷史新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "6834",
+          "name": "天二科技",
+          "point": "9月營收創歷史新高",
+          "status": "逼近新高",
+          "dist": -6.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "9月營收續創新高，逆勢下挫",
+          "limitUp": false
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "漲多修正",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "10/7",
+            "10/2"
+          ]
+        }
+      ],
+      "background": "被動元件受AI伺服器與車用升級帶動，日韓廠策略調整，台廠迎轉單與漲價紅利，產業供不應求。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPQzJPQTUyOE84V2JPNzBQTG0yMmN5TUtqVUd2LWhraVltNHB4a2pkbXNnLTk0di1uaW1jTDhieGw5cmQ4eGV2WE5ta3lrdDB0VjBYVHhzNHl6ZzdGVFExbHNmaXJncTVScDFUQ00yLUVleUU1SGcwZnBvWXpQV1Q4WmpvZnBYSkps",
+      "tkey": "盤中分析：權值股震盪，熱門族群高檔換手，連假前資金降低風險部位",
+      "title": "盤中分析：權值股震盪，熱門族群高檔換手，連假前資金降低風險部位 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=2429292002&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 08 Oct 2026 03:39:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "開盤跌35元，盤中震盪",
+          "status": "逼近新高",
+          "dist": -1,
+          "limitUp": false
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "開盤後一度下探",
+          "status": "高檔修正",
+          "dist": -13.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "2303",
+          "name": "聯電",
+          "point": "相對抗跌，平盤附近整理",
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "遭逢賣壓，盤中跌幅約1%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "早盤一度跌逾5%",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "10/7",
+            "10/2"
+          ]
+        },
+        {
+          "symbol": "2327",
+          "name": "國巨*",
+          "point": "公布9月營收創高，短線獲利了結",
+          "limitUp": false
+        },
+        {
+          "symbol": "2472",
+          "name": "立隆電",
+          "point": "走穩或衝高",
+          "limitUp": false
+        },
+        {
+          "symbol": "8042",
+          "name": "金山電",
+          "point": "走穩或衝高",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "10/8",
+            "10/7",
+            "10/6",
+            "10/5",
+            "10/2"
+          ]
+        },
+        {
+          "symbol": "3090",
+          "name": "日電貿",
+          "point": "走穩或衝高",
+          "limitUp": false
+        },
+        {
+          "symbol": "2375",
+          "name": "凱美",
+          "point": "走穩或衝高",
+          "limitUp": false
+        },
+        {
+          "symbol": "8043",
+          "name": "蜜望實",
+          "point": "走穩或衝高",
+          "limitUp": false
+        },
+        {
+          "symbol": "3624",
+          "name": "光頡",
+          "point": "走穩或衝高",
+          "status": "逼近新高",
+          "dist": -0.9,
+          "limitUp": true,
+          "pct": 9.7,
+          "luw": 5,
+          "luwd": [
+            "10/8",
+            "10/7",
+            "10/6",
+            "10/5",
+            "10/2"
+          ]
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "早盤一度跌逾2%",
+          "status": "逼近新高",
+          "dist": -7.3,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "承受高檔換手壓力",
+          "status": "逼近新高",
+          "dist": -9.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "6213",
+          "name": "聯茂",
+          "point": "承受高檔換手壓力",
+          "status": "逼近新高",
+          "dist": -2,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "一度重挫逾4%",
+          "status": "逼近新高",
+          "dist": -7.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "跌逾3%",
+          "status": "高檔修正",
+          "dist": -11.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "跌約2%",
+          "status": "逼近新高",
+          "dist": -5.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "4958",
+          "name": "臻鼎-KY",
+          "point": "逆勢維持紅盤",
+          "status": "逼近新高",
+          "dist": -9.9,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/2"
+          ]
+        },
+        {
+          "symbol": "5340",
+          "name": "建榮",
+          "point": "短線整理後靜待營收",
+          "limitUp": false
+        },
+        {
+          "symbol": "5475",
+          "name": "德宏",
+          "point": "短線整理後靜待營收",
+          "limitUp": false
+        },
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "短線整理後靜待營收",
+          "status": "逼近新高",
+          "dist": -3.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "盤中跌逾5%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2455",
+          "name": "全新",
+          "point": "同步回檔",
+          "status": "逼近新高",
+          "dist": -8.2,
+          "limitUp": false
+        }
+      ],
+      "background": "權值股與熱門題材股同步修正，市場風險偏好降溫。連假前資金降低部位，觀察支撐點位。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPZUVjZzRfVy1SWjVFYlJCM0VvMFBIdFZqZGxmWEphZ2pZbEJSNWM5UnptYU50VnFVSVVGQTFaQllDaE1hVTg2dWZEV1B2RkhrbEFON3JrRFFyOGdOVm8ycUh5cEFoYl8xbzB5eEI1LVFmb3lmNGluRVczTlFrTGtCZ0hmbGRISVRO",
+      "tkey": "熱門族群美光逆勢大漲4%南亞科法說行情熱身",
+      "title": "《熱門族群》美光逆勢大漲4% 南亞科法說行情熱身 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6323999001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 08 Oct 2026 03:13:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "法說會行情熱身，股價開高走高",
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "高檔整理",
+          "limitUp": false
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "同步高檔整理，力守月線",
+          "limitUp": false
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "退居月季線之下",
+          "limitUp": false
+        },
+        {
+          "symbol": "4967",
+          "name": "十銓",
+          "point": "9月營收年增逾109%，股價走升",
+          "limitUp": false
+        },
+        {
+          "symbol": "8150",
+          "name": "南茂",
+          "point": "量縮回檔，回測5日均線",
+          "status": "逼近新高",
+          "dist": -4.9,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/2"
+          ]
+        }
+      ],
+      "background": "受惠AI帶動DRAM供不應求，報價可望上漲。美光股價逆勢大漲，帶動台系DRAM廠法說行情。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPTTd3ZHhHOEE3aWl0VlRSTEh0TXV5MklOUnRIQUtzb19GS3A4TGRZT3llcHpsVktTMlZ2dnlLRjFCa1F2RUdtVmNIQnRDcUt1T3o0RmlTOGh2UlVLVTZwRnlmX0ZlVktGMm5QZXpjVXZkTnpwYXdKMEFJVFdudGt3MGkwLXNUM0di",
+      "tkey": "熱門族群台股5日線告急！防疫概念高燒7顆紅燈急閃",
+      "title": "《熱門族群》台股5日線告急！防疫概念高燒 7顆紅燈急閃 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6323996001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 08 Oct 2026 03:08:00 GMT",
+      "stocks": [
+        {
+          "symbol": "9103",
+          "name": "美德醫療-DR",
+          "point": "防疫概念強閃紅燈",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "10/8"
+          ]
+        },
+        {
+          "symbol": "9919",
+          "name": "康那香",
+          "point": "防疫概念強閃紅燈",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "10/8"
+          ]
+        },
+        {
+          "symbol": "1325",
+          "name": "恆大",
+          "point": "防疫概念強閃紅燈",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "10/8"
+          ]
+        },
+        {
+          "symbol": "6504",
+          "name": "南六",
+          "point": "防疫概念強閃紅燈",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "10/8"
+          ]
+        },
+        {
+          "symbol": "6645",
+          "name": "金萬林-創",
+          "point": "防疫概念強閃紅燈",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 1,
+          "luwd": [
+            "10/8"
+          ]
+        },
+        {
+          "symbol": "1781",
+          "name": "合世",
+          "point": "防疫概念強閃紅燈",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 5,
+          "luwd": [
+            "10/8",
+            "10/7",
+            "10/6",
+            "10/5",
+            "10/2"
+          ]
+        },
+        {
+          "symbol": "4157",
+          "name": "太景*-KY",
+          "point": "防疫概念強閃紅燈",
+          "limitUp": false
+        },
+        {
+          "symbol": "3373",
+          "name": "熱映",
+          "point": "跟進走強呼應多方",
+          "limitUp": false
+        },
+        {
+          "symbol": "4133",
+          "name": "亞諾法",
+          "point": "跟進走強呼應多方",
+          "limitUp": false
+        },
+        {
+          "symbol": "1762",
+          "name": "中化生",
+          "point": "跟進走強呼應多方",
+          "limitUp": false
+        },
+        {
+          "symbol": "4142",
+          "name": "國光生",
+          "point": "跟進走強呼應多方",
+          "limitUp": false
+        },
+        {
+          "symbol": "4167",
+          "name": "松瑞藥",
+          "point": "跟進走強呼應多方",
+          "limitUp": false
+        }
+      ],
+      "background": "國內流感與新冠疫情高燒，加上國際傳出疑似肺鼠疫病例，帶動疫苗與生技概念股走強。",
+      "themeTags": []
+    }
+  ]
+}
