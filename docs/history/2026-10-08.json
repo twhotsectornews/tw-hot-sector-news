@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "updatedAt": "2026-10-09T10:41:07.842Z",
+  "updatedAt": "2026-10-09T16:07:14.476Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNWFVyOTd1cUctRE95cXlmdUJXdVFXblVnUXpUSS03bGFkOU1nWDc2Zzg0NGhUaXI5S2NvdFR6d3lqMEhIbFkyTW9UdnZqU0h0ZjBSOWgyX0QwdU5vd3NHbGUwbV91RlRzQnpKWkcxWjU5d0VteFhvNmtFRUNvNWNHUmpyQjJXaFcw",
@@ -22,13 +22,12 @@
           "point": "強鎖紅燈",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "10/8",
             "10/7",
             "10/6",
-            "10/5",
-            "10/2"
+            "10/5"
           ]
         },
         {
@@ -37,13 +36,12 @@
           "point": "強鎖紅燈",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "10/8",
             "10/7",
             "10/6",
-            "10/5",
-            "10/2"
+            "10/5"
           ]
         },
         {
@@ -54,13 +52,12 @@
           "dist": -0.9,
           "limitUp": true,
           "pct": 9.7,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "10/8",
             "10/7",
             "10/6",
-            "10/5",
-            "10/2"
+            "10/5"
           ]
         },
         {
@@ -69,13 +66,12 @@
           "point": "強鎖紅燈",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "10/8",
             "10/7",
             "10/6",
-            "10/5",
-            "10/2"
+            "10/5"
           ]
         },
         {
@@ -84,13 +80,12 @@
           "point": "9月營收創歷史新高",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "10/8",
             "10/7",
             "10/6",
-            "10/5",
-            "10/2"
+            "10/5"
           ]
         },
         {
@@ -124,10 +119,9 @@
           "name": "華新科",
           "point": "漲多修正",
           "limitUp": false,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "10/7",
-            "10/2"
+            "10/7"
           ]
         }
       ],
@@ -179,10 +173,9 @@
           "name": "華新科",
           "point": "早盤一度跌逾5%",
           "limitUp": false,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "10/7",
-            "10/2"
+            "10/7"
           ]
         },
         {
@@ -203,13 +196,12 @@
           "point": "走穩或衝高",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "10/8",
             "10/7",
             "10/6",
-            "10/5",
-            "10/2"
+            "10/5"
           ]
         },
         {
@@ -238,13 +230,12 @@
           "dist": -0.9,
           "limitUp": true,
           "pct": 9.7,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "10/8",
             "10/7",
             "10/6",
-            "10/5",
-            "10/2"
+            "10/5"
           ]
         },
         {
@@ -309,11 +300,7 @@
           "point": "逆勢維持紅盤",
           "status": "逼近新高",
           "dist": -9.9,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "10/2"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "5340",
@@ -397,11 +384,7 @@
           "point": "量縮回檔，回測5日均線",
           "status": "逼近新高",
           "dist": -4.9,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "10/2"
-          ]
+          "limitUp": false
         }
       ],
       "background": "受惠AI帶動DRAM供不應求，報價可望上漲。美光股價逆勢大漲，帶動台系DRAM廠法說行情。",
@@ -479,13 +462,12 @@
           "point": "防疫概念強閃紅燈",
           "limitUp": true,
           "pct": 9.8,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "10/8",
             "10/7",
             "10/6",
-            "10/5",
-            "10/2"
+            "10/5"
           ]
         },
         {
