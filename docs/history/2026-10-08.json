@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "updatedAt": "2026-10-10T03:02:17.716Z",
+  "updatedAt": "2026-10-10T04:03:57.212Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNWFVyOTd1cUctRE95cXlmdUJXdVFXblVnUXpUSS03bGFkOU1nWDc2Zzg0NGhUaXI5S2NvdFR6d3lqMEhIbFkyTW9UdnZqU0h0ZjBSOWgyX0QwdU5vd3NHbGUwbV91RlRzQnpKWkcxWjU5d0VteFhvNmtFRUNvNWNHUmpyQjJXaFcw",
@@ -126,6 +126,120 @@
         }
       ],
       "background": "被動元件受AI伺服器與車用升級帶動，日韓廠策略調整，台廠迎轉單與漲價紅利，產業供不應求。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQTi1SbDNBZ3lxNEhHbkhDTXBfSk13d1h4c3hXM1RMSDIwdWFvazRfRDdrY1haN3BvbkR6UDAtVGF3cm85bGxIZzNYazE3OVM3dTR5cy1fNDZUS212dDlqTU1WdjJtSkF6ZE56NEE1dUQtZm54cFhoVGJUbmhsNVNzelZYSnNyTVRn",
+      "tkey": "熱門族群被動元件再鎖5紅燈！光頡戰天價國巨竟扯後腿",
+      "title": "《熱門族群》被動元件再鎖5紅燈！光頡戰天價 國巨竟扯後腿 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6324079001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 08 Oct 2026 04:17:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3624",
+          "name": "光頡",
+          "point": "戰天價、強鎖紅燈",
+          "status": "逼近新高",
+          "dist": -0.9,
+          "luw": 4,
+          "luwd": [
+            "10/8",
+            "10/7",
+            "10/6",
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "逆勢下挫、扯後腿"
+        },
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "point": "翻紅力返千金大門"
+        },
+        {
+          "symbol": "6127",
+          "name": "九豪",
+          "point": "強鎖紅燈",
+          "luw": 4,
+          "luwd": [
+            "10/8",
+            "10/7",
+            "10/6",
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "8042",
+          "name": "金山電",
+          "point": "強鎖紅燈",
+          "luw": 4,
+          "luwd": [
+            "10/8",
+            "10/7",
+            "10/6",
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "5228",
+          "name": "鈺鎧",
+          "point": "強鎖紅燈",
+          "luw": 4,
+          "luwd": [
+            "10/8",
+            "10/7",
+            "10/6",
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "4760",
+          "name": "勤凱",
+          "point": "強鎖紅燈",
+          "luw": 4,
+          "luwd": [
+            "10/8",
+            "10/7",
+            "10/6",
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "3236",
+          "name": "千如",
+          "point": "聯袂勁揚"
+        },
+        {
+          "symbol": "2428",
+          "name": "興勤",
+          "point": "聯袂勁揚、營收創新高"
+        },
+        {
+          "symbol": "6834",
+          "name": "天二科技",
+          "point": "聯袂勁揚、營收創新高",
+          "status": "逼近新高",
+          "dist": -7.7
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "漲多修正",
+          "luw": 1,
+          "luwd": [
+            "10/7"
+          ]
+        }
+      ],
+      "background": "被動元件受AI伺服器高階需求與車用電子規格升級帶動，日韓廠策略調整讓台廠喜迎轉單與漲價紅利，產業景氣復甦。",
       "themeTags": [
         "需求驅動",
         "國際大廠",

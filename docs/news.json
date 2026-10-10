@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-10T11:02:17.719+08:00",
-  "generatedAt": "2026-10-10T03:02:17.719Z",
+  "asOf": "2026-10-10T12:03:57.218+08:00",
+  "generatedAt": "2026-10-10T04:03:57.218Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -65,6 +65,72 @@
       ],
       "mentions": 3,
       "limitUp": false
+    },
+    {
+      "symbol": "8042",
+      "name": "金山電",
+      "days": 2,
+      "dates": [
+        "10/8",
+        "10/7"
+      ],
+      "mentions": 4,
+      "limitUp": true,
+      "pct": 9.9,
+      "luw": 4,
+      "luwd": [
+        "10/8",
+        "10/7",
+        "10/6",
+        "10/5"
+      ]
+    },
+    {
+      "symbol": "3624",
+      "name": "光頡",
+      "days": 2,
+      "dates": [
+        "10/8",
+        "10/7"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -0.9,
+      "limitUp": true,
+      "pct": 9.7,
+      "luw": 4,
+      "luwd": [
+        "10/8",
+        "10/7",
+        "10/6",
+        "10/5"
+      ]
+    },
+    {
+      "symbol": "2327",
+      "name": "國巨",
+      "days": 2,
+      "dates": [
+        "10/8",
+        "10/7"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "2492",
+      "name": "華新科",
+      "days": 2,
+      "dates": [
+        "10/8",
+        "10/7"
+      ],
+      "mentions": 4,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/7"
+      ]
     },
     {
       "symbol": "2330",
@@ -194,8 +260,19 @@
       "mentions": 4
     },
     {
-      "symbol": "8042",
-      "name": "金山電",
+      "symbol": "3026",
+      "name": "禾伸堂",
+      "days": 2,
+      "dates": [
+        "10/8",
+        "10/7"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "5228",
+      "name": "鈺鎧",
       "days": 2,
       "dates": [
         "10/8",
@@ -213,29 +290,8 @@
       ]
     },
     {
-      "symbol": "3624",
-      "name": "光頡",
-      "days": 2,
-      "dates": [
-        "10/8",
-        "10/7"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -0.9,
-      "limitUp": true,
-      "pct": 9.7,
-      "luw": 4,
-      "luwd": [
-        "10/8",
-        "10/7",
-        "10/6",
-        "10/5"
-      ]
-    },
-    {
-      "symbol": "2327",
-      "name": "國巨",
+      "symbol": "3236",
+      "name": "千如",
       "days": 2,
       "dates": [
         "10/8",
@@ -245,19 +301,17 @@
       "limitUp": false
     },
     {
-      "symbol": "2492",
-      "name": "華新科",
+      "symbol": "6834",
+      "name": "天二科技",
       "days": 2,
       "dates": [
         "10/8",
         "10/7"
       ],
       "mentions": 3,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/7"
-      ]
+      "status": "逼近新高",
+      "dist": -6.6,
+      "limitUp": false
     },
     {
       "symbol": "6213",
@@ -368,60 +422,6 @@
         "10/8"
       ],
       "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3026",
-      "name": "禾伸堂",
-      "days": 2,
-      "dates": [
-        "10/8",
-        "10/7"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "5228",
-      "name": "鈺鎧",
-      "days": 2,
-      "dates": [
-        "10/8",
-        "10/7"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 4,
-      "luwd": [
-        "10/8",
-        "10/7",
-        "10/6",
-        "10/5"
-      ]
-    },
-    {
-      "symbol": "3236",
-      "name": "千如",
-      "days": 2,
-      "dates": [
-        "10/8",
-        "10/7"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "6834",
-      "name": "天二科技",
-      "days": 2,
-      "dates": [
-        "10/8",
-        "10/7"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -6.6,
       "limitUp": false
     }
   ],
