@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-10T14:01:59.122+08:00",
-  "generatedAt": "2026-10-10T06:01:59.122Z",
+  "asOf": "2026-10-10T17:12:22.821+08:00",
+  "generatedAt": "2026-10-10T09:12:22.821Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -426,6 +426,19 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE9laVlJajg5eDBzTUNIcnV5cVJWSmlGaVBJeHlZLW9yeFBKWTFmVTlGdEMwSUNlOHF5NEpPMnBYRS1OQ3JTb1dNcHZDY1d6by1wSVlRTlczcUs",
+      "tkey": "熱門族群立院三讀利多出盡？軍工股虎頭蛇尾",
+      "title": "熱門族群》立院三讀利多出盡？軍工股虎頭蛇尾 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/huza9tbwx0af",
+      "source": "自由時報",
+      "pubDate": "Sat, 10 Oct 2026 01:34:47 GMT",
+      "stocks": [],
+      "background": "台灣政府推動國防自主政策，鼓勵國內廠商投入軍工產業，受惠於地緣政治緊張局勢，軍工股成為市場關注焦點。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPampnMkNqQnRIek84alRpeHg3ckd1dzdfT0lFbkhuSzdEU0YwdUdQdlRBbVV0UF91dXhZNC1ZeF85TEFjNi1jX1R0WFpPcUIxbHJ4aHZsWjQ1ME5mUVYzTElDdU91elhmUzlzMmdUMzBqLWgtSHJqeGQzYmg1cVFYVnJIbWZiOUI1",
       "tkey": "熱門族群半導體大擴產特化廠9月營收報喜",
