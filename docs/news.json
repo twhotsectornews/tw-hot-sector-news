@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-10T12:03:57.218+08:00",
-  "generatedAt": "2026-10-10T04:03:57.218Z",
+  "asOf": "2026-10-10T13:02:00.489+08:00",
+  "generatedAt": "2026-10-10T05:02:00.489Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -502,6 +502,17 @@
       "pubDate": "Fri, 09 Oct 2026 16:32:02 GMT",
       "stocks": [],
       "background": "權值股震盪，熱門族群在高檔區間換手，投資人於連假前降低風險部位，市場資金流向保守。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE5jWUJSakZESUQ3TXIxa3g5dGp3Y1ZobUtyTkEtTE9JeXVUMWEzOUJtWlEybEtyYTZqOEk0QXlQVDVXdXN2eHgzQzhBdWJGQmdZVUpuUjh6cmo",
+      "tkey": "熱門族群AI產業鏈跌一跤紡織股扮撐盤要角",
+      "title": "熱門族群》AI產業鏈跌一跤 紡織股扮撐盤要角 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/nfkvsvqghrjy",
+      "source": "自由時報",
+      "pubDate": "Fri, 09 Oct 2026 15:58:23 GMT",
+      "stocks": [],
+      "background": "AI產業鏈近期面臨修正，資金轉向其他族群。紡織股因其內需與傳產特性，在市場震盪時扮演資金避風港，提供市場支撐。",
       "themeTags": []
     },
     {
