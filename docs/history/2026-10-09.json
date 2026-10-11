@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "updatedAt": "2026-10-11T09:42:26.087Z",
+  "updatedAt": "2026-10-11T10:42:18.816Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE5jWUJSakZESUQ3TXIxa3g5dGp3Y1ZobUtyTkEtTE9JeXVUMWEzOUJtWlEybEtyYTZqOEk0QXlQVDVXdXN2eHgzQzhBdWJGQmdZVUpuUjh6cmo",
@@ -10,8 +10,10 @@
       "source": "自由時報",
       "pubDate": "Fri, 09 Oct 2026 15:58:23 GMT",
       "stocks": [],
-      "background": "AI產業鏈近期面臨修正，資金轉向其他族群。紡織股因其內需或特定訂單支撐，在此時扮演市場穩定力量。",
-      "themeTags": []
+      "background": "AI 產業鏈近期面臨修正，資金轉向紡織類股，紡織業受惠於庫存去化與品牌訂單回籠，有望扮演撐盤角色。",
+      "themeTags": [
+        "循環位置"
+      ]
     },
     {
       "gid": "CBMiWEFVX3lxTE04bkJmcEoza2REc1YtdFBiM2gzcEtpc041SHhTNW94M3BOLXRUWWgwVDhYdWNZU1BkQ2N2ek1XQzNkNVY4dDFTbldPUDBfV1dBXzBobUpINGc",
