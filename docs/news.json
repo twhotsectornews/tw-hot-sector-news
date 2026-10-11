@@ -1,43 +1,11 @@
 {
-  "asOf": "2026-10-11T23:35:39.829+08:00",
-  "generatedAt": "2026-10-11T15:35:39.829Z",
+  "asOf": "2026-10-12T00:25:36.177+08:00",
+  "generatedAt": "2026-10-11T16:25:36.177Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
-    {
-      "symbol": "2383",
-      "name": "台光電",
-      "days": 3,
-      "dates": [
-        "10/8",
-        "10/6",
-        "10/5"
-      ],
-      "mentions": 6,
-      "status": "逼近新高",
-      "dist": -7.3,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/5"
-      ]
-    },
-    {
-      "symbol": "6274",
-      "name": "台燿",
-      "days": 3,
-      "dates": [
-        "10/8",
-        "10/6",
-        "10/5"
-      ],
-      "mentions": 6,
-      "status": "逼近新高",
-      "dist": -9.4,
-      "limitUp": false
-    },
     {
       "symbol": "1325",
       "name": "恆大",
@@ -147,6 +115,36 @@
       "limitUp": false
     },
     {
+      "symbol": "2383",
+      "name": "台光電",
+      "days": 2,
+      "dates": [
+        "10/8",
+        "10/6"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -7.3,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/5"
+      ]
+    },
+    {
+      "symbol": "6274",
+      "name": "台燿",
+      "days": 2,
+      "dates": [
+        "10/8",
+        "10/6"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -9.4,
+      "limitUp": false
+    },
+    {
       "symbol": "9919",
       "name": "康那香",
       "days": 2,
@@ -171,32 +169,6 @@
         "10/7"
       ],
       "mentions": 4,
-      "limitUp": false
-    },
-    {
-      "symbol": "2368",
-      "name": "金像電",
-      "days": 2,
-      "dates": [
-        "10/6",
-        "10/5"
-      ],
-      "mentions": 4,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/5"
-      ]
-    },
-    {
-      "symbol": "3481",
-      "name": "群創",
-      "days": 2,
-      "dates": [
-        "10/11",
-        "10/5"
-      ],
-      "mentions": 3,
       "limitUp": false
     },
     {
@@ -296,49 +268,6 @@
       ],
       "mentions": 3,
       "limitUp": false
-    },
-    {
-      "symbol": "3491",
-      "name": "昇達科",
-      "days": 2,
-      "dates": [
-        "10/6",
-        "10/5"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "2313",
-      "name": "華通",
-      "days": 2,
-      "dates": [
-        "10/6",
-        "10/5"
-      ],
-      "mentions": 3,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/5"
-      ]
-    },
-    {
-      "symbol": "3701",
-      "name": "大眾控",
-      "days": 2,
-      "dates": [
-        "10/6",
-        "10/5"
-      ],
-      "mentions": 3,
-      "limitUp": false,
-      "luw": 3,
-      "luwd": [
-        "10/5",
-        "10/2",
-        "10/1"
-      ]
     },
     {
       "symbol": "3037",
