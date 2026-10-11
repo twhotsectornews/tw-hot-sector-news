@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-11T14:02:18.735+08:00",
-  "generatedAt": "2026-10-11T06:02:18.735Z",
+  "asOf": "2026-10-11T17:27:43.848+08:00",
+  "generatedAt": "2026-10-11T09:27:43.848Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -189,6 +189,17 @@
       ]
     },
     {
+      "symbol": "3481",
+      "name": "群創",
+      "days": 2,
+      "dates": [
+        "10/11",
+        "10/5"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "3026",
       "name": "禾伸堂",
       "days": 2,
@@ -330,6 +341,19 @@
       ]
     },
     {
+      "symbol": "3037",
+      "name": "欣興",
+      "days": 2,
+      "dates": [
+        "10/11",
+        "10/8"
+      ],
+      "mentions": 2,
+      "status": "高檔修正",
+      "dist": -10.6,
+      "limitUp": false
+    },
+    {
       "symbol": "8046",
       "name": "南電",
       "days": 2,
@@ -394,6 +418,88 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPc19fNEMxbzBMcVo3M2lpS2RNRTlDLTFwMkVSeFRwX0xrTXg3b0RNbG9yZzJGMmtkSENULTFTVWtMaFJNdFNackJXaFdEUjduN0RSU3kyNS1mVkhUZzF3NmJ2RWRYTjRDajcxQkdVT0dUeUItVU9xZDNFYXRvQ1I5VHVFd1VodnQz",
+      "tkey": "熱門族群遊戲業轉型跨域、AI闢新局",
+      "title": "《熱門族群》遊戲業轉型 跨域、AI闢新局 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6327064001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sun, 11 Oct 2026 08:12:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3293",
+          "name": "鈊象",
+          "point": "憑自主研發及海外授權展現規模經濟",
+          "limitUp": false
+        },
+        {
+          "symbol": "6111",
+          "name": "遊戲橘子",
+          "point": "從遊戲延伸至第三方支付、數位服務、AI資料中心",
+          "limitUp": false
+        }
+      ],
+      "background": "遊戲產業面臨全球成長趨緩、開發成本攀升、產品生命週期縮短等挑戰，業者積極轉型跨足新事業並導入AI技術。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQblk4STN4alg4dUl2OTNVMXVnQ2tkYldGWHIzQjRocklkZzJtY2kyYV9ZdTAwRDBrNTBzeGJBRzlBR2hlNnU3OEtTR0Y2UjV3dElFUFBpZlZCamQ0S2JzdWJBZkw0aVRxY0FPdjhXNENCSGpsTU5TRTlwbVhjdzFqOTV6bl9QbW8x",
+      "tkey": "熱門族群AI點火公股銀按讚PCB產業",
+      "title": "《熱門族群》AI點火 公股銀按讚PCB產業 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6327049001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sun, 11 Oct 2026 07:06:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "首波導入玻璃基板TGV技術的載板廠",
+          "status": "高檔修正",
+          "dist": -10.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "2311",
+          "name": "日月光",
+          "point": "具備扇出型面板級封裝量產能力",
+          "limitUp": false
+        },
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "point": "具備扇出型面板級封裝量產能力",
+          "limitUp": false
+        },
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "point": "舊有產線轉型，切入SpaceX供應鏈",
+          "limitUp": false
+        }
+      ],
+      "background": "AI基礎建設及高效能運算（HPC）主導PCB產業技術升級，AI晶片基板、先進封裝及玻璃基板成成長重點，ABF載板因需求增長可能結構性短缺。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE1QMlljSHdzYmNEV3VfTUYwWHc0ekZIdlVHXzVKNFFsTktsRC1BYWctVFhRMk5meVBzVFNsSzRsQkpZcGVvNzlrRU5ZNm9waU9UdFdoVV9LdWQ",
+      "tkey": "熱門族群運價高檔持穩貨櫃三雄逆風揚帆",
+      "title": "熱門族群》運價高檔持穩 貨櫃三雄逆風揚帆 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/gwdtry3nre90",
+      "source": "自由時報",
+      "pubDate": "Sun, 11 Oct 2026 06:14:19 GMT",
+      "stocks": [],
+      "background": "全球貨櫃運價因地緣政治衝突、紅海危機等因素，導致航線繞道、船舶周轉率下降，供給吃緊，運價維持高檔。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOTjJaMVdaM1NXWXc3bGQ3N21hMUxuN0k5TjhBU2FYem1pbXRIZ2VGQTZoTWUzdGZFemRmM2UydjNscnNxTDNEZC1MY19OcnllUFBsdWxxSHFuZXdnMzVSYi1OblQyUzFvUmdCc1FNV0hlbzhVV3l4eHozX2xTb3B4bGpxRzZxdHo5",
       "tkey": "熱門族群AI大搶電機電四雄進補",
