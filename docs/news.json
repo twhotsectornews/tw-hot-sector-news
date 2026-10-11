@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-10T23:57:45.748+08:00",
-  "generatedAt": "2026-10-10T15:57:45.748Z",
+  "asOf": "2026-10-11T11:01:53.713+08:00",
+  "generatedAt": "2026-10-11T03:01:53.713Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -39,19 +39,20 @@
       "limitUp": false
     },
     {
-      "symbol": "2368",
-      "name": "金像電",
+      "symbol": "1325",
+      "name": "恆大",
       "days": 3,
       "dates": [
-        "10/6",
-        "10/5",
-        "10/4"
+        "10/11",
+        "10/8",
+        "10/7"
       ],
-      "mentions": 6,
-      "limitUp": false,
+      "mentions": 5,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 1,
       "luwd": [
-        "10/5"
+        "10/8"
       ]
     },
     {
@@ -146,63 +147,8 @@
       "limitUp": false
     },
     {
-      "symbol": "3189",
-      "name": "景碩",
-      "days": 2,
-      "dates": [
-        "10/8",
-        "10/4"
-      ],
-      "mentions": 4,
-      "status": "逼近新高",
-      "dist": -7.8,
-      "limitUp": false
-    },
-    {
-      "symbol": "3037",
-      "name": "欣興",
-      "days": 2,
-      "dates": [
-        "10/8",
-        "10/4"
-      ],
-      "mentions": 4,
-      "status": "高檔修正",
-      "dist": -11.3,
-      "limitUp": false
-    },
-    {
-      "symbol": "8046",
-      "name": "南電",
-      "days": 2,
-      "dates": [
-        "10/8",
-        "10/4"
-      ],
-      "mentions": 4,
-      "status": "逼近新高",
-      "dist": -5.8,
-      "limitUp": false
-    },
-    {
       "symbol": "9919",
       "name": "康那香",
-      "days": 2,
-      "dates": [
-        "10/8",
-        "10/7"
-      ],
-      "mentions": 4,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 1,
-      "luwd": [
-        "10/8"
-      ]
-    },
-    {
-      "symbol": "1325",
-      "name": "恆大",
       "days": 2,
       "dates": [
         "10/8",
@@ -228,36 +174,19 @@
       "limitUp": false
     },
     {
-      "symbol": "6488",
-      "name": "環球晶",
+      "symbol": "2368",
+      "name": "金像電",
       "days": 2,
       "dates": [
-        "10/5",
-        "10/4"
-      ],
-      "mentions": 4
-    },
-    {
-      "symbol": "3532",
-      "name": "台勝科",
-      "days": 2,
-      "dates": [
-        "10/5",
-        "10/4"
+        "10/6",
+        "10/5"
       ],
       "mentions": 4,
-      "status": "逼近新高",
-      "dist": -7.1
-    },
-    {
-      "symbol": "6182",
-      "name": "合晶",
-      "days": 2,
-      "dates": [
-        "10/5",
-        "10/4"
-      ],
-      "mentions": 4
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/5"
+      ]
     },
     {
       "symbol": "3026",
@@ -331,19 +260,6 @@
       ]
     },
     {
-      "symbol": "4958",
-      "name": "臻鼎-KY",
-      "days": 2,
-      "dates": [
-        "10/8",
-        "10/4"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -9.9,
-      "limitUp": false
-    },
-    {
       "symbol": "9103",
       "name": "美德醫療-DR",
       "days": 2,
@@ -414,6 +330,30 @@
       ]
     },
     {
+      "symbol": "8046",
+      "name": "南電",
+      "days": 2,
+      "dates": [
+        "10/11",
+        "10/8"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -5.4,
+      "limitUp": false
+    },
+    {
+      "symbol": "2408",
+      "name": "南亞科",
+      "days": 2,
+      "dates": [
+        "10/11",
+        "10/8"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "6770",
       "name": "晶呈科",
       "days": 2,
@@ -423,9 +363,191 @@
       ],
       "mentions": 2,
       "limitUp": false
+    },
+    {
+      "symbol": "4142",
+      "name": "國光生",
+      "days": 2,
+      "dates": [
+        "10/8",
+        "10/7"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3406",
+      "name": "玉晶光",
+      "days": 2,
+      "dates": [
+        "10/7",
+        "10/6"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -3.9,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/5"
+      ]
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOTjJaMVdaM1NXWXc3bGQ3N21hMUxuN0k5TjhBU2FYem1pbXRIZ2VGQTZoTWUzdGZFemRmM2UydjNscnNxTDNEZC1MY19OcnllUFBsdWxxSHFuZXdnMzVSYi1OblQyUzFvUmdCc1FNV0hlbzhVV3l4eHozX2xTb3B4bGpxRzZxdHo5",
+      "tkey": "熱門族群AI大搶電機電四雄進補",
+      "title": "《熱門族群》AI大搶電 機電四雄進補 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6326958001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sun, 11 Oct 2026 02:49:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1503",
+          "name": "士電",
+          "point": "提供AI資料中心所需重電設備",
+          "limitUp": false
+        },
+        {
+          "symbol": "1513",
+          "name": "中興電",
+          "point": "提供AI資料中心空調、發電機及GIS開關",
+          "limitUp": false
+        },
+        {
+          "symbol": "1514",
+          "name": "亞力",
+          "point": "提供AI資料中心所需變壓器、配電盤",
+          "limitUp": false
+        },
+        {
+          "symbol": "1519",
+          "name": "華城",
+          "point": "提供AI資料中心所需重電設備",
+          "limitUp": false
+        },
+        {
+          "symbol": "1504",
+          "name": "東元",
+          "point": "有望成為能源供應鏈受益者",
+          "limitUp": false
+        }
+      ],
+      "background": "AI資料中心對電力需求大增，帶動半導體業擴廠，機電業者受惠於電網升級與重電設備需求，訂單能見度高。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE1KSHcxZ2RXUlNZdEdWS2VGaVJuMV9uNUdJckRNMDV0VG1MRjdXeUplRzNadnpxTjV6ZTgyOGxWb2h5alFWNFVEa1dzWkNBZ1UxTjQycDc1SHI",
+      "tkey": "熱門族群銅箔基板升級潮來襲漲價趨勢直到2027年",
+      "title": "熱門族群》銅箔基板升級潮來襲 漲價趨勢直到2027年 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/d1fx95wj5rtg",
+      "source": "自由時報",
+      "pubDate": "Sun, 11 Oct 2026 01:47:04 GMT",
+      "stocks": [],
+      "background": "銅箔基板（CCL）受AI伺服器與高速運算需求驅動，產品持續升級，帶動價格上漲趨勢。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiX0FVX3lxTE1XTF9xajNrRmRIV3JnSDdSeUs4VFd1S0NDYWxxaDJlcHZQRlZuYVhuX2ZOOVk2YVpMYmVjeFlOSHN4NDBZZXg5Skp2VHp5OGQ3VFdtQV9oV3FiOUZfNWRJ0gFkQVVfeXFMTlhxbVFYdEdXcFNIRmVDVWxrcWU0dnNZSG9oQnRTQXliQlo4NTFYLVBZdDllMGVfQUFoaEtRLTR3VG9iX3hTOS1NSW9tNWJMY2ZEaEJvazJmUlJRQVRvN29zRE1qeQ",
+      "tkey": "熱門族群金九銀十旺季帶動塑化股全面走強",
+      "title": "熱門族群》金九銀十旺季帶動 塑化股全面走強 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5600356",
+      "source": "自由財經",
+      "pubDate": "Sat, 10 Oct 2026 23:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "受惠AI、高效能運算與先進封裝需求",
+          "status": "逼近新高",
+          "dist": -3.7,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "開工率與產銷量可望回升",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/7"
+          ]
+        },
+        {
+          "symbol": "1325",
+          "name": "恆大",
+          "point": "防疫概念股之一，股價狂飆",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "10/8"
+          ]
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "股價創波段新高，漲幅較小",
+          "limitUp": false
+        },
+        {
+          "symbol": "1310",
+          "name": "台苯",
+          "point": "股價回到10元票面之上",
+          "limitUp": false
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "受惠AI、高效能運算與先進封裝需求",
+          "status": "逼近新高",
+          "dist": -5.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "受惠AI、高效能運算與先進封裝需求",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "營運轉強，獲利具回升空間",
+          "status": "逼近新高",
+          "dist": -9.8,
+          "limitUp": false
+        }
+      ],
+      "background": "塑化股受「金九銀十」傳統旺季帶動，加上AI、高效能運算需求，部分高階材料供應吃緊，產業景氣回升。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE9yUGVoWXhjRUxTN3VhSm02TmdBTWFsRmNjNW1rSXhya3ZPYndoLWlHVGRUZHNpcUNXRUI1S2xWS3ZacWJwWlZaeEhPM21ocUthWS1zUVFRVW4",
+      "tkey": "熱門族群AI伺服器持續升級散熱族群熱呼呼",
+      "title": "熱門族群》AI伺服器持續升級 散熱族群熱呼呼 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/u2br8jd8cvgb",
+      "source": "自由時報",
+      "pubDate": "Sat, 10 Oct 2026 09:55:49 GMT",
+      "stocks": [],
+      "background": "AI伺服器持續升級，對散熱效能要求提高，帶動散熱族群需求增長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiWEFVX3lxTE9laVlJajg5eDBzTUNIcnV5cVJWSmlGaVBJeHlZLW9yeFBKWTFmVTlGdEMwSUNlOHF5NEpPMnBYRS1OQ3JTb1dNcHZDY1d6by1wSVlRTlczcUs",
       "tkey": "熱門族群立院三讀利多出盡？軍工股虎頭蛇尾",
@@ -516,30 +638,6 @@
       "stocks": [],
       "background": "權值股震盪，熱門族群在高檔區間換手，投資人於連假前降低風險部位，市場資金流向保守。",
       "themeTags": []
-    },
-    {
-      "gid": "CBMiWEFVX3lxTE5jWUJSakZESUQ3TXIxa3g5dGp3Y1ZobUtyTkEtTE9JeXVUMWEzOUJtWlEybEtyYTZqOEk0QXlQVDVXdXN2eHgzQzhBdWJGQmdZVUpuUjh6cmo",
-      "tkey": "熱門族群AI產業鏈跌一跤紡織股扮撐盤要角",
-      "title": "熱門族群》AI產業鏈跌一跤 紡織股扮撐盤要角 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/nfkvsvqghrjy",
-      "source": "自由時報",
-      "pubDate": "Fri, 09 Oct 2026 15:58:23 GMT",
-      "stocks": [],
-      "background": "AI產業鏈近期面臨修正，資金轉向其他族群。紡織股因其內需與傳產特性，在市場震盪時扮演資金避風港，提供市場支撐。",
-      "themeTags": []
-    },
-    {
-      "gid": "CBMiWEFVX3lxTE04bkJmcEoza2REc1YtdFBiM2gzcEtpc041SHhTNW94M3BOLXRUWWgwVDhYdWNZU1BkQ2N2ek1XQzNkNVY4dDFTbldPUDBfV1dBXzBobUpINGc",
-      "tkey": "熱門族群油價回落航空股喜迎暑假旺季",
-      "title": "熱門族群》油價回落 航空股喜迎暑假旺季 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/vacpbjnuybnb",
-      "source": "自由時報",
-      "pubDate": "Fri, 09 Oct 2026 07:34:12 GMT",
-      "stocks": [],
-      "background": "國際油價回落，降低航空業燃油成本，加上暑假旅遊旺季來臨，有助於提升客運量與營收。",
-      "themeTags": [
-        "需求驅動"
-      ]
     }
   ]
 }

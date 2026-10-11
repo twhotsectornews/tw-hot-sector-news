@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-10",
+  "updatedAt": "2026-10-11T03:01:53.707Z",
+  "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE9yUGVoWXhjRUxTN3VhSm02TmdBTWFsRmNjNW1rSXhya3ZPYndoLWlHVGRUZHNpcUNXRUI1S2xWS3ZacWJwWlZaeEhPM21ocUthWS1zUVFRVW4",
+      "tkey": "熱門族群AI伺服器持續升級散熱族群熱呼呼",
+      "title": "熱門族群》AI伺服器持續升級 散熱族群熱呼呼 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/u2br8jd8cvgb",
+      "source": "自由時報",
+      "pubDate": "Sat, 10 Oct 2026 09:55:49 GMT",
+      "stocks": [],
+      "background": "AI伺服器持續升級，對散熱效能要求提高，帶動散熱族群需求增長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE9laVlJajg5eDBzTUNIcnV5cVJWSmlGaVBJeHlZLW9yeFBKWTFmVTlGdEMwSUNlOHF5NEpPMnBYRS1OQ3JTb1dNcHZDY1d6by1wSVlRTlczcUs",
+      "tkey": "熱門族群立院三讀利多出盡？軍工股虎頭蛇尾",
+      "title": "熱門族群》立院三讀利多出盡？軍工股虎頭蛇尾 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/huza9tbwx0af",
+      "source": "自由時報",
+      "pubDate": "Sat, 10 Oct 2026 01:34:47 GMT",
+      "stocks": [],
+      "background": "台灣政府推動國防自主政策，鼓勵國內廠商投入軍工產業，受惠於地緣政治緊張局勢，軍工股成為市場關注焦點。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPampnMkNqQnRIek84alRpeHg3ckd1dzdfT0lFbkhuSzdEU0YwdUdQdlRBbVV0UF91dXhZNC1ZeF85TEFjNi1jX1R0WFpPcUIxbHJ4aHZsWjQ1ME5mUVYzTElDdU91elhmUzlzMmdUMzBqLWgtSHJqeGQzYmg1cVFYVnJIbWZiOUI1",
+      "tkey": "熱門族群半導體大擴產特化廠9月營收報喜",
+      "title": "《熱門族群》半導體大擴產 特化廠9月營收報喜 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6326592001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sat, 10 Oct 2026 01:33:00 GMT",
+      "stocks": [
+        {
+          "symbol": "4763",
+          "name": "上品",
+          "point": "設備出貨增加，9月營收年增69.02%",
+          "limitUp": false
+        },
+        {
+          "symbol": "4772",
+          "name": "台特化",
+          "point": "併購效益發揮，9月營收年增30.32%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1711",
+          "name": "永光",
+          "point": "電子化學品與醫藥化學品營收成長",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/6"
+          ]
+        },
+        {
+          "symbol": "6770",
+          "name": "晶呈科",
+          "point": "特殊氣體內銷出貨增，9月營收年增23.88%",
+          "limitUp": false
+        },
+        {
+          "symbol": "4755",
+          "name": "三福化",
+          "point": "9月營收年增16.22%",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/6"
+          ]
+        },
+        {
+          "symbol": "6825",
+          "name": "新應材",
+          "point": "9月營收年增11.82%",
+          "status": "逼近新高",
+          "dist": -9.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "6803",
+          "name": "汎瑋材料",
+          "point": "9月營收年增5.56%，創同期新高",
+          "limitUp": false
+        }
+      ],
+      "background": "半導體產業因升級與擴產需求活絡，帶動特用化學品廠營收成長，反映產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiZEFVX3lxTE8taDE1ZFR2SnF3X2JTQWhkUkMycW9fNDBINUIyNTJJR0x0Wm02WDR0bTMwT2p2SkNOZHpNLVlOZ1AteEdVY2dvZ0RaeDFFSDg0MWQ0UXM4OEh6TDRib3VTVGdpVEo",
+      "tkey": "討論牆|權值股震盪，熱門族群高檔換手，連假前資金降低風險部位",
+      "title": "討論牆 | 權值股震盪，熱門族群高檔換手，連假前資金降低風險部位 - LINE TODAY",
+      "url": "https://today.line.me/tw/v3/posts/list/article/DRjYlz8",
+      "source": "LINE TODAY",
+      "pubDate": "Fri, 09 Oct 2026 16:32:02 GMT",
+      "stocks": [],
+      "background": "權值股震盪，熱門族群在高檔區間換手，投資人於連假前降低風險部位，市場資金流向保守。",
+      "themeTags": []
+    }
+  ]
+}
