@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-12T14:04:15.862+08:00",
-  "generatedAt": "2026-10-12T06:04:15.862Z",
+  "asOf": "2026-10-12T17:41:46.764+08:00",
+  "generatedAt": "2026-10-12T09:41:46.764Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -22,6 +22,18 @@
       "luwd": [
         "10/8"
       ]
+    },
+    {
+      "symbol": "2408",
+      "name": "南亞科",
+      "days": 3,
+      "dates": [
+        "10/12",
+        "10/11",
+        "10/8"
+      ],
+      "mentions": 3,
+      "limitUp": false
     },
     {
       "symbol": "3008",
@@ -270,6 +282,60 @@
       "limitUp": false
     },
     {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 2,
+      "dates": [
+        "10/12",
+        "10/11"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -5.9,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/5"
+      ]
+    },
+    {
+      "symbol": "6505",
+      "name": "台塑化",
+      "days": 2,
+      "dates": [
+        "10/12",
+        "10/11"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "1301",
+      "name": "台塑",
+      "days": 2,
+      "dates": [
+        "10/12",
+        "10/11"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/7"
+      ]
+    },
+    {
+      "symbol": "1326",
+      "name": "台化",
+      "days": 2,
+      "dates": [
+        "10/12",
+        "10/11"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "1519",
       "name": "華城",
       "days": 2,
@@ -349,59 +415,63 @@
       "status": "逼近新高",
       "dist": -5.4,
       "limitUp": false
-    },
-    {
-      "symbol": "2408",
-      "name": "南亞科",
-      "days": 2,
-      "dates": [
-        "10/11",
-        "10/8"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "6770",
-      "name": "晶呈科",
-      "days": 2,
-      "dates": [
-        "10/10",
-        "10/8"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "4142",
-      "name": "國光生",
-      "days": 2,
-      "dates": [
-        "10/8",
-        "10/7"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3406",
-      "name": "玉晶光",
-      "days": 2,
-      "dates": [
-        "10/7",
-        "10/6"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -3.9,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/5"
-      ]
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOdXhLcjFIN2Z3OTlFdW1oekhpUk5nWk11cVpYMV9jUVpGZGdPTDVGM3c3SGFULUdDR3VUdGZqYU9XVmt5Z2t2cDhnNUMtNVQ1dmRTSDYzbUJYTGdHczNqcmd1MW4tSkJyVkFnSWV6U2hmRFNvMjRlZnVhYmRsRXlwNWxjdFZrbFd5",
+      "tkey": "熱門族群台塑四寶Q3獲利創高季增18.6%南亞大賺388億元稱冠！",
+      "title": "《熱門族群》台塑四寶Q3獲利創高季增18.6% 南亞大賺388億元稱冠！ - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6328155001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 12 Oct 2026 06:08:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "AI電子材料需求火熱、價格上漲及轉投資收益挹注，獲利稱冠",
+          "status": "逼近新高",
+          "dist": -5.9,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "煉油廠產能利用率回升，獲利創歷年單季新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "原料成本高漲、產品利差縮小，獲利下滑",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/7"
+          ]
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "原料成本上漲，產品售價承壓，營業利益減少",
+          "limitUp": false
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "記憶體市場供需缺口擴大，貢獻高額投資收益",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶受惠AI電子材料需求與煉油廠產能回升，南亞與台塑化獲利亮眼。然而，部分產品受原料成本高漲及利差縮小衝擊，營運呈現兩樣情。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQWjRKMEZfcGljX0Z1S2pxX2lmUWFhZDdwZzBkSloyblNORjRycFBQMTlOZXBCTnBJMWFvNy02OXZLcTFJSW9LS2NZU04ydkRJd3ZOR3pMQXJRRW5hRTJNRFl4ei1jLXcwNmJQMHY3NTRFMmx1MXlzUml3TnZvcXlaektPREY5Qk9L",
       "tkey": "熱門族群機電四雄逆勢噴發華城飆7%、中興電站上170元",
