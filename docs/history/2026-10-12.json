@@ -1,0 +1,273 @@
+{
+  "date": "2026-10-12",
+  "updatedAt": "2026-10-12T18:55:26.806Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOUmdVY2xiMWJ0Z2I5Q0xPV2JQUnBJOFZsY0lhZjFZQXRhQ3c4NXZvaXQ4NjkzNTFxX1g0R21fUmw2WlgydVpodzVudWFyXzA2NTdFM0x3T3hpa2VaZm9DRWdKVmp2QXExLUpVMFhwSFhFVUIyTG41ZHA1dG5fOVZNRDVLeFRjY1Fi",
+      "tkey": "熱門族群台塑四寶Q4營運各有亮點南亞營收再拚新高",
+      "title": "《熱門族群》台塑四寶Q4營運各有亮點 南亞營收再拚新高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6328492001&PU=0031",
+      "source": "富聯網",
+      "pubDate": "Mon, 12 Oct 2026 08:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "看好旺季拉貨及開工率回升",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/7"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "受惠AI帶動高階電子材料需求強勁",
+          "status": "逼近新高",
+          "dist": -5.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "期待石化利差改善、轉投資收益挹注",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "中東地緣政治風險支撐國際油價",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶受惠石化產業傳統旺季、AI帶動電子材料需求，以及地緣政治風險支撐油價，第四季營運各有亮點。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOdXhLcjFIN2Z3OTlFdW1oekhpUk5nWk11cVpYMV9jUVpGZGdPTDVGM3c3SGFULUdDR3VUdGZqYU9XVmt5Z2t2cDhnNUMtNVQ1dmRTSDYzbUJYTGdHczNqcmd1MW4tSkJyVkFnSWV6U2hmRFNvMjRlZnVhYmRsRXlwNWxjdFZrbFd5",
+      "tkey": "熱門族群台塑四寶Q3獲利創高季增18.6%南亞大賺388億元稱冠！",
+      "title": "《熱門族群》台塑四寶Q3獲利創高季增18.6% 南亞大賺388億元稱冠！ - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6328155001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 12 Oct 2026 06:08:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "AI電子材料需求火熱、價格上漲及轉投資收益挹注，獲利稱冠",
+          "status": "逼近新高",
+          "dist": -5.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "煉油廠產能利用率回升，獲利創歷年單季新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "原料成本高漲、產品利差縮小，獲利下滑",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/7"
+          ]
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "原料成本上漲，產品售價承壓，營業利益減少",
+          "limitUp": false
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "記憶體市場供需缺口擴大，貢獻高額投資收益",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶受惠AI電子材料需求與煉油廠產能回升，南亞與台塑化獲利亮眼。然而，部分產品受原料成本高漲及利差縮小衝擊，營運呈現兩樣情。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQWjRKMEZfcGljX0Z1S2pxX2lmUWFhZDdwZzBkSloyblNORjRycFBQMTlOZXBCTnBJMWFvNy02OXZLcTFJSW9LS2NZU04ydkRJd3ZOR3pMQXJRRW5hRTJNRFl4ei1jLXcwNmJQMHY3NTRFMmx1MXlzUml3TnZvcXlaektPREY5Qk9L",
+      "tkey": "熱門族群機電四雄逆勢噴發華城飆7%、中興電站上170元",
+      "title": "《熱門族群》機電四雄逆勢噴發 華城飆7%、中興電站上170元 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6327935001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 12 Oct 2026 03:12:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1519",
+          "name": "華城",
+          "point": "盤中一度大漲逾7%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1513",
+          "name": "中興電",
+          "point": "站上170元創近一個月高點",
+          "limitUp": false
+        },
+        {
+          "symbol": "1503",
+          "name": "士電",
+          "point": "漲幅超過4%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1514",
+          "name": "亞力",
+          "point": "漲幅超過4%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1504",
+          "name": "東元",
+          "point": "可望持續受惠",
+          "limitUp": false
+        }
+      ],
+      "background": "AI資料中心用電需求攀升，帶動全球電力基礎建設投資加速，台電強韌電網計畫持續釋單，機電設備廠訂單能見度高。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQbUkwaDBPbi1kRzlaTFBOdWx4dkRYQWZjWEJGWWtfRVVtTTQxVHFWX19GZHBfRTlXalN3LWtKY0ZSZ2dEVmlzYW4zM0dUU0hPZW85akMzRWV4VkpVVGZVZUZhSzNQY0hpR3dmUTR0WG9ydzNiQ01YSVcxNWw3VExZQ0g2aHJhMHFm",
+      "tkey": "熱門族群SCFI回升+法說利多！長榮萬海亮紅燈陽明大漲8%",
+      "title": "《熱門族群》SCFI回升+法說利多！長榮萬海亮紅燈 陽明大漲8% - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6327894001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 12 Oct 2026 02:41:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2603",
+          "name": "長榮",
+          "point": "股價攻上漲停",
+          "status": "創新高",
+          "dist": -0.4,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "10/12"
+          ]
+        },
+        {
+          "symbol": "2615",
+          "name": "萬海",
+          "point": "股價攻上漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2609",
+          "name": "陽明",
+          "point": "股價大漲8%",
+          "limitUp": false
+        }
+      ],
+      "background": "SCFI運價指數回升，加上長榮法說會釋出正向展望，美國進口需求增溫、巴拿馬運河限航及紅海風險支撐運力。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQWmxyNFhTUlNMX1dIZmZsdzRuN0YtZlpvRFJ1b08wSnRSX1k0S2I0cDZ5bnJ0cUYwWll1M0VsNTk1ZHc5cXJGNnhHQjlqVUg0QlBsSXFOODVULWtTSWJ6STlQUThDNDdWUVhOaldSUmZvT1g5cXR5dzNvR25ySFRFU21WdzlsV3NM",
+      "tkey": "熱門族群AI貨運、連假旅遊助攻航空三雄9月營收齊創同期新高",
+      "title": "《熱門族群》AI貨運、連假旅遊助攻 航空三雄9月營收齊創同期新高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6327708001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 12 Oct 2026 00:17:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2618",
+          "name": "長榮航",
+          "point": "9月營收年增32.86%",
+          "status": "逼近新高",
+          "dist": -5.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "2610",
+          "name": "華航",
+          "point": "9月營收年增31.86%",
+          "limitUp": false
+        },
+        {
+          "symbol": "6757",
+          "name": "台灣虎航",
+          "point": "9月營收年增36%",
+          "limitUp": false
+        }
+      ],
+      "background": "AI貨運需求與連假旅遊助攻，航空客貨運營收同步成長，創下同期新高，顯示產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQWldncm9vQk43NXJQamlRMWNFeUJrNGtfNFpLNGZaQ3lTUVdCZ094cWtGZUpZSHVWVzV3WGpWYk9ySnhybkR2dDhpOWxVcXIxWVp2QWNIbG1oQ2txM2NtY3Ixem56VEZKel9wb2tCNlpkNXJtdFhaRlZRd1lzZE92V1drVGtkYm1O",
+      "tkey": "熱門族群貨櫃三雄9月營收年月雙增SCFI運價微幅反彈0.05％",
+      "title": "《熱門族群》貨櫃三雄9月營收年月雙增 SCFI運價微幅反彈0.05％ - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6327593001&PU=0031",
+      "source": "富聯網",
+      "pubDate": "Sun, 11 Oct 2026 23:52:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2603",
+          "name": "長榮",
+          "point": "9月營收月增1.48%、年增63.75%",
+          "status": "創新高",
+          "dist": -0.4,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "10/12"
+          ]
+        },
+        {
+          "symbol": "2609",
+          "name": "陽明",
+          "point": "9月營收月增0.41%、年增69.94%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2615",
+          "name": "萬海",
+          "point": "9月營收月增13.41%、年增97.63%",
+          "limitUp": false
+        }
+      ],
+      "background": "SCFI運價微幅反彈，貨櫃三雄9月營收年月雙增，受惠於中國節後需求回溫、港口壅塞及運價維持高檔。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE80SVEwN1oySnUxZXVLOXo4MV9mTWpTS1plSW90NTM4aWpZQVBjRWxyX0hPUHZzREZOa0F2dVBBLVhJc1VDUml4TkY3UzFUcWZ3c2dYdFhnVGM",
+      "tkey": "熱門族群雲端基建持續砸錢老AI族群老當益壯",
+      "title": "熱門族群》雲端基建持續砸錢 老AI族群老當益壯 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/drcdel4lznjg",
+      "source": "自由時報",
+      "pubDate": "Sun, 11 Oct 2026 20:42:25 GMT",
+      "stocks": [],
+      "background": "雲端基礎建設投資持續增加，帶動AI相關產業發展，相關供應鏈廠商受惠，市場對其未來表現持樂觀態度。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}
