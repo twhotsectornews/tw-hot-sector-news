@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-12T17:41:46.764+08:00",
-  "generatedAt": "2026-10-12T09:41:46.764Z",
+  "asOf": "2026-10-12T17:57:39.865+08:00",
+  "generatedAt": "2026-10-12T09:57:39.865Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -184,6 +184,60 @@
       "limitUp": false
     },
     {
+      "symbol": "1301",
+      "name": "台塑",
+      "days": 2,
+      "dates": [
+        "10/12",
+        "10/11"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/7"
+      ]
+    },
+    {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 2,
+      "dates": [
+        "10/12",
+        "10/11"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -5.9,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/5"
+      ]
+    },
+    {
+      "symbol": "1326",
+      "name": "台化",
+      "days": 2,
+      "dates": [
+        "10/12",
+        "10/11"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "6505",
+      "name": "台塑化",
+      "days": 2,
+      "dates": [
+        "10/12",
+        "10/11"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "3026",
       "name": "禾伸堂",
       "days": 2,
@@ -282,60 +336,6 @@
       "limitUp": false
     },
     {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 2,
-      "dates": [
-        "10/12",
-        "10/11"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -5.9,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/5"
-      ]
-    },
-    {
-      "symbol": "6505",
-      "name": "台塑化",
-      "days": 2,
-      "dates": [
-        "10/12",
-        "10/11"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "1301",
-      "name": "台塑",
-      "days": 2,
-      "dates": [
-        "10/12",
-        "10/11"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/7"
-      ]
-    },
-    {
-      "symbol": "1326",
-      "name": "台化",
-      "days": 2,
-      "dates": [
-        "10/12",
-        "10/11"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
       "symbol": "1519",
       "name": "華城",
       "days": 2,
@@ -418,6 +418,54 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOUmdVY2xiMWJ0Z2I5Q0xPV2JQUnBJOFZsY0lhZjFZQXRhQ3c4NXZvaXQ4NjkzNTFxX1g0R21fUmw2WlgydVpodzVudWFyXzA2NTdFM0x3T3hpa2VaZm9DRWdKVmp2QXExLUpVMFhwSFhFVUIyTG41ZHA1dG5fOVZNRDVLeFRjY1Fi",
+      "tkey": "熱門族群台塑四寶Q4營運各有亮點南亞營收再拚新高",
+      "title": "《熱門族群》台塑四寶Q4營運各有亮點 南亞營收再拚新高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6328492001&PU=0031",
+      "source": "富聯網",
+      "pubDate": "Mon, 12 Oct 2026 08:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "看好旺季拉貨及開工率回升",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/7"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "受惠AI帶動高階電子材料需求強勁",
+          "status": "逼近新高",
+          "dist": -5.9,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/5"
+          ]
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "期待石化利差改善、轉投資收益挹注",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "中東地緣政治風險支撐國際油價",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶受惠石化產業傳統旺季、AI帶動電子材料需求，以及地緣政治風險支撐油價，第四季營運各有亮點。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOdXhLcjFIN2Z3OTlFdW1oekhpUk5nWk11cVpYMV9jUVpGZGdPTDVGM3c3SGFULUdDR3VUdGZqYU9XVmt5Z2t2cDhnNUMtNVQ1dmRTSDYzbUJYTGdHczNqcmd1MW4tSkJyVkFnSWV6U2hmRFNvMjRlZnVhYmRsRXlwNWxjdFZrbFd5",
       "tkey": "熱門族群台塑四寶Q3獲利創高季增18.6%南亞大賺388億元稱冠！",
