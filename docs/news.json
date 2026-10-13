@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-13T14:06:16.621+08:00",
-  "generatedAt": "2026-10-13T06:06:16.621Z",
+  "asOf": "2026-10-13T17:42:29.933+08:00",
+  "generatedAt": "2026-10-13T09:42:29.933Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -409,6 +409,109 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxPMGpLdmtoYmlBdmVpanRDT20tbDhsak9YdW4tU3Z5V1lSSGRfaVg5NHFONGp3YmlxY2Q0VmJHRjBvdVdsQ0JlR3lmTEFzN3ExeHVNSGJvbnQ1c0tsSFRWSm9uZk5oLWNTX0JScUtoRURjMzJPaGI3cV9zTWlGOTJfX2pDZTZXTklO",
+      "tkey": "熱門族群CPO量產推進測試升級汎銓、閎康、宜特迎新商機",
+      "title": "《熱門族群》CPO量產推進測試升級 汎銓、閎康、宜特迎新商機 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6329918001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 13 Oct 2026 08:57:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6830",
+          "name": "汎銓",
+          "point": "提供光電量測與材料分析服務",
+          "limitUp": false
+        },
+        {
+          "symbol": "3587",
+          "name": "閎康",
+          "point": "提供失效分析服務",
+          "limitUp": false
+        },
+        {
+          "symbol": "3289",
+          "name": "宜特",
+          "point": "提供可靠性驗證服務",
+          "limitUp": false
+        },
+        {
+          "symbol": "4573",
+          "name": "高明鐵",
+          "point": "提供多軸控制的耦光對位模組",
+          "status": "高檔修正",
+          "dist": -13.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "6223",
+          "name": "旺矽",
+          "point": "提供探測設備與光學對準",
+          "limitUp": false
+        },
+        {
+          "symbol": "6515",
+          "name": "穎崴",
+          "point": "提供測試介面",
+          "limitUp": false
+        },
+        {
+          "symbol": "2360",
+          "name": "致茂",
+          "point": "具備自動化測試與老化測試能力",
+          "limitUp": false
+        }
+      ],
+      "background": "AI資料中心推升高速傳輸需求，共封裝光學(CPO)邁向量產，測試設備與軟體整合需求升高，為第三方測試機構帶來新商機。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPWmdMN0Q5Rldub1duRE5lV1BlaGhUbDVWYXZCX2k4QkJwdFFkVUNSSjZWVnNac3RnbEJaOE1yS211azNSSl9kUUY1MVpEQ3oxcXp3QnRQTHEtcUtja3QtOVo5N2ZKV0VqUXdiQ0FkUGdtTmt6ekJ4WXRfcTRqbWRRT3B0MlNocUtE",
+      "tkey": "熱門族群OCP掀代理AI大戰輝達開放Rubin架構台廠水冷鏈搶單",
+      "title": "《熱門族群》OCP掀代理AI大戰 輝達開放Rubin架構台廠水冷鏈搶單 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6329730001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 13 Oct 2026 07:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3231",
+          "name": "緯創",
+          "point": "完成NVIDIA Vera Rubin NVL72全液冷平台整備",
+          "status": "逼近新高",
+          "dist": -9.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "6669",
+          "name": "緯穎",
+          "point": "完成NVIDIA Vera Rubin NVL72全液冷平台整備",
+          "limitUp": false
+        },
+        {
+          "symbol": "4938",
+          "name": "和碩",
+          "point": "展出全液冷RA4803-72N3平台與超微EPYC伺服器",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/12"
+          ]
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "全面參展OCP全球高峰會",
+          "limitUp": false
+        }
+      ],
+      "background": "輝達開放Rubin架構，AI邁向數GW規模，引爆機櫃級水冷伺服器商機，台廠積極搶單。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxOQlJabF96LU4zWC1UR2l5RVdTcWMyeW5sTEcyaU5fVEFkeEJ2TUFWQ1psdlF1RXNneGk3YXJ4cUUyMmc4eXJMZTg2N2ZHalQxN3ZuWXJYUDNvLV8yVnN0LU56ajc2d3gyeHRlVkxHV2NIWUVXT3BQUGk3ZUYxMWFyUlpZd240ZFpw",
       "tkey": "熱門族群CPO綠光罩頂！5檔中箭倒地大立光抗空苦撐",
       "title": "《熱門族群》CPO綠光罩頂！5檔中箭倒地 大立光抗空苦撐 - 富聯網",
@@ -480,14 +583,7 @@
           "symbol": "4903",
           "name": "聯光通",
           "point": "逆勢勁揚逾半根停板",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 3,
-          "luwd": [
-            "10/12",
-            "10/8",
-            "10/7"
-          ]
+          "limitUp": false
         }
       ],
       "background": "CPO（共同封裝光學）與矽光子技術受AI高速互連升級趨勢帶動，但受國際光通訊指標股崩跌影響，台廠相關概念股普遍走弱。",
@@ -541,6 +637,44 @@
       "themeTags": [
         "需求驅動",
         "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTE1wbzV6WTJCLUUtaGp2a09ZQWRKd0xKVjRxYThtdmRxQ254ZXNYSU9YNzVfRm8wanpEaUdCeGMyWW9WMXFTc0xydjFSaXJucl9xcGhQekVVcEswYXA2UlROdGhLZHd5ZFA0anc",
+      "tkey": "熱門族群iPhone18助攻！中華電單月稱王、台灣大前三季險勝-上市櫃",
+      "title": "《熱門族群》iPhone 18助攻！中華電單月稱王、台灣大前三季險勝- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20261013900152-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Tue, 13 Oct 2026 00:46:23 GMT",
+      "stocks": [
+        {
+          "symbol": "2412",
+          "name": "中華電",
+          "point": "9月EPS穩坐單月獲利王",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false
+        },
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "point": "前9月EPS險勝中華電",
+          "status": "創新高",
+          "dist": -0.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "point": "9月營收、EBITDA及稅後淨利創同期新高",
+          "status": "逼近新高",
+          "dist": -1.6,
+          "limitUp": false
+        }
+      ],
+      "background": "電信三雄受惠iPhone 18系列新機熱賣、5G升級及AI商機，帶動營收與獲利成長，各項財務指標表現亮眼。",
+      "themeTags": [
+        "需求驅動"
       ]
     },
     {
