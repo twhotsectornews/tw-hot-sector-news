@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "updatedAt": "2026-10-13T03:09:16.758Z",
+  "updatedAt": "2026-10-13T04:06:46.362Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPc19fNEMxbzBMcVo3M2lpS2RNRTlDLTFwMkVSeFRwX0xrTXg3b0RNbG9yZzJGMmtkSENULTFTVWtMaFJNdFNackJXaFdEUjduN0RSU3kyNS1mVkhUZzF3NmJ2RWRYTjRDajcxQkdVT0dUeUItVU9xZDNFYXRvQ1I5VHVFd1VodnQz",
@@ -29,6 +29,35 @@
       ]
     },
     {
+      "gid": "CBMiiAFBVV95cUxPMFJfdE5CaUotNWJvTDlTa24zTGhJaTBGVmw2clI3N0VQblU1cm9ka1pHUlQ5TjZrNW9hcWFvTTc0NEdIc2JuWFp6SE4tSWVDaXF2enRNZ1lnTWdQNDZlbTJCWjBtbkxLTGw0STJDeXo3OHFuVTNCYVMzb0hfYURYNFBKa2swS21Q",
+      "tkey": "熱門族群遊戲業轉型跨域、AI闢新局",
+      "title": "《熱門族群》遊戲業轉型 跨域、AI闢新局 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6327064001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sun, 11 Oct 2026 08:12:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3293",
+          "name": "鈊象",
+          "point": "憑自主研發及海外授權展現優勢"
+        },
+        {
+          "symbol": "6180",
+          "name": "遊戲橘子",
+          "point": "跨足第三方支付、數位服務及AI資料中心"
+        },
+        {
+          "symbol": "6111",
+          "name": "光聚晶電",
+          "point": "轉型控股公司，投資半導體、電力、餐飲等"
+        }
+      ],
+      "background": "台灣遊戲產業面臨成長趨緩與開發成本攀升壓力，業者積極轉型跨足新事業並導入AI技術，以提升效率與競爭力。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxQblk4STN4alg4dUl2OTNVMXVnQ2tkYldGWHIzQjRocklkZzJtY2kyYV9ZdTAwRDBrNTBzeGJBRzlBR2hlNnU3OEtTR0Y2UjV3dElFUFBpZlZCamQ0S2JzdWJBZkw0aVRxY0FPdjhXNENCSGpsTU5TRTlwbVhjdzFqOTV6bl9QbW8x",
       "tkey": "熱門族群AI點火公股銀按讚PCB產業",
       "title": "《熱門族群》AI點火 公股銀按讚PCB產業 - 富聯網",
@@ -39,35 +68,27 @@
         {
           "symbol": "3037",
           "name": "欣興",
-          "point": "首波導入玻璃基板TGV技術的載板廠",
-          "status": "高檔修正",
-          "dist": -10.6,
-          "limitUp": false
+          "point": "首波導入玻璃基板TGV技術的載板廠"
         },
         {
           "symbol": "2311",
           "name": "日月光",
-          "point": "具備扇出型面板級封裝量產能力",
-          "limitUp": false
+          "point": "具備扇出型面板級封裝量產能力"
         },
         {
           "symbol": "6239",
           "name": "力成",
-          "point": "具備扇出型面板級封裝量產能力",
-          "limitUp": false
+          "point": "具備扇出型面板級封裝量產能力"
         },
         {
           "symbol": "3481",
           "name": "群創",
-          "point": "舊有產線轉型，切入SpaceX供應鏈",
-          "limitUp": false
+          "point": "舊有產線轉型切入SpaceX供應鏈"
         }
       ],
-      "background": "AI基礎建設及高效能運算（HPC）主導PCB產業技術升級，AI晶片基板、先進封裝及玻璃基板成成長重點，ABF載板因需求增長可能結構性短缺。",
+      "background": "AI帶動半導體與周邊零組件變革，PCB產業受AI基礎建設及HPC主導技術升級，AI晶片基板、先進封裝及玻璃基板成成長重點。",
       "themeTags": [
-        "需求驅動",
-        "國際大廠",
-        "循環位置"
+        "需求驅動"
       ]
     },
     {
@@ -78,11 +99,8 @@
       "source": "自由時報",
       "pubDate": "Sun, 11 Oct 2026 06:14:19 GMT",
       "stocks": [],
-      "background": "全球貨櫃運價因地緣政治衝突、紅海危機等因素，導致航線繞道、船舶周轉率下降，供給吃緊，運價維持高檔。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
+      "background": "貨櫃航運業受運價高檔持穩支撐，儘管面臨逆風，貨櫃三雄仍能逆勢揚帆。",
+      "themeTags": []
     },
     {
       "gid": "CBMiiAFBVV95cUxOTjJaMVdaM1NXWXc3bGQ3N21hMUxuN0k5TjhBU2FYem1pbXRIZ2VGQTZoTWUzdGZFemRmM2UydjNscnNxTDNEZC1MY19OcnllUFBsdWxxSHFuZXdnMzVSYi1OblQyUzFvUmdCc1FNV0hlbzhVV3l4eHozX2xTb3B4bGpxRzZxdHo5",

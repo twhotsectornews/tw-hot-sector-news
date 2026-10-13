@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-13T11:09:16.761+08:00",
-  "generatedAt": "2026-10-13T03:09:16.761Z",
+  "asOf": "2026-10-13T12:06:46.365+08:00",
+  "generatedAt": "2026-10-13T04:06:46.365Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -21,6 +21,24 @@
       "luw": 1,
       "luwd": [
         "10/8"
+      ]
+    },
+    {
+      "symbol": "3008",
+      "name": "大立光",
+      "days": 3,
+      "dates": [
+        "10/13",
+        "10/8",
+        "10/7"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -7.4,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/12"
       ]
     },
     {
@@ -78,24 +96,6 @@
       ],
       "mentions": 4,
       "limitUp": false
-    },
-    {
-      "symbol": "3008",
-      "name": "大立光",
-      "days": 3,
-      "dates": [
-        "10/13",
-        "10/8",
-        "10/7"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -9.6,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/12"
-      ]
     },
     {
       "symbol": "2408",
@@ -284,6 +284,28 @@
       "limitUp": false
     },
     {
+      "symbol": "3081",
+      "name": "聯亞",
+      "days": 2,
+      "dates": [
+        "10/13",
+        "10/8"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2455",
+      "name": "全新",
+      "days": 2,
+      "dates": [
+        "10/13",
+        "10/8"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "1519",
       "name": "華城",
       "days": 2,
@@ -346,10 +368,7 @@
         "10/11",
         "10/8"
       ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -10.6,
-      "limitUp": false
+      "mentions": 2
     },
     {
       "symbol": "8046",
@@ -388,6 +407,93 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOQlJabF96LU4zWC1UR2l5RVdTcWMyeW5sTEcyaU5fVEFkeEJ2TUFWQ1psdlF1RXNneGk3YXJ4cUUyMmc4eXJMZTg2N2ZHalQxN3ZuWXJYUDNvLV8yVnN0LU56ajc2d3gyeHRlVkxHV2NIWUVXT3BQUGk3ZUYxMWFyUlpZd240ZFpw",
+      "tkey": "熱門族群CPO綠光罩頂！5檔中箭倒地大立光抗空苦撐",
+      "title": "《熱門族群》CPO綠光罩頂！5檔中箭倒地 大立光抗空苦撐 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6329426001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 13 Oct 2026 03:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "矽光子CPO族群中箭倒地",
+          "limitUp": false
+        },
+        {
+          "symbol": "4971",
+          "name": "IET-KY",
+          "point": "矽光子CPO族群中箭倒地",
+          "limitUp": false
+        },
+        {
+          "symbol": "4908",
+          "name": "前鼎",
+          "point": "矽光子CPO族群中箭倒地",
+          "limitUp": false
+        },
+        {
+          "symbol": "2455",
+          "name": "全新",
+          "point": "矽光子CPO族群中箭倒地",
+          "limitUp": false
+        },
+        {
+          "symbol": "3363",
+          "name": "上詮",
+          "point": "矽光子CPO族群中箭倒地",
+          "limitUp": false
+        },
+        {
+          "symbol": "4979",
+          "name": "華星光",
+          "point": "矽光子CPO族群跟進腿軟",
+          "limitUp": false
+        },
+        {
+          "symbol": "3450",
+          "name": "聯鈞",
+          "point": "矽光子CPO族群跟進腿軟",
+          "limitUp": false
+        },
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "矽光子CPO族群跟進腿軟",
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "法說後利空出盡逆勢走堅",
+          "status": "逼近新高",
+          "dist": -7.4,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/12"
+          ]
+        },
+        {
+          "symbol": "4903",
+          "name": "聯光通",
+          "point": "逆勢勁揚逾半根停板",
+          "limitUp": false,
+          "luw": 4,
+          "luwd": [
+            "10/12",
+            "10/8",
+            "10/7",
+            "10/6"
+          ]
+        }
+      ],
+      "background": "CPO（共同封裝光學）與矽光子技術受AI高速互連升級趨勢帶動，但受國際光通訊指標股崩跌影響，台廠相關概念股普遍走弱。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPMjRsaDRJeU9GdlRsQ2NjaHVWeTZmeDFjSF9Rb0FNX0RQYVN5VkctVDNXOHdQVjIwN3prZWQwRHhidWRsN0Y4QlFaWkJZMEswdl8yUmF5LVJnT3FiSWg4cXhlLWNXalpmLWF4bWxLajl6NDdxc05sVGN2dUtHN2pTNEZzN1JCMzBY",
       "tkey": "熱門族群油價助攻台塑四寶逆勢飆台塑化領頭改寫7年新高",
