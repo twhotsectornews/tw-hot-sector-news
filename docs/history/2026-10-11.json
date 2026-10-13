@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "updatedAt": "2026-10-13T05:06:31.166Z",
+  "updatedAt": "2026-10-13T06:06:16.619Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPc19fNEMxbzBMcVo3M2lpS2RNRTlDLTFwMkVSeFRwX0xrTXg3b0RNbG9yZzJGMmtkSENULTFTVWtMaFJNdFNackJXaFdEUjduN0RSU3kyNS1mVkhUZzF3NmJ2RWRYTjRDajcxQkdVT0dUeUItVU9xZDNFYXRvQ1I5VHVFd1VodnQz",
@@ -39,20 +39,20 @@
         {
           "symbol": "3293",
           "name": "鈊象",
-          "point": "憑自主研發及海外授權展現規模經濟"
+          "point": "自主研發及海外授權具規模經濟優勢"
         },
         {
           "symbol": "6180",
           "name": "遊戲橘子",
-          "point": "從遊戲延伸至第三方支付、AI資料中心"
+          "point": "延伸至第三方支付、數位服務及AI資料中心"
         },
         {
           "symbol": "6111",
           "name": "光聚晶電",
-          "point": "轉型控股公司，投資半導體、電力等"
+          "point": "轉型控股公司，投資半導體、電力等業務"
         }
       ],
-      "background": "遊戲產業面臨轉型壓力，業者積極跨足新事業並導入AI技術，以提升效率、降低成本並開闢新局。",
+      "background": "遊戲產業面臨成長趨緩與成本攀升壓力，業者積極轉型跨足新事業並導入AI技術，以提升效率與競爭力。",
       "themeTags": [
         "需求驅動"
       ]
@@ -86,7 +86,7 @@
           "point": "舊有產線轉型，切入SpaceX供應鏈"
         }
       ],
-      "background": "AI帶動半導體與周邊零組件變革，PCB產業受AI基礎建設及HPC主導技術升級，ABF載板及玻璃基板需求增。國際大廠輝達、Google、AWS推動次世代AI晶片。",
+      "background": "AI與HPC需求帶動PCB產業技術升級，AI晶片基板、先進封裝及玻璃基板為成長重點，ABF載板可能出現結構性供應短缺。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
@@ -100,9 +100,9 @@
       "source": "自由時報",
       "pubDate": "Sun, 11 Oct 2026 06:14:19 GMT",
       "stocks": [],
-      "background": "貨櫃航運業受運價高檔持穩支撐，主要受全球供應鏈狀況及地緣政治影響，產業景氣仍在高檔。",
+      "background": "貨櫃航運業受運價高檔持穩支撐，主要受全球貿易需求與地緣政治影響，產業景氣維持高檔。",
       "themeTags": [
-        "循環位置"
+        "需求驅動"
       ]
     },
     {
