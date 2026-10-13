@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "updatedAt": "2026-10-12T19:59:51.364Z",
+  "updatedAt": "2026-10-13T03:09:16.757Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOUmdVY2xiMWJ0Z2I5Q0xPV2JQUnBJOFZsY0lhZjFZQXRhQ3c4NXZvaXQ4NjkzNTFxX1g0R21fUmw2WlgydVpodzVudWFyXzA2NTdFM0x3T3hpa2VaZm9DRWdKVmp2QXExLUpVMFhwSFhFVUIyTG41ZHA1dG5fOVZNRDVLeFRjY1Fi",
@@ -38,7 +38,9 @@
           "symbol": "6505",
           "name": "台塑化",
           "point": "中東地緣政治風險支撐國際油價",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -5.4
         }
       ],
       "background": "台塑四寶受惠石化產業傳統旺季、AI帶動電子材料需求，以及地緣政治風險支撐油價，第四季營運各有亮點。",
@@ -66,7 +68,9 @@
           "symbol": "6505",
           "name": "台塑化",
           "point": "煉油廠產能利用率回升，獲利創歷年單季新高",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -5.4
         },
         {
           "symbol": "1301",
