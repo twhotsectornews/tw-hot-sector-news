@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-14T00:54:19.902+08:00",
-  "generatedAt": "2026-10-13T16:54:19.902Z",
+  "asOf": "2026-10-14T01:47:28.406+08:00",
+  "generatedAt": "2026-10-13T17:47:28.406Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -326,6 +326,19 @@
       "themeTags": [
         "需求驅動",
         "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE9laVlJajg5eDBzTUNIcnV5cVJWSmlGaVBJeHlZLW9yeFBKWTFmVTlGdEMwSUNlOHF5NEpPMnBYRS1OQ3JTb1dNcHZDY1d6by1wSVlRTlczcUs",
+      "tkey": "熱門族群立院三讀利多出盡？軍工股虎頭蛇尾",
+      "title": "熱門族群》立院三讀利多出盡？軍工股虎頭蛇尾 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/huza9tbwx0af",
+      "source": "自由時報",
+      "pubDate": "Tue, 13 Oct 2026 05:48:36 GMT",
+      "stocks": [],
+      "background": "台灣政府推動國防自主政策，軍工產業受惠於國防預算增加及地緣政治緊張，訂單能見度提升，但短期可能受利多出盡影響。",
+      "themeTags": [
+        "政策關稅"
       ]
     },
     {
