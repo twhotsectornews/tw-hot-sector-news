@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "updatedAt": "2026-10-13T04:06:46.362Z",
+  "updatedAt": "2026-10-13T05:06:31.166Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPc19fNEMxbzBMcVo3M2lpS2RNRTlDLTFwMkVSeFRwX0xrTXg3b0RNbG9yZzJGMmtkSENULTFTVWtMaFJNdFNackJXaFdEUjduN0RSU3kyNS1mVkhUZzF3NmJ2RWRYTjRDajcxQkdVT0dUeUItVU9xZDNFYXRvQ1I5VHVFd1VodnQz",
@@ -39,20 +39,20 @@
         {
           "symbol": "3293",
           "name": "鈊象",
-          "point": "憑自主研發及海外授權展現優勢"
+          "point": "憑自主研發及海外授權展現規模經濟"
         },
         {
           "symbol": "6180",
           "name": "遊戲橘子",
-          "point": "跨足第三方支付、數位服務及AI資料中心"
+          "point": "從遊戲延伸至第三方支付、AI資料中心"
         },
         {
           "symbol": "6111",
           "name": "光聚晶電",
-          "point": "轉型控股公司，投資半導體、電力、餐飲等"
+          "point": "轉型控股公司，投資半導體、電力等"
         }
       ],
-      "background": "台灣遊戲產業面臨成長趨緩與開發成本攀升壓力，業者積極轉型跨足新事業並導入AI技術，以提升效率與競爭力。",
+      "background": "遊戲產業面臨轉型壓力，業者積極跨足新事業並導入AI技術，以提升效率、降低成本並開闢新局。",
       "themeTags": [
         "需求驅動"
       ]
@@ -83,12 +83,13 @@
         {
           "symbol": "3481",
           "name": "群創",
-          "point": "舊有產線轉型切入SpaceX供應鏈"
+          "point": "舊有產線轉型，切入SpaceX供應鏈"
         }
       ],
-      "background": "AI帶動半導體與周邊零組件變革，PCB產業受AI基礎建設及HPC主導技術升級，AI晶片基板、先進封裝及玻璃基板成成長重點。",
+      "background": "AI帶動半導體與周邊零組件變革，PCB產業受AI基礎建設及HPC主導技術升級，ABF載板及玻璃基板需求增。國際大廠輝達、Google、AWS推動次世代AI晶片。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "國際大廠"
       ]
     },
     {
@@ -99,8 +100,10 @@
       "source": "自由時報",
       "pubDate": "Sun, 11 Oct 2026 06:14:19 GMT",
       "stocks": [],
-      "background": "貨櫃航運業受運價高檔持穩支撐，儘管面臨逆風，貨櫃三雄仍能逆勢揚帆。",
-      "themeTags": []
+      "background": "貨櫃航運業受運價高檔持穩支撐，主要受全球供應鏈狀況及地緣政治影響，產業景氣仍在高檔。",
+      "themeTags": [
+        "循環位置"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxOTjJaMVdaM1NXWXc3bGQ3N21hMUxuN0k5TjhBU2FYem1pbXRIZ2VGQTZoTWUzdGZFemRmM2UydjNscnNxTDNEZC1MY19OcnllUFBsdWxxSHFuZXdnMzVSYi1OblQyUzFvUmdCc1FNV0hlbzhVV3l4eHozX2xTb3B4bGpxRzZxdHo5",
