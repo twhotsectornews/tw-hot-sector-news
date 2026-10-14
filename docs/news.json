@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-14T12:06:13.883+08:00",
-  "generatedAt": "2026-10-14T04:06:13.883Z",
+  "asOf": "2026-10-14T13:05:57.593+08:00",
+  "generatedAt": "2026-10-14T05:05:57.593Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -17,8 +17,7 @@
         "10/11"
       ],
       "mentions": 6,
-      "limitUp": true,
-      "pct": 9.9,
+      "limitUp": false,
       "luw": 1,
       "luwd": [
         "10/7"
@@ -167,8 +166,7 @@
         "10/8"
       ],
       "mentions": 2,
-      "limitUp": true,
-      "pct": 9.6
+      "limitUp": false
     },
     {
       "symbol": "3081",
@@ -331,8 +329,7 @@
           "symbol": "2375",
           "name": "凱美",
           "point": "百元股強攻漲停",
-          "limitUp": true,
-          "pct": 9.6
+          "limitUp": false
         },
         {
           "symbol": "8042",
@@ -382,8 +379,7 @@
           "symbol": "8039",
           "name": "台虹",
           "point": "成為Nvidia合作夥伴，股價漲停",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "6269",
@@ -442,8 +438,7 @@
           "symbol": "1301",
           "name": "台塑",
           "point": "同飆漲停",
-          "limitUp": true,
-          "pct": 9.9,
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "10/7"
