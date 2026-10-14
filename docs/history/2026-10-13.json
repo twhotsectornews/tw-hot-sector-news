@@ -1,7 +1,20 @@
 {
   "date": "2026-10-13",
-  "updatedAt": "2026-10-13T17:47:28.402Z",
+  "updatedAt": "2026-10-14T03:08:10.191Z",
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE9scUtlbTdwQ3FXNVJrRWtNTjJSV2NQdzdaa1Jsc1VkVlp5YjAwWi1vUUVaYUE3ajdmbVJWb2hWeUtkTkczT0Jzd3JHUWI5ODRXa2tEVzNDcXM",
+      "tkey": "熱門族群AI需求旺到2030年晶圓代工產業迎榮景",
+      "title": "熱門族群》AI需求旺到2030年 晶圓代工產業迎榮景 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/7hmghe8jscxg",
+      "source": "自由時報",
+      "pubDate": "Tue, 13 Oct 2026 09:48:14 GMT",
+      "stocks": [],
+      "background": "AI需求預期將持續旺盛至2030年，帶動晶圓代工產業的長期成長動能，相關技術與產能擴張成為關鍵。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPMGpLdmtoYmlBdmVpanRDT20tbDhsak9YdW4tU3Z5V1lSSGRfaVg5NHFONGp3YmlxY2Q0VmJHRjBvdVdsQ0JlR3lmTEFzN3ExeHVNSGJvbnQ1c0tsSFRWSm9uZk5oLWNTX0JScUtoRURjMzJPaGI3cV9zTWlGOTJfX2pDZTZXTklO",
       "tkey": "熱門族群CPO量產推進測試升級汎銓、閎康、宜特迎新商機",
@@ -148,7 +161,9 @@
           "symbol": "2455",
           "name": "全新",
           "point": "矽光子CPO族群中箭倒地",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14.2
         },
         {
           "symbol": "3363",
