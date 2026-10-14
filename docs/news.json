@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-14T11:08:10.195+08:00",
-  "generatedAt": "2026-10-14T03:08:10.195Z",
+  "asOf": "2026-10-14T12:06:13.883+08:00",
+  "generatedAt": "2026-10-14T04:06:13.883Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -16,8 +16,9 @@
         "10/12",
         "10/11"
       ],
-      "mentions": 5,
-      "limitUp": false,
+      "mentions": 6,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 1,
       "luwd": [
         "10/7"
@@ -33,7 +34,7 @@
         "10/12",
         "10/11"
       ],
-      "mentions": 5,
+      "mentions": 6,
       "status": "逼近新高",
       "dist": -2.7,
       "limitUp": false
@@ -48,7 +49,7 @@
         "10/12",
         "10/11"
       ],
-      "mentions": 5,
+      "mentions": 6,
       "limitUp": false
     },
     {
@@ -61,7 +62,7 @@
         "10/12",
         "10/11"
       ],
-      "mentions": 5,
+      "mentions": 6,
       "status": "逼近新高",
       "dist": -5.4,
       "limitUp": false,
@@ -77,6 +78,53 @@
       "dates": [
         "10/12",
         "10/11",
+        "10/8"
+      ],
+      "mentions": 4
+    },
+    {
+      "symbol": "2327",
+      "name": "國巨",
+      "days": 2,
+      "dates": [
+        "10/14",
+        "10/8"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "8042",
+      "name": "金山電",
+      "days": 2,
+      "dates": [
+        "10/14",
+        "10/8"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "2492",
+      "name": "華新科",
+      "days": 2,
+      "dates": [
+        "10/14",
+        "10/8"
+      ],
+      "mentions": 4,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/7"
+      ]
+    },
+    {
+      "symbol": "3026",
+      "name": "禾伸堂",
+      "days": 2,
+      "dates": [
+        "10/14",
         "10/8"
       ],
       "mentions": 3,
@@ -98,6 +146,29 @@
       "luwd": [
         "10/12"
       ]
+    },
+    {
+      "symbol": "3090",
+      "name": "日電貿",
+      "days": 2,
+      "dates": [
+        "10/14",
+        "10/8"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2375",
+      "name": "凱美",
+      "days": 2,
+      "dates": [
+        "10/14",
+        "10/8"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 9.6
     },
     {
       "symbol": "3081",
@@ -231,6 +302,135 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxNdjRoejVuUGdhNm5rX3NYb1ZBNm1rd3E0b0g5dU5mOGhZTGk2SV82U3N0b2NlUEQ5NExCd3RLQmw1ZXZ3UGZQQnVCRDU5UnoyM2tmTzRfa1VQcjBrSGs4YjVic3RoX1Z5WjBiQUdQUU01NGk0S3FrMHdqNFprN3BVS21hZjR5LXYw",
+      "tkey": "熱門族群被動元件來真的！國巨重返6字頭3檔百元股強攻頂",
+      "title": "《熱門族群》被動元件來真的！國巨重返6字頭 3檔百元股強攻頂 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6330573001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Wed, 14 Oct 2026 03:15:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "重返6字頭，受惠轉單利多",
+          "limitUp": false
+        },
+        {
+          "symbol": "2478",
+          "name": "大毅",
+          "point": "百元股強攻漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3090",
+          "name": "日電貿",
+          "point": "百元股強攻漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2375",
+          "name": "凱美",
+          "point": "百元股強攻漲停",
+          "limitUp": true,
+          "pct": 9.6
+        },
+        {
+          "symbol": "8042",
+          "name": "金山電",
+          "point": "強升逾4％",
+          "limitUp": false
+        },
+        {
+          "symbol": "2492",
+          "name": "華新科",
+          "point": "強升逾4％，營收創高",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/7"
+          ]
+        },
+        {
+          "symbol": "6862",
+          "name": "三集瑞-KY",
+          "point": "強升逾4％",
+          "limitUp": false
+        },
+        {
+          "symbol": "3026",
+          "name": "禾伸堂",
+          "point": "強升逾4％",
+          "limitUp": false
+        }
+      ],
+      "background": "被動元件廠村田擬加碼投資擴產，坦言供不應求，台廠受惠轉單，國巨、華新科營運攀高峰。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOM2c5bDV4dDhjQnNnclljUHBHMGd2SGhUUnIzTTlYTjkzVG5TeXZ4ZzJ4dGpyelpyZzNFZk5uZno5cnpXVjJ3QXpkMjUwdTFJWlhNVktYZG5FRFZmV1BNT243VUR5eDZLcEtzU3FNVjNlWVo0bGNkMWVkQ0paeXN2NThLNEhNeXp1",
+      "tkey": "熱門族群PTFE躋身PCB材料新寵兒台虹、台郡成為Nvidia合作夥伴",
+      "title": "《熱門族群》PTFE躋身PCB材料新寵兒 台虹、台郡成為Nvidia合作夥伴 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6330568001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 14 Oct 2026 03:07:00 GMT",
+      "stocks": [
+        {
+          "symbol": "8039",
+          "name": "台虹",
+          "point": "成為Nvidia合作夥伴，股價漲停",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "6269",
+          "name": "台郡",
+          "point": "成為Nvidia合作夥伴，股價漲停",
+          "limitUp": false
+        }
+      ],
+      "background": "AI伺服器帶動PCB材料升級，PTFE挾電性優勢成為新寵兒，Nvidia選定台虹、台郡為合作供應商。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPSjdxSFpwSEdUX3dmNEZCOS1EN084bjdIMmxBY1JGdFd4M2lTY2U0bUQ2cGd5OFAyMjB5a3BhSmdPNGJZZXVtb2VOUWlqdEpCcGdNU2ItTHZDeTZ2S25oU2ZqMW1XVGxYVm91XzlSU3BVYzlIT0hCcDN5M2Jic25CcEJRRzRodHdf",
+      "tkey": "熱門族群光通訊止跌訊號來了？華星光、眾達-KY早盤彈逾4％",
+      "title": "《熱門族群》光通訊止跌訊號來了？華星光、眾達-KY早盤彈逾4％ - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6330546001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 14 Oct 2026 03:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3049",
+          "name": "華星光",
+          "point": "早盤彈逾4％，止跌訊號浮現",
+          "limitUp": false
+        },
+        {
+          "symbol": "3488",
+          "name": "眾達-KY",
+          "point": "早盤彈逾4％，止跌訊號浮現",
+          "limitUp": false
+        },
+        {
+          "symbol": "3515",
+          "name": "波若威",
+          "point": "上漲約2％，止跌訊號浮現",
+          "limitUp": false
+        }
+      ],
+      "background": "美國光通訊股重挫後跌勢收斂，台股族群見反彈，法人認為反映AI資本支出疑慮及獲利了結。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxQREtmOWZ5dDVzOTI0X3M5LVFuTWJMbHBremI5UnJxOWFmV0V3QXpSWlBkWlRyWlpueWFZUnBNcWxMeGtPYWxqLV9lNDhZU3lkako0X004WmdOQkpJVTUxUkl4anRKTHNQRVlqeHJoVTh0YXBpdmw5TnhyNHlWVGFneG83NWNWblQ3",
       "tkey": "熱門族群四寶狂刷3顆紅燈塑化股噴翻天",
       "title": "《熱門族群》四寶狂刷3顆紅燈 塑化股噴翻天 - 富聯網",
@@ -242,7 +442,8 @@
           "symbol": "1301",
           "name": "台塑",
           "point": "同飆漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "10/7"
