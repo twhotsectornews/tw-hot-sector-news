@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-14T13:05:57.593+08:00",
-  "generatedAt": "2026-10-14T05:05:57.593Z",
+  "asOf": "2026-10-14T14:04:47.881+08:00",
+  "generatedAt": "2026-10-14T06:04:47.881Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -16,8 +16,9 @@
         "10/12",
         "10/11"
       ],
-      "mentions": 6,
-      "limitUp": false,
+      "mentions": 5,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 1,
       "luwd": [
         "10/7"
@@ -33,10 +34,11 @@
         "10/12",
         "10/11"
       ],
-      "mentions": 6,
+      "mentions": 5,
       "status": "逼近新高",
       "dist": -2.7,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.4
     },
     {
       "symbol": "1326",
@@ -48,8 +50,9 @@
         "10/12",
         "10/11"
       ],
-      "mentions": 6,
-      "limitUp": false
+      "mentions": 5,
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "6505",
@@ -61,7 +64,7 @@
         "10/12",
         "10/11"
       ],
-      "mentions": 6,
+      "mentions": 5,
       "status": "逼近新高",
       "dist": -5.4,
       "limitUp": false,
@@ -79,7 +82,8 @@
         "10/11",
         "10/8"
       ],
-      "mentions": 4
+      "mentions": 3,
+      "limitUp": false
     },
     {
       "symbol": "2327",
@@ -147,6 +151,17 @@
       ]
     },
     {
+      "symbol": "6239",
+      "name": "力成",
+      "days": 2,
+      "dates": [
+        "10/14",
+        "10/11"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "3090",
       "name": "日電貿",
       "days": 2,
@@ -155,7 +170,8 @@
         "10/8"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "2375",
@@ -166,7 +182,8 @@
         "10/8"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.6
     },
     {
       "symbol": "3081",
@@ -300,6 +317,61 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxNTEQ2ZXQtbDBqMUpBNmhSYzk0cmlxTjhJNmZnSEEwejJmT1RkaFVET1VNazlvcjNLZFl0NnBmbzY3Y3JpUHF0a19zQ25lTC0xRXh6QWN3amxhdURBdy00YmpyN0NpUG8zek1NTXZKMk5FWl9uSkt0NDh4RUZSOVRIdnluT2I4bFdi",
+      "tkey": "熱門族群封測漲價潮蠢動日月光劍指歷史新高、欣銓等多檔表態",
+      "title": "《熱門族群》封測漲價潮蠢動 日月光劍指歷史新高、欣銓等多檔表態 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6330614001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 14 Oct 2026 03:58:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "point": "劍指歷史新高、營收毛利率成長",
+          "status": "逼近新高",
+          "dist": -2.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "point": "站回300元、搶進先進封裝",
+          "limitUp": false
+        },
+        {
+          "symbol": "3264",
+          "name": "欣銓",
+          "point": "漲幅超過4.6%、高階測試題材",
+          "status": "逼近新高",
+          "dist": -4.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "2329",
+          "name": "華泰",
+          "point": "多頭率先表態",
+          "limitUp": false
+        },
+        {
+          "symbol": "2441",
+          "name": "超豐",
+          "point": "多頭率先表態",
+          "limitUp": false
+        },
+        {
+          "symbol": "2449",
+          "name": "京元電子",
+          "point": "攜手輝達布局美國擴產",
+          "limitUp": false
+        }
+      ],
+      "background": "AI晶片需求帶動先進封裝與測試，封測報價調漲動能強勁，產業受惠於高階晶片設計複雜度提升。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNdjRoejVuUGdhNm5rX3NYb1ZBNm1rd3E0b0g5dU5mOGhZTGk2SV82U3N0b2NlUEQ5NExCd3RLQmw1ZXZ3UGZQQnVCRDU5UnoyM2tmTzRfa1VQcjBrSGs4YjVic3RoX1Z5WjBiQUdQUU01NGk0S3FrMHdqNFprN3BVS21hZjR5LXYw",
       "tkey": "熱門族群被動元件來真的！國巨重返6字頭3檔百元股強攻頂",
       "title": "《熱門族群》被動元件來真的！國巨重返6字頭 3檔百元股強攻頂 - 富聯網",
@@ -317,19 +389,22 @@
           "symbol": "2478",
           "name": "大毅",
           "point": "百元股強攻漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "3090",
           "name": "日電貿",
           "point": "百元股強攻漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "2375",
           "name": "凱美",
           "point": "百元股強攻漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.6
         },
         {
           "symbol": "8042",
@@ -379,13 +454,15 @@
           "symbol": "8039",
           "name": "台虹",
           "point": "成為Nvidia合作夥伴，股價漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "6269",
           "name": "台郡",
           "point": "成為Nvidia合作夥伴，股價漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         }
       ],
       "background": "AI伺服器帶動PCB材料升級，PTFE挾電性優勢成為新寵兒，Nvidia選定台虹、台郡為合作供應商。",
@@ -438,7 +515,8 @@
           "symbol": "1301",
           "name": "台塑",
           "point": "同飆漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "10/7"
@@ -450,13 +528,15 @@
           "point": "同飆漲停，營運逐季攀高",
           "status": "逼近新高",
           "dist": -2.7,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.4
         },
         {
           "symbol": "1326",
           "name": "台化",
           "point": "同飆漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6505",

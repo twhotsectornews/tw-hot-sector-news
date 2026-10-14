@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "updatedAt": "2026-10-14T05:05:57.589Z",
+  "updatedAt": "2026-10-14T06:04:47.877Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOUmdVY2xiMWJ0Z2I5Q0xPV2JQUnBJOFZsY0lhZjFZQXRhQ3c4NXZvaXQ4NjkzNTFxX1g0R21fUmw2WlgydVpodzVudWFyXzA2NTdFM0x3T3hpa2VaZm9DRWdKVmp2QXExLUpVMFhwSFhFVUIyTG41ZHA1dG5fOVZNRDVLeFRjY1Fi",
@@ -13,7 +13,7 @@
         {
           "symbol": "1301",
           "name": "台塑",
-          "point": "Q4傳統旺季營收優於Q3",
+          "point": "預估Q4營收優於Q3",
           "luw": 1,
           "luwd": [
             "10/7"
@@ -22,31 +22,30 @@
         {
           "symbol": "1303",
           "name": "南亞",
-          "point": "Q4營收再拚新高",
-          "status": "逼近新高",
-          "dist": -0.9
+          "point": "Q4營收再拚新高、全年營運創新高",
+          "status": "創新高",
+          "dist": -0.4
         },
         {
           "symbol": "1326",
           "name": "台化",
-          "point": "Q4營運優於Q3"
+          "point": "預期Q4營運優於Q3"
         },
         {
           "symbol": "6505",
           "name": "台塑化",
-          "point": "Q4將進行年度歲修",
+          "point": "Q4營運受歲修影響",
           "status": "逼近新高",
-          "dist": -5.8,
+          "dist": -7.4,
           "luw": 1,
           "luwd": [
             "10/13"
           ]
         }
       ],
-      "background": "台塑四寶Q4營運各有亮點，受惠石化產業傳統旺季及AI高階電子材料需求強勁。國際油價受中東地緣政治風險支撐，影響石化產品報價。",
+      "background": "AI帶動高階電子材料需求，石化產業進入旺季，加上歲修廠數減少，台塑四寶Q4營運各有亮點。",
       "themeTags": [
-        "需求驅動",
-        "循環位置"
+        "需求驅動"
       ]
     },
     {
@@ -56,49 +55,10 @@
       "url": "https://wantrich.chinatimes.com/news/20261012900405-420101",
       "source": "旺得富理財網",
       "pubDate": "Mon, 12 Oct 2026 06:20:08 GMT",
-      "stocks": [
-        {
-          "symbol": "1303",
-          "name": "南亞",
-          "point": "Q3獲利稱冠四寶",
-          "status": "逼近新高",
-          "dist": -0.9
-        },
-        {
-          "symbol": "6505",
-          "name": "台塑化",
-          "point": "Q3獲利創歷年單季新高",
-          "status": "逼近新高",
-          "dist": -5.8,
-          "luw": 1,
-          "luwd": [
-            "10/13"
-          ]
-        },
-        {
-          "symbol": "1301",
-          "name": "台塑",
-          "point": "Q3獲利下滑",
-          "luw": 1,
-          "luwd": [
-            "10/7"
-          ]
-        },
-        {
-          "symbol": "1326",
-          "name": "台化",
-          "point": "Q3獲利下滑"
-        },
-        {
-          "symbol": "2408",
-          "name": "南亞科",
-          "point": "記憶體供需缺口擴大"
-        }
-      ],
-      "background": "台塑四寶Q3受惠AI電子材料需求火熱及煉油廠產能利用率回升，獲利表現亮眼。然而，部分公司受原料成本高漲影響，營運呈現兩樣情。石化產業受國際油價波動影響大。",
+      "stocks": [],
+      "background": "台塑四寶受惠石化傳統旺季、電子材料需求火熱，加上歲修廠數減少，Q3獲利創高。",
       "themeTags": [
-        "需求驅動",
-        "循環位置"
+        "需求驅動"
       ]
     },
     {
