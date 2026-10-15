@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "updatedAt": "2026-10-15T04:04:42.638Z",
+  "updatedAt": "2026-10-15T05:06:00.090Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE9scUtlbTdwQ3FXNVJrRWtNTjJSV2NQdzdaa1Jsc1VkVlp5YjAwWi1vUUVaYUE3ajdmbVJWb2hWeUtkTkczT0Jzd3JHUWI5ODRXa2tEVzNDcXM",
@@ -10,7 +10,7 @@
       "source": "自由時報",
       "pubDate": "Tue, 13 Oct 2026 09:48:14 GMT",
       "stocks": [],
-      "background": "AI需求持續增長，預計將推動晶圓代工產業至2030年，產業景氣可望持續榮景。",
+      "background": "AI需求持續增長，帶動晶圓代工產業景氣，預期將受惠於高效能運算（HPC）晶片需求，產業前景看好。",
       "themeTags": [
         "需求驅動"
       ]
@@ -24,42 +24,22 @@
       "pubDate": "Tue, 13 Oct 2026 08:57:00 GMT",
       "stocks": [
         {
-          "symbol": "6830",
+          "symbol": "6835",
           "name": "汎銓",
-          "point": "CPO量產推進測試升級"
+          "point": "CPO量產測試升級商機"
         },
         {
-          "symbol": "3587",
+          "symbol": "6598",
           "name": "閎康",
-          "point": "CPO量產推進測試升級"
+          "point": "CPO量產測試升級商機"
         },
         {
           "symbol": "3289",
           "name": "宜特",
-          "point": "CPO量產推進測試升級"
-        },
-        {
-          "symbol": "4573",
-          "name": "高明鐵",
-          "point": "提供多軸控制的耦光對位模組"
-        },
-        {
-          "symbol": "6223",
-          "name": "旺矽",
-          "point": "提供探測設備與光學對準"
-        },
-        {
-          "symbol": "6515",
-          "name": "穎崴",
-          "point": "提供測試介面"
-        },
-        {
-          "symbol": "2360",
-          "name": "致茂",
-          "point": "具備自動化測試與老化測試能力"
+          "point": "CPO量產測試升級商機"
         }
       ],
-      "background": "AI資料中心推升高速傳輸需求，共封裝光學(CPO)逐步邁向量產，測試設備與軟體整合需求升高，為第三方測試機構帶來新商機。",
+      "background": "CPO（共同封裝光學）技術量產推進，帶動相關測試需求升級，為汎銓、閎康、宜特等業者帶來新商機。",
       "themeTags": [
         "需求驅動"
       ]
@@ -116,33 +96,8 @@
       "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6329730001&PU=0010",
       "source": "富聯網",
       "pubDate": "Tue, 13 Oct 2026 07:56:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3231",
-          "name": "緯創",
-          "point": "完成NVIDIA Vera Rubin NVL72全液冷平台整備"
-        },
-        {
-          "symbol": "6669",
-          "name": "緯穎",
-          "point": "完成NVIDIA Vera Rubin NVL72全液冷平台整備"
-        },
-        {
-          "symbol": "4938",
-          "name": "和碩",
-          "point": "展出全液冷RA4803-72N3平台",
-          "luw": 1,
-          "luwd": [
-            "10/12"
-          ]
-        },
-        {
-          "symbol": "2317",
-          "name": "鴻海",
-          "point": "參展OCP全球高峰會"
-        }
-      ],
-      "background": "輝達開放Rubin架構，推動AI邁向數GW規模，引爆機櫃級水冷伺服器商機，台廠積極搶攻訂單。",
+      "stocks": [],
+      "background": "OCP（開放運算計畫）掀起AI代理大戰，輝達開放Rubin架構，台廠水冷鏈供應商有望搶得訂單。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
@@ -156,7 +111,7 @@
       "source": "自由時報",
       "pubDate": "Tue, 13 Oct 2026 05:48:36 GMT",
       "stocks": [],
-      "background": "立法院三讀通過相關法案，軍工股受此利多消息影響，但後續表現不如預期，呈現虎頭蛇尾。",
+      "background": "軍工股受立法院三讀利多消息影響，市場反應呈現虎頭蛇尾，顯示政策利多可能已提前反映，後續動能待觀察。",
       "themeTags": [
         "政策關稅"
       ]
