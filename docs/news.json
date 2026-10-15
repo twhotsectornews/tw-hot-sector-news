@@ -1,58 +1,40 @@
 {
-  "asOf": "2026-10-15T13:06:00.093+08:00",
-  "generatedAt": "2026-10-15T05:06:00.093Z",
+  "asOf": "2026-10-15T14:03:22.901+08:00",
+  "generatedAt": "2026-10-15T06:03:22.901Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
     {
-      "symbol": "1301",
-      "name": "台塑",
-      "days": 4,
-      "dates": [
-        "10/14",
-        "10/13",
-        "10/12",
-        "10/11"
-      ],
-      "mentions": 5,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 1,
-      "luwd": [
-        "10/14"
-      ]
-    },
-    {
       "symbol": "1303",
       "name": "南亞",
-      "days": 4,
+      "days": 5,
       "dates": [
+        "10/15",
         "10/14",
         "10/13",
         "10/12",
         "10/11"
       ],
-      "mentions": 5,
-      "status": "逼近新高",
-      "dist": -2.7,
-      "limitUp": true,
-      "pct": 9.4
+      "mentions": 6,
+      "status": "高檔修正",
+      "dist": -10.3,
+      "limitUp": false
     },
     {
       "symbol": "1326",
       "name": "台化",
-      "days": 4,
+      "days": 5,
       "dates": [
+        "10/15",
         "10/14",
         "10/13",
         "10/12",
         "10/11"
       ],
-      "mentions": 5,
-      "limitUp": true,
-      "pct": 9.9,
+      "mentions": 6,
+      "limitUp": false,
       "luw": 1,
       "luwd": [
         "10/14"
@@ -61,21 +43,110 @@
     {
       "symbol": "6505",
       "name": "台塑化",
-      "days": 4,
+      "days": 5,
       "dates": [
+        "10/15",
         "10/14",
         "10/13",
         "10/12",
         "10/11"
       ],
-      "mentions": 5,
-      "status": "逼近新高",
-      "dist": -5.4,
+      "mentions": 6,
+      "status": "高檔修正",
+      "dist": -13.6,
       "limitUp": false,
       "luw": 1,
       "luwd": [
         "10/13"
       ]
+    },
+    {
+      "symbol": "1301",
+      "name": "台塑",
+      "days": 5,
+      "dates": [
+        "10/15",
+        "10/14",
+        "10/13",
+        "10/12",
+        "10/11"
+      ],
+      "mentions": 6,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/14"
+      ]
+    },
+    {
+      "symbol": "1312",
+      "name": "國喬",
+      "days": 2,
+      "dates": [
+        "10/15",
+        "10/14"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/13"
+      ]
+    },
+    {
+      "symbol": "1310",
+      "name": "台苯",
+      "days": 2,
+      "dates": [
+        "10/15",
+        "10/11"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "1304",
+      "name": "台聚",
+      "days": 2,
+      "dates": [
+        "10/15",
+        "10/14"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "1309",
+      "name": "台達化",
+      "days": 2,
+      "dates": [
+        "10/15",
+        "10/14"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "6830",
+      "name": "汎銓",
+      "days": 2,
+      "dates": [
+        "10/15",
+        "10/13"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3587",
+      "name": "閎康",
+      "days": 2,
+      "dates": [
+        "10/15",
+        "10/13"
+      ],
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "3289",
@@ -167,6 +238,92 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPS0tvWUFGblRwTjNVSUNJZEdXZm9KU2NyVU5FekVjbEZFYlRjTHViWElvS25jQ2IyY2FQd1g5YWgxWldqVHMyb3FqUEhQQkRtMXpHZVFzTmNfQXM5Mm0xN1l1eTRlX3RhTmdhd1hDS1djYXVwTjhoSVNRcGdWUnV4MlpUNmpZNTVn",
+      "tkey": "熱門族群天堂墜地獄！三寶慘殺跌停塑化股沒戲了？",
+      "title": "《熱門族群》天堂墜地獄！三寶慘殺跌停 塑化股沒戲了？ - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6331714001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 15 Oct 2026 04:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "慘遭跌停，股價狂飆後拉回",
+          "status": "高檔修正",
+          "dist": -10.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "慘遭跌停，股價狂飆後拉回",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/14"
+          ]
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "慘遭跌停，股價狂飆後拉回",
+          "status": "高檔修正",
+          "dist": -13.6,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/13"
+          ]
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "慘跌9%，未跌停但重挫",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/14"
+          ]
+        },
+        {
+          "symbol": "1312",
+          "name": "國喬",
+          "point": "跟進倒地，慘遭跌停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/13"
+          ]
+        },
+        {
+          "symbol": "1310",
+          "name": "台苯",
+          "point": "重挫逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "1304",
+          "name": "台聚",
+          "point": "重挫逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "1313",
+          "name": "聯成",
+          "point": "重挫逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "1309",
+          "name": "台達化",
+          "point": "重挫逾半根停板",
+          "limitUp": false
+        }
+      ],
+      "background": "受美國升息、中東衝突及台幣重貶影響，塑化股先前因AI材料漲價、煉油利差擴大而強勢，現因漲多回檔，面臨獲利壓力。",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxNbk90d0hIMVJITWVJQnZubXFPekp6cnNMQTlpZUZfcFhFNkphOEdQQzlQRTVBeTRHTU13c1R1cVFnTmhRU3BwaW16WTNYczNpeDE2Wk9ENXhRSmVJN2pXZ201VWI4OFdtLUozX0JmRGVNdXpmTzNpSzVNRmF3SVNYcUJYRzZqb25j",
       "tkey": "熱門族群PTFE亂世梟雄！台虹挺住、2顆紅燈幫襯",
