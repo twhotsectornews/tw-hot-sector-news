@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "updatedAt": "2026-10-15T06:03:22.898Z",
+  "updatedAt": "2026-10-15T07:52:58.893Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE9scUtlbTdwQ3FXNVJrRWtNTjJSV2NQdzdaa1Jsc1VkVlp5YjAwWi1vUUVaYUE3ajdmbVJWb2hWeUtkTkczT0Jzd3JHUWI5ODRXa2tEVzNDcXM",
@@ -10,7 +10,7 @@
       "source": "自由時報",
       "pubDate": "Tue, 13 Oct 2026 09:48:14 GMT",
       "stocks": [],
-      "background": "AI應用持續擴展，帶動對高效能運算晶片的龐大需求，晶圓代工產業預期將迎來長期的榮景，成為科技發展的關鍵環節。",
+      "background": "AI技術快速發展，帶動晶圓代工產業需求強勁，特別是高階製程，預期將持續成長至2030年，產業景氣進入榮景。",
       "themeTags": [
         "需求驅動"
       ]
@@ -24,22 +24,29 @@
       "pubDate": "Tue, 13 Oct 2026 08:57:00 GMT",
       "stocks": [
         {
-          "symbol": "6830",
+          "symbol": "6672",
           "name": "汎銓",
-          "point": "受惠CPO量產推進，提供光電量測服務"
+          "point": "CPO量產推進測試升級",
+          "status": "逼近新高",
+          "dist": -5.8,
+          "luw": 2,
+          "luwd": [
+            "10/14",
+            "10/8"
+          ]
         },
         {
-          "symbol": "3587",
+          "symbol": "3131",
           "name": "閎康",
-          "point": "受惠CPO量產推進，提供材料分析服務"
+          "point": "CPO量產推進測試升級"
         },
         {
           "symbol": "3289",
           "name": "宜特",
-          "point": "受惠CPO量產推進，提供可靠性驗證服務"
+          "point": "CPO量產推進測試升級"
         }
       ],
-      "background": "AI資料中心推升高速傳輸需求，CPO（共封裝光學）逐步邁向量產，測試設備與軟體整合需求升高，第三方測試機構迎新商機。",
+      "background": "CPO（共同封裝光學）技術因應AI高速運算需求，量產推進帶動相關測試驗證服務升級，為相關廠商帶來新商機。",
       "themeTags": [
         "需求驅動"
       ]
@@ -96,29 +103,10 @@
       "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6329730001&PU=0010",
       "source": "富聯網",
       "pubDate": "Tue, 13 Oct 2026 07:56:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2345",
-          "name": "緯創",
-          "point": "參展OCP，推出全液冷平台與Vera CPU機架"
-        },
-        {
-          "symbol": "2357",
-          "name": "華碩",
-          "point": "參展OCP，展出全液冷平台與伺服器",
-          "status": "逼近新高",
-          "dist": -5.3
-        },
-        {
-          "symbol": "2377",
-          "name": "鴻海",
-          "point": "參展OCP，全面參展"
-        }
-      ],
-      "background": "OCP高峰會發表次世代架構，輝達開放Rubin架構，帶動機櫃級水冷伺服器商機，台廠積極搶單。",
+      "stocks": [],
+      "background": "OCP（開放運算計畫）推動AI伺服器發展，輝達開放Rubin架構，帶動台廠在水冷散熱等相關供應鏈搶單，以滿足AI運算散熱需求。",
       "themeTags": [
-        "需求驅動",
-        "國際大廠"
+        "需求驅動"
       ]
     },
     {
