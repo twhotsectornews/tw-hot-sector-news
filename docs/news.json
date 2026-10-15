@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-15T11:04:08.932+08:00",
-  "generatedAt": "2026-10-15T03:04:08.932Z",
+  "asOf": "2026-10-15T12:04:42.640+08:00",
+  "generatedAt": "2026-10-15T04:04:42.640Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -76,6 +76,39 @@
       "luwd": [
         "10/13"
       ]
+    },
+    {
+      "symbol": "6830",
+      "name": "汎銓",
+      "days": 2,
+      "dates": [
+        "10/15",
+        "10/13"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3587",
+      "name": "閎康",
+      "days": 2,
+      "dates": [
+        "10/15",
+        "10/13"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3289",
+      "name": "宜特",
+      "days": 2,
+      "dates": [
+        "10/15",
+        "10/13"
+      ],
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "6239",
@@ -156,6 +189,38 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNbk90d0hIMVJITWVJQnZubXFPekp6cnNMQTlpZUZfcFhFNkphOEdQQzlQRTVBeTRHTU13c1R1cVFnTmhRU3BwaW16WTNYczNpeDE2Wk9ENXhRSmVJN2pXZ201VWI4OFdtLUozX0JmRGVNdXpmTzNpSzVNRmF3SVNYcUJYRzZqb25j",
+      "tkey": "熱門族群PTFE亂世梟雄！台虹挺住、2顆紅燈幫襯",
+      "title": "《熱門族群》PTFE亂世梟雄！台虹挺住、2顆紅燈幫襯 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6331661001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 15 Oct 2026 02:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6830",
+          "name": "汎銓",
+          "point": "CPO量產推進測試升級",
+          "limitUp": false
+        },
+        {
+          "symbol": "3587",
+          "name": "閎康",
+          "point": "CPO量產推進測試升級",
+          "limitUp": false
+        },
+        {
+          "symbol": "3289",
+          "name": "宜特",
+          "point": "CPO量產推進測試升級",
+          "limitUp": false
+        }
+      ],
+      "background": "AI資料中心推升高速傳輸需求，共封裝光學(CPO)逐步邁向量產，測試設備與軟體整合需求升高，為第三方測試機構帶來新商機。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOQnhwdk9jT1J3VWROdG0zOXBRSjZrcl9XbkQ0dVpzc1pOVU5fVnBtbmg5dEFveEVSOC1KWjg0MFN2RFRWUGIyRG9HUWExeW1RVTUxc3hCTkdEOGN3RHlha25lSmFQOUNDcHZ0cVFEQXlUYl9JcEpidG5jVEJhMlhNcWFEY2dpdnN2",
       "tkey": "熱門族群台玻、富喬啖材料升級商機",
