@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updatedAt": "2026-10-16T06:05:58.382Z",
+  "updatedAt": "2026-10-16T07:39:37.186Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQVVNTTnJqNS1VbTVXN0Z1ZHlQTElmXzVCWTd2NWU0T0hFWVhUenZDLWY2U2VlQXIwT3ZENl8xQnk2MmRYNUl4b1U4dVY0Q1JQTlo5QTBXVDFIZlRSdHZUREs0MlVIZVlKZlJmNEdmWkh6bW5YOWEtOFJYSlZ4MGo3OTBHeDdrNGYw",
@@ -153,7 +153,14 @@
           "point": "二代低介電玻纖布獲利成長主力",
           "status": "逼近新高",
           "dist": -7.5,
-          "limitUp": false
+          "limitUp": false,
+          "luw": 4,
+          "luwd": [
+            "10/15",
+            "10/14",
+            "10/13",
+            "10/12"
+          ]
         }
       ],
       "background": "AI伺服器與高速交換器推升對高階玻纖布的需求，銅箔基板（CCL）規格升級，導致二代低介電玻纖布供給吃緊，報價調漲，產業處於景氣復甦階段。",
