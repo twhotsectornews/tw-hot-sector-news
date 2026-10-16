@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-16T13:05:17.595+08:00",
-  "generatedAt": "2026-10-16T05:05:17.595Z",
+  "asOf": "2026-10-16T14:05:58.386+08:00",
+  "generatedAt": "2026-10-16T06:05:58.386Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -38,7 +38,8 @@
       "mentions": 7,
       "status": "逼近新高",
       "dist": -5,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 1,
       "luwd": [
         "10/13"
@@ -610,7 +611,8 @@
           "point": "持續獲得買進",
           "status": "逼近新高",
           "dist": -5,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "10/13"
@@ -679,6 +681,32 @@
       "themeTags": [
         "需求驅動"
       ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQSnV1OU5jSlpZLUxtTS16b25ZSlVKNk5wSS1oQlZ2eTU2NUJxM1dvZjg3TDFfR1RTMDQ4LWVRTVJaQ09pdm56NVhWMUpvb0lEWm5XZW5CR1dGV3o2RnJfN0NaWjhqV0FZVmlUb0JaWGN4ZGYxWGhubjRFVl9sbXJmRjV2UnpsX1lp",
+      "tkey": "熱門族群非電子股撐盤儒鴻、中信金夯",
+      "title": "《熱門族群》非電子股撐盤 儒鴻、中信金夯 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6332620001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Fri, 16 Oct 2026 00:15:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1476",
+          "name": "儒鴻",
+          "point": "法人看好後市逆勢勁揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "2891",
+          "name": "中信金",
+          "point": "法人看好後市逆勢勁揚",
+          "status": "逼近新高",
+          "dist": -2.3,
+          "limitUp": false
+        }
+      ],
+      "background": "紡織股儒鴻受惠於產能滿載、訂單能見度高，獲法人調升目標價。金融股中信金獲利穩健，配息率高，具投資吸引力。",
+      "themeTags": []
     },
     {
       "gid": "CBMiiAFBVV95cUxQNjR5Sm03dnZrS3ZfRDI4SWRxVHIyWmpXRTU0bXptQUw2WUs3aHpVNFNmRm1zY2FNQ2hCWUxfS1Nvbk9GU1o1VnAwVXk1cTRaNFlKVS04SG4zSWFfQmJjSjl2SFlVWjZZZVp1NWdLWEYzQlJlQlpJZk5JUy1sTGZidEVsLVAzaDJs",
