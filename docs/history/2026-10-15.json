@@ -1,0 +1,205 @@
+{
+  "date": "2026-10-15",
+  "updatedAt": "2026-10-16T03:05:52.023Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQVVNTTnJqNS1VbTVXN0Z1ZHlQTElmXzVCWTd2NWU0T0hFWVhUenZDLWY2U2VlQXIwT3ZENl8xQnk2MmRYNUl4b1U4dVY0Q1JQTlo5QTBXVDFIZlRSdHZUREs0MlVIZVlKZlJmNEdmWkh6bW5YOWEtOFJYSlZ4MGo3OTBHeDdrNGYw",
+      "tkey": "熱門族群航商控艙穩運價貨櫃三雄Q4迎考驗",
+      "title": "《熱門族群》航商控艙穩運價 貨櫃三雄Q4迎考驗 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6331847001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 15 Oct 2026 06:09:00 GMT",
+      "stocks": [],
+      "background": "全球貨櫃航運市場受地緣政治與紅海危機影響，運價波動劇烈，航商透過控艙策略穩定運價，但第四季仍面臨需求與供給的考驗。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPS0tvWUFGblRwTjNVSUNJZEdXZm9KU2NyVU5FekVjbEZFYlRjTHViWElvS25jQ2IyY2FQd1g5YWgxWldqVHMyb3FqUEhQQkRtMXpHZVFzTmNfQXM5Mm0xN1l1eTRlX3RhTmdhd1hDS1djYXVwTjhoSVNRcGdWUnV4MlpUNmpZNTVn",
+      "tkey": "熱門族群天堂墜地獄！三寶慘殺跌停塑化股沒戲了？",
+      "title": "《熱門族群》天堂墜地獄！三寶慘殺跌停 塑化股沒戲了？ - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6331714001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 15 Oct 2026 04:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "慘遭跌停，股價狂飆後拉回",
+          "status": "高檔修正",
+          "dist": -10.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "慘遭跌停，股價狂飆後拉回",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/14"
+          ]
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "慘遭跌停，股價狂飆後拉回",
+          "status": "高檔修正",
+          "dist": -13.6,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/13"
+          ]
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "慘跌9%，未跌停但重挫",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/14"
+          ]
+        },
+        {
+          "symbol": "1312",
+          "name": "國喬",
+          "point": "跟進倒地，慘遭跌停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/13"
+          ]
+        },
+        {
+          "symbol": "1310",
+          "name": "台苯",
+          "point": "重挫逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "1304",
+          "name": "台聚",
+          "point": "重挫逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "1313",
+          "name": "聯成",
+          "point": "重挫逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "1309",
+          "name": "台達化",
+          "point": "重挫逾半根停板",
+          "limitUp": false
+        }
+      ],
+      "background": "受美國升息、中東衝突及台幣重貶影響，塑化股先前因AI材料漲價、煉油利差擴大而強勢，現因漲多回檔，面臨獲利壓力。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNbk90d0hIMVJITWVJQnZubXFPekp6cnNMQTlpZUZfcFhFNkphOEdQQzlQRTVBeTRHTU13c1R1cVFnTmhRU3BwaW16WTNYczNpeDE2Wk9ENXhRSmVJN2pXZ201VWI4OFdtLUozX0JmRGVNdXpmTzNpSzVNRmF3SVNYcUJYRzZqb25j",
+      "tkey": "熱門族群PTFE亂世梟雄！台虹挺住、2顆紅燈幫襯",
+      "title": "《熱門族群》PTFE亂世梟雄！台虹挺住、2顆紅燈幫襯 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6331661001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 15 Oct 2026 02:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6830",
+          "name": "汎銓",
+          "point": "CPO量產推進測試升級",
+          "limitUp": false
+        },
+        {
+          "symbol": "3587",
+          "name": "閎康",
+          "point": "CPO量產推進測試升級",
+          "limitUp": false
+        },
+        {
+          "symbol": "3289",
+          "name": "宜特",
+          "point": "CPO量產推進測試升級",
+          "limitUp": false
+        }
+      ],
+      "background": "AI資料中心推升高速傳輸需求，共封裝光學(CPO)逐步邁向量產，測試設備與軟體整合需求升高，為第三方測試機構帶來新商機。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOQnhwdk9jT1J3VWROdG0zOXBRSjZrcl9XbkQ0dVpzc1pOVU5fVnBtbmg5dEFveEVSOC1KWjg0MFN2RFRWUGIyRG9HUWExeW1RVTUxc3hCTkdEOGN3RHlha25lSmFQOUNDcHZ0cVFEQXlUYl9JcEpidG5jVEJhMlhNcWFEY2dpdnN2",
+      "tkey": "熱門族群台玻、富喬啖材料升級商機",
+      "title": "《熱門族群》台玻、富喬啖材料升級商機 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6331414001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 15 Oct 2026 00:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "受惠AI伺服器帶動高階玻纖布需求",
+          "limitUp": false
+        },
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "二代低介電玻纖布獲利成長主力",
+          "status": "逼近新高",
+          "dist": -7.5,
+          "limitUp": false
+        }
+      ],
+      "background": "AI伺服器與高速交換器推升對高階玻纖布的需求，銅箔基板（CCL）規格升級，導致二代低介電玻纖布供給吃緊，報價調漲，產業處於景氣復甦階段。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPN1gwclp5UHRqQ2xuNU5Zc2xtV2xZa3N5ank5NmxzZlRhQlZBMlk0TjBtWGJweVMyaEZNZ05SRG1VNVpfdl92dlZTWlZzRlpIcThCU2FtZWNsUjBiWVNsMmZMX2RhamNBNDdsekNoUGJEYnpiVm9FWEFoWjF6OXltT3hZNElKVFlF",
+      "tkey": "熱門族群台灣國際智慧能源週點火太陽能股",
+      "title": "《熱門族群》台灣國際智慧能源週 點火太陽能股 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6331386001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 14 Oct 2026 23:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6409",
+          "name": "旭隼",
+          "point": "受惠智慧能源展與外資看好UPS商機",
+          "limitUp": false
+        },
+        {
+          "symbol": "3576",
+          "name": "聯合再生",
+          "point": "展示高效太陽能模組與系統整合服務",
+          "limitUp": false
+        },
+        {
+          "symbol": "6443",
+          "name": "元晶",
+          "point": "推出三大天王產品展現龍頭氣勢",
+          "limitUp": false
+        },
+        {
+          "symbol": "6244",
+          "name": "茂迪",
+          "point": "盤中股價表態一度漲逾3％",
+          "limitUp": false
+        }
+      ],
+      "background": "台灣國際智慧能源週登場，總統賴清德親自出席並宣布成立百億綠色成長基金，支持數位與淨零轉型，AI帶動用電需求，加速再生能源發展。",
+      "themeTags": [
+        "政策關稅",
+        "需求驅動"
+      ]
+    }
+  ]
+}
