@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-16T11:05:52.026+08:00",
-  "generatedAt": "2026-10-16T03:05:52.027Z",
+  "asOf": "2026-10-16T12:03:29.740+08:00",
+  "generatedAt": "2026-10-16T04:03:29.740Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -18,9 +18,9 @@
         "10/12",
         "10/11"
       ],
-      "mentions": 7,
+      "mentions": 8,
       "status": "高檔修正",
-      "dist": -11.3,
+      "dist": -12.6,
       "limitUp": false
     },
     {
@@ -38,7 +38,8 @@
       "mentions": 7,
       "status": "逼近新高",
       "dist": -5,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 1,
       "luwd": [
         "10/13"
@@ -132,6 +133,30 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -2.2,
+      "limitUp": false
+    },
+    {
+      "symbol": "1815",
+      "name": "富喬",
+      "days": 2,
+      "dates": [
+        "10/16",
+        "10/15"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -2.8,
+      "limitUp": false
+    },
+    {
+      "symbol": "1802",
+      "name": "台玻",
+      "days": 2,
+      "dates": [
+        "10/16",
+        "10/15"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -341,6 +366,60 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxPTFNpck9wRmt4Ykt2LUY5bTAwR0VCaG9pT1psU0Fta0lmSXNyeEhmUlFOQkZlYkwwbzIwUDB1d2IyMUp0Snd5bGNKWlJ3VS1RejRYS25zQnVhUS1pNl9OU0lRYzBWS2FNa216THdmUmh0a3R4ckVkd2k1VEdBMkJzNjQ4WnZUanJ0",
+      "tkey": "熱門族群台玻、富喬領軍反攻玻纖布股強勢吸金",
+      "title": "《熱門族群》台玻、富喬領軍反攻 玻纖布股強勢吸金 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6332905001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 16 Oct 2026 03:19:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "爆量攻漲停，營收創單月新高",
+          "status": "逼近新高",
+          "dist": -2.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "一度漲逾9%，營收年增34.11%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "外資轉賣超，股價力守300元",
+          "status": "高檔修正",
+          "dist": -12.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "8358",
+          "name": "金居",
+          "point": "早盤同步反攻",
+          "limitUp": false
+        },
+        {
+          "symbol": "5340",
+          "name": "建榮",
+          "point": "早盤同步反攻",
+          "limitUp": false
+        },
+        {
+          "symbol": "5475",
+          "name": "德宏",
+          "point": "早盤同步反攻",
+          "limitUp": false
+        }
+      ],
+      "background": "AI應用帶動PCB上游原料玻纖布供不應求，市場結構吃緊，相關業者業績持續成長，產業處於景氣復甦階段。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxPSjFsWmdYU2hWanZTTjhVT29OaS1rZ3hnQnZ6T2ROR2ZQSUtMMkdLM25NNlA0T2NNZU5acnRKY0kzRU0wQUJFamtkZlpkOGNvSEdWdUV5dnAwT1NrWTRIa0xkTGJUVVRjZVMyWGdXMDBWT2lGeVJiMnVfNjNEbndLR2x3NXJTX1p1",
       "tkey": "熱門族群聯發科、智邦逢低布局",
       "title": "《熱門族群》聯發科、智邦 逢低布局 - 富聯網",
@@ -532,7 +611,8 @@
           "point": "持續獲得買進",
           "status": "逼近新高",
           "dist": -5,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "10/13"
