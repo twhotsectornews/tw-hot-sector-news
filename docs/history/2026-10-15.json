@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updatedAt": "2026-10-17T05:02:12.587Z",
+  "updatedAt": "2026-10-17T06:01:25.898Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQVVNTTnJqNS1VbTVXN0Z1ZHlQTElmXzVCWTd2NWU0T0hFWVhUenZDLWY2U2VlQXIwT3ZENl8xQnk2MmRYNUl4b1U4dVY0Q1JQTlo5QTBXVDFIZlRSdHZUREs0MlVIZVlKZlJmNEdmWkh6bW5YOWEtOFJYSlZ4MGo3OTBHeDdrNGYw",
@@ -9,10 +9,33 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6331847001&PU=0010",
       "source": "富聯網",
       "pubDate": "Thu, 15 Oct 2026 06:09:00 GMT",
-      "stocks": [],
-      "background": "全球貨櫃航運市場受地緣政治與紅海危機影響，運價波動劇烈，航商透過控艙策略穩定運價，但第四季仍面臨需求與供給的考驗。",
+      "stocks": [
+        {
+          "symbol": "2603",
+          "name": "長榮",
+          "point": "第四季營運受運價牽動",
+          "status": "逼近新高",
+          "dist": -1.8,
+          "luw": 1,
+          "luwd": [
+            "10/12"
+          ]
+        },
+        {
+          "symbol": "2609",
+          "name": "陽明",
+          "point": "第四季營運受運價牽動"
+        },
+        {
+          "symbol": "2615",
+          "name": "萬海",
+          "point": "第四季營運受運價牽動"
+        }
+      ],
+      "background": "國際航商透過控艙調節運力，以穩定運價。紅海航線改道、新船交付與全球貿易需求變化，將影響第四季運價走向。",
       "themeTags": [
-        "政策關稅"
+        "需求驅動",
+        "循環位置"
       ]
     },
     {
