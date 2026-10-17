@@ -1,0 +1,424 @@
+{
+  "date": "2026-10-16",
+  "updatedAt": "2026-10-17T03:01:33.738Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPTFNpck9wRmt4Ykt2LUY5bTAwR0VCaG9pT1psU0Fta0lmSXNyeEhmUlFOQkZlYkwwbzIwUDB1d2IyMUp0Snd5bGNKWlJ3VS1RejRYS25zQnVhUS1pNl9OU0lRYzBWS2FNa216THdmUmh0a3R4ckVkd2k1VEdBMkJzNjQ4WnZUanJ0",
+      "tkey": "熱門族群台玻、富喬領軍反攻玻纖布股強勢吸金",
+      "title": "《熱門族群》台玻、富喬領軍反攻 玻纖布股強勢吸金 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6332905001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 16 Oct 2026 03:19:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "爆量攻漲停，營收創單月新高",
+          "status": "逼近新高",
+          "dist": -2.8,
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 5,
+          "luwd": [
+            "10/16",
+            "10/15",
+            "10/14",
+            "10/13",
+            "10/12"
+          ]
+        },
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "一度漲逾9%，營收年增34.11%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "外資轉賣超，股價力守300元",
+          "status": "高檔修正",
+          "dist": -12.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "8358",
+          "name": "金居",
+          "point": "早盤同步反攻",
+          "limitUp": false
+        },
+        {
+          "symbol": "5340",
+          "name": "建榮",
+          "point": "早盤同步反攻",
+          "limitUp": false
+        },
+        {
+          "symbol": "5475",
+          "name": "德宏",
+          "point": "早盤同步反攻",
+          "limitUp": false
+        }
+      ],
+      "background": "AI應用帶動PCB上游原料玻纖布供不應求，市場結構吃緊，相關業者業績持續成長，產業處於景氣復甦階段。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPSjFsWmdYU2hWanZTTjhVT29OaS1rZ3hnQnZ6T2ROR2ZQSUtMMkdLM25NNlA0T2NNZU5acnRKY0kzRU0wQUJFamtkZlpkOGNvSEdWdUV5dnAwT1NrWTRIa0xkTGJUVVRjZVMyWGdXMDBWT2lGeVJiMnVfNjNEbndLR2x3NXJTX1p1",
+      "tkey": "熱門族群聯發科、智邦逢低布局",
+      "title": "《熱門族群》聯發科、智邦 逢低布局 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6332621001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 16 Oct 2026 00:15:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "聚焦客製化AI晶片及高階手機晶片",
+          "limitUp": false
+        },
+        {
+          "symbol": "2345",
+          "name": "智邦",
+          "point": "受惠AWS新一代T3平台及1.6T高速交換器",
+          "limitUp": false
+        }
+      ],
+      "background": "AI產業長線成長趨勢不變，聯發科與智邦分別掌握AI運算晶片及高速網路設備兩大關鍵環節，受惠全球AI基礎建設投資擴張。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNZGlkNXlkbDhNUEt4X2h3NGRqT0ZpVDJPRlNhUkVCenJZdERCbWJWSWJEeUJsdHp1YVFwVnlxQ1hza3ZXMW1TM1BDMFlEWldFNm5EeW9xbGRULVFtMTc4UUp1M2REY3AwazNPNkdYdXYyOVVTbnY5cnZGT3lUM3hKa01LaU9jT21E",
+      "tkey": "熱門族群三顧、正揚擴大策略合作",
+      "title": "《熱門族群》三顧、正揚 擴大策略合作 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6332614001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 16 Oct 2026 00:15:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3224",
+          "name": "三顧",
+          "point": "擴大與正揚生醫策略合作，布局再生醫療",
+          "limitUp": false
+        }
+      ],
+      "background": "三顧與正揚生醫擴大策略合作，鎖定人類血小板裂解液及乾眼症新藥，搶攻全球再生醫療及眼科藥物商機。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQUVVldmNRd3dzQ2lwVUFxLWdFVkJoRWhEaDNpSDVZZlY4VmpYMlplNGROdS04Z0xUTkZiU1BNRXR5V3haTkp5dmFXM1pzTlhETHBPRXpMOUo5YnlxbVM1MGZDRXpBRThnR05MQUFmeGd4VW1vcVo5OG5XODlqaEh0WWNfcWNneDY0",
+      "tkey": "熱門族群亞崴、程泰接單回溫",
+      "title": "《熱門族群》亞崴、程泰接單回溫 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6332618001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 16 Oct 2026 00:15:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1530",
+          "name": "亞崴",
+          "point": "內銷接單回溫，主要來自半導體產業",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/12"
+          ]
+        },
+        {
+          "symbol": "1583",
+          "name": "程泰",
+          "point": "在手訂單回升，受惠半導體及AI相關產業",
+          "limitUp": false
+        }
+      ],
+      "background": "台灣工具機產業景氣從第三季開始復甦，亞崴、程泰接單回溫，主要來自半導體、AI相關產業，且台灣工具機輸美具關稅優勢。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQVFh1cHZlc2hvYkR1SWFLeThFalBETmhCTzhjRVdjWmVTQnZ1VW5tQnVMejkyRUxzbWhqMkpqR2dCdTVvNzZnaDI1WExKNW9lVlQ2bVE1Tl9DdmU0MXF0SWlneFkyUDZpdjB3bWpfdUJKVlV6cWcwalpYQjdZdmpfWlN3UExNbFlZ",
+      "tkey": "熱門族群經理人押寶股扮台股領漲先鋒",
+      "title": "《熱門族群》經理人押寶股 扮台股領漲先鋒 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6332611001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 16 Oct 2026 00:15:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "持續獲投信法人逢低布局",
+          "status": "逼近新高",
+          "dist": -6,
+          "limitUp": false
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "point": "持續獲投信法人逢低布局",
+          "limitUp": false
+        },
+        {
+          "symbol": "3661",
+          "name": "世芯-KY",
+          "point": "持續獲投信法人逢低布局",
+          "limitUp": false
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "續獲破百檔基金一致重倉",
+          "limitUp": false
+        },
+        {
+          "symbol": "6223",
+          "name": "旺矽",
+          "point": "續獲破百檔基金一致重倉",
+          "limitUp": false
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "續獲破百檔基金一致重倉",
+          "limitUp": false
+        },
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "point": "續獲破百檔基金一致重倉",
+          "limitUp": false
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "續獲破百檔基金一致重倉",
+          "limitUp": false
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "首度躋身逾百檔基金共識名單",
+          "status": "逼近新高",
+          "dist": -9.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "獲至少30檔以上基金大舉建倉",
+          "status": "高檔修正",
+          "dist": -11.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "6669",
+          "name": "緯穎",
+          "point": "獲至少30檔以上基金大舉建倉",
+          "limitUp": false
+        },
+        {
+          "symbol": "2059",
+          "name": "川湖",
+          "point": "獲至少30檔以上基金大舉建倉",
+          "limitUp": false
+        },
+        {
+          "symbol": "3665",
+          "name": "貿聯-KY",
+          "point": "獲至少30檔以上基金大舉建倉",
+          "limitUp": false
+        },
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "獲至少30檔以上基金大舉建倉",
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "獲至少30檔以上基金大舉建倉",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/12"
+          ]
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "持續獲得買進",
+          "status": "逼近新高",
+          "dist": -5,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "10/16",
+            "10/13"
+          ]
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "持續獲得買進",
+          "status": "高檔修正",
+          "dist": -10.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "持續獲得買進",
+          "limitUp": false
+        },
+        {
+          "symbol": "2327",
+          "name": "國巨",
+          "point": "持續獲得買進",
+          "limitUp": false
+        }
+      ],
+      "background": "台股共同基金經理人趁盤勢震盪大換血，持續布局核心持股如台積電、金像電、世芯-KY等，並大舉建倉潛力標的，對台股後市表現仍具信心。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPa0JpYktBa3BSQkM0OFVvaE54TUZxT0tJNGNwN09tXzBDdExEcFg0dUIyS3RRaWFobjRpTmN2cE1KZUhwYmoyVm5qOWZpakZtT2x3and5V1U1dWR4d2pZOHZSYXVOX3FYUEhHa2lZZGFmZlFJMm8tYW5fZHE4R25KQVBuN01lOTkt",
+      "tkey": "熱門族群資金避風港電信三雄股價飆",
+      "title": "《熱門族群》資金避風港 電信三雄股價飆 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6332608001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 16 Oct 2026 00:15:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2412",
+          "name": "中華電",
+          "point": "盤中攻上歷史新天價",
+          "status": "逼近新高",
+          "dist": -1.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "point": "盤中強勢攻上歷史新高",
+          "status": "逼近新高",
+          "dist": -1.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "point": "股價盤中逼近歷史高點",
+          "status": "逼近新高",
+          "dist": -2.2,
+          "limitUp": false
+        }
+      ],
+      "background": "電信三雄在台股下跌時逆勢上漲，成為資金避風港。除了電信本業穩健成長，資通訊營收大幅增加，AIDC及AI基礎設施需求是主要助攻手。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQSnV1OU5jSlpZLUxtTS16b25ZSlVKNk5wSS1oQlZ2eTU2NUJxM1dvZjg3TDFfR1RTMDQ4LWVRTVJaQ09pdm56NVhWMUpvb0lEWm5XZW5CR1dGV3o2RnJfN0NaWjhqV0FZVmlUb0JaWGN4ZGYxWGhubjRFVl9sbXJmRjV2UnpsX1lp",
+      "tkey": "熱門族群非電子股撐盤儒鴻、中信金夯",
+      "title": "《熱門族群》非電子股撐盤 儒鴻、中信金夯 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6332620001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Fri, 16 Oct 2026 00:15:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1476",
+          "name": "儒鴻",
+          "point": "法人看好後市逆勢勁揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "2891",
+          "name": "中信金",
+          "point": "法人看好後市逆勢勁揚",
+          "status": "逼近新高",
+          "dist": -2.3,
+          "limitUp": false
+        }
+      ],
+      "background": "紡織股儒鴻受惠於產能滿載、訂單能見度高，獲法人調升目標價。金融股中信金獲利穩健，配息率高，具投資吸引力。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQNjR5Sm03dnZrS3ZfRDI4SWRxVHIyWmpXRTU0bXptQUw2WUs3aHpVNFNmRm1zY2FNQ2hCWUxfS1Nvbk9GU1o1VnAwVXk1cTRaNFlKVS04SG4zSWFfQmJjSjl2SFlVWjZZZVp1NWdLWEYzQlJlQlpJZk5JUy1sTGZidEVsLVAzaDJs",
+      "tkey": "熱門族群台積電全球擴廠廠務設備鏈High",
+      "title": "《熱門族群》台積電全球擴廠 廠務設備鏈High - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6332502001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 15 Oct 2026 23:38:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "全球擴廠，加速增加產能",
+          "status": "逼近新高",
+          "dist": -6,
+          "limitUp": false
+        },
+        {
+          "symbol": "2404",
+          "name": "漢唐",
+          "point": "受惠台積電海內外新廠建設商機",
+          "limitUp": false
+        },
+        {
+          "symbol": "6196",
+          "name": "帆宣",
+          "point": "受惠台積電海內外新廠建設商機",
+          "status": "逼近新高",
+          "dist": -9.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "6679",
+          "name": "洋基工程",
+          "point": "受惠台積電海內外新廠建設商機",
+          "limitUp": false
+        },
+        {
+          "symbol": "3131",
+          "name": "弘塑",
+          "point": "受惠製程升級及先進封裝擴產",
+          "limitUp": false
+        },
+        {
+          "symbol": "6645",
+          "name": "均華",
+          "point": "布局先進封裝設備，受惠擴產需求",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/13"
+          ]
+        },
+        {
+          "symbol": "3680",
+          "name": "家登",
+          "point": "供應EUV光罩載具，受惠設備裝機",
+          "limitUp": false
+        }
+      ],
+      "background": "台積電因應先進製程供不應求，積極擴大全球產能，帶動廠務工程業者及半導體設備材料廠同步受惠，搶攻國際盃。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    }
+  ]
+}

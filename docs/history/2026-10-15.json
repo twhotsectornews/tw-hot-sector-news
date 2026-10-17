@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updatedAt": "2026-10-16T15:00:44.453Z",
+  "updatedAt": "2026-10-17T03:01:33.741Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQVVNTTnJqNS1VbTVXN0Z1ZHlQTElmXzVCWTd2NWU0T0hFWVhUenZDLWY2U2VlQXIwT3ZENl8xQnk2MmRYNUl4b1U4dVY0Q1JQTlo5QTBXVDFIZlRSdHZUREs0MlVIZVlKZlJmNEdmWkh6bW5YOWEtOFJYSlZ4MGo3OTBHeDdrNGYw",
@@ -48,8 +48,9 @@
           "status": "高檔修正",
           "dist": -13.6,
           "limitUp": false,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "10/16",
             "10/13"
           ]
         },
@@ -154,8 +155,9 @@
           "status": "逼近新高",
           "dist": -7.5,
           "limitUp": false,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
+            "10/16",
             "10/15",
             "10/14",
             "10/13",
