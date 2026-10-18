@@ -1,0 +1,139 @@
+{
+  "date": "2026-10-17",
+  "updatedAt": "2026-10-18T03:02:05.068Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNTGNJZnFUQ0F4V1RuWXFVNHJrLWx1OVNxWFk5V1p6N0JiaDBHYTQtbl9wQVYxbkt6UUlOQUdmX1BQR0Jka3YxNDBDU2JNNDhXd1dJTGJXQ0ZiU3NmaFZjcFpVQnRSNVR2MHotbUV3LXF6RHZ2ZDlHZFdEVjB3SURlaUxrV1RhT21Z",
+      "tkey": "熱門族群AI領域軟、硬通吃能率集團投資鑫蘊林科躍輝達夥伴",
+      "title": "《熱門族群》AI領域軟、硬通吃 能率集團投資鑫蘊林科 躍輝達夥伴 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6333786001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sat, 17 Oct 2026 08:59:00 GMT",
+      "stocks": [],
+      "background": "能率集團投資AI軟體商鑫蘊林科成為輝達夥伴，並投資人形機器人公司Agility Robotics，顯示其在AI領域軟硬體整合的布局。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPdDJJMV9wWjJNU1dQTUk0T2hFbGpVTHNpQ09hZkZCX3JlbGJLT19SaTlxYUtPT24yTDFIUjZaRllVdWRKd2dXTmxiUFA4b0FEZDM5MUNvZHRjeVhLSUJqM2UzZ2dGMlFTcHNUVUF4SXJnTnpIeFZDU3VSb3ZsWWlRWDFvOXRONTRn",
+      "tkey": "熱門族群智慧手機出貨減光學雙雄中箭下跌",
+      "title": "《熱門族群》智慧手機出貨減 光學雙雄中箭下跌 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6333754001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sat, 17 Oct 2026 08:51:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "智慧手機出貨量減少影響",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/12"
+          ]
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "智慧手機出貨量減少影響",
+          "status": "高檔修正",
+          "dist": -11.1,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/13"
+          ]
+        }
+      ],
+      "background": "全球智慧手機出貨量年減20%，創2012年以來同期新低，主因AI基礎建設排擠記憶體晶片供應，導致成本轉嫁消費者，影響購買意願。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNdUw5ODhzREpmdXRrQ1pvVGxGVmNpbWdnWXlaS3NzSFZUT0VFbVdqOTktd0cyemZXMXowWkE4Z0RMV2tfMWtnWlNIcVZhQTI5U0poWmNwSmxDR21lb3BOZ3lGdXNyZFFBREdnaE0xRUc2eVY0dkoxRER0TWxjMVBZOXVhSGFoZFVN",
+      "tkey": "熱門族群PTFE高階板材替代戰升溫",
+      "title": "《熱門族群》PTFE高階板材替代戰升溫 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6333716001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sat, 17 Oct 2026 08:33:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6269",
+          "name": "台虹",
+          "point": "PTFE板供應鏈廠商",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 3,
+          "luwd": [
+            "10/16",
+            "10/15",
+            "10/14"
+          ]
+        },
+        {
+          "symbol": "6153",
+          "name": "台郡",
+          "point": "PTFE板供應鏈廠商",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/14"
+          ]
+        }
+      ],
+      "background": "聚四氟乙烯（PTFE）材料在運算板等高頻高速互連領域應用升溫，輝達展示PTFE板原型，長期可能替代傳統高階樹脂材料。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxORjBXdTgzeFh2dU5HMnUyUmMzb1l6X0M0M2Mzc2ZENllFZWN0SzVmZmtIcHhHcktKTTF5dEpadWVrQzBQckp4XzVmX2V6RGNlWjBhSGtsaDdGSG5rOWtKX2J0R1gwVWh0MUNPb3lTUFd4MEEyN1VJQkFOOGs1UEc5RHVhTy01c2Iy",
+      "tkey": "熱門族群紡織廠新產能助攻Q4營運",
+      "title": "《熱門族群》紡織廠新產能 助攻Q4營運 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6333690001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sat, 17 Oct 2026 07:06:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1402",
+          "name": "遠東新",
+          "point": "馬來西亞回收聚酯新廠投產",
+          "limitUp": false
+        },
+        {
+          "symbol": "1409",
+          "name": "新纖",
+          "point": "聚酯彈性纖維新產線投產",
+          "limitUp": false
+        },
+        {
+          "symbol": "1477",
+          "name": "聚陽",
+          "point": "薩爾瓦多產線新投產",
+          "limitUp": false
+        }
+      ],
+      "background": "紡織廠新產能陸續投產，特別是綠色產品與環保回收材料，受國際品牌廠需求提升，有助於第四季營運成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTFBITlVYN0ZDUXk3c18tdzNzX2VIXzhhMUlpZ0pBLVpmMllMZGdIdlB3SzVySFRTVk9sREV5S2dHN0h6Wm8yVDRrUWpGZWtMWXpJeGJGbHFzZW0",
+      "tkey": "熱門族群AIASIC訂單強勁矽智財族群蓄勢待發",
+      "title": "熱門族群》AI ASIC訂單強勁 矽智財族群蓄勢待發 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/ubmjyhj3tbmq",
+      "source": "自由時報",
+      "pubDate": "Fri, 16 Oct 2026 20:06:40 GMT",
+      "stocks": [],
+      "background": "矽智財（IP）產業受惠於AI ASIC訂單強勁，顯示AI應用對客製化晶片設計需求旺盛，產業景氣持續看好。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}
