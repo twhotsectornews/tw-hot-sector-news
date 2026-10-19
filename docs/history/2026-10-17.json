@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updatedAt": "2026-10-19T04:04:05.631Z",
+  "updatedAt": "2026-10-19T05:05:34.412Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNTGNJZnFUQ0F4V1RuWXFVNHJrLWx1OVNxWFk5V1p6N0JiaDBHYTQtbl9wQVYxbkt6UUlOQUdmX1BQR0Jka3YxNDBDU2JNNDhXd1dJTGJXQ0ZiU3NmaFZjcFpVQnRSNVR2MHotbUV3LXF6RHZ2ZDlHZFdEVjB3SURlaUxrV1RhT21Z",
@@ -10,8 +10,9 @@
       "source": "富聯網",
       "pubDate": "Sat, 17 Oct 2026 08:59:00 GMT",
       "stocks": [],
-      "background": "能率集團投資的AI軟體商鑫蘊林科成為輝達智慧城市合作夥伴，同時人形機器人公司Agility Robotics獲准上市，顯示集團在AI領域軟硬體雙向佈局。",
+      "background": "能率集團投資的AI軟體商鑫蘊林科躍為輝達夥伴，助攻歐洲智慧城市，同時人形機器人公司Agility Robotics獲准上市，顯示集團在AI領域軟硬體雙向佈局。",
       "themeTags": [
+        "需求驅動",
         "國際大廠"
       ]
     },
@@ -26,7 +27,7 @@
         {
           "symbol": "3008",
           "name": "大立光",
-          "point": "智慧手機出貨減，股價下跌",
+          "point": "智慧手機出貨減導致下跌",
           "luw": 1,
           "luwd": [
             "10/12"
@@ -35,29 +36,16 @@
         {
           "symbol": "3406",
           "name": "玉晶光",
-          "point": "智慧手機出貨減，股價下跌",
+          "point": "智慧手機出貨減導致下跌",
+          "status": "高檔修正",
+          "dist": -14.8,
           "luw": 1,
           "luwd": [
             "10/13"
           ]
-        },
-        {
-          "symbol": "6263",
-          "name": "閎暉",
-          "point": "智慧手機概念股，股價下跌"
-        },
-        {
-          "symbol": "3376",
-          "name": "新日興",
-          "point": "智慧手機概念股，股價下跌"
-        },
-        {
-          "symbol": "3105",
-          "name": "穩懋",
-          "point": "智慧手機概念股，股價下跌"
         }
       ],
-      "background": "全球智慧手機出貨量因AI基礎建設排擠記憶體供應與終端售價上漲而下滑，導致光學雙雄及相關概念股股價受挫。",
+      "background": "全球智慧手機第三季出貨量年減20%，創2012年同期新低，主因AI基礎建設排擠記憶體晶片供應，導致成本轉嫁消費者，購買意願下滑。",
       "themeTags": [
         "需求驅動",
         "循環位置"
@@ -70,27 +58,11 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6333716001&PU=0010",
       "source": "富聯網",
       "pubDate": "Sat, 17 Oct 2026 08:33:00 GMT",
-      "stocks": [
-        {
-          "symbol": "6271",
-          "name": "台虹",
-          "point": "PTFE板供應鏈廠商"
-        },
-        {
-          "symbol": "6269",
-          "name": "台郡",
-          "point": "PTFE板供應鏈廠商",
-          "luw": 3,
-          "luwd": [
-            "10/16",
-            "10/15",
-            "10/14"
-          ]
-        }
-      ],
-      "background": "聚四氟乙烯（PTFE）材料在高頻高速互連領域應用擴大，特別是在運算板等高階板材中，可能逐步替代傳統高階樹脂材料。",
+      "stocks": [],
+      "background": "聚四氟乙烯（PTFE）材料在高階運算板等應用測試階段，輝達展示NVLink PTFE板原型，長期可能替代傳統高階樹脂材料，儘管加工仍有挑戰。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "國際大廠"
       ]
     },
     {
@@ -132,8 +104,24 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6333690001&PU=0010",
       "source": "富聯網",
       "pubDate": "Sat, 17 Oct 2026 07:06:00 GMT",
-      "stocks": [],
-      "background": "紡織廠透過新產能擴張，以滿足市場需求並提升競爭力，預期將帶動第四季營運成長。",
+      "stocks": [
+        {
+          "symbol": "1402",
+          "name": "遠東新",
+          "point": "馬來西亞回收聚酯新產能"
+        },
+        {
+          "symbol": "1409",
+          "name": "新纖",
+          "point": "聚酯彈性纖維新產線投產"
+        },
+        {
+          "symbol": "1477",
+          "name": "聚陽",
+          "point": "薩爾瓦多生產基地新產能"
+        }
+      ],
+      "background": "紡織廠新產能陸續投產，特別是綠色產品與環保回收材料，受全球品牌廠環保新規範需求提升，預期將助攻第四季營運成長。",
       "themeTags": [
         "需求驅動"
       ]
