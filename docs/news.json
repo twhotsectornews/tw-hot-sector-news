@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-19T13:05:34.415+08:00",
-  "generatedAt": "2026-10-19T05:05:34.415Z",
+  "asOf": "2026-10-19T14:03:44.114+08:00",
+  "generatedAt": "2026-10-19T06:03:44.114Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -78,21 +78,6 @@
       ]
     },
     {
-      "symbol": "3008",
-      "name": "大立光",
-      "days": 3,
-      "dates": [
-        "10/17",
-        "10/16",
-        "10/13"
-      ],
-      "mentions": 4,
-      "luw": 1,
-      "luwd": [
-        "10/12"
-      ]
-    },
-    {
       "symbol": "1802",
       "name": "台玻",
       "days": 3,
@@ -103,6 +88,21 @@
       ],
       "mentions": 3,
       "limitUp": false
+    },
+    {
+      "symbol": "3008",
+      "name": "大立光",
+      "days": 2,
+      "dates": [
+        "10/16",
+        "10/13"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/12"
+      ]
     },
     {
       "symbol": "2412",
@@ -309,6 +309,17 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNMk9wa1E1Smh1WGhRdkRGQjkyNk5XdVJ2YjU2S2lGVFBaelFDazA3SW01NEltWkl5bU9FbjgzVV9nTG5JZnh6S2VmZ3pHZjNDdjl4NWJtTWVuekVwWXdyaHFtSHVrODB3Rm0wSVM5cFJwQTdQei04ck5lZHVnSUl1amxIV1gtRnNy",
+      "tkey": "熱門族群金控股避風港失靈僅靠玉山金、兆豐金扛住",
+      "title": "《熱門族群》金控股避風港失靈 僅靠玉山金、兆豐金扛住 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6335198001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 19 Oct 2026 05:47:00 GMT",
+      "stocks": [],
+      "background": "",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxNSUgwUF9oem1iOFBLMWJkSTBVUGJZQlVmdmhMamVvOUZrcUFwUUZCc1VqOXdQdzBOTHZ4Wk45cElhV1pxYWxfczRRV0ZONTJBMmplMDc1YzVFbXpPUzQzblRKY0NnMWpDemRDUE5Id1RQY0lZc0YweFdCZ2Z6Y2s5R3dMN3AweTlB",
       "tkey": "熱門族群資金轉進玻纖布、銅箔富喬攻漲停、台玻創高",

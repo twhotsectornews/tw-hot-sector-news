@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "updatedAt": "2026-10-19T05:05:34.412Z",
+  "updatedAt": "2026-10-19T06:03:44.112Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNTGNJZnFUQ0F4V1RuWXFVNHJrLWx1OVNxWFk5V1p6N0JiaDBHYTQtbl9wQVYxbkt6UUlOQUdmX1BQR0Jka3YxNDBDU2JNNDhXd1dJTGJXQ0ZiU3NmaFZjcFpVQnRSNVR2MHotbUV3LXF6RHZ2ZDlHZFdEVjB3SURlaUxrV1RhT21Z",
@@ -10,11 +10,8 @@
       "source": "富聯網",
       "pubDate": "Sat, 17 Oct 2026 08:59:00 GMT",
       "stocks": [],
-      "background": "能率集團投資的AI軟體商鑫蘊林科躍為輝達夥伴，助攻歐洲智慧城市，同時人形機器人公司Agility Robotics獲准上市，顯示集團在AI領域軟硬體雙向佈局。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
+      "background": "",
+      "themeTags": []
     },
     {
       "gid": "CBMiiAFBVV95cUxPdDJJMV9wWjJNU1dQTUk0T2hFbGpVTHNpQ09hZkZCX3JlbGJLT19SaTlxYUtPT24yTDFIUjZaRllVdWRKd2dXTmxiUFA4b0FEZDM5MUNvZHRjeVhLSUJqM2UzZ2dGMlFTcHNUVUF4SXJnTnpIeFZDU3VSb3ZsWWlRWDFvOXRONTRn",
@@ -23,33 +20,9 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6333754001&PU=1002",
       "source": "富聯網",
       "pubDate": "Sat, 17 Oct 2026 08:51:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3008",
-          "name": "大立光",
-          "point": "智慧手機出貨減導致下跌",
-          "luw": 1,
-          "luwd": [
-            "10/12"
-          ]
-        },
-        {
-          "symbol": "3406",
-          "name": "玉晶光",
-          "point": "智慧手機出貨減導致下跌",
-          "status": "高檔修正",
-          "dist": -14.8,
-          "luw": 1,
-          "luwd": [
-            "10/13"
-          ]
-        }
-      ],
-      "background": "全球智慧手機第三季出貨量年減20%，創2012年同期新低，主因AI基礎建設排擠記憶體晶片供應，導致成本轉嫁消費者，購買意願下滑。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
+      "stocks": [],
+      "background": "",
+      "themeTags": []
     },
     {
       "gid": "CBMiiAFBVV95cUxNdUw5ODhzREpmdXRrQ1pvVGxGVmNpbWdnWXlaS3NzSFZUT0VFbVdqOTktd0cyemZXMXowWkE4Z0RMV2tfMWtnWlNIcVZhQTI5U0poWmNwSmxDR21lb3BOZ3lGdXNyZFFBREdnaE0xRUc2eVY0dkoxRER0TWxjMVBZOXVhSGFoZFVN",
@@ -59,11 +32,8 @@
       "source": "富聯網",
       "pubDate": "Sat, 17 Oct 2026 08:33:00 GMT",
       "stocks": [],
-      "background": "聚四氟乙烯（PTFE）材料在高階運算板等應用測試階段，輝達展示NVLink PTFE板原型，長期可能替代傳統高階樹脂材料，儘管加工仍有挑戰。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
+      "background": "",
+      "themeTags": []
     },
     {
       "gid": "CBMiiAFBVV95cUxORjBXdTgzeFh2dU5HMnUyUmMzb1l6X0M0M2Mzc2ZENllFZWN0SzVmZmtIcHhHcktKTTF5dEpadWVrQzBQckp4XzVmX2V6RGNlWjBhSGtsaDdGSG5rOWtKX2J0R1gwVWh0MUNPb3lTUFd4MEEyN1VJQkFOOGs1UEc5RHVhTy01c2Iy",
@@ -104,27 +74,9 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6333690001&PU=0010",
       "source": "富聯網",
       "pubDate": "Sat, 17 Oct 2026 07:06:00 GMT",
-      "stocks": [
-        {
-          "symbol": "1402",
-          "name": "遠東新",
-          "point": "馬來西亞回收聚酯新產能"
-        },
-        {
-          "symbol": "1409",
-          "name": "新纖",
-          "point": "聚酯彈性纖維新產線投產"
-        },
-        {
-          "symbol": "1477",
-          "name": "聚陽",
-          "point": "薩爾瓦多生產基地新產能"
-        }
-      ],
-      "background": "紡織廠新產能陸續投產，特別是綠色產品與環保回收材料，受全球品牌廠環保新規範需求提升，預期將助攻第四季營運成長。",
-      "themeTags": [
-        "需求驅動"
-      ]
+      "stocks": [],
+      "background": "",
+      "themeTags": []
     },
     {
       "gid": "CBMiWEFVX3lxTFBITlVYN0ZDUXk3c18tdzNzX2VIXzhhMUlpZ0pBLVpmMllMZGdIdlB3SzVySFRTVk9sREV5S2dHN0h6Wm8yVDRrUWpGZWtMWXpJeGJGbHFzZW0",
