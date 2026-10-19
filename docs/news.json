@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-19T18:42:25.224+08:00",
-  "generatedAt": "2026-10-19T10:42:25.224Z",
+  "asOf": "2026-10-20T00:24:55.449+08:00",
+  "generatedAt": "2026-10-19T16:24:55.449Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,15 +9,14 @@
     {
       "symbol": "1303",
       "name": "南亞",
-      "days": 5,
+      "days": 4,
       "dates": [
         "10/19",
         "10/16",
         "10/15",
-        "10/14",
-        "10/13"
+        "10/14"
       ],
-      "mentions": 6,
+      "mentions": 5,
       "status": "高檔修正",
       "dist": -13.3,
       "limitUp": false
@@ -25,15 +24,14 @@
     {
       "symbol": "6505",
       "name": "台塑化",
-      "days": 5,
+      "days": 4,
       "dates": [
         "10/19",
         "10/16",
         "10/15",
-        "10/14",
-        "10/13"
+        "10/14"
       ],
-      "mentions": 5,
+      "mentions": 4,
       "status": "逼近新高",
       "dist": -6.6,
       "limitUp": false,
@@ -41,55 +39,6 @@
       "luwd": [
         "10/16",
         "10/13"
-      ]
-    },
-    {
-      "symbol": "1301",
-      "name": "台塑",
-      "days": 4,
-      "dates": [
-        "10/19",
-        "10/15",
-        "10/14",
-        "10/13"
-      ],
-      "mentions": 4,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/14"
-      ]
-    },
-    {
-      "symbol": "1326",
-      "name": "台化",
-      "days": 4,
-      "dates": [
-        "10/19",
-        "10/15",
-        "10/14",
-        "10/13"
-      ],
-      "mentions": 4,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/14"
-      ]
-    },
-    {
-      "symbol": "3008",
-      "name": "大立光",
-      "days": 3,
-      "dates": [
-        "10/17",
-        "10/16",
-        "10/13"
-      ],
-      "mentions": 4,
-      "luw": 1,
-      "luwd": [
-        "10/12"
       ]
     },
     {
@@ -103,6 +52,38 @@
       ],
       "mentions": 3,
       "limitUp": false
+    },
+    {
+      "symbol": "1301",
+      "name": "台塑",
+      "days": 3,
+      "dates": [
+        "10/19",
+        "10/15",
+        "10/14"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/14"
+      ]
+    },
+    {
+      "symbol": "1326",
+      "name": "台化",
+      "days": 3,
+      "dates": [
+        "10/19",
+        "10/15",
+        "10/14"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/14"
+      ]
     },
     {
       "symbol": "6269",
@@ -122,45 +103,6 @@
         "10/15",
         "10/14"
       ]
-    },
-    {
-      "symbol": "2412",
-      "name": "中華電",
-      "days": 2,
-      "dates": [
-        "10/16",
-        "10/13"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -1.9,
-      "limitUp": false
-    },
-    {
-      "symbol": "3045",
-      "name": "台灣大",
-      "days": 2,
-      "dates": [
-        "10/16",
-        "10/13"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -1.9,
-      "limitUp": false
-    },
-    {
-      "symbol": "4904",
-      "name": "遠傳",
-      "days": 2,
-      "dates": [
-        "10/16",
-        "10/13"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -2.2,
-      "limitUp": false
     },
     {
       "symbol": "2884",
@@ -208,14 +150,18 @@
       "limitUp": false
     },
     {
-      "symbol": "3105",
-      "name": "穩懋",
+      "symbol": "3008",
+      "name": "大立光",
       "days": 2,
       "dates": [
         "10/17",
-        "10/13"
+        "10/16"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "luw": 1,
+      "luwd": [
+        "10/12"
+      ]
     },
     {
       "symbol": "1815",
@@ -240,45 +186,12 @@
       ]
     },
     {
-      "symbol": "6669",
-      "name": "緯穎",
-      "days": 2,
-      "dates": [
-        "10/16",
-        "10/13"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3081",
-      "name": "聯亞",
-      "days": 2,
-      "dates": [
-        "10/16",
-        "10/13"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
       "symbol": "2327",
       "name": "國巨",
       "days": 2,
       "dates": [
         "10/16",
         "10/14"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3131",
-      "name": "弘塑",
-      "days": 2,
-      "dates": [
-        "10/16",
-        "10/13"
       ],
       "mentions": 2,
       "limitUp": false
@@ -316,17 +229,6 @@
       "dates": [
         "10/15",
         "10/14"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3289",
-      "name": "宜特",
-      "days": 2,
-      "dates": [
-        "10/15",
-        "10/13"
       ],
       "mentions": 2,
       "limitUp": false

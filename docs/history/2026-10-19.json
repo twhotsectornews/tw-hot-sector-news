@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-19",
+  "updatedAt": "2026-10-19T16:24:55.441Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNMk9wa1E1Smh1WGhRdkRGQjkyNk5XdVJ2YjU2S2lGVFBaelFDazA3SW01NEltWkl5bU9FbjgzVV9nTG5JZnh6S2VmZ3pHZjNDdjl4NWJtTWVuekVwWXdyaHFtSHVrODB3Rm0wSVM5cFJwQTdQei04ck5lZHVnSUl1amxIV1gtRnNy",
+      "tkey": "熱門族群金控股避風港失靈僅靠玉山金、兆豐金扛住",
+      "title": "《熱門族群》金控股避風港失靈 僅靠玉山金、兆豐金扛住 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6335198001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 19 Oct 2026 05:47:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2884",
+          "name": "玉山金",
+          "point": "金控股中扛住跌勢",
+          "status": "逼近新高",
+          "dist": -1.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "2886",
+          "name": "兆豐金",
+          "point": "金控股中扛住跌勢",
+          "status": "逼近新高",
+          "dist": -0.9,
+          "limitUp": false
+        }
+      ],
+      "background": "金控股因其穩健特性，常被視為市場避風港，但在特定市場環境下，仍可能面臨挑戰，僅部分個股能維持穩定。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNSUgwUF9oem1iOFBLMWJkSTBVUGJZQlVmdmhMamVvOUZrcUFwUUZCc1VqOXdQdzBOTHZ4Wk45cElhV1pxYWxfczRRV0ZONTJBMmplMDc1YzVFbXpPUzQzblRKY0NnMWpDemRDUE5Id1RQY0lZc0YweFdCZ2Z6Y2s5R3dMN3AweTlB",
+      "tkey": "熱門族群資金轉進玻纖布、銅箔富喬攻漲停、台玻創高",
+      "title": "《熱門族群》資金轉進玻纖布、銅箔 富喬攻漲停、台玻創高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6335000001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 19 Oct 2026 02:34:00 GMT",
+      "stocks": [
+        {
+          "symbol": "8182",
+          "name": "富喬",
+          "point": "攻漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "創高",
+          "limitUp": false
+        }
+      ],
+      "background": "玻纖布與銅箔為電子產業關鍵材料，受惠於終端需求回溫，帶動相關供應鏈股價表現。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOcll4WDlycU5nbTlQU2dCdUplWXdzQ3ljUk4zU2VOOHVsbVhFdmpZU0JtY1Z2eGFVckl1dmZQdlNHQVRMTWROempheHkxX1ktemZ4UW9TUlMtdXpIaFRkMEdFUm1DTC0xY0Q3dE12VG5qWXI4dlM5ZjZFQkdXM19oSkZMaFFYblVa",
+      "tkey": "熱門族群油價題材救不了！台塑化衝高翻黑台塑四寶全面承壓",
+      "title": "《熱門族群》油價題材救不了！台塑化衝高翻黑 台塑四寶全面承壓 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6334984001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 19 Oct 2026 02:17:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "衝高翻黑",
+          "status": "逼近新高",
+          "dist": -6.6,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "10/16",
+            "10/13"
+          ]
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "四寶全面承壓",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/14"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "四寶全面承壓",
+          "status": "高檔修正",
+          "dist": -13.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "四寶全面承壓",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/14"
+          ]
+        }
+      ],
+      "background": "油價波動影響塑化產品報價，台塑四寶營運受油價題材與市場需求影響，面臨獲利壓力。",
+      "themeTags": []
+    }
+  ]
+}
