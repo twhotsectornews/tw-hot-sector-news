@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-18T22:09:54.631+08:00",
-  "generatedAt": "2026-10-18T14:09:54.631Z",
+  "asOf": "2026-10-19T11:06:34.591+08:00",
+  "generatedAt": "2026-10-19T03:06:34.591Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -11,15 +11,15 @@
       "name": "南亞",
       "days": 5,
       "dates": [
+        "10/19",
         "10/16",
         "10/15",
         "10/14",
-        "10/13",
-        "10/12"
+        "10/13"
       ],
-      "mentions": 7,
+      "mentions": 6,
       "status": "高檔修正",
-      "dist": -12.6,
+      "dist": -13.3,
       "limitUp": false
     },
     {
@@ -27,17 +27,16 @@
       "name": "台塑化",
       "days": 5,
       "dates": [
+        "10/19",
         "10/16",
         "10/15",
         "10/14",
-        "10/13",
-        "10/12"
+        "10/13"
       ],
-      "mentions": 6,
+      "mentions": 5,
       "status": "逼近新高",
-      "dist": -5,
-      "limitUp": true,
-      "pct": 9.9,
+      "dist": -6.6,
+      "limitUp": false,
       "luw": 2,
       "luwd": [
         "10/16",
@@ -45,16 +44,16 @@
       ]
     },
     {
-      "symbol": "1326",
-      "name": "台化",
+      "symbol": "1301",
+      "name": "台塑",
       "days": 4,
       "dates": [
+        "10/19",
         "10/15",
         "10/14",
-        "10/13",
-        "10/12"
+        "10/13"
       ],
-      "mentions": 5,
+      "mentions": 4,
       "limitUp": false,
       "luw": 1,
       "luwd": [
@@ -62,16 +61,16 @@
       ]
     },
     {
-      "symbol": "1301",
-      "name": "台塑",
+      "symbol": "1326",
+      "name": "台化",
       "days": 4,
       "dates": [
+        "10/19",
         "10/15",
         "10/14",
-        "10/13",
-        "10/12"
+        "10/13"
       ],
-      "mentions": 5,
+      "mentions": 4,
       "limitUp": false,
       "luw": 1,
       "luwd": [
@@ -93,6 +92,18 @@
       "luwd": [
         "10/12"
       ]
+    },
+    {
+      "symbol": "1802",
+      "name": "台玻",
+      "days": 3,
+      "dates": [
+        "10/19",
+        "10/16",
+        "10/15"
+      ],
+      "mentions": 3,
+      "limitUp": false
     },
     {
       "symbol": "6269",
@@ -153,42 +164,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2603",
-      "name": "長榮",
-      "days": 2,
-      "dates": [
-        "10/15",
-        "10/12"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -1.8,
-      "luw": 1,
-      "luwd": [
-        "10/12"
-      ]
-    },
-    {
-      "symbol": "2609",
-      "name": "陽明",
-      "days": 2,
-      "dates": [
-        "10/15",
-        "10/12"
-      ],
-      "mentions": 3
-    },
-    {
-      "symbol": "2615",
-      "name": "萬海",
-      "days": 2,
-      "dates": [
-        "10/15",
-        "10/12"
-      ],
-      "mentions": 3
-    },
-    {
       "symbol": "8039",
       "name": "台虹",
       "days": 2,
@@ -241,17 +216,6 @@
         "10/13",
         "10/12"
       ]
-    },
-    {
-      "symbol": "1802",
-      "name": "台玻",
-      "days": 2,
-      "dates": [
-        "10/16",
-        "10/15"
-      ],
-      "mentions": 2,
-      "limitUp": false
     },
     {
       "symbol": "6669",
@@ -347,6 +311,85 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNSUgwUF9oem1iOFBLMWJkSTBVUGJZQlVmdmhMamVvOUZrcUFwUUZCc1VqOXdQdzBOTHZ4Wk45cElhV1pxYWxfczRRV0ZONTJBMmplMDc1YzVFbXpPUzQzblRKY0NnMWpDemRDUE5Id1RQY0lZc0YweFdCZ2Z6Y2s5R3dMN3AweTlB",
+      "tkey": "熱門族群資金轉進玻纖布、銅箔富喬攻漲停、台玻創高",
+      "title": "《熱門族群》資金轉進玻纖布、銅箔 富喬攻漲停、台玻創高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6335000001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 19 Oct 2026 02:34:00 GMT",
+      "stocks": [
+        {
+          "symbol": "8182",
+          "name": "富喬",
+          "point": "攻漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "創高",
+          "limitUp": false
+        }
+      ],
+      "background": "玻纖布與銅箔為電子產業關鍵材料，受惠於終端需求回溫，帶動相關供應鏈股價表現。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOcll4WDlycU5nbTlQU2dCdUplWXdzQ3ljUk4zU2VOOHVsbVhFdmpZU0JtY1Z2eGFVckl1dmZQdlNHQVRMTWROempheHkxX1ktemZ4UW9TUlMtdXpIaFRkMEdFUm1DTC0xY0Q3dE12VG5qWXI4dlM5ZjZFQkdXM19oSkZMaFFYblVa",
+      "tkey": "熱門族群油價題材救不了！台塑化衝高翻黑台塑四寶全面承壓",
+      "title": "《熱門族群》油價題材救不了！台塑化衝高翻黑 台塑四寶全面承壓 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6334984001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 19 Oct 2026 02:17:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "衝高翻黑",
+          "status": "逼近新高",
+          "dist": -6.6,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "10/16",
+            "10/13"
+          ]
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "四寶全面承壓",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/14"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "四寶全面承壓",
+          "status": "高檔修正",
+          "dist": -13.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "四寶全面承壓",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/14"
+          ]
+        }
+      ],
+      "background": "油價波動影響塑化產品報價，台塑四寶營運受油價題材與市場需求影響，面臨獲利壓力。",
+      "themeTags": []
+    },
     {
       "gid": "CBMiZEFVX3lxTFBiQVZxUWp3Y3VqSGlrVGJWYy03Y2F5aE1xaVFvc0RZLTJ0THBpY3dBaUI4N1M5dDJOWjdzNWlxSmJBaDhoaWxKWTFxeVloWXhidGYxVnNZN2Z1cG4yYUVRc1UwRDjSAWRBVV95cUxQYkFWcVFqd2N1akhpa1RiVmMtN2NheWhNcWlRb3NEWS0ydExwaWN3QWlCODdTOXQyTlo3czVpcUpiQWg4aGlsSlkxcXlZaFl4YnRmMVZzWTdmdXBuMmFFUXNVMEQ4",
       "tkey": "熱門族群PCB上游材料供不應求新替代材料躍為市場焦點",
@@ -458,139 +501,6 @@
       ],
       "background": "金融股因獲利穩定、波動低及股利題材，成為資金避風港，整體金控獲利創新高，加上合併題材，股價表現亮眼。",
       "themeTags": []
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNTGNJZnFUQ0F4V1RuWXFVNHJrLWx1OVNxWFk5V1p6N0JiaDBHYTQtbl9wQVYxbkt6UUlOQUdmX1BQR0Jka3YxNDBDU2JNNDhXd1dJTGJXQ0ZiU3NmaFZjcFpVQnRSNVR2MHotbUV3LXF6RHZ2ZDlHZFdEVjB3SURlaUxrV1RhT21Z",
-      "tkey": "熱門族群AI領域軟、硬通吃能率集團投資鑫蘊林科躍輝達夥伴",
-      "title": "《熱門族群》AI領域軟、硬通吃 能率集團投資鑫蘊林科 躍輝達夥伴 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6333786001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Sat, 17 Oct 2026 08:59:00 GMT",
-      "stocks": [],
-      "background": "能率集團投資AI軟體商鑫蘊林科成為輝達夥伴，並投資人形機器人公司Agility Robotics，顯示其在AI領域軟硬體整合的布局。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxPdDJJMV9wWjJNU1dQTUk0T2hFbGpVTHNpQ09hZkZCX3JlbGJLT19SaTlxYUtPT24yTDFIUjZaRllVdWRKd2dXTmxiUFA4b0FEZDM5MUNvZHRjeVhLSUJqM2UzZ2dGMlFTcHNUVUF4SXJnTnpIeFZDU3VSb3ZsWWlRWDFvOXRONTRn",
-      "tkey": "熱門族群智慧手機出貨減光學雙雄中箭下跌",
-      "title": "《熱門族群》智慧手機出貨減 光學雙雄中箭下跌 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6333754001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Sat, 17 Oct 2026 08:51:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3008",
-          "name": "大立光",
-          "point": "智慧手機出貨量減少影響",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "10/12"
-          ]
-        },
-        {
-          "symbol": "3406",
-          "name": "玉晶光",
-          "point": "智慧手機出貨量減少影響",
-          "status": "高檔修正",
-          "dist": -11.1,
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "10/13"
-          ]
-        }
-      ],
-      "background": "全球智慧手機出貨量年減20%，創2012年以來同期新低，主因AI基礎建設排擠記憶體晶片供應，導致成本轉嫁消費者，影響購買意願。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNdUw5ODhzREpmdXRrQ1pvVGxGVmNpbWdnWXlaS3NzSFZUT0VFbVdqOTktd0cyemZXMXowWkE4Z0RMV2tfMWtnWlNIcVZhQTI5U0poWmNwSmxDR21lb3BOZ3lGdXNyZFFBREdnaE0xRUc2eVY0dkoxRER0TWxjMVBZOXVhSGFoZFVN",
-      "tkey": "熱門族群PTFE高階板材替代戰升溫",
-      "title": "《熱門族群》PTFE高階板材替代戰升溫 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6333716001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Sat, 17 Oct 2026 08:33:00 GMT",
-      "stocks": [
-        {
-          "symbol": "6269",
-          "name": "台虹",
-          "point": "PTFE板供應鏈廠商",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 3,
-          "luwd": [
-            "10/16",
-            "10/15",
-            "10/14"
-          ]
-        },
-        {
-          "symbol": "6153",
-          "name": "台郡",
-          "point": "PTFE板供應鏈廠商",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "10/14"
-          ]
-        }
-      ],
-      "background": "聚四氟乙烯（PTFE）材料在運算板等高頻高速互連領域應用升溫，輝達展示PTFE板原型，長期可能替代傳統高階樹脂材料。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxORjBXdTgzeFh2dU5HMnUyUmMzb1l6X0M0M2Mzc2ZENllFZWN0SzVmZmtIcHhHcktKTTF5dEpadWVrQzBQckp4XzVmX2V6RGNlWjBhSGtsaDdGSG5rOWtKX2J0R1gwVWh0MUNPb3lTUFd4MEEyN1VJQkFOOGs1UEc5RHVhTy01c2Iy",
-      "tkey": "熱門族群紡織廠新產能助攻Q4營運",
-      "title": "《熱門族群》紡織廠新產能 助攻Q4營運 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6333690001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Sat, 17 Oct 2026 07:06:00 GMT",
-      "stocks": [
-        {
-          "symbol": "1402",
-          "name": "遠東新",
-          "point": "馬來西亞回收聚酯新廠投產",
-          "limitUp": false
-        },
-        {
-          "symbol": "1409",
-          "name": "新纖",
-          "point": "聚酯彈性纖維新產線投產",
-          "limitUp": false
-        },
-        {
-          "symbol": "1477",
-          "name": "聚陽",
-          "point": "薩爾瓦多產線新投產",
-          "limitUp": false
-        }
-      ],
-      "background": "紡織廠新產能陸續投產，特別是綠色產品與環保回收材料，受國際品牌廠需求提升，有助於第四季營運成長。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTFBITlVYN0ZDUXk3c18tdzNzX2VIXzhhMUlpZ0pBLVpmMllMZGdIdlB3SzVySFRTVk9sREV5S2dHN0h6Wm8yVDRrUWpGZWtMWXpJeGJGbHFzZW0",
-      "tkey": "熱門族群AIASIC訂單強勁矽智財族群蓄勢待發",
-      "title": "熱門族群》AI ASIC訂單強勁 矽智財族群蓄勢待發 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/ubmjyhj3tbmq",
-      "source": "自由時報",
-      "pubDate": "Fri, 16 Oct 2026 20:06:40 GMT",
-      "stocks": [],
-      "background": "矽智財（IP）產業受惠於AI ASIC訂單強勁，顯示AI應用對客製化晶片設計需求旺盛，產業景氣持續看好。",
-      "themeTags": [
-        "需求驅動"
-      ]
     }
   ]
 }

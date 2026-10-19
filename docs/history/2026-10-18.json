@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-18",
+  "updatedAt": "2026-10-19T03:06:34.588Z",
+  "news": [
+    {
+      "gid": "CBMiZEFVX3lxTFBiQVZxUWp3Y3VqSGlrVGJWYy03Y2F5aE1xaVFvc0RZLTJ0THBpY3dBaUI4N1M5dDJOWjdzNWlxSmJBaDhoaWxKWTFxeVloWXhidGYxVnNZN2Z1cG4yYUVRc1UwRDjSAWRBVV95cUxQYkFWcVFqd2N1akhpa1RiVmMtN2NheWhNcWlRb3NEWS0ydExwaWN3QWlCODdTOXQyTlo3czVpcUpiQWg4aGlsSlkxcXlZaFl4YnRmMVZzWTdmdXBuMmFFUXNVMEQ4",
+      "tkey": "熱門族群PCB上游材料供不應求新替代材料躍為市場焦點",
+      "title": "熱門族群》PCB上游材料供不應求 新替代材料躍為市場焦點 - 自由財經",
+      "url": "https://ec.ltn.com.tw/amp/article/breakingnews/5608869",
+      "source": "自由財經",
+      "pubDate": "Sat, 17 Oct 2026 23:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "8039",
+          "name": "台虹",
+          "point": "PTFE材料入列輝達供應鏈",
+          "status": "高檔修正",
+          "dist": -14.4,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "10/16",
+            "10/14"
+          ]
+        },
+        {
+          "symbol": "6269",
+          "name": "台郡",
+          "point": "參與AI伺服器平台開發專案",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 3,
+          "luwd": [
+            "10/16",
+            "10/15",
+            "10/14"
+          ]
+        },
+        {
+          "symbol": "4939",
+          "name": "亞電",
+          "point": "發展PTFE高階材料",
+          "status": "高檔修正",
+          "dist": -12.5,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "10/16",
+            "10/15",
+            "10/14",
+            "10/13",
+            "10/12"
+          ]
+        }
+      ],
+      "background": "AI浪潮帶動PCB上游材料供不應求，PTFE等新替代材料受市場追逐，輝達（Nvidia）積極導入新材料，產業供應緊張將持續至2027年。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiqAJBVV95cUxPa2JUNzJ4Z1JrcEZJbk9zNzJ2bGtsdXEyaGxDUXNkTzNCLTZ5NEZxdGl4UEY3VVQyS2lpaWVJanFyZkZvV0RUVk5jNWs3Zk1ON1d1Y1Z0ck1VS0g3UTFURE12LUd3MlpnX3JQNDZYZDJpeXY0aGFBY1RvMWdrWEQ4TWtyWUQyN19HQVVCaHp3YkM3bWE5Zi14SGFYa1JzNWVqUlpFSUtGbWljNXVsdFdzMERLT0NhazU3anlyQmtJLW16dGtrN0ZFUWpvdUVjbHRVQjM5NVh4a2R5TFlsZEktUS03V0tSbFloWUl4U0J2LTJFSmJsdXQzM0lvTkVrZExfbnhTZ3dHR2d0Y09uNUhUVGEyUVNOQWRPUVluT0pfdm9GbElsRExrVw",
+      "tkey": "熱門族群金光閃閃！金融股指數今年大漲56.64％",
+      "title": "熱門族群》金光閃閃！金融股指數今年大漲56.64％ - Yahoo新聞",
+      "url": "https://tw.news.yahoo.com/%E7%86%B1%E9%96%80%E6%97%8F%E7%BE%A4-%E9%87%91%E5%85%89%E9%96%83%E9%96%83-%E9%87%91%E8%9E%8D%E8%82%A1%E6%8C%87%E6%95%B8%E4%BB%8A%E5%B9%B4%E5%A4%A7%E6%BC%B256-64-230000760.html",
+      "source": "Yahoo新聞",
+      "pubDate": "Sat, 17 Oct 2026 23:00:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2881",
+          "name": "富邦金",
+          "point": "股價創歷史新高",
+          "status": "逼近新高",
+          "dist": -1.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "2882",
+          "name": "國泰金",
+          "point": "股價創歷史新高",
+          "status": "逼近新高",
+          "dist": -1.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "2891",
+          "name": "中信金",
+          "point": "股價衝破75元大關",
+          "status": "逼近新高",
+          "dist": -2.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "2885",
+          "name": "元大金",
+          "point": "股價創歷史新高",
+          "status": "逼近新高",
+          "dist": -1.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "2884",
+          "name": "玉山金",
+          "point": "股價挑戰50元大關",
+          "status": "逼近新高",
+          "dist": -1.6,
+          "limitUp": false
+        }
+      ],
+      "background": "金融股因獲利穩定、波動低及股利題材，成為資金避風港，整體金控獲利創新高，加上合併題材，股價表現亮眼。",
+      "themeTags": []
+    }
+  ]
+}
