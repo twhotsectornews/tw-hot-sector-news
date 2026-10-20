@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-20T13:03:21.877+08:00",
-  "generatedAt": "2026-10-20T05:03:21.877Z",
+  "asOf": "2026-10-20T14:02:50.812+08:00",
+  "generatedAt": "2026-10-20T06:02:50.812Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -87,7 +87,8 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -2.5,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 5,
       "luwd": [
         "10/19",
@@ -173,8 +174,7 @@
         "10/16"
       ],
       "mentions": 2,
-      "limitUp": true,
-      "pct": 9.9
+      "limitUp": false
     },
     {
       "symbol": "3037",
@@ -323,7 +323,8 @@
           "point": "出量再攻歷史新高價",
           "status": "逼近新高",
           "dist": -2.5,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "10/19",
@@ -363,8 +364,7 @@
           "symbol": "5475",
           "name": "德宏",
           "point": "強彈漲停",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "6269",
@@ -389,7 +389,8 @@
           "symbol": "8074",
           "name": "鉅橡",
           "point": "攻高壓回",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "10/19",
