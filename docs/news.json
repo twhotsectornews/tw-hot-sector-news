@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-20T11:04:00.754+08:00",
-  "generatedAt": "2026-10-20T03:04:00.754Z",
+  "asOf": "2026-10-20T12:05:53.954+08:00",
+  "generatedAt": "2026-10-20T04:05:53.954Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,17 +9,51 @@
     {
       "symbol": "1303",
       "name": "南亞",
-      "days": 4,
+      "days": 5,
       "dates": [
+        "10/20",
         "10/19",
         "10/16",
         "10/15",
         "10/14"
       ],
-      "mentions": 5,
+      "mentions": 6,
       "status": "高檔修正",
-      "dist": -13.3,
+      "dist": -12.7,
       "limitUp": false
+    },
+    {
+      "symbol": "1802",
+      "name": "台玻",
+      "days": 4,
+      "dates": [
+        "10/20",
+        "10/19",
+        "10/16",
+        "10/15"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "6269",
+      "name": "台郡",
+      "days": 4,
+      "dates": [
+        "10/20",
+        "10/18",
+        "10/17",
+        "10/14"
+      ],
+      "mentions": 4,
+      "limitUp": true,
+      "pct": 10,
+      "luw": 3,
+      "luwd": [
+        "10/16",
+        "10/15",
+        "10/14"
+      ]
     },
     {
       "symbol": "6505",
@@ -42,16 +76,26 @@
       ]
     },
     {
-      "symbol": "1802",
-      "name": "台玻",
+      "symbol": "1815",
+      "name": "富喬",
       "days": 3,
       "dates": [
-        "10/19",
+        "10/20",
         "10/16",
         "10/15"
       ],
       "mentions": 3,
-      "limitUp": false
+      "status": "逼近新高",
+      "dist": -2.5,
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "10/19",
+        "10/16",
+        "10/15",
+        "10/14",
+        "10/13"
+      ]
     },
     {
       "symbol": "1301",
@@ -86,25 +130,6 @@
       ]
     },
     {
-      "symbol": "6269",
-      "name": "台郡",
-      "days": 3,
-      "dates": [
-        "10/18",
-        "10/17",
-        "10/14"
-      ],
-      "mentions": 3,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 3,
-      "luwd": [
-        "10/16",
-        "10/15",
-        "10/14"
-      ]
-    },
-    {
       "symbol": "2330",
       "name": "台積電",
       "days": 2,
@@ -115,6 +140,51 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -7.1,
+      "limitUp": false
+    },
+    {
+      "symbol": "8358",
+      "name": "金居",
+      "days": 2,
+      "dates": [
+        "10/20",
+        "10/16"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "5340",
+      "name": "建榮",
+      "days": 2,
+      "dates": [
+        "10/20",
+        "10/16"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "5475",
+      "name": "德宏",
+      "days": 2,
+      "dates": [
+        "10/20",
+        "10/16"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 9.9
+    },
+    {
+      "symbol": "3037",
+      "name": "欣興",
+      "days": 2,
+      "dates": [
+        "10/20",
+        "10/16"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -190,28 +260,6 @@
       ]
     },
     {
-      "symbol": "1815",
-      "name": "富喬",
-      "days": 2,
-      "dates": [
-        "10/16",
-        "10/15"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -2.8,
-      "limitUp": true,
-      "pct": 9.8,
-      "luw": 5,
-      "luwd": [
-        "10/16",
-        "10/15",
-        "10/14",
-        "10/13",
-        "10/12"
-      ]
-    },
-    {
       "symbol": "2327",
       "name": "國巨",
       "days": 2,
@@ -261,6 +309,135 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOd2p1cUo5X2NXMXBNNEtqVGFaS3FLbUJrVXlXc0hKSHVkSFhIbjhuVVBiamhjNHFHZ2QwSnU3VEtoTWZjM25KR2xpU1IyMFhFQUpIQlVFTngtZGRBRUNKak9sQ2piVEh6XzEybVZJMlpyUTRLRTV6eXRHQ00wT29vclM3dDF5eURR",
+      "tkey": "熱門族群AI需求帶旺TPCAShow登場吸金富喬、台玻續攻高",
+      "title": "《熱門族群》AI需求帶旺 TPCA Show登場吸金 富喬、台玻續攻高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6336119001&PU=0033",
+      "source": "富聯網",
+      "pubDate": "Tue, 20 Oct 2026 03:15:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "出量再攻歷史新高價",
+          "status": "逼近新高",
+          "dist": -2.5,
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "10/19",
+            "10/16",
+            "10/15",
+            "10/14",
+            "10/13"
+          ]
+        },
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "再創波段新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "增量上攻",
+          "status": "高檔修正",
+          "dist": -12.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "8358",
+          "name": "金居",
+          "point": "早盤大漲再攻波段新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "5340",
+          "name": "建榮",
+          "point": "早盤大漲再攻波段新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "5475",
+          "name": "德宏",
+          "point": "強彈漲停",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "6269",
+          "name": "台郡",
+          "point": "強攻漲停",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 3,
+          "luwd": [
+            "10/16",
+            "10/15",
+            "10/14"
+          ]
+        },
+        {
+          "symbol": "5469",
+          "name": "瀚宇博",
+          "point": "續大漲",
+          "limitUp": false
+        },
+        {
+          "symbol": "8074",
+          "name": "鉅橡",
+          "point": "攻高壓回",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "10/19",
+            "10/16",
+            "10/15",
+            "10/14",
+            "10/13"
+          ]
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "載板廠將參展TPCA Show",
+          "limitUp": false
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "載板廠將參展TPCA Show",
+          "status": "高檔修正",
+          "dist": -14.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "2313",
+          "name": "華通",
+          "point": "硬板廠將參展TPCA Show",
+          "limitUp": false
+        },
+        {
+          "symbol": "2367",
+          "name": "燿華",
+          "point": "硬板廠將參展TPCA Show",
+          "limitUp": false
+        },
+        {
+          "symbol": "8021",
+          "name": "尖點",
+          "point": "鑽針廠將參展TPCA Show",
+          "limitUp": false
+        }
+      ],
+      "background": "台灣PCB產業受惠AI需求帶動成長，上游玻纖布、銅箔基板等原料供不應求，產業結構處於吃緊階段。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOV29MYjBKTWFUM3FIUl9mZzRpQUpUaUJtVXNWTlVaWVpmRnB2ZFA5RHFzYlU2LVM1X1ZMUkRLd2tqOEhabEpZS2VGVTA2UnFXTXlyeU9JdVFhVHZZYWVnSHRkdFdPdExSVWc3eEhmYWtyN2RnRFpaY1hoS0VQWEJhb2ZQVHJsM1pr",
       "tkey": "熱門族群面板雙虎逆勢出頭友達見到成交量第一",
