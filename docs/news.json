@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-20T14:02:50.812+08:00",
-  "generatedAt": "2026-10-20T06:02:50.812Z",
+  "asOf": "2026-10-20T16:05:37.712+08:00",
+  "generatedAt": "2026-10-20T08:05:37.712Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -76,6 +76,18 @@
       ]
     },
     {
+      "symbol": "3008",
+      "name": "大立光",
+      "days": 3,
+      "dates": [
+        "10/20",
+        "10/17",
+        "10/16"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "1815",
       "name": "富喬",
       "days": 3,
@@ -87,16 +99,7 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -2.5,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 5,
-      "luwd": [
-        "10/19",
-        "10/16",
-        "10/15",
-        "10/14",
-        "10/13"
-      ]
+      "limitUp": false
     },
     {
       "symbol": "1301",
@@ -144,6 +147,17 @@
       "limitUp": false
     },
     {
+      "symbol": "2059",
+      "name": "川湖",
+      "days": 2,
+      "dates": [
+        "10/20",
+        "10/16"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "8358",
       "name": "金居",
       "days": 2,
@@ -174,7 +188,16 @@
         "10/16"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9,
+      "luw": 5,
+      "luwd": [
+        "10/19",
+        "10/16",
+        "10/15",
+        "10/14",
+        "10/13"
+      ]
     },
     {
       "symbol": "3037",
@@ -246,20 +269,6 @@
       "limitUp": false
     },
     {
-      "symbol": "3008",
-      "name": "大立光",
-      "days": 2,
-      "dates": [
-        "10/17",
-        "10/16"
-      ],
-      "mentions": 2,
-      "luw": 1,
-      "luwd": [
-        "10/12"
-      ]
-    },
-    {
       "symbol": "2327",
       "name": "國巨",
       "days": 2,
@@ -310,6 +319,52 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxNX1ZVWDA1T013dlBxb09DOTBiZjVPRzRZSTNYckdFLVVKT3FfZHRWSXV6TldWZmNTV1hNcnZLUG5tTTNDdmpWT3cwN1N5TEtnNGhSWGhKczBlbklFQTdrMDdMWVR5U2UzR3hHZHRBd3hnT24xbm83Ulg4MS1VcmhqdW00QXpiaEJE",
+      "tkey": "熱門族群五大高價股冰火交鋒川湖返萬元、大立光跌落6字頭",
+      "title": "《熱門族群》五大高價股冰火交鋒 川湖返萬元、大立光跌落6字頭 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6336287001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 20 Oct 2026 05:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2059",
+          "name": "川湖",
+          "point": "重返萬元關卡",
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "跌破6000元關卡",
+          "limitUp": false
+        },
+        {
+          "symbol": "5274",
+          "name": "信驊",
+          "point": "由紅翻黑",
+          "limitUp": false
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "point": "由紅翻黑",
+          "status": "高檔修正",
+          "dist": -11.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "上漲1.37%",
+          "status": "高檔修正",
+          "dist": -10.6,
+          "limitUp": false
+        }
+      ],
+      "background": "高價股受台股大盤走弱影響，資金避風港概念受壓抑，新台幣貶值亦增添市場不安。",
+      "themeTags": []
+    },
+    {
       "gid": "CBMiiAFBVV95cUxOd2p1cUo5X2NXMXBNNEtqVGFaS3FLbUJrVXlXc0hKSHVkSFhIbjhuVVBiamhjNHFHZ2QwSnU3VEtoTWZjM25KR2xpU1IyMFhFQUpIQlVFTngtZGRBRUNKak9sQ2piVEh6XzEybVZJMlpyUTRLRTV6eXRHQ00wT29vclM3dDF5eURR",
       "tkey": "熱門族群AI需求帶旺TPCAShow登場吸金富喬、台玻續攻高",
       "title": "《熱門族群》AI需求帶旺 TPCA Show登場吸金 富喬、台玻續攻高 - 富聯網",
@@ -323,16 +378,7 @@
           "point": "出量再攻歷史新高價",
           "status": "逼近新高",
           "dist": -2.5,
-          "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "10/19",
-            "10/16",
-            "10/15",
-            "10/14",
-            "10/13"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "1802",
@@ -364,7 +410,16 @@
           "symbol": "5475",
           "name": "德宏",
           "point": "強彈漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "10/19",
+            "10/16",
+            "10/15",
+            "10/14",
+            "10/13"
+          ]
         },
         {
           "symbol": "6269",
@@ -389,16 +444,7 @@
           "symbol": "8074",
           "name": "鉅橡",
           "point": "攻高壓回",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "10/19",
-            "10/16",
-            "10/15",
-            "10/14",
-            "10/13"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3037",
