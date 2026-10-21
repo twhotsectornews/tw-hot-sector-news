@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-20T23:22:20.971+08:00",
-  "generatedAt": "2026-10-20T15:22:20.971Z",
+  "asOf": "2026-10-21T11:07:01.321+08:00",
+  "generatedAt": "2026-10-21T03:07:01.321Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -11,28 +11,44 @@
       "name": "南亞",
       "days": 5,
       "dates": [
-        "10/20",
-        "10/19",
-        "10/16",
-        "10/15",
-        "10/14"
-      ],
-      "mentions": 6,
-      "status": "高檔修正",
-      "dist": -12.7,
-      "limitUp": false
-    },
-    {
-      "symbol": "1802",
-      "name": "台玻",
-      "days": 4,
-      "dates": [
+        "10/21",
         "10/20",
         "10/19",
         "10/16",
         "10/15"
       ],
+      "mentions": 6,
+      "status": "逼近新高",
+      "dist": -8.4,
+      "limitUp": false
+    },
+    {
+      "symbol": "1802",
+      "name": "台玻",
+      "days": 5,
+      "dates": [
+        "10/21",
+        "10/20",
+        "10/19",
+        "10/16",
+        "10/15"
+      ],
+      "mentions": 5,
+      "limitUp": false
+    },
+    {
+      "symbol": "1815",
+      "name": "富喬",
+      "days": 4,
+      "dates": [
+        "10/21",
+        "10/20",
+        "10/16",
+        "10/15"
+      ],
       "mentions": 4,
+      "status": "逼近新高",
+      "dist": -6.5,
       "limitUp": false
     },
     {
@@ -40,98 +56,132 @@
       "name": "台郡",
       "days": 4,
       "dates": [
+        "10/21",
         "10/20",
         "10/18",
-        "10/17",
-        "10/14"
+        "10/17"
       ],
       "mentions": 4,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 3,
-      "luwd": [
-        "10/16",
-        "10/15",
-        "10/14"
-      ]
-    },
-    {
-      "symbol": "6505",
-      "name": "台塑化",
-      "days": 4,
-      "dates": [
-        "10/19",
-        "10/16",
-        "10/15",
-        "10/14"
-      ],
-      "mentions": 4,
-      "status": "逼近新高",
-      "dist": -6.6,
       "limitUp": false,
-      "luw": 2,
+      "luw": 4,
       "luwd": [
+        "10/20",
         "10/16",
-        "10/13"
+        "10/15",
+        "10/14"
       ]
     },
     {
       "symbol": "3008",
       "name": "大立光",
-      "days": 3,
+      "days": 4,
       "dates": [
+        "10/21",
         "10/20",
         "10/17",
+        "10/16"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "3037",
+      "name": "欣興",
+      "days": 3,
+      "dates": [
+        "10/21",
+        "10/20",
+        "10/16"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "5340",
+      "name": "建榮",
+      "days": 3,
+      "dates": [
+        "10/21",
+        "10/20",
         "10/16"
       ],
       "mentions": 3,
       "limitUp": false
     },
     {
-      "symbol": "1815",
-      "name": "富喬",
+      "symbol": "5475",
+      "name": "德宏",
       "days": 3,
       "dates": [
+        "10/21",
         "10/20",
+        "10/16"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "10/20",
+        "10/19",
+        "10/16",
+        "10/15",
+        "10/14"
+      ]
+    },
+    {
+      "symbol": "8358",
+      "name": "金居",
+      "days": 3,
+      "dates": [
+        "10/21",
+        "10/20",
+        "10/16"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2059",
+      "name": "川湖",
+      "days": 3,
+      "dates": [
+        "10/21",
+        "10/20",
+        "10/16"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "6505",
+      "name": "台塑化",
+      "days": 3,
+      "dates": [
+        "10/19",
         "10/16",
         "10/15"
       ],
       "mentions": 3,
       "status": "逼近新高",
-      "dist": -2.5,
+      "dist": -6.6,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/16"
+      ]
+    },
+    {
+      "symbol": "3189",
+      "name": "景碩",
+      "days": 2,
+      "dates": [
+        "10/21",
+        "10/20"
+      ],
+      "mentions": 3,
+      "status": "高檔修正",
+      "dist": -11.7,
       "limitUp": false
-    },
-    {
-      "symbol": "1301",
-      "name": "台塑",
-      "days": 3,
-      "dates": [
-        "10/19",
-        "10/15",
-        "10/14"
-      ],
-      "mentions": 3,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/14"
-      ]
-    },
-    {
-      "symbol": "1326",
-      "name": "台化",
-      "days": 3,
-      "dates": [
-        "10/19",
-        "10/15",
-        "10/14"
-      ],
-      "mentions": 3,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/14"
-      ]
     },
     {
       "symbol": "2330",
@@ -147,80 +197,98 @@
       "limitUp": false
     },
     {
-      "symbol": "2059",
-      "name": "川湖",
+      "symbol": "2313",
+      "name": "華通",
       "days": 2,
       "dates": [
-        "10/20",
-        "10/16"
+        "10/21",
+        "10/20"
       ],
       "mentions": 2,
       "limitUp": false
     },
     {
-      "symbol": "8358",
-      "name": "金居",
+      "symbol": "2367",
+      "name": "燿華",
       "days": 2,
       "dates": [
-        "10/20",
-        "10/16"
+        "10/21",
+        "10/20"
       ],
       "mentions": 2,
       "limitUp": false
     },
     {
-      "symbol": "5340",
-      "name": "建榮",
+      "symbol": "8021",
+      "name": "尖點",
       "days": 2,
       "dates": [
-        "10/20",
-        "10/16"
+        "10/21",
+        "10/20"
       ],
       "mentions": 2,
       "limitUp": false
     },
     {
-      "symbol": "5475",
-      "name": "德宏",
+      "symbol": "3406",
+      "name": "玉晶光",
       "days": 2,
       "dates": [
-        "10/20",
-        "10/16"
+        "10/21",
+        "10/17"
       ],
       "mentions": 2,
+      "status": "逼近新高",
+      "dist": -6.6,
       "limitUp": true,
-      "pct": 9.9,
-      "luw": 5,
-      "luwd": [
-        "10/19",
-        "10/16",
-        "10/15",
-        "10/14",
-        "10/13"
-      ]
+      "pct": 9.6
     },
     {
-      "symbol": "3037",
-      "name": "欣興",
+      "symbol": "5274",
+      "name": "信驊",
       "days": 2,
       "dates": [
-        "10/20",
+        "10/21",
+        "10/20"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3443",
+      "name": "創意",
+      "days": 2,
+      "dates": [
+        "10/21",
+        "10/20"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -8.3,
+      "limitUp": false
+    },
+    {
+      "symbol": "3665",
+      "name": "貿聯-KY",
+      "days": 2,
+      "dates": [
+        "10/21",
         "10/16"
       ],
       "mentions": 2,
       "limitUp": false
     },
     {
-      "symbol": "3711",
-      "name": "日月光",
+      "symbol": "8046",
+      "name": "南電",
       "days": 2,
       "dates": [
-        "10/20",
-        "10/14"
+        "10/21",
+        "10/16"
       ],
       "mentions": 2,
       "status": "高檔修正",
-      "dist": -12.5,
+      "dist": -13.8,
       "limitUp": false
     },
     {
@@ -237,21 +305,32 @@
       "limitUp": false
     },
     {
-      "symbol": "8039",
-      "name": "台虹",
+      "symbol": "1301",
+      "name": "台塑",
       "days": 2,
       "dates": [
-        "10/18",
-        "10/14"
+        "10/19",
+        "10/15"
       ],
       "mentions": 2,
-      "status": "高檔修正",
-      "dist": -14.4,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 2,
+      "limitUp": false,
+      "luw": 1,
       "luwd": [
-        "10/16",
+        "10/14"
+      ]
+    },
+    {
+      "symbol": "1326",
+      "name": "台化",
+      "days": 2,
+      "dates": [
+        "10/19",
+        "10/15"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
         "10/14"
       ]
     },
@@ -267,57 +346,232 @@
       "status": "逼近新高",
       "dist": -2.3,
       "limitUp": false
-    },
-    {
-      "symbol": "2327",
-      "name": "國巨",
-      "days": 2,
-      "dates": [
-        "10/16",
-        "10/14"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "1312",
-      "name": "國喬",
-      "days": 2,
-      "dates": [
-        "10/15",
-        "10/14"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/13"
-      ]
-    },
-    {
-      "symbol": "1304",
-      "name": "台聚",
-      "days": 2,
-      "dates": [
-        "10/15",
-        "10/14"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "1309",
-      "name": "台達化",
-      "days": 2,
-      "dates": [
-        "10/15",
-        "10/14"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNQVVoeGxsbWNEQjNYbDBFT2dYNDVNdDZtSXQ1cXlmZWVQNGFMWkVZa1BPUzVyNDRTTEJxMjV3dEk4QXViaUxDb3FNOC1qdFRZVElMUUw3N0tRQ1QwbGxmOXlxQkF0dkcyNTVJTkEyT1ZnMWlVZEVPN2ZwajZOaVNKQTRfbXV5Ynkw",
+      "tkey": "熱門族群TPCAShow助攻南亞重啟漲勢、聯茂、騰輝攻頂",
+      "title": "《熱門族群》TPCA Show助攻 南亞重啟漲勢、聯茂、騰輝攻頂 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6337181001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 21 Oct 2026 02:47:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "重啟大漲氣勢",
+          "status": "逼近新高",
+          "dist": -8.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "6213",
+          "name": "聯茂",
+          "point": "受惠高階CCL需求強勁拚擴產",
+          "status": "逼近新高",
+          "dist": -4.1,
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "6672",
+          "name": "騰輝電子-KY",
+          "point": "挾籌碼集中優勢強勢漲停",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/14"
+          ]
+        },
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "漲多出現震盪",
+          "status": "逼近新高",
+          "dist": -6.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "受惠AI驅動PCB兆元商機",
+          "limitUp": false
+        },
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "開高拉回",
+          "limitUp": false
+        },
+        {
+          "symbol": "5340",
+          "name": "建榮",
+          "point": "壓回整理",
+          "limitUp": false
+        },
+        {
+          "symbol": "5475",
+          "name": "德宏",
+          "point": "壓回整理",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "10/20",
+            "10/19",
+            "10/16",
+            "10/15",
+            "10/14"
+          ]
+        },
+        {
+          "symbol": "6269",
+          "name": "台郡",
+          "point": "搭上PTFE題材",
+          "limitUp": false,
+          "luw": 4,
+          "luwd": [
+            "10/20",
+            "10/16",
+            "10/15",
+            "10/14"
+          ]
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "參展TPCA Show",
+          "status": "高檔修正",
+          "dist": -11.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "2313",
+          "name": "華通",
+          "point": "參展TPCA Show",
+          "limitUp": false
+        },
+        {
+          "symbol": "2367",
+          "name": "燿華",
+          "point": "參展TPCA Show",
+          "limitUp": false
+        },
+        {
+          "symbol": "8358",
+          "name": "金居",
+          "point": "參展TPCA Show",
+          "limitUp": false
+        },
+        {
+          "symbol": "8021",
+          "name": "尖點",
+          "point": "參展TPCA Show",
+          "limitUp": false
+        }
+      ],
+      "background": "PCB產業受AI帶動成長，TPCA Show助陣，上游玻纖布、銅箔基板等人氣續旺，高階板材需求看好至2029-2030年。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPY2Fhc2J4OWo3dzBJYnVJRWVIU3oweTZHS3c5R0p4T0RkSVJiNjE0c2Y2NUdCc1hhNl8wYnFVYXdqQnlQcFdjTFlIcHRVdXJ3Q1dSTENueUtjRkd4dDV5aENnQ2dsM1JqNV9TNDlzdXZxOUQ4S2pxLW5yTmRIRmU4N3BqcmdKYXZP",
+      "tkey": "熱門族群千金股多頭歸隊玉晶光帶隊4檔亮紅燈",
+      "title": "《熱門族群》千金股多頭歸隊 玉晶光帶隊4檔亮紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6337145001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 21 Oct 2026 02:13:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "率先攻上漲停",
+          "status": "逼近新高",
+          "dist": -6.6,
+          "limitUp": true,
+          "pct": 9.6
+        },
+        {
+          "symbol": "5274",
+          "name": "信驊",
+          "point": "領軍上攻飆漲逾4%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2059",
+          "name": "川湖",
+          "point": "延續漲勢穩居萬元大關",
+          "limitUp": false
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "point": "強勢跨越8000元關卡",
+          "status": "逼近新高",
+          "dist": -8.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "收復失土展現買盤回流",
+          "limitUp": false
+        },
+        {
+          "symbol": "8996",
+          "name": "高力",
+          "point": "接力亮燈漲停",
+          "status": "逼近新高",
+          "dist": -5.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "3491",
+          "name": "昇達科",
+          "point": "接力亮燈漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "接力亮燈漲停",
+          "status": "高檔修正",
+          "dist": -11.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "見到9%漲幅",
+          "limitUp": false
+        },
+        {
+          "symbol": "6805",
+          "name": "富世達",
+          "point": "漲幅超過5%",
+          "limitUp": false
+        },
+        {
+          "symbol": "3665",
+          "name": "貿聯-KY",
+          "point": "漲幅超過5%",
+          "limitUp": false
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "漲幅超過5%",
+          "status": "高檔修正",
+          "dist": -13.8,
+          "limitUp": false
+        }
+      ],
+      "background": "國際油價回落激勵美股反攻，帶動台股千金高價股全面回神，多檔高價電子股多點開花，成為多頭反攻重要指標。",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxNX1ZVWDA1T013dlBxb09DOTBiZjVPRzRZSTNYckdFLVVKT3FfZHRWSXV6TldWZmNTV1hNcnZLUG5tTTNDdmpWT3cwN1N5TEtnNGhSWGhKczBlbklFQTdrMDdMWVR5U2UzR3hHZHRBd3hnT24xbm83Ulg4MS1VcmhqdW00QXpiaEJE",
       "tkey": "熱門族群五大高價股冰火交鋒川湖返萬元、大立光跌落6字頭",
@@ -414,11 +668,11 @@
           "pct": 9.9,
           "luw": 5,
           "luwd": [
+            "10/20",
             "10/19",
             "10/16",
             "10/15",
-            "10/14",
-            "10/13"
+            "10/14"
           ]
         },
         {
@@ -427,8 +681,9 @@
           "point": "強攻漲停",
           "limitUp": true,
           "pct": 10,
-          "luw": 3,
+          "luw": 4,
           "luwd": [
+            "10/20",
             "10/16",
             "10/15",
             "10/14"
@@ -539,113 +794,6 @@
       "themeTags": [
         "需求驅動"
       ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNMk9wa1E1Smh1WGhRdkRGQjkyNk5XdVJ2YjU2S2lGVFBaelFDazA3SW01NEltWkl5bU9FbjgzVV9nTG5JZnh6S2VmZ3pHZjNDdjl4NWJtTWVuekVwWXdyaHFtSHVrODB3Rm0wSVM5cFJwQTdQei04ck5lZHVnSUl1amxIV1gtRnNy",
-      "tkey": "熱門族群金控股避風港失靈僅靠玉山金、兆豐金扛住",
-      "title": "《熱門族群》金控股避風港失靈 僅靠玉山金、兆豐金扛住 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6335198001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Mon, 19 Oct 2026 05:47:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2884",
-          "name": "玉山金",
-          "point": "金控股中扛住跌勢",
-          "status": "逼近新高",
-          "dist": -1.2,
-          "limitUp": false
-        },
-        {
-          "symbol": "2886",
-          "name": "兆豐金",
-          "point": "金控股中扛住跌勢",
-          "status": "逼近新高",
-          "dist": -0.9,
-          "limitUp": false
-        }
-      ],
-      "background": "金控股因其穩健特性，常被視為市場避風港，但在特定市場環境下，仍可能面臨挑戰，僅部分個股能維持穩定。",
-      "themeTags": []
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNSUgwUF9oem1iOFBLMWJkSTBVUGJZQlVmdmhMamVvOUZrcUFwUUZCc1VqOXdQdzBOTHZ4Wk45cElhV1pxYWxfczRRV0ZONTJBMmplMDc1YzVFbXpPUzQzblRKY0NnMWpDemRDUE5Id1RQY0lZc0YweFdCZ2Z6Y2s5R3dMN3AweTlB",
-      "tkey": "熱門族群資金轉進玻纖布、銅箔富喬攻漲停、台玻創高",
-      "title": "《熱門族群》資金轉進玻纖布、銅箔 富喬攻漲停、台玻創高 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6335000001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Mon, 19 Oct 2026 02:34:00 GMT",
-      "stocks": [
-        {
-          "symbol": "8182",
-          "name": "富喬",
-          "point": "攻漲停",
-          "limitUp": false
-        },
-        {
-          "symbol": "1802",
-          "name": "台玻",
-          "point": "創高",
-          "limitUp": false
-        }
-      ],
-      "background": "玻纖布與銅箔為電子產業關鍵材料，受惠於終端需求回溫，帶動相關供應鏈股價表現。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxOcll4WDlycU5nbTlQU2dCdUplWXdzQ3ljUk4zU2VOOHVsbVhFdmpZU0JtY1Z2eGFVckl1dmZQdlNHQVRMTWROempheHkxX1ktemZ4UW9TUlMtdXpIaFRkMEdFUm1DTC0xY0Q3dE12VG5qWXI4dlM5ZjZFQkdXM19oSkZMaFFYblVa",
-      "tkey": "熱門族群油價題材救不了！台塑化衝高翻黑台塑四寶全面承壓",
-      "title": "《熱門族群》油價題材救不了！台塑化衝高翻黑 台塑四寶全面承壓 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6334984001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Mon, 19 Oct 2026 02:17:00 GMT",
-      "stocks": [
-        {
-          "symbol": "6505",
-          "name": "台塑化",
-          "point": "衝高翻黑",
-          "status": "逼近新高",
-          "dist": -6.6,
-          "limitUp": false,
-          "luw": 2,
-          "luwd": [
-            "10/16",
-            "10/13"
-          ]
-        },
-        {
-          "symbol": "1301",
-          "name": "台塑",
-          "point": "四寶全面承壓",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "10/14"
-          ]
-        },
-        {
-          "symbol": "1303",
-          "name": "南亞",
-          "point": "四寶全面承壓",
-          "status": "高檔修正",
-          "dist": -13.3,
-          "limitUp": false
-        },
-        {
-          "symbol": "1326",
-          "name": "台化",
-          "point": "四寶全面承壓",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "10/14"
-          ]
-        }
-      ],
-      "background": "油價波動影響塑化產品報價，台塑四寶營運受油價題材與市場需求影響，面臨獲利壓力。",
-      "themeTags": []
     }
   ]
 }

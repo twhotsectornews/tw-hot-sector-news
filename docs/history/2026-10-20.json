@@ -1,0 +1,229 @@
+{
+  "date": "2026-10-20",
+  "updatedAt": "2026-10-21T03:07:01.313Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNX1ZVWDA1T013dlBxb09DOTBiZjVPRzRZSTNYckdFLVVKT3FfZHRWSXV6TldWZmNTV1hNcnZLUG5tTTNDdmpWT3cwN1N5TEtnNGhSWGhKczBlbklFQTdrMDdMWVR5U2UzR3hHZHRBd3hnT24xbm83Ulg4MS1VcmhqdW00QXpiaEJE",
+      "tkey": "熱門族群五大高價股冰火交鋒川湖返萬元、大立光跌落6字頭",
+      "title": "《熱門族群》五大高價股冰火交鋒 川湖返萬元、大立光跌落6字頭 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6336287001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 20 Oct 2026 05:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2059",
+          "name": "川湖",
+          "point": "重返萬元關卡",
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "跌破6000元關卡",
+          "limitUp": false
+        },
+        {
+          "symbol": "5274",
+          "name": "信驊",
+          "point": "由紅翻黑",
+          "limitUp": false
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "point": "由紅翻黑",
+          "status": "高檔修正",
+          "dist": -11.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "上漲1.37%",
+          "status": "高檔修正",
+          "dist": -10.6,
+          "limitUp": false
+        }
+      ],
+      "background": "高價股受台股大盤走弱影響，資金避風港概念受壓抑，新台幣貶值亦增添市場不安。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOd2p1cUo5X2NXMXBNNEtqVGFaS3FLbUJrVXlXc0hKSHVkSFhIbjhuVVBiamhjNHFHZ2QwSnU3VEtoTWZjM25KR2xpU1IyMFhFQUpIQlVFTngtZGRBRUNKak9sQ2piVEh6XzEybVZJMlpyUTRLRTV6eXRHQ00wT29vclM3dDF5eURR",
+      "tkey": "熱門族群AI需求帶旺TPCAShow登場吸金富喬、台玻續攻高",
+      "title": "《熱門族群》AI需求帶旺 TPCA Show登場吸金 富喬、台玻續攻高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6336119001&PU=0033",
+      "source": "富聯網",
+      "pubDate": "Tue, 20 Oct 2026 03:15:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "出量再攻歷史新高價",
+          "status": "逼近新高",
+          "dist": -2.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "再創波段新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "增量上攻",
+          "status": "高檔修正",
+          "dist": -12.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "8358",
+          "name": "金居",
+          "point": "早盤大漲再攻波段新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "5340",
+          "name": "建榮",
+          "point": "早盤大漲再攻波段新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "5475",
+          "name": "德宏",
+          "point": "強彈漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "10/20",
+            "10/19",
+            "10/16",
+            "10/15",
+            "10/14"
+          ]
+        },
+        {
+          "symbol": "6269",
+          "name": "台郡",
+          "point": "強攻漲停",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 4,
+          "luwd": [
+            "10/20",
+            "10/16",
+            "10/15",
+            "10/14"
+          ]
+        },
+        {
+          "symbol": "5469",
+          "name": "瀚宇博",
+          "point": "續大漲",
+          "limitUp": false
+        },
+        {
+          "symbol": "8074",
+          "name": "鉅橡",
+          "point": "攻高壓回",
+          "limitUp": false
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "載板廠將參展TPCA Show",
+          "limitUp": false
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "載板廠將參展TPCA Show",
+          "status": "高檔修正",
+          "dist": -14.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "2313",
+          "name": "華通",
+          "point": "硬板廠將參展TPCA Show",
+          "limitUp": false
+        },
+        {
+          "symbol": "2367",
+          "name": "燿華",
+          "point": "硬板廠將參展TPCA Show",
+          "limitUp": false
+        },
+        {
+          "symbol": "8021",
+          "name": "尖點",
+          "point": "鑽針廠將參展TPCA Show",
+          "limitUp": false
+        }
+      ],
+      "background": "台灣PCB產業受惠AI需求帶動成長，上游玻纖布、銅箔基板等原料供不應求，產業結構處於吃緊階段。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOV29MYjBKTWFUM3FIUl9mZzRpQUpUaUJtVXNWTlVaWVpmRnB2ZFA5RHFzYlU2LVM1X1ZMUkRLd2tqOEhabEpZS2VGVTA2UnFXTXlyeU9JdVFhVHZZYWVnSHRkdFdPdExSVWc3eEhmYWtyN2RnRFpaY1hoS0VQWEJhb2ZQVHJsM1pr",
+      "tkey": "熱門族群面板雙虎逆勢出頭友達見到成交量第一",
+      "title": "《熱門族群》面板雙虎逆勢出頭 友達見到成交量第一 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6336067001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 20 Oct 2026 02:30:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "成交量第一，積極布局AI四支箭",
+          "limitUp": false
+        },
+        {
+          "symbol": "3481",
+          "name": "群創",
+          "point": "加入矽光子產業聯盟，深化技術整合",
+          "limitUp": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "權王下探，發起矽光子產業聯盟",
+          "status": "逼近新高",
+          "dist": -7.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "3711",
+          "name": "日月光",
+          "point": "發起矽光子產業聯盟",
+          "status": "高檔修正",
+          "dist": -12.5,
+          "limitUp": false
+        }
+      ],
+      "background": "面板雙虎友達與群創在台股震盪中逆勢走強，受惠於轉型題材與AI應用布局，並積極參與矽光子等新技術發展。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTFBIN3JYM0VpZEdRZHdNajZ1VUlwcGJLT1BoRmNydjVRbVY4N3o4ZVZMQWltcVRyVW5pcGxuaVAzWnBRcjBVRGJBNkMyQ29ITmRTb0hqTG9NeXA",
+      "tkey": "熱門族群AI盡頭是電力重電族群扮演基建要角",
+      "title": "熱門族群》 AI盡頭是電力 重電族群扮演基建要角 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/qjy05zlmpyf6",
+      "source": "自由時報",
+      "pubDate": "Tue, 20 Oct 2026 00:49:08 GMT",
+      "stocks": [],
+      "background": "AI 發展對電力需求日益增加，重電族群作為電力基礎設施的關鍵供應商，將受益於全球電網升級與能源轉型趨勢。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}
