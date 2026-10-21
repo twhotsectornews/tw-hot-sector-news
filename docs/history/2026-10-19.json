@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "updatedAt": "2026-10-21T03:07:01.318Z",
+  "updatedAt": "2026-10-21T04:07:48.359Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNMk9wa1E1Smh1WGhRdkRGQjkyNk5XdVJ2YjU2S2lGVFBaelFDazA3SW01NEltWkl5bU9FbjgzVV9nTG5JZnh6S2VmZ3pHZjNDdjl4NWJtTWVuekVwWXdyaHFtSHVrODB3Rm0wSVM5cFJwQTdQei04ck5lZHVnSUl1amxIV1gtRnNy",
@@ -29,6 +29,83 @@
       ],
       "background": "金控股因其穩健特性，常被視為市場避風港，但在特定市場環境下，仍可能面臨挑戰，僅部分個股能維持穩定。",
       "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPOF9PYmZxaXliQXBqWm44aWZqT3JkcG9QNDlYRXhSSDVuZWZSMzFseTlYR05kV01YRnpOQXRsb3A3a3R3T2dtZlNtSGZJcVMxMGZneU10S3lDVWU1UFprS1F4T3ZJeEdWLURTQmdmZkNMeUFsb3FvbEhxZG9jUDI4ZmVaNFVyMjhM",
+      "tkey": "熱門族群金控股避風港失靈僅靠玉山金、兆豐金扛住",
+      "title": "《熱門族群》金控股避風港失靈 僅靠玉山金、兆豐金扛住 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6335198001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 19 Oct 2026 05:47:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2884",
+          "name": "玉山金",
+          "point": "逆勢收紅",
+          "status": "逼近新高",
+          "dist": -1.6
+        },
+        {
+          "symbol": "2886",
+          "name": "兆豐金",
+          "point": "逆勢收紅",
+          "status": "逼近新高",
+          "dist": -2
+        },
+        {
+          "symbol": "2891",
+          "name": "中信金",
+          "point": "不敵賣壓收黑",
+          "status": "逼近新高",
+          "dist": -1.9
+        },
+        {
+          "symbol": "2881",
+          "name": "富邦金",
+          "point": "跌幅逾1%",
+          "status": "逼近新高",
+          "dist": -5.2
+        },
+        {
+          "symbol": "2882",
+          "name": "國泰金",
+          "point": "跌幅逾1%",
+          "status": "逼近新高",
+          "dist": -4.2
+        },
+        {
+          "symbol": "2883",
+          "name": "凱基金",
+          "point": "跌幅逾1%",
+          "status": "逼近新高",
+          "dist": -7.7
+        },
+        {
+          "symbol": "2885",
+          "name": "元大金",
+          "point": "跌幅逾1%",
+          "status": "逼近新高",
+          "dist": -4.4
+        },
+        {
+          "symbol": "5880",
+          "name": "合庫金",
+          "point": "外資買超居冠",
+          "status": "逼近新高",
+          "dist": -1.6
+        },
+        {
+          "symbol": "2892",
+          "name": "第一金",
+          "point": "投信買超",
+          "status": "逼近新高",
+          "dist": -2.3
+        }
+      ],
+      "background": "金控股前三季獲利創新高，但短線漲勢後面臨獲利了結壓力，避風港角色失靈，僅少數個股逆勢收紅。",
+      "themeTags": [
+        "循環位置"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxNSUgwUF9oem1iOFBLMWJkSTBVUGJZQlVmdmhMamVvOUZrcUFwUUZCc1VqOXdQdzBOTHZ4Wk45cElhV1pxYWxfczRRV0ZONTJBMmplMDc1YzVFbXpPUzQzblRKY0NnMWpDemRDUE5Id1RQY0lZc0YweFdCZ2Z6Y2s5R3dMN3AweTlB",
