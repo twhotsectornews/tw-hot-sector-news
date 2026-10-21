@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-21T13:04:22.473+08:00",
-  "generatedAt": "2026-10-21T05:04:22.473Z",
+  "asOf": "2026-10-21T14:03:57.467+08:00",
+  "generatedAt": "2026-10-21T06:03:57.467Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -118,7 +118,8 @@
         "10/16"
       ],
       "mentions": 3,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 5,
       "luwd": [
         "10/20",
@@ -421,8 +422,7 @@
           "symbol": "8042",
           "name": "金山電",
           "point": "攻上漲停",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "3624",
@@ -441,8 +441,7 @@
           "symbol": "5228",
           "name": "鈺鎧",
           "point": "攻上漲停創波段新高",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "2327",
@@ -496,7 +495,8 @@
           "point": "天價攻頂",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 1,
           "luwd": [
             "10/14"
@@ -579,7 +579,8 @@
           "point": "受惠高階CCL需求強勁拚擴產",
           "status": "逼近新高",
           "dist": -4.1,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6672",
@@ -587,7 +588,8 @@
           "point": "挾籌碼集中優勢強勢漲停",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 1,
           "luwd": [
             "10/14"
@@ -623,7 +625,8 @@
           "symbol": "5475",
           "name": "德宏",
           "point": "壓回整理",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "10/20",
