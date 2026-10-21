@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-21T22:27:55.230+08:00",
-  "generatedAt": "2026-10-21T14:27:55.230Z",
+  "asOf": "2026-10-21T23:35:44.173+08:00",
+  "generatedAt": "2026-10-21T15:35:44.173Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -388,6 +388,19 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE5HUnUzUHNBZW5NYy15VGw0S05TT2lPWXhwUmZ4R0M0Y3N2MmYtQm9Qb0owNFlGY1dnMHV5anVGNUxaM1ptMzkwNkhUM2Z6RE5RQ1ZOV2taYVE",
+      "tkey": "熱門族群金光閃閃！金融股指數今年大漲56.64％",
+      "title": "熱門族群》金光閃閃！金融股指數今年大漲56.64％ - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/lblbyevy1uja",
+      "source": "自由時報",
+      "pubDate": "Wed, 21 Oct 2026 12:49:40 GMT",
+      "stocks": [],
+      "background": "金融股今年表現強勁，主要受惠於升息環境帶動利差擴大，以及全球經濟復甦預期，資產品質改善。",
+      "themeTags": [
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPNF95Z2NhWFdVelNhSGhtYmlMOVk5TTNXM295Q3dFcEJOSzgzWHI2THVlUmxuR1IteTNRYXB6aGJoem51VXNwV3lLZGdkMjU1THktTVZ6ME51QUFtVUpuUHg1YlJ4RmhfOHB0Um9rQ0QyYV9kZXpPdDJMSDVOaE5OZEhZYTJhX0wz",
       "tkey": "熱門族群SpaceX財報報喜萊德光電、騰輝電子-KY漲停",
