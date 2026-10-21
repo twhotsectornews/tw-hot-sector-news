@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updatedAt": "2026-10-21T04:07:48.358Z",
+  "updatedAt": "2026-10-21T05:04:22.469Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE9HZGZFVFJDS0I1Y2RZQW1xSDUtb29GUUx4a0hxUlBNMlp6TXFERWpUWXBrOGxRZXJBX19LSTc4SHR6Q0RabHZOY3Jienp2RmlGZV9BaUtTd0Q",
@@ -195,7 +195,9 @@
           "symbol": "2409",
           "name": "友達",
           "point": "成交量第一，積極布局AI四支箭",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14.6
         },
         {
           "symbol": "3481",
