@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-21T14:03:57.467+08:00",
-  "generatedAt": "2026-10-21T06:03:57.467Z",
+  "asOf": "2026-10-21T16:05:29.010+08:00",
+  "generatedAt": "2026-10-21T08:05:29.010Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -118,16 +118,7 @@
         "10/16"
       ],
       "mentions": 3,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 5,
-      "luwd": [
-        "10/20",
-        "10/19",
-        "10/16",
-        "10/15",
-        "10/14"
-      ]
+      "limitUp": false
     },
     {
       "symbol": "8358",
@@ -398,6 +389,49 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxPNF95Z2NhWFdVelNhSGhtYmlMOVk5TTNXM295Q3dFcEJOSzgzWHI2THVlUmxuR1IteTNRYXB6aGJoem51VXNwV3lLZGdkMjU1THktTVZ6ME51QUFtVUpuUHg1YlJ4RmhfOHB0Um9rQ0QyYV9kZXpPdDJMSDVOaE5OZEhZYTJhX0wz",
+      "tkey": "熱門族群SpaceX財報報喜萊德光電、騰輝電子-KY漲停",
+      "title": "《熱門族群》SpaceX財報報喜 萊德光電、騰輝電子-KY漲停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6337479001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 21 Oct 2026 07:14:00 GMT",
+      "stocks": [
+        {
+          "symbol": "7717",
+          "name": "萊德光電",
+          "point": "SpaceX概念股，帶頭攻漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "10/20",
+            "10/19",
+            "10/16",
+            "10/15",
+            "10/14"
+          ]
+        },
+        {
+          "symbol": "6672",
+          "name": "騰輝電子-KY",
+          "point": "SpaceX概念股，帶頭攻漲停",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "10/14"
+          ]
+        }
+      ],
+      "background": "SpaceX財報轉虧為盈，加上與特斯拉合併可能性，為低軌衛星族群注入人氣，帶動相關概念股上漲。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNLVVnWmNqUkFGaUxndi1XQy1MM24wMlFjamFUeHZHQjYwQy1mb0g5TGltVUlTcXB4R3VMdEc5V3RmNnpCdC1Pd08zZFdnenN5MC10cGJPeXRzX0xsLVpiaUw5OG9mNDc5V2VKekNla3BXMzV5Zm1nV2l3aTBVNW5FUWd2Yl9Zbk9M",
       "tkey": "熱門族群被動元件隨台股反攻華新科、信昌電等多檔攻漲停",
       "title": "《熱門族群》被動元件隨台股反攻 華新科、信昌電等多檔攻漲停 - 富聯網",
@@ -416,19 +450,46 @@
           "symbol": "6173",
           "name": "信昌電",
           "point": "攻上漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 5,
+          "luwd": [
+            "10/20",
+            "10/19",
+            "10/16",
+            "10/15",
+            "10/14"
+          ]
         },
         {
           "symbol": "8042",
           "name": "金山電",
           "point": "攻上漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "10/20",
+            "10/19",
+            "10/16",
+            "10/15",
+            "10/14"
+          ]
         },
         {
           "symbol": "3624",
           "name": "光頡",
           "point": "攻上漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "10/20",
+            "10/19",
+            "10/16",
+            "10/15",
+            "10/14"
+          ]
         },
         {
           "symbol": "6155",
@@ -441,7 +502,16 @@
           "symbol": "5228",
           "name": "鈺鎧",
           "point": "攻上漲停創波段新高",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "10/20",
+            "10/19",
+            "10/16",
+            "10/15",
+            "10/14"
+          ]
         },
         {
           "symbol": "2327",
@@ -512,7 +582,16 @@
           "symbol": "7717",
           "name": "萊德光電-KY",
           "point": "閃紅燈",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "10/20",
+            "10/19",
+            "10/16",
+            "10/15",
+            "10/14"
+          ]
         },
         {
           "symbol": "2312",
@@ -625,16 +704,7 @@
           "symbol": "5475",
           "name": "德宏",
           "point": "壓回整理",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "10/20",
-            "10/19",
-            "10/16",
-            "10/15",
-            "10/14"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "6269",
@@ -901,15 +971,7 @@
           "name": "德宏",
           "point": "強彈漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "10/20",
-            "10/19",
-            "10/16",
-            "10/15",
-            "10/14"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6269",
