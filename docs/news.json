@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-22T17:42:28.085+08:00",
-  "generatedAt": "2026-10-22T09:42:28.085Z",
+  "asOf": "2026-10-22T18:41:36.854+08:00",
+  "generatedAt": "2026-10-22T10:41:36.854Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -60,6 +60,21 @@
         "10/16"
       ],
       "mentions": 5,
+      "limitUp": false
+    },
+    {
+      "symbol": "2891",
+      "name": "中信金",
+      "days": 4,
+      "dates": [
+        "10/22",
+        "10/19",
+        "10/18",
+        "10/16"
+      ],
+      "mentions": 4,
+      "status": "逼近新高",
+      "dist": -0.8,
       "limitUp": false
     },
     {
@@ -162,6 +177,34 @@
       "limitUp": false
     },
     {
+      "symbol": "2882",
+      "name": "國泰金",
+      "days": 3,
+      "dates": [
+        "10/22",
+        "10/19",
+        "10/18"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -3.8,
+      "limitUp": false
+    },
+    {
+      "symbol": "2885",
+      "name": "元大金",
+      "days": 3,
+      "dates": [
+        "10/22",
+        "10/19",
+        "10/18"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -2.4,
+      "limitUp": false
+    },
+    {
       "symbol": "8021",
       "name": "尖點",
       "days": 3,
@@ -198,19 +241,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2891",
-      "name": "中信金",
-      "days": 3,
-      "dates": [
-        "10/19",
-        "10/18",
-        "10/16"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -0.9
-    },
-    {
       "symbol": "6672",
       "name": "騰輝電子-KY",
       "days": 2,
@@ -226,6 +256,19 @@
       "luwd": [
         "10/21"
       ]
+    },
+    {
+      "symbol": "2886",
+      "name": "兆豐金",
+      "days": 2,
+      "dates": [
+        "10/22",
+        "10/19"
+      ],
+      "mentions": 3,
+      "status": "創新高",
+      "dist": -0.4,
+      "limitUp": false
     },
     {
       "symbol": "2383",
@@ -335,58 +378,29 @@
       "limitUp": false
     },
     {
-      "symbol": "3653",
-      "name": "健策",
+      "symbol": "2883",
+      "name": "凱基金",
       "days": 2,
       "dates": [
         "10/22",
-        "10/20"
+        "10/19"
       ],
       "mentions": 2,
+      "status": "逼近新高",
+      "dist": -7.5,
       "limitUp": false
     },
     {
-      "symbol": "6669",
-      "name": "緯穎",
+      "symbol": "2892",
+      "name": "第一金",
       "days": 2,
       "dates": [
         "10/22",
-        "10/16"
+        "10/19"
       ],
       "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3105",
-      "name": "穩懋",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/17"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "6271",
-      "name": "同欣電",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/21"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2327",
-      "name": "國巨",
-      "days": 2,
-      "dates": [
-        "10/21",
-        "10/16"
-      ],
-      "mentions": 2,
+      "status": "創新高",
+      "dist": -0.1,
       "limitUp": false
     }
   ],
@@ -439,6 +453,134 @@
       "background": "ABS、EVA等石化產品受油價區間震盪及成本支撐，報價走揚。大陸需求增加與供應減少，使相關廠商營運有撐。",
       "themeTags": [
         "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQb1BBYkVqUktvM2hYZ21rLVMzUjhoajU3dng0TWpzNWRTNTljTmJjTmJyQlBnNXk1cGc4RVR6MjgtUllwbTdtMTFCRm9SbVRHNUdlNWxBUHhDS1hoT241aVlOTDBzbnZlZ1F4cHBOX2x0QlBqNFd3eWdSTzdfSndvRi15eHJxRlV3",
+      "tkey": "熱門族群台股破底、金控登頂！兆豐金領5檔創天價",
+      "title": "《熱門族群》台股破底、金控登頂！兆豐金領5檔創天價 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6338464001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 22 Oct 2026 05:51:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2882",
+          "name": "國泰金",
+          "point": "金控股中收黑",
+          "status": "逼近新高",
+          "dist": -3.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "2883",
+          "name": "凱基金",
+          "point": "金控股中收黑",
+          "status": "逼近新高",
+          "dist": -7.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "2880",
+          "name": "華南金",
+          "point": "股價齊創歷史新高",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false
+        },
+        {
+          "symbol": "2886",
+          "name": "兆豐金",
+          "point": "股價齊創歷史新高",
+          "status": "創新高",
+          "dist": -0.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "2892",
+          "name": "第一金",
+          "point": "股價齊創歷史新高",
+          "status": "創新高",
+          "dist": -0.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "2890",
+          "name": "永豐金",
+          "point": "股價齊創歷史新高",
+          "status": "逼近新高",
+          "dist": -0.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "2891",
+          "name": "中信金",
+          "point": "股價齊創歷史新高",
+          "status": "逼近新高",
+          "dist": -0.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "2885",
+          "name": "元大金",
+          "point": "獲利年增率突破100%",
+          "status": "逼近新高",
+          "dist": -2.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "2889",
+          "name": "國票金",
+          "point": "獲利年增率突破100%",
+          "status": "逼近新高",
+          "dist": -3.1,
+          "limitUp": false
+        }
+      ],
+      "background": "台股大盤重挫，資金轉向金融股尋求避險，金控業前三季獲利表現優於去年同期，支撐股價逆勢走強。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPbUltaUNQX1djVFZaVHczVjVjU1dudFJLYnVzdFRPbUIyMzRsSDlOakRKdkF3b1FPWG45Q1pDQ0Y0ZUk5WkpKd2QzU3RWN3l2ZkxHcGdQc0RHZ0hwZkJTWkpuYUYwWXdXN2VBUno2Xzk5Rkd4a1d3bXRJMENuUmhUaV9TdWhudE40",
+      "tkey": "熱門族群愛迪達營運衝高調升財測！5台廠供應鏈獲利大進補",
+      "title": "《熱門族群》愛迪達營運衝高調升財測！「5台廠供應鏈」獲利大進補 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6338455001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 22 Oct 2026 05:43:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1307",
+          "name": "三芳",
+          "point": "愛迪達供應鏈獲利大進補",
+          "limitUp": false
+        },
+        {
+          "symbol": "5450",
+          "name": "南良",
+          "point": "愛迪達供應鏈獲利大進補",
+          "limitUp": false
+        },
+        {
+          "symbol": "4303",
+          "name": "信立",
+          "point": "愛迪達供應鏈獲利大進補",
+          "limitUp": false
+        },
+        {
+          "symbol": "4766",
+          "name": "南寶",
+          "point": "愛迪達供應鏈獲利大進補",
+          "limitUp": false
+        },
+        {
+          "symbol": "4714",
+          "name": "永捷",
+          "point": "愛迪達供應鏈獲利大進補",
+          "limitUp": false
+        }
+      ],
+      "background": "愛迪達因高售價與關稅退稅，營收獲利創新高並上調財測，帶動其台廠供應鏈營運加分。",
+      "themeTags": [
+        "國際大廠"
       ]
     },
     {
