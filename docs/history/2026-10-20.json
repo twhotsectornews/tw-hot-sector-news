@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updatedAt": "2026-10-22T04:06:26.895Z",
+  "updatedAt": "2026-10-22T05:04:27.984Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE9HZGZFVFJDS0I1Y2RZQW1xSDUtb29GUUx4a0hxUlBNMlp6TXFERWpUWXBrOGxRZXJBX19LSTc4SHR6Q0RabHZOY3Jienp2RmlGZV9BaUtTd0Q",
@@ -10,7 +10,7 @@
       "source": "自由時報",
       "pubDate": "Tue, 20 Oct 2026 14:42:53 GMT",
       "stocks": [],
-      "background": "低軌衛星產業發燒，太空板PCB前景看俏，受惠於全球通訊需求與太空科技發展。",
+      "background": "低軌衛星產業發展迅速，帶動相關太空板 PCB 需求，為產業帶來新商機。",
       "themeTags": [
         "需求驅動"
       ]
@@ -70,37 +70,18 @@
       "pubDate": "Tue, 20 Oct 2026 05:56:00 GMT",
       "stocks": [
         {
-          "symbol": "5274",
-          "name": "信驊",
-          "point": "由紅翻黑"
-        },
-        {
           "symbol": "2059",
           "name": "川湖",
-          "point": "逆勢收高返萬元"
-        },
-        {
-          "symbol": "3443",
-          "name": "創意",
-          "point": "由紅翻黑",
-          "status": "高檔修正",
-          "dist": -10.7
-        },
-        {
-          "symbol": "3653",
-          "name": "健策",
-          "point": "上漲1.37%"
+          "point": "股價重返萬元"
         },
         {
           "symbol": "3008",
           "name": "大立光",
-          "point": "跌破6000元關卡"
+          "point": "股價跌落6字頭"
         }
       ],
-      "background": "台股受權王台積電走弱與新台幣貶值影響，賣壓從權值電子股延伸至高價股族群，市場信心尚未恢復。",
-      "themeTags": [
-        "循環位置"
-      ]
+      "background": "高價股表現分歧，部分個股受市場資金青睞重返高點，部分則面臨修正壓力。",
+      "themeTags": []
     },
     {
       "gid": "CBMiiAFBVV95cUxOd2p1cUo5X2NXMXBNNEtqVGFaS3FLbUJrVXlXc0hKSHVkSFhIbjhuVVBiamhjNHFHZ2QwSnU3VEtoTWZjM25KR2xpU1IyMFhFQUpIQlVFTngtZGRBRUNKak9sQ2piVEh6XzEybVZJMlpyUTRLRTV6eXRHQ00wT29vclM3dDF5eURR",

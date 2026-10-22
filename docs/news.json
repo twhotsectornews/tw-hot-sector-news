@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-22T12:06:26.898+08:00",
-  "generatedAt": "2026-10-22T04:06:26.898Z",
+  "asOf": "2026-10-22T13:04:27.987+08:00",
+  "generatedAt": "2026-10-22T05:04:27.987Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -202,6 +202,17 @@
       ]
     },
     {
+      "symbol": "2383",
+      "name": "台光電",
+      "days": 2,
+      "dates": [
+        "10/22",
+        "10/16"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "3017",
       "name": "奇鋐",
       "days": 2,
@@ -212,17 +223,6 @@
       "mentions": 3,
       "status": "高檔修正",
       "dist": -13,
-      "limitUp": false
-    },
-    {
-      "symbol": "3653",
-      "name": "健策",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/20"
-      ],
-      "mentions": 3,
       "limitUp": false
     },
     {
@@ -282,30 +282,6 @@
       "limitUp": false
     },
     {
-      "symbol": "5274",
-      "name": "信驊",
-      "days": 2,
-      "dates": [
-        "10/21",
-        "10/20"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "3443",
-      "name": "創意",
-      "days": 2,
-      "dates": [
-        "10/21",
-        "10/20"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -8.3,
-      "limitUp": false
-    },
-    {
       "symbol": "2330",
       "name": "台積電",
       "days": 2,
@@ -332,12 +308,12 @@
       "limitUp": false
     },
     {
-      "symbol": "2383",
-      "name": "台光電",
+      "symbol": "3653",
+      "name": "健策",
       "days": 2,
       "dates": [
         "10/22",
-        "10/16"
+        "10/20"
       ],
       "mentions": 2,
       "limitUp": false
@@ -403,9 +379,51 @@
       "luwd": [
         "10/21"
       ]
+    },
+    {
+      "symbol": "5274",
+      "name": "信驊",
+      "days": 2,
+      "dates": [
+        "10/21",
+        "10/20"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3443",
+      "name": "創意",
+      "days": 2,
+      "dates": [
+        "10/21",
+        "10/20"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -8.3,
+      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNUEwzS2REd1FBWE9pdVZRZGRmRTRWNlZobU1lek5TNTV2MEhoS2ktSFpmR1FnUFJpdDEyaTVfWDNzUnZLQlNIbHNQbEdYOURoNnFmT0lNcUdkeUpOenFHTDl5Y01GQnBqU1Z0VmRJa0dBa3ZtYXh0WlZfWXJiR2dzWnpDVDBMVUwt",
+      "tkey": "熱門族群TPCAShow助攻PCB買氣升溫台光電一度漲停",
+      "title": "《熱門族群》TPCA Show助攻PCB買氣升溫 台光電一度漲停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6338361001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 22 Oct 2026 04:06:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "股價一度漲停",
+          "limitUp": false
+        }
+      ],
+      "background": "PCB 產業受惠 TPCA Show 展覽助攻，市場買氣升溫，顯示產業景氣有回溫跡象。",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxQdjhfS3FnVGJGTTBBU21DODl3SzNDOW5sUlZhQXRwdFpob01hajQ5ajVacHFzR2FOaWU1WXZXTWtlVVdheENsTk9DMUFUY0NlRk0yUnhJbHNrRE9VM3ljOVBhMWVQcC1kOER6R1E2bkVTUmtEYXgzc2Z5bW5BY0xYRGZKblI0dGx1",
       "tkey": "熱門族群美超微報喜！概念股添柴火1顆紅燈鎖緊緊",
