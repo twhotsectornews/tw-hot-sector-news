@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updatedAt": "2026-10-22T03:03:56.846Z",
+  "updatedAt": "2026-10-22T04:06:26.895Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE9HZGZFVFJDS0I1Y2RZQW1xSDUtb29GUUx4a0hxUlBNMlp6TXFERWpUWXBrOGxRZXJBX19LSTc4SHR6Q0RabHZOY3Jienp2RmlGZV9BaUtTd0Q",
@@ -10,7 +10,7 @@
       "source": "自由時報",
       "pubDate": "Tue, 20 Oct 2026 14:42:53 GMT",
       "stocks": [],
-      "background": "低軌衛星產業因全球通訊需求及技術發展而發燒，太空板PCB前景看好。",
+      "background": "低軌衛星產業發燒，太空板PCB前景看俏，受惠於全球通訊需求與太空科技發展。",
       "themeTags": [
         "需求驅動"
       ]
@@ -60,6 +60,47 @@
       ],
       "background": "高價股受台股大盤走弱影響，資金避風港概念受壓抑，新台幣貶值亦增添市場不安。",
       "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxONkxMZEtZLW8wNHN1ajRpTFNWME8tVEZzbDJjbnUzQTFreE93X3VfaXJ0aHhLb0JSZkFqSUNhM2tvcFJ2ME5QN1BMemh3OUFkaENfYmItenNrQlB1ZEI5RzhPck8ySmNpVF9OMnY3T1JxZ01ZSm11NjZZMTdnMzRWLVV3dHE0a2x4",
+      "tkey": "熱門族群五大高價股冰火交鋒川湖返萬元、大立光跌落6字頭",
+      "title": "《熱門族群》五大高價股冰火交鋒 川湖返萬元、大立光跌落6字頭 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6336287001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 20 Oct 2026 05:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "5274",
+          "name": "信驊",
+          "point": "由紅翻黑"
+        },
+        {
+          "symbol": "2059",
+          "name": "川湖",
+          "point": "逆勢收高返萬元"
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "point": "由紅翻黑",
+          "status": "高檔修正",
+          "dist": -10.7
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "上漲1.37%"
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "跌破6000元關卡"
+        }
+      ],
+      "background": "台股受權王台積電走弱與新台幣貶值影響，賣壓從權值電子股延伸至高價股族群，市場信心尚未恢復。",
+      "themeTags": [
+        "循環位置"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxOd2p1cUo5X2NXMXBNNEtqVGFaS3FLbUJrVXlXc0hKSHVkSFhIbjhuVVBiamhjNHFHZ2QwSnU3VEtoTWZjM25KR2xpU1IyMFhFQUpIQlVFTngtZGRBRUNKak9sQ2piVEh6XzEybVZJMlpyUTRLRTV6eXRHQ00wT29vclM3dDF5eURR",
