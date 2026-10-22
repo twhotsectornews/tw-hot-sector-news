@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updatedAt": "2026-10-22T10:41:36.851Z",
+  "updatedAt": "2026-10-22T14:29:08.018Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE9HZGZFVFJDS0I1Y2RZQW1xSDUtb29GUUx4a0hxUlBNMlp6TXFERWpUWXBrOGxRZXJBX19LSTc4SHR6Q0RabHZOY3Jienp2RmlGZV9BaUtTd0Q",
@@ -10,9 +10,10 @@
       "source": "自由時報",
       "pubDate": "Tue, 20 Oct 2026 14:42:53 GMT",
       "stocks": [],
-      "background": "低軌衛星產業因全球通訊需求增加而發燒，太空板PCB作為關鍵零組件，前景看俏。",
+      "background": "低軌衛星產業受惠於全球通訊需求增長，SpaceX等國際大廠積極佈局，帶動相關零組件需求，PCB為關鍵供應鏈。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "國際大廠"
       ]
     },
     {
