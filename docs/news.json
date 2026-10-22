@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-22T16:06:15.545+08:00",
-  "generatedAt": "2026-10-22T08:06:15.545Z",
+  "asOf": "2026-10-22T17:42:28.085+08:00",
+  "generatedAt": "2026-10-22T09:42:28.085Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -46,7 +46,7 @@
         "10/20",
         "10/16"
       ],
-      "mentions": 5,
+      "mentions": 6,
       "limitUp": false
     },
     {
@@ -136,6 +136,20 @@
       ]
     },
     {
+      "symbol": "3189",
+      "name": "景碩",
+      "days": 3,
+      "dates": [
+        "10/22",
+        "10/21",
+        "10/20"
+      ],
+      "mentions": 4,
+      "status": "高檔修正",
+      "dist": -14.3,
+      "limitUp": false
+    },
+    {
       "symbol": "2059",
       "name": "川湖",
       "days": 3,
@@ -155,6 +169,18 @@
         "10/22",
         "10/21",
         "10/20"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "8046",
+      "name": "南電",
+      "days": 3,
+      "dates": [
+        "10/22",
+        "10/21",
+        "10/16"
       ],
       "mentions": 3,
       "limitUp": false
@@ -261,19 +287,6 @@
       "limitUp": false
     },
     {
-      "symbol": "3189",
-      "name": "景碩",
-      "days": 2,
-      "dates": [
-        "10/21",
-        "10/20"
-      ],
-      "mentions": 3,
-      "status": "高檔修正",
-      "dist": -11.7,
-      "limitUp": false
-    },
-    {
       "symbol": "2330",
       "name": "台積電",
       "days": 2,
@@ -297,6 +310,28 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -1.2,
+      "limitUp": false
+    },
+    {
+      "symbol": "1301",
+      "name": "台塑",
+      "days": 2,
+      "dates": [
+        "10/22",
+        "10/19"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "1326",
+      "name": "台化",
+      "days": 2,
+      "dates": [
+        "10/22",
+        "10/19"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -353,51 +388,59 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "3406",
-      "name": "玉晶光",
-      "days": 2,
-      "dates": [
-        "10/21",
-        "10/17"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -6.6,
-      "limitUp": true,
-      "pct": 9.6,
-      "luw": 1,
-      "luwd": [
-        "10/21"
-      ]
-    },
-    {
-      "symbol": "5274",
-      "name": "信驊",
-      "days": 2,
-      "dates": [
-        "10/21",
-        "10/20"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3443",
-      "name": "創意",
-      "days": 2,
-      "dates": [
-        "10/21",
-        "10/20"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -8.3,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPY3h6WDR4VFlLVC1WT1Fuc014eTRYbFNSYjN6M3pHNDAwZVc5SlhYdkNnQ1g1VHhaRkR6QUhxUDBzTDBmMldDTm1TN2g1cFN0QnlET3B3LXFoUUhQc0dOTm43eFZTYjBKQ3lxbk5qejV0Yng0UUZQNFhPUnVCYS1lTnpsXzVacExN",
+      "tkey": "熱門族群ABS、EVA報價走揚台塑、台化、國喬、台達化營運有撐",
+      "title": "《熱門族群》ABS、EVA報價走揚 台塑、台化、國喬、台達化營運有撐 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6338571001&PU=0033",
+      "source": "富聯網",
+      "pubDate": "Thu, 22 Oct 2026 07:20:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "EVA供給減少價格看漲",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "SM內銷比提升、塑料差異化獲利",
+          "limitUp": false
+        },
+        {
+          "symbol": "1312",
+          "name": "國喬",
+          "point": "ABS、EVA報價走揚營運有撐",
+          "limitUp": false
+        },
+        {
+          "symbol": "1309",
+          "name": "台達化",
+          "point": "ABS、EVA報價走揚營運有撐",
+          "limitUp": false
+        },
+        {
+          "symbol": "1304",
+          "name": "台聚",
+          "point": "EVA報價走揚營運有撐",
+          "limitUp": false
+        },
+        {
+          "symbol": "1308",
+          "name": "亞聚",
+          "point": "EVA報價走揚營運有撐",
+          "limitUp": false
+        }
+      ],
+      "background": "ABS、EVA等石化產品受油價區間震盪及成本支撐，報價走揚。大陸需求增加與供應減少，使相關廠商營運有撐。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNUEwzS2REd1FBWE9pdVZRZGRmRTRWNlZobU1lek5TNTV2MEhoS2ktSFpmR1FnUFJpdDEyaTVfWDNzUnZLQlNIbHNQbEdYOURoNnFmT0lNcUdkeUpOenFHTDl5Y01GQnBqU1Z0VmRJa0dBa3ZtYXh0WlZfWXJiR2dzWnpDVDBMVUwt",
       "tkey": "熱門族群TPCAShow助攻PCB買氣升溫台光電一度漲停",
@@ -586,6 +629,40 @@
       "themeTags": [
         "需求驅動",
         "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQaDUwNHhnY2o1T3U1bnZsVWNmV1F1UGNuVUgwN0FDY004ZWhKYnBWYXVkZWFIVHNHaXp1QXBqd2FSSWV4V1B1MGlERnUtVzBfdkJBUWV5dXZOd1NDUEs3U1I1bllHVDlRd3BndUdBajRPTGw5dFF5Vm5VTEJzRmJwUldZOGpyalhE",
+      "tkey": "熱門族群展會利多簇擁PCB族群走強",
+      "title": "《熱門族群》展會利多簇擁 PCB族群走強 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6337983001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 21 Oct 2026 23:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "ABF、BT載板受AI需求帶動",
+          "status": "高檔修正",
+          "dist": -14.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "PCB產業升級、展會利多",
+          "limitUp": false
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "PCB產業升級、展會利多",
+          "limitUp": false
+        }
+      ],
+      "background": "AI浪潮推動PCB產業升級，高階CCL供需緊俏，業者加速擴產以滿足需求，產業鏈受展會利多帶動走強。",
+      "themeTags": [
+        "需求驅動"
       ]
     },
     {
