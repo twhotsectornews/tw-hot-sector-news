@@ -1,0 +1,555 @@
+{
+  "date": "2026-10-22",
+  "updatedAt": "2026-10-23T03:01:46.723Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPY3h6WDR4VFlLVC1WT1Fuc014eTRYbFNSYjN6M3pHNDAwZVc5SlhYdkNnQ1g1VHhaRkR6QUhxUDBzTDBmMldDTm1TN2g1cFN0QnlET3B3LXFoUUhQc0dOTm43eFZTYjBKQ3lxbk5qejV0Yng0UUZQNFhPUnVCYS1lTnpsXzVacExN",
+      "tkey": "熱門族群ABS、EVA報價走揚台塑、台化、國喬、台達化營運有撐",
+      "title": "《熱門族群》ABS、EVA報價走揚 台塑、台化、國喬、台達化營運有撐 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6338571001&PU=0033",
+      "source": "富聯網",
+      "pubDate": "Thu, 22 Oct 2026 07:20:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "EVA供給減少價格看漲",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "SM內銷比提升、塑料差異化獲利",
+          "limitUp": false
+        },
+        {
+          "symbol": "1312",
+          "name": "國喬",
+          "point": "ABS、EVA報價走揚營運有撐",
+          "limitUp": false
+        },
+        {
+          "symbol": "1309",
+          "name": "台達化",
+          "point": "ABS、EVA報價走揚營運有撐",
+          "limitUp": false
+        },
+        {
+          "symbol": "1304",
+          "name": "台聚",
+          "point": "EVA報價走揚營運有撐",
+          "limitUp": false
+        },
+        {
+          "symbol": "1308",
+          "name": "亞聚",
+          "point": "EVA報價走揚營運有撐",
+          "limitUp": false
+        }
+      ],
+      "background": "ABS、EVA等石化產品受油價區間震盪及成本支撐，報價走揚。大陸需求增加與供應減少，使相關廠商營運有撐。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQb1BBYkVqUktvM2hYZ21rLVMzUjhoajU3dng0TWpzNWRTNTljTmJjTmJyQlBnNXk1cGc4RVR6MjgtUllwbTdtMTFCRm9SbVRHNUdlNWxBUHhDS1hoT241aVlOTDBzbnZlZ1F4cHBOX2x0QlBqNFd3eWdSTzdfSndvRi15eHJxRlV3",
+      "tkey": "熱門族群台股破底、金控登頂！兆豐金領5檔創天價",
+      "title": "《熱門族群》台股破底、金控登頂！兆豐金領5檔創天價 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6338464001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 22 Oct 2026 05:51:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2882",
+          "name": "國泰金",
+          "point": "金控股中收黑",
+          "status": "逼近新高",
+          "dist": -3.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "2883",
+          "name": "凱基金",
+          "point": "金控股中收黑",
+          "status": "逼近新高",
+          "dist": -7.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "2880",
+          "name": "華南金",
+          "point": "股價齊創歷史新高",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false
+        },
+        {
+          "symbol": "2886",
+          "name": "兆豐金",
+          "point": "股價齊創歷史新高",
+          "status": "創新高",
+          "dist": -0.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "2892",
+          "name": "第一金",
+          "point": "股價齊創歷史新高",
+          "status": "創新高",
+          "dist": -0.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "2890",
+          "name": "永豐金",
+          "point": "股價齊創歷史新高",
+          "status": "逼近新高",
+          "dist": -0.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "2891",
+          "name": "中信金",
+          "point": "股價齊創歷史新高",
+          "status": "逼近新高",
+          "dist": -0.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "2885",
+          "name": "元大金",
+          "point": "獲利年增率突破100%",
+          "status": "逼近新高",
+          "dist": -2.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "2889",
+          "name": "國票金",
+          "point": "獲利年增率突破100%",
+          "status": "逼近新高",
+          "dist": -3.1,
+          "limitUp": false
+        }
+      ],
+      "background": "台股大盤重挫，資金轉向金融股尋求避險，金控業前三季獲利表現優於去年同期，支撐股價逆勢走強。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPbUltaUNQX1djVFZaVHczVjVjU1dudFJLYnVzdFRPbUIyMzRsSDlOakRKdkF3b1FPWG45Q1pDQ0Y0ZUk5WkpKd2QzU3RWN3l2ZkxHcGdQc0RHZ0hwZkJTWkpuYUYwWXdXN2VBUno2Xzk5Rkd4a1d3bXRJMENuUmhUaV9TdWhudE40",
+      "tkey": "熱門族群愛迪達營運衝高調升財測！5台廠供應鏈獲利大進補",
+      "title": "《熱門族群》愛迪達營運衝高調升財測！「5台廠供應鏈」獲利大進補 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6338455001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 22 Oct 2026 05:43:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1307",
+          "name": "三芳",
+          "point": "愛迪達供應鏈獲利大進補",
+          "limitUp": false
+        },
+        {
+          "symbol": "5450",
+          "name": "南良",
+          "point": "愛迪達供應鏈獲利大進補",
+          "limitUp": false
+        },
+        {
+          "symbol": "4303",
+          "name": "信立",
+          "point": "愛迪達供應鏈獲利大進補",
+          "limitUp": false
+        },
+        {
+          "symbol": "4766",
+          "name": "南寶",
+          "point": "愛迪達供應鏈獲利大進補",
+          "limitUp": false
+        },
+        {
+          "symbol": "4714",
+          "name": "永捷",
+          "point": "愛迪達供應鏈獲利大進補",
+          "limitUp": false
+        }
+      ],
+      "background": "愛迪達因高售價與關稅退稅，營收獲利創新高並上調財測，帶動其台廠供應鏈營運加分。",
+      "themeTags": [
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNUEwzS2REd1FBWE9pdVZRZGRmRTRWNlZobU1lek5TNTV2MEhoS2ktSFpmR1FnUFJpdDEyaTVfWDNzUnZLQlNIbHNQbEdYOURoNnFmT0lNcUdkeUpOenFHTDl5Y01GQnBqU1Z0VmRJa0dBa3ZtYXh0WlZfWXJiR2dzWnpDVDBMVUwt",
+      "tkey": "熱門族群TPCAShow助攻PCB買氣升溫台光電一度漲停",
+      "title": "《熱門族群》TPCA Show助攻PCB買氣升溫 台光電一度漲停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6338361001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 22 Oct 2026 04:06:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "股價一度漲停",
+          "limitUp": false
+        }
+      ],
+      "background": "PCB 產業受惠 TPCA Show 展覽助攻，市場買氣升溫，顯示產業景氣有回溫跡象。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQdjhfS3FnVGJGTTBBU21DODl3SzNDOW5sUlZhQXRwdFpob01hajQ5ajVacHFzR2FOaWU1WXZXTWtlVVdheENsTk9DMUFUY0NlRk0yUnhJbHNrRE9VM3ljOVBhMWVQcC1kOER6R1E2bkVTUmtEYXgzc2Z5bW5BY0xYRGZKblI0dGx1",
+      "tkey": "熱門族群美超微報喜！概念股添柴火1顆紅燈鎖緊緊",
+      "title": "《熱門族群》美超微報喜！概念股添柴火 1顆紅燈鎖緊緊 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6338324001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 22 Oct 2026 03:31:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "亮燈漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2465",
+          "name": "麗臺",
+          "point": "強鎖漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "10/22"
+          ]
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "聯袂走強",
+          "status": "高檔修正",
+          "dist": -13,
+          "limitUp": false
+        },
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "point": "聯袂走強",
+          "limitUp": false
+        },
+        {
+          "symbol": "3217",
+          "name": "優群",
+          "point": "力守盤上",
+          "limitUp": false
+        }
+      ],
+      "background": "美超微受惠AI伺服器需求強勁，財報優於預期，重振AI概念股氣勢，四大雲端服務供應商擴大AI基礎設施支出。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPaFdpdDNaQ294c2NLcFdZQ3RZcmZBTHpYRUxwdkNuWUZoa2tRV0RhM29GdERRSlNZai1hY21vcVJPMGprWHh0OEx0V2hyM3hSWW44X0UxdzNhNmZTcVVRYW5KY2VhQ1d5eFRGQmlwVFd5anI5bGoyYlRpWW5FVFdFU1doQ2Zkbllv",
+      "tkey": "熱門族群玻纖布需求看旺台玻爆量衝新高",
+      "title": "《熱門族群》玻纖布需求看旺 台玻爆量衝新高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6338302001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 22 Oct 2026 03:11:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "爆量衝新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "開高後震盪",
+          "status": "高檔修正",
+          "dist": -13.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "拉回整理",
+          "status": "高檔修正",
+          "dist": -13.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "5340",
+          "name": "建榮",
+          "point": "開高後壓回整理",
+          "limitUp": false
+        },
+        {
+          "symbol": "5475",
+          "name": "德宏",
+          "point": "開高後壓回整理",
+          "limitUp": false
+        },
+        {
+          "symbol": "8358",
+          "name": "金居",
+          "point": "參展TPCA Show",
+          "limitUp": false
+        },
+        {
+          "symbol": "8021",
+          "name": "尖點",
+          "point": "參展TPCA Show",
+          "limitUp": false
+        }
+      ],
+      "background": "玻纖布受惠於AI帶動PCB產業成長，第四季需求持續看旺，台玻高階產品出貨與擴產挹注動能。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQVm8ybVl3cFBUSzhqTHBDNTJwX1ZsTjd6enVIN0phN0pHOFVHX3oxOWlGcEFodmdjVDYtUVJwUE5xeXNSdVg3a1AtX1dKTEhUaXhrQ1B6UDJ3c2kzNk9sMERHaEJmaGRCSEUtSVI4NGdwLTBvQjY1RDA3aVZkSDRfVGNxSnNDMUs4",
+      "tkey": "熱門族群散熱三雄不同調雙鴻衝鋒、奇鋐助攻健策熄火",
+      "title": "《熱門族群》散熱三雄不同調 雙鴻衝鋒、奇鋐助攻 健策熄火 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6338248001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 22 Oct 2026 02:24:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "point": "AI伺服器液冷散熱系統市占率提升",
+          "limitUp": false
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "9月營收再創歷史新高",
+          "status": "高檔修正",
+          "dist": -10.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "由紅翻黑，股價走弱",
+          "limitUp": false
+        }
+      ],
+      "background": "AI晶片效能提升帶動伺服器功耗與散熱需求，液冷散熱成為AI資料中心升級方向，台灣散熱供應鏈迎來新商機。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPdkVQaW1DYy1yQkRUdmlON3hVZF9NY2tOT0tvZmZKLWpDS09jb0VLaFhnd3YwZkY5N1JsU2hscENwNHl5WWlGbmFlcFZ3LVp5QjhHRjdyQk9GQWViRGc0RTdPY1RTR2Qtd0pYYTBkN3ZXcjBwdnd4T1hCZFVxT0lrVXVubm03UVc5",
+      "tkey": "熱門族群AI火緯穎、日月光後市靚",
+      "title": "《熱門族群》AI火 緯穎、日月光後市靚 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6337996001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 22 Oct 2026 00:01:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6669",
+          "name": "緯穎",
+          "point": "第三季營收季增56.3％，ASIC與通用型需求強勁",
+          "limitUp": false
+        },
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "point": "第三季營收創歷史新高，先進封裝接單優於預期",
+          "status": "高檔修正",
+          "dist": -11.8,
+          "limitUp": false
+        }
+      ],
+      "background": "輝達GTC大會揭露AI中長期發展趨勢，AI伺服器需求持續增長，帶動相關供應鏈緯穎與日月光投控業績成長。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQaDUwNHhnY2o1T3U1bnZsVWNmV1F1UGNuVUgwN0FDY004ZWhKYnBWYXVkZWFIVHNHaXp1QXBqd2FSSWV4V1B1MGlERnUtVzBfdkJBUWV5dXZOd1NDUEs3U1I1bllHVDlRd3BndUdBajRPTGw5dFF5Vm5VTEJzRmJwUldZOGpyalhE",
+      "tkey": "熱門族群展會利多簇擁PCB族群走強",
+      "title": "《熱門族群》展會利多簇擁 PCB族群走強 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6337983001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 21 Oct 2026 23:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "ABF、BT載板受AI需求帶動",
+          "status": "高檔修正",
+          "dist": -14.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "PCB產業升級、展會利多",
+          "limitUp": false
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "PCB產業升級、展會利多",
+          "limitUp": false
+        }
+      ],
+      "background": "AI浪潮推動PCB產業升級，高階CCL供需緊俏，業者加速擴產以滿足需求，產業鏈受展會利多帶動走強。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNSEdZZDFRcHZFU0VON29DTW5Ic3RQNUhNdDBSRWt6aWVHc0FJVVMyUnRDdmNROTRaY0lobkdmbXVlTVhpeWtIeW1rZVZZY3JabHlQc01YYVZOQ1hPM0ZaLXI5ZlJkYlpHWnlLQmFWN2cwNW05MWRtcW9mSzB3cTVvTjNBOGhqNXh2",
+      "tkey": "熱門族群台系低軌衛星股多點開花",
+      "title": "《熱門族群》台系低軌衛星股多點開花 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6337982001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Wed, 21 Oct 2026 23:54:00 GMT",
+      "stocks": [
+        {
+          "symbol": "7717",
+          "name": "萊德光電",
+          "point": "帶頭攻漲停，看好太空低軌衛星商機",
+          "limitUp": false
+        },
+        {
+          "symbol": "6672",
+          "name": "騰輝電子-KY",
+          "point": "帶頭攻漲停，PI板材切入火箭發動機",
+          "status": "逼近新高",
+          "dist": -8.7,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/21"
+          ]
+        },
+        {
+          "symbol": "3456",
+          "name": "昇達科",
+          "point": "SpaceX概念股，股價起飛",
+          "limitUp": false
+        },
+        {
+          "symbol": "2324",
+          "name": "金寶",
+          "point": "SpaceX概念股，股價起飛",
+          "limitUp": false
+        },
+        {
+          "symbol": "3138",
+          "name": "耀登",
+          "point": "SpaceX概念股，股價起飛",
+          "limitUp": false
+        },
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "SpaceX概念股，股價起飛",
+          "limitUp": false
+        },
+        {
+          "symbol": "2367",
+          "name": "燿華",
+          "point": "SpaceX概念股，股價起飛",
+          "limitUp": false
+        },
+        {
+          "symbol": "4952",
+          "name": "全訊",
+          "point": "SpaceX概念股，股價起飛",
+          "limitUp": false
+        },
+        {
+          "symbol": "5264",
+          "name": "乙盛-KY",
+          "point": "SpaceX概念股，股價起飛",
+          "limitUp": false
+        },
+        {
+          "symbol": "6271",
+          "name": "同欣電",
+          "point": "SpaceX概念股，股價起飛",
+          "limitUp": false
+        }
+      ],
+      "background": "SpaceX成功轉虧為盈，加上與特斯拉評估合併的可能性，為低軌衛星族群注入人氣，台系供應鏈受惠。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPQXVINm55N21xbFRUT0J2b3RmZDhDTlN6ME1jOFJjazRMRjBXaHFkSHdNWlkzLVlndUhtX2xsS04weHl4Q1FGT2xrMXBfemJBNnhMdXY2Z28xS3lPX0M4cldtSnVlQXhEalRaUnhsa1F2SUQ0bW9UYmllTEdTRWt1eWFDX3NGNlJx",
+      "tkey": "熱門族群薄玻纖布、CCL下月看漲15％",
+      "title": "《熱門族群》薄玻纖布、CCL下月看漲15％ - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6337971001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Wed, 21 Oct 2026 23:44:00 GMT",
+      "stocks": [],
+      "background": "上游材料缺貨推升薄玻纖布及CCL漲價，預計11月調漲10％至15％，織布機擴產速度有限是主要瓶頸，供需失衡持續。",
+      "themeTags": [
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOWTgyN29EM0xpWVRIT3ZHVGVwdjlLRVpZTEo2dWU5akowNGY4YmRTaVhvMHR0TE1OVVZtam43UV9DdVRQYV9wTFJUQmh0enp2amVhME9zWXJWZHNnb29RYmNZVjNueV9EcjVQYThjZEw2YTRNckNsemxwWkszbXl4MjFKNk9nT2Fi",
+      "tkey": "熱門族群輝達AI供應鏈大擴產！京元電赴美設廠、矽品CPO15倍",
+      "title": "《熱門族群》輝達AI供應鏈大擴產！京元電赴美設廠、矽品CPO15倍 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6337704001&PU=0031",
+      "source": "富聯網",
+      "pubDate": "Wed, 21 Oct 2026 23:29:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2449",
+          "name": "京元電子",
+          "point": "獲輝達11億美元預付款支持美國設廠",
+          "limitUp": false
+        },
+        {
+          "symbol": "3711",
+          "name": "日月光投控",
+          "point": "旗下矽品精密CPO光學引擎產能將提升15倍",
+          "status": "高檔修正",
+          "dist": -11.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "獲輝達產能預留協議支持KF載板擴產",
+          "limitUp": false
+        }
+      ],
+      "background": "輝達為滿足AI超級運算需求，攜手全球供應鏈夥伴擴大載板、先進封裝、半導體測試及光學引擎產能，以解決產能瓶頸。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE5BQjZ3eXhxaW1KQjB0VGdDSC0yOS1BTUR0cXZqa0dnelVncWF2UHFMV0xKdFhYZjJBRlRZbFVYU1BPQkI5cTNBUUhIbDVHV05HZVFEVEZhYVE",
+      "tkey": "熱門族群AI資料中心帶動BBU需求電池模組族群氣勢大振",
+      "title": "熱門族群》AI資料中心帶動BBU需求 電池模組族群氣勢大振 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/dqdvu8nlt2rl",
+      "source": "自由時報",
+      "pubDate": "Wed, 21 Oct 2026 18:00:34 GMT",
+      "stocks": [],
+      "background": "AI資料中心對備用電池單元（BBU）的需求增加，推動電池模組族群的市場氣勢。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}
