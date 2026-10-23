@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updatedAt": "2026-10-23T04:02:18.620Z",
+  "updatedAt": "2026-10-23T05:01:58.758Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE5HUnUzUHNBZW5NYy15VGw0S05TT2lPWXhwUmZ4R0M0Y3N2MmYtQm9Qb0owNFlGY1dnMHV5anVGNUxaM1ptMzkwNkhUM2Z6RE5RQ1ZOV2taYVE",
@@ -26,12 +26,12 @@
         {
           "symbol": "7717",
           "name": "萊德光電",
-          "point": "SpaceX概念股，攻漲停"
+          "point": "SpaceX概念股，帶頭攻漲停"
         },
         {
           "symbol": "6672",
           "name": "騰輝電子-KY",
-          "point": "SpaceX概念股，攻漲停",
+          "point": "SpaceX概念股，帶頭攻漲停",
           "status": "高檔修正",
           "dist": -14.2,
           "luw": 1,
@@ -40,7 +40,7 @@
           ]
         }
       ],
-      "background": "SpaceX財報由虧轉盈，加上與特斯拉評估合併，帶動低軌衛星族群人氣。低軌衛星應用需求持續成長。",
+      "background": "SpaceX財報由虧轉盈，加上與特斯拉合併可能性，激勵低軌衛星族群。AI業務營收暴增為主要成長動能。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
