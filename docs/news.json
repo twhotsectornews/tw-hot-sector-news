@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-23T23:27:39.474+08:00",
-  "generatedAt": "2026-10-23T15:27:39.474Z",
+  "asOf": "2026-10-24T11:01:46.188+08:00",
+  "generatedAt": "2026-10-24T03:01:46.188Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -35,24 +35,6 @@
       "limitUp": false
     },
     {
-      "symbol": "6269",
-      "name": "台郡",
-      "days": 4,
-      "dates": [
-        "10/21",
-        "10/20",
-        "10/18",
-        "10/17"
-      ],
-      "mentions": 4,
-      "limitUp": false,
-      "luw": 2,
-      "luwd": [
-        "10/20",
-        "10/16"
-      ]
-    },
-    {
       "symbol": "3037",
       "name": "欣興",
       "days": 3,
@@ -76,18 +58,6 @@
       "mentions": 4,
       "status": "高檔修正",
       "dist": -14.3,
-      "limitUp": false
-    },
-    {
-      "symbol": "3008",
-      "name": "大立光",
-      "days": 3,
-      "dates": [
-        "10/21",
-        "10/20",
-        "10/17"
-      ],
-      "mentions": 4,
       "limitUp": false
     },
     {
@@ -207,6 +177,23 @@
       "limitUp": false
     },
     {
+      "symbol": "6269",
+      "name": "台郡",
+      "days": 3,
+      "dates": [
+        "10/21",
+        "10/20",
+        "10/18"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "10/20",
+        "10/16"
+      ]
+    },
+    {
       "symbol": "6672",
       "name": "騰輝電子-KY",
       "days": 2,
@@ -274,6 +261,17 @@
     {
       "symbol": "2059",
       "name": "川湖",
+      "days": 2,
+      "dates": [
+        "10/21",
+        "10/20"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "3008",
+      "name": "大立光",
       "days": 2,
       "dates": [
         "10/21",
@@ -366,23 +364,23 @@
       "limitUp": false
     },
     {
-      "symbol": "3105",
-      "name": "穩懋",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/17"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
       "symbol": "6271",
       "name": "同欣電",
       "days": 2,
       "dates": [
         "10/22",
         "10/21"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "5274",
+      "name": "信驊",
+      "days": 2,
+      "dates": [
+        "10/21",
+        "10/20"
       ],
       "mentions": 2,
       "limitUp": false
