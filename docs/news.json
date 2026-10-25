@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-25T15:54:18.906+08:00",
-  "generatedAt": "2026-10-25T07:54:18.906Z",
+  "asOf": "2026-10-25T17:41:42.277+08:00",
+  "generatedAt": "2026-10-25T09:41:42.277Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -381,6 +381,17 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE90Y1VKdHd1OWhTZHRyeGd4SEpIUlhPZF8xVmRPZFpXaDVqV1pMWS1JRWtaQW8yZExUcGN0YUJHYy1mRC1zalVzVVIwVG5LMmFxNlZfMS1Lb3c",
+      "tkey": "盤勢分析FOMC利率出爐熱門族群將轉強",
+      "title": "盤勢分析》FOMC利率出爐 熱門族群將轉強 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/blvdlxff7bsv",
+      "source": "自由時報",
+      "pubDate": "Sun, 25 Oct 2026 06:46:33 GMT",
+      "stocks": [],
+      "background": "美國聯準會（FOMC）的利率決議是影響全球金融市場的重要因素，其結果會影響資金流向與市場情緒，進而牽動各類資產的表現。",
+      "themeTags": []
+    },
     {
       "gid": "CBMiZEFVX3lxTFBBVmhTTWpFWmpGREtqZm9ocTdHdHQwbWhYekFQaFlQZlRGdDZkWGZaR0ZXdUl4MmhSLUh5M3dURGMwMVFnRVF4RGlWVGNhSlVvRE5SZXY5VlMtTk53UjNjeE1PLTTSAWRBVV95cUxQQVZoU01qRVpqRkRLamZvaHE3R3R0MG1oWHpBUGhZUGZURnQ2ZFhmWkdGV3VJeDJoUi1IeTN3VERjMDFRZ0VReERpVlRjYUpVb0ROUmV2OVZTLU5Od1IzY3hNTy00",
       "tkey": "熱門族群台股單週重挫逾千點老AI族群逆勢抗跌",
