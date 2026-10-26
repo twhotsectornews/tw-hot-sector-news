@@ -1,39 +1,11 @@
 {
-  "asOf": "2026-10-25T22:34:01.201+08:00",
-  "generatedAt": "2026-10-25T14:34:01.201Z",
+  "asOf": "2026-10-26T11:04:26.051+08:00",
+  "generatedAt": "2026-10-26T03:04:26.051Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
-    {
-      "symbol": "1802",
-      "name": "台玻",
-      "days": 4,
-      "dates": [
-        "10/22",
-        "10/21",
-        "10/20",
-        "10/19"
-      ],
-      "mentions": 4,
-      "limitUp": false
-    },
-    {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 4,
-      "dates": [
-        "10/22",
-        "10/21",
-        "10/20",
-        "10/19"
-      ],
-      "mentions": 4,
-      "status": "高檔修正",
-      "dist": -13.8,
-      "limitUp": false
-    },
     {
       "symbol": "3037",
       "name": "欣興",
@@ -61,6 +33,18 @@
       "limitUp": false
     },
     {
+      "symbol": "1802",
+      "name": "台玻",
+      "days": 3,
+      "dates": [
+        "10/22",
+        "10/21",
+        "10/20"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "1815",
       "name": "富喬",
       "days": 3,
@@ -72,6 +56,20 @@
       "mentions": 3,
       "status": "高檔修正",
       "dist": -13.6,
+      "limitUp": false
+    },
+    {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 3,
+      "dates": [
+        "10/22",
+        "10/21",
+        "10/20"
+      ],
+      "mentions": 3,
+      "status": "高檔修正",
+      "dist": -13.8,
       "limitUp": false
     },
     {
@@ -150,19 +148,6 @@
       "luwd": [
         "10/21"
       ]
-    },
-    {
-      "symbol": "2886",
-      "name": "兆豐金",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/19"
-      ],
-      "mentions": 3,
-      "status": "創新高",
-      "dist": -0.4,
-      "limitUp": false
     },
     {
       "symbol": "3711",
@@ -244,93 +229,6 @@
       "limitUp": false
     },
     {
-      "symbol": "1301",
-      "name": "台塑",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/19"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "1326",
-      "name": "台化",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/19"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2882",
-      "name": "國泰金",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/19"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -3.8,
-      "limitUp": false
-    },
-    {
-      "symbol": "2883",
-      "name": "凱基金",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/19"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -7.5,
-      "limitUp": false
-    },
-    {
-      "symbol": "2892",
-      "name": "第一金",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/19"
-      ],
-      "mentions": 2,
-      "status": "創新高",
-      "dist": -0.1,
-      "limitUp": false
-    },
-    {
-      "symbol": "2891",
-      "name": "中信金",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/19"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -0.8,
-      "limitUp": false
-    },
-    {
-      "symbol": "2885",
-      "name": "元大金",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/19"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -2.4,
-      "limitUp": false
-    },
-    {
       "symbol": "3653",
       "name": "健策",
       "days": 2,
@@ -378,9 +276,60 @@
         "10/20",
         "10/16"
       ]
+    },
+    {
+      "symbol": "5274",
+      "name": "信驊",
+      "days": 2,
+      "dates": [
+        "10/21",
+        "10/20"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3443",
+      "name": "創意",
+      "days": 2,
+      "dates": [
+        "10/21",
+        "10/20"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -8.3,
+      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE9yUGVoWXhjRUxTN3VhSm02TmdBTWFsRmNjNW1rSXhya3ZPYndoLWlHVGRUZHNpcUNXRUI1S2xWS3ZacWJwWlZaeEhPM21ocUthWS1zUVFRVW4",
+      "tkey": "熱門族群AI伺服器持續升級散熱族群熱呼呼",
+      "title": "熱門族群》AI伺服器持續升級 散熱族群熱呼呼 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/u2br8jd8cvgb",
+      "source": "自由時報",
+      "pubDate": "Sun, 25 Oct 2026 19:08:49 GMT",
+      "stocks": [],
+      "background": "AI 伺服器運算效能升級，對散熱需求持續增加，帶動散熱模組廠營運，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTFBsMm9YZFdPVS1abHBvSkN4VkV0M0RIUUQxQ1k0V3NQZExnM1lfYW1FU2c5bHA2Wkk4NmhSRkN3blhnUzJpRnNIU2h2aWU4NGhzVVVqVHotcmc",
+      "tkey": "熱門族群AIASIC市場發燒矽智財族群前景看旺",
+      "title": "熱門族群》AI ASIC市場發燒 矽智財族群前景看旺 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/3mrn0hqmj1wd",
+      "source": "自由時報",
+      "pubDate": "Sun, 25 Oct 2026 14:34:28 GMT",
+      "stocks": [],
+      "background": "AI ASIC（特殊應用積體電路）需求強勁，帶動矽智財（IP）設計服務，為先進製程提供關鍵技術授權，前景看俏。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiWEFVX3lxTE90Y1VKdHd1OWhTZHRyeGd4SEpIUlhPZF8xVmRPZFpXaDVqV1pMWS1JRWtaQW8yZExUcGN0YUJHYy1mRC1zalVzVVIwVG5LMmFxNlZfMS1Lb3c",
       "tkey": "盤勢分析FOMC利率出爐熱門族群將轉強",
@@ -462,20 +411,6 @@
       "background": "特用化學品（特化）是化工產業中具高附加價值的細分領域，應用廣泛，受終端產業需求驅動，資金轉進顯示市場對其成長潛力抱持期待。",
       "themeTags": [
         "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTE1KRTV3bGdxeFpKLTBURldqM0JoeWZrM3p2RTYzbi1GYU5DVTVOVUFmeHdtRTZNME1CZHpaeE1IalZ4c3dlYkpaczEyZmRIQmFkYnl3dko5bDM",
-      "tkey": "熱門族群汽車零組件帶量長紅防漲多拉回修正",
-      "title": "熱門族群》汽車零組件帶量長紅 防漲多拉回修正 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/6eqsjzymmmwb",
-      "source": "自由時報",
-      "pubDate": "Sat, 24 Oct 2026 05:11:26 GMT",
-      "stocks": [],
-      "background": "汽車零組件產業受惠於全球車市復甦及電動車趨勢，帶動需求增長。然而，市場需留意短期漲多後的修正風險。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
       ]
     }
   ]

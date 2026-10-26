@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-25",
+  "updatedAt": "2026-10-26T03:04:26.046Z",
+  "news": [
+    {
+      "gid": "CBMiWEFVX3lxTFBsMm9YZFdPVS1abHBvSkN4VkV0M0RIUUQxQ1k0V3NQZExnM1lfYW1FU2c5bHA2Wkk4NmhSRkN3blhnUzJpRnNIU2h2aWU4NGhzVVVqVHotcmc",
+      "tkey": "熱門族群AIASIC市場發燒矽智財族群前景看旺",
+      "title": "熱門族群》AI ASIC市場發燒 矽智財族群前景看旺 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/3mrn0hqmj1wd",
+      "source": "自由時報",
+      "pubDate": "Sun, 25 Oct 2026 14:34:28 GMT",
+      "stocks": [],
+      "background": "AI ASIC（特殊應用積體電路）需求強勁，帶動矽智財（IP）設計服務，為先進製程提供關鍵技術授權，前景看俏。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE90Y1VKdHd1OWhTZHRyeGd4SEpIUlhPZF8xVmRPZFpXaDVqV1pMWS1JRWtaQW8yZExUcGN0YUJHYy1mRC1zalVzVVIwVG5LMmFxNlZfMS1Lb3c",
+      "tkey": "盤勢分析FOMC利率出爐熱門族群將轉強",
+      "title": "盤勢分析》FOMC利率出爐 熱門族群將轉強 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/blvdlxff7bsv",
+      "source": "自由時報",
+      "pubDate": "Sun, 25 Oct 2026 06:46:33 GMT",
+      "stocks": [],
+      "background": "美國聯準會（FOMC）的利率決議是影響全球金融市場的重要因素，其結果會影響資金流向與市場情緒，進而牽動各類資產的表現。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiZEFVX3lxTFBBVmhTTWpFWmpGREtqZm9ocTdHdHQwbWhYekFQaFlQZlRGdDZkWGZaR0ZXdUl4MmhSLUh5M3dURGMwMVFnRVF4RGlWVGNhSlVvRE5SZXY5VlMtTk53UjNjeE1PLTTSAWRBVV95cUxQQVZoU01qRVpqRkRLamZvaHE3R3R0MG1oWHpBUGhZUGZURnQ2ZFhmWkdGV3VJeDJoUi1IeTN3VERjMDFRZ0VReERpVlRjYUpVb0ROUmV2OVZTLU5Od1IzY3hNTy00",
+      "tkey": "熱門族群台股單週重挫逾千點老AI族群逆勢抗跌",
+      "title": "熱門族群》台股單週重挫逾千點 老AI族群逆勢抗跌 - 自由財經",
+      "url": "https://ec.ltn.com.tw/amp/article/breakingnews/5615673",
+      "source": "自由財經",
+      "pubDate": "Sat, 24 Oct 2026 23:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "老AI指標廠，股價相對穩健",
+          "limitUp": false
+        },
+        {
+          "symbol": "2382",
+          "name": "廣達",
+          "point": "老AI指標廠，股價與前週持平",
+          "limitUp": false
+        },
+        {
+          "symbol": "3231",
+          "name": "緯創",
+          "point": "老AI指標廠，受ETF納入週漲4.1%",
+          "status": "逼近新高",
+          "dist": -7.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "2356",
+          "name": "英業達",
+          "point": "老AI族群，股價上漲2.54%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2324",
+          "name": "仁寶",
+          "point": "老AI族群，股價上漲1.63%",
+          "limitUp": false
+        },
+        {
+          "symbol": "4938",
+          "name": "和碩",
+          "point": "老AI族群，股價上漲1.47%",
+          "limitUp": false
+        },
+        {
+          "symbol": "6669",
+          "name": "緯穎",
+          "point": "老AI族群，股價小跌0.2%",
+          "limitUp": false
+        }
+      ],
+      "background": "AI伺服器需求持續擴張，輝達（NVIDIA）推進新世代AI工廠部署，帶動台灣電子代工廠（老AI族群）營運，產業處於高速成長期。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTFBocTNSOE5sVDhsQU14Xzl1ZXpVRC1jY0FTdU5MelpkaDhXRVd1VFptV3lqOWVGLUV5bTZqRmVFeE9aQUNjeUV4ME92bXZvOVNNZUV5d2U4ZFI",
+      "tkey": "熱門族群資金轉進化工股特化族群受矚目",
+      "title": "熱門族群》資金轉進化工股 特化族群受矚目 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/fnxbx0ykdab1",
+      "source": "自由時報",
+      "pubDate": "Sat, 24 Oct 2026 22:01:27 GMT",
+      "stocks": [],
+      "background": "特用化學品（特化）是化工產業中具高附加價值的細分領域，應用廣泛，受終端產業需求驅動，資金轉進顯示市場對其成長潛力抱持期待。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}
