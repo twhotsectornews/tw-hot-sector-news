@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-26T13:01:20.961+08:00",
-  "generatedAt": "2026-10-26T05:01:20.961Z",
+  "asOf": "2026-10-26T14:03:26.697+08:00",
+  "generatedAt": "2026-10-26T06:03:26.697Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -328,6 +328,32 @@
       "background": "AI ASIC（特殊應用積體電路）需求強勁，帶動矽智財（IP）設計服務，為先進製程提供關鍵技術授權，前景看俏。",
       "themeTags": [
         "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE5MMjNoVW8tekthUnlscUdWbV8zT1NZWWlXQ1VWQVozMnkxejJBUGtQcVd3VUhmN2Z6aFJycUItMUZuMy1rRFdwUElfQnVaVUFoTEtJXzF1Yy0",
+      "tkey": "熱門族群LED延伸高附加價值市場追逐新焦點",
+      "title": "熱門族群》LED延伸高附加價值 市場追逐新焦點 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/kylh7xby8ge8",
+      "source": "自由時報",
+      "pubDate": "Sun, 25 Oct 2026 14:34:16 GMT",
+      "stocks": [],
+      "background": "LED產業正從傳統照明轉向高附加價值應用，如車用、Mini/Micro LED顯示器等，受惠於技術進步與新興市場需求，產業正朝多元化發展。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE8yWHNiNmZQR0lkTzVDSmdVbFN4cGpSQl9wTjczUEw2aTMxWk0zNjRSdU95QjdPczJQbkxfNUloamFyeUNfcXVOd0NESVVSYzd5SWlUbHY0WnI",
+      "tkey": "熱門族群無人機條例朝野版本齊發軍工股亮燈表態",
+      "title": "熱門族群》 無人機條例朝野版本齊發 軍工股亮燈表態 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/brxsuwzf7cys",
+      "source": "自由時報",
+      "pubDate": "Sun, 25 Oct 2026 10:13:30 GMT",
+      "stocks": [],
+      "background": "台灣無人機產業受惠於政府政策推動與軍工需求，相關條例的制定有助於產業發展，軍工股因此受到市場關注。",
+      "themeTags": [
+        "政策關稅"
       ]
     },
     {
