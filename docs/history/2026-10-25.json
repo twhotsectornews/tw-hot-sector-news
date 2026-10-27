@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updatedAt": "2026-10-27T06:02:49.589Z",
+  "updatedAt": "2026-10-27T08:28:16.518Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTFBsMm9YZFdPVS1abHBvSkN4VkV0M0RIUUQxQ1k0V3NQZExnM1lfYW1FU2c5bHA2Wkk4NmhSRkN3blhnUzJpRnNIU2h2aWU4NGhzVVVqVHotcmc",
@@ -10,7 +10,7 @@
       "source": "自由時報",
       "pubDate": "Sun, 25 Oct 2026 14:34:28 GMT",
       "stocks": [],
-      "background": "AI ASIC市場需求發燒，矽智財族群前景看旺，受惠於AI伺服器與HPC等高效能運算需求驅動。",
+      "background": "AI ASIC市場需求強勁，帶動矽智財（IP）產業前景看好，主要受惠於AI晶片設計與客製化需求增加。",
       "themeTags": [
         "需求驅動"
       ]
@@ -23,7 +23,7 @@
       "source": "自由時報",
       "pubDate": "Sun, 25 Oct 2026 14:34:16 GMT",
       "stocks": [],
-      "background": "LED產業延伸高附加價值應用，市場追逐新焦點，可能與車用照明、Mini LED/Micro LED等新技術需求有關。",
+      "background": "LED產業朝向高附加價值應用發展，如Mini/Micro LED、車用照明等，成為市場追逐的新焦點。",
       "themeTags": [
         "需求驅動"
       ]
@@ -36,7 +36,7 @@
       "source": "自由時報",
       "pubDate": "Sun, 25 Oct 2026 10:13:30 GMT",
       "stocks": [],
-      "background": "無人機條例朝野版本齊發，軍工股受政策利多激勵亮燈表態，反映國防自主政策帶動產業發展。",
+      "background": "無人機條例草案引發市場對軍工股的關注，政策支持與國防自主需求推動相關產業發展。",
       "themeTags": [
         "政策關稅"
       ]
@@ -49,10 +49,19 @@
       "source": "自由時報",
       "pubDate": "Sun, 25 Oct 2026 10:06:38 GMT",
       "stocks": [],
-      "background": "台股單週重挫逾千點，老AI族群逆勢抗跌，顯示市場資金在AI領域仍有避險需求。",
-      "themeTags": [
-        "需求驅動"
-      ]
+      "background": "台股大盤重挫，但部分「老AI」族群展現逆勢抗跌特性，顯示市場對其長期價值或特定應用仍有信心。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiWEFVX3lxTFBocTNSOE5sVDhsQU14Xzl1ZXpVRC1jY0FTdU5MelpkaDhXRVd1VFptV3lqOWVGLUV5bTZqRmVFeE9aQUNjeUV4ME92bXZvOVNNZUV5d2U4ZFI",
+      "tkey": "熱門族群資金轉進化工股特化族群受矚目",
+      "title": "熱門族群》資金轉進化工股 特化族群受矚目 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/fnxbx0ykdab1",
+      "source": "自由時報",
+      "pubDate": "Sun, 25 Oct 2026 10:01:27 GMT",
+      "stocks": [],
+      "background": "資金轉向化工股，特用化學品（特化）族群因其高附加價值和特定應用領域受市場關注。",
+      "themeTags": []
     },
     {
       "gid": "CBMiWEFVX3lxTE90Y1VKdHd1OWhTZHRyeGd4SEpIUlhPZF8xVmRPZFpXaDVqV1pMWS1JRWtaQW8yZExUcGN0YUJHYy1mRC1zalVzVVIwVG5LMmFxNlZfMS1Lb3c",
@@ -124,19 +133,6 @@
       "themeTags": [
         "需求驅動",
         "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTFBocTNSOE5sVDhsQU14Xzl1ZXpVRC1jY0FTdU5MelpkaDhXRVd1VFptV3lqOWVGLUV5bTZqRmVFeE9aQUNjeUV4ME92bXZvOVNNZUV5d2U4ZFI",
-      "tkey": "熱門族群資金轉進化工股特化族群受矚目",
-      "title": "熱門族群》資金轉進化工股 特化族群受矚目 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/fnxbx0ykdab1",
-      "source": "自由時報",
-      "pubDate": "Sat, 24 Oct 2026 22:01:27 GMT",
-      "stocks": [],
-      "background": "特用化學品（特化）是化工產業中具高附加價值的細分領域，應用廣泛，受終端產業需求驅動，資金轉進顯示市場對其成長潛力抱持期待。",
-      "themeTags": [
-        "需求驅動"
       ]
     }
   ]
