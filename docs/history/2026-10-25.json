@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updatedAt": "2026-10-27T08:28:16.518Z",
+  "updatedAt": "2026-10-27T09:41:19.919Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTFBsMm9YZFdPVS1abHBvSkN4VkV0M0RIUUQxQ1k0V3NQZExnM1lfYW1FU2c5bHA2Wkk4NmhSRkN3blhnUzJpRnNIU2h2aWU4NGhzVVVqVHotcmc",
@@ -10,7 +10,7 @@
       "source": "自由時報",
       "pubDate": "Sun, 25 Oct 2026 14:34:28 GMT",
       "stocks": [],
-      "background": "AI ASIC市場需求強勁，帶動矽智財（IP）產業前景看好，主要受惠於AI晶片設計與客製化需求增加。",
+      "background": "AI ASIC市場因AI應用需求爆發而快速成長，矽智財（IP）作為晶片設計的關鍵，其需求也隨之看漲，產業前景樂觀。",
       "themeTags": [
         "需求驅動"
       ]
@@ -23,10 +23,8 @@
       "source": "自由時報",
       "pubDate": "Sun, 25 Oct 2026 14:34:16 GMT",
       "stocks": [],
-      "background": "LED產業朝向高附加價值應用發展，如Mini/Micro LED、車用照明等，成為市場追逐的新焦點。",
-      "themeTags": [
-        "需求驅動"
-      ]
+      "background": "LED產業透過技術創新，從傳統照明轉向高附加價值的應用，如Mini LED、Micro LED等，開拓新市場需求。",
+      "themeTags": []
     },
     {
       "gid": "CBMiWEFVX3lxTE8yWHNiNmZQR0lkTzVDSmdVbFN4cGpSQl9wTjczUEw2aTMxWk0zNjRSdU95QjdPczJQbkxfNUloamFyeUNfcXVOd0NESVVSYzd5SWlUbHY0WnI",
@@ -36,7 +34,7 @@
       "source": "自由時報",
       "pubDate": "Sun, 25 Oct 2026 10:13:30 GMT",
       "stocks": [],
-      "background": "無人機條例草案引發市場對軍工股的關注，政策支持與國防自主需求推動相關產業發展。",
+      "background": "無人機產業受惠於政府政策推動與國防需求增加，相關法規的制定進一步明確產業發展方向，帶動軍工股表現。",
       "themeTags": [
         "政策關稅"
       ]
@@ -49,7 +47,7 @@
       "source": "自由時報",
       "pubDate": "Sun, 25 Oct 2026 10:06:38 GMT",
       "stocks": [],
-      "background": "台股大盤重挫，但部分「老AI」族群展現逆勢抗跌特性，顯示市場對其長期價值或特定應用仍有信心。",
+      "background": "在台股大盤重挫之際，部分具備穩定獲利能力或特定利基的AI相關老牌族群展現抗跌性，顯示市場資金尋求避險。",
       "themeTags": []
     },
     {
@@ -60,8 +58,10 @@
       "source": "自由時報",
       "pubDate": "Sun, 25 Oct 2026 10:01:27 GMT",
       "stocks": [],
-      "background": "資金轉向化工股，特用化學品（特化）族群因其高附加價值和特定應用領域受市場關注。",
-      "themeTags": []
+      "background": "特用化學品因其高附加價值和客製化特性，在電子、汽車、醫療等領域應用廣泛，受資金青睞，市場關注度提升。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiWEFVX3lxTE90Y1VKdHd1OWhTZHRyeGd4SEpIUlhPZF8xVmRPZFpXaDVqV1pMWS1JRWtaQW8yZExUcGN0YUJHYy1mRC1zalVzVVIwVG5LMmFxNlZfMS1Lb3c",
