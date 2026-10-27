@@ -1,99 +1,11 @@
 {
-  "asOf": "2026-10-27T23:17:49.989+08:00",
-  "generatedAt": "2026-10-27T15:17:49.989Z",
+  "asOf": "2026-10-28T00:00:28.917+08:00",
+  "generatedAt": "2026-10-27T16:00:28.917Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
-    {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 3,
-      "dates": [
-        "10/27",
-        "10/22",
-        "10/21"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "1802",
-      "name": "台玻",
-      "days": 3,
-      "dates": [
-        "10/27",
-        "10/22",
-        "10/21"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "1815",
-      "name": "富喬",
-      "days": 3,
-      "dates": [
-        "10/27",
-        "10/22",
-        "10/21"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "5340",
-      "name": "建榮",
-      "days": 3,
-      "dates": [
-        "10/27",
-        "10/22",
-        "10/21"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "5475",
-      "name": "德宏",
-      "days": 3,
-      "dates": [
-        "10/27",
-        "10/22",
-        "10/21"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "3037",
-      "name": "欣興",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/21"
-      ],
-      "mentions": 4,
-      "limitUp": false
-    },
-    {
-      "symbol": "6672",
-      "name": "騰輝電子-KY",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/21"
-      ],
-      "mentions": 4,
-      "status": "逼近新高",
-      "dist": -8.7,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/21"
-      ]
-    },
     {
       "symbol": "2383",
       "name": "台光電",
@@ -106,43 +18,59 @@
       "limitUp": false
     },
     {
-      "symbol": "3189",
-      "name": "景碩",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/21"
-      ],
-      "mentions": 3,
-      "status": "高檔修正",
-      "dist": -14.3,
-      "limitUp": false
-    },
-    {
-      "symbol": "7717",
-      "name": "萊德光電",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/21"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "6213",
-      "name": "聯茂",
+      "symbol": "1303",
+      "name": "南亞",
       "days": 2,
       "dates": [
         "10/27",
-        "10/21"
+        "10/22"
       ],
       "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/21"
-      ]
+      "limitUp": false
+    },
+    {
+      "symbol": "1802",
+      "name": "台玻",
+      "days": 2,
+      "dates": [
+        "10/27",
+        "10/22"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "1815",
+      "name": "富喬",
+      "days": 2,
+      "dates": [
+        "10/27",
+        "10/22"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "5340",
+      "name": "建榮",
+      "days": 2,
+      "dates": [
+        "10/27",
+        "10/22"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "5475",
+      "name": "德宏",
+      "days": 2,
+      "dates": [
+        "10/27",
+        "10/22"
+      ],
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "2892",
@@ -214,61 +142,6 @@
       "dates": [
         "10/25",
         "10/22"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "8358",
-      "name": "金居",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/21"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "8021",
-      "name": "尖點",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/21"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "8046",
-      "name": "南電",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/21"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2367",
-      "name": "燿華",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/21"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "6271",
-      "name": "同欣電",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/21"
       ],
       "mentions": 2,
       "limitUp": false
