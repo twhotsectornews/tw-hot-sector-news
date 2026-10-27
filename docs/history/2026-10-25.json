@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updatedAt": "2026-10-27T04:03:19.178Z",
+  "updatedAt": "2026-10-27T05:04:30.551Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTFBsMm9YZFdPVS1abHBvSkN4VkV0M0RIUUQxQ1k0V3NQZExnM1lfYW1FU2c5bHA2Wkk4NmhSRkN3blhnUzJpRnNIU2h2aWU4NGhzVVVqVHotcmc",
@@ -10,7 +10,7 @@
       "source": "自由時報",
       "pubDate": "Sun, 25 Oct 2026 14:34:28 GMT",
       "stocks": [],
-      "background": "AI ASIC 市場受惠於 AI 晶片需求爆發，矽智財（IP）業者提供關鍵設計服務，成為 AI 發展不可或缺的一環，產業前景看好。",
+      "background": "AI ASIC（應用特定積體電路）市場需求強勁，帶動矽智財（IP）設計業者營運成長，為AI晶片設計關鍵環節。",
       "themeTags": [
         "需求驅動"
       ]
@@ -23,10 +23,8 @@
       "source": "自由時報",
       "pubDate": "Sun, 25 Oct 2026 14:34:16 GMT",
       "stocks": [],
-      "background": "LED 產業透過技術創新，延伸至高附加價值應用領域，如 Mini/Micro LED、車用照明等，吸引市場關注。",
-      "themeTags": [
-        "需求驅動"
-      ]
+      "background": "LED產業朝向高附加價值應用發展，如Micro LED、車用照明等新興領域，成為市場追逐的新焦點。",
+      "themeTags": []
     },
     {
       "gid": "CBMiWEFVX3lxTE8yWHNiNmZQR0lkTzVDSmdVbFN4cGpSQl9wTjczUEw2aTMxWk0zNjRSdU95QjdPczJQbkxfNUloamFyeUNfcXVOd0NESVVSYzd5SWlUbHY0WnI",
@@ -36,7 +34,7 @@
       "source": "自由時報",
       "pubDate": "Sun, 25 Oct 2026 10:13:30 GMT",
       "stocks": [],
-      "background": "無人機條例的立法進程加速，軍工產業受惠於政策支持與國防自主需求，相關概念股表現強勁。",
+      "background": "政府積極推動無人機產業發展，相關法規鬆綁與標案釋出，帶動軍工概念股表現。",
       "themeTags": [
         "政策關稅"
       ]
@@ -49,7 +47,7 @@
       "source": "自由時報",
       "pubDate": "Sun, 25 Oct 2026 06:46:33 GMT",
       "stocks": [],
-      "background": "美國聯準會（FOMC）利率決議出爐後，市場不確定性降低，資金可能重新配置，帶動特定熱門族群轉強。",
+      "background": "美國聯準會（FOMC）利率決策會議結果影響全球資金流向，預期有利於股市表現，帶動熱門族群轉強。",
       "themeTags": []
     },
     {
@@ -60,8 +58,10 @@
       "source": "自由時報",
       "pubDate": "Sun, 25 Oct 2026 05:06:38 GMT",
       "stocks": [],
-      "background": "在台股大盤重挫之際，部分「老AI」族群因其穩健的基本面或特定應用需求，展現較強的抗跌性。",
-      "themeTags": []
+      "background": "儘管整體台股市場因國際因素重挫，但具備長期成長趨勢的AI伺服器相關零組件（老AI）仍具備抗跌性，吸引資金關注。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiZEFVX3lxTFBBVmhTTWpFWmpGREtqZm9ocTdHdHQwbWhYekFQaFlQZlRGdDZkWGZaR0ZXdUl4MmhSLUh5M3dURGMwMVFnRVF4RGlWVGNhSlVvRE5SZXY5VlMtTk53UjNjeE1PLTTSAWRBVV95cUxQQVZoU01qRVpqRkRLamZvaHE3R3R0MG1oWHpBUGhZUGZURnQ2ZFhmWkdGV3VJeDJoUi1IeTN3VERjMDFRZ0VReERpVlRjYUpVb0ROUmV2OVZTLU5Od1IzY3hNTy00",
