@@ -1,11 +1,71 @@
 {
-  "asOf": "2026-10-27T18:41:08.520+08:00",
-  "generatedAt": "2026-10-27T10:41:08.520Z",
+  "asOf": "2026-10-27T23:17:49.989+08:00",
+  "generatedAt": "2026-10-27T15:17:49.989Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 3,
+      "dates": [
+        "10/27",
+        "10/22",
+        "10/21"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "1802",
+      "name": "台玻",
+      "days": 3,
+      "dates": [
+        "10/27",
+        "10/22",
+        "10/21"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "1815",
+      "name": "富喬",
+      "days": 3,
+      "dates": [
+        "10/27",
+        "10/22",
+        "10/21"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "5340",
+      "name": "建榮",
+      "days": 3,
+      "dates": [
+        "10/27",
+        "10/22",
+        "10/21"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "5475",
+      "name": "德宏",
+      "days": 3,
+      "dates": [
+        "10/27",
+        "10/22",
+        "10/21"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
     {
       "symbol": "3037",
       "name": "欣興",
@@ -35,6 +95,17 @@
       ]
     },
     {
+      "symbol": "2383",
+      "name": "台光電",
+      "days": 2,
+      "dates": [
+        "10/27",
+        "10/22"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "3189",
       "name": "景碩",
       "days": 2,
@@ -57,6 +128,21 @@
       ],
       "mentions": 3,
       "limitUp": false
+    },
+    {
+      "symbol": "6213",
+      "name": "聯茂",
+      "days": 2,
+      "dates": [
+        "10/27",
+        "10/21"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/21"
+      ]
     },
     {
       "symbol": "2892",
@@ -133,65 +219,6 @@
       "limitUp": false
     },
     {
-      "symbol": "1802",
-      "name": "台玻",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/21"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "1815",
-      "name": "富喬",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/21"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -13.6,
-      "limitUp": false
-    },
-    {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/21"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -13.8,
-      "limitUp": false
-    },
-    {
-      "symbol": "5340",
-      "name": "建榮",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/21"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "5475",
-      "name": "德宏",
-      "days": 2,
-      "dates": [
-        "10/22",
-        "10/21"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
       "symbol": "8358",
       "name": "金居",
       "days": 2,
@@ -248,6 +275,72 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOY242M0laZThpRTN2LWVuc3U2S0h4Mk5GbjVoQlMxMEs1RFRCNWVTaUlCN1lQZlFibXZkQS1RRDQ0NkkyblQ0SnlaUWd4LUhDTWw1T3FYbElJV05FTEU5RWF0ZXEtQ2NEMGk5TmpyNUdIZ1B0MU9Cb3IyLTdHQmFod0RLblhTMmhl",
+      "tkey": "熱門族群玻纖布、銅箔開高走低南亞翻黑、台光電跌逾6%",
+      "title": "《熱門族群》玻纖布、銅箔開高走低 南亞翻黑、台光電跌逾6% - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6340751001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 27 Oct 2026 03:14:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "開高後震盪，盤中跌逾2%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "開高後翻黑，下探10日線",
+          "limitUp": false
+        },
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "開高後翻黑，回測月線大關",
+          "limitUp": false
+        },
+        {
+          "symbol": "5340",
+          "name": "建榮",
+          "point": "開高後壓回整理",
+          "limitUp": false
+        },
+        {
+          "symbol": "5475",
+          "name": "德宏",
+          "point": "開高後壓回整理",
+          "limitUp": false
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "盤中跌逾6%，探本波低點",
+          "limitUp": false
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "盤中摜到跌停回探月線",
+          "limitUp": false
+        },
+        {
+          "symbol": "6213",
+          "name": "聯茂",
+          "point": "自高檔觸及漲停後下壓，盤中跌3%",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/21"
+          ]
+        }
+      ],
+      "background": "PCB產業受惠AI帶動成長，上游玻纖布、銅箔基板廠第四季需求續旺，但台股大盤走勢不順，獲利回吐賣壓湧出。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPVlRnUU55U2p6d3BKTHlLX055dDVZOFJhZTJvTklHUEFuZWk2NTA5am8tckZmRWhxQXdKeFhnRm54ZVJCNkduRjFnU0ZKdzlMRF9yYUM1dkVRUnk3UzJGU25mWWRVUnY3YUlYZjRCb2VBZ2hSTUhZeU4yNEVaMUtMTTM4QkdCajUz",
       "tkey": "熱門族群金控股創高遇亂流！合庫金最猛玉山金50元得而復失",
