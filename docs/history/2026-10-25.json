@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updatedAt": "2026-10-27T09:41:19.919Z",
+  "updatedAt": "2026-10-27T10:41:08.517Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTFBsMm9YZFdPVS1abHBvSkN4VkV0M0RIUUQxQ1k0V3NQZExnM1lfYW1FU2c5bHA2Wkk4NmhSRkN3blhnUzJpRnNIU2h2aWU4NGhzVVVqVHotcmc",
@@ -10,9 +10,10 @@
       "source": "自由時報",
       "pubDate": "Sun, 25 Oct 2026 14:34:28 GMT",
       "stocks": [],
-      "background": "AI ASIC市場因AI應用需求爆發而快速成長，矽智財（IP）作為晶片設計的關鍵，其需求也隨之看漲，產業前景樂觀。",
+      "background": "AI ASIC市場需求強勁，帶動矽智財（IP）產業成長，國際大廠如ARM、Synopsys等持續投入研發，台灣廠商受惠於AI晶片設計需求。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "國際大廠"
       ]
     },
     {
@@ -23,8 +24,10 @@
       "source": "自由時報",
       "pubDate": "Sun, 25 Oct 2026 14:34:16 GMT",
       "stocks": [],
-      "background": "LED產業透過技術創新，從傳統照明轉向高附加價值的應用，如Mini LED、Micro LED等，開拓新市場需求。",
-      "themeTags": []
+      "background": "LED產業積極轉型，從傳統照明延伸至車用、Mini/Micro LED等高附加價值應用，受惠於顯示技術升級與電動車市場成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiWEFVX3lxTE8yWHNiNmZQR0lkTzVDSmdVbFN4cGpSQl9wTjczUEw2aTMxWk0zNjRSdU95QjdPczJQbkxfNUloamFyeUNfcXVOd0NESVVSYzd5SWlUbHY0WnI",
