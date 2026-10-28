@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-28T12:03:39.833+08:00",
-  "generatedAt": "2026-10-28T04:03:39.833Z",
+  "asOf": "2026-10-28T13:03:57.385+08:00",
+  "generatedAt": "2026-10-28T05:03:57.385Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -210,6 +210,109 @@
   ],
   "news": [
     {
+      "gid": "CBMikgFBVV95cUxQTDVOSUtUWWJUX1dLV1d6ekdVZG9fLXBlaDRfRTU3U25UNWliWUdLQTBvOEFVRGJDUUwtSWdOQTlrZWpYekh0WjFGVlBSZXZVMnltU19jLWhCOVRXRUFtampMY2hEVHVmdno0T3VMbHRtZXJxZklNQ0M5U205N3lmQWt4a3lzdFpMZGxVSk1zRDBsZw",
+      "tkey": "熱門族群機器人惦惦衝！東台超威飛天股年飆4倍",
+      "title": "《熱門族群》機器人惦惦衝！東台超威 飛天股年飆4倍 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6341886001&pu=News_0002_3",
+      "source": "富聯網",
+      "pubDate": "Wed, 28 Oct 2026 04:07:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2466",
+          "name": "冠西電",
+          "point": "亮燈攻頂",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "10/27",
+            "10/21"
+          ]
+        },
+        {
+          "symbol": "4526",
+          "name": "東台",
+          "point": "亮燈攻頂，創逾15年高價",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 2,
+          "luwd": [
+            "10/27",
+            "10/21"
+          ]
+        },
+        {
+          "symbol": "3498",
+          "name": "陽程",
+          "point": "亮燈攻頂，衝上新天價",
+          "status": "逼近新高",
+          "dist": -4.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "3379",
+          "name": "彬台",
+          "point": "亮燈攻頂",
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "10/27",
+            "10/22",
+            "10/21"
+          ]
+        },
+        {
+          "symbol": "6166",
+          "name": "凌華",
+          "point": "同步走強表態",
+          "limitUp": false
+        },
+        {
+          "symbol": "4583",
+          "name": "台灣精銳",
+          "point": "同步走強表態",
+          "limitUp": false
+        },
+        {
+          "symbol": "4576",
+          "name": "大銀微系統",
+          "point": "同步走強表態",
+          "limitUp": false
+        },
+        {
+          "symbol": "6209",
+          "name": "今國光",
+          "point": "同步走強表態",
+          "limitUp": false
+        },
+        {
+          "symbol": "3708",
+          "name": "上緯投控",
+          "point": "同步走強表態",
+          "limitUp": false
+        },
+        {
+          "symbol": "2049",
+          "name": "上銀",
+          "point": "供貨美系大廠人形機器人零組件",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/27"
+          ]
+        }
+      ],
+      "background": "機器人產業受輝達、特斯拉、豐田等國際大廠積極推動，加上工具機展催動，帶動半導體、AI及高階製造需求，產業景氣復甦訊號明確。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxORlZIQWd1RTY2RXhSNDVmeDBYODBlOEN2YXZmREI4Y241Vm55V2YtWnhUMjVCb2puY2ZCNnZCd21zQkpfN3U4bjYtaXJqUUxsc0ZQSGtxUTRMV1p5Y1pWMFdRaWRHaVhKS1J3TDAzU0J1OTlMdjVySS1CZGN2Tkl5NG9BSTNKWFRf",
       "tkey": "熱門族群SK海力士看旺助攻記憶體多頭升溫",
       "title": "《熱門族群》SK海力士看旺助攻 記憶體多頭升溫 - 富聯網",
@@ -251,7 +354,9 @@
           "symbol": "3006",
           "name": "晶豪科",
           "point": "跳空開高逾3%站回月線",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -14.1
         },
         {
           "symbol": "6239",
