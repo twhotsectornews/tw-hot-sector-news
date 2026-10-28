@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-28T17:41:05.687+08:00",
-  "generatedAt": "2026-10-28T09:41:05.687Z",
+  "asOf": "2026-10-28T18:41:36.286+08:00",
+  "generatedAt": "2026-10-28T10:41:36.286Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -616,6 +616,19 @@
       "pubDate": "Tue, 27 Oct 2026 20:25:23 GMT",
       "stocks": [],
       "background": "國際油價回落有助於降低航空公司的營運成本，加上暑假旅遊旺季來臨，預期將帶動客運需求增加，有利於航空業營收成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTFBITlVYN0ZDUXk3c18tdzNzX2VIXzhhMUlpZ0pBLVpmMllMZGdIdlB3SzVySFRTVk9sREV5S2dHN0h6Wm8yVDRrUWpGZWtMWXpJeGJGbHFzZW0",
+      "tkey": "熱門族群AIASIC訂單強勁矽智財族群蓄勢待發",
+      "title": "熱門族群》AI ASIC訂單強勁 矽智財族群蓄勢待發 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/ubmjyhj3tbmq",
+      "source": "自由時報",
+      "pubDate": "Tue, 27 Oct 2026 11:48:14 GMT",
+      "stocks": [],
+      "background": "AI ASIC 訂單強勁，帶動矽智財（IP）需求。矽智財為晶片設計關鍵，受惠於 AI、HPC 等先進製程發展，產業前景看好。",
       "themeTags": [
         "需求驅動"
       ]
