@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-28T13:03:57.385+08:00",
-  "generatedAt": "2026-10-28T05:03:57.385Z",
+  "asOf": "2026-10-28T14:04:14.155+08:00",
+  "generatedAt": "2026-10-28T06:04:14.155Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -223,7 +223,8 @@
           "point": "亮燈攻頂",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 2,
           "luwd": [
             "10/27",
@@ -336,7 +337,8 @@
           "symbol": "3260",
           "name": "威剛",
           "point": "勁揚8%",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "6770",
@@ -354,9 +356,10 @@
           "symbol": "3006",
           "name": "晶豪科",
           "point": "跳空開高逾3%站回月線",
-          "limitUp": false,
+          "limitUp": true,
           "status": "高檔修正",
-          "dist": -14.1
+          "dist": -14.1,
+          "pct": 10
         },
         {
           "symbol": "6239",
@@ -392,7 +395,8 @@
           "point": "大漲逾8%朝漲停挺進",
           "status": "逼近新高",
           "dist": -8.6,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "3653",
@@ -426,7 +430,8 @@
           "point": "強勢攻上漲停創歷史新高",
           "status": "創新高",
           "dist": 0,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "10/21"
@@ -442,7 +447,8 @@
           "symbol": "6510",
           "name": "精測",
           "point": "同步亮燈漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "3661",
