@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-28T18:41:36.286+08:00",
-  "generatedAt": "2026-10-28T10:41:36.286Z",
+  "asOf": "2026-10-28T23:55:47.893+08:00",
+  "generatedAt": "2026-10-28T15:55:47.893Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -618,6 +618,19 @@
       "background": "國際油價回落有助於降低航空公司的營運成本，加上暑假旅遊旺季來臨，預期將帶動客運需求增加，有利於航空業營收成長。",
       "themeTags": [
         "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE9laVlJajg5eDBzTUNIcnV5cVJWSmlGaVBJeHlZLW9yeFBKWTFmVTlGdEMwSUNlOHF5NEpPMnBYRS1OQ3JTb1dNcHZDY1d6by1wSVlRTlczcUs",
+      "tkey": "熱門族群立院三讀利多出盡？軍工股虎頭蛇尾",
+      "title": "熱門族群》立院三讀利多出盡？軍工股虎頭蛇尾 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/huza9tbwx0af",
+      "source": "自由時報",
+      "pubDate": "Tue, 27 Oct 2026 17:46:38 GMT",
+      "stocks": [],
+      "background": "軍工產業受惠於政府國防自主政策推動，訂單能見度提升，但短期可能面臨利多出盡的修正壓力。",
+      "themeTags": [
+        "政策關稅"
       ]
     },
     {
