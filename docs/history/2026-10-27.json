@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "updatedAt": "2026-10-28T03:05:50.662Z",
+  "updatedAt": "2026-10-28T04:03:39.831Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOY242M0laZThpRTN2LWVuc3U2S0h4Mk5GbjVoQlMxMEs1RFRCNWVTaUlCN1lQZlFibXZkQS1RRDQ0NkkyblQ0SnlaUWd4LUhDTWw1T3FYbElJV05FTEU5RWF0ZXEtQ2NEMGk5TmpyNUdIZ1B0MU9Cb3IyLTdHQmFod0RLblhTMmhl",
@@ -61,6 +61,8 @@
           "name": "聯茂",
           "point": "自高檔觸及漲停後下壓，盤中跌3%",
           "limitUp": false,
+          "status": "高檔修正",
+          "dist": -13.7,
           "luw": 1,
           "luwd": [
             "10/21"
