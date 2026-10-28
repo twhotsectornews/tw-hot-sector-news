@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-28T14:04:14.155+08:00",
-  "generatedAt": "2026-10-28T06:04:14.155Z",
+  "asOf": "2026-10-28T17:06:02.182+08:00",
+  "generatedAt": "2026-10-28T09:06:02.182Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -109,7 +109,13 @@
       "mentions": 2,
       "status": "高檔修正",
       "dist": -13.6,
-      "limitUp": false
+      "limitUp": false,
+      "luw": 3,
+      "luwd": [
+        "10/27",
+        "10/22",
+        "10/21"
+      ]
     },
     {
       "symbol": "5340",
@@ -257,7 +263,8 @@
           "symbol": "3379",
           "name": "彬台",
           "point": "亮燈攻頂",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 3,
           "luwd": [
             "10/27",
@@ -314,6 +321,36 @@
       ]
     },
     {
+      "gid": "CBMiakFVX3lxTE51RGZtM01jUVlqSl94S1RDVEhvSkZ5ZkFxSXZEREhnNTZEQ2VZSnc3RU5QZGY0TE91Zi1tdDlDTm9IeUhBa29hR21MRGQyRFNJVkFsOXZ4b21PZXlERERVRXA0STVDVThGRmc",
+      "tkey": "熱門族群遠傳宣布衛星新合作！台灣大不甘示弱秀出2年布局成績單-上市櫃",
+      "title": "《熱門族群》遠傳宣布衛星新合作！台灣大不甘示弱秀出2年布局成績單- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20261028900133-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Wed, 28 Oct 2026 02:21:26 GMT",
+      "stocks": [
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "point": "宣布攜手國際衛星通訊業者Elveo Mobile",
+          "status": "逼近新高",
+          "dist": -3.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "point": "秀出2年布局成績單並與Elveo Mobile結盟",
+          "status": "逼近新高",
+          "dist": -1.9,
+          "limitUp": false
+        }
+      ],
+      "background": "電信業者積極布局手機直連衛星服務，透過與國際衛星通訊業者合作，提升網路覆蓋能力及通訊韌性，以應對極端氣候與偏遠地區通訊需求。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxORlZIQWd1RTY2RXhSNDVmeDBYODBlOEN2YXZmREI4Y241Vm55V2YtWnhUMjVCb2puY2ZCNnZCd21zQkpfN3U4bjYtaXJqUUxsc0ZQSGtxUTRMV1p5Y1pWMFdRaWRHaVhKS1J3TDAzU0J1OTlMdjVySS1CZGN2Tkl5NG9BSTNKWFRf",
       "tkey": "熱門族群SK海力士看旺助攻記憶體多頭升溫",
       "title": "《熱門族群》SK海力士看旺助攻 記憶體多頭升溫 - 富聯網",
@@ -338,7 +375,13 @@
           "name": "威剛",
           "point": "勁揚8%",
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "luw": 3,
+          "luwd": [
+            "10/27",
+            "10/22",
+            "10/21"
+          ]
         },
         {
           "symbol": "6770",
@@ -448,7 +491,13 @@
           "name": "精測",
           "point": "同步亮燈漲停",
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "luw": 3,
+          "luwd": [
+            "10/27",
+            "10/22",
+            "10/21"
+          ]
         },
         {
           "symbol": "3661",
@@ -599,7 +648,13 @@
           "point": "開高後翻黑，回測月線大關",
           "limitUp": false,
           "status": "高檔修正",
-          "dist": -13.6
+          "dist": -13.6,
+          "luw": 3,
+          "luwd": [
+            "10/27",
+            "10/22",
+            "10/21"
+          ]
         },
         {
           "symbol": "5340",
