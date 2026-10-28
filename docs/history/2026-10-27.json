@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-27",
+  "updatedAt": "2026-10-28T03:05:50.662Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOY242M0laZThpRTN2LWVuc3U2S0h4Mk5GbjVoQlMxMEs1RFRCNWVTaUlCN1lQZlFibXZkQS1RRDQ0NkkyblQ0SnlaUWd4LUhDTWw1T3FYbElJV05FTEU5RWF0ZXEtQ2NEMGk5TmpyNUdIZ1B0MU9Cb3IyLTdHQmFod0RLblhTMmhl",
+      "tkey": "熱門族群玻纖布、銅箔開高走低南亞翻黑、台光電跌逾6%",
+      "title": "《熱門族群》玻纖布、銅箔開高走低 南亞翻黑、台光電跌逾6% - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6340751001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 27 Oct 2026 03:14:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "開高後震盪，盤中跌逾2%",
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -11.1
+        },
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "開高後翻黑，下探10日線",
+          "limitUp": false
+        },
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "開高後翻黑，回測月線大關",
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -13.6
+        },
+        {
+          "symbol": "5340",
+          "name": "建榮",
+          "point": "開高後壓回整理",
+          "limitUp": false
+        },
+        {
+          "symbol": "5475",
+          "name": "德宏",
+          "point": "開高後壓回整理",
+          "limitUp": false
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "盤中跌逾6%，探本波低點",
+          "limitUp": false
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "盤中摜到跌停回探月線",
+          "limitUp": false
+        },
+        {
+          "symbol": "6213",
+          "name": "聯茂",
+          "point": "自高檔觸及漲停後下壓，盤中跌3%",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/21"
+          ]
+        }
+      ],
+      "background": "PCB產業受惠AI帶動成長，上游玻纖布、銅箔基板廠第四季需求續旺，但台股大盤走勢不順，獲利回吐賣壓湧出。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPVlRnUU55U2p6d3BKTHlLX055dDVZOFJhZTJvTklHUEFuZWk2NTA5am8tckZmRWhxQXdKeFhnRm54ZVJCNkduRjFnU0ZKdzlMRF9yYUM1dkVRUnk3UzJGU25mWWRVUnY3YUlYZjRCb2VBZ2hSTUhZeU4yNEVaMUtMTTM4QkdCajUz",
+      "tkey": "熱門族群金控股創高遇亂流！合庫金最猛玉山金50元得而復失",
+      "title": "《熱門族群》金控股創高遇亂流！合庫金最猛 玉山金50元得而復失 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6340747001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 27 Oct 2026 03:08:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2892",
+          "name": "第一金",
+          "point": "早盤一度衝上43.45元",
+          "status": "逼近新高",
+          "dist": -0.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "2880",
+          "name": "華南金",
+          "point": "盤中觸及51元新高",
+          "status": "逼近新高",
+          "dist": -1.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "2886",
+          "name": "兆豐金",
+          "point": "股價一度攻上56元",
+          "status": "逼近新高",
+          "dist": -1.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "5880",
+          "name": "合庫金",
+          "point": "盤中衝上29.1元創新高",
+          "status": "逼近新高",
+          "dist": -1,
+          "limitUp": false
+        },
+        {
+          "symbol": "2881",
+          "name": "富邦金",
+          "point": "股價持穩160元之上",
+          "status": "逼近新高",
+          "dist": -1.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "2884",
+          "name": "玉山金",
+          "point": "盤中正式突破50元關卡",
+          "status": "逼近新高",
+          "dist": -1.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "2891",
+          "name": "中信金",
+          "point": "開盤即衝上76.9元新高",
+          "status": "逼近新高",
+          "dist": -2.5,
+          "limitUp": false
+        }
+      ],
+      "background": "公股投信「四合一」整併案拍板，為公股金控增添題材，帶動多檔金控股價創高，但受大盤震盪影響漲幅收斂。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQN3pKcmZOTnBEOEo1b19IaWVFNUt2WnloSGJfZlNXYTVfQ2ZyTW1KbnBaT0hCNDhtbk16V2FEc3hIekxHMEp2aUhCV0I2WHV1TEd2QVlqci1od3hmX2hzQ0RHdmdpYzJZN3VQTUZIN2tVZHlTZlBTR1RCWlU0eFhXVzVEVG56cExl",
+      "tkey": "熱門族群費半反彈助攻南亞科漲7%率記憶體走強",
+      "title": "《熱門族群》費半反彈助攻 南亞科漲7%率記憶體走強 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6340677001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 27 Oct 2026 02:45:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "盤中大漲7%站回5日均線",
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "盤中漲逾3%提振市場信心",
+          "limitUp": false
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "早盤帶動上攻",
+          "limitUp": false
+        },
+        {
+          "symbol": "4967",
+          "name": "十銓",
+          "point": "衝漲5%",
+          "limitUp": false
+        }
+      ],
+      "background": "美股費半反彈助攻，記憶體大廠美光、SK海力士勁揚，帶動台系記憶體股買盤進場，產業景氣有望回升。",
+      "themeTags": [
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQVDlCOFFVakVTM2lFWnYtZlRXblV5bGtpQXJGXzhReHNUcDRSUXlfU3dFZU1pZ2Z1SXlCVzVTenJJclYxSTNYXzZZbUtXTWN6ck1md3JoWE5TSmhBMTl6SUQ0QjRfdzQxQXBPLWcwM0ItYk5hU1p0eEh1RlhuTUNXY3V3RnpCcTJv",
+      "tkey": "熱門族群強茂、台半、德微卡位AI電源升級潮",
+      "title": "《熱門族群》強茂、台半、德微 卡位AI電源升級潮 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6340372001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 27 Oct 2026 00:31:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2486",
+          "name": "強茂",
+          "point": "卡位AI電源升級潮",
+          "limitUp": false
+        },
+        {
+          "symbol": "5425",
+          "name": "台半",
+          "point": "卡位AI電源升級潮",
+          "limitUp": false
+        },
+        {
+          "symbol": "3675",
+          "name": "德微",
+          "point": "卡位AI電源升級潮",
+          "limitUp": false
+        }
+      ],
+      "background": "二極體廠受惠於AI伺服器與高效能運算（HPC）對電源管理需求提升，產品升級帶動營收成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE5hc3BycElaUE9sRjZxMUpkaFkwVGVJeFg0ZWFxZEM1UHlxZGg1Mkp3MFN0aU1FekNFRUlRS0FPZXJrV1NpU3VBYVNuZUpuSm0wNjV5ZjRvTjA",
+      "tkey": "熱門族群化工股轉型半導體有成股價扶搖直上",
+      "title": "熱門族群》化工股轉型半導體有成 股價扶搖直上 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/kkqdmbx050rn",
+      "source": "自由時報",
+      "pubDate": "Mon, 26 Oct 2026 19:34:47 GMT",
+      "stocks": [],
+      "background": "化工股透過轉型進入半導體產業，搭上全球半導體景氣復甦的列車，成功開拓新成長動能。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}

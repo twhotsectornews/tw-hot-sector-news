@@ -1,11 +1,33 @@
 {
-  "asOf": "2026-10-28T00:00:28.917+08:00",
-  "generatedAt": "2026-10-27T16:00:28.917Z",
+  "asOf": "2026-10-28T11:05:50.666+08:00",
+  "generatedAt": "2026-10-28T03:05:50.666Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "2408",
+      "name": "南亞科",
+      "days": 2,
+      "dates": [
+        "10/28",
+        "10/27"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2344",
+      "name": "華邦電",
+      "days": 2,
+      "dates": [
+        "10/28",
+        "10/27"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
     {
       "symbol": "2383",
       "name": "台光電",
@@ -18,6 +40,39 @@
       "limitUp": false
     },
     {
+      "symbol": "6770",
+      "name": "力積電",
+      "days": 2,
+      "dates": [
+        "10/28",
+        "10/27"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "4967",
+      "name": "十銓",
+      "days": 2,
+      "dates": [
+        "10/28",
+        "10/27"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3653",
+      "name": "健策",
+      "days": 2,
+      "dates": [
+        "10/28",
+        "10/22"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "1303",
       "name": "南亞",
       "days": 2,
@@ -26,6 +81,8 @@
         "10/22"
       ],
       "mentions": 2,
+      "status": "高檔修正",
+      "dist": -11.1,
       "limitUp": false
     },
     {
@@ -48,6 +105,8 @@
         "10/22"
       ],
       "mentions": 2,
+      "status": "高檔修正",
+      "dist": -13.6,
       "limitUp": false
     },
     {
@@ -149,6 +208,255 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxORlZIQWd1RTY2RXhSNDVmeDBYODBlOEN2YXZmREI4Y241Vm55V2YtWnhUMjVCb2puY2ZCNnZCd21zQkpfN3U4bjYtaXJqUUxsc0ZQSGtxUTRMV1p5Y1pWMFdRaWRHaVhKS1J3TDAzU0J1OTlMdjVySS1CZGN2Tkl5NG9BSTNKWFRf",
+      "tkey": "熱門族群SK海力士看旺助攻記憶體多頭升溫",
+      "title": "《熱門族群》SK海力士看旺助攻 記憶體多頭升溫 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealTimeNews/NewsContent.aspx?SN=6341769001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Wed, 28 Oct 2026 02:14:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "領軍上攻重回5日及10日均線",
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "領軍上攻盤中漲3%挑戰月線",
+          "limitUp": false
+        },
+        {
+          "symbol": "3260",
+          "name": "威剛",
+          "point": "勁揚8%",
+          "limitUp": false
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "早盤上攻股價重回70元之上",
+          "limitUp": false
+        },
+        {
+          "symbol": "4967",
+          "name": "十銓",
+          "point": "續揚站回所有均線之上",
+          "limitUp": false
+        },
+        {
+          "symbol": "3006",
+          "name": "晶豪科",
+          "point": "跳空開高逾3%站回月線",
+          "limitUp": false
+        },
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "point": "跳空大漲逾6%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "第三季稅後純益創史上單季新高",
+          "limitUp": false
+        }
+      ],
+      "background": "SK海力士看旺記憶體需求至2030年，AI記憶體需求強勁，帶動DRAM雙雄及模組廠股價上揚，記憶體產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNMWo4WVBDTVNQSjJ4UW1GaWtQWTBYWUE1dTl0SDF5SW8wNng4alZqdHFGN1RqZDdxb1lhUUNGRjRQaGtDWU1PeDZzWE9mWUxqc3pGRHl5eXlVRU1TRlRhd3pSOE5mLUNnLTRJOGZGdTJFcldmS2pFc2JvNkF4OWRPOTg2ajNrZFpq",
+      "tkey": "熱門族群千金股多頭總動員玉晶光漲停衝新天價",
+      "title": "《熱門族群》千金股多頭總動員 玉晶光漲停衝新天價 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6341768001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 28 Oct 2026 02:12:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "point": "大漲逾8%朝漲停挺進",
+          "status": "逼近新高",
+          "dist": -8.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "勁揚7%漲幅緊追在後",
+          "limitUp": false
+        },
+        {
+          "symbol": "5274",
+          "name": "信驊",
+          "point": "大漲逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "2059",
+          "name": "川湖",
+          "point": "股價重返萬元",
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "同步上漲逾3%",
+          "limitUp": false
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "強勢攻上漲停創歷史新高",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/21"
+          ]
+        },
+        {
+          "symbol": "6805",
+          "name": "富世達",
+          "point": "同步亮燈漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6510",
+          "name": "精測",
+          "point": "同步亮燈漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3661",
+          "name": "世芯-KY",
+          "point": "大漲逾8%展現強勁攻勢",
+          "limitUp": false
+        }
+      ],
+      "background": "科技股強勢反彈帶動台股多頭氣氛，千金高價股買氣回溫，玉晶光與美商3M合作推進擴束光學技術，並獲3M私募增資。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOR0ZuZG5xNHRDaldlYm1LV2VJTDNvTnk2eW1hckVMZzB5TUdDbkEzWEJfVkd6UmprS1hhUkNFSy1ZT2RhSndzX0xQUjFjUXJfS3JuT2Mtb2x5dWNsTGpvWEFGR1hZX3hBb09qX0lHSy1FbWlJSHhJNVpPSzJlVjhMa3FtYUJBVXc0",
+      "tkey": "熱門族群遠傳宣布衛星新合作！台灣大不甘示弱秀出2年布局成績單",
+      "title": "《熱門族群》遠傳宣布衛星新合作！台灣大不甘示弱 秀出2年布局成績單 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6341767001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 28 Oct 2026 02:09:00 GMT",
+      "stocks": [
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "point": "宣布攜手國際衛星通訊業者Elveo Mobile",
+          "status": "逼近新高",
+          "dist": -2.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "point": "秀出2年衛星布局成績單",
+          "status": "逼近新高",
+          "dist": -1.5,
+          "limitUp": false
+        }
+      ],
+      "background": "電信業者積極布局手機直連衛星服務，遠傳與台灣大皆與國際衛星業者Elveo Mobile合作，搶攻非地面網路通訊商機，提升通訊韌性。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOOEdlVk1DQTlQS3FRSXBYVWpWYWlTTTlYUW9PVEdRQ1d1OFpoQmJvdUZ1WTNfZUphR0FhbTZTb29OenR1MEZKb29pY1FfUlRVbEc0WXpoQWhiTEowNG4zRmhsT1dRNWpmWXhuYndjOUoxREpvSEw2SFpRQmxYNEpYaHFSRE43WHFU",
+      "tkey": "熱門族群各擁題材上銀、大銀權證熱",
+      "title": "《熱門族群》各擁題材 上銀、大銀權證熱 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6341575001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 28 Oct 2026 00:08:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2049",
+          "name": "上銀",
+          "point": "人形機器人零組件已開始出貨",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/27"
+          ]
+        },
+        {
+          "symbol": "4576",
+          "name": "大銀微系統",
+          "point": "受惠半導體前段製程訂單挹注",
+          "limitUp": false
+        }
+      ],
+      "background": "半導體、AI及自動化需求帶動工具機產業回春，上銀集團受惠於人形機器人零組件出貨與半導體設備訂單，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQUkZsQTE3NWRCek5kem9JVzRkWl81S1FyM2ZyTnJHajl4RHhlZnpVUDE5T0VzMmJHRW9BVW9RS0ZMU2JwMzB5c3RibWptRDBLUER5b2pwb3FzOGN2NWFiaU5QR0hfdUhycGZrQzhuSS1xeEtzSXhRQUs0RVRkTVBaWnRWUFhCR3Vu",
+      "tkey": "熱門族群長鑫傳本土客戶優先台廠受惠DRAM缺口",
+      "title": "《熱門族群》長鑫傳本土客戶優先 台廠受惠DRAM缺口 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6341498001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 27 Oct 2026 23:43:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "股價漲6.52%為全球主要DDR4供應商",
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "收高5.5%",
+          "limitUp": false
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "漲3.52%",
+          "limitUp": false
+        }
+      ],
+      "background": "中國長鑫存儲優先供應本土客戶，導致全球DRAM供給緊俏，國際原廠轉向高階產品，DDR4供給缺口擴大，台系記憶體廠可望受惠。",
+      "themeTags": [
+        "政策關稅",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE04bkJmcEoza2REc1YtdFBiM2gzcEtpc041SHhTNW94M3BOLXRUWWgwVDhYdWNZU1BkQ2N2ek1XQzNkNVY4dDFTbldPUDBfV1dBXzBobUpINGc",
+      "tkey": "熱門族群油價回落航空股喜迎暑假旺季",
+      "title": "熱門族群》油價回落 航空股喜迎暑假旺季 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/vacpbjnuybnb",
+      "source": "自由時報",
+      "pubDate": "Tue, 27 Oct 2026 20:25:23 GMT",
+      "stocks": [],
+      "background": "國際油價回落有助於降低航空公司的營運成本，加上暑假旅遊旺季來臨，預期將帶動客運需求增加，有利於航空業營收成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxOY242M0laZThpRTN2LWVuc3U2S0h4Mk5GbjVoQlMxMEs1RFRCNWVTaUlCN1lQZlFibXZkQS1RRDQ0NkkyblQ0SnlaUWd4LUhDTWw1T3FYbElJV05FTEU5RWF0ZXEtQ2NEMGk5TmpyNUdIZ1B0MU9Cb3IyLTdHQmFod0RLblhTMmhl",
       "tkey": "熱門族群玻纖布、銅箔開高走低南亞翻黑、台光電跌逾6%",
       "title": "《熱門族群》玻纖布、銅箔開高走低 南亞翻黑、台光電跌逾6% - 富聯網",
@@ -160,7 +468,9 @@
           "symbol": "1303",
           "name": "南亞",
           "point": "開高後震盪，盤中跌逾2%",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -11.1
         },
         {
           "symbol": "1802",
@@ -172,7 +482,9 @@
           "symbol": "1815",
           "name": "富喬",
           "point": "開高後翻黑，回測月線大關",
-          "limitUp": false
+          "limitUp": false,
+          "status": "高檔修正",
+          "dist": -13.6
         },
         {
           "symbol": "5340",
@@ -366,33 +678,6 @@
       "background": "化工股透過轉型進入半導體產業，搭上全球半導體景氣復甦的列車，成功開拓新成長動能。",
       "themeTags": [
         "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTFBITlVYN0ZDUXk3c18tdzNzX2VIXzhhMUlpZ0pBLVpmMllMZGdIdlB3SzVySFRTVk9sREV5S2dHN0h6Wm8yVDRrUWpGZWtMWXpJeGJGbHFzZW0",
-      "tkey": "熱門族群AIASIC訂單強勁矽智財族群蓄勢待發",
-      "title": "熱門族群》AI ASIC訂單強勁 矽智財族群蓄勢待發 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/ubmjyhj3tbmq",
-      "source": "自由時報",
-      "pubDate": "Mon, 26 Oct 2026 06:01:05 GMT",
-      "stocks": [],
-      "background": "AI ASIC 訂單強勁，帶動矽智財（IP）需求。矽智財為晶片設計的關鍵，受惠於 AI 運算與高效能運算（HPC）發展，產業前景看好。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTE9yUGVoWXhjRUxTN3VhSm02TmdBTWFsRmNjNW1rSXhya3ZPYndoLWlHVGRUZHNpcUNXRUI1S2xWS3ZacWJwWlZaeEhPM21ocUthWS1zUVFRVW4",
-      "tkey": "熱門族群AI伺服器持續升級散熱族群熱呼呼",
-      "title": "熱門族群》AI伺服器持續升級 散熱族群熱呼呼 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/u2br8jd8cvgb",
-      "source": "自由時報",
-      "pubDate": "Sun, 25 Oct 2026 19:08:49 GMT",
-      "stocks": [],
-      "background": "AI 伺服器運算效能升級，對散熱需求持續增加，帶動散熱模組廠營運，產業景氣復甦。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
       ]
     }
   ]
