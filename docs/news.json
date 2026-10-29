@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-29T11:04:04.807+08:00",
-  "generatedAt": "2026-10-29T03:04:04.807Z",
+  "asOf": "2026-10-29T12:05:40.433+08:00",
+  "generatedAt": "2026-10-29T04:05:40.433Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -54,6 +54,193 @@
       "limitUp": false
     },
     {
+      "symbol": "2892",
+      "name": "第一金",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/27"
+      ],
+      "mentions": 2,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": false
+    },
+    {
+      "symbol": "2891",
+      "name": "中信金",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/27"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -1.3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2880",
+      "name": "華南金",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/27"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -2.2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2884",
+      "name": "玉山金",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/27"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -2.3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2317",
+      "name": "鴻海",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/25"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "6669",
+      "name": "緯穎",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/25"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3231",
+      "name": "緯創",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/25"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -8,
+      "limitUp": false
+    },
+    {
+      "symbol": "2382",
+      "name": "廣達",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/25"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2356",
+      "name": "英業達",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/25"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2324",
+      "name": "仁寶",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/25"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "4938",
+      "name": "和碩",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/25"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3406",
+      "name": "玉晶光",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/28"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -9.8,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/28"
+      ]
+    },
+    {
+      "symbol": "3008",
+      "name": "大立光",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/28"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "6209",
+      "name": "今國光",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/28"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "6510",
+      "name": "精測",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/28"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 3,
+      "luwd": [
+        "10/28",
+        "10/27",
+        "10/22"
+      ]
+    },
+    {
       "symbol": "4967",
       "name": "十銓",
       "days": 2,
@@ -66,6 +253,228 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQbmdrWFlTUVVrVDYyNUh4eXE1V3RZbHJxQ3lWOGZIM2hHN0VDeW9HS1cwcW1oLTltLXNEX3JjajhSSVR1NTFMc2M3bkJqZWJ3WHlwYkxGcVJQYk5aUlhOUzBEQWt0Qm1mdXg0QmZlR2xrZm40RHd0cGsyQThMM0xXd3RuSHZYQTMt",
+      "tkey": "熱門族群台股巨震金釵不崩第一金奔高領頭價量俱揚股刷一排",
+      "title": "《熱門族群》台股巨震金釵不崩 第一金奔高領頭 價量俱揚股刷一排 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6342956001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 29 Oct 2026 03:42:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2892",
+          "name": "第一金",
+          "point": "強漲逾4%領先",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false
+        },
+        {
+          "symbol": "2891",
+          "name": "中信金",
+          "point": "漲近2.3%位居前段班",
+          "status": "逼近新高",
+          "dist": -1.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "2880",
+          "name": "華南金",
+          "point": "價量俱揚",
+          "status": "逼近新高",
+          "dist": -2.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "2801",
+          "name": "彰銀",
+          "point": "價量俱揚",
+          "status": "創新高",
+          "dist": -0.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "2887",
+          "name": "新光金",
+          "point": "價量俱揚",
+          "status": "逼近新高",
+          "dist": -5,
+          "limitUp": false
+        },
+        {
+          "symbol": "2884",
+          "name": "玉山金",
+          "point": "價量俱揚",
+          "status": "逼近新高",
+          "dist": -2.3,
+          "limitUp": false
+        }
+      ],
+      "background": "台股震盪加劇，資金轉向金融股尋求穩定。金融業具股利政策、利率環境及資產品質支撐，部分個股因公股投信整併案利多發酵。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNeTZiZ0JiUUFadUc2TlpuS1lvSXhiUng2VHFBNVFNdTZ5eEstaWllckYyRER1bVhuU2tKb1oyVDdWVVBqY083WVB2aTRFblp0VzhLT05Cb0RMUkM1cmR5QVVOUmo3N2xQMUZzR196cUtDNWt1ekNxQ2oyZUFKb1R5T3JUUmdWSDdl",
+      "tkey": "熱門族群美系外資看好三領域促ODM台廠動能喊買鴻海、緯穎、緯創",
+      "title": "《熱門族群》美系外資看好三領域促ODM台廠動能 喊買鴻海、緯穎、緯創 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6342941001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 29 Oct 2026 03:27:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "美系外資給予「買進」評等",
+          "limitUp": false
+        },
+        {
+          "symbol": "6669",
+          "name": "緯穎",
+          "point": "美系外資給予「買進」評等",
+          "limitUp": false
+        },
+        {
+          "symbol": "3231",
+          "name": "緯創",
+          "point": "美系外資給予「買進」評等",
+          "status": "逼近新高",
+          "dist": -8,
+          "limitUp": false
+        },
+        {
+          "symbol": "2382",
+          "name": "廣達",
+          "point": "美系外資給予「中性」評等",
+          "limitUp": false
+        },
+        {
+          "symbol": "2356",
+          "name": "英業達",
+          "point": "美系外資給予「中性」評等",
+          "limitUp": false
+        },
+        {
+          "symbol": "2324",
+          "name": "仁寶",
+          "point": "美系外資給予「中性」評等",
+          "limitUp": false
+        },
+        {
+          "symbol": "2357",
+          "name": "華碩",
+          "point": "美系外資給予「中性」評等",
+          "status": "逼近新高",
+          "dist": -7.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "4938",
+          "name": "和碩",
+          "point": "美系外資給予「賣出」評等",
+          "limitUp": false
+        }
+      ],
+      "background": "美系外資看好蘋果新機、AI伺服器規格升級及ASIC AI伺服器滲透率提高，將帶動ODM台廠動能。儘管近期營收平穩，但AI伺服器產量提升、PC結構升級及記憶體成本上漲將推動年增率成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNamtTUlJUeUxNRXVaZE54bmlPcU5YREpVS2FlSHhrY3V6ZE94bHo4bzFiX1BKdFk3bFR6RzUxa1YtUWQ1UWZaSUFiUGNSLXpvdGpEX2NxY3Q3VXBfRFV1NGtqdkVGM2xzb0V2SU5OTGtfb2NKY09nSzhXNnVMMmxJLXZJLUIwOXc3",
+      "tkey": "熱門族群光學股變天！玉晶光殺跌停、夯股快崩4成",
+      "title": "《熱門族群》光學股變天！玉晶光殺跌停、夯股快崩4成 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6342927001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 29 Oct 2026 03:12:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "殺跌停、天堂墜地",
+          "status": "逼近新高",
+          "dist": -9.8,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "殺低半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "3441",
+          "name": "聯一光",
+          "point": "續挫8%、日K連5黑",
+          "limitUp": false
+        },
+        {
+          "symbol": "6209",
+          "name": "今國光",
+          "point": "跟進軟腳",
+          "limitUp": false
+        },
+        {
+          "symbol": "3504",
+          "name": "揚明光",
+          "point": "跟進軟腳",
+          "limitUp": false
+        },
+        {
+          "symbol": "3362",
+          "name": "先進光",
+          "point": "跟進軟腳",
+          "limitUp": false
+        },
+        {
+          "symbol": "3019",
+          "name": "亞光",
+          "point": "跟進軟腳",
+          "limitUp": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "再測2400關",
+          "status": "逼近新高",
+          "dist": -7.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "2303",
+          "name": "聯電",
+          "point": "一度打落跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6510",
+          "name": "精測",
+          "point": "觸及跌停",
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "10/28",
+            "10/27",
+            "10/22"
+          ]
+        },
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "point": "大跌6%",
+          "limitUp": false
+        }
+      ],
+      "background": "光學股受Alphabet、三星財報不如預期及聯準會升息預期影響，導致台股跳水。AI估值過高與泡沫化擔憂，使電子大咖成殺盤重心，但CPO與矽光子隨AI叢集擴大仍具長期利多。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQVnFYNWNsMVd6bDFyOVlnc09PMHZUQUlpb2RtMGxJWDd6dWYyUmpReVJhczAzWFBpR2x5OTFhTTZQOW9CTTJfd0RjeGFxcVZkWUc1a3JYLUpOUTZoakJKV3YxMWJabjV2VDdwT3JXLXpGa29YZFhpeXZNelI2Snl3NHkxSFRuM0hC",
       "tkey": "熱門族群記憶體四雄急轉直下集體上漲→南亞科苦撐",
