@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updatedAt": "2026-10-29T04:05:40.430Z",
+  "updatedAt": "2026-10-29T05:04:07.239Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE5jWUJSakZESUQ3TXIxa3g5dGp3Y1ZobUtyTkEtTE9JeXVUMWEzOUJtWlEybEtyYTZqOEk0QXlQVDVXdXN2eHgzQzhBdWJGQmdZVUpuUjh6cmo",
@@ -193,7 +193,9 @@
           "symbol": "4967",
           "name": "十銓",
           "point": "續揚站回所有均線之上",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -9.5
         },
         {
           "symbol": "3006",

@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-29T12:05:40.433+08:00",
-  "generatedAt": "2026-10-29T04:05:40.433Z",
+  "asOf": "2026-10-29T13:04:07.242+08:00",
+  "generatedAt": "2026-10-29T05:04:07.242Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -249,10 +249,60 @@
         "10/27"
       ],
       "mentions": 2,
+      "status": "逼近新高",
+      "dist": -9.5,
       "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQWXcxdkJ1eG16UEVnNnJyZGY3TUZtbG1ieWN0cVc3cmdtdDh5LTlPWXRxenVzQ3FmSW44am85cERvY0Z1S25zRjhJaUxxMXJuaGhQOXkzUVdDR2MyN0ZDMTVlWXBUcE9SR3FMdU5SMFczYk5GeDdJQUF1LVNMY2p0Ri1fUWtoTEpY",
+      "tkey": "熱門族群台股狂殺900點！生技避風港1檔紅燈緊鎖",
+      "title": "《熱門族群》台股狂殺900點！生技避風港 1檔紅燈緊鎖 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6342968001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 29 Oct 2026 03:55:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1786",
+          "name": "科妍",
+          "point": "一字鎖漲停，搶攻中國醫美商機",
+          "limitUp": false
+        },
+        {
+          "symbol": "4155",
+          "name": "訊映",
+          "point": "逆風突圍",
+          "limitUp": false
+        },
+        {
+          "symbol": "4137",
+          "name": "麗豐-KY",
+          "point": "逆風突圍",
+          "limitUp": false
+        },
+        {
+          "symbol": "6949",
+          "name": "沛爾生醫*-創",
+          "point": "逆風突圍",
+          "limitUp": false
+        },
+        {
+          "symbol": "8279",
+          "name": "生展",
+          "point": "逆風突圍",
+          "limitUp": false
+        },
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "point": "站穩1200關，獲中國ET藥證",
+          "limitUp": false
+        }
+      ],
+      "background": "台股大跌時，生技股因其產業特性，常被視為資金避風港。新藥研發、醫美市場拓展以及國際藥證取得，是帶動生技股表現的關鍵因素。",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxQbmdrWFlTUVVrVDYyNUh4eXE1V3RZbHJxQ3lWOGZIM2hHN0VDeW9HS1cwcW1oLTltLXNEX3JjajhSSVR1NTFMc2M3bkJqZWJ3WHlwYkxGcVJQYk5aUlhOUzBEQWt0Qm1mdXg0QmZlR2xrZm40RHd0cGsyQThMM0xXd3RuSHZYQTMt",
       "tkey": "熱門族群台股巨震金釵不崩第一金奔高領頭價量俱揚股刷一排",
@@ -706,7 +756,9 @@
           "symbol": "4967",
           "name": "十銓",
           "point": "續揚站回所有均線之上",
-          "limitUp": false
+          "limitUp": false,
+          "status": "逼近新高",
+          "dist": -9.5
         },
         {
           "symbol": "3006",
