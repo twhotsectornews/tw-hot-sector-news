@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-29T13:04:07.242+08:00",
-  "generatedAt": "2026-10-29T05:04:07.242Z",
+  "asOf": "2026-10-29T14:01:57.934+08:00",
+  "generatedAt": "2026-10-29T06:01:57.934Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -232,7 +232,8 @@
         "10/28"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 3,
       "luwd": [
         "10/28",
@@ -267,7 +268,8 @@
           "symbol": "1786",
           "name": "科妍",
           "point": "一字鎖漲停，搶攻中國醫美商機",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "4155",
@@ -505,7 +507,8 @@
           "symbol": "6510",
           "name": "精測",
           "point": "觸及跌停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 3,
           "luwd": [
             "10/28",
