@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-29T14:01:57.934+08:00",
-  "generatedAt": "2026-10-29T06:01:57.934Z",
+  "asOf": "2026-10-29T17:04:31.485+08:00",
+  "generatedAt": "2026-10-29T09:04:31.485Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -43,6 +43,17 @@
       "limitUp": false
     },
     {
+      "symbol": "3008",
+      "name": "大立光",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/28"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "2337",
       "name": "旺宏",
       "days": 2,
@@ -51,6 +62,71 @@
         "10/28"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/27"
+      ],
+      "mentions": 2,
+      "status": "高檔修正",
+      "dist": -11,
+      "limitUp": false
+    },
+    {
+      "symbol": "3653",
+      "name": "健策",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/28"
+      ],
+      "mentions": 2,
+      "status": "高檔修正",
+      "dist": -13.9,
+      "limitUp": false
+    },
+    {
+      "symbol": "3443",
+      "name": "創意",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/28"
+      ],
+      "mentions": 2,
+      "status": "高檔修正",
+      "dist": -12.7,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/28"
+      ]
+    },
+    {
+      "symbol": "2059",
+      "name": "川湖",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/28"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2383",
+      "name": "台光電",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/27"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -202,17 +278,6 @@
       ]
     },
     {
-      "symbol": "3008",
-      "name": "大立光",
-      "days": 2,
-      "dates": [
-        "10/29",
-        "10/28"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
       "symbol": "6209",
       "name": "今國光",
       "days": 2,
@@ -232,14 +297,7 @@
         "10/28"
       ],
       "mentions": 2,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 3,
-      "luwd": [
-        "10/28",
-        "10/27",
-        "10/22"
-      ]
+      "limitUp": false
     },
     {
       "symbol": "4967",
@@ -256,6 +314,158 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPMWV1UVJOVFV3RXV6WjB1RGE0QnFvZGFLdkR1Y2dFRWNvVTByaHVnZDdpeVVrZmw1X0hnZWpzWTdxeEE5NVhHRUN3dDRuQVFsc2NOdjAwVnJkek93dEVKQU9ySDRQUTcwRDMwRmJwU01CV1ZBa0p2NFdXNWIyTmZvMmFVeWJjNVhF",
+      "tkey": "熱門族群國際油價衝破115美元石化行情強勢補漲表態",
+      "title": "《熱門族群》國際油價衝破115美元 石化行情強勢補漲表態 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6343258001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 29 Oct 2026 08:06:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "營運加分",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "營運加分",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "營運加分",
+          "status": "高檔修正",
+          "dist": -11,
+          "limitUp": false
+        },
+        {
+          "symbol": "1312",
+          "name": "國喬",
+          "point": "營運加分",
+          "limitUp": false
+        },
+        {
+          "symbol": "1710",
+          "name": "東聯",
+          "point": "營運加分",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "營運推進",
+          "limitUp": false
+        },
+        {
+          "symbol": "1304",
+          "name": "台聚",
+          "point": "營運推進",
+          "limitUp": false
+        },
+        {
+          "symbol": "1308",
+          "name": "亞聚",
+          "point": "營運推進",
+          "limitUp": false
+        },
+        {
+          "symbol": "1309",
+          "name": "台達化",
+          "point": "營運推進",
+          "limitUp": false
+        },
+        {
+          "symbol": "1305",
+          "name": "華夏",
+          "point": "營運推進",
+          "limitUp": false
+        }
+      ],
+      "background": "國際油價因中東地緣衝突推升，帶動石化現貨行情強勢補漲，遠東區五大泛用樹脂也全面啟動補漲態勢，供應偏緊格局難改。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQY1ZoYWprTGpXR2ljdHVLMnlnUU1vS2Zjc1M2U0RoWHg0N0MwUldXZUhjVm5MbjRQLXBLR2NXQkNDUktpYXFGVTkxUmRCR3VXMDRJYnZtZFk1WF9HUXVUNTMtbGl0M2pQdU1zcTNCQURtR1BPSjBMYlJldWJJS0RSSzZMb01MMmxs",
+      "tkey": "熱門族群TOP10高價股幾乎全倒健策唯一紅盤",
+      "title": "《熱門族群》TOP 10高價股幾乎全倒 健策唯一紅盤 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6343084001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 29 Oct 2026 05:50:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "高價股中唯一收紅",
+          "status": "高檔修正",
+          "dist": -13.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "重挫",
+          "limitUp": false
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "point": "重挫",
+          "status": "高檔修正",
+          "dist": -12.7,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "7769",
+          "name": "鴻勁",
+          "point": "重挫",
+          "limitUp": false
+        },
+        {
+          "symbol": "6223",
+          "name": "旺矽",
+          "point": "重挫",
+          "limitUp": false
+        },
+        {
+          "symbol": "6515",
+          "name": "穎崴",
+          "point": "重挫",
+          "limitUp": false
+        },
+        {
+          "symbol": "2059",
+          "name": "川湖",
+          "point": "盤中失守萬元大關",
+          "limitUp": false
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "股價跌落5000元之下",
+          "limitUp": false
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "一度觸及4000元關卡",
+          "limitUp": false
+        }
+      ],
+      "background": "美股科技巨頭財報分歧與AI投資回報疑慮，導致台股高價股遭遇沉重賣壓。儘管短線亂流，台灣外銷訂單與企業獲利成長前景仍提供中長期支撐。",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxQWXcxdkJ1eG16UEVnNnJyZGY3TUZtbG1ieWN0cVc3cmdtdDh5LTlPWXRxenVzQ3FmSW44am85cERvY0Z1S25zRjhJaUxxMXJuaGhQOXkzUVdDR2MyN0ZDMTVlWXBUcE9SR3FMdU5SMFczYk5GeDdJQUF1LVNMY2p0Ri1fUWtoTEpY",
       "tkey": "熱門族群台股狂殺900點！生技避風港1檔紅燈緊鎖",
@@ -507,14 +717,7 @@
           "symbol": "6510",
           "name": "精測",
           "point": "觸及跌停",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 3,
-          "luwd": [
-            "10/28",
-            "10/27",
-            "10/22"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "2308",
@@ -630,13 +833,7 @@
           "name": "彬台",
           "point": "亮燈攻頂",
           "limitUp": true,
-          "pct": 10,
-          "luw": 3,
-          "luwd": [
-            "10/28",
-            "10/27",
-            "10/22"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6166",
@@ -741,13 +938,7 @@
           "name": "威剛",
           "point": "勁揚8%",
           "limitUp": true,
-          "pct": 10,
-          "luw": 3,
-          "luwd": [
-            "10/28",
-            "10/27",
-            "10/22"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6770",
@@ -867,13 +1058,7 @@
           "name": "精測",
           "point": "同步亮燈漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 3,
-          "luwd": [
-            "10/28",
-            "10/27",
-            "10/22"
-          ]
+          "pct": 10
         },
         {
           "symbol": "3661",

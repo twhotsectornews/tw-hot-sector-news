@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updatedAt": "2026-10-29T06:01:57.931Z",
+  "updatedAt": "2026-10-29T09:04:31.482Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE5jWUJSakZESUQ3TXIxa3g5dGp3Y1ZobUtyTkEtTE9JeXVUMWEzOUJtWlEybEtyYTZqOEk0QXlQVDVXdXN2eHgzQzhBdWJGQmdZVUpuUjh6cmo",
@@ -64,13 +64,7 @@
           "name": "彬台",
           "point": "亮燈攻頂",
           "limitUp": true,
-          "pct": 10,
-          "luw": 3,
-          "luwd": [
-            "10/28",
-            "10/27",
-            "10/22"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6166",
@@ -175,13 +169,7 @@
           "name": "威剛",
           "point": "勁揚8%",
           "limitUp": true,
-          "pct": 10,
-          "luw": 3,
-          "luwd": [
-            "10/28",
-            "10/27",
-            "10/22"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6770",
@@ -301,13 +289,7 @@
           "name": "精測",
           "point": "同步亮燈漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 3,
-          "luwd": [
-            "10/28",
-            "10/27",
-            "10/22"
-          ]
+          "pct": 10
         },
         {
           "symbol": "3661",
