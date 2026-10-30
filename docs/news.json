@@ -1,11 +1,27 @@
 {
-  "asOf": "2026-10-30T12:06:05.228+08:00",
-  "generatedAt": "2026-10-30T04:06:05.228Z",
+  "asOf": "2026-10-30T13:03:05.742+08:00",
+  "generatedAt": "2026-10-30T05:03:05.742Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "3406",
+      "name": "玉晶光",
+      "days": 3,
+      "dates": [
+        "10/30",
+        "10/29",
+        "10/28"
+      ],
+      "mentions": 4,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/28"
+      ]
+    },
     {
       "symbol": "2408",
       "name": "南亞科",
@@ -29,22 +45,6 @@
       ],
       "mentions": 4,
       "limitUp": false
-    },
-    {
-      "symbol": "3406",
-      "name": "玉晶光",
-      "days": 3,
-      "dates": [
-        "10/30",
-        "10/29",
-        "10/28"
-      ],
-      "mentions": 3,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/28"
-      ]
     },
     {
       "symbol": "6770",
@@ -337,6 +337,116 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNT2xxYjdNTldYcnlTX3dfelF3QXBINWxWU01DYzBvcXdjM2VOTzQ4MDZoem1zSmthTUVsUThhbXJQQk5CZk5XdFlXODBpaFppT0V3OC1PZTEyejVubHpWUnBnV2lhWV9xanhlSEp4akpyZ2dDWFQwY1FndmhiTFVaQzFkQTRnVjVE",
+      "tkey": "熱門族群邁威爾出重拳！矽光子綠光罩頂7檔摜跌停",
+      "title": "《熱門族群》邁威爾出重拳！矽光子綠光罩頂 7檔摜跌停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6344065001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Fri, 30 Oct 2026 04:22:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "觸及跌停、獲利創佳績、簽訂四年供貨長約",
+          "limitUp": false
+        },
+        {
+          "symbol": "3234",
+          "name": "光環",
+          "point": "觸及跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2360",
+          "name": "致茂",
+          "point": "觸及跌停、Q3每股盈餘登峰",
+          "limitUp": false
+        },
+        {
+          "symbol": "2345",
+          "name": "智邦",
+          "point": "觸及跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "8147",
+          "name": "正淩",
+          "point": "觸及跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "4908",
+          "name": "前鼎",
+          "point": "觸及跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2455",
+          "name": "全新",
+          "point": "觸及跌停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "2426",
+          "name": "鼎元",
+          "point": "重挫逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "重挫逾半根停板",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "4971",
+          "name": "IET-KY",
+          "point": "重挫逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "6451",
+          "name": "訊芯-KY",
+          "point": "重挫逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "4977",
+          "name": "眾達-KY",
+          "point": "重挫逾半根停板",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "4991",
+          "name": "環宇-KY",
+          "point": "重挫逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "6442",
+          "name": "光聖",
+          "point": "重挫逾半根停板",
+          "limitUp": false
+        }
+      ],
+      "background": "美股AI巨擘財報爆雷，半導體大廠邁威爾擬併Lumentum，衝擊矽光子CPO等光通訊族群股價重挫。",
+      "themeTags": [
+        "國際大廠"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQaE5lZXEzbEdTZmpTUUFYWVc1TlhfcTJmaTgxMXI5Ym1BcjZzYUEyRzFMQmNJcWZkeDlDZ0I5U0J6OUI0dmhPS19PdW9uSkNVU1QxVTJaajNFQjRHVnIxQXRyVHdUXzZ6Mnl6U1d1YmFGYkxzTVQ4V0d3NmhuUVlfWjRqbHpLSUdp",
       "tkey": "熱門族群高價股殺聲隆隆千金股跌停潮、近30檔重挫逾5%",
