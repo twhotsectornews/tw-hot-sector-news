@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-10-30T11:07:42.670+08:00",
-  "generatedAt": "2026-10-30T03:07:42.670Z",
+  "asOf": "2026-10-30T12:06:05.228+08:00",
+  "generatedAt": "2026-10-30T04:06:05.228Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -40,6 +40,7 @@
         "10/28"
       ],
       "mentions": 3,
+      "limitUp": false,
       "luw": 1,
       "luwd": [
         "10/28"
@@ -87,7 +88,8 @@
         "10/30",
         "10/29"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "2330",
@@ -99,7 +101,8 @@
       ],
       "mentions": 2,
       "status": "逼近新高",
-      "dist": -8.5
+      "dist": -8.5,
+      "limitUp": false
     },
     {
       "symbol": "1303",
@@ -345,32 +348,38 @@
         {
           "symbol": "3081",
           "name": "聯亞",
-          "point": "千金股亮燈跌停"
+          "point": "千金股亮燈跌停",
+          "limitUp": false
         },
         {
           "symbol": "2360",
           "name": "致茂",
-          "point": "千金股亮燈跌停"
+          "point": "千金股亮燈跌停",
+          "limitUp": false
         },
         {
           "symbol": "2308",
           "name": "台達電",
-          "point": "千金股亮燈跌停"
+          "point": "千金股亮燈跌停",
+          "limitUp": false
         },
         {
           "symbol": "3324",
           "name": "雙鴻",
-          "point": "千金股亮燈跌停"
+          "point": "千金股亮燈跌停",
+          "limitUp": false
         },
         {
           "symbol": "7828",
           "name": "創新服務",
-          "point": "千金股亮燈跌停"
+          "point": "千金股亮燈跌停",
+          "limitUp": false
         },
         {
           "symbol": "3406",
           "name": "玉晶光",
           "point": "股價盤中游走千元",
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "10/28"
@@ -379,22 +388,26 @@
         {
           "symbol": "1590",
           "name": "亞德客-KY",
-          "point": "股價盤中游走千元"
+          "point": "股價盤中游走千元",
+          "limitUp": false
         },
         {
           "symbol": "2404",
           "name": "漢唐",
-          "point": "股價盤中游走千元"
+          "point": "股價盤中游走千元",
+          "limitUp": false
         },
         {
           "symbol": "6683",
           "name": "雍智科技",
-          "point": "股價盤中游走千元"
+          "point": "股價盤中游走千元",
+          "limitUp": false
         },
         {
           "symbol": "2368",
           "name": "金像電",
           "point": "股價盤中游走千元",
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "10/28"
@@ -405,7 +418,8 @@
           "name": "台積電",
           "point": "股價跌破2400元，相對抗跌",
           "status": "逼近新高",
-          "dist": -8.5
+          "dist": -8.5,
+          "limitUp": false
         }
       ],
       "background": "美股重挫引發台股賣壓全面出籠，高價股成為殺盤重災區，資金撤出壓力全面衝擊高價股族群。",

@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updatedAt": "2026-10-30T03:07:42.667Z",
+  "updatedAt": "2026-10-30T04:06:05.225Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE5jWUJSakZESUQ3TXIxa3g5dGp3Y1ZobUtyTkEtTE9JeXVUMWEzOUJtWlEybEtyYTZqOEk0QXlQVDVXdXN2eHgzQzhBdWJGQmdZVUpuUjh6cmo",
@@ -10,10 +10,8 @@
       "source": "自由時報",
       "pubDate": "Wed, 28 Oct 2026 10:15:02 GMT",
       "stocks": [],
-      "background": "AI產業鏈近期面臨修正，資金轉向紡織股尋求避險與支撐，紡織業受惠於訂單回溫與庫存去化。",
-      "themeTags": [
-        "循環位置"
-      ]
+      "background": "AI產業鏈近期面臨修正，資金轉向其他具潛力的族群，紡織股因其穩定性與特定題材，在此時扮演了市場的撐盤角色。",
+      "themeTags": []
     },
     {
       "gid": "CBMikgFBVV95cUxQTDVOSUtUWWJUX1dLV1d6ekdVZG9fLXBlaDRfRTU3U25UNWliWUdLQTBvOEFVRGJDUUwtSWdOQTlrZWpYekh0WjFGVlBSZXZVMnltU19jLWhCOVRXRUFtampMY2hEVHVmdno0T3VMbHRtZXJxZklNQ0M5U205N3lmQWt4a3lzdFpMZGxVSk1zRDBsZw",
@@ -27,10 +25,8 @@
           "symbol": "2466",
           "name": "冠西電",
           "point": "亮燈攻頂",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 9.9,
+          "status": "逼近新高",
+          "dist": -0.7,
           "luw": 2,
           "luwd": [
             "10/28",
@@ -40,11 +36,9 @@
         {
           "symbol": "4526",
           "name": "東台",
-          "point": "亮燈攻頂，創逾15年高價",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 10,
+          "point": "亮燈攻頂，營收力拚兩位數成長",
+          "status": "逼近新高",
+          "dist": -0.9,
           "luw": 2,
           "luwd": [
             "10/28",
@@ -54,60 +48,49 @@
         {
           "symbol": "3498",
           "name": "陽程",
-          "point": "亮燈攻頂，衝上新天價",
-          "status": "逼近新高",
-          "dist": -4.7,
-          "limitUp": false
+          "point": "衝上新天價，今年飆漲近4.5倍"
         },
         {
           "symbol": "3379",
           "name": "彬台",
-          "point": "亮燈攻頂",
-          "limitUp": true,
-          "pct": 10
+          "point": "亮燈攻頂"
         },
         {
           "symbol": "6166",
           "name": "凌華",
-          "point": "同步走強表態",
-          "limitUp": false
+          "point": "同步走強表態"
         },
         {
           "symbol": "4583",
           "name": "台灣精銳",
-          "point": "同步走強表態",
-          "limitUp": false
+          "point": "同步走強表態"
         },
         {
           "symbol": "4576",
           "name": "大銀微系統",
-          "point": "同步走強表態",
-          "limitUp": false
+          "point": "同步走強表態，連兩日向上表態"
         },
         {
           "symbol": "6209",
           "name": "今國光",
-          "point": "同步走強表態",
-          "limitUp": false
+          "point": "同步走強表態"
         },
         {
           "symbol": "3708",
           "name": "上緯投控",
-          "point": "同步走強表態",
-          "limitUp": false
+          "point": "同步走強表態"
         },
         {
           "symbol": "2049",
           "name": "上銀",
-          "point": "供貨美系大廠人形機器人零組件",
-          "limitUp": false,
+          "point": "同步走強表態，人形機器人零組件出貨",
           "luw": 1,
           "luwd": [
             "10/27"
           ]
         }
       ],
-      "background": "機器人產業受輝達、特斯拉、豐田等國際大廠積極推動，加上工具機展催動，帶動半導體、AI及高階製造需求，產業景氣復甦訊號明確。",
+      "background": "機器人產業受惠於AI實體化藍圖、人形機器人發展及工具機展催動，加上半導體與AI擴廠需求，帶動工具機及機器人族群景氣復甦，訂單升溫。",
       "themeTags": [
         "需求驅動",
         "國際大廠",
