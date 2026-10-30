@@ -1,0 +1,204 @@
+{
+  "date": "2026-10-30",
+  "updatedAt": "2026-10-30T16:49:27.457Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNT2xxYjdNTldYcnlTX3dfelF3QXBINWxWU01DYzBvcXdjM2VOTzQ4MDZoem1zSmthTUVsUThhbXJQQk5CZk5XdFlXODBpaFppT0V3OC1PZTEyejVubHpWUnBnV2lhWV9xanhlSEp4akpyZ2dDWFQwY1FndmhiTFVaQzFkQTRnVjVE",
+      "tkey": "熱門族群邁威爾出重拳！矽光子綠光罩頂7檔摜跌停",
+      "title": "《熱門族群》邁威爾出重拳！矽光子綠光罩頂 7檔摜跌停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6344065001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Fri, 30 Oct 2026 04:22:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "觸及跌停、獲利創佳績、簽訂四年供貨長約",
+          "limitUp": false
+        },
+        {
+          "symbol": "3234",
+          "name": "光環",
+          "point": "觸及跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2360",
+          "name": "致茂",
+          "point": "觸及跌停、Q3每股盈餘登峰",
+          "limitUp": false
+        },
+        {
+          "symbol": "2345",
+          "name": "智邦",
+          "point": "觸及跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "8147",
+          "name": "正淩",
+          "point": "觸及跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "4908",
+          "name": "前鼎",
+          "point": "觸及跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2455",
+          "name": "全新",
+          "point": "觸及跌停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "2426",
+          "name": "鼎元",
+          "point": "重挫逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "重挫逾半根停板",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "4971",
+          "name": "IET-KY",
+          "point": "重挫逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "6451",
+          "name": "訊芯-KY",
+          "point": "重挫逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "4977",
+          "name": "眾達-KY",
+          "point": "重挫逾半根停板",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "4991",
+          "name": "環宇-KY",
+          "point": "重挫逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "6442",
+          "name": "光聖",
+          "point": "重挫逾半根停板",
+          "limitUp": false
+        }
+      ],
+      "background": "美股AI巨擘財報爆雷，半導體大廠邁威爾擬併Lumentum，衝擊矽光子CPO等光通訊族群股價重挫。",
+      "themeTags": [
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQaE5lZXEzbEdTZmpTUUFYWVc1TlhfcTJmaTgxMXI5Ym1BcjZzYUEyRzFMQmNJcWZkeDlDZ0I5U0J6OUI0dmhPS19PdW9uSkNVU1QxVTJaajNFQjRHVnIxQXRyVHdUXzZ6Mnl6U1d1YmFGYkxzTVQ4V0d3NmhuUVlfWjRqbHpLSUdp",
+      "tkey": "熱門族群高價股殺聲隆隆千金股跌停潮、近30檔重挫逾5%",
+      "title": "《熱門族群》高價股殺聲隆隆 千金股跌停潮、近30檔重挫逾5% - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6343958001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 30 Oct 2026 02:42:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "千金股亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2360",
+          "name": "致茂",
+          "point": "千金股亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "point": "千金股亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "point": "千金股亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "7828",
+          "name": "創新服務",
+          "point": "千金股亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "股價盤中游走千元",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "1590",
+          "name": "亞德客-KY",
+          "point": "股價盤中游走千元",
+          "limitUp": false
+        },
+        {
+          "symbol": "2404",
+          "name": "漢唐",
+          "point": "股價盤中游走千元",
+          "limitUp": false
+        },
+        {
+          "symbol": "6683",
+          "name": "雍智科技",
+          "point": "股價盤中游走千元",
+          "limitUp": false
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "point": "股價盤中游走千元",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "股價跌破2400元，相對抗跌",
+          "status": "逼近新高",
+          "dist": -8.5,
+          "limitUp": false
+        }
+      ],
+      "background": "美股重挫引發台股賣壓全面出籠，高價股成為殺盤重災區，資金撤出壓力全面衝擊高價股族群。",
+      "themeTags": []
+    }
+  ]
+}
