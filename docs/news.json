@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-01T14:01:54.355+08:00",
-  "generatedAt": "2026-11-01T06:01:54.355Z",
+  "asOf": "2026-11-01T17:41:43.867+08:00",
+  "generatedAt": "2026-11-01T09:41:43.867Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -295,6 +295,38 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxONU1MTzZXN0lkOVFqclM5Nk1FOWl2d1ozcmRRa05xSC0tQjllYkY1MFh6ZHNsNkxVOGN0enpNTmdKcmFNd1QyZXR3SGdoWHdIanNNWG9wRHhHbVlfNG1semNEekFCdUwtYTlLRVFDQ3dXMlBhMzZkQm9XOHVtTnBtVHZvTWxoR0d2",
+      "tkey": "熱門族群Wi-Fi7滲透率升石英元件業者得利",
+      "title": "《熱門族群》Wi-Fi 7滲透率升 石英元件業者得利 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6345169001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sun, 01 Nov 2026 08:41:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3042",
+          "name": "晶技",
+          "point": "Wi-Fi 7產品與IC廠完成參考設計",
+          "limitUp": false
+        },
+        {
+          "symbol": "3221",
+          "name": "台嘉碩",
+          "point": "Wi-Fi 7濾波器應用於路由器與車載通訊",
+          "limitUp": false
+        },
+        {
+          "symbol": "6174",
+          "name": "安碁",
+          "point": "受惠Wi-Fi 7加速普及",
+          "limitUp": false
+        }
+      ],
+      "background": "Wi-Fi 7技術因終端產品滲透率持續提升，預期將加速普及，帶動石英元件需求成長。網通大廠瑞昱看好市場滲透率將持續提升。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNMXZmYXRjbnZ2aUR4UzNsaVhuQXJfOXdNTEl5eHQxUS1SbHdsa1RySlBHWVp4SmYwTW12NHd5MkJwemxnVjlJNDNXaXF1dzJoMmVsUUtjMWZYR2hJdFZ2VFJDRC00MllaZGlWLU5nOHhneUJmQUpuSDFVNmVuTTd3eWJtX0JIMHlZ",
       "tkey": "熱門族群AI催動工具機業接單熱到明年Q2",
