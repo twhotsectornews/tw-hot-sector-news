@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-02T12:03:51.632+08:00",
-  "generatedAt": "2026-11-02T04:03:51.632Z",
+  "asOf": "2026-11-02T13:03:22.183+08:00",
+  "generatedAt": "2026-11-02T05:03:22.183Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -104,8 +104,7 @@
         "10/28"
       ],
       "mentions": 2,
-      "limitUp": true,
-      "pct": 10
+      "limitUp": false
     },
     {
       "symbol": "4563",
@@ -116,8 +115,7 @@
         "11/1"
       ],
       "mentions": 2,
-      "limitUp": true,
-      "pct": 10
+      "limitUp": false
     },
     {
       "symbol": "4526",
@@ -388,13 +386,15 @@
           "symbol": "2468",
           "name": "華經",
           "point": "盤中翻紅後登上漲停板",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "6689",
           "name": "伊雲谷",
           "point": "大漲逾6%",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "6112",
@@ -421,7 +421,8 @@
           "symbol": "8455",
           "name": "大拓-KY",
           "point": "強閃紅燈",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 4,
           "luwd": [
             "10/30",
@@ -434,8 +435,7 @@
           "symbol": "3379",
           "name": "彬台",
           "point": "強閃紅燈",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "6609",
@@ -454,8 +454,7 @@
           "symbol": "4563",
           "name": "百德",
           "point": "強閃紅燈",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "4526",
