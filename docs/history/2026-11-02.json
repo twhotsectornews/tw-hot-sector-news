@@ -1,0 +1,306 @@
+{
+  "date": "2026-11-02",
+  "updatedAt": "2026-11-02T19:25:37.056Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNeldMUEVQaFctQldYaEx0amh2ZWo0NFN1REVjamY0VHNzQlhObUtkNFhKTVNFa2hlZGJhX1ZSZTB4c3RVZG1rSjM2NXY0U3JMeWxodlZ4VTdPczZUNE1PcV9uUkVaWUVBVG1feUVWMi1jbXV3UVhLVzh3am9VS1NhRnhiRHZYNlFt",
+      "tkey": "熱門族群炎洲、炎洲流通前三季每股稅前盈餘1.33元、6.13元",
+      "title": "《熱門族群》炎洲、炎洲流通前三季每股稅前盈餘1.33元、6.13元 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6346285001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 02 Nov 2026 08:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "4306",
+          "name": "炎洲",
+          "point": "前三季每股稅前盈餘1.33元",
+          "limitUp": false
+        },
+        {
+          "symbol": "3171",
+          "name": "炎洲流通",
+          "point": "前三季每股稅前盈餘6.13元",
+          "limitUp": false
+        }
+      ],
+      "background": "炎洲受惠於膠帶、建案交屋雙軌推進，並布局半導體及電子級特殊化學品。炎洲流通則透過併購效益發揮，強化客戶經營效率。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOMEJTaTdINms0T1JMSWt2Rlo4dWsyX2RldjdFVWF6WGFwTEpaNHlTUmpJY2dHeUhudlU3YjFteE9aTEFSTE5fVEhsNnMwYjZBMllnTHh6WUE0dHNuRU5NRjZLbXZiXzUzcmhsc1RUbUNia1lhUS1oSWoxbk1rUnVUdllxQ21IWnFE",
+      "tkey": "熱門族群玻纖布全面噴發富喬、建榮攻頂收盤、德宏大漲9%",
+      "title": "《熱門族群》玻纖布全面噴發 富喬、建榮攻頂收盤、德宏大漲9% - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6346105001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 02 Nov 2026 05:38:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "攻頂收盤",
+          "status": "高檔修正",
+          "dist": -13.9,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28",
+            "10/27"
+          ]
+        },
+        {
+          "symbol": "5340",
+          "name": "建榮",
+          "point": "攻頂收盤",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28",
+            "10/27"
+          ]
+        },
+        {
+          "symbol": "5475",
+          "name": "德宏",
+          "point": "大漲9%",
+          "limitUp": true,
+          "pct": 9.6,
+          "luw": 5,
+          "luwd": [
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28",
+            "10/27"
+          ]
+        },
+        {
+          "symbol": "1809",
+          "name": "中釉",
+          "point": "大漲近7%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "逾2%漲幅",
+          "status": "高檔修正",
+          "dist": -14.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "逾2%漲幅",
+          "limitUp": false
+        }
+      ],
+      "background": "玻纖布受AI伺服器及高速運算帶動高階材料需求，T-Glass供應吃緊，台廠受惠供應鏈重組，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPN3BWZlJ3QlJoUEN1ZUh4aGNCelN5VG1RZjAwZ3F0NWhqQ0JwVmpncHBzQ1ItTThyMkZVV0lENk1ucGx2dE1GTURIZllYX2RTbVBvQWZpYnpVeGcyUUhsT1NmTGlkcTZvZFN6WUtpNnFHRmtHckI5VUF1Y18tNGJKUDhENTZaQk80",
+      "tkey": "熱門族群台股暴跌資安逆勢亮燈全景、偉康領走漲停秀",
+      "title": "《熱門族群》台股暴跌資安逆勢亮燈 全景、偉康領走漲停秀 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6345950001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 02 Nov 2026 03:04:00 GMT",
+      "stocks": [
+        {
+          "symbol": "8272",
+          "name": "全景軟體",
+          "point": "早盤攻上漲停",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28",
+            "10/27"
+          ]
+        },
+        {
+          "symbol": "6865",
+          "name": "偉康科技",
+          "point": "早盤攻上漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28",
+            "10/27"
+          ]
+        },
+        {
+          "symbol": "6697",
+          "name": "東捷資訊",
+          "point": "加入漲停行列",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28",
+            "10/27"
+          ]
+        },
+        {
+          "symbol": "2468",
+          "name": "華經",
+          "point": "盤中翻紅後登上漲停板",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/2"
+          ]
+        },
+        {
+          "symbol": "6689",
+          "name": "伊雲谷",
+          "point": "大漲逾6%",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/2"
+          ]
+        },
+        {
+          "symbol": "6112",
+          "name": "邁達特",
+          "point": "勁揚逾3%",
+          "limitUp": false
+        }
+      ],
+      "background": "資安概念股受個資外洩事件及國際加密貨幣市場資安疑慮升溫影響，AI應用普及也推升資安需求，輝達執行長黃仁勳曾指出資安將是AI下一個重大應用領域。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOY0g5b1F3dlJGM0ZST194VVk4SG9xX0psV3JCMGt0NWtCM0dFRkU0Ui1BeTFTYi14aXh0STI2YXpXY1hSNC00cXdBSFppVVJxTGlsNWFBWHdPS2p4TzRQMHpGaDB3ckQwWEwzWjVkNWlLVFg5c20wVjliTzhFYTVQR2tjUG10MXRR",
+      "tkey": "熱門族群機器人有火種！5小福強閃紅燈東台關不怕續飆",
+      "title": "《熱門族群》機器人有火種！5小福強閃紅燈 東台關不怕續飆 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6345938001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 02 Nov 2026 02:57:00 GMT",
+      "stocks": [
+        {
+          "symbol": "8455",
+          "name": "大拓-KY",
+          "point": "強閃紅燈",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28",
+            "10/27"
+          ]
+        },
+        {
+          "symbol": "3379",
+          "name": "彬台",
+          "point": "強閃紅燈",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28",
+            "10/27"
+          ]
+        },
+        {
+          "symbol": "6609",
+          "name": "瀧澤科",
+          "point": "強閃紅燈、攻漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28",
+            "10/27"
+          ]
+        },
+        {
+          "symbol": "1528",
+          "name": "恩德",
+          "point": "強閃紅燈",
+          "limitUp": false
+        },
+        {
+          "symbol": "4563",
+          "name": "百德",
+          "point": "強閃紅燈",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28",
+            "10/27"
+          ]
+        },
+        {
+          "symbol": "4526",
+          "name": "東台",
+          "point": "關禁閉續飆高",
+          "status": "逼近新高",
+          "dist": -8,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "10/28",
+            "10/27"
+          ]
+        },
+        {
+          "symbol": "7750",
+          "name": "新代",
+          "point": "打入跌停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/27"
+          ]
+        }
+      ],
+      "background": "機器人族群受Meta加入人形機器人戰局及東京國際工具機展題材助陣，AI加速進入製造現場，帶動機器人、自動化與軟硬體整合需求。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-02T18:41:06.295+08:00",
-  "generatedAt": "2026-11-02T10:41:06.295Z",
+  "asOf": "2026-11-03T03:25:37.061+08:00",
+  "generatedAt": "2026-11-02T19:25:37.061Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -21,56 +21,6 @@
       "luwd": [
         "10/28"
       ]
-    },
-    {
-      "symbol": "2408",
-      "name": "南亞科",
-      "days": 3,
-      "dates": [
-        "10/29",
-        "10/28",
-        "10/27"
-      ],
-      "mentions": 4,
-      "limitUp": false
-    },
-    {
-      "symbol": "2344",
-      "name": "華邦電",
-      "days": 3,
-      "dates": [
-        "10/29",
-        "10/28",
-        "10/27"
-      ],
-      "mentions": 4,
-      "limitUp": false
-    },
-    {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 3,
-      "dates": [
-        "11/2",
-        "10/29",
-        "10/27"
-      ],
-      "mentions": 3,
-      "status": "高檔修正",
-      "dist": -14.1,
-      "limitUp": false
-    },
-    {
-      "symbol": "6770",
-      "name": "力積電",
-      "days": 3,
-      "dates": [
-        "10/29",
-        "10/28",
-        "10/27"
-      ],
-      "mentions": 3,
-      "limitUp": false
     },
     {
       "symbol": "2049",
@@ -99,6 +49,28 @@
       "limitUp": false
     },
     {
+      "symbol": "2408",
+      "name": "南亞科",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/28"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2344",
+      "name": "華邦電",
+      "days": 2,
+      "dates": [
+        "10/29",
+        "10/28"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "2337",
       "name": "旺宏",
       "days": 2,
@@ -110,73 +82,16 @@
       "limitUp": false
     },
     {
-      "symbol": "1815",
-      "name": "富喬",
+      "symbol": "1303",
+      "name": "南亞",
       "days": 2,
       "dates": [
         "11/2",
-        "10/27"
+        "10/29"
       ],
       "mentions": 2,
       "status": "高檔修正",
-      "dist": -13.9,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 4,
-      "luwd": [
-        "10/30",
-        "10/29",
-        "10/28",
-        "10/27"
-      ]
-    },
-    {
-      "symbol": "5340",
-      "name": "建榮",
-      "days": 2,
-      "dates": [
-        "11/2",
-        "10/27"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 4,
-      "luwd": [
-        "10/30",
-        "10/29",
-        "10/28",
-        "10/27"
-      ]
-    },
-    {
-      "symbol": "5475",
-      "name": "德宏",
-      "days": 2,
-      "dates": [
-        "11/2",
-        "10/27"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 9.6,
-      "luw": 4,
-      "luwd": [
-        "10/30",
-        "10/29",
-        "10/28",
-        "10/27"
-      ]
-    },
-    {
-      "symbol": "1802",
-      "name": "台玻",
-      "days": 2,
-      "dates": [
-        "11/2",
-        "10/27"
-      ],
-      "mentions": 2,
+      "dist": -14.1,
       "limitUp": false
     },
     {
@@ -190,8 +105,9 @@
       "mentions": 2,
       "limitUp": true,
       "pct": 10,
-      "luw": 4,
+      "luw": 5,
       "luwd": [
+        "11/2",
         "10/30",
         "10/29",
         "10/28",
@@ -209,8 +125,9 @@
       "mentions": 2,
       "limitUp": true,
       "pct": 10,
-      "luw": 4,
+      "luw": 5,
       "luwd": [
+        "11/2",
         "10/30",
         "10/29",
         "10/28",
@@ -242,17 +159,6 @@
       "dates": [
         "11/1",
         "10/30"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "6213",
-      "name": "聯茂",
-      "days": 2,
-      "dates": [
-        "11/1",
-        "10/27"
       ],
       "mentions": 2,
       "limitUp": false
@@ -323,69 +229,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2383",
-      "name": "台光電",
-      "days": 2,
-      "dates": [
-        "10/29",
-        "10/27"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2892",
-      "name": "第一金",
-      "days": 2,
-      "dates": [
-        "10/29",
-        "10/27"
-      ],
-      "mentions": 2,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": false
-    },
-    {
-      "symbol": "2891",
-      "name": "中信金",
-      "days": 2,
-      "dates": [
-        "10/29",
-        "10/27"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -1.3,
-      "limitUp": false
-    },
-    {
-      "symbol": "2880",
-      "name": "華南金",
-      "days": 2,
-      "dates": [
-        "10/29",
-        "10/27"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -2.2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2884",
-      "name": "玉山金",
-      "days": 2,
-      "dates": [
-        "10/29",
-        "10/27"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -2.3,
-      "limitUp": false
-    },
-    {
       "symbol": "6209",
       "name": "今國光",
       "days": 2,
@@ -408,16 +251,14 @@
       "limitUp": false
     },
     {
-      "symbol": "4967",
-      "name": "十銓",
+      "symbol": "6770",
+      "name": "力積電",
       "days": 2,
       "dates": [
-        "10/28",
-        "10/27"
+        "10/29",
+        "10/28"
       ],
       "mentions": 2,
-      "status": "逼近新高",
-      "dist": -9.5,
       "limitUp": false
     }
   ],
@@ -464,8 +305,9 @@
           "dist": -13.9,
           "limitUp": true,
           "pct": 9.9,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
+            "11/2",
             "10/30",
             "10/29",
             "10/28",
@@ -478,8 +320,9 @@
           "point": "攻頂收盤",
           "limitUp": true,
           "pct": 10,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
+            "11/2",
             "10/30",
             "10/29",
             "10/28",
@@ -492,8 +335,9 @@
           "point": "大漲9%",
           "limitUp": true,
           "pct": 9.6,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
+            "11/2",
             "10/30",
             "10/29",
             "10/28",
@@ -541,8 +385,9 @@
           "point": "早盤攻上漲停",
           "limitUp": true,
           "pct": 10,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
+            "11/2",
             "10/30",
             "10/29",
             "10/28",
@@ -555,8 +400,9 @@
           "point": "早盤攻上漲停",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
+            "11/2",
             "10/30",
             "10/29",
             "10/28",
@@ -569,8 +415,9 @@
           "point": "加入漲停行列",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
+            "11/2",
             "10/30",
             "10/29",
             "10/28",
@@ -582,14 +429,22 @@
           "name": "華經",
           "point": "盤中翻紅後登上漲停板",
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/2"
+          ]
         },
         {
           "symbol": "6689",
           "name": "伊雲谷",
           "point": "大漲逾6%",
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/2"
+          ]
         },
         {
           "symbol": "6112",
@@ -618,8 +473,9 @@
           "point": "強閃紅燈",
           "limitUp": true,
           "pct": 10,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
+            "11/2",
             "10/30",
             "10/29",
             "10/28",
@@ -632,8 +488,9 @@
           "point": "強閃紅燈",
           "limitUp": true,
           "pct": 10,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
+            "11/2",
             "10/30",
             "10/29",
             "10/28",
@@ -646,8 +503,9 @@
           "point": "強閃紅燈、攻漲停",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
+            "11/2",
             "10/30",
             "10/29",
             "10/28",
@@ -666,8 +524,9 @@
           "point": "強閃紅燈",
           "limitUp": true,
           "pct": 10,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
+            "11/2",
             "10/30",
             "10/29",
             "10/28",
@@ -779,8 +638,9 @@
           "name": "百德",
           "point": "AI產業當道接單成長",
           "limitUp": false,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
+            "11/2",
             "10/30",
             "10/29",
             "10/28",

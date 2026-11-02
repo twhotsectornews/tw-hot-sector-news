@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "updatedAt": "2026-11-02T10:41:06.292Z",
+  "updatedAt": "2026-11-02T19:25:37.058Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxONU1MTzZXN0lkOVFqclM5Nk1FOWl2d1ozcmRRa05xSC0tQjllYkY1MFh6ZHNsNkxVOGN0enpNTmdKcmFNd1QyZXR3SGdoWHdIanNNWG9wRHhHbVlfNG1semNEekFCdUwtYTlLRVFDQ3dXMlBhMzZkQm9XOHVtTnBtVHZvTWxoR0d2",
@@ -77,8 +77,9 @@
           "name": "百德",
           "point": "AI產業當道接單成長",
           "limitUp": false,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
+            "11/2",
             "10/30",
             "10/29",
             "10/28",
