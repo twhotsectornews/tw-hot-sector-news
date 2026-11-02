@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-02T13:03:22.183+08:00",
-  "generatedAt": "2026-11-02T05:03:22.183Z",
+  "asOf": "2026-11-02T14:03:25.650+08:00",
+  "generatedAt": "2026-11-02T06:03:25.650Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -44,6 +44,20 @@
         "10/27"
       ],
       "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 3,
+      "dates": [
+        "11/2",
+        "10/29",
+        "10/27"
+      ],
+      "mentions": 3,
+      "status": "高檔修正",
+      "dist": -14.1,
       "limitUp": false
     },
     {
@@ -93,6 +107,52 @@
         "10/28"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "1815",
+      "name": "富喬",
+      "days": 2,
+      "dates": [
+        "11/2",
+        "10/27"
+      ],
+      "mentions": 2,
+      "status": "高檔修正",
+      "dist": -13.9,
+      "limitUp": false
+    },
+    {
+      "symbol": "5340",
+      "name": "建榮",
+      "days": 2,
+      "dates": [
+        "11/2",
+        "10/27"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "5475",
+      "name": "德宏",
+      "days": 2,
+      "dates": [
+        "11/2",
+        "10/27"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "1802",
+      "name": "台玻",
+      "days": 2,
+      "dates": [
+        "11/2",
+        "10/27"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -179,19 +239,6 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -8.5,
-      "limitUp": false
-    },
-    {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 2,
-      "dates": [
-        "10/29",
-        "10/27"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -11,
       "limitUp": false
     },
     {
@@ -336,6 +383,61 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxOMEJTaTdINms0T1JMSWt2Rlo4dWsyX2RldjdFVWF6WGFwTEpaNHlTUmpJY2dHeUhudlU3YjFteE9aTEFSTE5fVEhsNnMwYjZBMllnTHh6WUE0dHNuRU5NRjZLbXZiXzUzcmhsc1RUbUNia1lhUS1oSWoxbk1rUnVUdllxQ21IWnFE",
+      "tkey": "熱門族群玻纖布全面噴發富喬、建榮攻頂收盤、德宏大漲9%",
+      "title": "《熱門族群》玻纖布全面噴發 富喬、建榮攻頂收盤、德宏大漲9% - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6346105001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 02 Nov 2026 05:38:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "攻頂收盤",
+          "status": "高檔修正",
+          "dist": -13.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "5340",
+          "name": "建榮",
+          "point": "攻頂收盤",
+          "limitUp": false
+        },
+        {
+          "symbol": "5475",
+          "name": "德宏",
+          "point": "大漲9%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1809",
+          "name": "中釉",
+          "point": "大漲近7%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "逾2%漲幅",
+          "status": "高檔修正",
+          "dist": -14.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "逾2%漲幅",
+          "limitUp": false
+        }
+      ],
+      "background": "玻纖布受AI伺服器及高速運算帶動高階材料需求，T-Glass供應吃緊，台廠受惠供應鏈重組，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxPN3BWZlJ3QlJoUEN1ZUh4aGNCelN5VG1RZjAwZ3F0NWhqQ0JwVmpncHBzQ1ItTThyMkZVV0lENk1ucGx2dE1GTURIZllYX2RTbVBvQWZpYnpVeGcyUUhsT1NmTGlkcTZvZFN6WUtpNnFHRmtHckI5VUF1Y18tNGJKUDhENTZaQk80",
       "tkey": "熱門族群台股暴跌資安逆勢亮燈全景、偉康領走漲停秀",
       "title": "《熱門族群》台股暴跌資安逆勢亮燈 全景、偉康領走漲停秀 - 富聯網",
@@ -347,39 +449,39 @@
           "symbol": "8272",
           "name": "全景軟體",
           "point": "早盤攻上漲停",
-          "limitUp": false,
-          "luw": 4,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 3,
           "luwd": [
             "10/30",
             "10/29",
-            "10/28",
-            "10/27"
+            "10/28"
           ]
         },
         {
           "symbol": "6865",
           "name": "偉康科技",
           "point": "早盤攻上漲停",
-          "limitUp": false,
-          "luw": 4,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 3,
           "luwd": [
             "10/30",
             "10/29",
-            "10/28",
-            "10/27"
+            "10/28"
           ]
         },
         {
           "symbol": "6697",
           "name": "東捷資訊",
           "point": "加入漲停行列",
-          "limitUp": false,
-          "luw": 4,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 3,
           "luwd": [
             "10/30",
             "10/29",
-            "10/28",
-            "10/27"
+            "10/28"
           ]
         },
         {
@@ -422,13 +524,12 @@
           "name": "大拓-KY",
           "point": "強閃紅燈",
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
+          "pct": 9.8,
+          "luw": 3,
           "luwd": [
             "10/30",
             "10/29",
-            "10/28",
-            "10/27"
+            "10/28"
           ]
         },
         {
@@ -441,8 +542,7 @@
           "symbol": "6609",
           "name": "瀧澤科",
           "point": "強閃紅燈、攻漲停",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "1528",
