@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "updatedAt": "2026-11-03T04:03:51.571Z",
+  "updatedAt": "2026-11-03T05:09:52.577Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxONU1MTzZXN0lkOVFqclM5Nk1FOWl2d1ozcmRRa05xSC0tQjllYkY1MFh6ZHNsNkxVOGN0enpNTmdKcmFNd1QyZXR3SGdoWHdIanNNWG9wRHhHbVlfNG1semNEekFCdUwtYTlLRVFDQ3dXMlBhMzZkQm9XOHVtTnBtVHZvTWxoR0d2",
@@ -41,27 +41,9 @@
       "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6345169001&PU=0010",
       "source": "富聯網",
       "pubDate": "Sun, 01 Nov 2026 08:41:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3042",
-          "name": "晶技",
-          "point": "Wi-Fi 7滲透率提升可望受惠"
-        },
-        {
-          "symbol": "3221",
-          "name": "台嘉碩",
-          "point": "Wi-Fi 7滲透率提升可望受惠"
-        },
-        {
-          "symbol": "6174",
-          "name": "安碁",
-          "point": "Wi-Fi 7滲透率提升可望受惠"
-        }
-      ],
-      "background": "Wi-Fi 7終端產品滲透率持續提升，將帶動石英元件需求，網通大廠瑞昱看好市場滲透率成長，有利相關業者營運。",
-      "themeTags": [
-        "需求驅動"
-      ]
+      "stocks": [],
+      "background": "",
+      "themeTags": []
     },
     {
       "gid": "CBMiiAFBVV95cUxNMXZmYXRjbnZ2aUR4UzNsaVhuQXJfOXdNTEl5eHQxUS1SbHdsa1RySlBHWVp4SmYwTW12NHd5MkJwemxnVjlJNDNXaXF1dzJoMmVsUUtjMWZYR2hJdFZ2VFJDRC00MllaZGlWLU5nOHhneUJmQUpuSDFVNmVuTTd3eWJtX0JIMHlZ",
@@ -71,10 +53,8 @@
       "source": "富聯網",
       "pubDate": "Sun, 01 Nov 2026 05:23:00 GMT",
       "stocks": [],
-      "background": "AI產業當道，帶動工具機大廠及零件廠接單熱潮，訂單能見度高，但台灣業者面臨日本與大陸同業夾擊，需轉型升級。",
-      "themeTags": [
-        "需求驅動"
-      ]
+      "background": "",
+      "themeTags": []
     },
     {
       "gid": "CBMiTEFVX3lxTE9EczJIYURmT0RnOUQxODdOUE4yc083WlozdnAtUXA3SXc5eTlHeXhuV0hqVFhrUHllaTFZLWthSVpkM2xQem1UaXExdVg",

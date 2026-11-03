@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-03T12:03:51.573+08:00",
-  "generatedAt": "2026-11-03T04:03:51.573Z",
+  "asOf": "2026-11-03T13:09:52.579+08:00",
+  "generatedAt": "2026-11-03T05:09:52.579Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -444,6 +444,17 @@
         "需求驅動",
         "國際大廠"
       ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNYnZHVFQ0OTRxVnFoOG9RTW9hbzE5MVB5VTNHZ3lXZjdqT1dfTzVsbFBRS3FLRGtHZm84R2dtN2o0OUlfLW1lY1F1alVrb1JTQ3JSNTlPa1dpRk5LR2F4bGNuRFZLOXNxcVVxbUNiUmtXc3lmTjZfczc5bHlCcG9fSHBKM3pCOGls",
+      "tkey": "熱門族群ITF旅展本周登場！航空四雄逆勢吸金虎航領頭飛高",
+      "title": "《熱門族群》ITF旅展本周登場！航空四雄逆勢吸金 虎航領頭飛高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6347044001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 03 Nov 2026 03:05:00 GMT",
+      "stocks": [],
+      "background": "",
+      "themeTags": []
     },
     {
       "gid": "CBMiiAFBVV95cUxNaU5kNUJ4Qm54T210WjNBVFc2WUhqSzdsNUhUX28wWHduaTN4NWJDU3ZUMjBtMVFlUV84MWRtcDlBQnZValBUd2tkVHpjbHo0Tzl6TThudGVsTlphRURBY0tCQmQybmpsQ2R6bDZKdnN0LXRfdDRlWFh5MkpZWm1FNnpCbGJxd1JL",
