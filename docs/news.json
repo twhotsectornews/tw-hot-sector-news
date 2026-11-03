@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-03T13:09:52.579+08:00",
-  "generatedAt": "2026-11-03T05:09:52.579Z",
+  "asOf": "2026-11-03T14:03:02.032+08:00",
+  "generatedAt": "2026-11-03T06:03:02.032Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -190,7 +190,8 @@
         "11/2"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 5,
       "luwd": [
         "11/2",
@@ -209,7 +210,8 @@
         "11/2"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 5,
       "luwd": [
         "11/2",
@@ -230,7 +232,8 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -8.8,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 5,
       "luwd": [
         "11/2",
@@ -452,9 +455,38 @@
       "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6347044001&PU=0010",
       "source": "富聯網",
       "pubDate": "Tue, 03 Nov 2026 03:05:00 GMT",
-      "stocks": [],
-      "background": "",
-      "themeTags": []
+      "stocks": [
+        {
+          "symbol": "6757",
+          "name": "虎航",
+          "point": "股價突破半年線 領頭飛高",
+          "limitUp": false
+        },
+        {
+          "symbol": "2610",
+          "name": "華航",
+          "point": "獲外資買盤挹注 抗跌",
+          "limitUp": false
+        },
+        {
+          "symbol": "2618",
+          "name": "長榮航",
+          "point": "獲外資買盤挹注 逼近高價",
+          "status": "逼近新高",
+          "dist": -2.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "2646",
+          "name": "星宇航空",
+          "point": "穩守 20 元附近",
+          "limitUp": false
+        }
+      ],
+      "background": "ITF 旅展登場帶動旅遊商機，航空業者推出優惠搶攻年末及春節出遊需求，預期旅展業績雙位數成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxNaU5kNUJ4Qm54T210WjNBVFc2WUhqSzdsNUhUX28wWHduaTN4NWJDU3ZUMjBtMVFlUV84MWRtcDlBQnZValBUd2tkVHpjbHo0Tzl6TThudGVsTlphRURBY0tCQmQybmpsQ2R6bDZKdnN0LXRfdDRlWFh5MkpZWm1FNnpCbGJxd1JL",
@@ -553,7 +585,8 @@
           "symbol": "8272",
           "name": "全景軟體",
           "point": "再度亮燈漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "11/2",
@@ -567,7 +600,8 @@
           "symbol": "6865",
           "name": "偉康科技",
           "point": "再度亮燈漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "11/2",
@@ -583,7 +617,8 @@
           "point": "再度亮燈漲停",
           "status": "逼近新高",
           "dist": -8.8,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "11/2",
