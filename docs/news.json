@@ -1,11 +1,47 @@
 {
-  "asOf": "2026-11-03T04:30:40.489+08:00",
-  "generatedAt": "2026-11-02T20:30:40.489Z",
+  "asOf": "2026-11-03T11:05:50.922+08:00",
+  "generatedAt": "2026-11-03T03:05:50.922Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "2408",
+      "name": "南亞科",
+      "days": 3,
+      "dates": [
+        "11/3",
+        "10/29",
+        "10/28"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "2344",
+      "name": "華邦電",
+      "days": 3,
+      "dates": [
+        "11/3",
+        "10/29",
+        "10/28"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "2337",
+      "name": "旺宏",
+      "days": 3,
+      "dates": [
+        "11/3",
+        "10/29",
+        "10/28"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
     {
       "symbol": "3406",
       "name": "玉晶光",
@@ -21,6 +57,18 @@
       "luwd": [
         "10/28"
       ]
+    },
+    {
+      "symbol": "6770",
+      "name": "力積電",
+      "days": 3,
+      "dates": [
+        "11/3",
+        "10/29",
+        "10/28"
+      ],
+      "mentions": 3,
+      "limitUp": false
     },
     {
       "symbol": "2049",
@@ -49,37 +97,100 @@
       "limitUp": false
     },
     {
-      "symbol": "2408",
-      "name": "南亞科",
+      "symbol": "3260",
+      "name": "威剛",
       "days": 2,
       "dates": [
-        "10/29",
+        "11/3",
         "10/28"
       ],
-      "mentions": 3,
+      "mentions": 2,
       "limitUp": false
     },
     {
-      "symbol": "2344",
-      "name": "華邦電",
+      "symbol": "3006",
+      "name": "晶豪科",
       "days": 2,
       "dates": [
-        "10/29",
+        "11/3",
         "10/28"
       ],
-      "mentions": 3,
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/28"
+      ]
+    },
+    {
+      "symbol": "4967",
+      "name": "十銓",
+      "days": 2,
+      "dates": [
+        "11/3",
+        "10/28"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
-      "symbol": "2337",
-      "name": "旺宏",
+      "symbol": "8272",
+      "name": "全景軟體",
       "days": 2,
       "dates": [
-        "10/29",
-        "10/28"
+        "11/3",
+        "11/2"
       ],
-      "mentions": 3,
-      "limitUp": false
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "11/2",
+        "10/30",
+        "10/29",
+        "10/28",
+        "10/27"
+      ]
+    },
+    {
+      "symbol": "6865",
+      "name": "偉康科技",
+      "days": 2,
+      "dates": [
+        "11/3",
+        "11/2"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "11/2",
+        "10/30",
+        "10/29",
+        "10/28",
+        "10/27"
+      ]
+    },
+    {
+      "symbol": "6697",
+      "name": "東捷資訊",
+      "days": 2,
+      "dates": [
+        "11/3",
+        "11/2"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -8.8,
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "11/2",
+        "10/30",
+        "10/29",
+        "10/28",
+        "10/27"
+      ]
     },
     {
       "symbol": "1303",
@@ -249,20 +360,153 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "6770",
-      "name": "力積電",
-      "days": 2,
-      "dates": [
-        "10/29",
-        "10/28"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNaU5kNUJ4Qm54T210WjNBVFc2WUhqSzdsNUhUX28wWHduaTN4NWJDU3ZUMjBtMVFlUV84MWRtcDlBQnZValBUd2tkVHpjbHo0Tzl6TThudGVsTlphRURBY0tCQmQybmpsQ2R6bDZKdnN0LXRfdDRlWFh5MkpZWm1FNnpCbGJxd1JL",
+      "tkey": "熱門族群鎧俠也崩了！記憶體大逃殺雙雄同亮半顆綠燈",
+      "title": "《熱門族群》鎧俠也崩了！記憶體大逃殺 雙雄同亮半顆綠燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6347012001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 03 Nov 2026 02:43:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "雙雄殺低半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "雙雄殺低半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "跟進下挫逾2%",
+          "limitUp": false
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "跟進下挫逾2%",
+          "limitUp": false
+        },
+        {
+          "symbol": "3260",
+          "name": "威剛",
+          "point": "跟進下挫逾2%",
+          "limitUp": false
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "跟進下挫逾2%",
+          "limitUp": false
+        },
+        {
+          "symbol": "3006",
+          "name": "晶豪科",
+          "point": "相對抗跌有撐",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "4967",
+          "name": "十銓",
+          "point": "相對抗跌撐盤",
+          "limitUp": false
+        }
+      ],
+      "background": "記憶體產業受日本鎧俠財測不佳與長鑫存儲突破雙重利空打擊，國際大廠美光、SK海力士股價下跌，台廠跟進。SK海力士與馬斯克預期記憶體需求將持續成長。",
+      "themeTags": [
+        "國際大廠",
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPcmZuQzk1eDdLYnROU25UU3FDT1JVdWVudXZLTFRYdFBVUkVJQkQwaldIYUgzSVBsYXozYU1Uc2pkS05DQ3IxaC14Z3JTN1A5WmZTczAwU3o5M2NwNTFfUjdvcnZhMWZPZGh5ZnZsTndKRTNRSVlFRmotbzhyZVktNmhDTkxHZkpa",
+      "tkey": "熱門族群資安成台股逆勢奇兵藍新、程曦點亮一串紅燈",
+      "title": "《熱門族群》資安成台股逆勢奇兵 藍新、程曦點亮一串紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6346997001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 03 Nov 2026 02:28:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6938",
+          "name": "藍新資訊",
+          "point": "再度亮燈漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6898",
+          "name": "程曦資訊",
+          "point": "再度亮燈漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "7767",
+          "name": "仁大資訊",
+          "point": "再度亮燈漲停",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "8272",
+          "name": "全景軟體",
+          "point": "再度亮燈漲停",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28",
+            "10/27"
+          ]
+        },
+        {
+          "symbol": "6865",
+          "name": "偉康科技",
+          "point": "再度亮燈漲停",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28",
+            "10/27"
+          ]
+        },
+        {
+          "symbol": "6697",
+          "name": "東捷資訊",
+          "point": "再度亮燈漲停",
+          "status": "逼近新高",
+          "dist": -8.8,
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28",
+            "10/27"
+          ]
+        }
+      ],
+      "background": "資安需求因AI應用擴張、國內外資安事件頻傳而升溫。金融業對資安韌性關注提高，資安服務從設備延伸至整合防護。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNeldMUEVQaFctQldYaEx0amh2ZWo0NFN1REVjamY0VHNzQlhObUtkNFhKTVNFa2hlZGJhX1ZSZTB4c3RVZG1rSjM2NXY0U3JMeWxodlZ4VTdPczZUNE1PcV9uUkVaWUVBVG1feUVWMi1jbXV3UVhLVzh3am9VS1NhRnhiRHZYNlFt",
       "tkey": "熱門族群炎洲、炎洲流通前三季每股稅前盈餘1.33元、6.13元",
@@ -415,6 +659,8 @@
           "point": "加入漲停行列",
           "limitUp": true,
           "pct": 9.9,
+          "status": "逼近新高",
+          "dist": -8.8,
           "luw": 5,
           "luwd": [
             "11/2",
@@ -561,173 +807,6 @@
       "themeTags": [
         "需求驅動",
         "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxONU1MTzZXN0lkOVFqclM5Nk1FOWl2d1ozcmRRa05xSC0tQjllYkY1MFh6ZHNsNkxVOGN0enpNTmdKcmFNd1QyZXR3SGdoWHdIanNNWG9wRHhHbVlfNG1semNEekFCdUwtYTlLRVFDQ3dXMlBhMzZkQm9XOHVtTnBtVHZvTWxoR0d2",
-      "tkey": "熱門族群Wi-Fi7滲透率升石英元件業者得利",
-      "title": "《熱門族群》Wi-Fi 7滲透率升 石英元件業者得利 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6345169001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Sun, 01 Nov 2026 08:41:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3042",
-          "name": "晶技",
-          "point": "Wi-Fi 7產品與IC廠完成參考設計",
-          "limitUp": false
-        },
-        {
-          "symbol": "3221",
-          "name": "台嘉碩",
-          "point": "Wi-Fi 7濾波器應用於路由器與車載通訊",
-          "limitUp": false
-        },
-        {
-          "symbol": "6174",
-          "name": "安碁",
-          "point": "受惠Wi-Fi 7加速普及",
-          "limitUp": false
-        }
-      ],
-      "background": "Wi-Fi 7技術因終端產品滲透率持續提升，預期將加速普及，帶動石英元件需求成長。網通大廠瑞昱看好市場滲透率將持續提升。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNMXZmYXRjbnZ2aUR4UzNsaVhuQXJfOXdNTEl5eHQxUS1SbHdsa1RySlBHWVp4SmYwTW12NHd5MkJwemxnVjlJNDNXaXF1dzJoMmVsUUtjMWZYR2hJdFZ2VFJDRC00MllaZGlWLU5nOHhneUJmQUpuSDFVNmVuTTd3eWJtX0JIMHlZ",
-      "tkey": "熱門族群AI催動工具機業接單熱到明年Q2",
-      "title": "《熱門族群》AI催動 工具機業接單熱到明年Q2 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6345137001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Sun, 01 Nov 2026 05:23:00 GMT",
-      "stocks": [
-        {
-          "symbol": "4545",
-          "name": "東台",
-          "point": "AI產業當道接單成長",
-          "limitUp": false
-        },
-        {
-          "symbol": "4579",
-          "name": "永進",
-          "point": "AI產業當道接單成長",
-          "limitUp": false
-        },
-        {
-          "symbol": "4572",
-          "name": "瀧澤科",
-          "point": "AI產業當道接單成長",
-          "limitUp": false
-        },
-        {
-          "symbol": "1530",
-          "name": "亞崴",
-          "point": "AI產業當道接單成長",
-          "limitUp": false
-        },
-        {
-          "symbol": "1590",
-          "name": "程泰",
-          "point": "AI產業當道接單成長",
-          "limitUp": false
-        },
-        {
-          "symbol": "4563",
-          "name": "百德",
-          "point": "AI產業當道接單成長",
-          "limitUp": false,
-          "luw": 5,
-          "luwd": [
-            "11/2",
-            "10/30",
-            "10/29",
-            "10/28",
-            "10/27"
-          ]
-        },
-        {
-          "symbol": "4533",
-          "name": "協易機",
-          "point": "AI產業當道接單成長",
-          "limitUp": false
-        },
-        {
-          "symbol": "2049",
-          "name": "上銀",
-          "point": "零件廠訂單同步飆高",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "10/27"
-          ]
-        },
-        {
-          "symbol": "4548",
-          "name": "直得",
-          "point": "零件廠訂單同步飆高",
-          "limitUp": false
-        },
-        {
-          "symbol": "4540",
-          "name": "全球傳動",
-          "point": "零件廠訂單同步飆高",
-          "limitUp": false
-        },
-        {
-          "symbol": "4556",
-          "name": "台灣引興",
-          "point": "零件廠訂單同步飆高",
-          "limitUp": false
-        },
-        {
-          "symbol": "4564",
-          "name": "哈伯",
-          "point": "零件廠訂單同步飆高",
-          "limitUp": false
-        }
-      ],
-      "background": "AI產業發展帶動工具機需求，尤其半導體耗材與零件加工領域。日本工具機大廠如OKUMA、MAZAK已推出AI與智能化功能機台，台灣業者面臨轉型升級壓力。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiTEFVX3lxTE9EczJIYURmT0RnOUQxODdOUE4yc083WlozdnAtUXA3SXc5eTlHeXhuV0hqVFhrUHllaTFZLWthSVpkM2xQem1UaXExdVg",
-      "tkey": "熱門族群記憶體族群迎AI需求紅利2027年DRAM缺貨恐加劇",
-      "title": "熱門族群》記憶體族群迎AI需求紅利 2027年DRAM缺貨恐加劇 - 聚財網",
-      "url": "https://news.wearn.com/c2136244.html",
-      "source": "聚財網",
-      "pubDate": "Sat, 31 Oct 2026 23:08:07 GMT",
-      "stocks": [
-        {
-          "symbol": "6213",
-          "name": "聯茂",
-          "point": "受惠AI需求，股價表現強勁",
-          "limitUp": false
-        }
-      ],
-      "background": "記憶體族群受惠AI需求紅利，特別是HBM與DDR5，國際大廠三星、SK海力士、美光積極布局，DRAM市場預期將迎來供給吃緊。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTE15UWdOdnE4MjhyVGZLSmlsZDV5QzNMOE9oWTdZaHpOOUEwMDdsN0pITHI0dXhFR1pWVjNCYzVSVUZsT0l0eVZJMFVBLTkxMjUyTm1uN3Z3dGY",
-      "tkey": "熱門族群車市買氣回溫汽車族群營運正向",
-      "title": "熱門族群》車市買氣回溫 汽車族群營運正向 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/lqfuxwafc3bs",
-      "source": "自由時報",
-      "pubDate": "Sat, 31 Oct 2026 23:05:00 GMT",
-      "stocks": [],
-      "background": "車市買氣回溫，帶動汽車零組件、電動車相關供應鏈營運正向發展，產業景氣逐漸復甦。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
       ]
     }
   ]

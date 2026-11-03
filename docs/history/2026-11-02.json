@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "updatedAt": "2026-11-02T20:30:40.485Z",
+  "updatedAt": "2026-11-03T03:05:50.919Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNeldMUEVQaFctQldYaEx0amh2ZWo0NFN1REVjamY0VHNzQlhObUtkNFhKTVNFa2hlZGJhX1ZSZTB4c3RVZG1rSjM2NXY0U3JMeWxodlZ4VTdPczZUNE1PcV9uUkVaWUVBVG1feUVWMi1jbXV3UVhLVzh3am9VS1NhRnhiRHZYNlFt",
@@ -154,6 +154,8 @@
           "point": "加入漲停行列",
           "limitUp": true,
           "pct": 9.9,
+          "status": "逼近新高",
+          "dist": -8.8,
           "luw": 5,
           "luwd": [
             "11/2",
