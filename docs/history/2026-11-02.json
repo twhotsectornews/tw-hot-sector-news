@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "updatedAt": "2026-11-03T10:42:05.669Z",
+  "updatedAt": "2026-11-03T16:58:41.810Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNeldMUEVQaFctQldYaEx0amh2ZWo0NFN1REVjamY0VHNzQlhObUtkNFhKTVNFa2hlZGJhX1ZSZTB4c3RVZG1rSjM2NXY0U3JMeWxodlZ4VTdPczZUNE1PcV9uUkVaWUVBVG1feUVWMi1jbXV3UVhLVzh3am9VS1NhRnhiRHZYNlFt",
@@ -102,11 +102,11 @@
           "pct": 10,
           "luw": 5,
           "luwd": [
+            "11/3",
             "11/2",
             "10/30",
             "10/29",
-            "10/28",
-            "10/27"
+            "10/28"
           ]
         },
         {
@@ -117,11 +117,11 @@
           "pct": 9.9,
           "luw": 5,
           "luwd": [
+            "11/3",
             "11/2",
             "10/30",
             "10/29",
-            "10/28",
-            "10/27"
+            "10/28"
           ]
         },
         {
@@ -217,21 +217,16 @@
           "status": "逼近新高",
           "dist": -8,
           "limitUp": false,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "10/28",
-            "10/27"
+            "10/28"
           ]
         },
         {
           "symbol": "7750",
           "name": "新代",
           "point": "打入跌停",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "10/27"
-          ]
+          "limitUp": false
         }
       ],
       "background": "機器人族群受Meta加入人形機器人戰局及東京國際工具機展題材助陣，AI加速進入製造現場，帶動機器人、自動化與軟硬體整合需求。",

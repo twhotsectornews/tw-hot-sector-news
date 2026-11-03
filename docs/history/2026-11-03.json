@@ -1,0 +1,391 @@
+{
+  "date": "2026-11-03",
+  "updatedAt": "2026-11-03T16:58:41.806Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNaXhKS1FDaWdlWE9kOVhYOFJZRUMyNUtNZHpmWUZISnZtUC10MEdZWHVIbjBWdElnTFVrY0V3bnZ1X1FSSXhVR254R3FhZURaM00tX2VNcjZOeXZXQ0tMUzQ1SlVNcnJLNE85SXdUanlUZHRWZ2FSSEMwNEpMeGFOLVFoczhhYV9h",
+      "tkey": "熱門族群千金股慘遭血洗！14檔收盤跌停大立光摜破5000元大關",
+      "title": "《熱門族群》千金股慘遭血洗！14檔收盤跌停 大立光摜破5000元大關 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6347198001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 03 Nov 2026 06:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "股價跌破千元",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "6683",
+          "name": "雍智科技",
+          "point": "股價跌破千元",
+          "limitUp": false
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "point": "股價跌破千元",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "亮燈跌停，失守5000元大關",
+          "limitUp": false
+        },
+        {
+          "symbol": "6223",
+          "name": "旺矽",
+          "point": "亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "7856",
+          "name": "漢測",
+          "point": "亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3529",
+          "name": "力旺",
+          "point": "亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "7750",
+          "name": "新代",
+          "point": "亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2360",
+          "name": "致茂",
+          "point": "亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "8996",
+          "name": "高力",
+          "point": "亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "point": "逆勢上漲2.9%，唯一收紅千金股",
+          "limitUp": false
+        },
+        {
+          "symbol": "1590",
+          "name": "亞德客-KY",
+          "point": "股價接近千元關卡",
+          "limitUp": false
+        },
+        {
+          "symbol": "5289",
+          "name": "宜鼎",
+          "point": "股價接近千元關卡",
+          "limitUp": false
+        },
+        {
+          "symbol": "2404",
+          "name": "漢唐",
+          "point": "股價接近千元關卡",
+          "limitUp": false
+        }
+      ],
+      "background": "台股大盤遭遇沉重賣壓，高價電子股成為修正重災區，多檔千金股跌停或跌破千元關卡，市場投資信心受衝擊。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOUGZTb0NiaWdKZGNadlNQZ0JxVi0xMTBpMnZuVDVhY2R6M1plRHdHM3E4elp3VGU3aEluRGEzdm9wRkZfcEFUeWNfRVlwLTRGeG8xdFg3bnpGczVFS0MzaG4xaFlkaUZQNER4NWdzcWZpTVNobWZwclIyNHpnSlZreUVfMDY1aEN4",
+      "tkey": "熱門族群結親案雙殺！矽光子倒一片3檔淌血倒地",
+      "title": "《熱門族群》結親案雙殺！矽光子倒一片 3檔淌血倒地 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6347064001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 03 Nov 2026 03:27:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "矽光子概念股重挫跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "矽光子概念股重挫跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2455",
+          "name": "全新",
+          "point": "矽光子概念股重挫跌停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "4979",
+          "name": "華星光",
+          "point": "矽光子概念股重挫逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "6442",
+          "name": "光聖",
+          "point": "矽光子概念股重挫逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "6451",
+          "name": "訊芯-KY",
+          "point": "矽光子概念股重挫逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "4977",
+          "name": "眾達-KY",
+          "point": "矽光子概念股重挫逾半根停板",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        }
+      ],
+      "background": "AI資料中心投資熱潮推升光通訊需求，美系晶片大廠併購光學元件製造商，但市場對高估值併購風險轉趨謹慎，導致相關概念股重挫。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNYnZHVFQ0OTRxVnFoOG9RTW9hbzE5MVB5VTNHZ3lXZjdqT1dfTzVsbFBRS3FLRGtHZm84R2dtN2o0OUlfLW1lY1F1alVrb1JTQ3JSNTlPa1dpRk5LR2F4bGNuRFZLOXNxcVVxbUNiUmtXc3lmTjZfczc5bHlCcG9fSHBKM3pCOGls",
+      "tkey": "熱門族群ITF旅展本周登場！航空四雄逆勢吸金虎航領頭飛高",
+      "title": "《熱門族群》ITF旅展本周登場！航空四雄逆勢吸金 虎航領頭飛高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6347044001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 03 Nov 2026 03:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6757",
+          "name": "虎航",
+          "point": "股價突破半年線 領頭飛高",
+          "limitUp": false
+        },
+        {
+          "symbol": "2610",
+          "name": "華航",
+          "point": "獲外資買盤挹注 抗跌",
+          "limitUp": false
+        },
+        {
+          "symbol": "2618",
+          "name": "長榮航",
+          "point": "獲外資買盤挹注 逼近高價",
+          "status": "逼近新高",
+          "dist": -2.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "2646",
+          "name": "星宇航空",
+          "point": "穩守 20 元附近",
+          "limitUp": false
+        }
+      ],
+      "background": "ITF 旅展登場帶動旅遊商機，航空業者推出優惠搶攻年末及春節出遊需求，預期旅展業績雙位數成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNaU5kNUJ4Qm54T210WjNBVFc2WUhqSzdsNUhUX28wWHduaTN4NWJDU3ZUMjBtMVFlUV84MWRtcDlBQnZValBUd2tkVHpjbHo0Tzl6TThudGVsTlphRURBY0tCQmQybmpsQ2R6bDZKdnN0LXRfdDRlWFh5MkpZWm1FNnpCbGJxd1JL",
+      "tkey": "熱門族群鎧俠也崩了！記憶體大逃殺雙雄同亮半顆綠燈",
+      "title": "《熱門族群》鎧俠也崩了！記憶體大逃殺 雙雄同亮半顆綠燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6347012001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 03 Nov 2026 02:43:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "雙雄殺低半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "雙雄殺低半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "跟進下挫逾2%",
+          "limitUp": false
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "跟進下挫逾2%",
+          "limitUp": false
+        },
+        {
+          "symbol": "3260",
+          "name": "威剛",
+          "point": "跟進下挫逾2%",
+          "limitUp": false
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "跟進下挫逾2%",
+          "limitUp": false
+        },
+        {
+          "symbol": "3006",
+          "name": "晶豪科",
+          "point": "相對抗跌有撐",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "4967",
+          "name": "十銓",
+          "point": "相對抗跌撐盤",
+          "limitUp": false
+        }
+      ],
+      "background": "記憶體產業受日本鎧俠財測不佳與長鑫存儲突破雙重利空打擊，國際大廠美光、SK海力士股價下跌，台廠跟進。SK海力士與馬斯克預期記憶體需求將持續成長。",
+      "themeTags": [
+        "國際大廠",
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPcmZuQzk1eDdLYnROU25UU3FDT1JVdWVudXZLTFRYdFBVUkVJQkQwaldIYUgzSVBsYXozYU1Uc2pkS05DQ3IxaC14Z3JTN1A5WmZTczAwU3o5M2NwNTFfUjdvcnZhMWZPZGh5ZnZsTndKRTNRSVlFRmotbzhyZVktNmhDTkxHZkpa",
+      "tkey": "熱門族群資安成台股逆勢奇兵藍新、程曦點亮一串紅燈",
+      "title": "《熱門族群》資安成台股逆勢奇兵 藍新、程曦點亮一串紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6346997001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 03 Nov 2026 02:28:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6938",
+          "name": "藍新資訊",
+          "point": "再度亮燈漲停",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/3",
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "6898",
+          "name": "程曦資訊",
+          "point": "再度亮燈漲停",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/3",
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "7767",
+          "name": "仁大資訊",
+          "point": "再度亮燈漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/3",
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "8272",
+          "name": "全景軟體",
+          "point": "再度亮燈漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/3",
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "6865",
+          "name": "偉康科技",
+          "point": "再度亮燈漲停",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/3",
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "6697",
+          "name": "東捷資訊",
+          "point": "再度亮燈漲停",
+          "status": "逼近新高",
+          "dist": -8.8,
+          "limitUp": false
+        }
+      ],
+      "background": "資安需求因AI應用擴張、國內外資安事件頻傳而升溫。金融業對資安韌性關注提高，資安服務從設備延伸至整合防護。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}
