@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-03T11:05:50.922+08:00",
-  "generatedAt": "2026-11-03T03:05:50.922Z",
+  "asOf": "2026-11-03T12:03:51.573+08:00",
+  "generatedAt": "2026-11-03T04:03:51.573Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -71,19 +71,15 @@
       "limitUp": false
     },
     {
-      "symbol": "2049",
-      "name": "上銀",
+      "symbol": "3081",
+      "name": "聯亞",
       "days": 2,
       "dates": [
-        "11/1",
-        "10/28"
+        "11/3",
+        "10/30"
       ],
       "mentions": 3,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/27"
-      ]
+      "limitUp": false
     },
     {
       "symbol": "3008",
@@ -95,6 +91,58 @@
       ],
       "mentions": 3,
       "limitUp": false
+    },
+    {
+      "symbol": "2455",
+      "name": "全新",
+      "days": 2,
+      "dates": [
+        "11/3",
+        "10/30"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/28"
+      ]
+    },
+    {
+      "symbol": "6442",
+      "name": "光聖",
+      "days": 2,
+      "dates": [
+        "11/3",
+        "10/30"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "6451",
+      "name": "訊芯-KY",
+      "days": 2,
+      "dates": [
+        "11/3",
+        "10/30"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "4977",
+      "name": "眾達-KY",
+      "days": 2,
+      "dates": [
+        "11/3",
+        "10/30"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/28"
+      ]
     },
     {
       "symbol": "3260",
@@ -226,26 +274,6 @@
       ]
     },
     {
-      "symbol": "4563",
-      "name": "百德",
-      "days": 2,
-      "dates": [
-        "11/2",
-        "11/1"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 5,
-      "luwd": [
-        "11/2",
-        "10/30",
-        "10/29",
-        "10/28",
-        "10/27"
-      ]
-    },
-    {
       "symbol": "4526",
       "name": "東台",
       "days": 2,
@@ -262,17 +290,6 @@
         "10/28",
         "10/27"
       ]
-    },
-    {
-      "symbol": "1590",
-      "name": "程泰",
-      "days": 2,
-      "dates": [
-        "11/1",
-        "10/30"
-      ],
-      "mentions": 2,
-      "limitUp": false
     },
     {
       "symbol": "2308",
@@ -364,6 +381,71 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxOUGZTb0NiaWdKZGNadlNQZ0JxVi0xMTBpMnZuVDVhY2R6M1plRHdHM3E4elp3VGU3aEluRGEzdm9wRkZfcEFUeWNfRVlwLTRGeG8xdFg3bnpGczVFS0MzaG4xaFlkaUZQNER4NWdzcWZpTVNobWZwclIyNHpnSlZreUVfMDY1aEN4",
+      "tkey": "熱門族群結親案雙殺！矽光子倒一片3檔淌血倒地",
+      "title": "《熱門族群》結親案雙殺！矽光子倒一片 3檔淌血倒地 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6347064001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 03 Nov 2026 03:27:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "矽光子概念股重挫跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "矽光子概念股重挫跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2455",
+          "name": "全新",
+          "point": "矽光子概念股重挫跌停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "4979",
+          "name": "華星光",
+          "point": "矽光子概念股重挫逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "6442",
+          "name": "光聖",
+          "point": "矽光子概念股重挫逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "6451",
+          "name": "訊芯-KY",
+          "point": "矽光子概念股重挫逾半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "4977",
+          "name": "眾達-KY",
+          "point": "矽光子概念股重挫逾半根停板",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        }
+      ],
+      "background": "AI資料中心投資熱潮推升光通訊需求，美系晶片大廠併購光學元件製造商，但市場對高估值併購風險轉趨謹慎，導致相關概念股重挫。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNaU5kNUJ4Qm54T210WjNBVFc2WUhqSzdsNUhUX28wWHduaTN4NWJDU3ZUMjBtMVFlUV84MWRtcDlBQnZValBUd2tkVHpjbHo0Tzl6TThudGVsTlphRURBY0tCQmQybmpsQ2R6bDZKdnN0LXRfdDRlWFh5MkpZWm1FNnpCbGJxd1JL",
       "tkey": "熱門族群鎧俠也崩了！記憶體大逃殺雙雄同亮半顆綠燈",
       "title": "《熱門族群》鎧俠也崩了！記憶體大逃殺 雙雄同亮半顆綠燈 - 富聯網",
@@ -454,8 +536,7 @@
           "symbol": "7767",
           "name": "仁大資訊",
           "point": "再度亮燈漲停",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "8272",

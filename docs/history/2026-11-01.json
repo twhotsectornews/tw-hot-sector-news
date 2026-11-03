@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "updatedAt": "2026-11-03T03:05:50.920Z",
+  "updatedAt": "2026-11-03T04:03:51.571Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxONU1MTzZXN0lkOVFqclM5Nk1FOWl2d1ozcmRRa05xSC0tQjllYkY1MFh6ZHNsNkxVOGN0enpNTmdKcmFNd1QyZXR3SGdoWHdIanNNWG9wRHhHbVlfNG1semNEekFCdUwtYTlLRVFDQ3dXMlBhMzZkQm9XOHVtTnBtVHZvTWxoR0d2",
@@ -35,102 +35,45 @@
       ]
     },
     {
+      "gid": "CBMiiAFBVV95cUxOcUlLMG12c2trNF9BckVicDVZR3ZGclVUeENibmtXMU9yZVNKOTFWd2RvMlhFeF9JLTM1SGtDMnJ2Vk1DOG5ZVHdWZDdiOVBmQTZ4cmNQY1F0ZWE1TVpXblN0MXlZOC1xcnVhel96S2FTVVg3dDFGbWtLWE9zZGNDQWJxTWpsY2Yw",
+      "tkey": "熱門族群Wi-Fi7滲透率升石英元件業者得利",
+      "title": "《熱門族群》Wi-Fi 7滲透率升 石英元件業者得利 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6345169001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Sun, 01 Nov 2026 08:41:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3042",
+          "name": "晶技",
+          "point": "Wi-Fi 7滲透率提升可望受惠"
+        },
+        {
+          "symbol": "3221",
+          "name": "台嘉碩",
+          "point": "Wi-Fi 7滲透率提升可望受惠"
+        },
+        {
+          "symbol": "6174",
+          "name": "安碁",
+          "point": "Wi-Fi 7滲透率提升可望受惠"
+        }
+      ],
+      "background": "Wi-Fi 7終端產品滲透率持續提升，將帶動石英元件需求，網通大廠瑞昱看好市場滲透率成長，有利相關業者營運。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNMXZmYXRjbnZ2aUR4UzNsaVhuQXJfOXdNTEl5eHQxUS1SbHdsa1RySlBHWVp4SmYwTW12NHd5MkJwemxnVjlJNDNXaXF1dzJoMmVsUUtjMWZYR2hJdFZ2VFJDRC00MllaZGlWLU5nOHhneUJmQUpuSDFVNmVuTTd3eWJtX0JIMHlZ",
       "tkey": "熱門族群AI催動工具機業接單熱到明年Q2",
       "title": "《熱門族群》AI催動 工具機業接單熱到明年Q2 - 富聯網",
       "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6345137001&PU=0010",
       "source": "富聯網",
       "pubDate": "Sun, 01 Nov 2026 05:23:00 GMT",
-      "stocks": [
-        {
-          "symbol": "4545",
-          "name": "東台",
-          "point": "AI產業當道接單成長",
-          "limitUp": false
-        },
-        {
-          "symbol": "4579",
-          "name": "永進",
-          "point": "AI產業當道接單成長",
-          "limitUp": false
-        },
-        {
-          "symbol": "4572",
-          "name": "瀧澤科",
-          "point": "AI產業當道接單成長",
-          "limitUp": false
-        },
-        {
-          "symbol": "1530",
-          "name": "亞崴",
-          "point": "AI產業當道接單成長",
-          "limitUp": false
-        },
-        {
-          "symbol": "1590",
-          "name": "程泰",
-          "point": "AI產業當道接單成長",
-          "limitUp": false
-        },
-        {
-          "symbol": "4563",
-          "name": "百德",
-          "point": "AI產業當道接單成長",
-          "limitUp": false,
-          "luw": 5,
-          "luwd": [
-            "11/2",
-            "10/30",
-            "10/29",
-            "10/28",
-            "10/27"
-          ]
-        },
-        {
-          "symbol": "4533",
-          "name": "協易機",
-          "point": "AI產業當道接單成長",
-          "limitUp": false
-        },
-        {
-          "symbol": "2049",
-          "name": "上銀",
-          "point": "零件廠訂單同步飆高",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "10/27"
-          ]
-        },
-        {
-          "symbol": "4548",
-          "name": "直得",
-          "point": "零件廠訂單同步飆高",
-          "limitUp": false
-        },
-        {
-          "symbol": "4540",
-          "name": "全球傳動",
-          "point": "零件廠訂單同步飆高",
-          "limitUp": false
-        },
-        {
-          "symbol": "4556",
-          "name": "台灣引興",
-          "point": "零件廠訂單同步飆高",
-          "limitUp": false
-        },
-        {
-          "symbol": "4564",
-          "name": "哈伯",
-          "point": "零件廠訂單同步飆高",
-          "limitUp": false
-        }
-      ],
-      "background": "AI產業發展帶動工具機需求，尤其半導體耗材與零件加工領域。日本工具機大廠如OKUMA、MAZAK已推出AI與智能化功能機台，台灣業者面臨轉型升級壓力。",
+      "stocks": [],
+      "background": "AI產業當道，帶動工具機大廠及零件廠接單熱潮，訂單能見度高，但台灣業者面臨日本與大陸同業夾擊，需轉型升級。",
       "themeTags": [
-        "需求驅動",
-        "國際大廠"
+        "需求驅動"
       ]
     },
     {
