@@ -1,11 +1,40 @@
 {
-  "asOf": "2026-11-03T14:03:02.032+08:00",
-  "generatedAt": "2026-11-03T06:03:02.032Z",
+  "asOf": "2026-11-03T17:42:00.710+08:00",
+  "generatedAt": "2026-11-03T09:42:00.710Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "3406",
+      "name": "玉晶光",
+      "days": 4,
+      "dates": [
+        "11/3",
+        "10/30",
+        "10/29",
+        "10/28"
+      ],
+      "mentions": 5,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/28"
+      ]
+    },
+    {
+      "symbol": "3008",
+      "name": "大立光",
+      "days": 3,
+      "dates": [
+        "11/3",
+        "10/29",
+        "10/28"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
     {
       "symbol": "2408",
       "name": "南亞科",
@@ -43,22 +72,6 @@
       "limitUp": false
     },
     {
-      "symbol": "3406",
-      "name": "玉晶光",
-      "days": 3,
-      "dates": [
-        "10/30",
-        "10/29",
-        "10/28"
-      ],
-      "mentions": 4,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/28"
-      ]
-    },
-    {
       "symbol": "6770",
       "name": "力積電",
       "days": 3,
@@ -78,18 +91,103 @@
         "11/3",
         "10/30"
       ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "2360",
+      "name": "致茂",
+      "days": 2,
+      "dates": [
+        "11/3",
+        "10/30"
+      ],
       "mentions": 3,
       "limitUp": false
     },
     {
-      "symbol": "3008",
-      "name": "大立光",
+      "symbol": "6683",
+      "name": "雍智科技",
       "days": 2,
       "dates": [
-        "10/29",
-        "10/28"
+        "11/3",
+        "10/30"
       ],
-      "mentions": 3,
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2368",
+      "name": "金像電",
+      "days": 2,
+      "dates": [
+        "11/3",
+        "10/30"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/28"
+      ]
+    },
+    {
+      "symbol": "6223",
+      "name": "旺矽",
+      "days": 2,
+      "dates": [
+        "11/3",
+        "10/29"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "7750",
+      "name": "新代",
+      "days": 2,
+      "dates": [
+        "11/3",
+        "11/2"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/27"
+      ]
+    },
+    {
+      "symbol": "6446",
+      "name": "藥華藥",
+      "days": 2,
+      "dates": [
+        "11/3",
+        "10/29"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "1590",
+      "name": "亞德客-KY",
+      "days": 2,
+      "dates": [
+        "11/3",
+        "10/30"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2404",
+      "name": "漢唐",
+      "days": 2,
+      "dates": [
+        "11/3",
+        "10/30"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -191,7 +289,7 @@
       ],
       "mentions": 2,
       "limitUp": true,
-      "pct": 10,
+      "pct": 9.9,
       "luw": 5,
       "luwd": [
         "11/2",
@@ -211,7 +309,7 @@
       ],
       "mentions": 2,
       "limitUp": true,
-      "pct": 9.9,
+      "pct": 10,
       "luw": 5,
       "luwd": [
         "11/2",
@@ -232,16 +330,7 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -8.8,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 5,
-      "luwd": [
-        "11/2",
-        "10/30",
-        "10/29",
-        "10/28",
-        "10/27"
-      ]
+      "limitUp": false
     },
     {
       "symbol": "1303",
@@ -266,15 +355,7 @@
       ],
       "mentions": 2,
       "limitUp": true,
-      "pct": 10,
-      "luw": 5,
-      "luwd": [
-        "11/2",
-        "10/30",
-        "10/29",
-        "10/28",
-        "10/27"
-      ]
+      "pct": 10
     },
     {
       "symbol": "4526",
@@ -317,72 +398,129 @@
       "status": "逼近新高",
       "dist": -8.5,
       "limitUp": false
-    },
-    {
-      "symbol": "3653",
-      "name": "健策",
-      "days": 2,
-      "dates": [
-        "10/29",
-        "10/28"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -13.9,
-      "limitUp": false
-    },
-    {
-      "symbol": "3443",
-      "name": "創意",
-      "days": 2,
-      "dates": [
-        "10/29",
-        "10/28"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -12.7,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/28"
-      ]
-    },
-    {
-      "symbol": "2059",
-      "name": "川湖",
-      "days": 2,
-      "dates": [
-        "10/29",
-        "10/28"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "6209",
-      "name": "今國光",
-      "days": 2,
-      "dates": [
-        "10/29",
-        "10/28"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "6510",
-      "name": "精測",
-      "days": 2,
-      "dates": [
-        "10/29",
-        "10/28"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNaXhKS1FDaWdlWE9kOVhYOFJZRUMyNUtNZHpmWUZISnZtUC10MEdZWHVIbjBWdElnTFVrY0V3bnZ1X1FSSXhVR254R3FhZURaM00tX2VNcjZOeXZXQ0tMUzQ1SlVNcnJLNE85SXdUanlUZHRWZ2FSSEMwNEpMeGFOLVFoczhhYV9h",
+      "tkey": "熱門族群千金股慘遭血洗！14檔收盤跌停大立光摜破5000元大關",
+      "title": "《熱門族群》千金股慘遭血洗！14檔收盤跌停 大立光摜破5000元大關 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6347198001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 03 Nov 2026 06:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "股價跌破千元",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "6683",
+          "name": "雍智科技",
+          "point": "股價跌破千元",
+          "limitUp": false
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "point": "股價跌破千元",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "亮燈跌停，失守5000元大關",
+          "limitUp": false
+        },
+        {
+          "symbol": "6223",
+          "name": "旺矽",
+          "point": "亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "7856",
+          "name": "漢測",
+          "point": "亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3529",
+          "name": "力旺",
+          "point": "亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "7750",
+          "name": "新代",
+          "point": "亮燈跌停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/27"
+          ]
+        },
+        {
+          "symbol": "2360",
+          "name": "致茂",
+          "point": "亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "8996",
+          "name": "高力",
+          "point": "亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "point": "逆勢上漲2.9%，唯一收紅千金股",
+          "limitUp": false
+        },
+        {
+          "symbol": "1590",
+          "name": "亞德客-KY",
+          "point": "股價接近千元關卡",
+          "limitUp": false
+        },
+        {
+          "symbol": "5289",
+          "name": "宜鼎",
+          "point": "股價接近千元關卡",
+          "limitUp": false
+        },
+        {
+          "symbol": "2404",
+          "name": "漢唐",
+          "point": "股價接近千元關卡",
+          "limitUp": false
+        }
+      ],
+      "background": "台股大盤遭遇沉重賣壓，高價電子股成為修正重災區，多檔千金股跌停或跌破千元關卡，市場投資信心受衝擊。",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxOUGZTb0NiaWdKZGNadlNQZ0JxVi0xMTBpMnZuVDVhY2R6M1plRHdHM3E4elp3VGU3aEluRGEzdm9wRkZfcEFUeWNfRVlwLTRGeG8xdFg3bnpGczVFS0MzaG4xaFlkaUZQNER4NWdzcWZpTVNobWZwclIyNHpnSlZreUVfMDY1aEN4",
       "tkey": "熱門族群結親案雙殺！矽光子倒一片3檔淌血倒地",
@@ -567,26 +705,53 @@
           "symbol": "6938",
           "name": "藍新資訊",
           "point": "再度亮燈漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28",
+            "10/27"
+          ]
         },
         {
           "symbol": "6898",
           "name": "程曦資訊",
           "point": "再度亮燈漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28",
+            "10/27"
+          ]
         },
         {
           "symbol": "7767",
           "name": "仁大資訊",
           "point": "再度亮燈漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28",
+            "10/27"
+          ]
         },
         {
           "symbol": "8272",
           "name": "全景軟體",
           "point": "再度亮燈漲停",
           "limitUp": true,
-          "pct": 10,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "11/2",
@@ -601,7 +766,7 @@
           "name": "偉康科技",
           "point": "再度亮燈漲停",
           "limitUp": true,
-          "pct": 9.9,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "11/2",
@@ -617,16 +782,7 @@
           "point": "再度亮燈漲停",
           "status": "逼近新高",
           "dist": -8.8,
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/2",
-            "10/30",
-            "10/29",
-            "10/28",
-            "10/27"
-          ]
+          "limitUp": false
         }
       ],
       "background": "資安需求因AI應用擴張、國內外資安事件頻傳而升溫。金融業對資安韌性關注提高，資安服務從設備延伸至整合防護。",
@@ -675,45 +831,21 @@
           "status": "高檔修正",
           "dist": -13.9,
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/2",
-            "10/30",
-            "10/29",
-            "10/28",
-            "10/27"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "5340",
           "name": "建榮",
           "point": "攻頂收盤",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "11/2",
-            "10/30",
-            "10/29",
-            "10/28",
-            "10/27"
-          ]
+          "pct": 10
         },
         {
           "symbol": "5475",
           "name": "德宏",
           "point": "大漲9%",
           "limitUp": true,
-          "pct": 9.6,
-          "luw": 5,
-          "luwd": [
-            "11/2",
-            "10/30",
-            "10/29",
-            "10/28",
-            "10/27"
-          ]
+          "pct": 9.6
         },
         {
           "symbol": "1809",
@@ -787,15 +919,7 @@
           "limitUp": true,
           "pct": 9.9,
           "status": "逼近新高",
-          "dist": -8.8,
-          "luw": 5,
-          "luwd": [
-            "11/2",
-            "10/30",
-            "10/29",
-            "10/28",
-            "10/27"
-          ]
+          "dist": -8.8
         },
         {
           "symbol": "2468",
@@ -845,45 +969,21 @@
           "name": "大拓-KY",
           "point": "強閃紅燈",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "11/2",
-            "10/30",
-            "10/29",
-            "10/28",
-            "10/27"
-          ]
+          "pct": 10
         },
         {
           "symbol": "3379",
           "name": "彬台",
           "point": "強閃紅燈",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "11/2",
-            "10/30",
-            "10/29",
-            "10/28",
-            "10/27"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6609",
           "name": "瀧澤科",
           "point": "強閃紅燈、攻漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/2",
-            "10/30",
-            "10/29",
-            "10/28",
-            "10/27"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "1528",
@@ -896,15 +996,7 @@
           "name": "百德",
           "point": "強閃紅燈",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "11/2",
-            "10/30",
-            "10/29",
-            "10/28",
-            "10/27"
-          ]
+          "pct": 10
         },
         {
           "symbol": "4526",
