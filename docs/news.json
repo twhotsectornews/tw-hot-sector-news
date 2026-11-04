@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-04T12:03:03.654+08:00",
-  "generatedAt": "2026-11-04T04:03:03.654Z",
+  "asOf": "2026-11-04T13:05:51.144+08:00",
+  "generatedAt": "2026-11-04T05:05:51.144Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -82,8 +82,7 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -8.8,
-      "limitUp": true,
-      "pct": 9.9
+      "limitUp": false
     },
     {
       "symbol": "8272",
@@ -158,6 +157,67 @@
         "10/29"
       ],
       "mentions": 3
+    },
+    {
+      "symbol": "3379",
+      "name": "彬台",
+      "days": 2,
+      "dates": [
+        "11/4",
+        "11/2"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "6609",
+      "name": "瀧澤科",
+      "days": 2,
+      "dates": [
+        "11/4",
+        "11/2"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "1528",
+      "name": "恩德",
+      "days": 2,
+      "dates": [
+        "11/4",
+        "11/2"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "4563",
+      "name": "百德",
+      "days": 2,
+      "dates": [
+        "11/4",
+        "11/2"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "4526",
+      "name": "東台",
+      "days": 2,
+      "dates": [
+        "11/4",
+        "11/2"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -8.4,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/28"
+      ]
     },
     {
       "symbol": "3260",
@@ -334,72 +394,105 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "2404",
-      "name": "漢唐",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/30"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2455",
-      "name": "全新",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/30"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/28"
-      ]
-    },
-    {
-      "symbol": "6442",
-      "name": "光聖",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/30"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "6451",
-      "name": "訊芯-KY",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/30"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "4977",
-      "name": "眾達-KY",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/30"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "10/28"
-      ]
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQQTU1ZFp4QXkzd3dDNGZLUlRHYjRqaE5IYmxRSTdpYnpVSGNXQTRIOG0yaXRiNzVGUUFGOG9SbXI4OWpGQ3RpVG5vVENSZnZnZFNIbjUyVURzNWNNYkdyQlU1U3UyMHlvOVJGc1RzYVp4RDRRZHlWQkVjeWhvQTcwelh2M1BOLUJW",
+      "tkey": "熱門族群台股狂殺1400點！機器人傳喜訊6檔閃紅燈不怕摔",
+      "title": "《熱門族群》台股狂殺1400點！機器人傳喜訊 6檔閃紅燈不怕摔 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6348259001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 04 Nov 2026 03:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3379",
+          "name": "彬台",
+          "point": "亮燈漲停，機器人概念股",
+          "limitUp": false
+        },
+        {
+          "symbol": "4562",
+          "name": "穎漢",
+          "point": "亮燈漲停，機器人概念股",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "11/2"
+          ]
+        },
+        {
+          "symbol": "6609",
+          "name": "瀧澤科",
+          "point": "亮燈漲停，AI伺服器及機器人設備",
+          "limitUp": false
+        },
+        {
+          "symbol": "3287",
+          "name": "廣寰科",
+          "point": "亮燈漲停，機器人概念股",
+          "status": "逼近新高",
+          "dist": -0.6,
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/3",
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "1528",
+          "name": "恩德",
+          "point": "亮燈漲停，機器人概念股",
+          "limitUp": false
+        },
+        {
+          "symbol": "4533",
+          "name": "協易機",
+          "point": "亮燈漲停，機器人概念股",
+          "limitUp": false
+        },
+        {
+          "symbol": "4563",
+          "name": "百德",
+          "point": "逆風抗跌，工具機廠",
+          "limitUp": false
+        },
+        {
+          "symbol": "3023",
+          "name": "信邦",
+          "point": "逆風抗跌，電子通路商",
+          "limitUp": false
+        },
+        {
+          "symbol": "4526",
+          "name": "東台",
+          "point": "逆風抗跌，工具機廠",
+          "status": "逼近新高",
+          "dist": -8.4,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "3498",
+          "name": "陽程",
+          "point": "逆風抗跌，工具機廠",
+          "limitUp": false
+        }
+      ],
+      "background": "人形機器人新創公司Agility Robotics將上市，吸引國際車廠投入研發，帶動相關台廠供應鏈。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQU1lpUC1jaHpLQkhhUHliM3NMaS1nQ2VMNEREb0F3dVZ3ZHduR0FwLVhzUnA0RWFKTDM2RFo0bWdMZldvYlNpV0RtaGdzZVlfR3dVdmhoeDltSWpXVmdyUHJYRlNXSE9IMzAwSjZZcTRraV83aWo2WlBxMnFSaTFaV0t3MTVzZHRw",
       "tkey": "熱門族群記憶體怎麼了？南亞科殺破400關華邦電跟著崩",
@@ -513,8 +606,7 @@
           "point": "強勢攻上漲停",
           "status": "逼近新高",
           "dist": -8.8,
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "6938",
