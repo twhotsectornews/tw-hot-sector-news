@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-04T11:06:08.496+08:00",
-  "generatedAt": "2026-11-04T03:06:08.496Z",
+  "asOf": "2026-11-04T12:03:03.654+08:00",
+  "generatedAt": "2026-11-04T04:03:03.654Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -23,6 +23,54 @@
       ]
     },
     {
+      "symbol": "2408",
+      "name": "南亞科",
+      "days": 3,
+      "dates": [
+        "11/4",
+        "11/3",
+        "10/29"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2344",
+      "name": "華邦電",
+      "days": 3,
+      "dates": [
+        "11/4",
+        "11/3",
+        "10/29"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2337",
+      "name": "旺宏",
+      "days": 3,
+      "dates": [
+        "11/4",
+        "11/3",
+        "10/29"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "6770",
+      "name": "力積電",
+      "days": 3,
+      "dates": [
+        "11/4",
+        "11/3",
+        "10/29"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "6697",
       "name": "東捷資訊",
       "days": 3,
@@ -34,7 +82,8 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -8.8,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "8272",
@@ -68,6 +117,17 @@
       "limitUp": false
     },
     {
+      "symbol": "8299",
+      "name": "群聯",
+      "days": 2,
+      "dates": [
+        "11/4",
+        "11/3"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "3008",
       "name": "大立光",
       "days": 2,
@@ -87,6 +147,53 @@
         "10/30"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 2,
+      "dates": [
+        "11/2",
+        "10/29"
+      ],
+      "mentions": 3
+    },
+    {
+      "symbol": "3260",
+      "name": "威剛",
+      "days": 2,
+      "dates": [
+        "11/4",
+        "11/3"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3006",
+      "name": "晶豪科",
+      "days": 2,
+      "dates": [
+        "11/4",
+        "11/3"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "10/28"
+      ]
+    },
+    {
+      "symbol": "4967",
+      "name": "十銓",
+      "days": 2,
+      "dates": [
+        "11/4",
+        "11/3"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -117,7 +224,8 @@
         "11/2"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 1,
       "luwd": [
         "11/2"
@@ -289,110 +397,83 @@
       "luwd": [
         "10/28"
       ]
-    },
-    {
-      "symbol": "2408",
-      "name": "南亞科",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/29"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2344",
-      "name": "華邦電",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/29"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2337",
-      "name": "旺宏",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/29"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "6770",
-      "name": "力積電",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/29"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "6865",
-      "name": "偉康科技",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "11/2"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 5,
-      "luwd": [
-        "11/3",
-        "11/2",
-        "10/30",
-        "10/29",
-        "10/28"
-      ]
-    },
-    {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 2,
-      "dates": [
-        "11/2",
-        "10/29"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -14.1,
-      "limitUp": false
-    },
-    {
-      "symbol": "2308",
-      "name": "台達電",
-      "days": 2,
-      "dates": [
-        "10/30",
-        "10/29"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 2,
-      "dates": [
-        "10/30",
-        "10/29"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -8.5,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQU1lpUC1jaHpLQkhhUHliM3NMaS1nQ2VMNEREb0F3dVZ3ZHduR0FwLVhzUnA0RWFKTDM2RFo0bWdMZldvYlNpV0RtaGdzZVlfR3dVdmhoeDltSWpXVmdyUHJYRlNXSE9IMzAwSjZZcTRraV83aWo2WlBxMnFSaTFaV0t3MTVzZHRw",
+      "tkey": "熱門族群記憶體怎麼了？南亞科殺破400關華邦電跟著崩",
+      "title": "《熱門族群》記憶體怎麼了？南亞科殺破400關 華邦電跟著崩 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6348194001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 04 Nov 2026 03:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "殺破400關、遭三大法人調節",
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "跟著崩、殺破140關、遭外資大舉賣超",
+          "limitUp": false
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "同步翻綠",
+          "limitUp": false
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "同步翻綠",
+          "limitUp": false
+        },
+        {
+          "symbol": "3260",
+          "name": "威剛",
+          "point": "跟進走軟",
+          "limitUp": false
+        },
+        {
+          "symbol": "2451",
+          "name": "創見",
+          "point": "跟進走軟",
+          "limitUp": false
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "跟進走軟",
+          "limitUp": false
+        },
+        {
+          "symbol": "3006",
+          "name": "晶豪科",
+          "point": "殺跌7%、買盤不捧場",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "10/28"
+          ]
+        },
+        {
+          "symbol": "4967",
+          "name": "十銓",
+          "point": "相對抗跌",
+          "limitUp": false
+        }
+      ],
+      "background": "記憶體產業受AI伺服器、人形機器人等應用擴大需求，國際大廠SK海力士、美光將產能轉向HBM及高階DDR5，排擠傳統DRAM供給，市場預期短缺將延續。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNVW5NaG4tYkltVXFNWDV5U2VNbC1VRDBVSzZSN2tQam9MRVZ0SEQtYlpreGFzb2NwY09saG9vY1BqUlRvdzQyR1BPZUZneUo1WlFqaHliMExoTHlzblFMa2Z1UzNGS0Jib3FySlNMd2lra29NZ2NQYzE5Ymhoa1VEcjZyRUpfZnFM",
       "tkey": "熱門族群永豐銀添資安警訊題材再點火掀起漲停潮",
@@ -419,7 +500,8 @@
           "symbol": "2468",
           "name": "華經",
           "point": "強勢攻上漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "11/2"
@@ -431,7 +513,8 @@
           "point": "強勢攻上漲停",
           "status": "逼近新高",
           "dist": -8.8,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6938",

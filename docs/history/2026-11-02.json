@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "updatedAt": "2026-11-04T03:06:08.493Z",
+  "updatedAt": "2026-11-04T04:03:03.652Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNeldMUEVQaFctQldYaEx0amh2ZWo0NFN1REVjamY0VHNzQlhObUtkNFhKTVNFa2hlZGJhX1ZSZTB4c3RVZG1rSjM2NXY0U3JMeWxodlZ4VTdPczZUNE1PcV9uUkVaWUVBVG1feUVWMi1jbXV3UVhLVzh3am9VS1NhRnhiRHZYNlFt",
@@ -13,19 +13,63 @@
         {
           "symbol": "4306",
           "name": "炎洲",
-          "point": "前三季每股稅前盈餘1.33元",
-          "limitUp": false
+          "point": "前三季每股稅前盈餘1.33元"
         },
         {
           "symbol": "3171",
           "name": "炎洲流通",
-          "point": "前三季每股稅前盈餘6.13元",
-          "limitUp": false
+          "point": "前三季每股稅前盈餘6.13元"
         }
       ],
-      "background": "炎洲受惠於膠帶、建案交屋雙軌推進，並布局半導體及電子級特殊化學品。炎洲流通則透過併購效益發揮，強化客戶經營效率。",
+      "background": "炎洲集團受惠膠帶與建案交屋雙軌推進，並布局半導體、電子級特殊化學品，以及高附加價值膠帶應用，未來建案開發持續增添收益。",
       "themeTags": [
         "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMikgFBVV95cUxPTnZPUkxwaE81U3lOZnA2Y1dMZTg5Ulkxd29NVVhJdmxFMXdEejYzbU40aF9iYVJ4eWdyT25mVTlvMTR6NW1xeGZkVGdDTXhBYk96a2lpVHFzVEE4SDZZd2VYZ0YtMEhIb3pvUzRkaXhNS2ZjYUt4Z0dDSmhJYUNRcnljWjZKQUNrdFRYSmlEVW1zdw",
+      "tkey": "熱門族群玻纖布全面噴發富喬、建榮攻頂收盤、德宏大漲9%",
+      "title": "《熱門族群》玻纖布全面噴發 富喬、建榮攻頂收盤、德宏大漲9% - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6346105001&pu=News_0002_2",
+      "source": "富聯網",
+      "pubDate": "Mon, 02 Nov 2026 05:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "攻頂收盤"
+        },
+        {
+          "symbol": "5340",
+          "name": "建榮",
+          "point": "攻頂收盤"
+        },
+        {
+          "symbol": "5475",
+          "name": "德宏",
+          "point": "大漲9%"
+        },
+        {
+          "symbol": "1809",
+          "name": "中釉",
+          "point": "大漲近7%"
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "逾2%漲幅"
+        },
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "逾2%漲幅、獲外資買超"
+        }
+      ],
+      "background": "玻纖布產業受AI伺服器及高速運算帶動高階材料需求，T-Glass供應高度集中於日東紡，市場預期供應吃緊，台廠受惠供應鏈重組。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "循環位置"
       ]
     },
     {
