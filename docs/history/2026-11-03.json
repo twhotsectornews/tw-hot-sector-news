@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "updatedAt": "2026-11-04T06:05:54.603Z",
+  "updatedAt": "2026-11-04T10:11:13.381Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNaXhKS1FDaWdlWE9kOVhYOFJZRUMyNUtNZHpmWUZISnZtUC10MEdZWHVIbjBWdElnTFVrY0V3bnZ1X1FSSXhVR254R3FhZURaM00tX2VNcjZOeXZXQ0tMUzQ1SlVNcnJLNE85SXdUanlUZHRWZ2FSSEMwNEpMeGFOLVFoczhhYV9h",
@@ -304,9 +304,8 @@
           "point": "再度亮燈漲停",
           "limitUp": true,
           "pct": 10,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
-            "11/3",
             "11/2",
             "10/30",
             "10/29",
@@ -318,15 +317,7 @@
           "name": "程曦資訊",
           "point": "再度亮燈漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "11/3",
-            "11/2",
-            "10/30",
-            "10/29",
-            "10/28"
-          ]
+          "pct": 10
         },
         {
           "symbol": "7767",
@@ -334,9 +325,8 @@
           "point": "再度亮燈漲停",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
-            "11/3",
             "11/2",
             "10/30",
             "10/29",
@@ -348,30 +338,14 @@
           "name": "全景軟體",
           "point": "再度亮燈漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/3",
-            "11/2",
-            "10/30",
-            "10/29",
-            "10/28"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6865",
           "name": "偉康科技",
           "point": "再度亮燈漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "11/3",
-            "11/2",
-            "10/30",
-            "10/29",
-            "10/28"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6697",
@@ -379,7 +353,14 @@
           "point": "再度亮燈漲停",
           "status": "逼近新高",
           "dist": -8.8,
-          "limitUp": false
+          "limitUp": false,
+          "luw": 4,
+          "luwd": [
+            "11/2",
+            "10/30",
+            "10/29",
+            "10/28"
+          ]
         }
       ],
       "background": "資安需求因AI應用擴張、國內外資安事件頻傳而升溫。金融業對資安韌性關注提高，資安服務從設備延伸至整合防護。",
