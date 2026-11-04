@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "updatedAt": "2026-11-04T05:05:51.140Z",
+  "updatedAt": "2026-11-04T06:05:54.605Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNeldMUEVQaFctQldYaEx0amh2ZWo0NFN1REVjamY0VHNzQlhObUtkNFhKTVNFa2hlZGJhX1ZSZTB4c3RVZG1rSjM2NXY0U3JMeWxodlZ4VTdPczZUNE1PcV9uUkVaWUVBVG1feUVWMi1jbXV3UVhLVzh3am9VS1NhRnhiRHZYNlFt",
@@ -9,8 +9,19 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6346285001&PU=1002",
       "source": "富聯網",
       "pubDate": "Mon, 02 Nov 2026 08:02:00 GMT",
-      "stocks": [],
-      "background": "炎洲受惠膠帶及建案交屋雙軌推進，並布局半導體特殊化學品，預計新廠2028年營運。",
+      "stocks": [
+        {
+          "symbol": "4306",
+          "name": "炎洲",
+          "point": "前三季稅前盈餘1.33元"
+        },
+        {
+          "symbol": "3171",
+          "name": "炎洲流通",
+          "point": "前三季稅前盈餘6.13元"
+        }
+      ],
+      "background": "炎洲受惠膠帶、建案交屋雙軌推進；炎洲流通併購效益發揮。兩者均有營收成長動能。",
       "themeTags": []
     },
     {

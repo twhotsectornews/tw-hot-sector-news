@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-04T13:05:51.144+08:00",
-  "generatedAt": "2026-11-04T05:05:51.144Z",
+  "asOf": "2026-11-04T14:05:54.608+08:00",
+  "generatedAt": "2026-11-04T06:05:54.608Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -94,7 +94,8 @@
         "11/2"
       ],
       "mentions": 3,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 5,
       "luwd": [
         "11/3",
@@ -189,7 +190,8 @@
         "11/2"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "4563",
@@ -213,7 +215,8 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -8.4,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.8,
       "luw": 1,
       "luwd": [
         "10/28"
@@ -265,7 +268,8 @@
         "11/3"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 5,
       "luwd": [
         "11/3",
@@ -300,7 +304,8 @@
         "11/3"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 5,
       "luwd": [
         "11/3",
@@ -434,7 +439,8 @@
           "point": "亮燈漲停，機器人概念股",
           "status": "逼近新高",
           "dist": -0.6,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "11/3",
@@ -448,7 +454,8 @@
           "symbol": "1528",
           "name": "恩德",
           "point": "亮燈漲停，機器人概念股",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "4533",
@@ -474,7 +481,8 @@
           "point": "逆風抗跌，工具機廠",
           "status": "逼近新高",
           "dist": -8.4,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.8,
           "luw": 1,
           "luwd": [
             "10/28"
@@ -579,7 +587,8 @@
           "symbol": "7767",
           "name": "仁大資訊",
           "point": "強勢攻上漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "11/3",
@@ -612,7 +621,8 @@
           "symbol": "6938",
           "name": "藍新資訊",
           "point": "漲幅仍達8%",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "11/3",
@@ -650,7 +660,8 @@
           "symbol": "8272",
           "name": "全景軟體",
           "point": "遭遇賣壓打入跌停板",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "11/3",
