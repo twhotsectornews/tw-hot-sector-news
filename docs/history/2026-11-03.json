@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "updatedAt": "2026-11-04T10:43:36.191Z",
+  "updatedAt": "2026-11-04T17:05:34.194Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNaXhKS1FDaWdlWE9kOVhYOFJZRUMyNUtNZHpmWUZISnZtUC10MEdZWHVIbjBWdElnTFVrY0V3bnZ1X1FSSXhVR254R3FhZURaM00tX2VNcjZOeXZXQ0tMUzQ1SlVNcnJLNE85SXdUanlUZHRWZ2FSSEMwNEpMeGFOLVFoczhhYV9h",
@@ -14,11 +14,7 @@
           "symbol": "3406",
           "name": "玉晶光",
           "point": "股價跌破千元",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "10/28"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "6683",
@@ -30,11 +26,7 @@
           "symbol": "2368",
           "name": "金像電",
           "point": "股價跌破千元",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "10/28"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3008",
@@ -142,11 +134,7 @@
           "symbol": "2455",
           "name": "全新",
           "point": "矽光子概念股重挫跌停",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "10/28"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "4979",
@@ -173,7 +161,7 @@
           "limitUp": false,
           "luw": 1,
           "luwd": [
-            "10/28"
+            "11/4"
           ]
         }
       ],
@@ -271,11 +259,7 @@
           "symbol": "3006",
           "name": "晶豪科",
           "point": "相對抗跌有撐",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "10/28"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "4967",
@@ -304,12 +288,13 @@
           "point": "再度亮燈漲停",
           "limitUp": true,
           "pct": 10,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
+            "11/4",
             "11/3",
             "11/2",
             "10/30",
-            "10/28"
+            "10/29"
           ]
         },
         {
@@ -325,12 +310,13 @@
           "point": "再度亮燈漲停",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
+            "11/4",
             "11/3",
             "11/2",
             "10/30",
-            "10/28"
+            "10/29"
           ]
         },
         {
@@ -354,12 +340,13 @@
           "status": "逼近新高",
           "dist": -8.8,
           "limitUp": false,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
+            "11/4",
             "11/3",
             "11/2",
             "10/30",
-            "10/28"
+            "10/29"
           ]
         }
       ],
