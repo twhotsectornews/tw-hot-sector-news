@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-05T18:42:08.699+08:00",
-  "generatedAt": "2026-11-05T10:42:08.699Z",
+  "asOf": "2026-11-06T01:19:25.098+08:00",
+  "generatedAt": "2026-11-05T17:19:25.098Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -34,16 +34,6 @@
       "limitUp": false
     },
     {
-      "symbol": "3081",
-      "name": "聯亞",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/30"
-      ],
-      "mentions": 4
-    },
-    {
       "symbol": "8299",
       "name": "群聯",
       "days": 2,
@@ -53,26 +43,6 @@
       ],
       "mentions": 3,
       "limitUp": false
-    },
-    {
-      "symbol": "3406",
-      "name": "玉晶光",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/30"
-      ],
-      "mentions": 3
-    },
-    {
-      "symbol": "2360",
-      "name": "致茂",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/30"
-      ],
-      "mentions": 3
     },
     {
       "symbol": "3379",
@@ -277,26 +247,6 @@
       ]
     },
     {
-      "symbol": "6683",
-      "name": "雍智科技",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/30"
-      ],
-      "mentions": 2
-    },
-    {
-      "symbol": "2368",
-      "name": "金像電",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/30"
-      ],
-      "mentions": 2
-    },
-    {
       "symbol": "7750",
       "name": "新代",
       "days": 2,
@@ -307,57 +257,16 @@
       "mentions": 2
     },
     {
-      "symbol": "1590",
-      "name": "亞德客-KY",
+      "symbol": "6865",
+      "name": "偉康科技",
       "days": 2,
       "dates": [
         "11/3",
-        "10/30"
-      ],
-      "mentions": 2
-    },
-    {
-      "symbol": "2404",
-      "name": "漢唐",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/30"
-      ],
-      "mentions": 2
-    },
-    {
-      "symbol": "2455",
-      "name": "全新",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/30"
+        "11/2"
       ],
       "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "6442",
-      "name": "光聖",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/30"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "6451",
-      "name": "訊芯-KY",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/30"
-      ],
-      "mentions": 2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     }
   ],
   "news": [
@@ -406,7 +315,11 @@
           "name": "亞光",
           "point": "軍工股攻頂",
           "limitUp": true,
-          "pct": 9.8
+          "pct": 9.8,
+          "luw": 1,
+          "luwd": [
+            "11/5"
+          ]
         }
       ],
       "background": "台股震盪之際，軍工產業因地緣政治緊張及國防自主政策推動，相關概念股受市場關注，扮演撐盤角色。",
