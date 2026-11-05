@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-05T12:06:12.769+08:00",
-  "generatedAt": "2026-11-05T04:06:12.769Z",
+  "asOf": "2026-11-05T13:08:02.666+08:00",
+  "generatedAt": "2026-11-05T05:08:02.666Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -359,6 +359,17 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOeXBpYS0yQ0tHc0tIR0tpeUdMZzMyLVV5bUJzcVQxQm1DOW9USU9LQUpFZVhzV3NDMTlZcUhrQjRyV3hOaWk0N0VpZzB0YzB3QXE3SGJYRmZpTFYzYVlJb2QxRXV6LWhvUmtlTW1FZl9INnhzNjJpSm1ySjNPdHJGNGp3ZEEtczZn",
+      "tkey": "熱門族群PCB綠光罩頂！CCL四雄摜殺跌停ABF載板奄奄一息",
+      "title": "《熱門族群》PCB綠光罩頂！CCL四雄摜殺跌停 ABF載板奄奄一息 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6349484001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 05 Nov 2026 04:10:00 GMT",
+      "stocks": [],
+      "background": "PCB（印刷電路板）產業受景氣下行影響，CCL（銅箔基板）與ABF載板需求疲軟，庫存去化壓力大，產業處於景氣谷底。",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxNVUl4MWw5dElTUGxHTGNheVdpQWhzLXFOR2h1eWhrUE92YTI4ZUNsVVFheFBwUHo0WFBTWG11cG1leVJMd0sxZ3ByYUl1U1JpSERldXp1NUJhVVNOa3BCemtGX21rQ1h1d0h6dVlRYzdPdTZmdWVjSjFYb2p5dEU2MnA1Y3RXWHJ2",
       "tkey": "熱門族群美國政局變天帶動綠能想像元晶領軍太陽能股先衝",
