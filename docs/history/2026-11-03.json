@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "updatedAt": "2026-11-05T05:08:02.664Z",
+  "updatedAt": "2026-11-05T06:07:21.252Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNaXhKS1FDaWdlWE9kOVhYOFJZRUMyNUtNZHpmWUZISnZtUC10MEdZWHVIbjBWdElnTFVrY0V3bnZ1X1FSSXhVR254R3FhZURaM00tX2VNcjZOeXZXQ0tMUzQ1SlVNcnJLNE85SXdUanlUZHRWZ2FSSEMwNEpMeGFOLVFoczhhYV9h",
@@ -13,10 +13,85 @@
         {
           "symbol": "3008",
           "name": "大立光",
-          "point": "股價摜破5000元大關"
+          "point": "摜破5000元大關"
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "股價跌破千元"
+        },
+        {
+          "symbol": "6683",
+          "name": "雍智科技",
+          "point": "股價跌破千元"
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "point": "股價跌破千元"
+        },
+        {
+          "symbol": "6223",
+          "name": "旺矽",
+          "point": "亮燈跌停"
+        },
+        {
+          "symbol": "7856",
+          "name": "漢測",
+          "point": "亮燈跌停"
+        },
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "亮燈跌停"
+        },
+        {
+          "symbol": "3529",
+          "name": "力旺",
+          "point": "亮燈跌停"
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "亮燈跌停"
+        },
+        {
+          "symbol": "7750",
+          "name": "新代",
+          "point": "亮燈跌停"
+        },
+        {
+          "symbol": "2360",
+          "name": "致茂",
+          "point": "亮燈跌停"
+        },
+        {
+          "symbol": "8996",
+          "name": "高力",
+          "point": "亮燈跌停"
+        },
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "point": "逆勢上漲2.9%"
+        },
+        {
+          "symbol": "1590",
+          "name": "亞德客-KY",
+          "point": "股價接近千元"
+        },
+        {
+          "symbol": "5289",
+          "name": "宜鼎",
+          "point": "股價接近千元"
+        },
+        {
+          "symbol": "2404",
+          "name": "漢唐",
+          "point": "股價接近千元"
         }
       ],
-      "background": "千金股多為高價電子股，受市場信心不足及獲利了結賣壓影響，股價面臨修正，反映整體電子產業景氣低迷。",
+      "background": "高價電子股遭遇沉重賣壓，市場信心受衝擊。藥華藥為少數非電子股，展現相對抗跌。",
       "themeTags": []
     },
     {
