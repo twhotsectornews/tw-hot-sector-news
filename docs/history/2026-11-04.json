@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "updatedAt": "2026-11-05T06:07:21.251Z",
+  "updatedAt": "2026-11-05T09:42:06.619Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQQTU1ZFp4QXkzd3dDNGZLUlRHYjRqaE5IYmxRSTdpYnpVSGNXQTRIOG0yaXRiNzVGUUFGOG9SbXI4OWpGQ3RpVG5vVENSZnZnZFNIbjUyVURzNWNNYkdyQlU1U3UyMHlvOVJGc1RzYVp4RDRRZHlWQkVjeWhvQTcwelh2M1BOLUJW",
@@ -15,14 +15,7 @@
           "name": "彬台",
           "point": "亮燈漲停，機器人概念股",
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "11/4",
-            "11/2",
-            "10/30",
-            "10/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "4562",
@@ -41,14 +34,7 @@
           "name": "瀧澤科",
           "point": "亮燈漲停，AI伺服器及機器人設備",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 4,
-          "luwd": [
-            "11/4",
-            "11/2",
-            "10/30",
-            "10/29"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "3287",
@@ -57,14 +43,7 @@
           "status": "逼近新高",
           "dist": -0.6,
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "11/4",
-            "11/2",
-            "10/30",
-            "10/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "1528",
@@ -82,14 +61,7 @@
           "name": "協易機",
           "point": "亮燈漲停，機器人概念股",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 4,
-          "luwd": [
-            "11/4",
-            "11/2",
-            "10/30",
-            "10/29"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "4563",
@@ -212,14 +184,7 @@
           "name": "仁大資訊",
           "point": "強勢攻上漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "11/4",
-            "11/2",
-            "10/30",
-            "10/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "2468",
@@ -240,42 +205,21 @@
           "status": "逼近新高",
           "dist": -8.8,
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 4,
-          "luwd": [
-            "11/4",
-            "11/2",
-            "10/30",
-            "10/29"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6938",
           "name": "藍新資訊",
           "point": "漲幅仍達8%",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 4,
-          "luwd": [
-            "11/4",
-            "11/2",
-            "10/30",
-            "10/29"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6148",
           "name": "驊宏資",
           "point": "湧現買盤漲幅逾半根漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
-          "luwd": [
-            "11/4",
-            "11/2",
-            "10/30",
-            "10/29"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6689",
