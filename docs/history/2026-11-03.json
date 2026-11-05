@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "updatedAt": "2026-11-05T03:04:30.017Z",
+  "updatedAt": "2026-11-05T04:06:12.766Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNaXhKS1FDaWdlWE9kOVhYOFJZRUMyNUtNZHpmWUZISnZtUC10MEdZWHVIbjBWdElnTFVrY0V3bnZ1X1FSSXhVR254R3FhZURaM00tX2VNcjZOeXZXQ0tMUzQ1SlVNcnJLNE85SXdUanlUZHRWZ2FSSEMwNEpMeGFOLVFoczhhYV9h",
@@ -11,103 +11,12 @@
       "pubDate": "Tue, 03 Nov 2026 06:02:00 GMT",
       "stocks": [
         {
-          "symbol": "3406",
-          "name": "玉晶光",
-          "point": "股價跌破千元",
-          "limitUp": false
-        },
-        {
-          "symbol": "6683",
-          "name": "雍智科技",
-          "point": "股價跌破千元",
-          "limitUp": false
-        },
-        {
-          "symbol": "2368",
-          "name": "金像電",
-          "point": "股價跌破千元",
-          "limitUp": false
-        },
-        {
           "symbol": "3008",
           "name": "大立光",
-          "point": "亮燈跌停，失守5000元大關",
-          "limitUp": false
-        },
-        {
-          "symbol": "6223",
-          "name": "旺矽",
-          "point": "亮燈跌停",
-          "limitUp": false
-        },
-        {
-          "symbol": "7856",
-          "name": "漢測",
-          "point": "亮燈跌停",
-          "limitUp": false
-        },
-        {
-          "symbol": "3081",
-          "name": "聯亞",
-          "point": "亮燈跌停",
-          "limitUp": false
-        },
-        {
-          "symbol": "3529",
-          "name": "力旺",
-          "point": "亮燈跌停",
-          "limitUp": false
-        },
-        {
-          "symbol": "8299",
-          "name": "群聯",
-          "point": "亮燈跌停",
-          "limitUp": false
-        },
-        {
-          "symbol": "7750",
-          "name": "新代",
-          "point": "亮燈跌停",
-          "limitUp": false
-        },
-        {
-          "symbol": "2360",
-          "name": "致茂",
-          "point": "亮燈跌停",
-          "limitUp": false
-        },
-        {
-          "symbol": "8996",
-          "name": "高力",
-          "point": "亮燈跌停",
-          "limitUp": false
-        },
-        {
-          "symbol": "6446",
-          "name": "藥華藥",
-          "point": "逆勢上漲2.9%，唯一收紅千金股",
-          "limitUp": false
-        },
-        {
-          "symbol": "1590",
-          "name": "亞德客-KY",
-          "point": "股價接近千元關卡",
-          "limitUp": false
-        },
-        {
-          "symbol": "5289",
-          "name": "宜鼎",
-          "point": "股價接近千元關卡",
-          "limitUp": false
-        },
-        {
-          "symbol": "2404",
-          "name": "漢唐",
-          "point": "股價接近千元關卡",
-          "limitUp": false
+          "point": "股價摜破5000元大關"
         }
       ],
-      "background": "台股大盤遭遇沉重賣壓，高價電子股成為修正重災區，多檔千金股跌停或跌破千元關卡，市場投資信心受衝擊。",
+      "background": "千金股（高價股）因市場震盪及獲利了結賣壓，股價面臨修正，反映投資人對高估值個股的謹慎態度。",
       "themeTags": []
     },
     {

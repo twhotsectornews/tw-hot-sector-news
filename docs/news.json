@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-05T11:04:30.020+08:00",
-  "generatedAt": "2026-11-05T03:04:30.020Z",
+  "asOf": "2026-11-05T12:06:12.769+08:00",
+  "generatedAt": "2026-11-05T04:06:12.769Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -44,39 +44,6 @@
     {
       "symbol": "3081",
       "name": "聯亞",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/30"
-      ],
-      "mentions": 4,
-      "limitUp": false
-    },
-    {
-      "symbol": "8299",
-      "name": "群聯",
-      "days": 2,
-      "dates": [
-        "11/4",
-        "11/3"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "3406",
-      "name": "玉晶光",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/30"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "2360",
-      "name": "致茂",
       "days": 2,
       "dates": [
         "11/3",
@@ -226,6 +193,17 @@
       "limitUp": false
     },
     {
+      "symbol": "8299",
+      "name": "群聯",
+      "days": 2,
+      "dates": [
+        "11/4",
+        "11/3"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "3006",
       "name": "晶豪科",
       "days": 2,
@@ -320,61 +298,6 @@
       ]
     },
     {
-      "symbol": "6683",
-      "name": "雍智科技",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/30"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2368",
-      "name": "金像電",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/30"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "7750",
-      "name": "新代",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "11/2"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "1590",
-      "name": "亞德客-KY",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/30"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2404",
-      "name": "漢唐",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "10/30"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
       "symbol": "2455",
       "name": "全新",
       "days": 2,
@@ -406,9 +329,78 @@
       ],
       "mentions": 2,
       "limitUp": false
+    },
+    {
+      "symbol": "4977",
+      "name": "眾達-KY",
+      "days": 2,
+      "dates": [
+        "11/3",
+        "10/30"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/4"
+      ]
+    },
+    {
+      "symbol": "6865",
+      "name": "偉康科技",
+      "days": 2,
+      "dates": [
+        "11/3",
+        "11/2"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 10
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNVUl4MWw5dElTUGxHTGNheVdpQWhzLXFOR2h1eWhrUE92YTI4ZUNsVVFheFBwUHo0WFBTWG11cG1leVJMd0sxZ3ByYUl1U1JpSERldXp1NUJhVVNOa3BCemtGX21rQ1h1d0h6dVlRYzdPdTZmdWVjSjFYb2p5dEU2MnA1Y3RXWHJ2",
+      "tkey": "熱門族群美國政局變天帶動綠能想像元晶領軍太陽能股先衝",
+      "title": "《熱門族群》美國政局變天帶動綠能想像 元晶領軍太陽能股先衝 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6349418001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 05 Nov 2026 03:20:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6443",
+          "name": "元晶",
+          "point": "領軍太陽能股上漲",
+          "limitUp": false
+        }
+      ],
+      "background": "美國政局變動引發市場對綠能政策的想像空間，太陽能產業受惠於政策支持及全球減碳趨勢，需求有望增長。",
+      "themeTags": [
+        "政策關稅",
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxObllYY3hLcTJaQld3b2l2Tk54bW5zaXJuYWFlMkNEZ2VMSzB1REdzTGJfMjd1X0tkVWZSbXZ1UUZZQldEUmZRY3NNbFFkdnBLenVNdzRNS3RFc1NvU3dRODk2RVFBbEJ1TnM0RjRqN2NFQlNkTi1xR0NST285T1dBSV81QXhROTZG",
+      "tkey": "熱門族群台股震不停！軍工股挺身亞光等4檔攻頂捍疆土",
+      "title": "《熱門族群》台股震不停！軍工股挺身 亞光等4檔攻頂捍疆土 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6349386001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 05 Nov 2026 02:57:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3019",
+          "name": "亞光",
+          "point": "軍工股攻頂",
+          "limitUp": true,
+          "pct": 9.8
+        }
+      ],
+      "background": "台股震盪之際，軍工產業因地緣政治緊張及國防自主政策推動，相關概念股受市場關注，扮演撐盤角色。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQZmlzNzdKQnl4Zmk4U29FcncxZzdoYjlzNjJaYlZQZVhxVjFyNUQ0T3RLdi1BQUh1OGVkbldWU2swdGRTbHNwT3lSMlZWWW1LN3l2NTJlckkyRFdlZkZZX0dRdkx4THA0dlVTMkFzNGY4NXhfUTJtODlsTzM4dmc5VmNUUWFqd1Fy",
       "tkey": "熱門族群Panasonic新竹廠爆炸嚇暈台光電及台燿雙殺跌停",
