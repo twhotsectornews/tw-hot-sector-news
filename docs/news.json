@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-06T14:04:22.547+08:00",
-  "generatedAt": "2026-11-06T06:04:22.547Z",
+  "asOf": "2026-11-06T17:41:26.034+08:00",
+  "generatedAt": "2026-11-06T09:41:26.034Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -31,6 +31,17 @@
         "11/2"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 2,
+      "dates": [
+        "11/6",
+        "11/2"
+      ],
+      "mentions": 4,
       "limitUp": false
     },
     {
@@ -292,6 +303,88 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOV0hLbDBHMjh6TmxySWJtMGQzTF9hVVMzS2RvOHRHXzE4MDAxcExaN3ZzRlpCUXpKRTNWNlZESmZxZWJsbjZwTEdQaHdKQnc5LU5wWXpuTE1OX2ZPZUdxUnBKajA0Z2tPSVVMaWRWU2FPdGxJQlJDcmlBZkNUU3hJeUkwNEdJTy00",
+      "tkey": "熱門族群台塑四寶Q4冷熱不同調！南亞喊營收續攀、台化憂庫存跌價",
+      "title": "《熱門族群》台塑四寶Q4冷熱不同調！南亞喊營收續攀、台化憂庫存跌價 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6351691001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 06 Nov 2026 08:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "看好11月及第四季營收續攀",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "預估第四季營收優於第三季",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "示警短期恐面臨庫存跌價損失",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "指出地緣政治加劇油價跌勢",
+          "limitUp": false
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "在AI供應鏈重要性提升",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶第四季營運展望分歧，南亞受AI資料中心需求強勁，台塑受惠石化產品旺季。台化與台塑化則因國際油價回落，面臨庫存跌價壓力。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPeG9WOTdHbm9yaXBxNUxMVDlsb0h0RmEyTmFRZFZfR2diZDMwTWZhbWhqdnN5U0tReURoakdTTjhYakFURDBaRlE4bDc3SlhOdk1YdV9qY2k2ZUdzRWxMTGxyTkdHNkR1d3lsTUtSSVlsbllKdnVMWHA1YTF6c3R6cnQxa2R0MVo2",
+      "tkey": "熱門族群AI、油價雙助攻！台塑四寶10月營收全數年增",
+      "title": "《熱門族群》AI、油價雙助攻！台塑四寶10月營收全數年增 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6351249001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 06 Nov 2026 07:22:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "10月營收創近55個月新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "10月營收年增16.2%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "10月營收年增61.8%",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "10月營收年增76%",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶受惠中東地緣政治推升油價及石化產品售價，加上AI資料中心需求強勁，帶動營收成長。南亞電子材料營收佔比突破6成。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPM0t6T2l2OU8zNkN2VWpmTTkwTmpvbllmY0dqT0lFODMzQlRFUXlvSk84QTBuQnZKQklGd2tyOTJVRm9lUEotOEQwOUJveEE0aTRxSzNoNXpyTWdyUWVXYS01UkhFR0F4Uk9wLU5UellFUEVvMUhFUkNYUUpxaWFrekt6LUdVVUtL",
       "tkey": "熱門族群mSAP供給吃緊報價揚PCB廠臻鼎擁潛在利多外資續喊買",
