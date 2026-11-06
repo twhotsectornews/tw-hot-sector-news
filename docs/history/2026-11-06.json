@@ -1,0 +1,312 @@
+{
+  "date": "2026-11-06",
+  "updatedAt": "2026-11-06T16:43:13.426Z",
+  "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE9uMEFkeEVVSWg1QWd5WGVBVHZHMkNweUdQVHB1Q1RYUW9LUFAzczl6RmtXMHhTajg1dkk1SWNqMTAwMHB6M2F4cElNUjBCMFpxd0ZMaWZqZXo",
+      "tkey": "熱門族群美再生能源股強彈台灣太陽能族群翻紅",
+      "title": "熱門族群》美再生能源股強彈 台灣太陽能族群翻紅 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/t2svb8k2ga0v",
+      "source": "自由時報",
+      "pubDate": "Fri, 06 Nov 2026 12:42:04 GMT",
+      "stocks": [],
+      "background": "美國再生能源股強勁反彈，帶動台灣太陽能族群股價翻紅，顯示市場對再生能源產業的信心回升。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiakFVX3lxTE1obHBLTmpTdEVWU09jMDhWQWxfQUc1QVB3RUFGazJxeXBuUlQzNl8wN1NjRUJIX0UydGszQ3B2aUlvN1V2dExSMU1WMFFQaWhiMGpuLWFXQ0xYeE0wSG9oemxVRzBxbUJNS1E",
+      "tkey": "熱門族群台塑四寶Q4冷熱不同調！南亞喊營收續攀、台化憂庫存跌價-上市櫃",
+      "title": "《熱門族群》台塑四寶Q4冷熱不同調！南亞喊營收續攀、台化憂庫存跌價- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20261106900285-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Fri, 06 Nov 2026 09:42:02 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "受惠AI資料中心建置熱潮，高階電子材料需求持續強勁"
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "受惠石化產品進入傳統需求旺季，預估營收優於第三季"
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "示警短期恐面臨庫存跌價損失"
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "地緣政治局勢變化加上原油供給充沛，加劇國際油價跌勢"
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "憑藉垂直整合、產能規模及技術優勢，AI供應鏈重要性提升"
+        }
+      ],
+      "background": "台塑四寶營運展望分歧，南亞受惠AI資料中心需求強勁，台塑因石化產品旺季營收看增。台化與台塑化則受國際油價回落影響，面臨庫存跌價損失風險。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOV0hLbDBHMjh6TmxySWJtMGQzTF9hVVMzS2RvOHRHXzE4MDAxcExaN3ZzRlpCUXpKRTNWNlZESmZxZWJsbjZwTEdQaHdKQnc5LU5wWXpuTE1OX2ZPZUdxUnBKajA0Z2tPSVVMaWRWU2FPdGxJQlJDcmlBZkNUU3hJeUkwNEdJTy00",
+      "tkey": "熱門族群台塑四寶Q4冷熱不同調！南亞喊營收續攀、台化憂庫存跌價",
+      "title": "《熱門族群》台塑四寶Q4冷熱不同調！南亞喊營收續攀、台化憂庫存跌價 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6351691001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 06 Nov 2026 08:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "看好11月及第四季營收續攀",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "預估第四季營收優於第三季",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "示警短期恐面臨庫存跌價損失",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "指出地緣政治加劇油價跌勢",
+          "limitUp": false
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "在AI供應鏈重要性提升",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶第四季營運展望分歧，南亞受AI資料中心需求強勁，台塑受惠石化產品旺季。台化與台塑化則因國際油價回落，面臨庫存跌價壓力。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTFBNcmxTcGdtRktKazJoeW5NeFNlYkZyclFwNkNGUnp5cXBzcDVQTklRd01fY2R2TzNUVXZDTUItcXBNUk5DYXdoRlpuRnBSR0dnM2VhbWlxUGRjSlhIRVpzWUVhdkJqakwxWVE",
+      "tkey": "熱門族群AI、油價雙助攻！台塑四寶10月營收全數年增-上市櫃",
+      "title": "《熱門族群》AI、油價雙助攻！台塑四寶10月營收全數年增- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20261106900237-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Fri, 06 Nov 2026 07:36:48 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "10月營收創近55個月新高，電子材料營收占比突破6成"
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "10月營收月增3.8%、年增16.2%，主要因中東衝突推升油價"
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "10月營收月增7.3%、年增61.8%，PX市況改善帶動銷售量增加"
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "10月營收月減10.8%、年增76.0%，受煉油設備定檢影響"
+        }
+      ],
+      "background": "台塑四寶10月營收受惠中東地緣政治緊張推升油價及石化產品售價，加上AI資料中心需求持續強勁，全數年增。南亞電子材料表現亮眼，台塑化則受煉油設備定檢影響。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPeG9WOTdHbm9yaXBxNUxMVDlsb0h0RmEyTmFRZFZfR2diZDMwTWZhbWhqdnN5U0tReURoakdTTjhYakFURDBaRlE4bDc3SlhOdk1YdV9qY2k2ZUdzRWxMTGxyTkdHNkR1d3lsTUtSSVlsbllKdnVMWHA1YTF6c3R6cnQxa2R0MVo2",
+      "tkey": "熱門族群AI、油價雙助攻！台塑四寶10月營收全數年增",
+      "title": "《熱門族群》AI、油價雙助攻！台塑四寶10月營收全數年增 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6351249001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 06 Nov 2026 07:22:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "10月營收創近55個月新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "10月營收年增16.2%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "10月營收年增61.8%",
+          "limitUp": false
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "10月營收年增76%",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶受惠中東地緣政治推升油價及石化產品售價，加上AI資料中心需求強勁，帶動營收成長。南亞電子材料營收佔比突破6成。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPM0t6T2l2OU8zNkN2VWpmTTkwTmpvbllmY0dqT0lFODMzQlRFUXlvSk84QTBuQnZKQklGd2tyOTJVRm9lUEotOEQwOUJveEE0aTRxSzNoNXpyTWdyUWVXYS01UkhFR0F4Uk9wLU5UellFUEVvMUhFUkNYUUpxaWFrekt6LUdVVUtL",
+      "tkey": "熱門族群mSAP供給吃緊報價揚PCB廠臻鼎擁潛在利多外資續喊買",
+      "title": "《熱門族群》mSAP供給吃緊報價揚 PCB廠臻鼎擁潛在利多 外資續喊買 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6350858001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Fri, 06 Nov 2026 03:35:00 GMT",
+      "stocks": [
+        {
+          "symbol": "4958",
+          "name": "臻鼎-KY",
+          "point": "mSAP供給吃緊報價揚，外資續喊買",
+          "limitUp": false
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "2.4T光模組採BT基板，潛在利多",
+          "limitUp": false
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "2.4T光模組採BT基板，潛在利多",
+          "limitUp": false
+        }
+      ],
+      "background": "光模塊需求強勁，mSAP供給吃緊導致報價上揚，尤其800G及1.6T產品需求旺盛。2.4T光模組探討採用BT基板，對相關供應商是潛在利多。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMikgFBVV95cUxQZzJnM2l0eEdzQTkwcm5CT3FHY2xuVWRhUG9uZUFsTkE4cHpPWERQbE5RUEFCLTRod1VoLWhuNXBXZVNEUzRxY2pwZWJ4dUZ4c2FQTmdLQW9pZGRxM1paYUlXYldEWWZ1RHN6SzFQZGtSRXFBSVR6QzYtZldlUXMwR3QzZlJGd3NEaW1uNTBvOFQxUQ",
+      "tkey": "熱門族群千金股全軍覆沒！股王、股后雙跌停藥華藥盤面孤紅",
+      "title": "《熱門族群》千金股全軍覆沒！股王、股后雙跌停 藥華藥盤面孤紅 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6350808001&pu=News_0002_3",
+      "source": "富聯網",
+      "pubDate": "Fri, 06 Nov 2026 02:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "point": "千金股中唯一紅盤，10月營收創新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "5274",
+          "name": "信驊",
+          "point": "股王跌停，股價下探近3個月低點",
+          "limitUp": false
+        },
+        {
+          "symbol": "2059",
+          "name": "川湖",
+          "point": "股后跌停，股價近乎腰斬",
+          "limitUp": false
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "高價股跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "7769",
+          "name": "鴻勁",
+          "point": "高價股跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6515",
+          "name": "穎崴",
+          "point": "高價股跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "千金股遭摜壓",
+          "limitUp": false
+        },
+        {
+          "symbol": "2345",
+          "name": "智邦",
+          "point": "千金股遭摜壓",
+          "limitUp": false
+        },
+        {
+          "symbol": "2360",
+          "name": "致茂",
+          "point": "千金股遭摜壓",
+          "limitUp": false
+        },
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "point": "千金股遭摜壓",
+          "limitUp": false
+        },
+        {
+          "symbol": "7828",
+          "name": "創新服務",
+          "point": "千金股遭摜壓",
+          "limitUp": false
+        }
+      ],
+      "background": "美股AI與晶片股遭遇拋售，導致台股大盤重挫，千金股成為賣壓重災區。僅藥華藥因營收創新高而逆勢上漲。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNTzJnUW1wQ05PT1NpSU94XzFOQkpuQWQ2Ujk3Y0J2WFNTWGZyNWIxM3dOTV9idVZ2NlJqQ0VucHI3RE5SVFV4MUFUNE5jTGhXUVdYbW5TemViMWk5RTZjVWFrUFA3cjhFVFlNdEtrcGNRZUhxMmpUckkxQV9yNVY2bDNtcGY0V3Zq",
+      "tkey": "熱門族群裕民、慧洋卡位重建商機",
+      "title": "《熱門族群》裕民、慧洋 卡位重建商機 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6350541001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 06 Nov 2026 00:13:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2606",
+          "name": "裕民",
+          "point": "卡位重建商機、投資中小型散裝船",
+          "limitUp": false
+        },
+        {
+          "symbol": "2637",
+          "name": "慧洋",
+          "point": "卡位重建商機、投資中小型散裝船",
+          "limitUp": false
+        }
+      ],
+      "background": "散裝航運業者超前部署中小型散裝船，因應烏俄戰爭後重建原物料運送需求，以及烏克蘭穀物出口恢復，預期將帶動運價回升。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    }
+  ]
+}

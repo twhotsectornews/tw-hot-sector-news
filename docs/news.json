@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-06T18:43:04.616+08:00",
-  "generatedAt": "2026-11-06T10:43:04.616Z",
+  "asOf": "2026-11-07T00:43:13.433+08:00",
+  "generatedAt": "2026-11-06T16:43:13.433Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -41,8 +41,7 @@
         "11/6",
         "11/2"
       ],
-      "mentions": 4,
-      "limitUp": false
+      "mentions": 6
     },
     {
       "symbol": "8299",
@@ -304,6 +303,57 @@
   ],
   "news": [
     {
+      "gid": "CBMiWEFVX3lxTE9uMEFkeEVVSWg1QWd5WGVBVHZHMkNweUdQVHB1Q1RYUW9LUFAzczl6RmtXMHhTajg1dkk1SWNqMTAwMHB6M2F4cElNUjBCMFpxd0ZMaWZqZXo",
+      "tkey": "熱門族群美再生能源股強彈台灣太陽能族群翻紅",
+      "title": "熱門族群》美再生能源股強彈 台灣太陽能族群翻紅 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/t2svb8k2ga0v",
+      "source": "自由時報",
+      "pubDate": "Fri, 06 Nov 2026 12:42:04 GMT",
+      "stocks": [],
+      "background": "美國再生能源股強勁反彈，帶動台灣太陽能族群股價翻紅，顯示市場對再生能源產業的信心回升。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiakFVX3lxTE1obHBLTmpTdEVWU09jMDhWQWxfQUc1QVB3RUFGazJxeXBuUlQzNl8wN1NjRUJIX0UydGszQ3B2aUlvN1V2dExSMU1WMFFQaWhiMGpuLWFXQ0xYeE0wSG9oemxVRzBxbUJNS1E",
+      "tkey": "熱門族群台塑四寶Q4冷熱不同調！南亞喊營收續攀、台化憂庫存跌價-上市櫃",
+      "title": "《熱門族群》台塑四寶Q4冷熱不同調！南亞喊營收續攀、台化憂庫存跌價- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20261106900285-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Fri, 06 Nov 2026 09:42:02 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "受惠AI資料中心建置熱潮，高階電子材料需求持續強勁"
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "受惠石化產品進入傳統需求旺季，預估營收優於第三季"
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "示警短期恐面臨庫存跌價損失"
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "地緣政治局勢變化加上原油供給充沛，加劇國際油價跌勢"
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "憑藉垂直整合、產能規模及技術優勢，AI供應鏈重要性提升"
+        }
+      ],
+      "background": "台塑四寶營運展望分歧，南亞受惠AI資料中心需求強勁，台塑因石化產品旺季營收看增。台化與台塑化則受國際油價回落影響，面臨庫存跌價損失風險。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxOV0hLbDBHMjh6TmxySWJtMGQzTF9hVVMzS2RvOHRHXzE4MDAxcExaN3ZzRlpCUXpKRTNWNlZESmZxZWJsbjZwTEdQaHdKQnc5LU5wWXpuTE1OX2ZPZUdxUnBKajA0Z2tPSVVMaWRWU2FPdGxJQlJDcmlBZkNUU3hJeUkwNEdJTy00",
       "tkey": "熱門族群台塑四寶Q4冷熱不同調！南亞喊營收續攀、台化憂庫存跌價",
       "title": "《熱門族群》台塑四寶Q4冷熱不同調！南亞喊營收續攀、台化憂庫存跌價 - 富聯網",
@@ -345,6 +395,41 @@
       "background": "台塑四寶第四季營運展望分歧，南亞受AI資料中心需求強勁，台塑受惠石化產品旺季。台化與台塑化則因國際油價回落，面臨庫存跌價壓力。",
       "themeTags": [
         "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTFBNcmxTcGdtRktKazJoeW5NeFNlYkZyclFwNkNGUnp5cXBzcDVQTklRd01fY2R2TzNUVXZDTUItcXBNUk5DYXdoRlpuRnBSR0dnM2VhbWlxUGRjSlhIRVpzWUVhdkJqakwxWVE",
+      "tkey": "熱門族群AI、油價雙助攻！台塑四寶10月營收全數年增-上市櫃",
+      "title": "《熱門族群》AI、油價雙助攻！台塑四寶10月營收全數年增- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20261106900237-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Fri, 06 Nov 2026 07:36:48 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "10月營收創近55個月新高，電子材料營收占比突破6成"
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "10月營收月增3.8%、年增16.2%，主要因中東衝突推升油價"
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "10月營收月增7.3%、年增61.8%，PX市況改善帶動銷售量增加"
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "10月營收月減10.8%、年增76.0%，受煉油設備定檢影響"
+        }
+      ],
+      "background": "台塑四寶10月營收受惠中東地緣政治緊張推升油價及石化產品售價，加上AI資料中心需求持續強勁，全數年增。南亞電子材料表現亮眼，台塑化則受煉油設備定檢影響。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
       ]
     },
     {
@@ -546,7 +631,11 @@
           "symbol": "6443",
           "name": "元晶",
           "point": "領軍太陽能股上漲",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/6"
+          ]
         }
       ],
       "background": "美國政局變動引發市場對綠能政策的想像空間，太陽能產業受惠於政策支持及全球減碳趨勢，需求有望增長。",

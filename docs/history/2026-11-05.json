@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "updatedAt": "2026-11-06T10:43:04.612Z",
+  "updatedAt": "2026-11-06T16:43:13.430Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOeXBpYS0yQ0tHc0tIR0tpeUdMZzMyLVV5bUJzcVQxQm1DOW9USU9LQUpFZVhzV3NDMTlZcUhrQjRyV3hOaWk0N0VpZzB0YzB3QXE3SGJYRmZpTFYzYVlJb2QxRXV6LWhvUmtlTW1FZl9INnhzNjJpSm1ySjNPdHJGNGp3ZEEtczZn",
@@ -25,7 +25,11 @@
           "symbol": "6443",
           "name": "元晶",
           "point": "領軍太陽能股上漲",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/6"
+          ]
         }
       ],
       "background": "美國政局變動引發市場對綠能政策的想像空間，太陽能產業受惠於政策支持及全球減碳趨勢，需求有望增長。",
