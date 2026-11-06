@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-06T11:04:26.193+08:00",
-  "generatedAt": "2026-11-06T03:04:26.193Z",
+  "asOf": "2026-11-06T12:06:45.023+08:00",
+  "generatedAt": "2026-11-06T04:06:45.023Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -42,6 +42,28 @@
         "11/3"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "6446",
+      "name": "藥華藥",
+      "days": 2,
+      "dates": [
+        "11/6",
+        "11/3"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2360",
+      "name": "致茂",
+      "days": 2,
+      "dates": [
+        "11/6",
+        "11/3"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -270,6 +292,117 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPM0t6T2l2OU8zNkN2VWpmTTkwTmpvbllmY0dqT0lFODMzQlRFUXlvSk84QTBuQnZKQklGd2tyOTJVRm9lUEotOEQwOUJveEE0aTRxSzNoNXpyTWdyUWVXYS01UkhFR0F4Uk9wLU5UellFUEVvMUhFUkNYUUpxaWFrekt6LUdVVUtL",
+      "tkey": "熱門族群mSAP供給吃緊報價揚PCB廠臻鼎擁潛在利多外資續喊買",
+      "title": "《熱門族群》mSAP供給吃緊報價揚 PCB廠臻鼎擁潛在利多 外資續喊買 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6350858001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Fri, 06 Nov 2026 03:35:00 GMT",
+      "stocks": [
+        {
+          "symbol": "4958",
+          "name": "臻鼎-KY",
+          "point": "mSAP供給吃緊報價揚，外資續喊買",
+          "limitUp": false
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "2.4T光模組採BT基板，潛在利多",
+          "limitUp": false
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "2.4T光模組採BT基板，潛在利多",
+          "limitUp": false
+        }
+      ],
+      "background": "光模塊需求強勁，mSAP供給吃緊導致報價上揚，尤其800G及1.6T產品需求旺盛。2.4T光模組探討採用BT基板，對相關供應商是潛在利多。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMikgFBVV95cUxQZzJnM2l0eEdzQTkwcm5CT3FHY2xuVWRhUG9uZUFsTkE4cHpPWERQbE5RUEFCLTRod1VoLWhuNXBXZVNEUzRxY2pwZWJ4dUZ4c2FQTmdLQW9pZGRxM1paYUlXYldEWWZ1RHN6SzFQZGtSRXFBSVR6QzYtZldlUXMwR3QzZlJGd3NEaW1uNTBvOFQxUQ",
+      "tkey": "熱門族群千金股全軍覆沒！股王、股后雙跌停藥華藥盤面孤紅",
+      "title": "《熱門族群》千金股全軍覆沒！股王、股后雙跌停 藥華藥盤面孤紅 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6350808001&pu=News_0002_3",
+      "source": "富聯網",
+      "pubDate": "Fri, 06 Nov 2026 02:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "point": "千金股中唯一紅盤，10月營收創新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "5274",
+          "name": "信驊",
+          "point": "股王跌停，股價下探近3個月低點",
+          "limitUp": false
+        },
+        {
+          "symbol": "2059",
+          "name": "川湖",
+          "point": "股后跌停，股價近乎腰斬",
+          "limitUp": false
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "高價股跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "7769",
+          "name": "鴻勁",
+          "point": "高價股跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6515",
+          "name": "穎崴",
+          "point": "高價股跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "千金股遭摜壓",
+          "limitUp": false
+        },
+        {
+          "symbol": "2345",
+          "name": "智邦",
+          "point": "千金股遭摜壓",
+          "limitUp": false
+        },
+        {
+          "symbol": "2360",
+          "name": "致茂",
+          "point": "千金股遭摜壓",
+          "limitUp": false
+        },
+        {
+          "symbol": "3324",
+          "name": "雙鴻",
+          "point": "千金股遭摜壓",
+          "limitUp": false
+        },
+        {
+          "symbol": "7828",
+          "name": "創新服務",
+          "point": "千金股遭摜壓",
+          "limitUp": false
+        }
+      ],
+      "background": "美股AI與晶片股遭遇拋售，導致台股大盤重挫，千金股成為賣壓重災區。僅藥華藥因營收創新高而逆勢上漲。",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxNTzJnUW1wQ05PT1NpSU94XzFOQkpuQWQ2Ujk3Y0J2WFNTWGZyNWIxM3dOTV9idVZ2NlJqQ0VucHI3RE5SVFV4MUFUNE5jTGhXUVdYbW5TemViMWk5RTZjVWFrUFA3cjhFVFlNdEtrcGNRZUhxMmpUckkxQV9yNVY2bDNtcGY0V3Zq",
       "tkey": "熱門族群裕民、慧洋卡位重建商機",
