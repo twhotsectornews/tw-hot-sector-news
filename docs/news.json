@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-06T02:15:46.938+08:00",
-  "generatedAt": "2026-11-05T18:15:46.938Z",
+  "asOf": "2026-11-06T11:04:26.193+08:00",
+  "generatedAt": "2026-11-06T03:04:26.193Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -271,6 +271,33 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxNTzJnUW1wQ05PT1NpSU94XzFOQkpuQWQ2Ujk3Y0J2WFNTWGZyNWIxM3dOTV9idVZ2NlJqQ0VucHI3RE5SVFV4MUFUNE5jTGhXUVdYbW5TemViMWk5RTZjVWFrUFA3cjhFVFlNdEtrcGNRZUhxMmpUckkxQV9yNVY2bDNtcGY0V3Zq",
+      "tkey": "熱門族群裕民、慧洋卡位重建商機",
+      "title": "《熱門族群》裕民、慧洋 卡位重建商機 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6350541001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 06 Nov 2026 00:13:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2606",
+          "name": "裕民",
+          "point": "卡位重建商機、投資中小型散裝船",
+          "limitUp": false
+        },
+        {
+          "symbol": "2637",
+          "name": "慧洋",
+          "point": "卡位重建商機、投資中小型散裝船",
+          "limitUp": false
+        }
+      ],
+      "background": "散裝航運業者超前部署中小型散裝船，因應烏俄戰爭後重建原物料運送需求，以及烏克蘭穀物出口恢復，預期將帶動運價回升。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxOeXBpYS0yQ0tHc0tIR0tpeUdMZzMyLVV5bUJzcVQxQm1DOW9USU9LQUpFZVhzV3NDMTlZcUhrQjRyV3hOaWk0N0VpZzB0YzB3QXE3SGJYRmZpTFYzYVlJb2QxRXV6LWhvUmtlTW1FZl9INnhzNjJpSm1ySjNPdHJGNGp3ZEEtczZn",
       "tkey": "熱門族群PCB綠光罩頂！CCL四雄摜殺跌停ABF載板奄奄一息",
       "title": "《熱門族群》PCB綠光罩頂！CCL四雄摜殺跌停 ABF載板奄奄一息 - 富聯網",
@@ -387,255 +414,6 @@
       "background": "美國民主黨期中選舉勝出，有助於捍衛《降低通膨法案》的資金與稅收優惠，延續潔淨能源政策的能見度，綠能業者受惠。",
       "themeTags": [
         "政策關稅"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxQQTU1ZFp4QXkzd3dDNGZLUlRHYjRqaE5IYmxRSTdpYnpVSGNXQTRIOG0yaXRiNzVGUUFGOG9SbXI4OWpGQ3RpVG5vVENSZnZnZFNIbjUyVURzNWNNYkdyQlU1U3UyMHlvOVJGc1RzYVp4RDRRZHlWQkVjeWhvQTcwelh2M1BOLUJW",
-      "tkey": "熱門族群台股狂殺1400點！機器人傳喜訊6檔閃紅燈不怕摔",
-      "title": "《熱門族群》台股狂殺1400點！機器人傳喜訊 6檔閃紅燈不怕摔 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6348259001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Wed, 04 Nov 2026 03:59:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3379",
-          "name": "彬台",
-          "point": "亮燈漲停，機器人概念股",
-          "limitUp": true,
-          "pct": 10
-        },
-        {
-          "symbol": "4562",
-          "name": "穎漢",
-          "point": "亮燈漲停，機器人概念股",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 2,
-          "luwd": [
-            "11/4",
-            "11/2"
-          ]
-        },
-        {
-          "symbol": "6609",
-          "name": "瀧澤科",
-          "point": "亮燈漲停，AI伺服器及機器人設備",
-          "limitUp": true,
-          "pct": 9.9
-        },
-        {
-          "symbol": "3287",
-          "name": "廣寰科",
-          "point": "亮燈漲停，機器人概念股",
-          "status": "逼近新高",
-          "dist": -0.6,
-          "limitUp": true,
-          "pct": 10
-        },
-        {
-          "symbol": "1528",
-          "name": "恩德",
-          "point": "亮燈漲停，機器人概念股",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "11/4"
-          ]
-        },
-        {
-          "symbol": "4533",
-          "name": "協易機",
-          "point": "亮燈漲停，機器人概念股",
-          "limitUp": true,
-          "pct": 9.9
-        },
-        {
-          "symbol": "4563",
-          "name": "百德",
-          "point": "逆風抗跌，工具機廠",
-          "limitUp": false
-        },
-        {
-          "symbol": "3023",
-          "name": "信邦",
-          "point": "逆風抗跌，電子通路商",
-          "limitUp": false
-        },
-        {
-          "symbol": "4526",
-          "name": "東台",
-          "point": "逆風抗跌，工具機廠",
-          "status": "逼近新高",
-          "dist": -8.4,
-          "limitUp": true,
-          "pct": 9.8,
-          "luw": 1,
-          "luwd": [
-            "11/4"
-          ]
-        },
-        {
-          "symbol": "3498",
-          "name": "陽程",
-          "point": "逆風抗跌，工具機廠",
-          "limitUp": false
-        }
-      ],
-      "background": "人形機器人新創公司Agility Robotics將上市，吸引國際車廠投入研發，帶動相關台廠供應鏈。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxQU1lpUC1jaHpLQkhhUHliM3NMaS1nQ2VMNEREb0F3dVZ3ZHduR0FwLVhzUnA0RWFKTDM2RFo0bWdMZldvYlNpV0RtaGdzZVlfR3dVdmhoeDltSWpXVmdyUHJYRlNXSE9IMzAwSjZZcTRraV83aWo2WlBxMnFSaTFaV0t3MTVzZHRw",
-      "tkey": "熱門族群記憶體怎麼了？南亞科殺破400關華邦電跟著崩",
-      "title": "《熱門族群》記憶體怎麼了？南亞科殺破400關 華邦電跟著崩 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6348194001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Wed, 04 Nov 2026 03:02:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2408",
-          "name": "南亞科",
-          "point": "殺破400關、遭三大法人調節",
-          "limitUp": false
-        },
-        {
-          "symbol": "2344",
-          "name": "華邦電",
-          "point": "跟著崩、殺破140關、遭外資大舉賣超",
-          "limitUp": false
-        },
-        {
-          "symbol": "2337",
-          "name": "旺宏",
-          "point": "同步翻綠",
-          "limitUp": false
-        },
-        {
-          "symbol": "6770",
-          "name": "力積電",
-          "point": "同步翻綠",
-          "limitUp": false
-        },
-        {
-          "symbol": "3260",
-          "name": "威剛",
-          "point": "跟進走軟",
-          "limitUp": false
-        },
-        {
-          "symbol": "2451",
-          "name": "創見",
-          "point": "跟進走軟",
-          "limitUp": false
-        },
-        {
-          "symbol": "8299",
-          "name": "群聯",
-          "point": "跟進走軟",
-          "limitUp": false
-        },
-        {
-          "symbol": "3006",
-          "name": "晶豪科",
-          "point": "殺跌7%、買盤不捧場",
-          "limitUp": false
-        },
-        {
-          "symbol": "4967",
-          "name": "十銓",
-          "point": "相對抗跌",
-          "limitUp": false
-        }
-      ],
-      "background": "記憶體產業受AI伺服器、人形機器人等應用擴大需求，國際大廠SK海力士、美光將產能轉向HBM及高階DDR5，排擠傳統DRAM供給，市場預期短缺將延續。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNVW5NaG4tYkltVXFNWDV5U2VNbC1VRDBVSzZSN2tQam9MRVZ0SEQtYlpreGFzb2NwY09saG9vY1BqUlRvdzQyR1BPZUZneUo1WlFqaHliMExoTHlzblFMa2Z1UzNGS0Jib3FySlNMd2lra29NZ2NQYzE5Ymhoa1VEcjZyRUpfZnFM",
-      "tkey": "熱門族群永豐銀添資安警訊題材再點火掀起漲停潮",
-      "title": "《熱門族群》永豐銀添資安警訊 題材再點火掀起漲停潮 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6348159001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Wed, 04 Nov 2026 02:25:00 GMT",
-      "stocks": [
-        {
-          "symbol": "7767",
-          "name": "仁大資訊",
-          "point": "強勢攻上漲停",
-          "limitUp": true,
-          "pct": 10
-        },
-        {
-          "symbol": "2468",
-          "name": "華經",
-          "point": "強勢攻上漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 2,
-          "luwd": [
-            "11/4",
-            "11/2"
-          ]
-        },
-        {
-          "symbol": "6697",
-          "name": "東捷資訊",
-          "point": "強勢攻上漲停",
-          "status": "逼近新高",
-          "dist": -8.8,
-          "limitUp": true,
-          "pct": 9.9
-        },
-        {
-          "symbol": "6938",
-          "name": "藍新資訊",
-          "point": "漲幅仍達8%",
-          "limitUp": true,
-          "pct": 9.9
-        },
-        {
-          "symbol": "6148",
-          "name": "驊宏資",
-          "point": "湧現買盤漲幅逾半根漲停",
-          "limitUp": true,
-          "pct": 10
-        },
-        {
-          "symbol": "6689",
-          "name": "伊雲谷",
-          "point": "湧現買盤漲幅逾半根漲停",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/2"
-          ]
-        },
-        {
-          "symbol": "6214",
-          "name": "精誠",
-          "point": "遭遇賣壓打入跌停板",
-          "status": "高檔修正",
-          "dist": -10.8,
-          "limitUp": false
-        },
-        {
-          "symbol": "8272",
-          "name": "全景軟體",
-          "point": "遭遇賣壓打入跌停板",
-          "limitUp": false
-        }
-      ],
-      "background": "永豐銀行網銀異常轉帳事件，加上近期個資外洩，使資安疑慮升溫，帶動資安族群人氣。數位交易安全受市場高度關注。",
-      "themeTags": [
-        "需求驅動"
       ]
     }
   ]
