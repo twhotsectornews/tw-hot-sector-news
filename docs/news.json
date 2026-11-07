@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-07T11:03:30.138+08:00",
-  "generatedAt": "2026-11-07T03:03:30.138Z",
+  "asOf": "2026-11-07T12:02:29.312+08:00",
+  "generatedAt": "2026-11-07T04:02:29.312Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,13 +9,14 @@
     {
       "symbol": "1303",
       "name": "南亞",
-      "days": 3,
+      "days": 4,
       "dates": [
         "11/7",
         "11/6",
+        "11/5",
         "11/2"
       ],
-      "mentions": 7,
+      "mentions": 8,
       "limitUp": false
     },
     {
@@ -68,6 +69,26 @@
       "limitUp": false
     },
     {
+      "symbol": "8046",
+      "name": "南電",
+      "days": 2,
+      "dates": [
+        "11/6",
+        "11/5"
+      ],
+      "mentions": 3
+    },
+    {
+      "symbol": "1815",
+      "name": "富喬",
+      "days": 2,
+      "dates": [
+        "11/5",
+        "11/2"
+      ],
+      "mentions": 3
+    },
+    {
       "symbol": "8299",
       "name": "群聯",
       "days": 2,
@@ -76,6 +97,39 @@
         "11/3"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "4958",
+      "name": "臻鼎-KY",
+      "days": 2,
+      "dates": [
+        "11/6",
+        "11/5"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3037",
+      "name": "欣興",
+      "days": 2,
+      "dates": [
+        "11/6",
+        "11/5"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3189",
+      "name": "景碩",
+      "days": 2,
+      "dates": [
+        "11/6",
+        "11/5"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -99,6 +153,26 @@
       ],
       "mentions": 2,
       "limitUp": false
+    },
+    {
+      "symbol": "6213",
+      "name": "聯茂",
+      "days": 2,
+      "dates": [
+        "11/5",
+        "11/1"
+      ],
+      "mentions": 2
+    },
+    {
+      "symbol": "2368",
+      "name": "金像電",
+      "days": 2,
+      "dates": [
+        "11/5",
+        "11/3"
+      ],
+      "mentions": 2
     },
     {
       "symbol": "3379",
@@ -286,43 +360,6 @@
       "mentions": 2,
       "limitUp": true,
       "pct": 9.9
-    },
-    {
-      "symbol": "6689",
-      "name": "伊雲谷",
-      "days": 2,
-      "dates": [
-        "11/4",
-        "11/2"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "11/2"
-      ]
-    },
-    {
-      "symbol": "7750",
-      "name": "新代",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "11/2"
-      ],
-      "mentions": 2
-    },
-    {
-      "symbol": "6865",
-      "name": "偉康科技",
-      "days": 2,
-      "dates": [
-        "11/3",
-        "11/2"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 10
     }
   ],
   "news": [

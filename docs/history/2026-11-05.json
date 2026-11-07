@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "updatedAt": "2026-11-07T03:03:30.135Z",
+  "updatedAt": "2026-11-07T04:02:29.310Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOeXBpYS0yQ0tHc0tIR0tpeUdMZzMyLVV5bUJzcVQxQm1DOW9USU9LQUpFZVhzV3NDMTlZcUhrQjRyV3hOaWk0N0VpZzB0YzB3QXE3SGJYRmZpTFYzYVlJb2QxRXV6LWhvUmtlTW1FZl9INnhzNjJpSm1ySjNPdHJGNGp3ZEEtczZn",
@@ -9,9 +9,83 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6349484001&PU=1002",
       "source": "富聯網",
       "pubDate": "Thu, 05 Nov 2026 04:10:00 GMT",
-      "stocks": [],
-      "background": "PCB（印刷電路板）產業受景氣下行影響，CCL（銅箔基板）與ABF載板需求疲軟，庫存去化壓力大，產業處於景氣谷底。",
-      "themeTags": []
+      "stocks": [
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "CCL跌停、獲轉單潛力"
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "CCL跌停、獲轉單潛力"
+        },
+        {
+          "symbol": "6213",
+          "name": "聯茂",
+          "point": "CCL跌停、潛在轉單觀察"
+        },
+        {
+          "symbol": "6672",
+          "name": "騰輝電子-KY",
+          "point": "CCL跌停"
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "玻纖布崩跌、潛在轉單觀察"
+        },
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "玻纖布崩跌"
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "ABF載板跌停"
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "ABF載板跌停"
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "ABF載板軟腳"
+        },
+        {
+          "symbol": "4958",
+          "name": "臻鼎-KY",
+          "point": "ABF載板軟腳"
+        },
+        {
+          "symbol": "2313",
+          "name": "華通",
+          "point": "重挫逾半根停板"
+        },
+        {
+          "symbol": "3044",
+          "name": "健鼎",
+          "point": "重挫逾半根停板"
+        },
+        {
+          "symbol": "3715",
+          "name": "定穎投控",
+          "point": "重挫逾半根停板"
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "point": "重挫逾半根停板"
+        }
+      ],
+      "background": "PCB族群受美國期中選舉結果及台灣松下湖口廠火警影響，引發高階CCL供應疑慮，導致相關個股重挫。市場關注轉單效應，特別是AI產業中長期成長趨勢。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxNVUl4MWw5dElTUGxHTGNheVdpQWhzLXFOR2h1eWhrUE92YTI4ZUNsVVFheFBwUHo0WFBTWG11cG1leVJMd0sxZ3ByYUl1U1JpSERldXp1NUJhVVNOa3BCemtGX21rQ1h1d0h6dVlRYzdPdTZmdWVjSjFYb2p5dEU2MnA1Y3RXWHJ2",
