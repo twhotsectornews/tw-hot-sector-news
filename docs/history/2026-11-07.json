@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-07",
+  "updatedAt": "2026-11-07T16:37:38.393Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNNl9GYlpNSzY5ckFIT2hmUjYyRktjbHRIVno0cEhZV1hOSUpydEEtd1haRzBqLTVjcDl4SUVFRGVhQkFVS1pXbFlSNU03M3RYQ1pPei1XcFY1WkE3d01qT3lZMnljbkg5QVRoUUpwVUJwN1VrTVQ5bzdtRGtvMDZheFVfaGQxODlT",
+      "tkey": "熱門族群台塑四寶10月業績年增雙位數",
+      "title": "《熱門族群》台塑四寶10月業績 年增雙位數 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6352098001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sat, 07 Nov 2026 02:11:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "10月營收創近55個月新高，電子材料暢旺",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台塑",
+          "point": "10月營收月增3.8％，年成長16.2％",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑化",
+          "point": "10月營收月減10.8％，年增76％",
+          "limitUp": false
+        },
+        {
+          "symbol": "1309",
+          "name": "台化",
+          "point": "10月營收月增7.3％，年成長61.8％",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶受惠於油價、石化行情高檔震盪及電子材料出貨暢旺，南亞電子材料市場需求強勁，資料中心建設高峰期將帶動產業發展。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNMFpoakpXTWxxelZwWm1aSlExTEx2blAwNVo1alNrMlJPTGV6OGpvbVJOSmNHVWFlNEQ5WDg5d2JNMnJIemVFa1BYYmN5UkR3aFI1aE82cjhYUEhIRk1jcXVrQkw1LUh4OW9jZm5OM0tBN1lhQktqY1hOMFVwbExKTU11Y0c4TmZy",
+      "tkey": "熱門族群BBU續強AES明年拚新品放量",
+      "title": "《熱門族群》BBU續強 AES明年拚新品放量 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6352078001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sat, 07 Nov 2026 01:41:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6781",
+          "name": "AES-KY",
+          "point": "BBU訂單能見度高，明年拚新品放量",
+          "limitUp": false
+        }
+      ],
+      "background": "BBU（電池備援單元）受惠於資料中心AIDC需求增加，高壓產品量產進度受關注，輕型載具、AGV、機器人等新應用市場成長率更高。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}
