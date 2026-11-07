@@ -1,11 +1,23 @@
 {
-  "asOf": "2026-11-07T01:41:00.102+08:00",
-  "generatedAt": "2026-11-06T17:41:00.102Z",
+  "asOf": "2026-11-07T11:03:30.138+08:00",
+  "generatedAt": "2026-11-07T03:03:30.138Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 3,
+      "dates": [
+        "11/7",
+        "11/6",
+        "11/2"
+      ],
+      "mentions": 7,
+      "limitUp": false
+    },
     {
       "symbol": "6697",
       "name": "東捷資訊",
@@ -34,14 +46,26 @@
       "limitUp": false
     },
     {
-      "symbol": "1303",
-      "name": "南亞",
+      "symbol": "1326",
+      "name": "台塑",
       "days": 2,
       "dates": [
-        "11/6",
-        "11/2"
+        "11/7",
+        "11/6"
       ],
-      "mentions": 6
+      "mentions": 5,
+      "limitUp": false
+    },
+    {
+      "symbol": "1301",
+      "name": "台塑化",
+      "days": 2,
+      "dates": [
+        "11/7",
+        "11/6"
+      ],
+      "mentions": 5,
+      "limitUp": false
     },
     {
       "symbol": "8299",
@@ -302,6 +326,64 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNNl9GYlpNSzY5ckFIT2hmUjYyRktjbHRIVno0cEhZV1hOSUpydEEtd1haRzBqLTVjcDl4SUVFRGVhQkFVS1pXbFlSNU03M3RYQ1pPei1XcFY1WkE3d01qT3lZMnljbkg5QVRoUUpwVUJwN1VrTVQ5bzdtRGtvMDZheFVfaGQxODlT",
+      "tkey": "熱門族群台塑四寶10月業績年增雙位數",
+      "title": "《熱門族群》台塑四寶10月業績 年增雙位數 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6352098001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sat, 07 Nov 2026 02:11:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "10月營收創近55個月新高，電子材料暢旺",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台塑",
+          "point": "10月營收月增3.8％，年成長16.2％",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑化",
+          "point": "10月營收月減10.8％，年增76％",
+          "limitUp": false
+        },
+        {
+          "symbol": "1309",
+          "name": "台化",
+          "point": "10月營收月增7.3％，年成長61.8％",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑四寶受惠於油價、石化行情高檔震盪及電子材料出貨暢旺，南亞電子材料市場需求強勁，資料中心建設高峰期將帶動產業發展。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNMFpoakpXTWxxelZwWm1aSlExTEx2blAwNVo1alNrMlJPTGV6OGpvbVJOSmNHVWFlNEQ5WDg5d2JNMnJIemVFa1BYYmN5UkR3aFI1aE82cjhYUEhIRk1jcXVrQkw1LUh4OW9jZm5OM0tBN1lhQktqY1hOMFVwbExKTU11Y0c4TmZy",
+      "tkey": "熱門族群BBU續強AES明年拚新品放量",
+      "title": "《熱門族群》BBU續強 AES明年拚新品放量 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6352078001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sat, 07 Nov 2026 01:41:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6781",
+          "name": "AES-KY",
+          "point": "BBU訂單能見度高，明年拚新品放量",
+          "limitUp": false
+        }
+      ],
+      "background": "BBU（電池備援單元）受惠於資料中心AIDC需求增加，高壓產品量產進度受關注，輕型載具、AGV、機器人等新應用市場成長率更高。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiWEFVX3lxTE9uMEFkeEVVSWg1QWd5WGVBVHZHMkNweUdQVHB1Q1RYUW9LUFAzczl6RmtXMHhTajg1dkk1SWNqMTAwMHB6M2F4cElNUjBCMFpxd0ZMaWZqZXo",
       "tkey": "熱門族群美再生能源股強彈台灣太陽能族群翻紅",
@@ -606,129 +688,6 @@
       "themeTags": [
         "需求驅動",
         "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxOeXBpYS0yQ0tHc0tIR0tpeUdMZzMyLVV5bUJzcVQxQm1DOW9USU9LQUpFZVhzV3NDMTlZcUhrQjRyV3hOaWk0N0VpZzB0YzB3QXE3SGJYRmZpTFYzYVlJb2QxRXV6LWhvUmtlTW1FZl9INnhzNjJpSm1ySjNPdHJGNGp3ZEEtczZn",
-      "tkey": "熱門族群PCB綠光罩頂！CCL四雄摜殺跌停ABF載板奄奄一息",
-      "title": "《熱門族群》PCB綠光罩頂！CCL四雄摜殺跌停 ABF載板奄奄一息 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6349484001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Thu, 05 Nov 2026 04:10:00 GMT",
-      "stocks": [],
-      "background": "PCB（印刷電路板）產業受景氣下行影響，CCL（銅箔基板）與ABF載板需求疲軟，庫存去化壓力大，產業處於景氣谷底。",
-      "themeTags": []
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNVUl4MWw5dElTUGxHTGNheVdpQWhzLXFOR2h1eWhrUE92YTI4ZUNsVVFheFBwUHo0WFBTWG11cG1leVJMd0sxZ3ByYUl1U1JpSERldXp1NUJhVVNOa3BCemtGX21rQ1h1d0h6dVlRYzdPdTZmdWVjSjFYb2p5dEU2MnA1Y3RXWHJ2",
-      "tkey": "熱門族群美國政局變天帶動綠能想像元晶領軍太陽能股先衝",
-      "title": "《熱門族群》美國政局變天帶動綠能想像 元晶領軍太陽能股先衝 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6349418001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Thu, 05 Nov 2026 03:20:00 GMT",
-      "stocks": [
-        {
-          "symbol": "6443",
-          "name": "元晶",
-          "point": "領軍太陽能股上漲",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/6"
-          ]
-        }
-      ],
-      "background": "美國政局變動引發市場對綠能政策的想像空間，太陽能產業受惠於政策支持及全球減碳趨勢，需求有望增長。",
-      "themeTags": [
-        "政策關稅",
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxObllYY3hLcTJaQld3b2l2Tk54bW5zaXJuYWFlMkNEZ2VMSzB1REdzTGJfMjd1X0tkVWZSbXZ1UUZZQldEUmZRY3NNbFFkdnBLenVNdzRNS3RFc1NvU3dRODk2RVFBbEJ1TnM0RjRqN2NFQlNkTi1xR0NST285T1dBSV81QXhROTZG",
-      "tkey": "熱門族群台股震不停！軍工股挺身亞光等4檔攻頂捍疆土",
-      "title": "《熱門族群》台股震不停！軍工股挺身 亞光等4檔攻頂捍疆土 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6349386001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Thu, 05 Nov 2026 02:57:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3019",
-          "name": "亞光",
-          "point": "軍工股攻頂",
-          "limitUp": true,
-          "pct": 9.8,
-          "luw": 1,
-          "luwd": [
-            "11/5"
-          ]
-        }
-      ],
-      "background": "台股震盪之際，軍工產業因地緣政治緊張及國防自主政策推動，相關概念股受市場關注，扮演撐盤角色。",
-      "themeTags": [
-        "政策關稅"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxQZmlzNzdKQnl4Zmk4U29FcncxZzdoYjlzNjJaYlZQZVhxVjFyNUQ0T3RLdi1BQUh1OGVkbldWU2swdGRTbHNwT3lSMlZWWW1LN3l2NTJlckkyRFdlZkZZX0dRdkx4THA0dlVTMkFzNGY4NXhfUTJtODlsTzM4dmc5VmNUUWFqd1Fy",
-      "tkey": "熱門族群Panasonic新竹廠爆炸嚇暈台光電及台燿雙殺跌停",
-      "title": "《熱門族群》Panasonic新竹廠爆炸嚇暈 台光電及台燿雙殺跌停 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6349303001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Thu, 05 Nov 2026 01:36:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2383",
-          "name": "台光電",
-          "point": "受Panasonic新竹廠爆炸影響跌停",
-          "limitUp": false
-        },
-        {
-          "symbol": "6274",
-          "name": "台燿",
-          "point": "受Panasonic新竹廠爆炸影響跌停",
-          "limitUp": false
-        }
-      ],
-      "background": "Panasonic新竹廠爆炸事件，導致相關供應鏈台光電及台燿股價受挫，市場擔憂供應鏈穩定性。",
-      "themeTags": []
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxPdDdMcUluM005TXlFN3RaRVZnQ1dkS0Y5VWp5cmlUaXJpMmpjZnJ1SnRUOXozWnhtblg3aDQ4dEtlbnc2alphOXVLcFRRRFB6S1AwY1NpTzlCRnR3RWxTN2hUTnQzSHktWVV1R1NCeTVkelpSd3hlREdRQmc3dkpyZlE1RTI4QjE5",
-      "tkey": "熱門族群美政策迎轉機綠能業者受惠",
-      "title": "《熱門族群》美政策迎轉機 綠能業者受惠 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6349054001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Wed, 04 Nov 2026 23:52:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3691",
-          "name": "碩禾",
-          "point": "搶先併購模組廠，已量產出貨",
-          "limitUp": false
-        },
-        {
-          "symbol": "3576",
-          "name": "聯合再生",
-          "point": "攜手中美晶赴美投資太陽能模組廠",
-          "limitUp": false
-        },
-        {
-          "symbol": "6488",
-          "name": "中美晶",
-          "point": "攜手聯合再生赴美建置太陽能模組廠",
-          "limitUp": false
-        },
-        {
-          "symbol": "6538",
-          "name": "倉和",
-          "point": "美國市場成長動能強勁",
-          "limitUp": false
-        }
-      ],
-      "background": "美國民主黨期中選舉勝出，有助於捍衛《降低通膨法案》的資金與稅收優惠，延續潔淨能源政策的能見度，綠能業者受惠。",
-      "themeTags": [
-        "政策關稅"
       ]
     }
   ]
