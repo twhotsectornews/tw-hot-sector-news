@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-08T12:02:18.859+08:00",
-  "generatedAt": "2026-11-08T04:02:18.859Z",
+  "asOf": "2026-11-08T13:02:21.652+08:00",
+  "generatedAt": "2026-11-08T05:02:21.652Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -108,6 +108,8 @@
         "11/5"
       ],
       "mentions": 2,
+      "limitUp": true,
+      "pct": 10,
       "luw": 1,
       "luwd": [
         "11/6"
@@ -121,7 +123,8 @@
         "11/8",
         "11/5"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "6538",
@@ -131,7 +134,8 @@
         "11/8",
         "11/5"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "3691",
@@ -141,7 +145,8 @@
         "11/8",
         "11/5"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "8996",
@@ -151,7 +156,8 @@
         "11/8",
         "11/3"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "4958",
@@ -378,6 +384,8 @@
           "symbol": "6443",
           "name": "元晶",
           "point": "太陽能股價奮力由黑翻紅，終場漲停",
+          "limitUp": true,
+          "pct": 10,
           "luw": 1,
           "luwd": [
             "11/6"
@@ -386,22 +394,26 @@
         {
           "symbol": "3576",
           "name": "聯合再生",
-          "point": "太陽能股價奮力由黑翻紅"
+          "point": "太陽能股價奮力由黑翻紅",
+          "limitUp": false
         },
         {
           "symbol": "6244",
           "name": "茂迪",
-          "point": "太陽能股價奮力由黑翻紅"
+          "point": "太陽能股價奮力由黑翻紅",
+          "limitUp": false
         },
         {
           "symbol": "6538",
           "name": "倉和",
-          "point": "太陽能股價奮力由黑翻紅，受惠產業復甦"
+          "point": "太陽能股價奮力由黑翻紅，受惠產業復甦",
+          "limitUp": false
         },
         {
           "symbol": "3686",
           "name": "達能",
           "point": "太陽能終場以漲停作收",
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "11/6"
@@ -410,47 +422,56 @@
         {
           "symbol": "6869",
           "name": "雲豹能源",
-          "point": "看好AIDC大餅"
+          "point": "看好AIDC大餅",
+          "limitUp": false
         },
         {
           "symbol": "6873",
           "name": "泓德能源",
-          "point": "看好AIDC大餅"
+          "point": "看好AIDC大餅",
+          "limitUp": false
         },
         {
           "symbol": "7740",
           "name": "熙特爾-創",
-          "point": "看好AIDC大餅"
+          "point": "看好AIDC大餅",
+          "limitUp": false
         },
         {
           "symbol": "3691",
           "name": "碩禾",
-          "point": "太陽能耗材供應商，可望受惠產業復甦"
+          "point": "太陽能耗材供應商，可望受惠產業復甦",
+          "limitUp": false
         },
         {
           "symbol": "1519",
           "name": "華城",
-          "point": "輸配電設備最具優勢"
+          "point": "輸配電設備最具優勢",
+          "limitUp": false
         },
         {
           "symbol": "1503",
           "name": "士電",
-          "point": "輸配電設備最具優勢"
+          "point": "輸配電設備最具優勢",
+          "limitUp": false
         },
         {
           "symbol": "2308",
           "name": "台達電",
-          "point": "電力管理、儲能及系統整合需求提升"
+          "point": "電力管理、儲能及系統整合需求提升",
+          "limitUp": false
         },
         {
           "symbol": "8996",
           "name": "高力",
-          "point": "電力管理、儲能及系統整合需求提升"
+          "point": "電力管理、儲能及系統整合需求提升",
+          "limitUp": false
         },
         {
           "symbol": "6282",
           "name": "康舒",
-          "point": "電力管理、儲能及系統整合需求提升"
+          "point": "電力管理、儲能及系統整合需求提升",
+          "limitUp": false
         }
       ],
       "background": "美國期中選舉後，民主黨掌權預期將改善再生能源產業投資環境，帶動潔淨能源股大漲，台灣太陽能族群受惠翻紅，產業谷底已過。",
