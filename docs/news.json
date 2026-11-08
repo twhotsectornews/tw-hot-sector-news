@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-08T23:56:15.001+08:00",
-  "generatedAt": "2026-11-08T15:56:15.001Z",
+  "asOf": "2026-11-09T00:47:02.853+08:00",
+  "generatedAt": "2026-11-08T16:47:02.853Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,41 +9,13 @@
     {
       "symbol": "1303",
       "name": "南亞",
-      "days": 4,
+      "days": 3,
       "dates": [
         "11/7",
         "11/6",
-        "11/5",
-        "11/2"
+        "11/5"
       ],
-      "mentions": 8,
-      "limitUp": false
-    },
-    {
-      "symbol": "6697",
-      "name": "東捷資訊",
-      "days": 3,
-      "dates": [
-        "11/4",
-        "11/3",
-        "11/2"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -8.8,
-      "limitUp": true,
-      "pct": 9.9
-    },
-    {
-      "symbol": "8272",
-      "name": "全景軟體",
-      "days": 3,
-      "dates": [
-        "11/4",
-        "11/3",
-        "11/2"
-      ],
-      "mentions": 3,
+      "mentions": 6,
       "limitUp": false
     },
     {
@@ -75,16 +47,6 @@
       "dates": [
         "11/6",
         "11/5"
-      ],
-      "mentions": 3
-    },
-    {
-      "symbol": "1815",
-      "name": "富喬",
-      "days": 2,
-      "dates": [
-        "11/5",
-        "11/2"
       ],
       "mentions": 3
     },
@@ -225,75 +187,6 @@
       "mentions": 2
     },
     {
-      "symbol": "3379",
-      "name": "彬台",
-      "days": 2,
-      "dates": [
-        "11/4",
-        "11/2"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 10
-    },
-    {
-      "symbol": "6609",
-      "name": "瀧澤科",
-      "days": 2,
-      "dates": [
-        "11/4",
-        "11/2"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 9.9
-    },
-    {
-      "symbol": "1528",
-      "name": "恩德",
-      "days": 2,
-      "dates": [
-        "11/4",
-        "11/2"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 1,
-      "luwd": [
-        "11/4"
-      ]
-    },
-    {
-      "symbol": "4563",
-      "name": "百德",
-      "days": 2,
-      "dates": [
-        "11/4",
-        "11/2"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "4526",
-      "name": "東台",
-      "days": 2,
-      "dates": [
-        "11/4",
-        "11/2"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -8.4,
-      "limitUp": true,
-      "pct": 9.8,
-      "luw": 1,
-      "luwd": [
-        "11/4"
-      ]
-    },
-    {
       "symbol": "2408",
       "name": "南亞科",
       "days": 2,
@@ -351,6 +244,66 @@
     {
       "symbol": "3006",
       "name": "晶豪科",
+      "days": 2,
+      "dates": [
+        "11/4",
+        "11/3"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "4967",
+      "name": "十銓",
+      "days": 2,
+      "dates": [
+        "11/4",
+        "11/3"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "7767",
+      "name": "仁大資訊",
+      "days": 2,
+      "dates": [
+        "11/4",
+        "11/3"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 10
+    },
+    {
+      "symbol": "6697",
+      "name": "東捷資訊",
+      "days": 2,
+      "dates": [
+        "11/4",
+        "11/3"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -8.8,
+      "limitUp": true,
+      "pct": 9.9
+    },
+    {
+      "symbol": "6938",
+      "name": "藍新資訊",
+      "days": 2,
+      "dates": [
+        "11/4",
+        "11/3"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 9.9
+    },
+    {
+      "symbol": "8272",
+      "name": "全景軟體",
       "days": 2,
       "dates": [
         "11/4",
