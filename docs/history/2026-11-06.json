@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "updatedAt": "2026-11-08T06:07:03.142Z",
+  "updatedAt": "2026-11-08T09:41:24.362Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE9uMEFkeEVVSWg1QWd5WGVBVHZHMkNweUdQVHB1Q1RYUW9LUFAzczl6RmtXMHhTajg1dkk1SWNqMTAwMHB6M2F4cElNUjBCMFpxd0ZMaWZqZXo",
@@ -24,33 +24,32 @@
         {
           "symbol": "1303",
           "name": "南亞",
-          "point": "AI資料中心需求強勁，營收續攀"
+          "point": "受惠AI資料中心建置熱潮，高階電子材料需求強勁"
         },
         {
           "symbol": "1301",
           "name": "台塑",
-          "point": "石化產品進入旺季，Q4營收優於Q3"
+          "point": "受惠石化產品進入傳統需求旺季，預估營收優於第三季"
         },
         {
           "symbol": "1326",
           "name": "台化",
-          "point": "憂庫存跌價損失，油價回落"
+          "point": "示警短期恐面臨庫存跌價損失"
         },
         {
           "symbol": "6505",
           "name": "台塑化",
-          "point": "國際油價跌勢加劇，供給充沛"
+          "point": "地緣政治局勢變化加上原油供給充沛，加劇油價跌勢"
         },
         {
           "symbol": "8046",
           "name": "南電",
-          "point": "AI供應鏈重要性提升"
+          "point": "憑藉垂直整合、產能規模及技術優勢，在AI供應鏈重要性提升"
         }
       ],
-      "background": "AI資料中心建置熱潮帶動高階電子材料需求，加上石化產品進入傳統旺季。惟國際油價回落，台化、台塑化面臨庫存跌價壓力。",
+      "background": "台塑四寶營運展望分歧，南亞受惠AI資料中心需求強勁，台塑因石化旺季營收看增，而台化與台塑化則受國際油價回落影響，面臨庫存跌價壓力。",
       "themeTags": [
-        "需求驅動",
-        "國際大廠"
+        "需求驅動"
       ]
     },
     {
