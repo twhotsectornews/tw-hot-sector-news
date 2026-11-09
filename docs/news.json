@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-09T13:03:29.566+08:00",
-  "generatedAt": "2026-11-09T05:03:29.566Z",
+  "asOf": "2026-11-09T14:03:33.545+08:00",
+  "generatedAt": "2026-11-09T06:03:33.545Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,14 +9,42 @@
     {
       "symbol": "1303",
       "name": "南亞",
-      "days": 3,
+      "days": 4,
       "dates": [
+        "11/9",
         "11/7",
         "11/6",
         "11/5"
       ],
+      "mentions": 7,
+      "limitUp": true,
+      "pct": 9.8
+    },
+    {
+      "symbol": "1301",
+      "name": "台塑",
+      "days": 3,
+      "dates": [
+        "11/9",
+        "11/7",
+        "11/6"
+      ],
       "mentions": 6,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
+    },
+    {
+      "symbol": "1326",
+      "name": "台化",
+      "days": 3,
+      "dates": [
+        "11/9",
+        "11/7",
+        "11/6"
+      ],
+      "mentions": 6,
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "3037",
@@ -56,22 +84,11 @@
       "pct": 10
     },
     {
-      "symbol": "1326",
-      "name": "台塑",
-      "days": 2,
-      "dates": [
-        "11/7",
-        "11/6"
-      ],
-      "mentions": 5,
-      "limitUp": false
-    },
-    {
-      "symbol": "1301",
+      "symbol": "6505",
       "name": "台塑化",
       "days": 2,
       "dates": [
-        "11/7",
+        "11/9",
         "11/6"
       ],
       "mentions": 5,
@@ -107,7 +124,8 @@
         "11/8"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "1503",
@@ -118,7 +136,8 @@
         "11/8"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.7
     },
     {
       "symbol": "3715",
@@ -129,7 +148,8 @@
         "11/5"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "6443",
@@ -338,20 +358,100 @@
       "mentions": 2,
       "limitUp": true,
       "pct": 9.9
-    },
-    {
-      "symbol": "8272",
-      "name": "全景軟體",
-      "days": 2,
-      "dates": [
-        "11/4",
-        "11/3"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPUEhBbFFVcExHVW83ampZY3czN2d3RUdnakdFQXVjY2VaemY0ajVzUi1OamxGNDVqTF9qX0ltYlo2X3E0V3JVTG9HSFpTOVdueDBwNFgtSlZxdHp4aHRRZjBtTDl3RDR5RzNBNGRCWHlPd0w5X1p0dGhiblJZS09QcVBsNTE0Z0VU",
+      "tkey": "熱門族群國安基金護盤常客！台塑帶頭、3檔漲停作收",
+      "title": "《熱門族群》國安基金護盤常客！台塑帶頭、3檔漲停作收 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6353757001&PU=0033",
+      "source": "富聯網",
+      "pubDate": "Mon, 09 Nov 2026 05:50:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "同步亮燈漲停",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "同步亮燈漲停",
+          "limitUp": true,
+          "pct": 9.8
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "同步亮燈漲停",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "6505",
+          "name": "台塑化",
+          "point": "終場上漲3%",
+          "limitUp": false
+        },
+        {
+          "symbol": "8131",
+          "name": "福懋科",
+          "point": "雙雙亮燈漲停",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "雙雙亮燈漲停",
+          "limitUp": true,
+          "pct": 9.9
+        }
+      ],
+      "background": "台塑集團受國安基金護盤激勵，加上部分公司營收回溫，AI電子材料布局也帶來成長潛力。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPUUgxRmxZdkFVNHhiM1dSU1RYYzNFTmhxXzJ5VDh5SXA4RXlKMk1HVHNPdWVyU1RrQUN6Mkk4UXdLQi1HaXlyZ2ktYTUwRTNfRTNJZzlrWm1QeVplNHZDaGhWQ3dfZjFscm5wVDM4VjRxUTZxQnNST3h5RWI4b2podlZwb1V4elQx",
+      "tkey": "熱門族群玻陶族群集體噴出台玻、中釉強勢攻漲停",
+      "title": "《熱門族群》玻陶族群集體噴出 台玻、中釉強勢攻漲停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6353707001&PU=0031",
+      "source": "富聯網",
+      "pubDate": "Mon, 09 Nov 2026 05:35:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1801",
+          "name": "台玻",
+          "point": "跳空開高後直奔漲停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "1809",
+          "name": "中釉",
+          "point": "鎖在漲停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "1810",
+          "name": "和成",
+          "point": "聯袂攜手揚升",
+          "limitUp": false
+        },
+        {
+          "symbol": "1817",
+          "name": "凱撒衛",
+          "point": "聯袂攜手揚升",
+          "limitUp": false
+        }
+      ],
+      "background": "玻陶族群受惠於玻纖布產能擴充與高階電子材料轉型，訂單能見度高，產業景氣復甦。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMikgFBVV95cUxPWDNRYmRfRmFBcGJOdERwUnUyb1NVRDU0aXdqZk5Pd25WSUo3R2xOeWFIVkdKYlRNYWNpSzEzblZqSy0xNWRKemxFM3pPMDk4NVFqUDZ2SG1jLUpmSzU5X3FrT3h4TjVWeW9adU1abWRfOG5ONTlZNC05STBKMHY2T1ZndWcxX25HUmgtajBOTGpMdw",
       "tkey": "熱門族群新任州長有意暫緩興建AIDC華城、亞力及中興電表態",
@@ -364,7 +464,8 @@
           "symbol": "1519",
           "name": "華城",
           "point": "美國AIDC變壓器主要供應商",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "1514",
@@ -382,7 +483,8 @@
           "symbol": "1503",
           "name": "士電",
           "point": "AI產業帶動電力需求受益",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.7
         }
       ],
       "background": "AI產業擴廠帶動電力需求，機電四雄受益。美國部分州長有意暫緩AIDC興建，但廠商認為影響不大，因訂單已確定且美國發展AI共識不變。",
@@ -433,7 +535,8 @@
           "symbol": "3715",
           "name": "定穎投控",
           "point": "10月營收創新高，受惠AI伺服器需求",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         }
       ],
       "background": "AI伺服器需求持續帶動PCB產業鏈營運走強，載板與PCB廠受惠新一代AI運算平台導入，營運動能延續。",
