@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-09T18:41:42.986+08:00",
-  "generatedAt": "2026-11-09T10:41:42.986Z",
+  "asOf": "2026-11-10T03:44:39.465+08:00",
+  "generatedAt": "2026-11-09T19:44:39.465Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -18,7 +18,11 @@
       ],
       "mentions": 7,
       "limitUp": true,
-      "pct": 9.8
+      "pct": 9.8,
+      "luw": 1,
+      "luwd": [
+        "11/9"
+      ]
     },
     {
       "symbol": "1301",
@@ -31,7 +35,11 @@
       ],
       "mentions": 6,
       "limitUp": true,
-      "pct": 9.9
+      "pct": 9.9,
+      "luw": 1,
+      "luwd": [
+        "11/9"
+      ]
     },
     {
       "symbol": "1326",
@@ -44,7 +52,11 @@
       ],
       "mentions": 6,
       "limitUp": true,
-      "pct": 9.9
+      "pct": 9.9,
+      "luw": 1,
+      "luwd": [
+        "11/9"
+      ]
     },
     {
       "symbol": "3037",
@@ -71,19 +83,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2368",
-      "name": "金像電",
-      "days": 3,
-      "dates": [
-        "11/9",
-        "11/5",
-        "11/3"
-      ],
-      "mentions": 3,
-      "limitUp": true,
-      "pct": 10
-    },
-    {
       "symbol": "6505",
       "name": "台塑化",
       "days": 2,
@@ -105,17 +104,6 @@
       "mentions": 3
     },
     {
-      "symbol": "8299",
-      "name": "群聯",
-      "days": 2,
-      "dates": [
-        "11/4",
-        "11/3"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
       "symbol": "1519",
       "name": "華城",
       "days": 2,
@@ -125,7 +113,11 @@
       ],
       "mentions": 2,
       "limitUp": true,
-      "pct": 10
+      "pct": 10,
+      "luw": 1,
+      "luwd": [
+        "11/9"
+      ]
     },
     {
       "symbol": "1503",
@@ -137,7 +129,27 @@
       ],
       "mentions": 2,
       "limitUp": true,
-      "pct": 9.7
+      "pct": 9.7,
+      "luw": 1,
+      "luwd": [
+        "11/9"
+      ]
+    },
+    {
+      "symbol": "2368",
+      "name": "金像電",
+      "days": 2,
+      "dates": [
+        "11/9",
+        "11/5"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 10,
+      "luw": 1,
+      "luwd": [
+        "11/9"
+      ]
     },
     {
       "symbol": "3715",
@@ -149,7 +161,11 @@
       ],
       "mentions": 2,
       "limitUp": true,
-      "pct": 9.9
+      "pct": 9.9,
+      "luw": 1,
+      "luwd": [
+        "11/9"
+      ]
     },
     {
       "symbol": "6443",
@@ -201,23 +217,12 @@
       "limitUp": false,
       "luw": 5,
       "luwd": [
+        "11/9",
         "11/6",
         "11/5",
         "11/4",
-        "11/3",
-        "11/2"
-      ]
-    },
-    {
-      "symbol": "8996",
-      "name": "高力",
-      "days": 2,
-      "dates": [
-        "11/8",
         "11/3"
-      ],
-      "mentions": 2,
-      "limitUp": false
+      ]
     },
     {
       "symbol": "4958",
@@ -229,143 +234,6 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "6446",
-      "name": "藥華藥",
-      "days": 2,
-      "dates": [
-        "11/6",
-        "11/3"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2360",
-      "name": "致茂",
-      "days": 2,
-      "dates": [
-        "11/6",
-        "11/3"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2408",
-      "name": "南亞科",
-      "days": 2,
-      "dates": [
-        "11/4",
-        "11/3"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2344",
-      "name": "華邦電",
-      "days": 2,
-      "dates": [
-        "11/4",
-        "11/3"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2337",
-      "name": "旺宏",
-      "days": 2,
-      "dates": [
-        "11/4",
-        "11/3"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "6770",
-      "name": "力積電",
-      "days": 2,
-      "dates": [
-        "11/4",
-        "11/3"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3260",
-      "name": "威剛",
-      "days": 2,
-      "dates": [
-        "11/4",
-        "11/3"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3006",
-      "name": "晶豪科",
-      "days": 2,
-      "dates": [
-        "11/4",
-        "11/3"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "4967",
-      "name": "十銓",
-      "days": 2,
-      "dates": [
-        "11/4",
-        "11/3"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "7767",
-      "name": "仁大資訊",
-      "days": 2,
-      "dates": [
-        "11/4",
-        "11/3"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 10
-    },
-    {
-      "symbol": "6697",
-      "name": "東捷資訊",
-      "days": 2,
-      "dates": [
-        "11/4",
-        "11/3"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -8.8,
-      "limitUp": true,
-      "pct": 9.9
-    },
-    {
-      "symbol": "6938",
-      "name": "藍新資訊",
-      "days": 2,
-      "dates": [
-        "11/4",
-        "11/3"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 9.9
     }
   ],
   "news": [
@@ -382,21 +250,33 @@
           "name": "台塑",
           "point": "同步亮燈漲停",
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
         },
         {
           "symbol": "1303",
           "name": "南亞",
           "point": "同步亮燈漲停",
           "limitUp": true,
-          "pct": 9.8
+          "pct": 9.8,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
         },
         {
           "symbol": "1326",
           "name": "台化",
           "point": "同步亮燈漲停",
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
         },
         {
           "symbol": "6505",
@@ -409,14 +289,22 @@
           "name": "福懋科",
           "point": "雙雙亮燈漲停",
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
         },
         {
           "symbol": "3532",
           "name": "台勝科",
           "point": "雙雙亮燈漲停",
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
         }
       ],
       "background": "台塑集團受國安基金護盤激勵，加上部分公司營收回溫，AI電子材料布局也帶來成長潛力。",
@@ -473,7 +361,11 @@
           "name": "華城",
           "point": "美國AIDC變壓器主要供應商",
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
         },
         {
           "symbol": "1514",
@@ -492,7 +384,11 @@
           "name": "士電",
           "point": "AI產業帶動電力需求受益",
           "limitUp": true,
-          "pct": 9.7
+          "pct": 9.7,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
         }
       ],
       "background": "AI產業擴廠帶動電力需求，機電四雄受益。美國部分州長有意暫緩AIDC興建，但廠商認為影響不大，因訂單已確定且美國發展AI共識不變。",
@@ -537,14 +433,22 @@
           "name": "金像電",
           "point": "10月營收創歷史第三高，受惠AI伺服器需求",
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
         },
         {
           "symbol": "3715",
           "name": "定穎投控",
           "point": "10月營收創新高，受惠AI伺服器需求",
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
         }
       ],
       "background": "AI伺服器需求持續帶動PCB產業鏈營運走強，載板與PCB廠受惠新一代AI運算平台導入，營運動能延續。",
@@ -640,7 +544,11 @@
           "symbol": "6869",
           "name": "雲豹能源",
           "point": "看好AIDC大餅",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
         },
         {
           "symbol": "6873",
@@ -661,30 +569,42 @@
           "limitUp": false,
           "luw": 5,
           "luwd": [
+            "11/9",
             "11/6",
             "11/5",
             "11/4",
-            "11/3",
-            "11/2"
+            "11/3"
           ]
         },
         {
           "symbol": "1519",
           "name": "華城",
           "point": "輸配電設備最具優勢",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
         },
         {
           "symbol": "1503",
           "name": "士電",
           "point": "輸配電設備最具優勢",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
         },
         {
           "symbol": "2308",
           "name": "台達電",
           "point": "電力管理、儲能及系統整合需求提升",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
         },
         {
           "symbol": "8996",
@@ -696,7 +616,11 @@
           "symbol": "6282",
           "name": "康舒",
           "point": "電力管理、儲能及系統整合需求提升",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
         }
       ],
       "background": "美國期中選舉後，民主黨掌權預期將改善再生能源產業投資環境，帶動潔淨能源股大漲，台灣太陽能族群受惠翻紅，產業谷底已過。",

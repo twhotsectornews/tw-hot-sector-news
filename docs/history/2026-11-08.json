@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updatedAt": "2026-11-09T10:41:42.982Z",
+  "updatedAt": "2026-11-09T19:44:39.462Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE8wSUowTDFUWUx6NG0yVG41RWROZVlFZml5NDBrUUxyZ0VzQWpTdlBiOEpiWDFZbEhwZTh5U0tsRXNMQ2V5dzFvamQ2NEJZcXNvamZFY21HZzY",
@@ -64,7 +64,11 @@
           "symbol": "6869",
           "name": "雲豹能源",
           "point": "看好AIDC大餅",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
         },
         {
           "symbol": "6873",
@@ -85,30 +89,42 @@
           "limitUp": false,
           "luw": 5,
           "luwd": [
+            "11/9",
             "11/6",
             "11/5",
             "11/4",
-            "11/3",
-            "11/2"
+            "11/3"
           ]
         },
         {
           "symbol": "1519",
           "name": "華城",
           "point": "輸配電設備最具優勢",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
         },
         {
           "symbol": "1503",
           "name": "士電",
           "point": "輸配電設備最具優勢",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
         },
         {
           "symbol": "2308",
           "name": "台達電",
           "point": "電力管理、儲能及系統整合需求提升",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
         },
         {
           "symbol": "8996",
@@ -120,7 +136,11 @@
           "symbol": "6282",
           "name": "康舒",
           "point": "電力管理、儲能及系統整合需求提升",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
         }
       ],
       "background": "美國期中選舉後，民主黨掌權預期將改善再生能源產業投資環境，帶動潔淨能源股大漲，台灣太陽能族群受惠翻紅，產業谷底已過。",
