@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-09T11:06:01.204+08:00",
-  "generatedAt": "2026-11-09T03:06:01.204Z",
+  "asOf": "2026-11-09T12:03:59.486+08:00",
+  "generatedAt": "2026-11-09T04:03:59.486Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -99,6 +99,29 @@
       "limitUp": false
     },
     {
+      "symbol": "1519",
+      "name": "華城",
+      "days": 2,
+      "dates": [
+        "11/9",
+        "11/8"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "1503",
+      "name": "士電",
+      "days": 2,
+      "dates": [
+        "11/9",
+        "11/8"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 9.7
+    },
+    {
       "symbol": "3715",
       "name": "定穎投控",
       "days": 2,
@@ -107,8 +130,7 @@
         "11/5"
       ],
       "mentions": 2,
-      "limitUp": true,
-      "pct": 9.9
+      "limitUp": false
     },
     {
       "symbol": "6443",
@@ -332,6 +354,46 @@
   ],
   "news": [
     {
+      "gid": "CBMikgFBVV95cUxPWDNRYmRfRmFBcGJOdERwUnUyb1NVRDU0aXdqZk5Pd25WSUo3R2xOeWFIVkdKYlRNYWNpSzEzblZqSy0xNWRKemxFM3pPMDk4NVFqUDZ2SG1jLUpmSzU5X3FrT3h4TjVWeW9adU1abWRfOG5ONTlZNC05STBKMHY2T1ZndWcxX25HUmgtajBOTGpMdw",
+      "tkey": "熱門族群新任州長有意暫緩興建AIDC華城、亞力及中興電表態",
+      "title": "《熱門族群》新任州長有意暫緩興建AIDC 華城、亞力及中興電表態 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6353582001&pu=News_0002_3",
+      "source": "富聯網",
+      "pubDate": "Mon, 09 Nov 2026 03:27:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1519",
+          "name": "華城",
+          "point": "美國AIDC變壓器主要供應商",
+          "limitUp": false
+        },
+        {
+          "symbol": "1514",
+          "name": "亞力",
+          "point": "打入晶圓代工龍頭在美新廠供應鏈",
+          "limitUp": false
+        },
+        {
+          "symbol": "1513",
+          "name": "中興電",
+          "point": "提供空調及發電設備應用於AIDC",
+          "limitUp": false
+        },
+        {
+          "symbol": "1503",
+          "name": "士電",
+          "point": "AI產業帶動電力需求受益",
+          "limitUp": true,
+          "pct": 9.7
+        }
+      ],
+      "background": "AI產業擴廠帶動電力需求，機電四雄受益。美國部分州長有意暫緩AIDC興建，但廠商認為影響不大，因訂單已確定且美國發展AI共識不變。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNWVRqS0JLUW5aQ3hvY1FfSTFzbkZ6alp4NEVCMVVHRkI5SXVjcGd5a290aDc4SWpFbndUQjJMN0pPR0tCaWRURzBvV3hJUG1fdWR3d29keVgwVXpfdFVPdjhtd1JDejR4cU1nVXBtVDJXRE51M1poN19ITmNkcnp6NC1RSjJhMFN1",
       "tkey": "熱門族群國安基金進場信心回籠玻纖布走漲停大秀",
       "title": "《熱門族群》國安基金進場信心回籠 玻纖布走漲停大秀 - 富聯網",
@@ -373,8 +435,7 @@
           "symbol": "3715",
           "name": "定穎投控",
           "point": "10月營收創新高，受惠AI伺服器需求",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         }
       ],
       "background": "AI伺服器需求持續帶動PCB產業鏈營運走強，載板與PCB廠受惠新一代AI運算平台導入，營運動能延續。",
