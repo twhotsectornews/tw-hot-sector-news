@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-09T00:47:02.853+08:00",
-  "generatedAt": "2026-11-08T16:47:02.853Z",
+  "asOf": "2026-11-09T11:06:01.204+08:00",
+  "generatedAt": "2026-11-09T03:06:01.204Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -17,6 +17,43 @@
       ],
       "mentions": 6,
       "limitUp": false
+    },
+    {
+      "symbol": "3037",
+      "name": "欣興",
+      "days": 3,
+      "dates": [
+        "11/9",
+        "11/6",
+        "11/5"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "3189",
+      "name": "景碩",
+      "days": 3,
+      "dates": [
+        "11/9",
+        "11/6",
+        "11/5"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2368",
+      "name": "金像電",
+      "days": 3,
+      "dates": [
+        "11/9",
+        "11/5",
+        "11/3"
+      ],
+      "mentions": 3,
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "1326",
@@ -60,6 +97,18 @@
       ],
       "mentions": 3,
       "limitUp": false
+    },
+    {
+      "symbol": "3715",
+      "name": "定穎投控",
+      "days": 2,
+      "dates": [
+        "11/9",
+        "11/5"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "6443",
@@ -133,28 +182,6 @@
       "limitUp": false
     },
     {
-      "symbol": "3037",
-      "name": "欣興",
-      "days": 2,
-      "dates": [
-        "11/6",
-        "11/5"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3189",
-      "name": "景碩",
-      "days": 2,
-      "dates": [
-        "11/6",
-        "11/5"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
       "symbol": "6446",
       "name": "藥華藥",
       "days": 2,
@@ -175,16 +202,6 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "2368",
-      "name": "金像電",
-      "days": 2,
-      "dates": [
-        "11/5",
-        "11/3"
-      ],
-      "mentions": 2
     },
     {
       "symbol": "2408",
@@ -315,6 +332,83 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxNWVRqS0JLUW5aQ3hvY1FfSTFzbkZ6alp4NEVCMVVHRkI5SXVjcGd5a290aDc4SWpFbndUQjJMN0pPR0tCaWRURzBvV3hJUG1fdWR3d29keVgwVXpfdFVPdjhtd1JDejR4cU1nVXBtVDJXRE51M1poN19ITmNkcnp6NC1RSjJhMFN1",
+      "tkey": "熱門族群國安基金進場信心回籠玻纖布走漲停大秀",
+      "title": "《熱門族群》國安基金進場信心回籠 玻纖布走漲停大秀 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6353459001&PU=0033",
+      "source": "富聯網",
+      "pubDate": "Mon, 09 Nov 2026 02:01:00 GMT",
+      "stocks": [],
+      "background": "玻纖布為電子產品基材，國安基金進場有助提振市場信心，帶動相關族群股價表現。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOUTZHNHl2TDh1YVVrZlkwZUJRbWFuR01BTDJEQ2YxTURtdGVnV2ZGMWRMZ0JKUFpFVU5pS1RrdURmT1FlTnA5YjAzbnpWUGhmX2lUc1hVWFExUjNkUDVNU1V2M0p5ZjBqdF9wd0RWa2pSNWhza0ZvUklseGhOeUpBVXpnS0lYa0d2",
+      "tkey": "熱門族群10月營收衝高PCB四雄營運旺到明年",
+      "title": "《熱門族群》10月營收衝高 PCB四雄營運旺到明年 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6353292001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 09 Nov 2026 00:16:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "10月營收創新高，受惠高階ABF載板需求",
+          "limitUp": false
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "10月營收創新高，受惠載板報價延續漲幅",
+          "limitUp": false
+        },
+        {
+          "symbol": "2368",
+          "name": "金像電",
+          "point": "10月營收創歷史第三高，受惠AI伺服器需求",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "3715",
+          "name": "定穎投控",
+          "point": "10月營收創新高，受惠AI伺服器需求",
+          "limitUp": true,
+          "pct": 9.9
+        }
+      ],
+      "background": "AI伺服器需求持續帶動PCB產業鏈營運走強，載板與PCB廠受惠新一代AI運算平台導入，營運動能延續。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNbXhyY05tU0daX0VBekR3YlF4cGxpN3R0eW1SY2xPVU9zUHh3VnJ0YmhFdzNwa1lEMU1MSWdFYzRaUlE5dTMyU2l5TTItVnNwTjVaRWs1RVhjWkt2Sk5KSlQtaXNMYUh5cEZCRWVyLVNXeUdqSk1DNzFDYnMzMmdWU1djWURENVcz",
+      "tkey": "熱門族群AI競賽未改廠務、設備吃香",
+      "title": "《熱門族群》AI競賽未改 廠務、設備吃香 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6353290001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 09 Nov 2026 00:15:00 GMT",
+      "stocks": [],
+      "background": "AI 產業持續發展，帶動相關廠務與設備需求，供應鏈廠商受惠。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQcXdqOWNWRmRRam5KeVBkTDRYWHRHZUh1V2tMU2JUVElDdTg5aVFSUHpFWHE3ZGdBUy1ya1FIZUlkeldPZFFJNTZPMmc4UW9Cb0NVN0MySXVWU3k1dWd5YVBJenplaUNzUzlDam5XNml3SVVsSmN1REYxXzhPdl9MWGtheHEwQkxO",
+      "tkey": "熱門族群BBU三雄10月營收強強滾",
+      "title": "《熱門族群》BBU三雄 10月營收強強滾 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6353291001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 09 Nov 2026 00:15:00 GMT",
+      "stocks": [],
+      "background": "BBU（基地台備用電池）為通訊基礎設施關鍵零組件，受惠5G布建與電信設備升級需求。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiWEFVX3lxTE8wSUowTDFUWUx6NG0yVG41RWROZVlFZml5NDBrUUxyZ0VzQWpTdlBiOEpiWDFZbEhwZTh5U0tsRXNMQ2V5dzFvamQ2NEJZcXNvamZFY21HZzY",
       "tkey": "熱門族群國際油價可望走低資金轉進航空族群",
       "title": "熱門族群》國際油價可望走低 資金轉進航空族群 - 自由時報",
@@ -431,64 +525,6 @@
       "themeTags": [
         "政策關稅",
         "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNNl9GYlpNSzY5ckFIT2hmUjYyRktjbHRIVno0cEhZV1hOSUpydEEtd1haRzBqLTVjcDl4SUVFRGVhQkFVS1pXbFlSNU03M3RYQ1pPei1XcFY1WkE3d01qT3lZMnljbkg5QVRoUUpwVUJwN1VrTVQ5bzdtRGtvMDZheFVfaGQxODlT",
-      "tkey": "熱門族群台塑四寶10月業績年增雙位數",
-      "title": "《熱門族群》台塑四寶10月業績 年增雙位數 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6352098001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Sat, 07 Nov 2026 02:11:00 GMT",
-      "stocks": [
-        {
-          "symbol": "1303",
-          "name": "南亞",
-          "point": "10月營收創近55個月新高，電子材料暢旺",
-          "limitUp": false
-        },
-        {
-          "symbol": "1326",
-          "name": "台塑",
-          "point": "10月營收月增3.8％，年成長16.2％",
-          "limitUp": false
-        },
-        {
-          "symbol": "1301",
-          "name": "台塑化",
-          "point": "10月營收月減10.8％，年增76％",
-          "limitUp": false
-        },
-        {
-          "symbol": "1309",
-          "name": "台化",
-          "point": "10月營收月增7.3％，年成長61.8％",
-          "limitUp": false
-        }
-      ],
-      "background": "台塑四寶受惠於油價、石化行情高檔震盪及電子材料出貨暢旺，南亞電子材料市場需求強勁，資料中心建設高峰期將帶動產業發展。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNMFpoakpXTWxxelZwWm1aSlExTEx2blAwNVo1alNrMlJPTGV6OGpvbVJOSmNHVWFlNEQ5WDg5d2JNMnJIemVFa1BYYmN5UkR3aFI1aE82cjhYUEhIRk1jcXVrQkw1LUh4OW9jZm5OM0tBN1lhQktqY1hOMFVwbExKTU11Y0c4TmZy",
-      "tkey": "熱門族群BBU續強AES明年拚新品放量",
-      "title": "《熱門族群》BBU續強 AES明年拚新品放量 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6352078001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Sat, 07 Nov 2026 01:41:00 GMT",
-      "stocks": [
-        {
-          "symbol": "6781",
-          "name": "AES-KY",
-          "point": "BBU訂單能見度高，明年拚新品放量",
-          "limitUp": false
-        }
-      ],
-      "background": "BBU（電池備援單元）受惠於資料中心AIDC需求增加，高壓產品量產進度受關注，輕型載具、AGV、機器人等新應用市場成長率更高。",
-      "themeTags": [
-        "需求驅動"
       ]
     }
   ]
