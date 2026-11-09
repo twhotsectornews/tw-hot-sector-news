@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updatedAt": "2026-11-09T09:41:49.246Z",
+  "updatedAt": "2026-11-09T10:37:22.634Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE8wSUowTDFUWUx6NG0yVG41RWROZVlFZml5NDBrUUxyZ0VzQWpTdlBiOEpiWDFZbEhwZTh5U0tsRXNMQ2V5dzFvamQ2NEJZcXNvamZFY21HZzY",
@@ -83,11 +83,10 @@
           "name": "碩禾",
           "point": "太陽能耗材供應商，可望受惠產業復甦",
           "limitUp": false,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "11/6",
             "11/5",
-            "11/4",
             "11/3",
             "11/2"
           ]
