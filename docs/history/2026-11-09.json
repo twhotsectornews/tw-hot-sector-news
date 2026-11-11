@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updatedAt": "2026-11-11T04:04:57.834Z",
+  "updatedAt": "2026-11-11T05:06:39.608Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPUEhBbFFVcExHVW83ampZY3czN2d3RUdnakdFQXVjY2VaemY0ajVzUi1OamxGNDVqTF9qX0ltYlo2X3E0V3JVTG9HSFpTOVdueDBwNFgtSlZxdHp4aHRRZjBtTDl3RDR5RzNBNGRCWHlPd0w5X1p0dGhiblJZS09QcVBsNTE0Z0VU",
@@ -13,14 +13,14 @@
         {
           "symbol": "1301",
           "name": "台塑",
-          "point": "國安基金護盤常客，帶頭上漲",
+          "point": "帶頭上漲",
           "luw": 1,
           "luwd": [
             "11/9"
           ]
         }
       ],
-      "background": "國安基金為穩定股市，常選擇大型權值股進行護盤，台塑集團為其常客，顯示政府對市場的信心支持。",
+      "background": "國安基金護盤常客顯示其在市場波動時的穩定性，台塑集團為台灣石化產業龍頭，具備產業指標性。",
       "themeTags": [
         "政策關稅"
       ]
@@ -36,7 +36,7 @@
         {
           "symbol": "1802",
           "name": "台玻",
-          "point": "玻陶族群強勢攻漲停",
+          "point": "強勢攻漲停",
           "status": "逼近新高",
           "dist": -5.5,
           "luw": 2,
@@ -48,13 +48,12 @@
         {
           "symbol": "1809",
           "name": "中釉",
-          "point": "玻陶族群強勢攻漲停"
+          "point": "強勢攻漲停"
         }
       ],
-      "background": "玻陶產業受惠於建築、電子及光電等領域需求復甦，帶動相關產品出貨量增加，產業景氣逐漸回溫。",
+      "background": "玻陶族群受惠於建材、電子等產業需求，台玻、中釉為台灣玻陶產業重要公司，市場買氣熱絡。",
       "themeTags": [
-        "需求驅動",
-        "循環位置"
+        "需求驅動"
       ]
     },
     {

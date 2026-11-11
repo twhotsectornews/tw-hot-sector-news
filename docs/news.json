@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-11T12:04:57.837+08:00",
-  "generatedAt": "2026-11-11T04:04:57.837Z",
+  "asOf": "2026-11-11T13:06:39.611+08:00",
+  "generatedAt": "2026-11-11T05:06:39.611Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -111,6 +111,24 @@
       ],
       "mentions": 5,
       "limitUp": false
+    },
+    {
+      "symbol": "1802",
+      "name": "台玻",
+      "days": 2,
+      "dates": [
+        "11/11",
+        "11/9"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -5.5,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "11/10",
+        "11/9"
+      ]
     },
     {
       "symbol": "2059",
@@ -264,6 +282,59 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxNQzhCUy02SkROcTcxYnhXVTVRakxLbnRqd1ZMVzJodUJZb2VTb2pNZm1lTGpRdG9RaFAwZDlWbF9yR0QxZVVBZ0c1OW5WN2pwUnZTRGNDRFROelBxWEhhRk1GTFNQcVhoc1hWWWFHVlFsQjZTLWk1RXI1VksxVGhBdkVHdE9xRmRh",
+      "tkey": "熱門族群玻纖布族群買氣續旺台玻、富喬攻漲停",
+      "title": "《熱門族群》玻纖布族群買氣續旺 台玻、富喬攻漲停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6357577001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 11 Nov 2026 03:30:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "攻漲停",
+          "status": "逼近新高",
+          "dist": -5.5,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "1808",
+          "name": "富喬",
+          "point": "攻漲停",
+          "limitUp": false
+        }
+      ],
+      "background": "玻纖布為電子產品基材，受惠於電子產業需求，台玻、富喬為台灣玻纖布主要供應商，市場買氣續旺。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMikgFBVV95cUxPektQLXVEQlM0cDF2cU5SSkhYMEV0OTFkX25jYmo1VVZKNFV5elZvVnFRc1JxOWw3MUY2Vzg2djUwOEJQQzlvUWtSMnllUEhYVXBzN0hiTzZRa2plZVBTdmJJY3hVSVI0SzVJWHhEMzNJTjdxSEhpYTFMVEdtZHpHUmo4QUhTRkdERHRqUHNVV0MxQQ",
+      "tkey": "熱門族群上銀報喜！機器人5小福強鎖紅燈",
+      "title": "《熱門族群》上銀報喜！機器人5小福強鎖紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6357575001&pu=News_0002_3",
+      "source": "富聯網",
+      "pubDate": "Wed, 11 Nov 2026 03:25:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2049",
+          "name": "上銀",
+          "point": "報喜",
+          "limitUp": false
+        }
+      ],
+      "background": "機器人產業受惠於自動化趨勢及AI應用擴大，上銀為台灣機器人及自動化設備領導廠商，市場前景看好。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNYjN4YmMzYm1wSE5WNXJCVEJ6T3BzclBiR2ppTU44Mk9CaXFlN0V5TlNmQ0tQa0dDaS1zU1V0YjRKY2RsMjdNTnNtVHUxUmQ1YnpJTUtpVVZXVXZ6OURxbGRqU2c2Mm5NM0VFQkRZM1VIWW1NMFY0bVJoZXFuSndlc3BFVVJxUTdv",
       "tkey": "熱門族群資安行情夯爆智聯服務3漲停驊宏資、仁大資訊亮紅燈",
       "title": "《熱門族群》資安行情夯爆 智聯服務3漲停 驊宏資、仁大資訊亮紅燈 - 富聯網",
@@ -327,8 +398,7 @@
           "symbol": "8272",
           "name": "全景軟體",
           "point": "大漲約半根停板",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "6697",
@@ -336,7 +406,8 @@
           "point": "股價同步走高",
           "status": "逼近新高",
           "dist": -8.5,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "11/10",
