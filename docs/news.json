@@ -1,32 +1,11 @@
 {
-  "asOf": "2026-11-11T11:05:02.659+08:00",
-  "generatedAt": "2026-11-11T03:05:02.659Z",
+  "asOf": "2026-11-11T12:04:57.837+08:00",
+  "generatedAt": "2026-11-11T04:04:57.837Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
-    {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 4,
-      "dates": [
-        "11/9",
-        "11/7",
-        "11/6",
-        "11/5"
-      ],
-      "mentions": 7,
-      "status": "高檔修正",
-      "dist": -11.3,
-      "limitUp": true,
-      "pct": 9.8,
-      "luw": 2,
-      "luwd": [
-        "11/10",
-        "11/9"
-      ]
-    },
     {
       "symbol": "1301",
       "name": "台塑",
@@ -37,29 +16,22 @@
         "11/6"
       ],
       "mentions": 6,
-      "limitUp": true,
-      "pct": 9.9,
       "luw": 1,
       "luwd": [
         "11/9"
       ]
     },
     {
-      "symbol": "1326",
-      "name": "台化",
+      "symbol": "1303",
+      "name": "南亞",
       "days": 3,
       "dates": [
-        "11/9",
         "11/7",
-        "11/6"
+        "11/6",
+        "11/5"
       ],
       "mentions": 6,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 1,
-      "luwd": [
-        "11/9"
-      ]
+      "limitUp": false
     },
     {
       "symbol": "8046",
@@ -130,11 +102,11 @@
       "limitUp": false
     },
     {
-      "symbol": "6505",
-      "name": "台塑化",
+      "symbol": "1326",
+      "name": "台塑",
       "days": 2,
       "dates": [
-        "11/9",
+        "11/7",
         "11/6"
       ],
       "mentions": 5,
@@ -355,7 +327,8 @@
           "symbol": "8272",
           "name": "全景軟體",
           "point": "大漲約半根停板",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6697",

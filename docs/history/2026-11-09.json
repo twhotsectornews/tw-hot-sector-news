@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updatedAt": "2026-11-11T03:05:02.657Z",
+  "updatedAt": "2026-11-11T04:04:57.834Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPUEhBbFFVcExHVW83ampZY3czN2d3RUdnakdFQXVjY2VaemY0ajVzUi1OamxGNDVqTF9qX0ltYlo2X3E0V3JVTG9HSFpTOVdueDBwNFgtSlZxdHp4aHRRZjBtTDl3RDR5RzNBNGRCWHlPd0w5X1p0dGhiblJZS09QcVBsNTE0Z0VU",
@@ -13,70 +13,17 @@
         {
           "symbol": "1301",
           "name": "台塑",
-          "point": "同步亮燈漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "11/9"
-          ]
-        },
-        {
-          "symbol": "1303",
-          "name": "南亞",
-          "point": "同步亮燈漲停",
-          "limitUp": true,
-          "pct": 9.8,
-          "status": "高檔修正",
-          "dist": -11.3,
-          "luw": 2,
-          "luwd": [
-            "11/10",
-            "11/9"
-          ]
-        },
-        {
-          "symbol": "1326",
-          "name": "台化",
-          "point": "同步亮燈漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "11/9"
-          ]
-        },
-        {
-          "symbol": "6505",
-          "name": "台塑化",
-          "point": "終場上漲3%",
-          "limitUp": false
-        },
-        {
-          "symbol": "8131",
-          "name": "福懋科",
-          "point": "雙雙亮燈漲停",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 1,
-          "luwd": [
-            "11/9"
-          ]
-        },
-        {
-          "symbol": "3532",
-          "name": "台勝科",
-          "point": "雙雙亮燈漲停",
-          "limitUp": true,
-          "pct": 9.9,
+          "point": "國安基金護盤常客，帶頭上漲",
           "luw": 1,
           "luwd": [
             "11/9"
           ]
         }
       ],
-      "background": "台塑集團受國安基金護盤激勵，加上部分公司營收回溫，AI電子材料布局也帶來成長潛力。",
-      "themeTags": []
+      "background": "國安基金為穩定股市，常選擇大型權值股進行護盤，台塑集團為其常客，顯示政府對市場的信心支持。",
+      "themeTags": [
+        "政策關稅"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxPUUgxRmxZdkFVNHhiM1dSU1RYYzNFTmhxXzJ5VDh5SXA4RXlKMk1HVHNPdWVyU1RrQUN6Mkk4UXdLQi1HaXlyZ2ktYTUwRTNfRTNJZzlrWm1QeVplNHZDaGhWQ3dfZjFscm5wVDM4VjRxUTZxQnNST3h5RWI4b2podlZwb1V4elQx",
@@ -87,33 +34,27 @@
       "pubDate": "Mon, 09 Nov 2026 05:35:00 GMT",
       "stocks": [
         {
-          "symbol": "1801",
+          "symbol": "1802",
           "name": "台玻",
-          "point": "跳空開高後直奔漲停板",
-          "limitUp": false
+          "point": "玻陶族群強勢攻漲停",
+          "status": "逼近新高",
+          "dist": -5.5,
+          "luw": 2,
+          "luwd": [
+            "11/10",
+            "11/9"
+          ]
         },
         {
           "symbol": "1809",
           "name": "中釉",
-          "point": "鎖在漲停板",
-          "limitUp": false
-        },
-        {
-          "symbol": "1810",
-          "name": "和成",
-          "point": "聯袂攜手揚升",
-          "limitUp": false
-        },
-        {
-          "symbol": "1817",
-          "name": "凱撒衛",
-          "point": "聯袂攜手揚升",
-          "limitUp": false
+          "point": "玻陶族群強勢攻漲停"
         }
       ],
-      "background": "玻陶族群受惠於玻纖布產能擴充與高階電子材料轉型，訂單能見度高，產業景氣復甦。",
+      "background": "玻陶產業受惠於建築、電子及光電等領域需求復甦，帶動相關產品出貨量增加，產業景氣逐漸回溫。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "循環位置"
       ]
     },
     {
