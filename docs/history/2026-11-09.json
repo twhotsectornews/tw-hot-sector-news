@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updatedAt": "2026-11-10T18:13:20.696Z",
+  "updatedAt": "2026-11-11T03:05:02.657Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPUEhBbFFVcExHVW83ampZY3czN2d3RUdnakdFQXVjY2VaemY0ajVzUi1OamxGNDVqTF9qX0ltYlo2X3E0V3JVTG9HSFpTOVdueDBwNFgtSlZxdHp4aHRRZjBtTDl3RDR5RzNBNGRCWHlPd0w5X1p0dGhiblJZS09QcVBsNTE0Z0VU",
@@ -27,6 +27,8 @@
           "point": "同步亮燈漲停",
           "limitUp": true,
           "pct": 9.8,
+          "status": "高檔修正",
+          "dist": -11.3,
           "luw": 2,
           "luwd": [
             "11/10",

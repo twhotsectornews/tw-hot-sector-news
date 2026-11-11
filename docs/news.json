@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-11T02:13:20.700+08:00",
-  "generatedAt": "2026-11-10T18:13:20.700Z",
+  "asOf": "2026-11-11T11:05:02.659+08:00",
+  "generatedAt": "2026-11-11T03:05:02.659Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -17,6 +17,8 @@
         "11/5"
       ],
       "mentions": 7,
+      "status": "高檔修正",
+      "dist": -11.3,
       "limitUp": true,
       "pct": 9.8,
       "luw": 2,
@@ -60,6 +62,50 @@
       ]
     },
     {
+      "symbol": "8046",
+      "name": "南電",
+      "days": 3,
+      "dates": [
+        "11/11",
+        "11/6",
+        "11/5"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "1503",
+      "name": "士電",
+      "days": 3,
+      "dates": [
+        "11/11",
+        "11/9",
+        "11/8"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/9"
+      ]
+    },
+    {
+      "symbol": "1519",
+      "name": "華城",
+      "days": 3,
+      "dates": [
+        "11/11",
+        "11/9",
+        "11/8"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/9"
+      ]
+    },
+    {
       "symbol": "3037",
       "name": "欣興",
       "days": 3,
@@ -95,46 +141,59 @@
       "limitUp": false
     },
     {
-      "symbol": "8046",
-      "name": "南電",
+      "symbol": "2059",
+      "name": "川湖",
       "days": 2,
       "dates": [
-        "11/6",
-        "11/5"
-      ],
-      "mentions": 3
-    },
-    {
-      "symbol": "1519",
-      "name": "華城",
-      "days": 2,
-      "dates": [
-        "11/9",
-        "11/8"
+        "11/11",
+        "11/6"
       ],
       "mentions": 2,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 1,
-      "luwd": [
-        "11/9"
-      ]
+      "limitUp": false
     },
     {
-      "symbol": "1503",
-      "name": "士電",
+      "symbol": "3653",
+      "name": "健策",
       "days": 2,
       "dates": [
-        "11/9",
-        "11/8"
+        "11/11",
+        "11/6"
       ],
       "mentions": 2,
-      "limitUp": true,
-      "pct": 9.7,
-      "luw": 1,
-      "luwd": [
+      "limitUp": false
+    },
+    {
+      "symbol": "5274",
+      "name": "信驊",
+      "days": 2,
+      "dates": [
+        "11/11",
+        "11/6"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "1513",
+      "name": "中興電",
+      "days": 2,
+      "dates": [
+        "11/11",
         "11/9"
-      ]
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "1514",
+      "name": "亞力",
+      "days": 2,
+      "dates": [
+        "11/11",
+        "11/9"
+      ],
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "2368",
@@ -233,6 +292,388 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxNYjN4YmMzYm1wSE5WNXJCVEJ6T3BzclBiR2ppTU44Mk9CaXFlN0V5TlNmQ0tQa0dDaS1zU1V0YjRKY2RsMjdNTnNtVHUxUmQ1YnpJTUtpVVZXVXZ6OURxbGRqU2c2Mm5NM0VFQkRZM1VIWW1NMFY0bVJoZXFuSndlc3BFVVJxUTdv",
+      "tkey": "熱門族群資安行情夯爆智聯服務3漲停驊宏資、仁大資訊亮紅燈",
+      "title": "《熱門族群》資安行情夯爆 智聯服務3漲停 驊宏資、仁大資訊亮紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6357522001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Wed, 11 Nov 2026 02:47:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6751",
+          "name": "智聯服務",
+          "point": "連續3個交易日漲停",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/10",
+            "11/9",
+            "11/6",
+            "11/5",
+            "11/4"
+          ]
+        },
+        {
+          "symbol": "6148",
+          "name": "驊宏資",
+          "point": "盤中攻上漲停",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/10",
+            "11/9",
+            "11/6",
+            "11/5",
+            "11/4"
+          ]
+        },
+        {
+          "symbol": "7767",
+          "name": "仁大資訊",
+          "point": "盤中攻上漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6590",
+          "name": "普鴻",
+          "point": "大漲約半根停板",
+          "status": "高檔修正",
+          "dist": -11.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "2468",
+          "name": "華經",
+          "point": "大漲約半根停板",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/4"
+          ]
+        },
+        {
+          "symbol": "8272",
+          "name": "全景軟體",
+          "point": "大漲約半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "6697",
+          "name": "東捷資訊",
+          "point": "股價同步走高",
+          "status": "逼近新高",
+          "dist": -8.5,
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/10",
+            "11/9",
+            "11/6",
+            "11/5",
+            "11/4"
+          ]
+        },
+        {
+          "symbol": "2480",
+          "name": "敦陽科",
+          "point": "股價同步走高",
+          "status": "逼近新高",
+          "dist": -9.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "6163",
+          "name": "華電網",
+          "point": "股價同步走高",
+          "limitUp": false
+        },
+        {
+          "symbol": "3029",
+          "name": "零壹",
+          "point": "股價同步走高",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/10"
+          ]
+        },
+        {
+          "symbol": "6689",
+          "name": "伊雲谷",
+          "point": "股價同步走高",
+          "limitUp": false
+        }
+      ],
+      "background": "資安事件頻傳，加上生成式AI發展帶動企業對資安檢測、攻防演練及主動防禦服務需求提高，資安產業成為資金追逐焦點。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPUThtVGs5MjF5UXRLQzh1MDBrM0NycUlQRjNsaE9LRG41SVJZUE05Y1RiYm9KdHhhbHZjQzBoRHBxWEhqYzZiU2hta0pxMzg3MUVBWVA2dThpRnhtc2RWNlFPc3JocTdhQUxwbWh1UzFhNlNZT3N4WVFycDhPVmpIekhnWGxzaGVQ",
+      "tkey": "熱門族群五大高價股多空拉鋸！健策、創意強彈川湖難逃賣壓",
+      "title": "《熱門族群》五大高價股多空拉鋸！健策、創意強彈 川湖難逃賣壓 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6357497001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Wed, 11 Nov 2026 02:20:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2059",
+          "name": "川湖",
+          "point": "股價下跌，難逃賣壓",
+          "limitUp": false
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "買盤積極，漲幅超過3%",
+          "limitUp": false
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "point": "買盤積極，漲幅超過3%",
+          "status": "高檔修正",
+          "dist": -11.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "5274",
+          "name": "信驊",
+          "point": "股價上漲逾1%",
+          "limitUp": false
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "股價上漲逾1%",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        }
+      ],
+      "background": "美國聯準會升息訊號影響美股，但台積電ADR逆勢上漲為台股帶來支撐。高價股表現分化，部分受AI伺服器需求帶動。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNRFhJSnR1VGhwQVJENTJJcUZBd0FpZ3E2eC13RGNwWHZrbDJfS2Y4TS1MdktDai1iR3F1bjFLeVVYTzh4eE5ybGlBVFRJQnZPTGdWcFl5ejg3MXl1eU9MZ3BURkF6STFPTnJRZ1hYcVpYNlJhaV9fQ2Z3cWtzd2pTYmxhU2xzU2ND",
+      "tkey": "熱門族群遊戲股10月營收：宇峻站穩2億元橘子年增1成",
+      "title": "《熱門族群》遊戲股10月營收：宇峻站穩2億元 橘子年增1成 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6357212001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Wed, 11 Nov 2026 00:00:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3546",
+          "name": "宇峻",
+          "point": "10月營收年增83.46％，連續3個月站穩2億元",
+          "limitUp": false
+        },
+        {
+          "symbol": "5478",
+          "name": "智冠",
+          "point": "10月營收年增3％，整體營運穩健",
+          "limitUp": false
+        },
+        {
+          "symbol": "6180",
+          "name": "橘子",
+          "point": "10月營收年增10％",
+          "limitUp": false
+        }
+      ],
+      "background": "遊戲股10月營收受新作上市、經典遊戲重製版、主力遊戲改版及雲端資安業務成長帶動。智冠旗下MyCard推出雙11活動。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNbWtsRUhwYThDT2dZS1I1ZTAtZHdyV09VU3N4aHFHWUpDSG4tTmtfU3J3TWQwU2R4eVo4ZVBKNWdkakVYWThMQlZCTXpWZGlVQnNCQlE5azNqS0pLQ1Q2bGFXNm01OHUwakhDdmZ0Zk9LSnV4b3VyUDY4VzEyaEtaQW1zUDJuZkFG",
+      "tkey": "熱門族群機電四雄前十月站高崗",
+      "title": "《熱門族群》機電四雄前十月站高崗 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6357172001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 10 Nov 2026 23:49:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1503",
+          "name": "士電",
+          "point": "前十月營收創同期新高",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "1513",
+          "name": "中興電",
+          "point": "前十月營收創同期新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "1514",
+          "name": "亞力",
+          "point": "前十月營收創同期新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "1519",
+          "name": "華城",
+          "point": "前十月營收寫同期次高",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        }
+      ],
+      "background": "機電四雄受惠於台電強韌電網計畫、半導體業擴建新廠、AI資料中心建設及外銷訂單成長，訂單能見度已看到2029年。",
+      "themeTags": [
+        "政策關稅",
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQeExCTTJxOWZ6RGZsUHFIekNVbVRIR05fQjB6ay1XZmRnSnh3czgyOVpNOFBGcVE2VGRxWkVUcXlpQTR5VDFmUkp3LWs2ZThRNkx4LWVWNnJzRkVtaXY3Ulp5N19Ja3FkR2FGSm5EUEJRVTFseE1IMWhSUkFoeDZZemxCT0Z5Z2pZ",
+      "tkey": "熱門族群記憶體價走勢分化",
+      "title": "《熱門族群》記憶體價 走勢分化 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6357159001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 10 Nov 2026 23:48:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3006",
+          "name": "晶豪科",
+          "point": "未明確點名",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "觀察合約價與出貨變化",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "觀察合約價與出貨變化",
+          "limitUp": false
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "觀察NAND成本、庫存與SSD出貨",
+          "limitUp": false
+        }
+      ],
+      "background": "記憶體市場價格走勢分化，消費型NAND現貨下跌，PC DRAM合約價上漲。北美企業級SSD需求提供支撐，但PC與手機需求偏弱，產業庫存去化中。",
+      "themeTags": [
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPVUZtc3hQVGdZYkRPSkRyRHJoUURsVTl5T3JrRE9Cc3JqWkp3MDhRbWJiOXBMMTB1R0pyTndKNE1LTVB0anJPVTZJUG8xQnRxbWdfSk43VnA5NklFWU9wTFZqV213WmUwZHNTX1kwV3JISS1xQW1obkc0MXUwdUhXbndRM0xSZVRL",
+      "tkey": "熱門族群AMD2奈米CPU上陣台廠吃香",
+      "title": "《熱門族群》AMD 2奈米CPU上陣 台廠吃香 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6357157001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 10 Nov 2026 23:48:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "AMD 2奈米CPU採用N2製程",
+          "status": "逼近新高",
+          "dist": -8.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "2311",
+          "name": "日月光",
+          "point": "參與晶圓級2.5D橋接互連開發",
+          "limitUp": false
+        },
+        {
+          "symbol": "3711",
+          "name": "矽品",
+          "point": "參與晶圓級2.5D橋接互連開發",
+          "limitUp": false
+        },
+        {
+          "symbol": "6239",
+          "name": "力成",
+          "point": "完成面板級EFB互連驗證",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "擴產支援高階載板需求",
+          "limitUp": false
+        }
+      ],
+      "background": "AMD加速布局2奈米伺服器處理器，採用台積電先進製程與CoWoS-L封裝，並擴大與台灣供應鏈的策略合作及先進封裝能力。",
+      "themeTags": [
+        "國際大廠",
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPSGhzTzBkLXdBUmd0Yk1YUUU4TzdhRWRBMXg1MzNCc3hVbGJLQnhaZ3lGM2J2Q09nbktZUUpBU0llN1JMRkd4M2k2aVFsR2p3aTV4eG11TXEwZkNqNlkzdEtrVHlVUXZfUWFyTVZMT1pxSmFXNlN5U2tIblIzX1dNUUlfemdxRHNZ",
+      "tkey": "熱門族群電信獲利王又換人！台灣大10月反超中華電EPS雙冠到手",
+      "title": "《熱門族群》電信獲利王又換人！台灣大10月反超中華電 EPS雙冠到手 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6356863001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 10 Nov 2026 23:29:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2412",
+          "name": "中華電",
+          "point": "10月EPS 0.46元",
+          "status": "逼近新高",
+          "dist": -3.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "point": "10月EPS 0.48元，反超中華電",
+          "status": "逼近新高",
+          "dist": -5.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "point": "10月EPS 0.34元",
+          "status": "逼近新高",
+          "dist": -8.5,
+          "limitUp": false
+        }
+      ],
+      "background": "電信三雄10月獲利表現，台灣大受惠iPhone換機需求、家用寬頻及AIDC貢獻，重新奪回單月獲利王寶座。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNTV9MaXBQMF9ORUUzNFFTak1OcjBOcVJSUkVNcVo0czh2ajAwWS00dnRjME5NWENaaW01N1p2bHNsUUYwVXdaeDFMMV9mdVBKNzQ0QXdFbTBMSFYteWhuYzFGdW5RVzNxSm9fa2lEYkFvX0pYejhOQVRTQVR0S3dNVldpUnVURkhS",
       "tkey": "熱門族群千金股重返40檔11檔猛將收盤齊聚漲停榜",
       "title": "《熱門族群》千金股重返40檔 11檔猛將收盤齊聚漲停榜 - 富聯網",
@@ -252,254 +693,6 @@
       "pubDate": "Tue, 10 Nov 2026 02:10:00 GMT",
       "stocks": [],
       "background": "近期駭客事件頻傳，資安議題受市場高度關注，帶動資安類股買氣急升，多檔個股漲停。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxPUEhBbFFVcExHVW83ampZY3czN2d3RUdnakdFQXVjY2VaemY0ajVzUi1OamxGNDVqTF9qX0ltYlo2X3E0V3JVTG9HSFpTOVdueDBwNFgtSlZxdHp4aHRRZjBtTDl3RDR5RzNBNGRCWHlPd0w5X1p0dGhiblJZS09QcVBsNTE0Z0VU",
-      "tkey": "熱門族群國安基金護盤常客！台塑帶頭、3檔漲停作收",
-      "title": "《熱門族群》國安基金護盤常客！台塑帶頭、3檔漲停作收 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6353757001&PU=0033",
-      "source": "富聯網",
-      "pubDate": "Mon, 09 Nov 2026 05:50:00 GMT",
-      "stocks": [
-        {
-          "symbol": "1301",
-          "name": "台塑",
-          "point": "同步亮燈漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "11/9"
-          ]
-        },
-        {
-          "symbol": "1303",
-          "name": "南亞",
-          "point": "同步亮燈漲停",
-          "limitUp": true,
-          "pct": 9.8,
-          "luw": 2,
-          "luwd": [
-            "11/10",
-            "11/9"
-          ]
-        },
-        {
-          "symbol": "1326",
-          "name": "台化",
-          "point": "同步亮燈漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "11/9"
-          ]
-        },
-        {
-          "symbol": "6505",
-          "name": "台塑化",
-          "point": "終場上漲3%",
-          "limitUp": false
-        },
-        {
-          "symbol": "8131",
-          "name": "福懋科",
-          "point": "雙雙亮燈漲停",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 1,
-          "luwd": [
-            "11/9"
-          ]
-        },
-        {
-          "symbol": "3532",
-          "name": "台勝科",
-          "point": "雙雙亮燈漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 1,
-          "luwd": [
-            "11/9"
-          ]
-        }
-      ],
-      "background": "台塑集團受國安基金護盤激勵，加上部分公司營收回溫，AI電子材料布局也帶來成長潛力。",
-      "themeTags": []
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxPUUgxRmxZdkFVNHhiM1dSU1RYYzNFTmhxXzJ5VDh5SXA4RXlKMk1HVHNPdWVyU1RrQUN6Mkk4UXdLQi1HaXlyZ2ktYTUwRTNfRTNJZzlrWm1QeVplNHZDaGhWQ3dfZjFscm5wVDM4VjRxUTZxQnNST3h5RWI4b2podlZwb1V4elQx",
-      "tkey": "熱門族群玻陶族群集體噴出台玻、中釉強勢攻漲停",
-      "title": "《熱門族群》玻陶族群集體噴出 台玻、中釉強勢攻漲停 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6353707001&PU=0031",
-      "source": "富聯網",
-      "pubDate": "Mon, 09 Nov 2026 05:35:00 GMT",
-      "stocks": [
-        {
-          "symbol": "1801",
-          "name": "台玻",
-          "point": "跳空開高後直奔漲停板",
-          "limitUp": false
-        },
-        {
-          "symbol": "1809",
-          "name": "中釉",
-          "point": "鎖在漲停板",
-          "limitUp": false
-        },
-        {
-          "symbol": "1810",
-          "name": "和成",
-          "point": "聯袂攜手揚升",
-          "limitUp": false
-        },
-        {
-          "symbol": "1817",
-          "name": "凱撒衛",
-          "point": "聯袂攜手揚升",
-          "limitUp": false
-        }
-      ],
-      "background": "玻陶族群受惠於玻纖布產能擴充與高階電子材料轉型，訂單能見度高，產業景氣復甦。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMikgFBVV95cUxPWDNRYmRfRmFBcGJOdERwUnUyb1NVRDU0aXdqZk5Pd25WSUo3R2xOeWFIVkdKYlRNYWNpSzEzblZqSy0xNWRKemxFM3pPMDk4NVFqUDZ2SG1jLUpmSzU5X3FrT3h4TjVWeW9adU1abWRfOG5ONTlZNC05STBKMHY2T1ZndWcxX25HUmgtajBOTGpMdw",
-      "tkey": "熱門族群新任州長有意暫緩興建AIDC華城、亞力及中興電表態",
-      "title": "《熱門族群》新任州長有意暫緩興建AIDC 華城、亞力及中興電表態 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6353582001&pu=News_0002_3",
-      "source": "富聯網",
-      "pubDate": "Mon, 09 Nov 2026 03:27:00 GMT",
-      "stocks": [
-        {
-          "symbol": "1519",
-          "name": "華城",
-          "point": "美國AIDC變壓器主要供應商",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 1,
-          "luwd": [
-            "11/9"
-          ]
-        },
-        {
-          "symbol": "1514",
-          "name": "亞力",
-          "point": "打入晶圓代工龍頭在美新廠供應鏈",
-          "limitUp": false
-        },
-        {
-          "symbol": "1513",
-          "name": "中興電",
-          "point": "提供空調及發電設備應用於AIDC",
-          "limitUp": false
-        },
-        {
-          "symbol": "1503",
-          "name": "士電",
-          "point": "AI產業帶動電力需求受益",
-          "limitUp": true,
-          "pct": 9.7,
-          "luw": 1,
-          "luwd": [
-            "11/9"
-          ]
-        }
-      ],
-      "background": "AI產業擴廠帶動電力需求，機電四雄受益。美國部分州長有意暫緩AIDC興建，但廠商認為影響不大，因訂單已確定且美國發展AI共識不變。",
-      "themeTags": [
-        "需求驅動",
-        "政策關稅"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNWVRqS0JLUW5aQ3hvY1FfSTFzbkZ6alp4NEVCMVVHRkI5SXVjcGd5a290aDc4SWpFbndUQjJMN0pPR0tCaWRURzBvV3hJUG1fdWR3d29keVgwVXpfdFVPdjhtd1JDejR4cU1nVXBtVDJXRE51M1poN19ITmNkcnp6NC1RSjJhMFN1",
-      "tkey": "熱門族群國安基金進場信心回籠玻纖布走漲停大秀",
-      "title": "《熱門族群》國安基金進場信心回籠 玻纖布走漲停大秀 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6353459001&PU=0033",
-      "source": "富聯網",
-      "pubDate": "Mon, 09 Nov 2026 02:01:00 GMT",
-      "stocks": [],
-      "background": "玻纖布為電子產品基材，國安基金進場有助提振市場信心，帶動相關族群股價表現。",
-      "themeTags": []
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxOUTZHNHl2TDh1YVVrZlkwZUJRbWFuR01BTDJEQ2YxTURtdGVnV2ZGMWRMZ0JKUFpFVU5pS1RrdURmT1FlTnA5YjAzbnpWUGhmX2lUc1hVWFExUjNkUDVNU1V2M0p5ZjBqdF9wd0RWa2pSNWhza0ZvUklseGhOeUpBVXpnS0lYa0d2",
-      "tkey": "熱門族群10月營收衝高PCB四雄營運旺到明年",
-      "title": "《熱門族群》10月營收衝高 PCB四雄營運旺到明年 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6353292001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Mon, 09 Nov 2026 00:16:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3037",
-          "name": "欣興",
-          "point": "10月營收創新高，受惠高階ABF載板需求",
-          "limitUp": false
-        },
-        {
-          "symbol": "3189",
-          "name": "景碩",
-          "point": "10月營收創新高，受惠載板報價延續漲幅",
-          "limitUp": false
-        },
-        {
-          "symbol": "2368",
-          "name": "金像電",
-          "point": "10月營收創歷史第三高，受惠AI伺服器需求",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 2,
-          "luwd": [
-            "11/10",
-            "11/9"
-          ]
-        },
-        {
-          "symbol": "3715",
-          "name": "定穎投控",
-          "point": "10月營收創新高，受惠AI伺服器需求",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 2,
-          "luwd": [
-            "11/10",
-            "11/9"
-          ]
-        }
-      ],
-      "background": "AI伺服器需求持續帶動PCB產業鏈營運走強，載板與PCB廠受惠新一代AI運算平台導入，營運動能延續。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNbXhyY05tU0daX0VBekR3YlF4cGxpN3R0eW1SY2xPVU9zUHh3VnJ0YmhFdzNwa1lEMU1MSWdFYzRaUlE5dTMyU2l5TTItVnNwTjVaRWs1RVhjWkt2Sk5KSlQtaXNMYUh5cEZCRWVyLVNXeUdqSk1DNzFDYnMzMmdWU1djWURENVcz",
-      "tkey": "熱門族群AI競賽未改廠務、設備吃香",
-      "title": "《熱門族群》AI競賽未改 廠務、設備吃香 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6353290001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Mon, 09 Nov 2026 00:15:00 GMT",
-      "stocks": [],
-      "background": "AI 產業持續發展，帶動相關廠務與設備需求，供應鏈廠商受惠。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxQcXdqOWNWRmRRam5KeVBkTDRYWHRHZUh1V2tMU2JUVElDdTg5aVFSUHpFWHE3ZGdBUy1ya1FIZUlkeldPZFFJNTZPMmc4UW9Cb0NVN0MySXVWU3k1dWd5YVBJenplaUNzUzlDam5XNml3SVVsSmN1REYxXzhPdl9MWGtheHEwQkxO",
-      "tkey": "熱門族群BBU三雄10月營收強強滾",
-      "title": "《熱門族群》BBU三雄 10月營收強強滾 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6353291001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Mon, 09 Nov 2026 00:15:00 GMT",
-      "stocks": [],
-      "background": "BBU（基地台備用電池）為通訊基礎設施關鍵零組件，受惠5G布建與電信設備升級需求。",
       "themeTags": [
         "需求驅動"
       ]
