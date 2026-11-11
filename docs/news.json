@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-11T13:06:39.611+08:00",
-  "generatedAt": "2026-11-11T05:06:39.611Z",
+  "asOf": "2026-11-11T14:06:56.703+08:00",
+  "generatedAt": "2026-11-11T06:06:56.703Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -123,7 +123,8 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -5.5,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 2,
       "luwd": [
         "11/10",
@@ -295,7 +296,8 @@
           "point": "攻漲停",
           "status": "逼近新高",
           "dist": -5.5,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 2,
           "luwd": [
             "11/10",
@@ -346,7 +348,8 @@
           "symbol": "6751",
           "name": "智聯服務",
           "point": "連續3個交易日漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "11/10",
@@ -360,7 +363,8 @@
           "symbol": "6148",
           "name": "驊宏資",
           "point": "盤中攻上漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "11/10",
@@ -407,7 +411,7 @@
           "status": "逼近新高",
           "dist": -8.5,
           "limitUp": true,
-          "pct": 10,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "11/10",
@@ -479,7 +483,8 @@
           "point": "買盤積極，漲幅超過3%",
           "status": "高檔修正",
           "dist": -11.1,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "5274",
@@ -676,6 +681,44 @@
       "background": "AMD加速布局2奈米伺服器處理器，採用台積電先進製程與CoWoS-L封裝，並擴大與台灣供應鏈的策略合作及先進封裝能力。",
       "themeTags": [
         "國際大廠",
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTE5XUXNhMkZ1dWNTdDQtcDlmVUVjUzRBeXJfYS11OW5kVTV1SDBkc2ZsRll5TElIOFY2VDh4RHlnc1YtdGw4Z0hJSmoxQlNhT0lSM3V3WGxfTXR1Z2syaXVVaHphbnFYZnpqOHc",
+      "tkey": "熱門族群電信獲利王又換人！台灣大10月反超中華電EPS雙冠到手-上市櫃",
+      "title": "《熱門族群》電信獲利王又換人！台灣大10月反超中華電EPS雙冠到手- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20261111900024-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Tue, 10 Nov 2026 23:39:23 GMT",
+      "stocks": [
+        {
+          "symbol": "2412",
+          "name": "中華電",
+          "point": "10月EPS 0.46元，累計EPS 4.71元",
+          "status": "逼近新高",
+          "dist": -3.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "point": "10月EPS 0.48元，累計EPS 4.74元",
+          "status": "逼近新高",
+          "dist": -5.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "point": "10月EPS 0.34元，累計EPS 3.50元",
+          "status": "逼近新高",
+          "dist": -7.7,
+          "limitUp": false
+        }
+      ],
+      "background": "電信三雄獲利競賽，台灣大10月EPS反超中華電，奪回單月獲利王。AI需求成長挹注獲利。",
+      "themeTags": [
         "需求驅動"
       ]
     },
