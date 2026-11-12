@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-12",
+  "updatedAt": "2026-11-12T17:31:21.094Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNT0x3a0FsdUVibDJkTHVrbVNSeDQ4Sy1fQ2I0RENVUUM3M3RTWmVyMWxCeGVueTZDZU9sS0JXU0NNR1BEZ2NULUR6enVzVExicVlQZXFJQV9aWHRGT3dlVllNSDRwT0t2cHcxZlZBSWJuRkthdThxLUZJUERSZWR1TUk2SDhaUGdW",
+      "tkey": "熱門族群玻纖布三強續攻台玻爆量漲停創新高",
+      "title": "《熱門族群》玻纖布三強續攻 台玻爆量漲停創新高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6358759001&PU=0033",
+      "source": "富聯網",
+      "pubDate": "Thu, 12 Nov 2026 03:40:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "爆量漲停創新高價",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "11/11",
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "早盤續攻翻黑",
+          "status": "高檔修正",
+          "dist": -12.6,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "早盤續攻翻黑",
+          "status": "高檔修正",
+          "dist": -13.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "3044",
+          "name": "健鼎",
+          "point": "挾業績利多再拉漲停",
+          "status": "逼近新高",
+          "dist": -5.3,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/11"
+          ]
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "MSCI納入股價震盪下壓",
+          "limitUp": false
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "MSCI納入股價震盪下壓",
+          "limitUp": false
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "MSCI納入股價震盪下壓",
+          "limitUp": false
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "隨台股續彈",
+          "limitUp": false
+        }
+      ],
+      "background": "玻纖布與銅箔基板受惠於AI伺服器與PCB產業景氣復甦，供需結構吃緊，帶動相關個股股價上漲。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    }
+  ]
+}
