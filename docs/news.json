@@ -1,11 +1,30 @@
 {
-  "asOf": "2026-11-12T11:03:58.915+08:00",
-  "generatedAt": "2026-11-12T03:03:58.915Z",
+  "asOf": "2026-11-12T12:06:11.311+08:00",
+  "generatedAt": "2026-11-12T04:06:11.311Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 3,
+      "dates": [
+        "11/12",
+        "11/7",
+        "11/6"
+      ],
+      "mentions": 6,
+      "status": "高檔修正",
+      "dist": -12.6,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "11/10",
+        "11/9"
+      ]
+    },
     {
       "symbol": "1301",
       "name": "台塑",
@@ -20,6 +39,50 @@
       "luwd": [
         "11/9"
       ]
+    },
+    {
+      "symbol": "8046",
+      "name": "南電",
+      "days": 3,
+      "dates": [
+        "11/12",
+        "11/11",
+        "11/6"
+      ],
+      "mentions": 4,
+      "limitUp": false
+    },
+    {
+      "symbol": "1802",
+      "name": "台玻",
+      "days": 3,
+      "dates": [
+        "11/12",
+        "11/11",
+        "11/9"
+      ],
+      "mentions": 3,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": false,
+      "luw": 3,
+      "luwd": [
+        "11/11",
+        "11/10",
+        "11/9"
+      ]
+    },
+    {
+      "symbol": "3189",
+      "name": "景碩",
+      "days": 3,
+      "dates": [
+        "11/12",
+        "11/9",
+        "11/6"
+      ],
+      "mentions": 3,
+      "limitUp": false
     },
     {
       "symbol": "1503",
@@ -54,17 +117,6 @@
       ]
     },
     {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 2,
-      "dates": [
-        "11/7",
-        "11/6"
-      ],
-      "mentions": 5,
-      "limitUp": false
-    },
-    {
       "symbol": "1326",
       "name": "台塑",
       "days": 2,
@@ -74,37 +126,6 @@
       ],
       "mentions": 5,
       "limitUp": false
-    },
-    {
-      "symbol": "8046",
-      "name": "南電",
-      "days": 2,
-      "dates": [
-        "11/11",
-        "11/6"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "1802",
-      "name": "台玻",
-      "days": 2,
-      "dates": [
-        "11/11",
-        "11/9"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -5.5,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 3,
-      "luwd": [
-        "11/11",
-        "11/10",
-        "11/9"
-      ]
     },
     {
       "symbol": "2059",
@@ -171,20 +192,103 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "3189",
-      "name": "景碩",
-      "days": 2,
-      "dates": [
-        "11/9",
-        "11/6"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNT0x3a0FsdUVibDJkTHVrbVNSeDQ4Sy1fQ2I0RENVUUM3M3RTWmVyMWxCeGVueTZDZU9sS0JXU0NNR1BEZ2NULUR6enVzVExicVlQZXFJQV9aWHRGT3dlVllNSDRwT0t2cHcxZlZBSWJuRkthdThxLUZJUERSZWR1TUk2SDhaUGdW",
+      "tkey": "熱門族群玻纖布三強續攻台玻爆量漲停創新高",
+      "title": "《熱門族群》玻纖布三強續攻 台玻爆量漲停創新高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6358759001&PU=0033",
+      "source": "富聯網",
+      "pubDate": "Thu, 12 Nov 2026 03:40:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "爆量漲停創新高價",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false,
+          "luw": 3,
+          "luwd": [
+            "11/11",
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "早盤續攻翻黑",
+          "status": "高檔修正",
+          "dist": -12.6,
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "早盤續攻翻黑",
+          "status": "高檔修正",
+          "dist": -13.3,
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/11",
+            "11/10",
+            "11/9",
+            "11/6",
+            "11/5"
+          ]
+        },
+        {
+          "symbol": "3044",
+          "name": "健鼎",
+          "point": "挾業績利多再拉漲停",
+          "status": "逼近新高",
+          "dist": -5.3,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/11"
+          ]
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "MSCI納入股價震盪下壓",
+          "limitUp": false
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "MSCI納入股價震盪下壓",
+          "limitUp": false
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "MSCI納入股價震盪下壓",
+          "limitUp": false
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "隨台股續彈",
+          "limitUp": false
+        }
+      ],
+      "background": "玻纖布與銅箔基板受惠於AI伺服器與PCB產業景氣復甦，供需結構吃緊，帶動相關個股股價上漲。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNQzhCUy02SkROcTcxYnhXVTVRakxLbnRqd1ZMVzJodUJZb2VTb2pNZm1lTGpRdG9RaFAwZDlWbF9yR0QxZVVBZ0c1OW5WN2pwUnZTRGNDRFROelBxWEhhRk1GTFNQcVhoc1hWWWFHVlFsQjZTLWk1RXI1VksxVGhBdkVHdE9xRmRh",
       "tkey": "熱門族群玻纖布族群買氣續旺台玻、富喬攻漲停",
@@ -678,30 +782,6 @@
         }
       ],
       "background": "電信三雄10月獲利表現，台灣大受惠iPhone換機需求、家用寬頻及AIDC貢獻，重新奪回單月獲利王寶座。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNTV9MaXBQMF9ORUUzNFFTak1OcjBOcVJSUkVNcVo0czh2ajAwWS00dnRjME5NWENaaW01N1p2bHNsUUYwVXdaeDFMMV9mdVBKNzQ0QXdFbTBMSFYteWhuYzFGdW5RVzNxSm9fa2lEYkFvX0pYejhOQVRTQVR0S3dNVldpUnVURkhS",
-      "tkey": "熱門族群千金股重返40檔11檔猛將收盤齊聚漲停榜",
-      "title": "《熱門族群》千金股重返40檔 11檔猛將收盤齊聚漲停榜 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6355800001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Tue, 10 Nov 2026 06:10:00 GMT",
-      "stocks": [],
-      "background": "台股千金股數量重返高點，顯示市場對高價股的追捧熱度，且多檔個股收盤漲停，反映資金動能強勁。",
-      "themeTags": []
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxPOXdxWTdjN0I2WHpBV0N0bHhYX1lueU9BY1RjcVBBbEtTVVZ1QXc3amI0Wm1VMG9LQS1Qa25KVUQ3LWRoaVJNNzh1djdoSkY5VlFnTEF4ODQtVUkxUmJleUVOYzB0ck54T2lJdGlUNTB4cEpPLUFvTGxPZVhpWHNfMER5RkVuT1h1",
-      "tkey": "熱門族群駭客事件連環爆資安股噴出5漲停、買氣急升",
-      "title": "《熱門族群》駭客事件連環爆 資安股噴出5漲停、買氣急升 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6355366001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Tue, 10 Nov 2026 02:10:00 GMT",
-      "stocks": [],
-      "background": "近期駭客事件頻傳，資安議題受市場高度關注，帶動資安類股買氣急升，多檔個股漲停。",
       "themeTags": [
         "需求驅動"
       ]
