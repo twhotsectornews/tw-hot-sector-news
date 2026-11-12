@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updatedAt": "2026-11-12T04:06:11.308Z",
+  "updatedAt": "2026-11-12T05:07:56.652Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNTV9MaXBQMF9ORUUzNFFTak1OcjBOcVJSUkVNcVo0czh2ajAwWS00dnRjME5NWENaaW01N1p2bHNsUUYwVXdaeDFMMV9mdVBKNzQ0QXdFbTBMSFYteWhuYzFGdW5RVzNxSm9fa2lEYkFvX0pYejhOQVRTQVR0S3dNVldpUnVURkhS",
@@ -9,8 +9,130 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6355800001&PU=1002",
       "source": "富聯網",
       "pubDate": "Tue, 10 Nov 2026 06:10:00 GMT",
-      "stocks": [],
-      "background": "台股千金股數量重返高點，顯示市場對高價股的追捧熱度，且多檔個股收盤漲停，反映資金動能強勁。",
+      "stocks": [
+        {
+          "symbol": "5274",
+          "name": "信驊",
+          "point": "股王走跌"
+        },
+        {
+          "symbol": "3661",
+          "name": "世芯-KY",
+          "point": "盤初迅速亮燈漲停",
+          "luw": 2,
+          "luwd": [
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "7828",
+          "name": "創新服務",
+          "point": "盤初迅速亮燈漲停",
+          "luw": 5,
+          "luwd": [
+            "11/11",
+            "11/10",
+            "11/9",
+            "11/6",
+            "11/5"
+          ]
+        },
+        {
+          "symbol": "3081",
+          "name": "聯亞",
+          "point": "盤初迅速亮燈漲停"
+        },
+        {
+          "symbol": "6223",
+          "name": "旺矽",
+          "point": "亮燈漲停",
+          "luw": 5,
+          "luwd": [
+            "11/11",
+            "11/10",
+            "11/9",
+            "11/6",
+            "11/5"
+          ]
+        },
+        {
+          "symbol": "3017",
+          "name": "奇鋐",
+          "point": "亮燈漲停",
+          "luw": 2,
+          "luwd": [
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "6510",
+          "name": "精測",
+          "point": "亮燈漲停",
+          "luw": 5,
+          "luwd": [
+            "11/11",
+            "11/10",
+            "11/9",
+            "11/6",
+            "11/5"
+          ]
+        },
+        {
+          "symbol": "3529",
+          "name": "力旺",
+          "point": "亮燈漲停"
+        },
+        {
+          "symbol": "2345",
+          "name": "智邦",
+          "point": "亮燈漲停",
+          "luw": 2,
+          "luwd": [
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "8996",
+          "name": "高力",
+          "point": "亮燈漲停",
+          "luw": 1,
+          "luwd": [
+            "11/10"
+          ]
+        },
+        {
+          "symbol": "3491",
+          "name": "昇達科",
+          "point": "亮燈漲停",
+          "luw": 5,
+          "luwd": [
+            "11/11",
+            "11/10",
+            "11/9",
+            "11/6",
+            "11/5"
+          ]
+        },
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "point": "亮燈漲停",
+          "luw": 2,
+          "luwd": [
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "5269",
+          "name": "祥碩",
+          "point": "意外跌停"
+        }
+      ],
+      "background": "千金股受美股科技股反彈帶動，台股大盤強勢攻高，但面臨賣壓與新台幣貶值影響，後續走勢需觀察籌碼與國際市場變化。",
       "themeTags": []
     },
     {
