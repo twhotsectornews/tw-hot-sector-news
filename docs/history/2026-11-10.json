@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updatedAt": "2026-11-12T05:07:56.652Z",
+  "updatedAt": "2026-11-12T06:06:36.287Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNTV9MaXBQMF9ORUUzNFFTak1OcjBOcVJSUkVNcVo0czh2ajAwWS00dnRjME5NWENaaW01N1p2bHNsUUYwVXdaeDFMMV9mdVBKNzQ0QXdFbTBMSFYteWhuYzFGdW5RVzNxSm9fa2lEYkFvX0pYejhOQVRTQVR0S3dNVldpUnVURkhS",
@@ -132,8 +132,10 @@
           "point": "意外跌停"
         }
       ],
-      "background": "千金股受美股科技股反彈帶動，台股大盤強勢攻高，但面臨賣壓與新台幣貶值影響，後續走勢需觀察籌碼與國際市場變化。",
-      "themeTags": []
+      "background": "千金股受美股科技股反彈帶動，台股大盤強勁攻勢，但後續仍需觀察國際市場變化與籌碼面。AI科技股止跌穩固是關鍵。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxPOXdxWTdjN0I2WHpBV0N0bHhYX1lueU9BY1RjcVBBbEtTVVZ1QXc3amI0Wm1VMG9LQS1Qa25KVUQ3LWRoaVJNNzh1djdoSkY5VlFnTEF4ODQtVUkxUmJleUVOYzB0ck54T2lJdGlUNTB4cEpPLUFvTGxPZVhpWHNfMER5RkVuT1h1",
