@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-13T13:09:24.083+08:00",
-  "generatedAt": "2026-11-13T05:09:24.083Z",
+  "asOf": "2026-11-13T14:02:38.016+08:00",
+  "generatedAt": "2026-11-13T06:02:38.016Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -111,7 +111,8 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -1.2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.5,
       "luw": 1,
       "luwd": [
         "11/11"
@@ -155,7 +156,7 @@
       ],
       "mentions": 2,
       "limitUp": true,
-      "pct": 9.9,
+      "pct": 9.5,
       "luw": 2,
       "luwd": [
         "11/10",
@@ -320,7 +321,8 @@
           "point": "客戶自研3奈米CPU下半年放量",
           "status": "逼近新高",
           "dist": -1.2,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.5,
           "luw": 1,
           "luwd": [
             "11/11"
@@ -376,7 +378,8 @@
           "point": "開盤攻上漲停，超車川湖登股后",
           "status": "逼近新高",
           "dist": -1.2,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.5,
           "luw": 1,
           "luwd": [
             "11/11"
@@ -407,7 +410,7 @@
           "name": "奇鋐",
           "point": "接力亮燈漲停",
           "limitUp": true,
-          "pct": 9.9,
+          "pct": 9.5,
           "luw": 2,
           "luwd": [
             "11/10",
