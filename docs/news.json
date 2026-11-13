@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-13T11:08:41.364+08:00",
-  "generatedAt": "2026-11-13T03:08:41.364Z",
+  "asOf": "2026-11-13T12:06:09.758+08:00",
+  "generatedAt": "2026-11-13T04:06:09.758Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -93,7 +93,8 @@
         "11/10"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 2,
       "luwd": [
         "11/10",
@@ -126,8 +127,7 @@
         "11/11"
       ],
       "mentions": 2,
-      "limitUp": true,
-      "pct": 10,
+      "limitUp": false,
       "luw": 1,
       "luwd": [
         "11/9"
@@ -295,7 +295,8 @@
           "symbol": "3661",
           "name": "世芯-KY",
           "point": "開盤攻上漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 2,
           "luwd": [
             "11/10",
@@ -318,8 +319,7 @@
           "symbol": "3008",
           "name": "大立光",
           "point": "接力亮燈漲停",
-          "limitUp": true,
-          "pct": 10,
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "11/9"
@@ -361,8 +361,7 @@
           "symbol": "3406",
           "name": "玉晶光",
           "point": "同步漲停",
-          "limitUp": true,
-          "pct": 9.7,
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "11/11"
