@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updatedAt": "2026-11-12T18:34:52.391Z",
+  "updatedAt": "2026-11-13T03:08:41.362Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNQzhCUy02SkROcTcxYnhXVTVRakxLbnRqd1ZMVzJodUJZb2VTb2pNZm1lTGpRdG9RaFAwZDlWbF9yR0QxZVVBZ0c1OW5WN2pwUnZTRGNDRFROelBxWEhhRk1GTFNQcVhoc1hWWWFHVlFsQjZTLWk1RXI1VksxVGhBdkVHdE9xRmRh",
@@ -71,11 +71,10 @@
           "point": "連續3個交易日漲停",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "11/12",
             "11/11",
-            "11/10",
             "11/9",
             "11/6"
           ]
