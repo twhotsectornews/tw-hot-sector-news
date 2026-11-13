@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-13T14:02:38.016+08:00",
-  "generatedAt": "2026-11-13T06:02:38.016Z",
+  "asOf": "2026-11-13T17:42:52.498+08:00",
+  "generatedAt": "2026-11-13T09:42:52.498Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -286,6 +286,74 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxObjFaXzJYeXZjdHJjME9uOFFSWjNvVzFKNU5xNkNXWTdRUzF3UG5ZTjlHMjMyYUdUeWt1UHpEdGhkOU94NVltX0VtY3NBSTJWVGUzbTNqOVhFVmZGRTZyY19PYzNZYTlmUVM4eENwX3dXUVozS0pPWFM4NXdBbUxYWVBXMXA1UGNv",
+      "tkey": "熱門族群金控股全面點火收紅中信金創天價",
+      "title": "《熱門族群》金控股全面點火收紅 中信金創天價 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6360071001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 13 Nov 2026 05:48:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2891",
+          "name": "中信金",
+          "point": "創天價、暫居獲利雙冠王",
+          "status": "逼近新高",
+          "dist": -1.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "2880",
+          "name": "華南金",
+          "point": "盤中漲幅逾2%",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false
+        },
+        {
+          "symbol": "2881",
+          "name": "富邦金",
+          "point": "盤中漲幅逾2%",
+          "status": "逼近新高",
+          "dist": -1.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "2882",
+          "name": "國泰金",
+          "point": "盤中漲幅逾2%",
+          "status": "逼近新高",
+          "dist": -3,
+          "limitUp": false
+        },
+        {
+          "symbol": "2883",
+          "name": "凱基金",
+          "point": "盤中漲幅逾2%",
+          "status": "高檔修正",
+          "dist": -11,
+          "limitUp": false
+        },
+        {
+          "symbol": "2884",
+          "name": "玉山金",
+          "point": "盤中漲幅逾2%",
+          "status": "逼近新高",
+          "dist": -3.6,
+          "limitUp": false
+        },
+        {
+          "symbol": "2887",
+          "name": "台新新光金",
+          "point": "盤中漲幅逾2%",
+          "status": "逼近新高",
+          "dist": -9.2,
+          "limitUp": false
+        }
+      ],
+      "background": "金控股受惠於10月獲利表現亮眼，多檔大型金控同步走強，法人持續加碼，成為盤面重要支撐。",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxOdFlqR2p2VF9qVWp0VXBlRWR4RmZmVmZoZzNyVVkxbVhELTdFV3F0Tk5mMGhzYllCdW5JNTZ1REV4R3R3QXZUaks5NWFuVm1KcWkxeDBfeEEtZU1KTUNuUFgwbXRmVl9HLXgtNW00emhnYnduRWkzbExMWG1mejd0eDEtbUFPRzl0",
       "tkey": "熱門族群輝達變天誰是贏家？法人亮牌ASIC三雄",
