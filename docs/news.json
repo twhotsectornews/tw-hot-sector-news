@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-13T12:06:09.758+08:00",
-  "generatedAt": "2026-11-13T04:06:09.758Z",
+  "asOf": "2026-11-13T13:09:24.083+08:00",
+  "generatedAt": "2026-11-13T05:09:24.083Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -92,9 +92,8 @@
         "11/13",
         "11/10"
       ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 9.9,
+      "mentions": 3,
+      "limitUp": false,
       "luw": 2,
       "luwd": [
         "11/10",
@@ -109,7 +108,7 @@
         "11/13",
         "11/11"
       ],
-      "mentions": 2,
+      "mentions": 3,
       "status": "逼近新高",
       "dist": -1.2,
       "limitUp": false,
@@ -117,6 +116,19 @@
       "luwd": [
         "11/11"
       ]
+    },
+    {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 2,
+      "dates": [
+        "11/13",
+        "11/11"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -8.9,
+      "limitUp": false
     },
     {
       "symbol": "3008",
@@ -274,6 +286,62 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxOdFlqR2p2VF9qVWp0VXBlRWR4RmZmVmZoZzNyVVkxbVhELTdFV3F0Tk5mMGhzYllCdW5JNTZ1REV4R3R3QXZUaks5NWFuVm1KcWkxeDBfeEEtZU1KTUNuUFgwbXRmVl9HLXgtNW00emhnYnduRWkzbExMWG1mejd0eDEtbUFPRzl0",
+      "tkey": "熱門族群輝達變天誰是贏家？法人亮牌ASIC三雄",
+      "title": "《熱門族群》輝達變天誰是贏家？法人亮牌ASIC三雄 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6360000001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 13 Nov 2026 04:45:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "AI ASIC業務成長動能明確",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "3661",
+          "name": "世芯-KY",
+          "point": "北美CSP客戶3奈米AI加速器量產",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "point": "客戶自研3奈米CPU下半年放量",
+          "status": "逼近新高",
+          "dist": -1.2,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/11"
+          ]
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "先進製程及CoWoS技術具競爭力",
+          "status": "逼近新高",
+          "dist": -8.9,
+          "limitUp": false
+        }
+      ],
+      "background": "AI晶片需求持續增長，雲端服務供應商加速自研AI晶片，ASIC設計服務公司受惠，台積電在先進製程與封裝技術具優勢。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxObmIyUHowZnUyaDlkM09PYUszYmtOTF9XQ1phV1JfV2pIUWVNWDVqYjZfSEtURVpuQnpFUnlIcS1mdFdrZ1V0UU0tMjkzbDRvWDJVcGYtZFdualY1SEhGRktkbXR2a0kyaUJxVmd2QVRLMlhxQVhMZ1hPaUZReFJrTnpCaTZFVXMz",
       "tkey": "熱門族群千金股掀起漲停潮創意超車川湖當股后",
       "title": "《熱門族群》千金股掀起漲停潮 創意超車川湖當股后 - 富聯網",
@@ -295,8 +363,7 @@
           "symbol": "3661",
           "name": "世芯-KY",
           "point": "開盤攻上漲停",
-          "limitUp": true,
-          "pct": 9.9,
+          "limitUp": false,
           "luw": 2,
           "luwd": [
             "11/10",
