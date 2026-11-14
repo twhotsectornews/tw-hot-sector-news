@@ -1,45 +1,11 @@
 {
-  "asOf": "2026-11-14T23:44:38.090+08:00",
-  "generatedAt": "2026-11-14T15:44:38.090Z",
+  "asOf": "2026-11-15T00:43:28.687+08:00",
+  "generatedAt": "2026-11-14T16:43:28.687Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
-    {
-      "symbol": "1503",
-      "name": "士電",
-      "days": 4,
-      "dates": [
-        "11/13",
-        "11/11",
-        "11/9",
-        "11/8"
-      ],
-      "mentions": 4,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "11/9"
-      ]
-    },
-    {
-      "symbol": "1519",
-      "name": "華城",
-      "days": 4,
-      "dates": [
-        "11/13",
-        "11/11",
-        "11/9",
-        "11/8"
-      ],
-      "mentions": 4,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "11/9"
-      ]
-    },
     {
       "symbol": "3661",
       "name": "世芯-KY",
@@ -84,6 +50,22 @@
       "limitUp": false
     },
     {
+      "symbol": "1503",
+      "name": "士電",
+      "days": 3,
+      "dates": [
+        "11/13",
+        "11/11",
+        "11/9"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/9"
+      ]
+    },
+    {
       "symbol": "1513",
       "name": "中興電",
       "days": 3,
@@ -106,6 +88,22 @@
       ],
       "mentions": 3,
       "limitUp": false
+    },
+    {
+      "symbol": "1519",
+      "name": "華城",
+      "days": 3,
+      "dates": [
+        "11/13",
+        "11/11",
+        "11/9"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/9"
+      ]
     },
     {
       "symbol": "1802",
@@ -292,35 +290,6 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "8996",
-      "name": "高力",
-      "days": 2,
-      "dates": [
-        "11/10",
-        "11/8"
-      ],
-      "mentions": 2,
-      "luw": 1,
-      "luwd": [
-        "11/10"
-      ]
-    },
-    {
-      "symbol": "2308",
-      "name": "台達電",
-      "days": 2,
-      "dates": [
-        "11/10",
-        "11/8"
-      ],
-      "mentions": 2,
-      "luw": 2,
-      "luwd": [
-        "11/10",
-        "11/9"
-      ]
     }
   ],
   "news": [
