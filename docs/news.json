@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-14T17:39:40.799+08:00",
-  "generatedAt": "2026-11-14T09:39:40.799Z",
+  "asOf": "2026-11-14T17:43:07.392+08:00",
+  "generatedAt": "2026-11-14T09:43:07.392Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -39,6 +39,49 @@
       "luwd": [
         "11/9"
       ]
+    },
+    {
+      "symbol": "3661",
+      "name": "世芯-KY",
+      "days": 3,
+      "dates": [
+        "11/14",
+        "11/13",
+        "11/10"
+      ],
+      "mentions": 4,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "11/10",
+        "11/9"
+      ]
+    },
+    {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 3,
+      "dates": [
+        "11/14",
+        "11/13",
+        "11/11"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -9.3,
+      "limitUp": false
+    },
+    {
+      "symbol": "6274",
+      "name": "台燿",
+      "days": 3,
+      "dates": [
+        "11/14",
+        "11/13",
+        "11/12"
+      ],
+      "mentions": 3,
+      "limitUp": false
     },
     {
       "symbol": "1513",
@@ -85,22 +128,6 @@
       ]
     },
     {
-      "symbol": "3661",
-      "name": "世芯-KY",
-      "days": 2,
-      "dates": [
-        "11/13",
-        "11/10"
-      ],
-      "mentions": 3,
-      "limitUp": false,
-      "luw": 2,
-      "luwd": [
-        "11/10",
-        "11/9"
-      ]
-    },
-    {
       "symbol": "3443",
       "name": "創意",
       "days": 2,
@@ -120,16 +147,68 @@
       ]
     },
     {
-      "symbol": "2330",
-      "name": "台積電",
+      "symbol": "1815",
+      "name": "富喬",
       "days": 2,
       "dates": [
-        "11/13",
+        "11/14",
+        "11/12"
+      ],
+      "mentions": 2,
+      "status": "高檔修正",
+      "dist": -12.1,
+      "limitUp": false
+    },
+    {
+      "symbol": "3006",
+      "name": "晶豪科",
+      "days": 2,
+      "dates": [
+        "11/14",
         "11/11"
       ],
       "mentions": 2,
-      "status": "逼近新高",
-      "dist": -8.9,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/9"
+      ]
+    },
+    {
+      "symbol": "2344",
+      "name": "華邦電",
+      "days": 2,
+      "dates": [
+        "11/14",
+        "11/11"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/9"
+      ]
+    },
+    {
+      "symbol": "2383",
+      "name": "台光電",
+      "days": 2,
+      "dates": [
+        "11/14",
+        "11/12"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "8299",
+      "name": "群聯",
+      "days": 2,
+      "dates": [
+        "11/14",
+        "11/11"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -180,17 +259,6 @@
         "11/10",
         "11/9"
       ]
-    },
-    {
-      "symbol": "6274",
-      "name": "台燿",
-      "days": 2,
-      "dates": [
-        "11/13",
-        "11/12"
-      ],
-      "mentions": 2,
-      "limitUp": false
     },
     {
       "symbol": "3189",
@@ -263,9 +331,38 @@
       "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6360843001&PU=0010",
       "source": "富聯網",
       "pubDate": "Sat, 14 Nov 2026 09:03:00 GMT",
-      "stocks": [],
-      "background": "",
-      "themeTags": []
+      "stocks": [
+        {
+          "symbol": "2516",
+          "name": "新建",
+          "point": "今年營運看旺，三率三升",
+          "limitUp": false
+        },
+        {
+          "symbol": "2546",
+          "name": "根基",
+          "point": "科技廠辦訂單占比高，獲利成長",
+          "limitUp": false
+        },
+        {
+          "symbol": "5521",
+          "name": "工信工程",
+          "point": "毛利率、營益率、淨利率提升",
+          "limitUp": false
+        },
+        {
+          "symbol": "9933",
+          "name": "中鼎",
+          "point": "綠色及低碳工程占比衝高，三率三升",
+          "status": "逼近新高",
+          "dist": -1.9,
+          "limitUp": false
+        }
+      ],
+      "background": "營造廠受惠於環保、循環經濟等綠色工程，以及科技廠辦案量增加，帶動獲利能力提升。產業趨勢朝向高毛利專案發展。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxOajIwSGNGTnAzZThjcVBjVWpUODVucW1EUjFUMUpneTg2WURiSFNyVzJlRzhkVlczbVdtOVh1NEZhWUk3OHlPT0dUYUJGRHNSTjd4VFNDTzlXcUMxX1pkR0JGa1BJb2tmNXhFYk5jV3prTVNIenQ2YUd4M0RSTFJfV3Vwc3lkbE13",
@@ -274,9 +371,158 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6360785001&PU=1002",
       "source": "富聯網",
       "pubDate": "Sat, 14 Nov 2026 08:31:00 GMT",
-      "stocks": [],
-      "background": "",
-      "themeTags": []
+      "stocks": [
+        {
+          "symbol": "2355",
+          "name": "敬鵬",
+          "point": "受惠AI生態系周邊設備，獲雙資買超",
+          "status": "逼近新高",
+          "dist": -4.9,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/12"
+          ]
+        },
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "獲外資、投信同步加碼",
+          "status": "高檔修正",
+          "dist": -12.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "3035",
+          "name": "智原",
+          "point": "獲外資、投信同步加碼",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 1,
+          "luwd": [
+            "11/13"
+          ]
+        },
+        {
+          "symbol": "2464",
+          "name": "盟立",
+          "point": "獲外資、投信同步加碼",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "3661",
+          "name": "世芯-KY",
+          "point": "AI加速器新訂單，明年營運添動能",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "5388",
+          "name": "中磊",
+          "point": "獲外資、投信同步加碼",
+          "limitUp": false
+        },
+        {
+          "symbol": "2352",
+          "name": "佳世達",
+          "point": "獲外資、投信同步加碼",
+          "limitUp": false
+        },
+        {
+          "symbol": "4105",
+          "name": "東洋",
+          "point": "獲外資、投信同步加碼",
+          "status": "逼近新高",
+          "dist": -1.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "3006",
+          "name": "晶豪科",
+          "point": "獲外資、投信同步加碼",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "2363",
+          "name": "矽統",
+          "point": "獲外資、投信同步加碼",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "2379",
+          "name": "瑞昱",
+          "point": "獲外資、投信同步加碼",
+          "limitUp": false
+        },
+        {
+          "symbol": "2371",
+          "name": "大同",
+          "point": "獲外資、投信同步加碼",
+          "limitUp": false
+        },
+        {
+          "symbol": "2504",
+          "name": "國產",
+          "point": "獲外資、投信同步加碼",
+          "limitUp": false
+        },
+        {
+          "symbol": "2401",
+          "name": "凌陽",
+          "point": "獲外資、投信同步加碼",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 1,
+          "luwd": [
+            "11/13"
+          ]
+        },
+        {
+          "symbol": "2441",
+          "name": "超豐",
+          "point": "獲外資、投信同步加碼",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "航太衛星通訊出貨熱絡，毛利率優化",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/13",
+            "11/12",
+            "11/11",
+            "11/10",
+            "11/9"
+          ]
+        }
+      ],
+      "background": "外資與投信同步加碼，顯示法人對這些個股的信心。AI基建、ADAS及衛星通訊等新興應用需求，驅動相關產業成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxNeWZqOTN0UVVibGtJTmJLN05YWjEyUUFKRTBoRnVuc3dVakFFS2hVZDRNT0tObWJ2QnkyaVFiNDQ1V1lib3lmUVlpNzhNbGRQd0hmWjlobUxVTWxrSjk3WS1uVEdtWkxNODJhUHg2b1Y3R190T0txLXkzcUJ4U3RQcHh2M2k5UVlG",
@@ -285,9 +531,24 @@
       "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6360781001&PU=0010",
       "source": "富聯網",
       "pubDate": "Sat, 14 Nov 2026 08:31:00 GMT",
-      "stocks": [],
-      "background": "",
-      "themeTags": []
+      "stocks": [
+        {
+          "symbol": "2376",
+          "name": "瀚宇博",
+          "point": "第三季獲利倍增，高階產品比重提升",
+          "limitUp": false
+        },
+        {
+          "symbol": "6191",
+          "name": "精成科",
+          "point": "第三季獲利倍增，高多層板動能強勁",
+          "limitUp": false
+        }
+      ],
+      "background": "PCB廠受惠於AI伺服器及高速網通需求，積極提升高階產品比重並擴產。台灣、馬來西亞及新加坡的產能將陸續開出。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxOME5OQjV2YnViaVVNY0l4dy0zWWpxTzRUSzN6SFc5RTVkYm1HaS1RWDcyaDdjS182eFEyUzVGeHBFUGtsR3d6T0tVbmRkZy1RT1hWSlNTcDNGTlZyNk1BZnktNlYyTkExaXU4NkpLZTlCY2lITHpCTjFjcEpnTWJwQThLUm9xQl9R",
@@ -296,9 +557,129 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6360771001&PU=1002",
       "source": "富聯網",
       "pubDate": "Sat, 14 Nov 2026 08:30:00 GMT",
-      "stocks": [],
-      "background": "",
-      "themeTags": []
+      "stocks": [
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "第三季EPS創高，公股行庫買超",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "第三季EPS創高，公股行庫買超",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "第三季EPS創高，公股行庫買超",
+          "status": "逼近新高",
+          "dist": -9.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "5483",
+          "name": "聯茂",
+          "point": "第三季EPS創高，公股行庫買超",
+          "limitUp": false
+        },
+        {
+          "symbol": "8358",
+          "name": "金居",
+          "point": "第三季EPS創高，公股行庫買超",
+          "limitUp": false
+        },
+        {
+          "symbol": "5351",
+          "name": "鈺創",
+          "point": "第三季EPS創高，公股行庫買超",
+          "limitUp": false
+        },
+        {
+          "symbol": "6257",
+          "name": "矽格",
+          "point": "第三季EPS創高，公股行庫買超",
+          "limitUp": false
+        },
+        {
+          "symbol": "8027",
+          "name": "欣銓",
+          "point": "第三季EPS創高，公股行庫買超",
+          "limitUp": false
+        },
+        {
+          "symbol": "4966",
+          "name": "騰輝電子-KY",
+          "point": "第三季EPS創高，公股行庫買超",
+          "limitUp": false
+        },
+        {
+          "symbol": "1560",
+          "name": "中砂",
+          "point": "第三季EPS創高，公股行庫買超",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "第三季EPS創高，公股行庫買超",
+          "limitUp": false
+        },
+        {
+          "symbol": "2359",
+          "name": "順德",
+          "point": "第三季EPS創高，公股行庫買超",
+          "limitUp": false
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "第三季EPS創高，公股行庫買超",
+          "limitUp": false
+        },
+        {
+          "symbol": "2414",
+          "name": "全科",
+          "point": "第三季EPS創高，公股行庫買超",
+          "limitUp": false
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "第三季EPS創高，公股行庫買超",
+          "limitUp": false
+        },
+        {
+          "symbol": "5243",
+          "name": "乙盛-KY",
+          "point": "第三季EPS創高，公股行庫買超",
+          "limitUp": false
+        },
+        {
+          "symbol": "3388",
+          "name": "崇越",
+          "point": "第三季EPS創高，公股行庫買超",
+          "limitUp": false
+        }
+      ],
+      "background": "國安基金護盤與限空令穩定台股，政府力挺基本面強勁的個股。記憶體、晶圓代工、PCB上游及測試耗材等產業受惠於AI伺服器與高速交換器升級。",
+      "themeTags": [
+        "政策關稅",
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxNM3l4bkU0MkFvMW5kOHN1ZFhEdHN2bk10RV9mUlhPUVVDdE5FNE1rYWFHTlVGeVlSTk92eDNjNFZnUEUwQXNiSTA3X3dkWld3ajRwZ0hScXBVTHJYY0gyaTdxWWROYVBxNVdVQjJYVEFSa1EwQVNlZ0dMdlJjLXcxVnRCZ3d3blNv",
@@ -307,9 +688,42 @@
       "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6360768001&PU=0010",
       "source": "富聯網",
       "pubDate": "Sat, 14 Nov 2026 08:27:00 GMT",
-      "stocks": [],
-      "background": "",
-      "themeTags": []
+      "stocks": [
+        {
+          "symbol": "2908",
+          "name": "特力",
+          "point": "供應鏈重組、併購優化商品，獲利大躍進",
+          "status": "逼近新高",
+          "dist": -4.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "3557",
+          "name": "嘉威",
+          "point": "雙生產基地策略，前三季轉盈",
+          "limitUp": false
+        },
+        {
+          "symbol": "8482",
+          "name": "商億",
+          "point": "美系客戶訂單穩定，獲利增長",
+          "limitUp": false
+        },
+        {
+          "symbol": "6807",
+          "name": "峰源-KY",
+          "point": "獲利表現亮眼",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/13"
+          ]
+        }
+      ],
+      "background": "居家貿易族群受惠於去年高關稅基期低，以及供應鏈重組、產品結構優化。企業積極分散生產風險，拓展非美市場。",
+      "themeTags": [
+        "政策關稅"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxObjFaXzJYeXZjdHJjME9uOFFSWjNvVzFKNU5xNkNXWTdRUzF3UG5ZTjlHMjMyYUdUeWt1UHpEdGhkOU94NVltX0VtY3NBSTJWVGUzbTNqOVhFVmZGRTZyY19PYzNZYTlmUVM4eENwX3dXUVozS0pPWFM4NXdBbUxYWVBXMXA1UGNv",
