@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-16T00:16:00.215+08:00",
-  "generatedAt": "2026-11-15T16:16:00.215Z",
+  "asOf": "2026-11-16T01:25:43.659+08:00",
+  "generatedAt": "2026-11-15T17:25:43.659Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,14 +9,13 @@
     {
       "symbol": "3661",
       "name": "世芯-KY",
-      "days": 4,
+      "days": 3,
       "dates": [
         "11/15",
-        "11/14",
         "11/13",
         "11/10"
       ],
-      "mentions": 5,
+      "mentions": 4,
       "limitUp": false,
       "luw": 2,
       "luwd": [
@@ -42,32 +41,6 @@
         "11/13",
         "11/11"
       ]
-    },
-    {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 3,
-      "dates": [
-        "11/14",
-        "11/13",
-        "11/11"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -9.3,
-      "limitUp": false
-    },
-    {
-      "symbol": "6274",
-      "name": "台燿",
-      "days": 3,
-      "dates": [
-        "11/14",
-        "11/13",
-        "11/12"
-      ],
-      "mentions": 3,
-      "limitUp": false
     },
     {
       "symbol": "2454",
@@ -143,85 +116,16 @@
       ]
     },
     {
-      "symbol": "3035",
-      "name": "智原",
+      "symbol": "2330",
+      "name": "台積電",
       "days": 2,
       "dates": [
-        "11/15",
-        "11/14"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 9.8,
-      "luw": 1,
-      "luwd": [
-        "11/13"
-      ]
-    },
-    {
-      "symbol": "1815",
-      "name": "富喬",
-      "days": 2,
-      "dates": [
-        "11/14",
-        "11/12"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -12.1,
-      "limitUp": false
-    },
-    {
-      "symbol": "3006",
-      "name": "晶豪科",
-      "days": 2,
-      "dates": [
-        "11/14",
+        "11/13",
         "11/11"
       ],
       "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "11/9"
-      ]
-    },
-    {
-      "symbol": "2344",
-      "name": "華邦電",
-      "days": 2,
-      "dates": [
-        "11/14",
-        "11/11"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "11/9"
-      ]
-    },
-    {
-      "symbol": "2383",
-      "name": "台光電",
-      "days": 2,
-      "dates": [
-        "11/14",
-        "11/12"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "8299",
-      "name": "群聯",
-      "days": 2,
-      "dates": [
-        "11/14",
-        "11/11"
-      ],
-      "mentions": 2,
-      "limitUp": false
+      "status": "逼近新高",
+      "dist": -9.3
     },
     {
       "symbol": "3008",
@@ -255,6 +159,17 @@
         "11/10",
         "11/9"
       ]
+    },
+    {
+      "symbol": "6274",
+      "name": "台燿",
+      "days": 2,
+      "dates": [
+        "11/13",
+        "11/12"
+      ],
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "1503",
