@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updatedAt": "2026-11-15T03:02:12.711Z",
+  "updatedAt": "2026-11-15T04:02:30.983Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxObjFaXzJYeXZjdHJjME9uOFFSWjNvVzFKNU5xNkNXWTdRUzF3UG5ZTjlHMjMyYUdUeWt1UHpEdGhkOU94NVltX0VtY3NBSTJWVGUzbTNqOVhFVmZGRTZyY19PYzNZYTlmUVM4eENwX3dXUVozS0pPWFM4NXdBbUxYWVBXMXA1UGNv",
@@ -13,61 +13,68 @@
         {
           "symbol": "2891",
           "name": "中信金",
-          "point": "創天價、暫居獲利雙冠王",
+          "point": "創天價，暫居獲利雙冠王",
           "status": "逼近新高",
-          "dist": -1.4,
-          "limitUp": false
+          "dist": -1.4
         },
         {
           "symbol": "2880",
           "name": "華南金",
-          "point": "盤中漲幅逾2%",
+          "point": "盤中漲幅超過2%",
           "status": "創新高",
-          "dist": 0,
-          "limitUp": false
+          "dist": 0
         },
         {
           "symbol": "2881",
           "name": "富邦金",
-          "point": "盤中漲幅逾2%",
+          "point": "盤中漲幅超過2%",
           "status": "逼近新高",
-          "dist": -1.8,
-          "limitUp": false
+          "dist": -1.8
         },
         {
           "symbol": "2882",
           "name": "國泰金",
-          "point": "盤中漲幅逾2%",
+          "point": "盤中漲幅超過2%",
           "status": "逼近新高",
-          "dist": -3,
-          "limitUp": false
+          "dist": -3
         },
         {
           "symbol": "2883",
           "name": "凱基金",
-          "point": "盤中漲幅逾2%",
+          "point": "盤中漲幅超過2%",
           "status": "高檔修正",
-          "dist": -11,
-          "limitUp": false
+          "dist": -11
         },
         {
           "symbol": "2884",
           "name": "玉山金",
-          "point": "盤中漲幅逾2%",
+          "point": "盤中漲幅超過2%",
           "status": "逼近新高",
-          "dist": -3.6,
-          "limitUp": false
+          "dist": -3.6
         },
         {
           "symbol": "2887",
           "name": "台新新光金",
-          "point": "盤中漲幅逾2%",
+          "point": "盤中漲幅超過2%",
           "status": "逼近新高",
-          "dist": -9.2,
-          "limitUp": false
+          "dist": -9.2
+        },
+        {
+          "symbol": "2885",
+          "name": "元大金",
+          "point": "暫居累計EPS王",
+          "status": "逼近新高",
+          "dist": -2
+        },
+        {
+          "symbol": "2889",
+          "name": "國票金",
+          "point": "累計獲利年成長王",
+          "status": "逼近新高",
+          "dist": -7.4
         }
       ],
-      "background": "金控股受惠於10月獲利表現亮眼，多檔大型金控同步走強，法人持續加碼，成為盤面重要支撐。",
+      "background": "金控股受惠於市場資金聚焦10月獲利表現，多檔大型金控同步走強，法人持續加碼買超，成為股價上漲推力。",
       "themeTags": []
     },
     {
@@ -82,7 +89,6 @@
           "symbol": "2454",
           "name": "聯發科",
           "point": "AI ASIC業務成長動能明確",
-          "limitUp": false,
           "luw": 1,
           "luwd": [
             "11/9"
@@ -92,7 +98,6 @@
           "symbol": "3661",
           "name": "世芯-KY",
           "point": "北美CSP客戶3奈米AI加速器量產",
-          "limitUp": false,
           "luw": 2,
           "luwd": [
             "11/10",
@@ -102,11 +107,9 @@
         {
           "symbol": "3443",
           "name": "創意",
-          "point": "客戶自研3奈米CPU下半年放量",
+          "point": "客戶自研3奈米CPU放量",
           "status": "逼近新高",
-          "dist": -1.2,
-          "limitUp": true,
-          "pct": 9.5,
+          "dist": -1.6,
           "luw": 2,
           "luwd": [
             "11/13",
@@ -118,11 +121,10 @@
           "name": "台積電",
           "point": "先進製程及CoWoS技術具競爭力",
           "status": "逼近新高",
-          "dist": -8.9,
-          "limitUp": false
+          "dist": -9.3
         }
       ],
-      "background": "AI晶片需求持續增長，雲端服務供應商加速自研AI晶片，ASIC設計服務公司受惠，台積電在先進製程與封裝技術具優勢。",
+      "background": "AI供應鏈因輝達領導層異動引發關注，雲端服務供應商加速自研AI晶片，ASIC三雄成長動能明確，台積電在先進製程與封裝技術仍具優勢。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
