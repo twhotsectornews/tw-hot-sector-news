@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-16T01:25:43.659+08:00",
-  "generatedAt": "2026-11-15T17:25:43.659Z",
+  "asOf": "2026-11-16T11:08:29.136+08:00",
+  "generatedAt": "2026-11-16T03:08:29.136Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,13 +9,14 @@
     {
       "symbol": "3661",
       "name": "世芯-KY",
-      "days": 3,
+      "days": 4,
       "dates": [
         "11/15",
+        "11/14",
         "11/13",
         "11/10"
       ],
-      "mentions": 4,
+      "mentions": 5,
       "limitUp": false,
       "luw": 2,
       "luwd": [
@@ -43,6 +44,90 @@
       ]
     },
     {
+      "symbol": "2468",
+      "name": "華經",
+      "days": 3,
+      "dates": [
+        "11/16",
+        "11/15",
+        "11/11"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -1.1,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/13"
+      ]
+    },
+    {
+      "symbol": "6148",
+      "name": "驊宏資",
+      "days": 3,
+      "dates": [
+        "11/16",
+        "11/15",
+        "11/11"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "11/13",
+        "11/12",
+        "11/11",
+        "11/10",
+        "11/9"
+      ]
+    },
+    {
+      "symbol": "6697",
+      "name": "東捷資訊",
+      "days": 3,
+      "dates": [
+        "11/16",
+        "11/15",
+        "11/11"
+      ],
+      "mentions": 3,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "11/13",
+        "11/12",
+        "11/11",
+        "11/10",
+        "11/9"
+      ]
+    },
+    {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 3,
+      "dates": [
+        "11/14",
+        "11/13",
+        "11/11"
+      ],
+      "mentions": 3,
+      "status": "高檔修正",
+      "dist": -11.4
+    },
+    {
+      "symbol": "6274",
+      "name": "台燿",
+      "days": 3,
+      "dates": [
+        "11/14",
+        "11/13",
+        "11/12"
+      ],
+      "mentions": 3
+    },
+    {
       "symbol": "2454",
       "name": "聯發科",
       "days": 2,
@@ -58,74 +143,159 @@
       ]
     },
     {
-      "symbol": "6697",
-      "name": "東捷資訊",
+      "symbol": "3035",
+      "name": "智原",
       "days": 2,
       "dates": [
         "11/15",
-        "11/11"
+        "11/14"
       ],
-      "mentions": 2,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 5,
-      "luwd": [
-        "11/13",
-        "11/12",
-        "11/11",
-        "11/10",
-        "11/9"
-      ]
-    },
-    {
-      "symbol": "6148",
-      "name": "驊宏資",
-      "days": 2,
-      "dates": [
-        "11/15",
-        "11/11"
-      ],
-      "mentions": 2,
+      "mentions": 3,
       "limitUp": true,
       "pct": 9.8,
-      "luw": 5,
-      "luwd": [
-        "11/13",
-        "11/12",
-        "11/11",
-        "11/10",
-        "11/9"
-      ]
-    },
-    {
-      "symbol": "2468",
-      "name": "華經",
-      "days": 2,
-      "dates": [
-        "11/15",
-        "11/11"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 9.9,
       "luw": 1,
       "luwd": [
         "11/13"
       ]
     },
     {
-      "symbol": "2330",
-      "name": "台積電",
+      "symbol": "7767",
+      "name": "仁大資訊",
       "days": 2,
       "dates": [
-        "11/13",
+        "11/16",
         "11/11"
       ],
       "mentions": 2,
       "status": "逼近新高",
-      "dist": -9.3
+      "dist": -2.8,
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "11/13",
+        "11/12",
+        "11/11",
+        "11/10",
+        "11/9"
+      ]
+    },
+    {
+      "symbol": "6751",
+      "name": "智聯服務",
+      "days": 2,
+      "dates": [
+        "11/16",
+        "11/11"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -8,
+      "limitUp": false
+    },
+    {
+      "symbol": "8272",
+      "name": "全景軟體",
+      "days": 2,
+      "dates": [
+        "11/16",
+        "11/11"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "11/13",
+        "11/12",
+        "11/11",
+        "11/10",
+        "11/9"
+      ]
+    },
+    {
+      "symbol": "6590",
+      "name": "普鴻",
+      "days": 2,
+      "dates": [
+        "11/16",
+        "11/11"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -0.9,
+      "limitUp": false
+    },
+    {
+      "symbol": "6689",
+      "name": "伊雲谷",
+      "days": 2,
+      "dates": [
+        "11/16",
+        "11/11"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/13"
+      ]
+    },
+    {
+      "symbol": "1815",
+      "name": "富喬",
+      "days": 2,
+      "dates": [
+        "11/14",
+        "11/12"
+      ],
+      "mentions": 2
+    },
+    {
+      "symbol": "3006",
+      "name": "晶豪科",
+      "days": 2,
+      "dates": [
+        "11/14",
+        "11/11"
+      ],
+      "mentions": 2,
+      "luw": 1,
+      "luwd": [
+        "11/9"
+      ]
+    },
+    {
+      "symbol": "2344",
+      "name": "華邦電",
+      "days": 2,
+      "dates": [
+        "11/14",
+        "11/11"
+      ],
+      "mentions": 2,
+      "luw": 1,
+      "luwd": [
+        "11/9"
+      ]
+    },
+    {
+      "symbol": "2383",
+      "name": "台光電",
+      "days": 2,
+      "dates": [
+        "11/14",
+        "11/12"
+      ],
+      "mentions": 2
+    },
+    {
+      "symbol": "8299",
+      "name": "群聯",
+      "days": 2,
+      "dates": [
+        "11/14",
+        "11/11"
+      ],
+      "mentions": 2
     },
     {
       "symbol": "3008",
@@ -159,17 +329,6 @@
         "11/10",
         "11/9"
       ]
-    },
-    {
-      "symbol": "6274",
-      "name": "台燿",
-      "days": 2,
-      "dates": [
-        "11/13",
-        "11/12"
-      ],
-      "mentions": 2,
-      "limitUp": false
     },
     {
       "symbol": "1503",
@@ -267,6 +426,177 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxNNkgtUTFqSEdia21YVlFzaFB5cktSLVgxeWFSdVBMNWxsTWVRV3ItQk56RWU5cjBmMmtJcWt4Y0lFOE9QbXNBNFZ5cUVIeUo0dmNzeFFtSnh2bWx1RjZyTE1wUGZFRnJ2N0ptZVNwNVN6WDNneXlfR1AzQnVaWm11ZlNWcFBwVnN1",
+      "tkey": "熱門族群資安股漲停聯盟成軍藍新資訊等10檔亮燈",
+      "title": "《熱門族群》資安股「漲停聯盟」成軍 藍新資訊等10檔亮燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6362044001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 16 Nov 2026 02:07:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6938",
+          "name": "藍新資訊",
+          "point": "率先亮燈漲停",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/13",
+            "11/12",
+            "11/11",
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "7765",
+          "name": "中華資安",
+          "point": "率先亮燈漲停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/13"
+          ]
+        },
+        {
+          "symbol": "6752",
+          "name": "叡揚",
+          "point": "率先亮燈漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2468",
+          "name": "華經",
+          "point": "率先亮燈漲停",
+          "status": "逼近新高",
+          "dist": -1.1,
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/13"
+          ]
+        },
+        {
+          "symbol": "6148",
+          "name": "驊宏資",
+          "point": "加入漲停行列",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/13",
+            "11/12",
+            "11/11",
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "6697",
+          "name": "東捷資訊",
+          "point": "加入漲停行列",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/13",
+            "11/12",
+            "11/11",
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "7767",
+          "name": "仁大資訊",
+          "point": "加入漲停行列",
+          "status": "逼近新高",
+          "dist": -2.8,
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/13",
+            "11/12",
+            "11/11",
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "6751",
+          "name": "智聯服務",
+          "point": "加入漲停行列",
+          "status": "逼近新高",
+          "dist": -8,
+          "limitUp": false
+        },
+        {
+          "symbol": "6865",
+          "name": "偉康科技",
+          "point": "加入漲停行列",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/13",
+            "11/12",
+            "11/11",
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "8272",
+          "name": "全景軟體",
+          "point": "加入漲停行列",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/13",
+            "11/12",
+            "11/11",
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "3664",
+          "name": "安瑞-KY",
+          "point": "盤中漲幅達半根漲停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "6590",
+          "name": "普鴻",
+          "point": "盤中漲幅達半根漲停板",
+          "status": "逼近新高",
+          "dist": -0.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "6689",
+          "name": "伊雲谷",
+          "point": "盤中漲幅達半根漲停板",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/13"
+          ]
+        },
+        {
+          "symbol": "6214",
+          "name": "精誠",
+          "point": "盤中漲幅達半根漲停板",
+          "status": "逼近新高",
+          "dist": -7.6,
+          "limitUp": false
+        }
+      ],
+      "background": "資安事件頻傳，金融及企業對資安防護關注升溫，加上AI模型加速軟體開發與漏洞產生，企業對AI資安工具與防禦機制需求提升。金管會也要求金融業強化資安防禦能力。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
       "gid": "CBMikANBVV95cUxNMEh0c1RabVJrUFU3d1NFTmhDSlNFNTJXMld0TTRuMFNTeFVDaGN6eE9mQWFITzh4aGprOV9LZm9lSzZDc19uY3RrdUoySFNiWGRaVW5DMVBTX0RWcjZHbG1pQmhUcldhTVhlRDNNTDk1RlVTaUpENkJGRTJ1am4tTjlDVURXaFB4SmtKVnIxV2M0N3hUdEI0SmMwOXpIYVBhRng5WmFRa19NUTJhbGVMRzVZQkt0UEg3NnNnUDJEYkt3YURDTXpGWHRpR2NmSS1Nc3Z2Zk44OFhmaEZGemVtUzdQczBfaGpaWnRqMzhhelAtMWJCN3FkR3I3UU4wcDNGLXhoaVdPVjZ6T1VGUDNlY05WSlkwajU4aTY0ZjkyeGg2MnFQajdnWUQtOGNKNl9TVHozWWVBS3gwMHhCaGQzVnEzdE5jc3AxWUJVVk9LUGxrN1gwYndfODhJaXJsMEJEalZhVG9uc09yU1AtME9iSm93RFdNQ2RxYzdXN1JUTmpqVTlWbnV0eWZWMWZUWWpC",
       "tkey": "科技股殺聲隆隆能抄底？阮慕驊體檢3大熱門族群：跌深會彈很兇",
       "title": "科技股殺聲隆隆能抄底？阮慕驊體檢「3大熱門族群」：跌深會彈很兇 - Yahoo新聞",
@@ -361,6 +691,8 @@
           "point": "交投熱絡",
           "limitUp": true,
           "pct": 9.9,
+          "status": "逼近新高",
+          "dist": -1.1,
           "luw": 1,
           "luwd": [
             "11/13"

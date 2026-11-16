@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updatedAt": "2026-11-15T17:25:43.656Z",
+  "updatedAt": "2026-11-16T03:08:29.133Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOcG80TWNUZXNNa2pua2t0X28teTNLVU1rbHg5ZnVKRy1sUFVpT3RNSEtwWGI0SXJjTHN4OU9KTjY4bm9aRmNEZGw5YlUyUHN3aGpXeUhZX1o5andhUVhxSTVKcHNYTmtvajZfT01SeXdDd1JUUE5PU01nWjlfLVNBdGRyT3BsUW42",
@@ -9,9 +9,34 @@
       "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6360843001&PU=0010",
       "source": "富聯網",
       "pubDate": "Sat, 14 Nov 2026 09:03:00 GMT",
-      "stocks": [],
-      "background": "",
-      "themeTags": []
+      "stocks": [
+        {
+          "symbol": "2516",
+          "name": "新建",
+          "point": "今年營運看旺，有望三率三升"
+        },
+        {
+          "symbol": "2546",
+          "name": "根基",
+          "point": "今年營運看旺，科技廠辦工程訂單佔比高"
+        },
+        {
+          "symbol": "5521",
+          "name": "工信工程",
+          "point": "今年營運看旺，有望三率三升"
+        },
+        {
+          "symbol": "9933",
+          "name": "中鼎",
+          "point": "今年營運看旺，綠色及低碳工程佔比高",
+          "status": "逼近新高",
+          "dist": -3.6
+        }
+      ],
+      "background": "營造廠受惠於平均發包單價較高的環保、循環經濟等綠色工程，以及科技廠辦案量增加，帶動營運成長，毛利率、營益率及淨利率有望提升。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxOajIwSGNGTnAzZThjcVBjVWpUODVucW1EUjFUMUpneTg2WURiSFNyVzJlRzhkVlczbVdtOVh1NEZhWUk3OHlPT0dUYUJGRHNSTjd4VFNDTzlXcUMxX1pkR0JGa1BJb2tmNXhFYk5jV3prTVNIenQ2YUd4M0RSTFJfV3Vwc3lkbE13",
@@ -20,9 +45,136 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6360785001&PU=1002",
       "source": "富聯網",
       "pubDate": "Sat, 14 Nov 2026 08:31:00 GMT",
-      "stocks": [],
-      "background": "",
-      "themeTags": []
+      "stocks": [
+        {
+          "symbol": "2355",
+          "name": "敬鵬",
+          "point": "外資投信買超，聚焦AI生態系周邊設備",
+          "luw": 1,
+          "luwd": [
+            "11/12"
+          ]
+        },
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "外資投信買超"
+        },
+        {
+          "symbol": "3035",
+          "name": "智原",
+          "point": "外資投信買超",
+          "luw": 1,
+          "luwd": [
+            "11/13"
+          ]
+        },
+        {
+          "symbol": "2464",
+          "name": "盟立",
+          "point": "外資投信買超",
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "3661",
+          "name": "世芯-KY",
+          "point": "外資投信買超，獲美系AI大客戶新訂單",
+          "luw": 2,
+          "luwd": [
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "5388",
+          "name": "中磊",
+          "point": "外資投信買超"
+        },
+        {
+          "symbol": "2352",
+          "name": "佳世達",
+          "point": "外資投信買超"
+        },
+        {
+          "symbol": "4105",
+          "name": "東洋",
+          "point": "外資投信買超",
+          "status": "逼近新高",
+          "dist": -1.9
+        },
+        {
+          "symbol": "3006",
+          "name": "晶豪科",
+          "point": "外資投信買超",
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "2363",
+          "name": "矽統",
+          "point": "外資投信買超",
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "2379",
+          "name": "瑞昱",
+          "point": "外資投信買超"
+        },
+        {
+          "symbol": "2371",
+          "name": "大同",
+          "point": "外資投信買超"
+        },
+        {
+          "symbol": "2504",
+          "name": "國產",
+          "point": "外資投信買超"
+        },
+        {
+          "symbol": "2401",
+          "name": "凌陽",
+          "point": "外資投信買超",
+          "luw": 1,
+          "luwd": [
+            "11/13"
+          ]
+        },
+        {
+          "symbol": "2441",
+          "name": "超豐",
+          "point": "外資投信買超",
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "外資投信買超，受惠航太及衛星通訊產品出貨熱絡",
+          "luw": 5,
+          "luwd": [
+            "11/13",
+            "11/12",
+            "11/11",
+            "11/10",
+            "11/9"
+          ]
+        }
+      ],
+      "background": "外資結束連11賣轉為買超，投信也同步加碼，顯示資金回補台股。部分個股受惠AI基建、ADAS、衛星通訊等新興應用需求。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxNeWZqOTN0UVVibGtJTmJLN05YWjEyUUFKRTBoRnVuc3dVakFFS2hVZDRNT0tObWJ2QnkyaVFiNDQ1V1lib3lmUVlpNzhNbGRQd0hmWjlobUxVTWxrSjk3WS1uVEdtWkxNODJhUHg2b1Y3R190T0txLXkzcUJ4U3RQcHh2M2k5UVlG",
@@ -57,9 +209,22 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6360781001&PU=1002",
       "source": "富聯網",
       "pubDate": "Sat, 14 Nov 2026 08:31:00 GMT",
-      "stocks": [],
-      "background": "",
-      "themeTags": []
+      "stocks": [
+        {
+          "symbol": "2376",
+          "name": "瀚宇博",
+          "point": "Q3財報亮眼，獲利季增147.97%，高階產品比重提升"
+        },
+        {
+          "symbol": "6196",
+          "name": "精成科",
+          "point": "Q3財報亮眼，獲利季增153.99%，高多層板比重提升"
+        }
+      ],
+      "background": "PCB廠受惠AI伺服器及高速網通需求，持續提升高階產品比重並擴產。原材料漲價對毛利率構成壓力，但高階產品客戶接受度較高。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxOME5OQjV2YnViaVVNY0l4dy0zWWpxTzRUSzN6SFc5RTVkYm1HaS1RWDcyaDdjS182eFEyUzVGeHBFUGtsR3d6T0tVbmRkZy1RT1hWSlNTcDNGTlZyNk1BZnktNlYyTkExaXU4NkpLZTlCY2lITHpCTjFjcEpnTWJwQThLUm9xQl9R",
@@ -68,9 +233,131 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6360771001&PU=1002",
       "source": "富聯網",
       "pubDate": "Sat, 14 Nov 2026 08:30:00 GMT",
-      "stocks": [],
-      "background": "",
-      "themeTags": []
+      "stocks": [
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "第三季EPS創高、10月營收創高，獲公股行庫買超",
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "第三季EPS創高、10月營收創高，獲公股行庫買超",
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "第三季EPS創高、10月營收創高，獲公股行庫買超",
+          "status": "高檔修正",
+          "dist": -11.4
+        },
+        {
+          "symbol": "3035",
+          "name": "智原",
+          "point": "第三季EPS創高、10月營收創高，獲公股行庫買超",
+          "luw": 1,
+          "luwd": [
+            "11/13"
+          ]
+        },
+        {
+          "symbol": "6278",
+          "name": "聯茂",
+          "point": "第三季EPS創高、10月營收創高，獲公股行庫買超",
+          "luw": 2,
+          "luwd": [
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "8358",
+          "name": "金居",
+          "point": "第三季EPS創高、10月營收創高，獲公股行庫買超"
+        },
+        {
+          "symbol": "5351",
+          "name": "鈺創",
+          "point": "第三季EPS創高、10月營收創高，獲公股行庫買超"
+        },
+        {
+          "symbol": "6257",
+          "name": "矽格",
+          "point": "第三季EPS創高、10月營收創高，獲公股行庫買超"
+        },
+        {
+          "symbol": "6271",
+          "name": "欣銓",
+          "point": "第三季EPS創高、10月營收創高，獲公股行庫買超",
+          "luw": 2,
+          "luwd": [
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "6676",
+          "name": "騰輝電子-KY",
+          "point": "第三季EPS創高、10月營收創高，獲公股行庫買超"
+        },
+        {
+          "symbol": "1560",
+          "name": "中砂",
+          "point": "第三季EPS創高、10月營收創高，獲公股行庫買超",
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "第三季EPS創高、10月營收創高，獲公股行庫買超"
+        },
+        {
+          "symbol": "2359",
+          "name": "順德",
+          "point": "第三季EPS創高、10月營收創高，獲公股行庫買超"
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "第三季EPS創高、10月營收創高，獲公股行庫買超"
+        },
+        {
+          "symbol": "6217",
+          "name": "全科",
+          "point": "第三季EPS創高、10月營收創高，獲公股行庫買超"
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "第三季EPS創高、10月營收創高，獲公股行庫買超"
+        },
+        {
+          "symbol": "5243",
+          "name": "乙盛-KY",
+          "point": "第三季EPS創高、10月營收創高，獲公股行庫買超"
+        },
+        {
+          "symbol": "3388",
+          "name": "崇越",
+          "point": "第三季EPS創高、10月營收創高，獲公股行庫買超"
+        }
+      ],
+      "background": "國安基金護盤台股，政府力挺基本面強勁的個股。AI伺服器及高速交換器規格升級，帶動記憶體、晶圓代工、PCB上游材料、測試與耗材等產業需求。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxNM3l4bkU0MkFvMW5kOHN1ZFhEdHN2bk10RV9mUlhPUVVDdE5FNE1rYWFHTlVGeVlSTk92eDNjNFZnUEUwQXNiSTA3X3dkWld3ajRwZ0hScXBVTHJYY0gyaTdxWWROYVBxNVdVQjJYVEFSa1EwQVNlZ0dMdlJjLXcxVnRCZ3d3blNv",
@@ -123,9 +410,38 @@
       "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6360768001&PU=0010",
       "source": "富聯網",
       "pubDate": "Sat, 14 Nov 2026 08:27:00 GMT",
-      "stocks": [],
-      "background": "",
-      "themeTags": []
+      "stocks": [
+        {
+          "symbol": "2908",
+          "name": "特力",
+          "point": "前三季獲利成長逾1.86倍，受供應鏈重組與併購效益帶動",
+          "status": "逼近新高",
+          "dist": -4.4
+        },
+        {
+          "symbol": "3557",
+          "name": "嘉威",
+          "point": "前三季稅後轉盈，受雙生產基地策略與越南廠出貨帶動"
+        },
+        {
+          "symbol": "8482",
+          "name": "商億",
+          "point": "前三季獲利增長23.37%，受美系客戶訂單與柬埔寨廠稼動率提升"
+        },
+        {
+          "symbol": "6807",
+          "name": "峰源-KY",
+          "point": "前三季獲利靚",
+          "luw": 1,
+          "luwd": [
+            "11/13"
+          ]
+        }
+      ],
+      "background": "居家貿易族群受惠於去年高關稅基期較低、供應鏈重組、併購效益以及雙生產基地策略，帶動獲利大幅成長。非中產地供應鏈比重提升以因應國際關稅政策。",
+      "themeTags": [
+        "政策關稅"
+      ]
     }
   ]
 }

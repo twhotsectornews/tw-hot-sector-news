@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updatedAt": "2026-11-15T17:25:43.655Z",
+  "updatedAt": "2026-11-16T03:08:29.132Z",
   "news": [
     {
       "gid": "CBMiX0FVX3lxTFBZRlhyR1JXOEFteDdIWHMxaTBobGt0VDZfX3d5U0R0SlBJTXcxLW4weENzX1hXMU1kaF8ydmg5dkF2blV5elB1Wng4Z1l1SHhnNTNOUXF5bVN1VWxwcDBn0gFkQVVfeXFMTlZsMlZPMlFjVDhMYjNwRGxZVGkzN3BJcFVDd3JoU2lGWkZCdUJDd2M3SkdQbi1NQy11MmFiLWlHWjViZW41cEs3OVpzM191ZUFSTUplR29pb1F5VUowWWI0NHhyZg",
@@ -84,6 +84,8 @@
           "point": "交投熱絡",
           "limitUp": true,
           "pct": 9.9,
+          "status": "逼近新高",
+          "dist": -1.1,
           "luw": 1,
           "luwd": [
             "11/13"
