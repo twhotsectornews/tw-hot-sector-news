@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-16T12:04:53.984+08:00",
-  "generatedAt": "2026-11-16T04:04:53.984Z",
+  "asOf": "2026-11-16T13:04:20.345+08:00",
+  "generatedAt": "2026-11-16T05:04:20.345Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -118,17 +118,6 @@
         "11/10",
         "11/9"
       ]
-    },
-    {
-      "symbol": "6274",
-      "name": "台燿",
-      "days": 3,
-      "dates": [
-        "11/14",
-        "11/13",
-        "11/12"
-      ],
-      "mentions": 3
     },
     {
       "symbol": "4904",
@@ -266,6 +255,19 @@
       ]
     },
     {
+      "symbol": "6214",
+      "name": "精誠",
+      "days": 2,
+      "dates": [
+        "11/16",
+        "11/14"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -7.6,
+      "limitUp": false
+    },
+    {
       "symbol": "3035",
       "name": "智原",
       "days": 2,
@@ -373,6 +375,17 @@
       ]
     },
     {
+      "symbol": "6274",
+      "name": "台燿",
+      "days": 2,
+      "dates": [
+        "11/13",
+        "11/12"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "1503",
       "name": "士電",
       "days": 2,
@@ -442,17 +455,6 @@
         "11/10",
         "11/9"
       ]
-    },
-    {
-      "symbol": "8046",
-      "name": "南電",
-      "days": 2,
-      "dates": [
-        "11/12",
-        "11/11"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
@@ -512,7 +514,8 @@
           "symbol": "6938",
           "name": "藍新資訊",
           "point": "率先亮燈漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "11/13",
@@ -526,7 +529,8 @@
           "symbol": "7765",
           "name": "中華資安",
           "point": "率先亮燈漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.8,
           "luw": 1,
           "luwd": [
             "11/13"
@@ -536,7 +540,8 @@
           "symbol": "6752",
           "name": "叡揚",
           "point": "率先亮燈漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.7
         },
         {
           "symbol": "2468",
@@ -609,7 +614,8 @@
           "symbol": "6865",
           "name": "偉康科技",
           "point": "加入漲停行列",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "11/13",
