@@ -1,11 +1,26 @@
 {
-  "asOf": "2026-11-16T14:11:32.772+08:00",
-  "generatedAt": "2026-11-16T06:11:32.772Z",
+  "asOf": "2026-11-16T17:41:23.265+08:00",
+  "generatedAt": "2026-11-16T09:41:23.265Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 4,
+      "dates": [
+        "11/16",
+        "11/14",
+        "11/13",
+        "11/11"
+      ],
+      "mentions": 5,
+      "status": "高檔修正",
+      "dist": -14.5,
+      "limitUp": false
+    },
     {
       "symbol": "3661",
       "name": "世芯-KY",
@@ -25,21 +40,6 @@
       ]
     },
     {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 4,
-      "dates": [
-        "11/16",
-        "11/14",
-        "11/13",
-        "11/11"
-      ],
-      "mentions": 4,
-      "status": "高檔修正",
-      "dist": -12.5,
-      "limitUp": false
-    },
-    {
       "symbol": "3443",
       "name": "創意",
       "days": 3,
@@ -57,6 +57,18 @@
         "11/13",
         "11/11"
       ]
+    },
+    {
+      "symbol": "8046",
+      "name": "南電",
+      "days": 3,
+      "dates": [
+        "11/16",
+        "11/12",
+        "11/11"
+      ],
+      "mentions": 3,
+      "limitUp": false
     },
     {
       "symbol": "2468",
@@ -88,10 +100,11 @@
       ],
       "mentions": 3,
       "limitUp": true,
-      "pct": 9.8,
-      "luw": 4,
+      "pct": 10,
+      "luw": 5,
       "luwd": [
         "11/13",
+        "11/12",
         "11/11",
         "11/10",
         "11/9"
@@ -110,10 +123,11 @@
       "status": "創新高",
       "dist": 0,
       "limitUp": true,
-      "pct": 10,
-      "luw": 4,
+      "pct": 9.9,
+      "luw": 5,
       "luwd": [
         "11/13",
+        "11/12",
         "11/11",
         "11/10",
         "11/9"
@@ -138,9 +152,9 @@
         "11/16",
         "11/11"
       ],
-      "mentions": 3,
+      "mentions": 4,
       "status": "逼近新高",
-      "dist": -5.1,
+      "dist": -6.8,
       "limitUp": false
     },
     {
@@ -151,9 +165,9 @@
         "11/16",
         "11/11"
       ],
-      "mentions": 3,
+      "mentions": 4,
       "status": "逼近新高",
-      "dist": -1.5,
+      "dist": -2.7,
       "limitUp": false
     },
     {
@@ -164,9 +178,9 @@
         "11/16",
         "11/11"
       ],
-      "mentions": 3,
+      "mentions": 4,
       "status": "逼近新高",
-      "dist": -4.8,
+      "dist": -5.5,
       "limitUp": false
     },
     {
@@ -185,6 +199,33 @@
       ]
     },
     {
+      "symbol": "1303",
+      "name": "南亞",
+      "days": 2,
+      "dates": [
+        "11/16",
+        "11/12"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "11/10",
+        "11/9"
+      ]
+    },
+    {
+      "symbol": "2408",
+      "name": "南亞科",
+      "days": 2,
+      "dates": [
+        "11/16",
+        "11/11"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "7767",
       "name": "仁大資訊",
       "days": 2,
@@ -197,9 +238,10 @@
       "dist": -2.8,
       "limitUp": true,
       "pct": 9.9,
-      "luw": 4,
+      "luw": 5,
       "luwd": [
         "11/13",
+        "11/12",
         "11/11",
         "11/10",
         "11/9"
@@ -216,7 +258,16 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -8,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.7,
+      "luw": 5,
+      "luwd": [
+        "11/13",
+        "11/12",
+        "11/11",
+        "11/10",
+        "11/9"
+      ]
     },
     {
       "symbol": "8272",
@@ -227,15 +278,7 @@
         "11/11"
       ],
       "mentions": 2,
-      "limitUp": true,
-      "pct": 9.5,
-      "luw": 4,
-      "luwd": [
-        "11/13",
-        "11/11",
-        "11/10",
-        "11/9"
-      ]
+      "limitUp": false
     },
     {
       "symbol": "6590",
@@ -422,31 +465,130 @@
         "11/10",
         "11/9"
       ]
-    },
-    {
-      "symbol": "8046",
-      "name": "南電",
-      "days": 2,
-      "dates": [
-        "11/12",
-        "11/11"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "5274",
-      "name": "信驊",
-      "days": 2,
-      "dates": [
-        "11/11",
-        "11/10"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOTEhiWGh5T3pkSy12dUhrcjkyamlqYlBUd0JCVFV6bFV5azR0ZXo3Mm9aWGFpQXZsbU5TREhRT0FBLW5CMGwtTVZkSHRYdUNKcXZGWUcwRDdhd181NmUyOG1ycVBDVFl3S1pZRWZnb0ZKS1hORkZiS3dGSW9ZTndiMmxjQ3ZwR0Jx",
+      "tkey": "熱門族群南亞、台勝科、南電跌停台塑家族收盤全倒",
+      "title": "《熱門族群》南亞、台勝科、南電跌停 台塑家族收盤全倒 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6362298001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 16 Nov 2026 06:09:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "終場同步跌停，成為集團重災區之一",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/10",
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "終場同步跌停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "終場同步跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "跌幅達9.8%，幾乎逼近跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "8131",
+          "name": "福懋科",
+          "point": "跌幅超過半根跌停板",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "跌幅超過半根跌停板",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "跌幅超過半根跌停板",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/9"
+          ]
+        }
+      ],
+      "background": "台塑集團受台股大盤重挫影響，先前受AI伺服器高階材料需求帶動的南亞也急轉直下，但AI需求仍是支撐台灣企業獲利的重要動能。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTFBFbEVGRjhTdk9zMnZGYnI0SkRwU01IMF9XbU5Hd3pqdVBNNEtpOVZEdk5jTGp1Sjl6anBEZXM5aER6UlI2SVNJdE1ZdW84WWYzZlpkaUt0dzFhaEc4T0hVOXU2Z0JJbTBZeGc",
+      "tkey": "熱門族群台股大逃殺！電信三雄撐起抗跌保護傘-上市櫃",
+      "title": "《熱門族群》台股大逃殺！電信三雄撐起抗跌保護傘- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20261116900132-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Mon, 16 Nov 2026 03:29:08 GMT",
+      "stocks": [
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "point": "盤中逆勢上揚逾1.8％",
+          "status": "逼近新高",
+          "dist": -6.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "2412",
+          "name": "中華電",
+          "point": "盤上小漲，漲幅約0.5～1％",
+          "status": "逼近新高",
+          "dist": -2.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "point": "盤下震盪小跌",
+          "status": "逼近新高",
+          "dist": -5.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "領頭下殺，電子權值股普遍承壓",
+          "status": "高檔修正",
+          "dist": -14.5,
+          "limitUp": false
+        }
+      ],
+      "background": "電信股具備穩定現金流及高殖利率優勢，在台股大盤震盪時，展現防禦型特質，成為資金避險標的。",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxQc05rWXFSU0hiMklmZXJJSHhaT3FxNlNCcDRHVWdUZE5VdXBYUk1XYTZMRlUwZ0g1amNBSHllaXJhakxYOUkxNGI1RUhkMnY2aVpFYjRwR3NhdDFsRU9KbllOajRzZEgxU3U1S3hvVDY1YWhyM09BQ3V0Y0QxR2JyeEFiWkp6VFY0",
       "tkey": "熱門族群台股大逃殺！電信三雄撐起抗跌保護傘",
@@ -504,10 +646,11 @@
           "name": "藍新資訊",
           "point": "率先亮燈漲停",
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
+          "pct": 9.9,
+          "luw": 5,
           "luwd": [
             "11/13",
+            "11/12",
             "11/11",
             "11/10",
             "11/9"
@@ -528,7 +671,16 @@
           "symbol": "6752",
           "name": "叡揚",
           "point": "率先亮燈漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.7,
+          "luw": 5,
+          "luwd": [
+            "11/13",
+            "11/12",
+            "11/11",
+            "11/10",
+            "11/9"
+          ]
         },
         {
           "symbol": "2468",
@@ -548,10 +700,11 @@
           "name": "驊宏資",
           "point": "加入漲停行列",
           "limitUp": true,
-          "pct": 9.8,
-          "luw": 4,
+          "pct": 10,
+          "luw": 5,
           "luwd": [
             "11/13",
+            "11/12",
             "11/11",
             "11/10",
             "11/9"
@@ -564,10 +717,11 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 10,
-          "luw": 4,
+          "pct": 9.9,
+          "luw": 5,
           "luwd": [
             "11/13",
+            "11/12",
             "11/11",
             "11/10",
             "11/9"
@@ -581,9 +735,10 @@
           "dist": -2.8,
           "limitUp": true,
           "pct": 9.9,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
             "11/13",
+            "11/12",
             "11/11",
             "11/10",
             "11/9"
@@ -595,7 +750,16 @@
           "point": "加入漲停行列",
           "status": "逼近新高",
           "dist": -8,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.7,
+          "luw": 5,
+          "luwd": [
+            "11/13",
+            "11/12",
+            "11/11",
+            "11/10",
+            "11/9"
+          ]
         },
         {
           "symbol": "6865",
@@ -603,9 +767,10 @@
           "point": "加入漲停行列",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
             "11/13",
+            "11/12",
             "11/11",
             "11/10",
             "11/9"
@@ -615,15 +780,7 @@
           "symbol": "8272",
           "name": "全景軟體",
           "point": "加入漲停行列",
-          "limitUp": true,
-          "pct": 9.5,
-          "luw": 4,
-          "luwd": [
-            "11/13",
-            "11/11",
-            "11/10",
-            "11/9"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3664",
@@ -693,9 +850,10 @@
           "dist": 0,
           "limitUp": true,
           "pct": 10,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
             "11/13",
+            "11/12",
             "11/11",
             "11/10",
             "11/9"
@@ -706,9 +864,10 @@
           "name": "訊達",
           "point": "股價週漲近40%",
           "limitUp": false,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
             "11/13",
+            "11/12",
             "11/11",
             "11/10",
             "11/9"
@@ -734,9 +893,10 @@
           "point": "股價漲逾30%",
           "limitUp": true,
           "pct": 9.8,
-          "luw": 4,
+          "luw": 5,
           "luwd": [
             "11/13",
+            "11/12",
             "11/11",
             "11/10",
             "11/9"
@@ -821,14 +981,7 @@
           "symbol": "8227",
           "name": "巨有",
           "point": "ASIC接單有望成長",
-          "limitUp": false,
-          "luw": 4,
-          "luwd": [
-            "11/13",
-            "11/11",
-            "11/10",
-            "11/9"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3035",
