@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updatedAt": "2026-11-16T10:42:38.009Z",
+  "updatedAt": "2026-11-16T19:30:38.713Z",
   "news": [
     {
       "gid": "CBMiX0FVX3lxTFBZRlhyR1JXOEFteDdIWHMxaTBobGt0VDZfX3d5U0R0SlBJTXcxLW4weENzX1hXMU1kaF8ydmg5dkF2blV5elB1Wng4Z1l1SHhnNTNOUXF5bVN1VWxwcDBn0gFkQVVfeXFMTlZsMlZPMlFjVDhMYjNwRGxZVGkzN3BJcFVDd3JoU2lGWkZCdUJDd2M3SkdQbi1NQy11MmFiLWlHWjViZW41cEs3OVpzM191ZUFSTUplR29pb1F5VUowWWI0NHhyZg",
@@ -20,11 +20,11 @@
           "pct": 10,
           "luw": 5,
           "luwd": [
+            "11/16",
             "11/13",
             "11/12",
             "11/11",
-            "11/10",
-            "11/9"
+            "11/10"
           ]
         },
         {
@@ -34,11 +34,11 @@
           "limitUp": false,
           "luw": 5,
           "luwd": [
+            "11/16",
             "11/13",
             "11/12",
             "11/11",
-            "11/10",
-            "11/9"
+            "11/10"
           ]
         },
         {
@@ -49,8 +49,9 @@
           "dist": 0,
           "limitUp": true,
           "pct": 9.9,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "11/16",
             "11/13",
             "11/11"
           ]
@@ -63,11 +64,11 @@
           "pct": 9.8,
           "luw": 5,
           "luwd": [
+            "11/16",
             "11/13",
             "11/12",
             "11/11",
-            "11/10",
-            "11/9"
+            "11/10"
           ]
         },
         {
@@ -86,8 +87,9 @@
           "pct": 9.9,
           "status": "逼近新高",
           "dist": -1.1,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "11/16",
             "11/13"
           ]
         },
@@ -115,21 +117,16 @@
           "symbol": "2454",
           "name": "聯發科",
           "point": "ASIC接單有望成長",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/9"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3661",
           "name": "世芯-KY",
           "point": "ASIC接單有望成長",
           "limitUp": false,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "11/10",
-            "11/9"
+            "11/10"
           ]
         },
         {

@@ -1,0 +1,357 @@
+{
+  "date": "2026-11-16",
+  "updatedAt": "2026-11-16T19:30:38.712Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOTEhiWGh5T3pkSy12dUhrcjkyamlqYlBUd0JCVFV6bFV5azR0ZXo3Mm9aWGFpQXZsbU5TREhRT0FBLW5CMGwtTVZkSHRYdUNKcXZGWUcwRDdhd181NmUyOG1ycVBDVFl3S1pZRWZnb0ZKS1hORkZiS3dGSW9ZTndiMmxjQ3ZwR0Jx",
+      "tkey": "熱門族群南亞、台勝科、南電跌停台塑家族收盤全倒",
+      "title": "《熱門族群》南亞、台勝科、南電跌停 台塑家族收盤全倒 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6362298001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 16 Nov 2026 06:09:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "終場同步跌停，成為集團重災區之一",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/10"
+          ]
+        },
+        {
+          "symbol": "3532",
+          "name": "台勝科",
+          "point": "終場同步跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "終場同步跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "跌幅達9.8%，幾乎逼近跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "8131",
+          "name": "福懋科",
+          "point": "跌幅超過半根跌停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "1326",
+          "name": "台化",
+          "point": "跌幅超過半根跌停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "跌幅超過半根跌停板",
+          "limitUp": false
+        }
+      ],
+      "background": "台塑集團受台股大盤重挫影響，先前受AI伺服器高階材料需求帶動的南亞也急轉直下，但AI需求仍是支撐台灣企業獲利的重要動能。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiakFVX3lxTFBFbEVGRjhTdk9zMnZGYnI0SkRwU01IMF9XbU5Hd3pqdVBNNEtpOVZEdk5jTGp1Sjl6anBEZXM5aER6UlI2SVNJdE1ZdW84WWYzZlpkaUt0dzFhaEc4T0hVOXU2Z0JJbTBZeGc",
+      "tkey": "熱門族群台股大逃殺！電信三雄撐起抗跌保護傘-上市櫃",
+      "title": "《熱門族群》台股大逃殺！電信三雄撐起抗跌保護傘- 上市櫃 - 旺得富理財網",
+      "url": "https://wantrich.chinatimes.com/news/20261116900132-420101",
+      "source": "旺得富理財網",
+      "pubDate": "Mon, 16 Nov 2026 03:29:08 GMT",
+      "stocks": [
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "point": "盤中逆勢上揚逾1.8％",
+          "status": "逼近新高",
+          "dist": -6.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "2412",
+          "name": "中華電",
+          "point": "盤上小漲，漲幅約0.5～1％",
+          "status": "逼近新高",
+          "dist": -2.7,
+          "limitUp": false
+        },
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "point": "盤下震盪小跌",
+          "status": "逼近新高",
+          "dist": -5.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "領頭下殺，電子權值股普遍承壓",
+          "status": "高檔修正",
+          "dist": -14.5,
+          "limitUp": false
+        }
+      ],
+      "background": "電信股具備穩定現金流及高殖利率優勢，在台股大盤震盪時，展現防禦型特質，成為資金避險標的。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQc05rWXFSU0hiMklmZXJJSHhaT3FxNlNCcDRHVWdUZE5VdXBYUk1XYTZMRlUwZ0g1amNBSHllaXJhakxYOUkxNGI1RUhkMnY2aVpFYjRwR3NhdDFsRU9KbllOajRzZEgxU3U1S3hvVDY1YWhyM09BQ3V0Y0QxR2JyeEFiWkp6VFY0",
+      "tkey": "熱門族群台股大逃殺！電信三雄撐起抗跌保護傘",
+      "title": "《熱門族群》台股大逃殺！電信三雄撐起抗跌保護傘 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6362124001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 16 Nov 2026 03:20:00 GMT",
+      "stocks": [
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "point": "盤中逆勢上揚逾1.8％",
+          "status": "逼近新高",
+          "dist": -5.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "2412",
+          "name": "中華電",
+          "point": "盤上小漲，漲幅約0.5～1％",
+          "status": "逼近新高",
+          "dist": -1.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "point": "盤下震盪小跌",
+          "status": "逼近新高",
+          "dist": -4.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "領頭下殺",
+          "status": "高檔修正",
+          "dist": -12.5,
+          "limitUp": false
+        }
+      ],
+      "background": "電信股具備穩定現金流及高殖利率優勢，在台股大盤劇烈震盪時展現抗跌韌性，成為資金避險標的。5G用戶成長與新興業務挹注動能。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNNkgtUTFqSEdia21YVlFzaFB5cktSLVgxeWFSdVBMNWxsTWVRV3ItQk56RWU5cjBmMmtJcWt4Y0lFOE9QbXNBNFZ5cUVIeUo0dmNzeFFtSnh2bWx1RjZyTE1wUGZFRnJ2N0ptZVNwNVN6WDNneXlfR1AzQnVaWm11ZlNWcFBwVnN1",
+      "tkey": "熱門族群資安股漲停聯盟成軍藍新資訊等10檔亮燈",
+      "title": "《熱門族群》資安股「漲停聯盟」成軍 藍新資訊等10檔亮燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6362044001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 16 Nov 2026 02:07:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6938",
+          "name": "藍新資訊",
+          "point": "率先亮燈漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/16",
+            "11/13",
+            "11/12",
+            "11/11",
+            "11/10"
+          ]
+        },
+        {
+          "symbol": "7765",
+          "name": "中華資安",
+          "point": "率先亮燈漲停",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 2,
+          "luwd": [
+            "11/16",
+            "11/13"
+          ]
+        },
+        {
+          "symbol": "6752",
+          "name": "叡揚",
+          "point": "率先亮燈漲停",
+          "limitUp": true,
+          "pct": 9.7,
+          "luw": 5,
+          "luwd": [
+            "11/16",
+            "11/13",
+            "11/12",
+            "11/11",
+            "11/10"
+          ]
+        },
+        {
+          "symbol": "2468",
+          "name": "華經",
+          "point": "率先亮燈漲停",
+          "status": "逼近新高",
+          "dist": -1.1,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 2,
+          "luwd": [
+            "11/16",
+            "11/13"
+          ]
+        },
+        {
+          "symbol": "6148",
+          "name": "驊宏資",
+          "point": "加入漲停行列",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/16",
+            "11/13",
+            "11/12",
+            "11/11",
+            "11/10"
+          ]
+        },
+        {
+          "symbol": "6697",
+          "name": "東捷資訊",
+          "point": "加入漲停行列",
+          "status": "創新高",
+          "dist": 0,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/16",
+            "11/13",
+            "11/12",
+            "11/11",
+            "11/10"
+          ]
+        },
+        {
+          "symbol": "7767",
+          "name": "仁大資訊",
+          "point": "加入漲停行列",
+          "status": "逼近新高",
+          "dist": -2.8,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/16",
+            "11/13",
+            "11/12",
+            "11/11",
+            "11/10"
+          ]
+        },
+        {
+          "symbol": "6751",
+          "name": "智聯服務",
+          "point": "加入漲停行列",
+          "status": "逼近新高",
+          "dist": -8,
+          "limitUp": true,
+          "pct": 9.7,
+          "luw": 5,
+          "luwd": [
+            "11/16",
+            "11/13",
+            "11/12",
+            "11/11",
+            "11/10"
+          ]
+        },
+        {
+          "symbol": "6865",
+          "name": "偉康科技",
+          "point": "加入漲停行列",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/16",
+            "11/13",
+            "11/12",
+            "11/11",
+            "11/10"
+          ]
+        },
+        {
+          "symbol": "8272",
+          "name": "全景軟體",
+          "point": "加入漲停行列",
+          "limitUp": false
+        },
+        {
+          "symbol": "3664",
+          "name": "安瑞-KY",
+          "point": "盤中漲幅達半根漲停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "6590",
+          "name": "普鴻",
+          "point": "盤中漲幅達半根漲停板",
+          "status": "逼近新高",
+          "dist": -0.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "6689",
+          "name": "伊雲谷",
+          "point": "盤中漲幅達半根漲停板",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/13"
+          ]
+        },
+        {
+          "symbol": "6214",
+          "name": "精誠",
+          "point": "盤中漲幅達半根漲停板",
+          "status": "逼近新高",
+          "dist": -7.6,
+          "limitUp": false
+        }
+      ],
+      "background": "資安事件頻傳，金融及企業對資安防護關注升溫，加上AI模型加速軟體開發與漏洞產生，企業對AI資安工具與防禦機制需求提升。金管會也要求金融業強化資安防禦能力。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMikANBVV95cUxNMEh0c1RabVJrUFU3d1NFTmhDSlNFNTJXMld0TTRuMFNTeFVDaGN6eE9mQWFITzh4aGprOV9LZm9lSzZDc19uY3RrdUoySFNiWGRaVW5DMVBTX0RWcjZHbG1pQmhUcldhTVhlRDNNTDk1RlVTaUpENkJGRTJ1am4tTjlDVURXaFB4SmtKVnIxV2M0N3hUdEI0SmMwOXpIYVBhRng5WmFRa19NUTJhbGVMRzVZQkt0UEg3NnNnUDJEYkt3YURDTXpGWHRpR2NmSS1Nc3Z2Zk44OFhmaEZGemVtUzdQczBfaGpaWnRqMzhhelAtMWJCN3FkR3I3UU4wcDNGLXhoaVdPVjZ6T1VGUDNlY05WSlkwajU4aTY0ZjkyeGg2MnFQajdnWUQtOGNKNl9TVHozWWVBS3gwMHhCaGQzVnEzdE5jc3AxWUJVVk9LUGxrN1gwYndfODhJaXJsMEJEalZhVG9uc09yU1AtME9iSm93RFdNQ2RxYzdXN1JUTmpqVTlWbnV0eWZWMWZUWWpC",
+      "tkey": "科技股殺聲隆隆能抄底？阮慕驊體檢3大熱門族群：跌深會彈很兇",
+      "title": "科技股殺聲隆隆能抄底？阮慕驊體檢「3大熱門族群」：跌深會彈很兇 - Yahoo新聞",
+      "url": "https://tw.news.yahoo.com/%E7%A7%91%E6%8A%80%E8%82%A1%E6%AE%BA%E8%81%B2%E9%9A%86%E9%9A%86%E8%83%BD%E6%8A%84%E5%BA%95-%E9%98%AE%E6%85%95%E9%A9%8A%E9%AB%94%E6%AA%A2-3%E5%A4%A7%E7%86%B1%E9%96%80%E6%97%8F%E7%BE%A4-%E8%B7%8C%E6%B7%B1%E6%9C%83%E5%BD%88%E5%BE%88%E5%85%87-160000778.html",
+      "source": "Yahoo新聞",
+      "pubDate": "Sun, 15 Nov 2026 16:00:00 GMT",
+      "stocks": [],
+      "background": "科技股近期震盪整理，記憶體、光通訊、載板等熱門族群面臨各自問題，但因跌深而有反彈潛力。",
+      "themeTags": [
+        "循環位置"
+      ]
+    }
+  ]
+}
