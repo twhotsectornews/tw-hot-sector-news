@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-16T11:08:29.136+08:00",
-  "generatedAt": "2026-11-16T03:08:29.136Z",
+  "asOf": "2026-11-16T12:04:53.984+08:00",
+  "generatedAt": "2026-11-16T04:04:53.984Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -23,6 +23,21 @@
         "11/10",
         "11/9"
       ]
+    },
+    {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 4,
+      "dates": [
+        "11/16",
+        "11/14",
+        "11/13",
+        "11/11"
+      ],
+      "mentions": 4,
+      "status": "高檔修正",
+      "dist": -12.5,
+      "limitUp": false
     },
     {
       "symbol": "3443",
@@ -55,7 +70,8 @@
       "mentions": 3,
       "status": "逼近新高",
       "dist": -1.1,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 1,
       "luwd": [
         "11/13"
@@ -104,19 +120,6 @@
       ]
     },
     {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 3,
-      "dates": [
-        "11/14",
-        "11/13",
-        "11/11"
-      ],
-      "mentions": 3,
-      "status": "高檔修正",
-      "dist": -11.4
-    },
-    {
       "symbol": "6274",
       "name": "台燿",
       "days": 3,
@@ -126,6 +129,45 @@
         "11/12"
       ],
       "mentions": 3
+    },
+    {
+      "symbol": "4904",
+      "name": "遠傳",
+      "days": 2,
+      "dates": [
+        "11/16",
+        "11/11"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -5.1,
+      "limitUp": false
+    },
+    {
+      "symbol": "2412",
+      "name": "中華電",
+      "days": 2,
+      "dates": [
+        "11/16",
+        "11/11"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -1.5,
+      "limitUp": false
+    },
+    {
+      "symbol": "3045",
+      "name": "台灣大",
+      "days": 2,
+      "dates": [
+        "11/16",
+        "11/11"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -4.8,
+      "limitUp": false
     },
     {
       "symbol": "2454",
@@ -140,22 +182,6 @@
       "luw": 1,
       "luwd": [
         "11/9"
-      ]
-    },
-    {
-      "symbol": "3035",
-      "name": "智原",
-      "days": 2,
-      "dates": [
-        "11/15",
-        "11/14"
-      ],
-      "mentions": 3,
-      "limitUp": true,
-      "pct": 9.8,
-      "luw": 1,
-      "luwd": [
-        "11/13"
       ]
     },
     {
@@ -234,6 +260,22 @@
       ],
       "mentions": 2,
       "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/13"
+      ]
+    },
+    {
+      "symbol": "3035",
+      "name": "智原",
+      "days": 2,
+      "dates": [
+        "11/15",
+        "11/14"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 9.8,
       "luw": 1,
       "luwd": [
         "11/13"
@@ -411,20 +453,53 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "5274",
-      "name": "信驊",
-      "days": 2,
-      "dates": [
-        "11/11",
-        "11/10"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQc05rWXFSU0hiMklmZXJJSHhaT3FxNlNCcDRHVWdUZE5VdXBYUk1XYTZMRlUwZ0g1amNBSHllaXJhakxYOUkxNGI1RUhkMnY2aVpFYjRwR3NhdDFsRU9KbllOajRzZEgxU3U1S3hvVDY1YWhyM09BQ3V0Y0QxR2JyeEFiWkp6VFY0",
+      "tkey": "熱門族群台股大逃殺！電信三雄撐起抗跌保護傘",
+      "title": "《熱門族群》台股大逃殺！電信三雄撐起抗跌保護傘 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6362124001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Mon, 16 Nov 2026 03:20:00 GMT",
+      "stocks": [
+        {
+          "symbol": "4904",
+          "name": "遠傳",
+          "point": "盤中逆勢上揚逾1.8％",
+          "status": "逼近新高",
+          "dist": -5.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "2412",
+          "name": "中華電",
+          "point": "盤上小漲，漲幅約0.5～1％",
+          "status": "逼近新高",
+          "dist": -1.5,
+          "limitUp": false
+        },
+        {
+          "symbol": "3045",
+          "name": "台灣大",
+          "point": "盤下震盪小跌",
+          "status": "逼近新高",
+          "dist": -4.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "領頭下殺",
+          "status": "高檔修正",
+          "dist": -12.5,
+          "limitUp": false
+        }
+      ],
+      "background": "電信股具備穩定現金流及高殖利率優勢，在台股大盤劇烈震盪時展現抗跌韌性，成為資金避險標的。5G用戶成長與新興業務挹注動能。",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxNNkgtUTFqSEdia21YVlFzaFB5cktSLVgxeWFSdVBMNWxsTWVRV3ItQk56RWU5cjBmMmtJcWt4Y0lFOE9QbXNBNFZ5cUVIeUo0dmNzeFFtSnh2bWx1RjZyTE1wUGZFRnJ2N0ptZVNwNVN6WDNneXlfR1AzQnVaWm11ZlNWcFBwVnN1",
       "tkey": "熱門族群資安股漲停聯盟成軍藍新資訊等10檔亮燈",
@@ -469,7 +544,8 @@
           "point": "率先亮燈漲停",
           "status": "逼近新高",
           "dist": -1.1,
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 1,
           "luwd": [
             "11/13"
