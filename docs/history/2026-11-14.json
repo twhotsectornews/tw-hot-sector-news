@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updatedAt": "2026-11-16T05:04:20.343Z",
+  "updatedAt": "2026-11-16T06:11:32.769Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOcG80TWNUZXNNa2pua2t0X28teTNLVU1rbHg5ZnVKRy1sUFVpT3RNSEtwWGI0SXJjTHN4OU9KTjY4bm9aRmNEZGw5YlUyUHN3aGpXeUhZX1o5andhUVhxSTVKcHNYTmtvajZfT01SeXdDd1JUUE5PU01nWjlfLVNBdGRyT3BsUW42",
@@ -13,27 +13,27 @@
         {
           "symbol": "2516",
           "name": "新建",
-          "point": "營運看旺，三率三升"
+          "point": "綠色工程帶動三率三升"
         },
         {
           "symbol": "2546",
           "name": "根基",
-          "point": "營運看旺，科技廠辦工程訂單"
+          "point": "科技廠辦案量增加獲利佳"
         },
         {
           "symbol": "5521",
           "name": "工信工程",
-          "point": "營運看旺，三率三升"
+          "point": "綠色工程帶動三率三升"
         },
         {
           "symbol": "9933",
           "name": "中鼎",
-          "point": "營運看旺，綠色及低碳專案",
+          "point": "綠色低碳專案占比提升",
           "status": "逼近新高",
           "dist": -2.1
         }
       ],
-      "background": "營造廠受惠於環保、循環經濟等綠色工程及科技廠辦案量增加，帶動營收與獲利成長。高毛利新案認列高峰，預期三率三升。",
+      "background": "環保綠色工程及科技廠辦案量增加，帶動營造廠營運成長，毛利率、營益率、淨利率齊揚。",
       "themeTags": [
         "需求驅動"
       ]
@@ -49,7 +49,7 @@
         {
           "symbol": "2355",
           "name": "敬鵬",
-          "point": "雙資加持，AI生態系周邊設備",
+          "point": "AI周邊設備受惠漲價",
           "luw": 1,
           "luwd": [
             "11/12"
@@ -58,12 +58,12 @@
         {
           "symbol": "1815",
           "name": "富喬",
-          "point": "雙資加持，吸金指標股"
+          "point": "AI周邊設備受惠漲價"
         },
         {
           "symbol": "3035",
           "name": "智原",
-          "point": "雙資加持，吸金指標股",
+          "point": "AI周邊設備受惠漲價",
           "luw": 1,
           "luwd": [
             "11/13"
@@ -72,7 +72,7 @@
         {
           "symbol": "2464",
           "name": "盟立",
-          "point": "雙資加持，吸金指標股",
+          "point": "AI周邊設備受惠漲價",
           "luw": 1,
           "luwd": [
             "11/9"
@@ -81,7 +81,7 @@
         {
           "symbol": "3661",
           "name": "世芯-KY",
-          "point": "雙資加持，AI加速器新訂單",
+          "point": "AI晶片量產貢獻營收",
           "luw": 2,
           "luwd": [
             "11/10",
@@ -91,24 +91,24 @@
         {
           "symbol": "5388",
           "name": "中磊",
-          "point": "雙資加持，吸金指標股"
+          "point": "AI周邊設備受惠漲價"
         },
         {
           "symbol": "2352",
           "name": "佳世達",
-          "point": "雙資加持，吸金指標股"
+          "point": "AI周邊設備受惠漲價"
         },
         {
           "symbol": "4105",
           "name": "東洋",
-          "point": "雙資加持，吸金指標股",
+          "point": "AI周邊設備受惠漲價",
           "status": "逼近新高",
-          "dist": -2.6
+          "dist": -3.3
         },
         {
           "symbol": "3006",
           "name": "晶豪科",
-          "point": "雙資加持，吸金指標股",
+          "point": "AI周邊設備受惠漲價",
           "luw": 1,
           "luwd": [
             "11/9"
@@ -117,7 +117,7 @@
         {
           "symbol": "2363",
           "name": "矽統",
-          "point": "雙資加持，吸金指標股",
+          "point": "AI周邊設備受惠漲價",
           "luw": 1,
           "luwd": [
             "11/9"
@@ -126,22 +126,22 @@
         {
           "symbol": "2379",
           "name": "瑞昱",
-          "point": "雙資加持，吸金指標股"
+          "point": "AI周邊設備受惠漲價"
         },
         {
           "symbol": "2371",
           "name": "大同",
-          "point": "雙資加持，吸金指標股"
+          "point": "AI周邊設備受惠漲價"
         },
         {
           "symbol": "2504",
           "name": "國產",
-          "point": "雙資加持，吸金指標股"
+          "point": "AI周邊設備受惠漲價"
         },
         {
           "symbol": "2401",
           "name": "凌陽",
-          "point": "雙資加持，吸金指標股",
+          "point": "AI周邊設備受惠漲價",
           "luw": 1,
           "luwd": [
             "11/13"
@@ -150,7 +150,7 @@
         {
           "symbol": "2441",
           "name": "超豐",
-          "point": "雙資加持，吸金指標股",
+          "point": "AI周邊設備受惠漲價",
           "luw": 1,
           "luwd": [
             "11/9"
@@ -159,18 +159,17 @@
         {
           "symbol": "3105",
           "name": "穩懋",
-          "point": "雙資加持，航太衛星通訊產品",
-          "luw": 5,
+          "point": "衛星通訊PA毛利優於平均",
+          "luw": 4,
           "luwd": [
             "11/13",
-            "11/12",
             "11/11",
             "11/10",
             "11/9"
           ]
         }
       ],
-      "background": "外資由賣轉買，投信同步加碼，顯示市場對部分個股信心回升。AI基建、ADAS、衛星通訊等新興應用需求驅動相關產業成長。",
+      "background": "外資由賣轉買，投信同步加碼，AI生態系周邊設備及衛星通訊受惠，股價具吸金力道。",
       "themeTags": [
         "需求驅動"
       ]
@@ -210,21 +209,21 @@
       "pubDate": "Sat, 14 Nov 2026 08:31:00 GMT",
       "stocks": [
         {
-          "symbol": "5469",
+          "symbol": "3164",
           "name": "瀚宇博",
-          "point": "第三季財報亮眼，高階產品比重提升",
-          "luw": 1,
-          "luwd": [
-            "11/9"
-          ]
+          "point": "Q3獲利倍增營收創新高"
         },
         {
-          "symbol": "6197",
+          "symbol": "2355",
           "name": "精成科",
-          "point": "第三季財報亮眼，高階產品比重提升"
+          "point": "Q3獲利倍增營收創新高",
+          "luw": 1,
+          "luwd": [
+            "11/12"
+          ]
         }
       ],
-      "background": "PCB廠瀚宇博、精成科受惠於高階產品比重提升及AI伺服器、高速網通需求，營收獲利顯著成長。台灣、馬來西亞、新加坡擴產將陸續開出。",
+      "background": "PCB廠提升高階產品比重，擴產承接AI伺服器及高速網通需求，Q3財報亮眼。",
       "themeTags": [
         "需求驅動"
       ]
@@ -240,7 +239,7 @@
         {
           "symbol": "2344",
           "name": "華邦電",
-          "point": "政府力挺，基本面強勁",
+          "point": "基本面強勁獲政府力挺",
           "luw": 1,
           "luwd": [
             "11/9"
@@ -249,7 +248,7 @@
         {
           "symbol": "2337",
           "name": "旺宏",
-          "point": "政府力挺，基本面強勁",
+          "point": "基本面強勁獲政府力挺",
           "luw": 1,
           "luwd": [
             "11/9"
@@ -258,101 +257,85 @@
         {
           "symbol": "2330",
           "name": "台積電",
-          "point": "政府力挺，基本面強勁",
+          "point": "基本面強勁獲政府力挺",
           "status": "高檔修正",
-          "dist": -12.9
+          "dist": -14.5
         },
         {
-          "symbol": "3034",
+          "symbol": "3693",
           "name": "聯茂",
-          "point": "政府力挺，PCB上游材料"
+          "point": "PCB上游材料獲公股買盤"
         },
         {
-          "symbol": "8358",
+          "symbol": "1539",
           "name": "金居",
-          "point": "政府力挺，銅箔廠"
+          "point": "PCB上游材料獲公股買盤"
         },
         {
-          "symbol": "5351",
-          "name": "鈺創",
-          "point": "政府力挺，基本面強勁"
+          "symbol": "3397",
+          "name": "玉創",
+          "point": "基本面強勁獲政府力挺"
         },
         {
-          "symbol": "6257",
+          "symbol": "6270",
           "name": "矽格",
-          "point": "政府力挺，測試與耗材"
+          "point": "基本面強勁獲政府力挺"
         },
         {
-          "symbol": "6271",
+          "symbol": "6277",
           "name": "欣銓",
-          "point": "政府力挺，測試與耗材",
-          "luw": 2,
-          "luwd": [
-            "11/10",
-            "11/9"
-          ]
+          "point": "基本面強勁獲政府力挺"
         },
         {
-          "symbol": "6676",
+          "symbol": "4958",
           "name": "騰輝電子-KY",
-          "point": "政府力挺，PCB上游材料"
+          "point": "PCB上游材料獲公股買盤"
         },
         {
-          "symbol": "1560",
+          "symbol": "1109",
           "name": "中砂",
-          "point": "政府力挺，測試與耗材",
-          "luw": 1,
-          "luwd": [
-            "11/9"
-          ]
+          "point": "基本面強勁獲政府力挺"
         },
         {
-          "symbol": "2383",
+          "symbol": "4721",
           "name": "台光電",
-          "point": "政府力挺，PCB上游材料"
+          "point": "PCB上游材料獲公股買盤"
         },
         {
-          "symbol": "2359",
+          "symbol": "5471",
           "name": "順德",
-          "point": "政府力挺，基本面強勁"
+          "point": "基本面強勁獲政府力挺"
         },
         {
-          "symbol": "8299",
-          "name": "群聯",
-          "point": "政府力挺，基本面強勁"
-        },
-        {
-          "symbol": "6214",
-          "name": "全科",
-          "point": "政府力挺，基本面強勁",
-          "status": "逼近新高",
-          "dist": -6.9
-        },
-        {
-          "symbol": "6278",
+          "symbol": "3346",
           "name": "台燿",
-          "point": "政府力挺，PCB上游材料",
-          "luw": 2,
-          "luwd": [
-            "11/10",
-            "11/9"
-          ]
+          "point": "PCB上游材料獲公股買盤"
         },
         {
-          "symbol": "5216",
+          "symbol": "6220",
+          "name": "全科",
+          "point": "基本面強勁獲政府力挺"
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "PCB上游材料獲公股買盤"
+        },
+        {
+          "symbol": "6147",
           "name": "乙盛-KY",
-          "point": "政府力挺，基本面強勁"
+          "point": "基本面強勁獲政府力挺"
         },
         {
-          "symbol": "3388",
+          "symbol": "3328",
           "name": "崇越",
-          "point": "政府力挺，測試與耗材"
+          "point": "基本面強勁獲政府力挺"
         }
       ],
-      "background": "國安基金護盤及限空令穩定台股，政府力挺基本面強勁的個股。AI伺服器與高速交換器升級帶動記憶體、晶圓代工、PCB上游材料需求。",
+      "background": "國安基金護盤，公股行庫買超，記憶體、PCB上游材料、測試廠受惠，基本面強勁。",
       "themeTags": [
         "政策關稅",
-        "需求驅動"
+        "循環位置"
       ]
     },
     {
@@ -435,6 +418,46 @@
         }
       ],
       "background": "居家貿易族群受惠於去年高關稅基期低，供應鏈重組及併購效益發酵，獲利大幅成長。中國與越南雙生產基地策略分散風險。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxQZk1xamlDRndjWWJaVzN0cUFBckpTdVhlQzRyVlI3Wl9YS1N4RXcyMXN5TkZrN21JeVhaX21JMmI3LWlqM2ctUllxMHROdEtWTGExVzgza1BGT3cwOEVyTmRfVU1RWmxyRFhwWjdLVV9mWXBDYk5XOFMzbFlCcmJ3enNPVUNKSjFN",
+      "tkey": "熱門族群布局發酵居家貿易股獲利靚",
+      "title": "《熱門族群》布局發酵 居家貿易股獲利靚 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6360768001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sat, 14 Nov 2026 08:27:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2908",
+          "name": "特力",
+          "point": "併購Hampton Products獲利增",
+          "status": "逼近新高",
+          "dist": -4.2
+        },
+        {
+          "symbol": "3557",
+          "name": "嘉威",
+          "point": "雙生產基地因應關稅政策"
+        },
+        {
+          "symbol": "8482",
+          "name": "商億",
+          "point": "美系客戶訂單穩定成長"
+        },
+        {
+          "symbol": "6807",
+          "name": "峰源-KY",
+          "point": "居家貿易獲利成長",
+          "luw": 1,
+          "luwd": [
+            "11/13"
+          ]
+        }
+      ],
+      "background": "居家貿易股因應國際關稅政策，優化供應鏈管理及產品結構，獲利顯著成長。",
       "themeTags": [
         "政策關稅"
       ]

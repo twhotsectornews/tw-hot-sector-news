@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updatedAt": "2026-11-16T05:04:20.342Z",
+  "updatedAt": "2026-11-16T06:11:32.767Z",
   "news": [
     {
       "gid": "CBMiX0FVX3lxTFBZRlhyR1JXOEFteDdIWHMxaTBobGt0VDZfX3d5U0R0SlBJTXcxLW4weENzX1hXMU1kaF8ydmg5dkF2blV5elB1Wng4Z1l1SHhnNTNOUXF5bVN1VWxwcDBn0gFkQVVfeXFMTlZsMlZPMlFjVDhMYjNwRGxZVGkzN3BJcFVDd3JoU2lGWkZCdUJDd2M3SkdQbi1NQy11MmFiLWlHWjViZW41cEs3OVpzM191ZUFSTUplR29pb1F5VUowWWI0NHhyZg",
@@ -18,10 +18,9 @@
           "dist": 0,
           "limitUp": true,
           "pct": 10,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "11/13",
-            "11/12",
             "11/11",
             "11/10",
             "11/9"
@@ -32,10 +31,9 @@
           "name": "訊達",
           "point": "股價週漲近40%",
           "limitUp": false,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "11/13",
-            "11/12",
             "11/11",
             "11/10",
             "11/9"
@@ -61,10 +59,9 @@
           "point": "股價漲逾30%",
           "limitUp": true,
           "pct": 9.8,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "11/13",
-            "11/12",
             "11/11",
             "11/10",
             "11/9"
@@ -150,10 +147,9 @@
           "name": "巨有",
           "point": "ASIC接單有望成長",
           "limitUp": false,
-          "luw": 5,
+          "luw": 4,
           "luwd": [
             "11/13",
-            "11/12",
             "11/11",
             "11/10",
             "11/9"
