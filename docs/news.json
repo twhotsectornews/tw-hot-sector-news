@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-17T14:04:59.190+08:00",
-  "generatedAt": "2026-11-17T06:04:59.190Z",
+  "asOf": "2026-11-17T17:43:28.468+08:00",
+  "generatedAt": "2026-11-17T09:43:28.468Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -98,15 +98,7 @@
       ],
       "mentions": 3,
       "limitUp": true,
-      "pct": 10,
-      "luw": 5,
-      "luwd": [
-        "11/16",
-        "11/13",
-        "11/12",
-        "11/11",
-        "11/10"
-      ]
+      "pct": 10
     },
     {
       "symbol": "6697",
@@ -121,15 +113,7 @@
       "status": "創新高",
       "dist": 0,
       "limitUp": true,
-      "pct": 9.9,
-      "luw": 5,
-      "luwd": [
-        "11/16",
-        "11/13",
-        "11/12",
-        "11/11",
-        "11/10"
-      ]
+      "pct": 9.9
     },
     {
       "symbol": "6274",
@@ -190,6 +174,71 @@
         "11/13"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2887",
+      "name": "台新新光金",
+      "days": 2,
+      "dates": [
+        "11/17",
+        "11/13"
+      ],
+      "mentions": 2,
+      "status": "高檔修正",
+      "dist": -12.3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2891",
+      "name": "中信金",
+      "days": 2,
+      "dates": [
+        "11/17",
+        "11/13"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -2.9,
+      "limitUp": false
+    },
+    {
+      "symbol": "2882",
+      "name": "國泰金",
+      "days": 2,
+      "dates": [
+        "11/17",
+        "11/13"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -5.9,
+      "limitUp": false
+    },
+    {
+      "symbol": "2884",
+      "name": "玉山金",
+      "days": 2,
+      "dates": [
+        "11/17",
+        "11/13"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -6.9,
+      "limitUp": false
+    },
+    {
+      "symbol": "2881",
+      "name": "富邦金",
+      "days": 2,
+      "dates": [
+        "11/17",
+        "11/13"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -8.5,
       "limitUp": false
     },
     {
@@ -274,15 +323,7 @@
       "status": "逼近新高",
       "dist": -2.8,
       "limitUp": true,
-      "pct": 9.9,
-      "luw": 5,
-      "luwd": [
-        "11/16",
-        "11/13",
-        "11/12",
-        "11/11",
-        "11/10"
-      ]
+      "pct": 9.9
     },
     {
       "symbol": "6751",
@@ -296,15 +337,7 @@
       "status": "逼近新高",
       "dist": -8,
       "limitUp": true,
-      "pct": 9.7,
-      "luw": 5,
-      "luwd": [
-        "11/16",
-        "11/13",
-        "11/12",
-        "11/11",
-        "11/10"
-      ]
+      "pct": 9.7
     },
     {
       "symbol": "8272",
@@ -370,78 +403,77 @@
         "11/12"
       ],
       "mentions": 2
-    },
-    {
-      "symbol": "3006",
-      "name": "晶豪科",
-      "days": 2,
-      "dates": [
-        "11/14",
-        "11/11"
-      ],
-      "mentions": 2,
-      "luw": 1,
-      "luwd": [
-        "11/9"
-      ]
-    },
-    {
-      "symbol": "2344",
-      "name": "華邦電",
-      "days": 2,
-      "dates": [
-        "11/14",
-        "11/11"
-      ],
-      "mentions": 2,
-      "luw": 1,
-      "luwd": [
-        "11/9"
-      ]
-    },
-    {
-      "symbol": "3008",
-      "name": "大立光",
-      "days": 2,
-      "dates": [
-        "11/13",
-        "11/11"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "11/9"
-      ]
-    },
-    {
-      "symbol": "1503",
-      "name": "士電",
-      "days": 2,
-      "dates": [
-        "11/13",
-        "11/11"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "11/9"
-      ]
-    },
-    {
-      "symbol": "1513",
-      "name": "中興電",
-      "days": 2,
-      "dates": [
-        "11/13",
-        "11/11"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPOEljRGV4cDVyTWFVRk5vUWRjZ0ZsX1o3dUVFaW5zWE5nemUwNTZlVWRfYmZPS1A3THluMURqb3FRdzdEbm5YWFBvZ3NGN0FTTTJrSkpuWkhmb3pDY0U5VlRtYzhtWFQ0U2tsaG1jZUpZRURWUFZhZ2tHeGtBNkF2cGhEMnlwZ3pR",
+      "tkey": "熱門族群金控股資金防空洞！台新新光金突圍中信、國泰收紅",
+      "title": "《熱門族群》金控股資金防空洞！ 台新新光金突圍 中信、國泰收紅 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6363498001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 17 Nov 2026 06:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2887",
+          "name": "台新新光金",
+          "point": "逆勢上漲，累計獲利成長王",
+          "status": "高檔修正",
+          "dist": -12.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "2891",
+          "name": "中信金",
+          "point": "漲幅接近1%",
+          "status": "逼近新高",
+          "dist": -2.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "2882",
+          "name": "國泰金",
+          "point": "同步收紅，10月單月獲利王",
+          "status": "逼近新高",
+          "dist": -5.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "2886",
+          "name": "兆豐金",
+          "point": "同步收紅",
+          "status": "逼近新高",
+          "dist": -2.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "2884",
+          "name": "玉山金",
+          "point": "賣壓較重，終場下跌3%",
+          "status": "逼近新高",
+          "dist": -6.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "2890",
+          "name": "永豐金",
+          "point": "下跌2%",
+          "status": "高檔修正",
+          "dist": -12.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "2881",
+          "name": "富邦金",
+          "point": "累計前10月獲利王及EPS王",
+          "status": "逼近新高",
+          "dist": -8.5,
+          "limitUp": false
+        }
+      ],
+      "background": "台股震盪劇烈，電子股賣壓沉重，資金轉向金融股尋求避險。金控前10月獲利創同期新高，成為股價支撐利基。",
+      "themeTags": []
+    },
     {
       "gid": "CBMiiAFBVV95cUxPTW0xVTVjQmJoNE81RE9vdXlWQWl2S0ZqUkFpOWxOd0ZiUFRJOHV0X08xZXliN082blpGXzRjb0hwYmJkSUtLSUxRSVVqOUJpamc1eS05ckpOMWdDR0JlTmF1eXFfNXBvdTR3NUNvRzIyVzRWUWFpQ2xDVGs4QlpFRy1PYUhqbGgz",
       "tkey": "熱門族群亂世英雄！生技強鎖3顆紅燈1檔月噴7成",
@@ -454,7 +486,8 @@
           "symbol": "4174",
           "name": "浩鼎",
           "point": "簽署ADC平台合作協議",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "11/16",
@@ -469,13 +502,22 @@
           "name": "益得",
           "point": "獲經濟部專案補助",
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/16",
+            "11/13",
+            "11/12",
+            "11/11",
+            "11/10"
+          ]
         },
         {
           "symbol": "6919",
           "name": "康霈*",
           "point": "強鎖紅燈",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.7
         },
         {
           "symbol": "7799",
@@ -769,15 +811,7 @@
           "name": "藍新資訊",
           "point": "率先亮燈漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/16",
-            "11/13",
-            "11/12",
-            "11/11",
-            "11/10"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "7765",
@@ -796,15 +830,7 @@
           "name": "叡揚",
           "point": "率先亮燈漲停",
           "limitUp": true,
-          "pct": 9.7,
-          "luw": 5,
-          "luwd": [
-            "11/16",
-            "11/13",
-            "11/12",
-            "11/11",
-            "11/10"
-          ]
+          "pct": 9.7
         },
         {
           "symbol": "2468",
@@ -825,15 +851,7 @@
           "name": "驊宏資",
           "point": "加入漲停行列",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "11/16",
-            "11/13",
-            "11/12",
-            "11/11",
-            "11/10"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6697",
@@ -842,15 +860,7 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/16",
-            "11/13",
-            "11/12",
-            "11/11",
-            "11/10"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "7767",
@@ -859,15 +869,7 @@
           "status": "逼近新高",
           "dist": -2.8,
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/16",
-            "11/13",
-            "11/12",
-            "11/11",
-            "11/10"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6751",
@@ -876,30 +878,14 @@
           "status": "逼近新高",
           "dist": -8,
           "limitUp": true,
-          "pct": 9.7,
-          "luw": 5,
-          "luwd": [
-            "11/16",
-            "11/13",
-            "11/12",
-            "11/11",
-            "11/10"
-          ]
+          "pct": 9.7
         },
         {
           "symbol": "6865",
           "name": "偉康科技",
           "point": "加入漲停行列",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/16",
-            "11/13",
-            "11/12",
-            "11/11",
-            "11/10"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "8272",

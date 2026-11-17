@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updatedAt": "2026-11-17T06:04:59.188Z",
+  "updatedAt": "2026-11-17T09:43:28.464Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOTEhiWGh5T3pkSy12dUhrcjkyamlqYlBUd0JCVFV6bFV5azR0ZXo3Mm9aWGFpQXZsbU5TREhRT0FBLW5CMGwtTVZkSHRYdUNKcXZGWUcwRDdhd181NmUyOG1ycVBDVFl3S1pZRWZnb0ZKS1hORkZiS3dGSW9ZTndiMmxjQ3ZwR0Jx",
@@ -163,15 +163,7 @@
           "name": "藍新資訊",
           "point": "率先亮燈漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/16",
-            "11/13",
-            "11/12",
-            "11/11",
-            "11/10"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "7765",
@@ -190,15 +182,7 @@
           "name": "叡揚",
           "point": "率先亮燈漲停",
           "limitUp": true,
-          "pct": 9.7,
-          "luw": 5,
-          "luwd": [
-            "11/16",
-            "11/13",
-            "11/12",
-            "11/11",
-            "11/10"
-          ]
+          "pct": 9.7
         },
         {
           "symbol": "2468",
@@ -219,15 +203,7 @@
           "name": "驊宏資",
           "point": "加入漲停行列",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "11/16",
-            "11/13",
-            "11/12",
-            "11/11",
-            "11/10"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6697",
@@ -236,15 +212,7 @@
           "status": "創新高",
           "dist": 0,
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/16",
-            "11/13",
-            "11/12",
-            "11/11",
-            "11/10"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "7767",
@@ -253,15 +221,7 @@
           "status": "逼近新高",
           "dist": -2.8,
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/16",
-            "11/13",
-            "11/12",
-            "11/11",
-            "11/10"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6751",
@@ -270,30 +230,14 @@
           "status": "逼近新高",
           "dist": -8,
           "limitUp": true,
-          "pct": 9.7,
-          "luw": 5,
-          "luwd": [
-            "11/16",
-            "11/13",
-            "11/12",
-            "11/11",
-            "11/10"
-          ]
+          "pct": 9.7
         },
         {
           "symbol": "6865",
           "name": "偉康科技",
           "point": "加入漲停行列",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/16",
-            "11/13",
-            "11/12",
-            "11/11",
-            "11/10"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "8272",
