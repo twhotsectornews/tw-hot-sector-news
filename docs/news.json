@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-17T11:06:07.883+08:00",
-  "generatedAt": "2026-11-17T03:06:07.883Z",
+  "asOf": "2026-11-17T12:05:18.755+08:00",
+  "generatedAt": "2026-11-17T04:05:18.755Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -442,6 +442,83 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPTW0xVTVjQmJoNE81RE9vdXlWQWl2S0ZqUkFpOWxOd0ZiUFRJOHV0X08xZXliN082blpGXzRjb0hwYmJkSUtLSUxRSVVqOUJpamc1eS05ckpOMWdDR0JlTmF1eXFfNXBvdTR3NUNvRzIyVzRWUWFpQ2xDVGs4QlpFRy1PYUhqbGgz",
+      "tkey": "熱門族群亂世英雄！生技強鎖3顆紅燈1檔月噴7成",
+      "title": "《熱門族群》亂世英雄！生技強鎖3顆紅燈 1檔月噴7成 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6363302001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 17 Nov 2026 02:58:00 GMT",
+      "stocks": [
+        {
+          "symbol": "4174",
+          "name": "浩鼎",
+          "point": "簽署ADC平台合作協議",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/16",
+            "11/13",
+            "11/12",
+            "11/11",
+            "11/10"
+          ]
+        },
+        {
+          "symbol": "6461",
+          "name": "益得",
+          "point": "獲經濟部專案補助",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "6919",
+          "name": "康霈*",
+          "point": "強鎖紅燈",
+          "limitUp": false
+        },
+        {
+          "symbol": "7799",
+          "name": "禾榮科",
+          "point": "跟進走揚半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "4737",
+          "name": "華廣",
+          "point": "跟進走揚半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "6661",
+          "name": "威健生技",
+          "point": "跟進走揚半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "6872",
+          "name": "浩宇生醫",
+          "point": "跟進走揚半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "6612",
+          "name": "奈米醫材",
+          "point": "跟進走揚半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "point": "血癌新藥銷售成長",
+          "limitUp": false
+        }
+      ],
+      "background": "生技股在科技股震盪下成為資金避風港，受惠於新藥研發里程碑及國際合作題材，加上政府專案補助，產業有望延續成長動能。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNYmIyMWR4VTljeTZ4a0NHQnh3LU1QbzJEd0lGSGNNOEVQRXhRd3dRbGZxeUU1WkMxcUZMRzMxSm5McVBWUFNtMzhRaWxUcUo4OENWRTBoUkNmWjNLamdteEc4UzNTZEx1X1N0eEVMUENPM1loUnJGek1TbXh3T0x2VS1xVmpDRmpk",
       "tkey": "熱門族群股王淚別萬元、股后也跌停千金股持續縮水",
