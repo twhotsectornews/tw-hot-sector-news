@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-17T19:18:46.279+08:00",
-  "generatedAt": "2026-11-17T11:18:46.279Z",
+  "asOf": "2026-11-18T02:27:07.708+08:00",
+  "generatedAt": "2026-11-17T18:27:07.708Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,14 +9,13 @@
     {
       "symbol": "3443",
       "name": "創意",
-      "days": 4,
+      "days": 3,
       "dates": [
         "11/17",
         "11/15",
-        "11/13",
-        "11/11"
+        "11/13"
       ],
-      "mentions": 5,
+      "mentions": 4,
       "limitUp": false,
       "luw": 2,
       "luwd": [
@@ -27,14 +26,13 @@
     {
       "symbol": "2330",
       "name": "台積電",
-      "days": 4,
+      "days": 3,
       "dates": [
         "11/16",
         "11/14",
-        "11/13",
-        "11/11"
+        "11/13"
       ],
-      "mentions": 5,
+      "mentions": 4,
       "status": "高檔修正",
       "dist": -14.5,
       "limitUp": false
@@ -56,66 +54,6 @@
       ]
     },
     {
-      "symbol": "8046",
-      "name": "南電",
-      "days": 3,
-      "dates": [
-        "11/16",
-        "11/12",
-        "11/11"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "2468",
-      "name": "華經",
-      "days": 3,
-      "dates": [
-        "11/16",
-        "11/15",
-        "11/11"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -1.1,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 2,
-      "luwd": [
-        "11/16",
-        "11/13"
-      ]
-    },
-    {
-      "symbol": "6148",
-      "name": "驊宏資",
-      "days": 3,
-      "dates": [
-        "11/16",
-        "11/15",
-        "11/11"
-      ],
-      "mentions": 3,
-      "limitUp": true,
-      "pct": 10
-    },
-    {
-      "symbol": "6697",
-      "name": "東捷資訊",
-      "days": 3,
-      "dates": [
-        "11/16",
-        "11/15",
-        "11/11"
-      ],
-      "mentions": 3,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": true,
-      "pct": 9.9
-    },
-    {
       "symbol": "6274",
       "name": "台燿",
       "days": 3,
@@ -125,45 +63,6 @@
         "11/12"
       ],
       "mentions": 3
-    },
-    {
-      "symbol": "4904",
-      "name": "遠傳",
-      "days": 2,
-      "dates": [
-        "11/16",
-        "11/11"
-      ],
-      "mentions": 4,
-      "status": "逼近新高",
-      "dist": -6.8,
-      "limitUp": false
-    },
-    {
-      "symbol": "2412",
-      "name": "中華電",
-      "days": 2,
-      "dates": [
-        "11/16",
-        "11/11"
-      ],
-      "mentions": 4,
-      "status": "逼近新高",
-      "dist": -2.7,
-      "limitUp": false
-    },
-    {
-      "symbol": "3045",
-      "name": "台灣大",
-      "days": 2,
-      "dates": [
-        "11/16",
-        "11/11"
-      ],
-      "mentions": 4,
-      "status": "逼近新高",
-      "dist": -5.5,
-      "limitUp": false
     },
     {
       "symbol": "2454",
@@ -242,39 +141,6 @@
       "limitUp": false
     },
     {
-      "symbol": "5274",
-      "name": "信驊",
-      "days": 2,
-      "dates": [
-        "11/17",
-        "11/11"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3653",
-      "name": "健策",
-      "days": 2,
-      "dates": [
-        "11/17",
-        "11/11"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2059",
-      "name": "川湖",
-      "days": 2,
-      "dates": [
-        "11/17",
-        "11/11"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
       "symbol": "6442",
       "name": "光聖",
       "days": 2,
@@ -294,89 +160,63 @@
         "11/12"
       ],
       "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "11/10"
-      ]
+      "limitUp": false
     },
     {
-      "symbol": "2408",
-      "name": "南亞科",
+      "symbol": "8046",
+      "name": "南電",
       "days": 2,
       "dates": [
         "11/16",
-        "11/11"
+        "11/12"
       ],
       "mentions": 2,
       "limitUp": false
     },
     {
-      "symbol": "7767",
-      "name": "仁大資訊",
+      "symbol": "2468",
+      "name": "華經",
       "days": 2,
       "dates": [
         "11/16",
-        "11/11"
+        "11/15"
       ],
       "mentions": 2,
       "status": "逼近新高",
-      "dist": -2.8,
+      "dist": -1.1,
       "limitUp": true,
-      "pct": 9.9
-    },
-    {
-      "symbol": "6751",
-      "name": "智聯服務",
-      "days": 2,
-      "dates": [
-        "11/16",
-        "11/11"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -8,
-      "limitUp": true,
-      "pct": 9.7
-    },
-    {
-      "symbol": "8272",
-      "name": "全景軟體",
-      "days": 2,
-      "dates": [
-        "11/16",
-        "11/11"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "6590",
-      "name": "普鴻",
-      "days": 2,
-      "dates": [
-        "11/16",
-        "11/11"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -0.9,
-      "limitUp": false
-    },
-    {
-      "symbol": "6689",
-      "name": "伊雲谷",
-      "days": 2,
-      "dates": [
-        "11/16",
-        "11/11"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
+      "pct": 10,
+      "luw": 2,
       "luwd": [
+        "11/16",
         "11/13"
       ]
+    },
+    {
+      "symbol": "6148",
+      "name": "驊宏資",
+      "days": 2,
+      "dates": [
+        "11/16",
+        "11/15"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 10
+    },
+    {
+      "symbol": "6697",
+      "name": "東捷資訊",
+      "days": 2,
+      "dates": [
+        "11/16",
+        "11/15"
+      ],
+      "mentions": 2,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "3035",
@@ -490,11 +330,11 @@
           "pct": 10,
           "luw": 5,
           "luwd": [
+            "11/17",
             "11/16",
             "11/13",
             "11/12",
-            "11/11",
-            "11/10"
+            "11/11"
           ]
         },
         {
@@ -505,11 +345,11 @@
           "pct": 9.9,
           "luw": 5,
           "luwd": [
+            "11/17",
             "11/16",
             "11/13",
             "11/12",
-            "11/11",
-            "11/10"
+            "11/11"
           ]
         },
         {
@@ -517,7 +357,11 @@
           "name": "康霈*",
           "point": "強鎖紅燈",
           "limitUp": true,
-          "pct": 9.7
+          "pct": 9.7,
+          "luw": 1,
+          "luwd": [
+            "11/17"
+          ]
         },
         {
           "symbol": "7799",
@@ -620,11 +464,7 @@
           "symbol": "2308",
           "name": "台達電",
           "point": "股價在千元關卡上方不遠",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/10"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3529",
@@ -662,11 +502,7 @@
           "symbol": "1303",
           "name": "南亞",
           "point": "終場同步跌停，成為集團重災區之一",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/10"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3532",

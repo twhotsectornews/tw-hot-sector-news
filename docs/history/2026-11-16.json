@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updatedAt": "2026-11-17T11:18:46.277Z",
+  "updatedAt": "2026-11-17T18:27:07.705Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOTEhiWGh5T3pkSy12dUhrcjkyamlqYlBUd0JCVFV6bFV5azR0ZXo3Mm9aWGFpQXZsbU5TREhRT0FBLW5CMGwtTVZkSHRYdUNKcXZGWUcwRDdhd181NmUyOG1ycVBDVFl3S1pZRWZnb0ZKS1hORkZiS3dGSW9ZTndiMmxjQ3ZwR0Jx",
@@ -14,11 +14,7 @@
           "symbol": "1303",
           "name": "南亞",
           "point": "終場同步跌停，成為集團重災區之一",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/10"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3532",

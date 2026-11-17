@@ -1,0 +1,250 @@
+{
+  "date": "2026-11-17",
+  "updatedAt": "2026-11-17T18:27:07.704Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPOEljRGV4cDVyTWFVRk5vUWRjZ0ZsX1o3dUVFaW5zWE5nemUwNTZlVWRfYmZPS1A3THluMURqb3FRdzdEbm5YWFBvZ3NGN0FTTTJrSkpuWkhmb3pDY0U5VlRtYzhtWFQ0U2tsaG1jZUpZRURWUFZhZ2tHeGtBNkF2cGhEMnlwZ3pR",
+      "tkey": "熱門族群金控股資金防空洞！台新新光金突圍中信、國泰收紅",
+      "title": "《熱門族群》金控股資金防空洞！ 台新新光金突圍 中信、國泰收紅 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6363498001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 17 Nov 2026 06:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2887",
+          "name": "台新新光金",
+          "point": "逆勢上漲，累計獲利成長王",
+          "status": "高檔修正",
+          "dist": -12.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "2891",
+          "name": "中信金",
+          "point": "漲幅接近1%",
+          "status": "逼近新高",
+          "dist": -2.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "2882",
+          "name": "國泰金",
+          "point": "同步收紅，10月單月獲利王",
+          "status": "逼近新高",
+          "dist": -5.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "2886",
+          "name": "兆豐金",
+          "point": "同步收紅",
+          "status": "逼近新高",
+          "dist": -2.3,
+          "limitUp": false
+        },
+        {
+          "symbol": "2884",
+          "name": "玉山金",
+          "point": "賣壓較重，終場下跌3%",
+          "status": "逼近新高",
+          "dist": -6.9,
+          "limitUp": false
+        },
+        {
+          "symbol": "2890",
+          "name": "永豐金",
+          "point": "下跌2%",
+          "status": "高檔修正",
+          "dist": -12.1,
+          "limitUp": false
+        },
+        {
+          "symbol": "2881",
+          "name": "富邦金",
+          "point": "累計前10月獲利王及EPS王",
+          "status": "逼近新高",
+          "dist": -8.5,
+          "limitUp": false
+        }
+      ],
+      "background": "台股震盪劇烈，電子股賣壓沉重，資金轉向金融股尋求避險。金控前10月獲利創同期新高，成為股價支撐利基。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPTW0xVTVjQmJoNE81RE9vdXlWQWl2S0ZqUkFpOWxOd0ZiUFRJOHV0X08xZXliN082blpGXzRjb0hwYmJkSUtLSUxRSVVqOUJpamc1eS05ckpOMWdDR0JlTmF1eXFfNXBvdTR3NUNvRzIyVzRWUWFpQ2xDVGs4QlpFRy1PYUhqbGgz",
+      "tkey": "熱門族群亂世英雄！生技強鎖3顆紅燈1檔月噴7成",
+      "title": "《熱門族群》亂世英雄！生技強鎖3顆紅燈 1檔月噴7成 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6363302001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 17 Nov 2026 02:58:00 GMT",
+      "stocks": [
+        {
+          "symbol": "4174",
+          "name": "浩鼎",
+          "point": "簽署ADC平台合作協議",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/17",
+            "11/16",
+            "11/13",
+            "11/12",
+            "11/11"
+          ]
+        },
+        {
+          "symbol": "6461",
+          "name": "益得",
+          "point": "獲經濟部專案補助",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/17",
+            "11/16",
+            "11/13",
+            "11/12",
+            "11/11"
+          ]
+        },
+        {
+          "symbol": "6919",
+          "name": "康霈*",
+          "point": "強鎖紅燈",
+          "limitUp": true,
+          "pct": 9.7,
+          "luw": 1,
+          "luwd": [
+            "11/17"
+          ]
+        },
+        {
+          "symbol": "7799",
+          "name": "禾榮科",
+          "point": "跟進走揚半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "4737",
+          "name": "華廣",
+          "point": "跟進走揚半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "6661",
+          "name": "威健生技",
+          "point": "跟進走揚半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "6872",
+          "name": "浩宇生醫",
+          "point": "跟進走揚半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "6612",
+          "name": "奈米醫材",
+          "point": "跟進走揚半根停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "point": "血癌新藥銷售成長",
+          "limitUp": false
+        }
+      ],
+      "background": "生技股在科技股震盪下成為資金避風港，受惠於新藥研發里程碑及國際合作題材，加上政府專案補助，產業有望延續成長動能。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNYmIyMWR4VTljeTZ4a0NHQnh3LU1QbzJEd0lGSGNNOEVQRXhRd3dRbGZxeUU1WkMxcUZMRzMxSm5McVBWUFNtMzhRaWxUcUo4OENWRTBoUkNmWjNLamdteEc4UzNTZEx1X1N0eEVMUENPM1loUnJGek1TbXh3T0x2VS1xVmpDRmpk",
+      "tkey": "熱門族群股王淚別萬元、股后也跌停千金股持續縮水",
+      "title": "《熱門族群》股王淚別萬元、股后也跌停 千金股持續縮水 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6363268001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 17 Nov 2026 02:22:00 GMT",
+      "stocks": [
+        {
+          "symbol": "5274",
+          "name": "信驊",
+          "point": "股王跌破萬元大關",
+          "limitUp": false
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "point": "股后跌停",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/13",
+            "11/11"
+          ]
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2059",
+          "name": "川湖",
+          "point": "與創意股價差距拉近",
+          "limitUp": false
+        },
+        {
+          "symbol": "7751",
+          "name": "竑騰",
+          "point": "跌破千元",
+          "limitUp": false
+        },
+        {
+          "symbol": "6442",
+          "name": "光聖",
+          "point": "跌破千元",
+          "limitUp": false
+        },
+        {
+          "symbol": "1590",
+          "name": "亞德客-KY",
+          "point": "股價在千元關卡上方不遠",
+          "limitUp": false
+        },
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "point": "股價在千元關卡上方不遠",
+          "limitUp": false
+        },
+        {
+          "symbol": "3529",
+          "name": "力旺",
+          "point": "逆勢走揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "point": "逆勢走揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "5269",
+          "name": "祥碩",
+          "point": "逆勢走揚",
+          "limitUp": false
+        }
+      ],
+      "background": "高價股因輝達人事變動引發AI算力版圖與資本支出疑慮，市場重新評估AI伺服器規格與產業成長節奏，資金撤出高評價個股。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}
