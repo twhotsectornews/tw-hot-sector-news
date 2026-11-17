@@ -1,11 +1,29 @@
 {
-  "asOf": "2026-11-17T04:40:26.776+08:00",
-  "generatedAt": "2026-11-16T20:40:26.776Z",
+  "asOf": "2026-11-17T11:06:07.883+08:00",
+  "generatedAt": "2026-11-17T03:06:07.883Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "3443",
+      "name": "創意",
+      "days": 4,
+      "dates": [
+        "11/17",
+        "11/15",
+        "11/13",
+        "11/11"
+      ],
+      "mentions": 5,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "11/13",
+        "11/11"
+      ]
+    },
     {
       "symbol": "2330",
       "name": "台積電",
@@ -35,25 +53,6 @@
       "luw": 1,
       "luwd": [
         "11/10"
-      ]
-    },
-    {
-      "symbol": "3443",
-      "name": "創意",
-      "days": 3,
-      "dates": [
-        "11/15",
-        "11/13",
-        "11/11"
-      ],
-      "mentions": 4,
-      "status": "逼近新高",
-      "dist": -1.6,
-      "limitUp": false,
-      "luw": 2,
-      "luwd": [
-        "11/13",
-        "11/11"
       ]
     },
     {
@@ -191,6 +190,50 @@
         "11/13"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "5274",
+      "name": "信驊",
+      "days": 2,
+      "dates": [
+        "11/17",
+        "11/11"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3653",
+      "name": "健策",
+      "days": 2,
+      "dates": [
+        "11/17",
+        "11/11"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2059",
+      "name": "川湖",
+      "days": 2,
+      "dates": [
+        "11/17",
+        "11/11"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "6442",
+      "name": "光聖",
+      "days": 2,
+      "dates": [
+        "11/17",
+        "11/13"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -396,54 +439,98 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "1514",
-      "name": "亞力",
-      "days": 2,
-      "dates": [
-        "11/13",
-        "11/11"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "1519",
-      "name": "華城",
-      "days": 2,
-      "dates": [
-        "11/13",
-        "11/11"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "11/9"
-      ]
-    },
-    {
-      "symbol": "1802",
-      "name": "台玻",
-      "days": 2,
-      "dates": [
-        "11/12",
-        "11/11"
-      ],
-      "mentions": 2,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": false,
-      "luw": 3,
-      "luwd": [
-        "11/11",
-        "11/10",
-        "11/9"
-      ]
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNYmIyMWR4VTljeTZ4a0NHQnh3LU1QbzJEd0lGSGNNOEVQRXhRd3dRbGZxeUU1WkMxcUZMRzMxSm5McVBWUFNtMzhRaWxUcUo4OENWRTBoUkNmWjNLamdteEc4UzNTZEx1X1N0eEVMUENPM1loUnJGek1TbXh3T0x2VS1xVmpDRmpk",
+      "tkey": "熱門族群股王淚別萬元、股后也跌停千金股持續縮水",
+      "title": "《熱門族群》股王淚別萬元、股后也跌停 千金股持續縮水 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6363268001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 17 Nov 2026 02:22:00 GMT",
+      "stocks": [
+        {
+          "symbol": "5274",
+          "name": "信驊",
+          "point": "股王跌破萬元大關",
+          "limitUp": false
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "point": "股后跌停",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/13",
+            "11/11"
+          ]
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2059",
+          "name": "川湖",
+          "point": "與創意股價差距拉近",
+          "limitUp": false
+        },
+        {
+          "symbol": "7751",
+          "name": "竑騰",
+          "point": "跌破千元",
+          "limitUp": false
+        },
+        {
+          "symbol": "6442",
+          "name": "光聖",
+          "point": "跌破千元",
+          "limitUp": false
+        },
+        {
+          "symbol": "1590",
+          "name": "亞德客-KY",
+          "point": "股價在千元關卡上方不遠",
+          "limitUp": false
+        },
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "point": "股價在千元關卡上方不遠",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/10"
+          ]
+        },
+        {
+          "symbol": "3529",
+          "name": "力旺",
+          "point": "逆勢走揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "point": "逆勢走揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "5269",
+          "name": "祥碩",
+          "point": "逆勢走揚",
+          "limitUp": false
+        }
+      ],
+      "background": "高價股因輝達人事變動引發AI算力版圖與資本支出疑慮，市場重新評估AI伺服器規格與產業成長節奏，資金撤出高評價個股。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOTEhiWGh5T3pkSy12dUhrcjkyamlqYlBUd0JCVFV6bFV5azR0ZXo3Mm9aWGFpQXZsbU5TREhRT0FBLW5CMGwtTVZkSHRYdUNKcXZGWUcwRDdhd181NmUyOG1ycVBDVFl3S1pZRWZnb0ZKS1hORkZiS3dGSW9ZTndiMmxjQ3ZwR0Jx",
       "tkey": "熱門族群南亞、台勝科、南電跌停台塑家族收盤全倒",
@@ -793,169 +880,6 @@
       "background": "科技股近期震盪整理，記憶體、光通訊、載板等熱門族群面臨各自問題，但因跌深而有反彈潛力。",
       "themeTags": [
         "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiX0FVX3lxTFBZRlhyR1JXOEFteDdIWHMxaTBobGt0VDZfX3d5U0R0SlBJTXcxLW4weENzX1hXMU1kaF8ydmg5dkF2blV5elB1Wng4Z1l1SHhnNTNOUXF5bVN1VWxwcDBn0gFkQVVfeXFMTlZsMlZPMlFjVDhMYjNwRGxZVGkzN3BJcFVDd3JoU2lGWkZCdUJDd2M3SkdQbi1NQy11MmFiLWlHWjViZW41cEs3OVpzM191ZUFSTUplR29pb1F5VUowWWI0NHhyZg",
-      "tkey": "熱門族群駭客網攻頻傳資金轉進軟體股",
-      "title": "熱門族群》駭客網攻頻傳 資金轉進軟體股 - 自由財經",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5640707",
-      "source": "自由財經",
-      "pubDate": "Sat, 14 Nov 2026 23:05:00 GMT",
-      "stocks": [
-        {
-          "symbol": "6697",
-          "name": "東捷資訊",
-          "point": "股價週漲幅達46.8%最高",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "11/16",
-            "11/13",
-            "11/12",
-            "11/11",
-            "11/10"
-          ]
-        },
-        {
-          "symbol": "6140",
-          "name": "訊達",
-          "point": "股價週漲近40%",
-          "limitUp": false,
-          "luw": 5,
-          "luwd": [
-            "11/16",
-            "11/13",
-            "11/12",
-            "11/11",
-            "11/10"
-          ]
-        },
-        {
-          "symbol": "2471",
-          "name": "資通",
-          "point": "股價漲逾30%",
-          "status": "創新高",
-          "dist": 0,
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 3,
-          "luwd": [
-            "11/16",
-            "11/13",
-            "11/11"
-          ]
-        },
-        {
-          "symbol": "6148",
-          "name": "驊宏資",
-          "point": "股價漲逾30%",
-          "limitUp": true,
-          "pct": 9.8,
-          "luw": 5,
-          "luwd": [
-            "11/16",
-            "11/13",
-            "11/12",
-            "11/11",
-            "11/10"
-          ]
-        },
-        {
-          "symbol": "6870",
-          "name": "騰雲",
-          "point": "股價漲逾30%",
-          "status": "逼近新高",
-          "dist": -6.6,
-          "limitUp": false
-        },
-        {
-          "symbol": "2468",
-          "name": "華經",
-          "point": "交投熱絡",
-          "limitUp": true,
-          "pct": 9.9,
-          "status": "逼近新高",
-          "dist": -1.1,
-          "luw": 2,
-          "luwd": [
-            "11/16",
-            "11/13"
-          ]
-        },
-        {
-          "symbol": "6112",
-          "name": "邁達特",
-          "point": "交投熱絡",
-          "limitUp": false
-        }
-      ],
-      "background": "駭客網攻事件頻傳，加上美國期中選舉後AI監管擴大，帶動資安廠商股價勁揚，企業資安採購需求擴大，產業進入第四季採購旺季。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiX0FVX3lxTE1fbm90TkpQRFZoZmdOYkV1aldRQ0RHUmhZVDc4RDY2TUo3Z0c4Vi11Ynd6LUVGcnQzTmpzaG52bXBha1ZkVUVoTDR0Mmx4RFZudDh6RVFNeFFVYldKUmUw0gFkQVVfeXFMTXBOWUtlc2FIYlR4c0VTRG9TSER0U0JKR0pIQnJlMElzSW5hQUZaaFp5QWgtcmY2TnkxcDVtdldCbU9qbElkdk9MdzVaZzhtdkFGdmlMZ3BMSmJ6SE1BWWdvcG5KSA",
-      "tkey": "熱門族群後黃仁勳時代來了！ASIC廠撿到槍",
-      "title": "熱門族群》後黃仁勳時代來了！ ASIC廠撿到槍 - 自由財經",
-      "url": "https://ec.ltn.com.tw/article/breakingnews/5640032",
-      "source": "自由財經",
-      "pubDate": "Sat, 14 Nov 2026 23:00:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2454",
-          "name": "聯發科",
-          "point": "ASIC接單有望成長",
-          "limitUp": false
-        },
-        {
-          "symbol": "3661",
-          "name": "世芯-KY",
-          "point": "ASIC接單有望成長",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/10"
-          ]
-        },
-        {
-          "symbol": "3443",
-          "name": "創意",
-          "point": "ASIC接單有望成長",
-          "status": "逼近新高",
-          "dist": -1.6,
-          "limitUp": false,
-          "luw": 2,
-          "luwd": [
-            "11/13",
-            "11/11"
-          ]
-        },
-        {
-          "symbol": "8227",
-          "name": "巨有",
-          "point": "ASIC接單有望成長",
-          "limitUp": false
-        },
-        {
-          "symbol": "3035",
-          "name": "智原",
-          "point": "ASIC接單有望成長",
-          "limitUp": true,
-          "pct": 9.8,
-          "luw": 1,
-          "luwd": [
-            "11/13"
-          ]
-        }
-      ],
-      "background": "輝達創辦人黃仁勳請辭，市場預期雲端服務供應商將部分GPU預算轉向自研ASIC，有利ASIC市占率提升，相關個股未來ASIC接單有望進一步成長。",
-      "themeTags": [
-        "需求驅動"
       ]
     }
   ]
