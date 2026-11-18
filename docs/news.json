@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-18T18:51:51.594+08:00",
-  "generatedAt": "2026-11-18T10:51:51.594Z",
+  "asOf": "2026-11-19T01:57:33.631+08:00",
+  "generatedAt": "2026-11-18T17:57:33.631Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -17,10 +17,9 @@
       ],
       "mentions": 4,
       "limitUp": false,
-      "luw": 2,
+      "luw": 1,
       "luwd": [
-        "11/13",
-        "11/11"
+        "11/13"
       ]
     },
     {
@@ -54,53 +53,6 @@
       ]
     },
     {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 3,
-      "dates": [
-        "11/18",
-        "11/16",
-        "11/12"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "1815",
-      "name": "富喬",
-      "days": 3,
-      "dates": [
-        "11/18",
-        "11/14",
-        "11/12"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "8046",
-      "name": "南電",
-      "days": 3,
-      "dates": [
-        "11/18",
-        "11/16",
-        "11/12"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "6274",
-      "name": "台燿",
-      "days": 3,
-      "dates": [
-        "11/14",
-        "11/13",
-        "11/12"
-      ],
-      "mentions": 3
-    },
-    {
       "symbol": "2454",
       "name": "聯發科",
       "days": 2,
@@ -112,38 +64,34 @@
       "limitUp": false
     },
     {
-      "symbol": "1802",
-      "name": "台玻",
+      "symbol": "1303",
+      "name": "南亞",
       "days": 2,
       "dates": [
         "11/18",
-        "11/12"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "11/11"
-      ]
-    },
-    {
-      "symbol": "2383",
-      "name": "台光電",
-      "days": 2,
-      "dates": [
-        "11/18",
-        "11/12"
+        "11/16"
       ],
       "mentions": 2,
       "limitUp": false
     },
     {
-      "symbol": "3189",
-      "name": "景碩",
+      "symbol": "1815",
+      "name": "富喬",
       "days": 2,
       "dates": [
         "11/18",
-        "11/12"
+        "11/14"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "8046",
+      "name": "南電",
+      "days": 2,
+      "dates": [
+        "11/18",
+        "11/16"
       ],
       "mentions": 2,
       "limitUp": false
@@ -233,7 +181,11 @@
         "11/13"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/18"
+      ]
     },
     {
       "symbol": "2468",
@@ -295,9 +247,32 @@
       "luwd": [
         "11/13"
       ]
+    },
+    {
+      "symbol": "6274",
+      "name": "台燿",
+      "days": 2,
+      "dates": [
+        "11/14",
+        "11/13"
+      ],
+      "mentions": 2
     }
   ],
   "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE1aeWEzUDlrQk85cVQyUDBYbjc4S3NXc29xRnpIRnlNdmpyTUxJUU81NFNWLVNJcExFYWpVLTV2bU1fejFRYVVRY0xtV2VFME5QWGtKN0ZlN1E",
+      "tkey": "熱門族群後黃仁勳時代來了！ASIC廠撿到槍",
+      "title": "熱門族群》後黃仁勳時代來了！ ASIC廠撿到槍 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/uf4vr2qbkwhj",
+      "source": "自由時報",
+      "pubDate": "Wed, 18 Nov 2026 08:20:43 GMT",
+      "stocks": [],
+      "background": "ASIC（特殊應用積體電路）設計服務受惠於AI晶片客製化需求，後黃仁勳時代強調客製化晶片設計，為產業帶來新商機。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxObDhBRHVhWXBHLUlxWEV6X20tVk1yNFlOODNqZWpqX3pIUGhsVVhPM2x6X3lxMGhGRldKTnBzdU53VnN3V0ZwaDZmaGVhd3haa1A0Q0k2Y0hHQUlET3ZIUkpDSGVFdlFNM09mN0lkeTI0emVWWjlXVVpBaEtJaW9KNjNSeVk1c25N",
       "tkey": "熱門族群機器人奇兵突圍3檔鎖紅燈鴻家軍跟上",
@@ -314,11 +289,11 @@
           "pct": 10,
           "luw": 5,
           "luwd": [
+            "11/18",
             "11/17",
             "11/16",
             "11/13",
-            "11/12",
-            "11/11"
+            "11/12"
           ]
         },
         {
@@ -329,11 +304,11 @@
           "pct": 9.9,
           "luw": 5,
           "luwd": [
+            "11/18",
             "11/17",
             "11/16",
             "11/13",
-            "11/12",
-            "11/11"
+            "11/12"
           ]
         },
         {
@@ -344,11 +319,11 @@
           "pct": 9.8,
           "luw": 5,
           "luwd": [
+            "11/18",
             "11/17",
             "11/16",
             "11/13",
-            "11/12",
-            "11/11"
+            "11/12"
           ]
         },
         {
@@ -356,7 +331,11 @@
           "name": "乙盛-KY",
           "point": "獲利飆新高，接獲新世代訂單",
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "11/18"
+          ]
         },
         {
           "symbol": "3564",
@@ -408,7 +387,11 @@
           "name": "環科",
           "point": "大漲5%、重登短均之上",
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "11/18"
+          ]
         },
         {
           "symbol": "6190",
@@ -418,11 +401,11 @@
           "pct": 9.9,
           "luw": 5,
           "luwd": [
+            "11/18",
             "11/17",
             "11/16",
             "11/13",
-            "11/12",
-            "11/11"
+            "11/12"
           ]
         },
         {
@@ -431,8 +414,9 @@
           "point": "高姿態呈現",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "11/18",
             "11/13"
           ]
         },
@@ -441,7 +425,11 @@
           "name": "啟碁",
           "point": "高姿態呈現",
           "limitUp": true,
-          "pct": 9.8
+          "pct": 9.8,
+          "luw": 1,
+          "luwd": [
+            "11/18"
+          ]
         },
         {
           "symbol": "3491",
@@ -454,7 +442,11 @@
           "name": "昇貿",
           "point": "高姿態呈現",
           "limitUp": true,
-          "pct": 9.7
+          "pct": 9.7,
+          "luw": 1,
+          "luwd": [
+            "11/18"
+          ]
         },
         {
           "symbol": "5457",
@@ -464,11 +456,11 @@
           "pct": 10,
           "luw": 5,
           "luwd": [
+            "11/18",
             "11/17",
             "11/16",
             "11/13",
-            "11/12",
-            "11/11"
+            "11/12"
           ]
         }
       ],
@@ -490,11 +482,7 @@
           "symbol": "1802",
           "name": "台玻",
           "point": "開高下壓、股價急速修正",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/11"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "1303",
@@ -731,10 +719,9 @@
           "name": "創意",
           "point": "股后跌停",
           "limitUp": false,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "11/13",
-            "11/11"
+            "11/13"
           ]
         },
         {
@@ -759,7 +746,11 @@
           "symbol": "6442",
           "name": "光聖",
           "point": "跌破千元",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/18"
+          ]
         },
         {
           "symbol": "1590",

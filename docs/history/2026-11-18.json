@@ -1,0 +1,303 @@
+{
+  "date": "2026-11-18",
+  "updatedAt": "2026-11-18T17:57:33.626Z",
+  "news": [
+    {
+      "gid": "CBMiWEFVX3lxTE1aeWEzUDlrQk85cVQyUDBYbjc4S3NXc29xRnpIRnlNdmpyTUxJUU81NFNWLVNJcExFYWpVLTV2bU1fejFRYVVRY0xtV2VFME5QWGtKN0ZlN1E",
+      "tkey": "熱門族群後黃仁勳時代來了！ASIC廠撿到槍",
+      "title": "熱門族群》後黃仁勳時代來了！ ASIC廠撿到槍 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/uf4vr2qbkwhj",
+      "source": "自由時報",
+      "pubDate": "Wed, 18 Nov 2026 08:20:43 GMT",
+      "stocks": [],
+      "background": "ASIC（特殊應用積體電路）設計服務受惠於AI晶片客製化需求，後黃仁勳時代強調客製化晶片設計，為產業帶來新商機。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxObDhBRHVhWXBHLUlxWEV6X20tVk1yNFlOODNqZWpqX3pIUGhsVVhPM2x6X3lxMGhGRldKTnBzdU53VnN3V0ZwaDZmaGVhd3haa1A0Q0k2Y0hHQUlET3ZIUkpDSGVFdlFNM09mN0lkeTI0emVWWjlXVVpBaEtJaW9KNjNSeVk1c25N",
+      "tkey": "熱門族群機器人奇兵突圍3檔鎖紅燈鴻家軍跟上",
+      "title": "《熱門族群》機器人奇兵突圍 3檔鎖紅燈 鴻家軍跟上 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6364506001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 18 Nov 2026 04:07:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6922",
+          "name": "宸曜",
+          "point": "強攻漲停，Q3營收EPS雙創新高",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/18",
+            "11/17",
+            "11/16",
+            "11/13",
+            "11/12"
+          ]
+        },
+        {
+          "symbol": "8455",
+          "name": "大拓-KY",
+          "point": "機器人族群亮紅燈",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/18",
+            "11/17",
+            "11/16",
+            "11/13",
+            "11/12"
+          ]
+        },
+        {
+          "symbol": "3294",
+          "name": "英濟",
+          "point": "機器人族群亮紅燈",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 5,
+          "luwd": [
+            "11/18",
+            "11/17",
+            "11/16",
+            "11/13",
+            "11/12"
+          ]
+        },
+        {
+          "symbol": "5243",
+          "name": "乙盛-KY",
+          "point": "獲利飆新高，接獲新世代訂單",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "3564",
+          "name": "其陽",
+          "point": "機器人族群聯袂勁揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "6579",
+          "name": "研揚",
+          "point": "機器人族群聯袂勁揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "3594",
+          "name": "磐儀",
+          "point": "機器人族群聯袂勁揚",
+          "limitUp": false
+        },
+        {
+          "symbol": "3088",
+          "name": "艾訊",
+          "point": "機器人族群聯袂勁揚",
+          "limitUp": false
+        }
+      ],
+      "background": "機器人產業受輝達財報超預期及物理AI發展帶動，國際大廠如思靈機器人加大佈局，台灣產業亦聚焦關鍵零組件技術發展，需求持續增溫。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOYkdKYlcwLXlPX3J6VjdBQ2hwYXBhTUZ3dFloeW5Kd0FtSlhZY3c0SndZakEzVlVVN0w5VlZvenZhTV9uRDh4ZnVOallIQkp4bWlob3VzakpQaTZoVkxFaGJDVnJGd2RTbm1EY3c1RzZIc2R3U2JHWGZySzlBQ1dId0tzQ1RoVVZU",
+      "tkey": "熱門族群台股大怒神！低軌衛星照飛萊德續強、小兵攻頂",
+      "title": "《熱門族群》台股大怒神！低軌衛星照飛 萊德續強、小兵攻頂 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6364446001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 18 Nov 2026 03:08:00 GMT",
+      "stocks": [
+        {
+          "symbol": "7717",
+          "name": "萊德光電-KY",
+          "point": "續強、再衝漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2413",
+          "name": "環科",
+          "point": "大漲5%、重登短均之上",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "6190",
+          "name": "萬泰科",
+          "point": "高姿態呈現",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/18",
+            "11/17",
+            "11/16",
+            "11/13",
+            "11/12"
+          ]
+        },
+        {
+          "symbol": "4916",
+          "name": "事欣科",
+          "point": "高姿態呈現",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "11/18",
+            "11/13"
+          ]
+        },
+        {
+          "symbol": "6285",
+          "name": "啟碁",
+          "point": "高姿態呈現",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 1,
+          "luwd": [
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "3491",
+          "name": "昇達科",
+          "point": "高姿態呈現",
+          "limitUp": false
+        },
+        {
+          "symbol": "3305",
+          "name": "昇貿",
+          "point": "高姿態呈現",
+          "limitUp": true,
+          "pct": 9.7,
+          "luw": 1,
+          "luwd": [
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "5457",
+          "name": "宣德",
+          "point": "盤中亮燈攻頂",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/18",
+            "11/17",
+            "11/16",
+            "11/13",
+            "11/12"
+          ]
+        }
+      ],
+      "background": "低軌衛星族群受SpaceX啟動巨額融資搶攻5G及成功回收星艦利多激勵，吸引買盤進駐，展現抗跌力道。全球衛星通訊需求成長。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOSFBCOWdGcmpwbW1pZFpnSHhEb3ZtUExqcWszYjFJUTJ5bzR2OGY0VHNIcGprQmhfa0tRZGlHVjJoclR1ZkRMd3dKSVBJbTBlZGNmaUlLWlFDLXUtWVcxdkhfZzhxY3o4LWVJOUdwRkYzSmprTVhRUk4zQjYtQ0FENUs2SUZYZmpU",
+      "tkey": "熱門族群強勢股補跌玻纖布與PCB族群持續修正",
+      "title": "《熱門族群》強勢股補跌 玻纖布與PCB族群持續修正 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6364425001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 18 Nov 2026 03:00:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "開高下壓、股價急速修正",
+          "limitUp": false
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "開高走低、大漲變大跌",
+          "limitUp": false
+        },
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "開高走低",
+          "limitUp": false
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "未止跌續探底",
+          "limitUp": false
+        },
+        {
+          "symbol": "8358",
+          "name": "金居",
+          "point": "一度跌停、跌落新低價",
+          "limitUp": false
+        },
+        {
+          "symbol": "8021",
+          "name": "尖點",
+          "point": "一度跌停、跌落新低價",
+          "limitUp": false
+        }
+      ],
+      "background": "玻纖布與PCB族群受AI強勢股補跌影響，市場賣壓出籠，股價持續修正。PCB產業受電子產品需求影響，目前處於修正階段。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOOHI1c3FMUFdEVXRCSnpNVW43b3F6bWVKQVF0MnczZXl4Z2wwR3AyNnVWcEZiUHVRR0gwSnJKakNzZGJrTDZ0N3gyQnl2N1NaQlZ1M2g0cjRvZTNEYzJ6SUxtZ0s1OVVxY01weC1ySjJmbzFZZjk3WVEzZHotYWI2VEs4cUxobEVx",
+      "tkey": "熱門族群ABF四雄飆漲遇逆風景碩紅燈熄滅、南電翻黑",
+      "title": "《熱門族群》ABF四雄飆漲遇逆風 景碩紅燈熄滅、南電翻黑 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6364353001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 18 Nov 2026 01:55:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "亮燈漲停、漲停板打開",
+          "limitUp": false
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "翻黑、失守800元關卡",
+          "limitUp": false
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "盤中漲幅逾5%、力守盤上",
+          "limitUp": false
+        },
+        {
+          "symbol": "4958",
+          "name": "臻鼎-KY",
+          "point": "盤中漲幅逾5%、力守盤上",
+          "limitUp": false
+        }
+      ],
+      "background": "ABF載板受惠於AI運算需求持續擴張，輝達擴大與供應鏈夥伴合作，加速AI基礎建設布局，帶動先進封裝基板產能需求。產業前景受AI題材支撐。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    }
+  ]
+}
