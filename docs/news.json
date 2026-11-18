@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-18T13:10:44.588+08:00",
-  "generatedAt": "2026-11-18T05:10:44.588Z",
+  "asOf": "2026-11-18T14:04:10.320+08:00",
+  "generatedAt": "2026-11-18T06:04:10.320Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -323,13 +323,15 @@
           "symbol": "3294",
           "name": "英濟",
           "point": "機器人族群亮紅燈",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "5243",
           "name": "乙盛-KY",
           "point": "獲利飆新高，接獲新世代訂單",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "3564",
@@ -402,7 +404,8 @@
           "symbol": "4916",
           "name": "事欣科",
           "point": "高姿態呈現",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "11/13"
@@ -412,7 +415,8 @@
           "symbol": "6285",
           "name": "啟碁",
           "point": "高姿態呈現",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8
         },
         {
           "symbol": "3491",
@@ -424,7 +428,8 @@
           "symbol": "3305",
           "name": "昇貿",
           "point": "高姿態呈現",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.7
         },
         {
           "symbol": "5457",
