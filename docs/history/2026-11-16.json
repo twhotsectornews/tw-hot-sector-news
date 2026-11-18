@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updatedAt": "2026-11-18T04:05:57.643Z",
+  "updatedAt": "2026-11-18T05:10:44.586Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOTEhiWGh5T3pkSy12dUhrcjkyamlqYlBUd0JCVFV6bFV5azR0ZXo3Mm9aWGFpQXZsbU5TREhRT0FBLW5CMGwtTVZkSHRYdUNKcXZGWUcwRDdhd181NmUyOG1ycVBDVFl3S1pZRWZnb0ZKS1hORkZiS3dGSW9ZTndiMmxjQ3ZwR0Jx",
@@ -13,7 +13,7 @@
         {
           "symbol": "1303",
           "name": "南亞",
-          "point": "終場同步跌停、急轉直下"
+          "point": "終場同步跌停，搭上AI伺服器高階材料需求"
         },
         {
           "symbol": "3532",
@@ -28,7 +28,7 @@
         {
           "symbol": "2408",
           "name": "南亞科",
-          "point": "跌幅達9.8%"
+          "point": "跌幅達9.8%，逼近跌停"
         },
         {
           "symbol": "8131",
@@ -46,7 +46,7 @@
           "point": "跌幅超過半根跌停板"
         }
       ],
-      "background": "台塑家族受台股大盤重挫影響，遭遇沉重賣壓。南亞雖受惠AI伺服器高階材料需求，但短期仍難敵市場情緒衝擊。",
+      "background": "台塑集團受台股大盤重挫影響，遭遇沉重賣壓，儘管部分公司受惠AI伺服器高階材料需求，但短線市場情緒衝擊導致股價急轉直下。",
       "themeTags": [
         "需求驅動"
       ]
