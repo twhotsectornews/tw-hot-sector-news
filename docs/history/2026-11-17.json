@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updatedAt": "2026-11-18T06:04:10.318Z",
+  "updatedAt": "2026-11-18T09:46:32.258Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPOEljRGV4cDVyTWFVRk5vUWRjZ0ZsX1o3dUVFaW5zWE5nemUwNTZlVWRfYmZPS1A3THluMURqb3FRdzdEbm5YWFBvZ3NGN0FTTTJrSkpuWkhmb3pDY0U5VlRtYzhtWFQ0U2tsaG1jZUpZRURWUFZhZ2tHeGtBNkF2cGhEMnlwZ3pR",
@@ -83,30 +83,14 @@
           "name": "浩鼎",
           "point": "簽署ADC平台合作協議",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "11/17",
-            "11/16",
-            "11/13",
-            "11/12",
-            "11/11"
-          ]
+          "pct": 10
         },
         {
           "symbol": "6461",
           "name": "益得",
           "point": "獲經濟部專案補助",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/17",
-            "11/16",
-            "11/13",
-            "11/12",
-            "11/11"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6919",
