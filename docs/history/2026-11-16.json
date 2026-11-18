@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "updatedAt": "2026-11-18T03:05:21.777Z",
+  "updatedAt": "2026-11-18T04:05:57.643Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOTEhiWGh5T3pkSy12dUhrcjkyamlqYlBUd0JCVFV6bFV5azR0ZXo3Mm9aWGFpQXZsbU5TREhRT0FBLW5CMGwtTVZkSHRYdUNKcXZGWUcwRDdhd181NmUyOG1ycVBDVFl3S1pZRWZnb0ZKS1hORkZiS3dGSW9ZTndiMmxjQ3ZwR0Jx",
@@ -13,47 +13,40 @@
         {
           "symbol": "1303",
           "name": "南亞",
-          "point": "終場同步跌停，成為集團重災區之一",
-          "limitUp": false
+          "point": "終場同步跌停、急轉直下"
         },
         {
           "symbol": "3532",
           "name": "台勝科",
-          "point": "終場同步跌停",
-          "limitUp": false
+          "point": "終場同步跌停"
         },
         {
           "symbol": "8046",
           "name": "南電",
-          "point": "終場同步跌停",
-          "limitUp": false
+          "point": "終場同步跌停"
         },
         {
           "symbol": "2408",
           "name": "南亞科",
-          "point": "跌幅達9.8%，幾乎逼近跌停",
-          "limitUp": false
+          "point": "跌幅達9.8%"
         },
         {
           "symbol": "8131",
           "name": "福懋科",
-          "point": "跌幅超過半根跌停板",
-          "limitUp": false
+          "point": "跌幅超過半根跌停板"
         },
         {
           "symbol": "1326",
           "name": "台化",
-          "point": "跌幅超過半根跌停板",
-          "limitUp": false
+          "point": "跌幅超過半根跌停板"
         },
         {
           "symbol": "1301",
           "name": "台塑",
-          "point": "跌幅超過半根跌停板",
-          "limitUp": false
+          "point": "跌幅超過半根跌停板"
         }
       ],
-      "background": "台塑集團受台股大盤重挫影響，先前受AI伺服器高階材料需求帶動的南亞也急轉直下，但AI需求仍是支撐台灣企業獲利的重要動能。",
+      "background": "台塑家族受台股大盤重挫影響，遭遇沉重賣壓。南亞雖受惠AI伺服器高階材料需求，但短期仍難敵市場情緒衝擊。",
       "themeTags": [
         "需求驅動"
       ]
