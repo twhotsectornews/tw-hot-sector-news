@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updatedAt": "2026-11-19T04:07:57.986Z",
+  "updatedAt": "2026-11-19T05:06:23.648Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPOEljRGV4cDVyTWFVRk5vUWRjZ0ZsX1o3dUVFaW5zWE5nemUwNTZlVWRfYmZPS1A3THluMURqb3FRdzdEbm5YWFBvZ3NGN0FTTTJrSkpuWkhmb3pDY0U5VlRtYzhtWFQ0U2tsaG1jZUpZRURWUFZhZ2tHeGtBNkF2cGhEMnlwZ3pR",
@@ -13,48 +13,41 @@
         {
           "symbol": "2887",
           "name": "台新新光金",
-          "point": "逆勢上漲1.8%表現最強勢"
+          "point": "逆勢上漲，累計獲利成長王"
         },
         {
           "symbol": "2891",
           "name": "中信金",
-          "point": "漲幅接近1%",
+          "point": "漲幅接近1%，同步收紅",
           "status": "逼近新高",
           "dist": -8.9
         },
         {
           "symbol": "2882",
           "name": "國泰金",
-          "point": "同步收紅",
+          "point": "同步收紅，10月單月獲利王",
           "status": "高檔修正",
-          "dist": -11.4
+          "dist": -11.9
         },
         {
           "symbol": "2886",
           "name": "兆豐金",
           "point": "同步收紅",
           "status": "逼近新高",
-          "dist": -3
+          "dist": -4.4
         },
         {
           "symbol": "2884",
           "name": "玉山金",
-          "point": "賣壓較重終場下跌3%"
+          "point": "賣壓較重，終場下跌3%"
         },
         {
           "symbol": "2890",
           "name": "永豐金",
           "point": "下跌2%"
-        },
-        {
-          "symbol": "2881",
-          "name": "富邦金",
-          "point": "累計前10月獲利王",
-          "status": "高檔修正",
-          "dist": -12.8
         }
       ],
-      "background": "台股震盪劇烈，電子股賣壓沉重，資金轉向金融股尋求避險。金控業前十月獲利創同期新高，基本面穩健，成為股價支撐利基。",
+      "background": "金控股在台股震盪時成為資金避險標的，受惠於前10月累計獲利創同期新高，基本面穩健。儘管大盤波動，金融股仍展現相對抗跌力道。",
       "themeTags": [
         "循環位置"
       ]

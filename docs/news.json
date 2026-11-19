@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-19T12:07:57.988+08:00",
-  "generatedAt": "2026-11-19T04:07:57.988Z",
+  "asOf": "2026-11-19T13:06:23.651+08:00",
+  "generatedAt": "2026-11-19T05:06:23.651Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -16,7 +16,8 @@
         "11/14",
         "11/13"
       ],
-      "mentions": 5
+      "mentions": 5,
+      "limitUp": false
     },
     {
       "symbol": "3443",
@@ -29,6 +30,7 @@
         "11/13"
       ],
       "mentions": 5,
+      "limitUp": false,
       "luw": 1,
       "luwd": [
         "11/13"
@@ -43,7 +45,8 @@
         "11/17",
         "11/13"
       ],
-      "mentions": 4
+      "mentions": 4,
+      "limitUp": false
     },
     {
       "symbol": "2887",
@@ -54,7 +57,8 @@
         "11/17",
         "11/13"
       ],
-      "mentions": 4
+      "mentions": 4,
+      "limitUp": false
     },
     {
       "symbol": "3661",
@@ -83,7 +87,8 @@
       ],
       "mentions": 3,
       "status": "逼近新高",
-      "dist": -8.9
+      "dist": -8.9,
+      "limitUp": false
     },
     {
       "symbol": "2882",
@@ -96,20 +101,8 @@
       ],
       "mentions": 3,
       "status": "高檔修正",
-      "dist": -11.4
-    },
-    {
-      "symbol": "2881",
-      "name": "富邦金",
-      "days": 3,
-      "dates": [
-        "11/19",
-        "11/17",
-        "11/13"
-      ],
-      "mentions": 3,
-      "status": "高檔修正",
-      "dist": -12.8
+      "dist": -11.4,
+      "limitUp": false
     },
     {
       "symbol": "2886",
@@ -121,7 +114,8 @@
       ],
       "mentions": 3,
       "status": "逼近新高",
-      "dist": -3
+      "dist": -3,
+      "limitUp": false
     },
     {
       "symbol": "2880",
@@ -133,7 +127,8 @@
       ],
       "mentions": 3,
       "status": "逼近新高",
-      "dist": -7
+      "dist": -7,
+      "limitUp": false
     },
     {
       "symbol": "2454",
@@ -147,6 +142,59 @@
       "limitUp": false
     },
     {
+      "symbol": "7717",
+      "name": "萊德光電-KY",
+      "days": 2,
+      "dates": [
+        "11/19",
+        "11/18"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "4916",
+      "name": "事欣科",
+      "days": 2,
+      "dates": [
+        "11/19",
+        "11/18"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "11/18",
+        "11/13"
+      ]
+    },
+    {
+      "symbol": "3105",
+      "name": "穩懋",
+      "days": 2,
+      "dates": [
+        "11/19",
+        "11/14"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "6285",
+      "name": "啟碁",
+      "days": 2,
+      "dates": [
+        "11/19",
+        "11/18"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/18"
+      ]
+    },
+    {
       "symbol": "2337",
       "name": "旺宏",
       "days": 2,
@@ -154,7 +202,8 @@
         "11/19",
         "11/14"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "1301",
@@ -164,7 +213,8 @@
         "11/19",
         "11/16"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "1802",
@@ -174,7 +224,8 @@
         "11/19",
         "11/18"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "2883",
@@ -184,7 +235,21 @@
         "11/19",
         "11/13"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "2881",
+      "name": "富邦金",
+      "days": 2,
+      "dates": [
+        "11/19",
+        "11/13"
+      ],
+      "mentions": 2,
+      "status": "高檔修正",
+      "dist": -12.8,
+      "limitUp": false
     },
     {
       "symbol": "5274",
@@ -194,7 +259,8 @@
         "11/19",
         "11/17"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "3653",
@@ -204,7 +270,8 @@
         "11/19",
         "11/17"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "3008",
@@ -214,7 +281,8 @@
         "11/19",
         "11/13"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "2059",
@@ -224,7 +292,8 @@
         "11/19",
         "11/17"
       ],
-      "mentions": 2
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "1303",
@@ -315,49 +384,102 @@
       "mentions": 2,
       "limitUp": true,
       "pct": 10
-    },
-    {
-      "symbol": "6697",
-      "name": "東捷資訊",
-      "days": 2,
-      "dates": [
-        "11/16",
-        "11/15"
-      ],
-      "mentions": 2,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": true,
-      "pct": 9.9
-    },
-    {
-      "symbol": "3035",
-      "name": "智原",
-      "days": 2,
-      "dates": [
-        "11/15",
-        "11/14"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 9.8,
-      "luw": 1,
-      "luwd": [
-        "11/13"
-      ]
-    },
-    {
-      "symbol": "6274",
-      "name": "台燿",
-      "days": 2,
-      "dates": [
-        "11/14",
-        "11/13"
-      ],
-      "mentions": 2
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOa2pGUEdWUXA2YzM3UlJqaWtTUGtTYkxVQzdYNS1pWXU0bXhNcmltc0lRT05FRHhEU0ZxODVfcVNnWHM0eklQRWZ0Qmp1cTI3TFFlZFg5MHZxLURma25aOTlVZEt0Tnl4MWE3RFFmdEdGNVVXTjRUeFpLNWZjWmJLTUozaGVCbzJR",
+      "tkey": "熱門族群台股去了了？低軌衛星也併軌刷綠燈法人這樣說",
+      "title": "《熱門族群》台股去了了？低軌衛星也「併軌」刷綠燈 法人這樣說 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6365665001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 19 Nov 2026 04:29:00 GMT",
+      "stocks": [
+        {
+          "symbol": "7717",
+          "name": "萊德光電-KY",
+          "point": "遭列處置股，苦摔跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "4916",
+          "name": "事欣科",
+          "point": "低軌衛星族群，摜至跌停",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/18",
+            "11/13"
+          ]
+        },
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "受惠AI光通訊與衛星需求，殺至跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6672",
+          "name": "騰輝電子-KY",
+          "point": "低軌衛星族群，摜至跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3701",
+          "name": "大眾控",
+          "point": "低軌衛星族群，摜至跌停",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/18",
+            "11/12"
+          ]
+        },
+        {
+          "symbol": "8027",
+          "name": "鈦昇",
+          "point": "低軌衛星族群，摜至跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6443",
+          "name": "元晶",
+          "point": "低軌衛星族群，摜至跌停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "2485",
+          "name": "兆赫",
+          "point": "低軌衛星族群，摜至跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2313",
+          "name": "華通",
+          "point": "低軌衛星族群，摜至跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6285",
+          "name": "啟碁",
+          "point": "低軌衛星、Wi-Fi 7、車用連網需求升溫",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/18"
+          ]
+        }
+      ],
+      "background": "低軌衛星產業受惠於SpaceX等國際大廠積極布建，新世代衛星部署帶動供應鏈需求，AI資料中心衛星新需求亦是成長動能。高階PCB與高頻通訊元件具技術門檻，核心供應商可望受惠。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOTWlOZEZBM2s0Y3JMOVU5TjQ4UmRQX2tYcFNjUDhpZnlWT18yMlpockQ2b3BZNnpmcnJUdXpDeHFuZVZzX3BWRVpnYXVuY3MxS2RGaGJ6cWtvcUZ1dWJTN3FoTmtxY0Y1RldrNW9FWWVBS1l0QjBrY0RINzRwNl9IdjhlUTNyRkRM",
       "tkey": "熱門族群官股買超也難救！前十大個股台玻跌停、旺宏友達重挫",
@@ -371,77 +493,90 @@
           "name": "兆豐金",
           "point": "官股買超逆勢走強",
           "status": "逼近新高",
-          "dist": -3
+          "dist": -3,
+          "limitUp": false
         },
         {
           "symbol": "2880",
           "name": "華南金",
           "point": "維持紅盤之上",
           "status": "逼近新高",
-          "dist": -7
+          "dist": -7,
+          "limitUp": false
         },
         {
           "symbol": "2892",
           "name": "第一金",
           "point": "維持紅盤之上",
           "status": "逼近新高",
-          "dist": -8.6
+          "dist": -8.6,
+          "limitUp": false
         },
         {
           "symbol": "2891",
           "name": "中信金",
           "point": "跌幅控制在1%以內",
           "status": "逼近新高",
-          "dist": -8.9
+          "dist": -8.9,
+          "limitUp": false
         },
         {
           "symbol": "2884",
           "name": "玉山金",
-          "point": "跌幅逼近半根跌停板"
+          "point": "跌幅逼近半根跌停板",
+          "limitUp": false
         },
         {
           "symbol": "2834",
           "name": "臺企銀",
           "point": "官股買超前十大",
           "status": "逼近新高",
-          "dist": -9.8
+          "dist": -9.8,
+          "limitUp": false
         },
         {
           "symbol": "2887",
           "name": "台新新光金",
-          "point": "官股買超前十大"
+          "point": "官股買超前十大",
+          "limitUp": false
         },
         {
           "symbol": "2330",
           "name": "台積電",
-          "point": "官股買超前十大"
+          "point": "官股買超前十大",
+          "limitUp": false
         },
         {
           "symbol": "2337",
           "name": "旺宏",
-          "point": "跌幅逼近半根跌停板"
+          "point": "跌幅逼近半根跌停板",
+          "limitUp": false
         },
         {
           "symbol": "2409",
           "name": "友達",
-          "point": "跌幅逼近半根跌停板"
+          "point": "跌幅逼近半根跌停板",
+          "limitUp": false
         },
         {
           "symbol": "1301",
           "name": "台塑",
-          "point": "跌幅逼近半根跌停板"
+          "point": "跌幅逼近半根跌停板",
+          "limitUp": false
         },
         {
           "symbol": "1802",
           "name": "台玻",
-          "point": "跌停鎖死"
+          "point": "跌停鎖死",
+          "limitUp": false
         },
         {
           "symbol": "2801",
           "name": "彰銀",
           "point": "官股買超前十大",
           "status": "高檔修正",
-          "dist": -13.3
+          "dist": -13.3,
+          "limitUp": false
         }
       ],
       "background": "台股受AI產業投資放緩疑慮與外資調節影響，大盤重挫，金融股因官股買盤及相對抗跌力道，成為市場資金避險焦點。",
@@ -460,52 +595,60 @@
         {
           "symbol": "2887",
           "name": "台新新光金",
-          "point": "同步大跌半根停板"
+          "point": "同步大跌半根停板",
+          "limitUp": false
         },
         {
           "symbol": "2883",
           "name": "凱基金",
-          "point": "同步大跌半根停板"
+          "point": "同步大跌半根停板",
+          "limitUp": false
         },
         {
           "symbol": "2884",
           "name": "玉山金",
-          "point": "持續崩跌5%上演保衛戰"
+          "point": "持續崩跌5%上演保衛戰",
+          "limitUp": false
         },
         {
           "symbol": "2882",
           "name": "國泰金",
           "point": "重挫半根停板回測半年線",
           "status": "高檔修正",
-          "dist": -11.4
+          "dist": -11.4,
+          "limitUp": false
         },
         {
           "symbol": "2886",
           "name": "兆豐金",
           "point": "逆風勁揚半根停板改寫新高",
           "status": "逼近新高",
-          "dist": -3
+          "dist": -3,
+          "limitUp": false
         },
         {
           "symbol": "2849",
           "name": "安泰銀",
           "point": "逆勢抗跌",
           "status": "逼近新高",
-          "dist": -3.7
+          "dist": -3.7,
+          "limitUp": false
         },
         {
           "symbol": "2880",
           "name": "華南金",
           "point": "逆勢抗跌",
           "status": "逼近新高",
-          "dist": -7
+          "dist": -7,
+          "limitUp": false
         },
         {
           "symbol": "2881",
           "name": "富邦金",
           "point": "難敵大盤偏空呈現連4黑",
           "status": "高檔修正",
-          "dist": -12.8
+          "dist": -12.8,
+          "limitUp": false
         }
       ],
       "background": "台股大盤重挫，金融股普遍下跌，但部分官股色彩濃厚的金控如兆豐金逆勢上漲，顯示資金避險需求。金控業前十月獲利續創新高，基本面仍有支撐。",
@@ -525,6 +668,7 @@
           "symbol": "3443",
           "name": "創意",
           "point": "率先亮燈跌停",
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "11/13"
@@ -533,22 +677,26 @@
         {
           "symbol": "5274",
           "name": "信驊",
-          "point": "股王跌幅逾9%後跌停"
+          "point": "股王跌幅逾9%後跌停",
+          "limitUp": false
         },
         {
           "symbol": "3653",
           "name": "健策",
-          "point": "跌幅逾9%後跌停"
+          "point": "跌幅逾9%後跌停",
+          "limitUp": false
         },
         {
           "symbol": "3008",
           "name": "大立光",
-          "point": "4000元關卡面臨考驗"
+          "point": "4000元關卡面臨考驗",
+          "limitUp": false
         },
         {
           "symbol": "2059",
           "name": "川湖",
-          "point": "開盤跌破6000元觸及跌停"
+          "point": "開盤跌破6000元觸及跌停",
+          "limitUp": false
         }
       ],
       "background": "輝達財報亮眼未能提振市場信心，投資人對AI族群後續漲勢轉趨審慎，高價股賣壓沉重，台股大盤失守重要關卡。",
