@@ -1,11 +1,23 @@
 {
-  "asOf": "2026-11-19T11:08:25.739+08:00",
-  "generatedAt": "2026-11-19T03:08:25.739Z",
+  "asOf": "2026-11-19T12:07:57.988+08:00",
+  "generatedAt": "2026-11-19T04:07:57.988Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 4,
+      "dates": [
+        "11/19",
+        "11/16",
+        "11/14",
+        "11/13"
+      ],
+      "mentions": 5
+    },
     {
       "symbol": "3443",
       "name": "創意",
@@ -23,18 +35,26 @@
       ]
     },
     {
-      "symbol": "2330",
-      "name": "台積電",
+      "symbol": "2884",
+      "name": "玉山金",
       "days": 3,
       "dates": [
-        "11/16",
-        "11/14",
+        "11/19",
+        "11/17",
         "11/13"
       ],
-      "mentions": 4,
-      "status": "高檔修正",
-      "dist": -14.5,
-      "limitUp": false
+      "mentions": 4
+    },
+    {
+      "symbol": "2887",
+      "name": "台新新光金",
+      "days": 3,
+      "dates": [
+        "11/19",
+        "11/17",
+        "11/13"
+      ],
+      "mentions": 4
     },
     {
       "symbol": "3661",
@@ -53,6 +73,69 @@
       ]
     },
     {
+      "symbol": "2891",
+      "name": "中信金",
+      "days": 3,
+      "dates": [
+        "11/19",
+        "11/17",
+        "11/13"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -8.9
+    },
+    {
+      "symbol": "2882",
+      "name": "國泰金",
+      "days": 3,
+      "dates": [
+        "11/19",
+        "11/17",
+        "11/13"
+      ],
+      "mentions": 3,
+      "status": "高檔修正",
+      "dist": -11.4
+    },
+    {
+      "symbol": "2881",
+      "name": "富邦金",
+      "days": 3,
+      "dates": [
+        "11/19",
+        "11/17",
+        "11/13"
+      ],
+      "mentions": 3,
+      "status": "高檔修正",
+      "dist": -12.8
+    },
+    {
+      "symbol": "2886",
+      "name": "兆豐金",
+      "days": 2,
+      "dates": [
+        "11/19",
+        "11/17"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -3
+    },
+    {
+      "symbol": "2880",
+      "name": "華南金",
+      "days": 2,
+      "dates": [
+        "11/19",
+        "11/13"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -7
+    },
+    {
       "symbol": "2454",
       "name": "聯發科",
       "days": 2,
@@ -62,6 +145,46 @@
       ],
       "mentions": 3,
       "limitUp": false
+    },
+    {
+      "symbol": "2337",
+      "name": "旺宏",
+      "days": 2,
+      "dates": [
+        "11/19",
+        "11/14"
+      ],
+      "mentions": 2
+    },
+    {
+      "symbol": "1301",
+      "name": "台塑",
+      "days": 2,
+      "dates": [
+        "11/19",
+        "11/16"
+      ],
+      "mentions": 2
+    },
+    {
+      "symbol": "1802",
+      "name": "台玻",
+      "days": 2,
+      "dates": [
+        "11/19",
+        "11/18"
+      ],
+      "mentions": 2
+    },
+    {
+      "symbol": "2883",
+      "name": "凱基金",
+      "days": 2,
+      "dates": [
+        "11/19",
+        "11/13"
+      ],
+      "mentions": 2
     },
     {
       "symbol": "5274",
@@ -145,71 +268,6 @@
         "11/14"
       ],
       "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2887",
-      "name": "台新新光金",
-      "days": 2,
-      "dates": [
-        "11/17",
-        "11/13"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -12.3,
-      "limitUp": false
-    },
-    {
-      "symbol": "2891",
-      "name": "中信金",
-      "days": 2,
-      "dates": [
-        "11/17",
-        "11/13"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -2.9,
-      "limitUp": false
-    },
-    {
-      "symbol": "2882",
-      "name": "國泰金",
-      "days": 2,
-      "dates": [
-        "11/17",
-        "11/13"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -5.9,
-      "limitUp": false
-    },
-    {
-      "symbol": "2884",
-      "name": "玉山金",
-      "days": 2,
-      "dates": [
-        "11/17",
-        "11/13"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -6.9,
-      "limitUp": false
-    },
-    {
-      "symbol": "2881",
-      "name": "富邦金",
-      "days": 2,
-      "dates": [
-        "11/17",
-        "11/13"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -8.5,
       "limitUp": false
     },
     {
@@ -300,6 +358,161 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOTWlOZEZBM2s0Y3JMOVU5TjQ4UmRQX2tYcFNjUDhpZnlWT18yMlpockQ2b3BZNnpmcnJUdXpDeHFuZVZzX3BWRVpnYXVuY3MxS2RGaGJ6cWtvcUZ1dWJTN3FoTmtxY0Y1RldrNW9FWWVBS1l0QjBrY0RINzRwNl9IdjhlUTNyRkRM",
+      "tkey": "熱門族群官股買超也難救！前十大個股台玻跌停、旺宏友達重挫",
+      "title": "《熱門族群》官股買超也難救！前十大個股 台玻跌停、旺宏友達重挫 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6365594001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 19 Nov 2026 03:28:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2886",
+          "name": "兆豐金",
+          "point": "官股買超逆勢走強",
+          "status": "逼近新高",
+          "dist": -3
+        },
+        {
+          "symbol": "2880",
+          "name": "華南金",
+          "point": "維持紅盤之上",
+          "status": "逼近新高",
+          "dist": -7
+        },
+        {
+          "symbol": "2892",
+          "name": "第一金",
+          "point": "維持紅盤之上",
+          "status": "逼近新高",
+          "dist": -8.6
+        },
+        {
+          "symbol": "2891",
+          "name": "中信金",
+          "point": "跌幅控制在1%以內",
+          "status": "逼近新高",
+          "dist": -8.9
+        },
+        {
+          "symbol": "2884",
+          "name": "玉山金",
+          "point": "跌幅逼近半根跌停板"
+        },
+        {
+          "symbol": "2834",
+          "name": "臺企銀",
+          "point": "官股買超前十大",
+          "status": "逼近新高",
+          "dist": -9.8
+        },
+        {
+          "symbol": "2887",
+          "name": "台新新光金",
+          "point": "官股買超前十大"
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "官股買超前十大"
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "跌幅逼近半根跌停板"
+        },
+        {
+          "symbol": "2409",
+          "name": "友達",
+          "point": "跌幅逼近半根跌停板"
+        },
+        {
+          "symbol": "1301",
+          "name": "台塑",
+          "point": "跌幅逼近半根跌停板"
+        },
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "跌停鎖死"
+        },
+        {
+          "symbol": "2801",
+          "name": "彰銀",
+          "point": "官股買超前十大",
+          "status": "高檔修正",
+          "dist": -13.3
+        }
+      ],
+      "background": "台股受AI產業投資放緩疑慮與外資調節影響，大盤重挫，金融股因官股買盤及相對抗跌力道，成為市場資金避險焦點。",
+      "themeTags": [
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNbjZycldGU3E2aWVrQWFKLVd2ZFpWbVBsV1ZfbEtXWlVzdEhVbWNQMTFUR0U1b25ZMldVbHQ2ZGFKVFdmOG84UHFpY0VEU3pSVXFUUktmeEV5Sm1sMnZPZEN5UjZwWmNLbEF0QVZobjBFQ1lOVmtWZ01KbTZBX2Z2TUp5alNBdEQ0",
+      "tkey": "熱門族群慘崩1900點！金融一片綠1檔逆衝鋒、玉山金怎麼了",
+      "title": "《熱門族群》慘崩1900點！金融一片綠 1檔逆衝鋒、玉山金怎麼了 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6365584001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 19 Nov 2026 03:25:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2887",
+          "name": "台新新光金",
+          "point": "同步大跌半根停板"
+        },
+        {
+          "symbol": "2883",
+          "name": "凱基金",
+          "point": "同步大跌半根停板"
+        },
+        {
+          "symbol": "2884",
+          "name": "玉山金",
+          "point": "持續崩跌5%上演保衛戰"
+        },
+        {
+          "symbol": "2882",
+          "name": "國泰金",
+          "point": "重挫半根停板回測半年線",
+          "status": "高檔修正",
+          "dist": -11.4
+        },
+        {
+          "symbol": "2886",
+          "name": "兆豐金",
+          "point": "逆風勁揚半根停板改寫新高",
+          "status": "逼近新高",
+          "dist": -3
+        },
+        {
+          "symbol": "2849",
+          "name": "安泰銀",
+          "point": "逆勢抗跌",
+          "status": "逼近新高",
+          "dist": -3.7
+        },
+        {
+          "symbol": "2880",
+          "name": "華南金",
+          "point": "逆勢抗跌",
+          "status": "逼近新高",
+          "dist": -7
+        },
+        {
+          "symbol": "2881",
+          "name": "富邦金",
+          "point": "難敵大盤偏空呈現連4黑",
+          "status": "高檔修正",
+          "dist": -12.8
+        }
+      ],
+      "background": "台股大盤重挫，金融股普遍下跌，但部分官股色彩濃厚的金控如兆豐金逆勢上漲，顯示資金避險需求。金控業前十月獲利續創新高，基本面仍有支撐。",
+      "themeTags": [
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMikgFBVV95cUxQWFp0RlBYVi1JZFN5MEVUTXRIdVBVb1JHeHpYU3k1LW8xbVptWGtZMFBXNElDSm00eW5ieWNPeEZZSW11b1FscW81bEIxS3lNd2JNaDN2SVpxVDA1TU9UZEJXY0pjdW0wbmhIb3BReXBiNXVxc2lhbVJIMjJPbXhwS2dVOXI2RXhweGpsUVpGaExDZw",
       "tkey": "熱門族群千金股前五強跌停全倒股王跳水又破底",
