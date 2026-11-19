@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-19T18:54:37.060+08:00",
-  "generatedAt": "2026-11-19T10:54:37.060Z",
+  "asOf": "2026-11-20T02:10:32.994+08:00",
+  "generatedAt": "2026-11-19T18:10:32.994Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,114 +9,30 @@
     {
       "symbol": "2330",
       "name": "台積電",
-      "days": 4,
+      "days": 3,
       "dates": [
         "11/19",
         "11/16",
-        "11/14",
-        "11/13"
+        "11/14"
       ],
-      "mentions": 5,
+      "mentions": 4,
       "limitUp": false
     },
     {
       "symbol": "3443",
       "name": "創意",
-      "days": 4,
+      "days": 3,
       "dates": [
         "11/19",
         "11/17",
-        "11/15",
-        "11/13"
+        "11/15"
       ],
-      "mentions": 5,
+      "mentions": 3,
       "limitUp": false,
       "luw": 1,
       "luwd": [
         "11/13"
       ]
-    },
-    {
-      "symbol": "2884",
-      "name": "玉山金",
-      "days": 3,
-      "dates": [
-        "11/19",
-        "11/17",
-        "11/13"
-      ],
-      "mentions": 4,
-      "limitUp": false
-    },
-    {
-      "symbol": "2887",
-      "name": "台新新光金",
-      "days": 3,
-      "dates": [
-        "11/19",
-        "11/17",
-        "11/13"
-      ],
-      "mentions": 4,
-      "limitUp": false
-    },
-    {
-      "symbol": "3661",
-      "name": "世芯-KY",
-      "days": 3,
-      "dates": [
-        "11/15",
-        "11/14",
-        "11/13"
-      ],
-      "mentions": 4,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "11/10"
-      ]
-    },
-    {
-      "symbol": "2891",
-      "name": "中信金",
-      "days": 3,
-      "dates": [
-        "11/19",
-        "11/17",
-        "11/13"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -8.9,
-      "limitUp": false
-    },
-    {
-      "symbol": "2882",
-      "name": "國泰金",
-      "days": 3,
-      "dates": [
-        "11/19",
-        "11/17",
-        "11/13"
-      ],
-      "mentions": 3,
-      "status": "高檔修正",
-      "dist": -11.4,
-      "limitUp": false
-    },
-    {
-      "symbol": "2881",
-      "name": "富邦金",
-      "days": 3,
-      "dates": [
-        "11/19",
-        "11/17",
-        "11/13"
-      ],
-      "mentions": 3,
-      "status": "高檔修正",
-      "dist": -12.8,
-      "limitUp": false
     },
     {
       "symbol": "2886",
@@ -132,25 +48,23 @@
       "limitUp": false
     },
     {
-      "symbol": "2880",
-      "name": "華南金",
+      "symbol": "2884",
+      "name": "玉山金",
       "days": 2,
       "dates": [
         "11/19",
-        "11/13"
+        "11/17"
       ],
       "mentions": 3,
-      "status": "逼近新高",
-      "dist": -7,
       "limitUp": false
     },
     {
-      "symbol": "2454",
-      "name": "聯發科",
+      "symbol": "2887",
+      "name": "台新新光金",
       "days": 2,
       "dates": [
-        "11/15",
-        "11/13"
+        "11/19",
+        "11/17"
       ],
       "mentions": 3,
       "limitUp": false
@@ -209,6 +123,19 @@
       ]
     },
     {
+      "symbol": "2891",
+      "name": "中信金",
+      "days": 2,
+      "dates": [
+        "11/19",
+        "11/17"
+      ],
+      "mentions": 2,
+      "status": "逼近新高",
+      "dist": -8.9,
+      "limitUp": false
+    },
+    {
       "symbol": "2337",
       "name": "旺宏",
       "days": 2,
@@ -242,14 +169,29 @@
       "limitUp": false
     },
     {
-      "symbol": "2883",
-      "name": "凱基金",
+      "symbol": "2882",
+      "name": "國泰金",
       "days": 2,
       "dates": [
         "11/19",
-        "11/13"
+        "11/17"
       ],
       "mentions": 2,
+      "status": "高檔修正",
+      "dist": -11.4,
+      "limitUp": false
+    },
+    {
+      "symbol": "2881",
+      "name": "富邦金",
+      "days": 2,
+      "dates": [
+        "11/19",
+        "11/17"
+      ],
+      "mentions": 2,
+      "status": "高檔修正",
+      "dist": -12.8,
       "limitUp": false
     },
     {
@@ -270,17 +212,6 @@
       "dates": [
         "11/19",
         "11/17"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "3008",
-      "name": "大立光",
-      "days": 2,
-      "dates": [
-        "11/19",
-        "11/13"
       ],
       "mentions": 2,
       "limitUp": false
@@ -341,21 +272,6 @@
       "limitUp": false
     },
     {
-      "symbol": "6442",
-      "name": "光聖",
-      "days": 2,
-      "dates": [
-        "11/17",
-        "11/13"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "11/18"
-      ]
-    },
-    {
       "symbol": "2468",
       "name": "華經",
       "days": 2,
@@ -385,6 +301,51 @@
       "mentions": 2,
       "limitUp": true,
       "pct": 10
+    },
+    {
+      "symbol": "6697",
+      "name": "東捷資訊",
+      "days": 2,
+      "dates": [
+        "11/16",
+        "11/15"
+      ],
+      "mentions": 2,
+      "status": "創新高",
+      "dist": 0,
+      "limitUp": true,
+      "pct": 9.9
+    },
+    {
+      "symbol": "3661",
+      "name": "世芯-KY",
+      "days": 2,
+      "dates": [
+        "11/15",
+        "11/14"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/10"
+      ]
+    },
+    {
+      "symbol": "3035",
+      "name": "智原",
+      "days": 2,
+      "dates": [
+        "11/15",
+        "11/14"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 9.8,
+      "luw": 1,
+      "luwd": [
+        "11/13"
+      ]
     }
   ],
   "news": [
@@ -430,10 +391,9 @@
           "name": "大眾控",
           "point": "低軌衛星族群，摜至跌停",
           "limitUp": false,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "11/18",
-            "11/12"
+            "11/18"
           ]
         },
         {
