@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updatedAt": "2026-11-19T06:04:39.428Z",
+  "updatedAt": "2026-11-19T09:42:06.940Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE1aeWEzUDlrQk85cVQyUDBYbjc4S3NXc29xRnpIRnlNdmpyTUxJUU81NFNWLVNJcExFYWpVLTV2bU1fejFRYVVRY0xtV2VFME5QWGtKN0ZlN1E",
@@ -28,45 +28,21 @@
           "name": "宸曜",
           "point": "強攻漲停，Q3營收EPS雙創新高",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "11/18",
-            "11/17",
-            "11/16",
-            "11/13",
-            "11/12"
-          ]
+          "pct": 10
         },
         {
           "symbol": "8455",
           "name": "大拓-KY",
           "point": "機器人族群亮紅燈",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/18",
-            "11/17",
-            "11/16",
-            "11/13",
-            "11/12"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "3294",
           "name": "英濟",
           "point": "機器人族群亮紅燈",
           "limitUp": true,
-          "pct": 9.8,
-          "luw": 5,
-          "luwd": [
-            "11/18",
-            "11/17",
-            "11/16",
-            "11/13",
-            "11/12"
-          ]
+          "pct": 9.8
         },
         {
           "symbol": "5243",
@@ -140,15 +116,7 @@
           "name": "萬泰科",
           "point": "高姿態呈現",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/18",
-            "11/17",
-            "11/16",
-            "11/13",
-            "11/12"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "4916",
@@ -195,15 +163,7 @@
           "name": "宣德",
           "point": "盤中亮燈攻頂",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "11/18",
-            "11/17",
-            "11/16",
-            "11/13",
-            "11/12"
-          ]
+          "pct": 10
         }
       ],
       "background": "低軌衛星族群受SpaceX啟動巨額融資搶攻5G及成功回收星艦利多激勵，吸引買盤進駐，展現抗跌力道。全球衛星通訊需求成長。",
