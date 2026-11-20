@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updatedAt": "2026-11-20T03:03:48.069Z",
+  "updatedAt": "2026-11-20T04:06:03.883Z",
   "news": [
     {
       "gid": "CBMiWEFVX3lxTE1aeWEzUDlrQk85cVQyUDBYbjc4S3NXc29xRnpIRnlNdmpyTUxJUU81NFNWLVNJcExFYWpVLTV2bU1fejFRYVVRY0xtV2VFME5QWGtKN0ZlN1E",
@@ -16,74 +16,88 @@
       ]
     },
     {
-      "gid": "CBMiiAFBVV95cUxObDhBRHVhWXBHLUlxWEV6X20tVk1yNFlOODNqZWpqX3pIUGhsVVhPM2x6X3lxMGhGRldKTnBzdU53VnN3V0ZwaDZmaGVhd3haa1A0Q0k2Y0hHQUlET3ZIUkpDSGVFdlFNM09mN0lkeTI0emVWWjlXVVpBaEtJaW9KNjNSeVk1c25N",
-      "tkey": "熱門族群機器人奇兵突圍3檔鎖紅燈鴻家軍跟上",
-      "title": "《熱門族群》機器人奇兵突圍 3檔鎖紅燈 鴻家軍跟上 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6364506001&PU=1002",
+      "gid": "CBMiiAFBVV95cUxOX3hDb3ctNzBWSWVYS01jSHNJdnRxQmJRcDVDMlhZbkgwMmZBTENyWXZGdllHTkZKZ0pvRUFEdlRfTHM5b2VUdVFScnY3My1fNTVmN1dTaEN2cm93UVVxMnhpOGFKaUlEb3ZkRU56N2p6QXBHamJ5TmdYY0wwd21rMXVPU3M2X0xt",
+      "tkey": "熱門族群台股大怒神！低軌衛星照飛萊德續強、小兵攻頂",
+      "title": "《熱門族群》台股大怒神！低軌衛星照飛 萊德續強、小兵攻頂 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6364446001&PU=0010",
       "source": "富聯網",
-      "pubDate": "Wed, 18 Nov 2026 04:07:00 GMT",
+      "pubDate": "Wed, 18 Nov 2026 04:22:00 GMT",
       "stocks": [
         {
-          "symbol": "6922",
-          "name": "宸曜",
-          "point": "強攻漲停，Q3營收EPS雙創新高",
-          "limitUp": true,
-          "pct": 10
+          "symbol": "7717",
+          "name": "萊德光電-KY",
+          "point": "低軌衛星與AI資料中心雙引擎驅動"
         },
         {
-          "symbol": "8455",
-          "name": "大拓-KY",
-          "point": "機器人族群亮紅燈",
-          "limitUp": true,
-          "pct": 9.9
-        },
-        {
-          "symbol": "3294",
-          "name": "英濟",
-          "point": "機器人族群亮紅燈",
-          "limitUp": true,
-          "pct": 9.8
-        },
-        {
-          "symbol": "5243",
-          "name": "乙盛-KY",
-          "point": "獲利飆新高，接獲新世代訂單",
-          "limitUp": true,
-          "pct": 9.9,
+          "symbol": "2413",
+          "name": "環科",
+          "point": "集團股，前三季每股賺2.23元",
           "luw": 1,
           "luwd": [
             "11/18"
           ]
         },
         {
-          "symbol": "3564",
-          "name": "其陽",
-          "point": "機器人族群聯袂勁揚",
-          "limitUp": false
+          "symbol": "6190",
+          "name": "萬泰科",
+          "point": "低軌衛星族群獲買盤點火"
         },
         {
-          "symbol": "6579",
-          "name": "研揚",
-          "point": "機器人族群聯袂勁揚",
-          "limitUp": false
+          "symbol": "4916",
+          "name": "事欣科",
+          "point": "低軌衛星族群獲買盤點火",
+          "luw": 2,
+          "luwd": [
+            "11/18",
+            "11/13"
+          ]
         },
         {
-          "symbol": "3594",
-          "name": "磐儀",
-          "point": "機器人族群聯袂勁揚",
-          "limitUp": false
+          "symbol": "6285",
+          "name": "啟碁",
+          "point": "低軌衛星族群獲買盤點火",
+          "luw": 1,
+          "luwd": [
+            "11/18"
+          ]
         },
         {
-          "symbol": "3088",
-          "name": "艾訊",
-          "point": "機器人族群聯袂勁揚",
-          "limitUp": false
+          "symbol": "3491",
+          "name": "昇達科",
+          "point": "低軌衛星族群獲買盤點火"
+        },
+        {
+          "symbol": "3305",
+          "name": "昇貿",
+          "point": "低軌衛星族群獲買盤點火",
+          "luw": 1,
+          "luwd": [
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "5457",
+          "name": "宣德",
+          "point": "低價位盤中亮燈攻頂"
         }
       ],
-      "background": "機器人產業受輝達財報超預期及物理AI發展帶動，國際大廠如思靈機器人加大佈局，台灣產業亦聚焦關鍵零組件技術發展，需求持續增溫。",
+      "background": "低軌衛星產業受SpaceX積極擴大商業衛星網路規模與跨足5G服務激勵，相關概念股吸引買盤進駐，展現抗跌力道。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxObDhBRHVhWXBHLUlxWEV6X20tVk1yNFlOODNqZWpqX3pIUGhsVVhPM2x6X3lxMGhGRldKTnBzdU53VnN3V0ZwaDZmaGVhd3haa1A0Q0k2Y0hHQUlET3ZIUkpDSGVFdlFNM09mN0lkeTI0emVWWjlXVVpBaEtJaW9KNjNSeVk1c25N",
+      "tkey": "熱門族群機器人奇兵突圍3檔鎖紅燈鴻家軍跟上",
+      "title": "《熱門族群》機器人奇兵突圍 3檔鎖紅燈 鴻家軍跟上 - 富聯網",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObDhBRHVhWXBHLUlxWEV6X20tVk1yNFlOODNqZWpqX3pIUGhsVVhPM2x6X3lxMGhGRldKTnBzdU53VnN3V0ZwaDZmaGVhd3haa1A0Q0k2Y0hHQUlET3ZIUkpDSGVFdlFNM09mN0lkeTI0emVWWjlXVVpBaEtJaW9KNjNSeVk1c25N?oc=5",
+      "source": "富聯網",
+      "pubDate": "Wed, 18 Nov 2026 04:07:00 GMT",
+      "stocks": [],
+      "background": "機器人產業受AI技術進步與自動化需求提升帶動，應用領域擴大，市場對其未來發展抱持樂觀態度。",
+      "themeTags": [
+        "需求驅動"
       ]
     },
     {

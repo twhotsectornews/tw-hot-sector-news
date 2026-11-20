@@ -1,11 +1,27 @@
 {
-  "asOf": "2026-11-20T11:03:48.071+08:00",
-  "generatedAt": "2026-11-20T03:03:48.071Z",
+  "asOf": "2026-11-20T12:06:03.887+08:00",
+  "generatedAt": "2026-11-20T04:06:03.887Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
+    {
+      "symbol": "6285",
+      "name": "啟碁",
+      "days": 3,
+      "dates": [
+        "11/20",
+        "11/19",
+        "11/18"
+      ],
+      "mentions": 4,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/18"
+      ]
+    },
     {
       "symbol": "2330",
       "name": "台積電",
@@ -17,21 +33,6 @@
       ],
       "mentions": 4,
       "limitUp": false
-    },
-    {
-      "symbol": "6285",
-      "name": "啟碁",
-      "days": 3,
-      "dates": [
-        "11/20",
-        "11/19",
-        "11/18"
-      ],
-      "mentions": 3,
-      "luw": 1,
-      "luwd": [
-        "11/18"
-      ]
     },
     {
       "symbol": "3443",
@@ -46,6 +47,44 @@
       "limitUp": false,
       "luw": 1,
       "luwd": [
+        "11/13"
+      ]
+    },
+    {
+      "symbol": "3491",
+      "name": "昇達科",
+      "days": 2,
+      "dates": [
+        "11/20",
+        "11/18"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "7717",
+      "name": "萊德光電-KY",
+      "days": 2,
+      "dates": [
+        "11/19",
+        "11/18"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "4916",
+      "name": "事欣科",
+      "days": 2,
+      "dates": [
+        "11/19",
+        "11/18"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "11/18",
         "11/13"
       ]
     },
@@ -83,43 +122,6 @@
       ],
       "mentions": 3,
       "limitUp": false
-    },
-    {
-      "symbol": "3491",
-      "name": "昇達科",
-      "days": 2,
-      "dates": [
-        "11/20",
-        "11/18"
-      ],
-      "mentions": 2
-    },
-    {
-      "symbol": "7717",
-      "name": "萊德光電-KY",
-      "days": 2,
-      "dates": [
-        "11/19",
-        "11/18"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "4916",
-      "name": "事欣科",
-      "days": 2,
-      "dates": [
-        "11/19",
-        "11/18"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 2,
-      "luwd": [
-        "11/18",
-        "11/13"
-      ]
     },
     {
       "symbol": "3105",
@@ -371,6 +373,7 @@
           "symbol": "6285",
           "name": "啟碁",
           "point": "衛星終端、Wi-Fi 7及800G交換器放量",
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "11/18"
@@ -379,7 +382,8 @@
         {
           "symbol": "3491",
           "name": "昇達科",
-          "point": "低軌衛星產品組合升級"
+          "point": "低軌衛星產品組合升級",
+          "limitUp": false
         }
       ],
       "background": "低軌衛星及AI網通升級帶旺台廠營運，啟碁受惠衛星終端、Wi-Fi 7及800G交換器放量，昇達科則獲看好低軌衛星產品組合升級。",
@@ -400,12 +404,14 @@
           "name": "長榮航",
           "point": "客貨運需求強勁搭配油價回落",
           "status": "逼近新高",
-          "dist": -8.2
+          "dist": -8.2,
+          "limitUp": false
         },
         {
           "symbol": "2610",
           "name": "華航",
-          "point": "客貨運需求強勁搭配油價回落"
+          "point": "客貨運需求強勁搭配油價回落",
+          "limitUp": false
         }
       ],
       "background": "航空雙雄受惠於強勁的出國旅遊需求、AI與科技相關貨運暢旺，以及燃油成本回落，獲利成長可期。",
