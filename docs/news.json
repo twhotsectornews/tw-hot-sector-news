@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-20T18:42:36.392+08:00",
-  "generatedAt": "2026-11-20T10:42:36.392Z",
+  "asOf": "2026-11-21T01:43:45.971+08:00",
+  "generatedAt": "2026-11-20T17:43:45.971Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -23,18 +23,6 @@
       ]
     },
     {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 3,
-      "dates": [
-        "11/19",
-        "11/16",
-        "11/14"
-      ],
-      "mentions": 4,
-      "limitUp": false
-    },
-    {
       "symbol": "3443",
       "name": "創意",
       "days": 3,
@@ -44,11 +32,7 @@
         "11/15"
       ],
       "mentions": 3,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "11/13"
-      ]
+      "limitUp": false
     },
     {
       "symbol": "3491",
@@ -82,10 +66,9 @@
       ],
       "mentions": 3,
       "limitUp": false,
-      "luw": 2,
+      "luw": 1,
       "luwd": [
-        "11/18",
-        "11/13"
+        "11/18"
       ]
     },
     {
@@ -124,14 +107,14 @@
       "limitUp": false
     },
     {
-      "symbol": "3105",
-      "name": "穩懋",
+      "symbol": "2330",
+      "name": "台積電",
       "days": 2,
       "dates": [
         "11/19",
-        "11/14"
+        "11/16"
       ],
-      "mentions": 2,
+      "mentions": 3,
       "limitUp": false
     },
     {
@@ -145,17 +128,6 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -8.9,
-      "limitUp": false
-    },
-    {
-      "symbol": "2337",
-      "name": "旺宏",
-      "days": 2,
-      "dates": [
-        "11/19",
-        "11/14"
-      ],
-      "mentions": 2,
       "limitUp": false
     },
     {
@@ -251,34 +223,12 @@
       "limitUp": false
     },
     {
-      "symbol": "1815",
-      "name": "富喬",
-      "days": 2,
-      "dates": [
-        "11/18",
-        "11/14"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
       "symbol": "8046",
       "name": "南電",
       "days": 2,
       "dates": [
         "11/18",
         "11/16"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "4958",
-      "name": "臻鼎-KY",
-      "days": 2,
-      "dates": [
-        "11/18",
-        "11/14"
       ],
       "mentions": 2,
       "limitUp": false
@@ -327,37 +277,6 @@
       "dist": 0,
       "limitUp": true,
       "pct": 9.9
-    },
-    {
-      "symbol": "3661",
-      "name": "世芯-KY",
-      "days": 2,
-      "dates": [
-        "11/15",
-        "11/14"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "11/10"
-      ]
-    },
-    {
-      "symbol": "3035",
-      "name": "智原",
-      "days": 2,
-      "dates": [
-        "11/15",
-        "11/14"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 9.8,
-      "luw": 1,
-      "luwd": [
-        "11/13"
-      ]
     }
   ],
   "news": [
@@ -439,10 +358,9 @@
           "name": "事欣科",
           "point": "低軌衛星族群，摜至跌停",
           "limitUp": false,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "11/18",
-            "11/13"
+            "11/18"
           ]
         },
         {
@@ -700,11 +618,7 @@
           "symbol": "3443",
           "name": "創意",
           "point": "率先亮燈跌停",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/13"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "5274",

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updatedAt": "2026-11-20T10:42:36.388Z",
+  "updatedAt": "2026-11-20T17:43:45.968Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOa2pGUEdWUXA2YzM3UlJqaWtTUGtTYkxVQzdYNS1pWXU0bXhNcmltc0lRT05FRHhEU0ZxODVfcVNnWHM0eklQRWZ0Qmp1cTI3TFFlZFg5MHZxLURma25aOTlVZEt0Tnl4MWE3RFFmdEdGNVVXTjRUeFpLNWZjWmJLTUozaGVCbzJR",
@@ -21,10 +21,9 @@
           "name": "事欣科",
           "point": "低軌衛星族群，摜至跌停",
           "limitUp": false,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "11/18",
-            "11/13"
+            "11/18"
           ]
         },
         {
@@ -282,11 +281,7 @@
           "symbol": "3443",
           "name": "創意",
           "point": "率先亮燈跌停",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/13"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "5274",

@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-20",
+  "updatedAt": "2026-11-20T17:43:45.963Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPaHh4UG5VOG94ZTgwY2FtNVM5ck1IZGp2SVJPQkE4Q2g2d3R1WlR1MTAySjF3X21DR1haSFdNMHNWdzJFcDVxRnZzbWs5WkloUnZiSlpRb2MyWUlKc1lQMzVoOTdLakVwVWRKZDV4cVlIeTJrZ1RCN2oyTnNoSVY2cGN0TVcxTEVI",
+      "tkey": "熱門族群雙引擎點火啟碁、昇達科有戲",
+      "title": "《熱門族群》雙引擎點火 啟碁、昇達科有戲 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6366500001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 20 Nov 2026 00:12:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6285",
+          "name": "啟碁",
+          "point": "衛星終端、Wi-Fi 7及800G交換器放量",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "3491",
+          "name": "昇達科",
+          "point": "低軌衛星產品組合升級",
+          "limitUp": false
+        }
+      ],
+      "background": "低軌衛星及AI網通升級帶旺台廠營運，啟碁受惠衛星終端、Wi-Fi 7及800G交換器放量，昇達科則獲看好低軌衛星產品組合升級。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNb1BmMU9NUlViMTRGZUFVR1p6NzY3RmpXZnBhY2ZTc01iYzlYaWhIUDFWVUZpN0hLaExyaXlucHV2RjZuMldobEFXSzJyeTh5bnktVXBTeW51R3FJR05oNmlyWVJyYTMxV1lNUmJNTUUxcGphbDlzckJLcUxJa19La2Q5Z3Fkbm9X",
+      "tkey": "熱門族群航空雙雄翱翔內外資按讚",
+      "title": "《熱門族群》航空雙雄翱翔 內外資按讚 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6366490001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 20 Nov 2026 00:12:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2618",
+          "name": "長榮航",
+          "point": "客貨運需求強勁搭配油價回落",
+          "status": "逼近新高",
+          "dist": -8.2,
+          "limitUp": false
+        },
+        {
+          "symbol": "2610",
+          "name": "華航",
+          "point": "客貨運需求強勁搭配油價回落",
+          "limitUp": false
+        }
+      ],
+      "background": "航空雙雄受惠於強勁的出國旅遊需求、AI與科技相關貨運暢旺，以及燃油成本回落，獲利成長可期。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    }
+  ]
+}
