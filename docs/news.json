@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-21T18:41:04.624+08:00",
-  "generatedAt": "2026-11-21T10:41:04.624Z",
+  "asOf": "2026-11-22T00:44:11.167+08:00",
+  "generatedAt": "2026-11-21T16:44:11.167Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -21,18 +21,6 @@
       "luwd": [
         "11/18"
       ]
-    },
-    {
-      "symbol": "3443",
-      "name": "創意",
-      "days": 3,
-      "dates": [
-        "11/19",
-        "11/17",
-        "11/15"
-      ],
-      "mentions": 3,
-      "limitUp": false
     },
     {
       "symbol": "3491",
@@ -179,6 +167,17 @@
       "limitUp": false
     },
     {
+      "symbol": "3443",
+      "name": "創意",
+      "days": 2,
+      "dates": [
+        "11/19",
+        "11/17"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
       "symbol": "5274",
       "name": "信驊",
       "days": 2,
@@ -232,51 +231,6 @@
       ],
       "mentions": 2,
       "limitUp": false
-    },
-    {
-      "symbol": "2468",
-      "name": "華經",
-      "days": 2,
-      "dates": [
-        "11/16",
-        "11/15"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -1.1,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 2,
-      "luwd": [
-        "11/16",
-        "11/13"
-      ]
-    },
-    {
-      "symbol": "6148",
-      "name": "驊宏資",
-      "days": 2,
-      "dates": [
-        "11/16",
-        "11/15"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 10
-    },
-    {
-      "symbol": "6697",
-      "name": "東捷資訊",
-      "days": 2,
-      "dates": [
-        "11/16",
-        "11/15"
-      ],
-      "mentions": 2,
-      "status": "創新高",
-      "dist": 0,
-      "limitUp": true,
-      "pct": 9.9
     }
   ],
   "news": [
