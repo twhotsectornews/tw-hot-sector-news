@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-22T18:42:36.243+08:00",
-  "generatedAt": "2026-11-22T10:42:36.243Z",
+  "asOf": "2026-11-23T01:03:40.271+08:00",
+  "generatedAt": "2026-11-22T17:03:40.271Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -95,17 +95,6 @@
       "limitUp": false
     },
     {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 2,
-      "dates": [
-        "11/19",
-        "11/16"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
       "symbol": "2618",
       "name": "長榮航",
       "days": 2,
@@ -140,17 +129,6 @@
       "mentions": 2,
       "status": "逼近新高",
       "dist": -8.9,
-      "limitUp": false
-    },
-    {
-      "symbol": "1301",
-      "name": "台塑",
-      "days": 2,
-      "dates": [
-        "11/19",
-        "11/16"
-      ],
-      "mentions": 2,
       "limitUp": false
     },
     {
@@ -230,28 +208,6 @@
       "dates": [
         "11/19",
         "11/17"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "1303",
-      "name": "南亞",
-      "days": 2,
-      "dates": [
-        "11/18",
-        "11/16"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "8046",
-      "name": "南電",
-      "days": 2,
-      "dates": [
-        "11/18",
-        "11/16"
       ],
       "mentions": 2,
       "limitUp": false

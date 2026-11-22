@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-22",
+  "updatedAt": "2026-11-22T17:03:40.267Z",
+  "news": [
+    {
+      "gid": "CBMiWkFVX3lxTE9EVXkweGZRbThWZWhuUVRZSDFaOC1fRFRmWC01MC12Mm56RHRVLTJUY0hDZ0JTd1cwV1JtTWlHTkNkRVVmakRvMmxsM3F6TFRlZENVWnBzRlUxZw",
+      "tkey": "熱門族群科技股愁雲慘霧成衣三雄逆勢抗跌-尋夢新聞",
+      "title": "熱門族群》科技股愁雲慘霧成衣三雄逆勢抗跌- 尋夢新聞 - 尋夢園聊天室",
+      "url": "https://ek21.com/news/article/2b91701ae0df2213",
+      "source": "尋夢園聊天室",
+      "pubDate": "Sun, 22 Nov 2026 00:01:57 GMT",
+      "stocks": [],
+      "background": "全球運動經濟成長快速，NIKE、adidas 等品牌看好明年銷售，帶動台灣紡織成衣大廠接單動能，產業具中長期成長契機。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiWkFVX3lxTE9ZdTFvczZVT19CVE9ENll1MnBOQmEzdms1bXB4dkhWT28ydHhIRm5kLTdvUnZrbHNZbEVjTGhOY0NMTDgtTm1YSC0xVG9Qam16LWxZbGRDYmpIZw",
+      "tkey": "熱門族群油價跌利多無路用航空股跌成一片-尋夢新聞",
+      "title": "熱門族群》油價跌利多無路用航空股跌成一片- 尋夢新聞 - 尋夢園聊天室",
+      "url": "https://ek21.com/news/article/b5ea207dd3a35bc1",
+      "source": "尋夢園聊天室",
+      "pubDate": "Sun, 22 Nov 2026 00:01:55 GMT",
+      "stocks": [],
+      "background": "航空客運受熱門航線帶動，貨運因AI等電子產品需求暢旺，燃油價格預期走低，有助於成本壓力緩解，整體營運可望小幅成長。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiX0FVX3lxTE1RWWs5aDlBTmd1bW1wUlR6bGZuYjgyQmpKMGRVblN4OFdFSUdfZTZHdkpLdEZkc1NSV2l2cjVjaWx4a1NNLThMeUdtVThiNkJHc1B6MWR2M09QX2toclVZ0gFkQVVfeXFMTnBid3RobnppU0FiY2dGeG1mWUx0TGdUYlZyYmkyRlI0SzFDOTVKa2hsRUZacWNDQnIzazlzZTNWMVQ0blVsTnhJRjFLMlU2dWprZklEdUJiNE4xLUM0WkJuYmc3VA",
+      "tkey": "熱門族群科技股愁雲慘霧成衣三雄逆勢抗跌",
+      "title": "熱門族群》科技股愁雲慘霧 成衣三雄逆勢抗跌 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5648079",
+      "source": "自由財經",
+      "pubDate": "Sat, 21 Nov 2026 23:05:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1476",
+          "name": "儒鴻",
+          "point": "防禦性買盤進駐，股價抗跌",
+          "limitUp": false
+        },
+        {
+          "symbol": "1477",
+          "name": "聚陽",
+          "point": "市場資金青睞，跌幅較小",
+          "limitUp": false
+        },
+        {
+          "symbol": "4441",
+          "name": "振大環球",
+          "point": "股價與前一週持平，不受股災影響",
+          "limitUp": false
+        }
+      ],
+      "background": "全球運動經濟成長快速，NIKE、adidas 等品牌看好明年銷售，帶動台灣紡織成衣大廠接單動能，產業具中長期成長契機。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiX0FVX3lxTE5WYUR5M1F1bVBKS2U4QU1qR0ZhaUNRd1pmZ0ZHMXkwQVpNV0hMRHh5Y013enF2R2lKWEFtaWdoY2hkQnlPMFN3NG0wN0Z5TnFIZ21OUkVWQjdZc2xvUUdZ",
+      "tkey": "熱門族群油價跌利多無路用航空股跌成一片",
+      "title": "熱門族群》油價跌利多無路用 航空股跌成一片 - 自由財經",
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5648067",
+      "source": "自由財經",
+      "pubDate": "Sat, 21 Nov 2026 23:00:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2618",
+          "name": "長榮航",
+          "point": "週跌幅6.49%，三大法人買超",
+          "status": "逼近新高",
+          "dist": -8.8,
+          "limitUp": false
+        },
+        {
+          "symbol": "2610",
+          "name": "華航",
+          "point": "週跌幅8.19%，三大法人買超",
+          "limitUp": false
+        },
+        {
+          "symbol": "2646",
+          "name": "星宇航空",
+          "point": "週跌幅7%，三大法人買超",
+          "limitUp": false
+        },
+        {
+          "symbol": "6757",
+          "name": "台灣虎航",
+          "point": "週跌幅14.72%，相對大盤輕",
+          "limitUp": false
+        }
+      ],
+      "background": "航空客運受熱門航線帶動，貨運因AI等電子產品需求暢旺，燃油價格預期走低，有助於成本壓力緩解，整體營運可望小幅成長。",
+      "themeTags": [
+        "需求驅動",
+        "循環位置"
+      ]
+    }
+  ]
+}
