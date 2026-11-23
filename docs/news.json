@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-23T19:28:24.157+08:00",
-  "generatedAt": "2026-11-23T11:28:24.157Z",
+  "asOf": "2026-11-24T05:13:06.708+08:00",
+  "generatedAt": "2026-11-23T21:13:06.708Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -52,42 +52,6 @@
       ]
     },
     {
-      "symbol": "5274",
-      "name": "信驊",
-      "days": 3,
-      "dates": [
-        "11/23",
-        "11/19",
-        "11/17"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "2059",
-      "name": "川湖",
-      "days": 3,
-      "dates": [
-        "11/23",
-        "11/19",
-        "11/17"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "3443",
-      "name": "創意",
-      "days": 3,
-      "dates": [
-        "11/23",
-        "11/19",
-        "11/17"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
       "symbol": "2383",
       "name": "台光電",
       "days": 2,
@@ -97,7 +61,11 @@
       ],
       "mentions": 3,
       "limitUp": true,
-      "pct": 10
+      "pct": 10,
+      "luw": 1,
+      "luwd": [
+        "11/23"
+      ]
     },
     {
       "symbol": "7717",
@@ -106,41 +74,6 @@
       "dates": [
         "11/19",
         "11/18"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "2886",
-      "name": "兆豐金",
-      "days": 2,
-      "dates": [
-        "11/19",
-        "11/17"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -3,
-      "limitUp": false
-    },
-    {
-      "symbol": "2884",
-      "name": "玉山金",
-      "days": 2,
-      "dates": [
-        "11/19",
-        "11/17"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "2887",
-      "name": "台新新光金",
-      "days": 2,
-      "dates": [
-        "11/19",
-        "11/17"
       ],
       "mentions": 3,
       "limitUp": false
@@ -168,16 +101,37 @@
       "limitUp": false
     },
     {
-      "symbol": "2308",
-      "name": "台達電",
+      "symbol": "5274",
+      "name": "信驊",
       "days": 2,
       "dates": [
         "11/23",
-        "11/17"
+        "11/19"
       ],
       "mentions": 2,
-      "limitUp": true,
-      "pct": 10
+      "limitUp": false
+    },
+    {
+      "symbol": "2059",
+      "name": "川湖",
+      "days": 2,
+      "dates": [
+        "11/23",
+        "11/19"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3443",
+      "name": "創意",
+      "days": 2,
+      "dates": [
+        "11/23",
+        "11/19"
+      ],
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "2337",
@@ -215,62 +169,12 @@
       "limitUp": false
     },
     {
-      "symbol": "2891",
-      "name": "中信金",
-      "days": 2,
-      "dates": [
-        "11/19",
-        "11/17"
-      ],
-      "mentions": 2,
-      "status": "逼近新高",
-      "dist": -8.9,
-      "limitUp": false
-    },
-    {
       "symbol": "1802",
       "name": "台玻",
       "days": 2,
       "dates": [
         "11/19",
         "11/18"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2882",
-      "name": "國泰金",
-      "days": 2,
-      "dates": [
-        "11/19",
-        "11/17"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -11.4,
-      "limitUp": false
-    },
-    {
-      "symbol": "2881",
-      "name": "富邦金",
-      "days": 2,
-      "dates": [
-        "11/19",
-        "11/17"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -12.8,
-      "limitUp": false
-    },
-    {
-      "symbol": "3653",
-      "name": "健策",
-      "days": 2,
-      "dates": [
-        "11/19",
-        "11/17"
       ],
       "mentions": 2,
       "limitUp": false
@@ -303,14 +207,22 @@
           "name": "敬鵬",
           "point": "股價一度攻上漲停",
           "limitUp": true,
-          "pct": 9.9
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "11/23"
+          ]
         },
         {
           "symbol": "2383",
           "name": "台光電",
           "point": "股價一度攻上漲停",
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/23"
+          ]
         },
         {
           "symbol": "2313",
@@ -422,7 +334,11 @@
           "name": "聯發科",
           "point": "亮燈漲停股價最高",
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/23"
+          ]
         },
         {
           "symbol": "3661",
@@ -430,8 +346,9 @@
           "point": "亮燈漲停",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "11/23",
             "11/18"
           ]
         },
@@ -440,7 +357,11 @@
           "name": "台光電",
           "point": "亮燈漲停",
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/23"
+          ]
         },
         {
           "symbol": "8299",
@@ -450,11 +371,11 @@
           "pct": 9.8,
           "luw": 5,
           "luwd": [
+            "11/23",
             "11/20",
             "11/19",
             "11/18",
-            "11/17",
-            "11/16"
+            "11/17"
           ]
         },
         {
@@ -463,8 +384,9 @@
           "point": "亮燈漲停",
           "limitUp": true,
           "pct": 10,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "11/23",
             "11/18"
           ]
         },
@@ -473,14 +395,22 @@
           "name": "智邦",
           "point": "亮燈漲停",
           "limitUp": true,
-          "pct": 9.8
+          "pct": 9.8,
+          "luw": 1,
+          "luwd": [
+            "11/23"
+          ]
         },
         {
           "symbol": "2308",
           "name": "台達電",
           "point": "盤中亮燈漲停強勢反彈",
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/23"
+          ]
         },
         {
           "symbol": "3443",
@@ -519,7 +449,11 @@
           "name": "力積電",
           "point": "早盤股價震盪向上，增量上攻",
           "limitUp": true,
-          "pct": 10
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/23"
+          ]
         },
         {
           "symbol": "2337",
