@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-23T11:07:31.846+08:00",
-  "generatedAt": "2026-11-23T03:07:31.846Z",
+  "asOf": "2026-11-23T12:03:57.814+08:00",
+  "generatedAt": "2026-11-23T04:03:57.814Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -92,6 +92,17 @@
         "11/17"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2337",
+      "name": "旺宏",
+      "days": 2,
+      "dates": [
+        "11/23",
+        "11/19"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -214,6 +225,45 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQTjJ4YjJlWlI2MmgxaUdiQXRVNlZSUTdqTEVGbkRuTUxyaVFnbDBQcXZ1Q2ZTbmo1UXktRHlaaVRTbWswV2tvdlVuVzJPVUNSdDFXQlRKYjBVQkNaaG5CSWd5TEVweGxlNENjc2NnamlqOXZkbnY3YXg4X25rM1JDVEh3WlRBZW9w",
+      "tkey": "熱門族群無懼美光重挫台系記憶體四雄逆勢走揚",
+      "title": "《熱門族群》無懼美光重挫 台系記憶體四雄逆勢走揚 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6368985001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 23 Nov 2026 03:12:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2408",
+          "name": "南亞科",
+          "point": "早盤股價震盪向上",
+          "limitUp": false
+        },
+        {
+          "symbol": "2344",
+          "name": "華邦電",
+          "point": "早盤股價震盪向上，增量上攻",
+          "limitUp": false
+        },
+        {
+          "symbol": "6770",
+          "name": "力積電",
+          "point": "早盤股價震盪向上，增量上攻",
+          "limitUp": false
+        },
+        {
+          "symbol": "2337",
+          "name": "旺宏",
+          "point": "早盤股價震盪向上",
+          "limitUp": false
+        }
+      ],
+      "background": "台系記憶體廠無懼美光重挫逆勢走揚，受惠國安基金護盤及政府救市措施，市場對AI股信心穩定，產業有望谷底翻揚。",
+      "themeTags": [
+        "政策關稅",
+        "循環位置"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQRDlNRlJLcm5UcmprYzlwY203ckdSdkV5VVg4ZzdoMkpSTmxmLWwzTVR4X2RDNFI3bTFkQ0oxYzY3Sm8zQWRZcXVSN2g1XzFFTUJ1U3pXYmlENGtwUThOSVdzRWpJQzEtUzFvZlFkdWQydHRrYWxRa1Vpc1puU2RsMmZsVFZjQzlq",
       "tkey": "熱門族群電力撐腰！機電四雄發功中興電領漲半根",
