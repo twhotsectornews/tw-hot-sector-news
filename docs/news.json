@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-23T02:01:11.097+08:00",
-  "generatedAt": "2026-11-22T18:01:11.097Z",
+  "asOf": "2026-11-23T11:07:31.846+08:00",
+  "generatedAt": "2026-11-23T03:07:31.846Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -215,6 +215,45 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxQRDlNRlJLcm5UcmprYzlwY203ckdSdkV5VVg4ZzdoMkpSTmxmLWwzTVR4X2RDNFI3bTFkQ0oxYzY3Sm8zQWRZcXVSN2g1XzFFTUJ1U3pXYmlENGtwUThOSVdzRWpJQzEtUzFvZlFkdWQydHRrYWxRa1Vpc1puU2RsMmZsVFZjQzlq",
+      "tkey": "熱門族群電力撐腰！機電四雄發功中興電領漲半根",
+      "title": "《熱門族群》電力撐腰！機電四雄發功 中興電領漲半根 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6368919001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 23 Nov 2026 02:19:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1513",
+          "name": "中興電",
+          "point": "領漲機電族群，漲幅達半根漲停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "1514",
+          "name": "亞力",
+          "point": "股價同步跟進，漲幅約3%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1503",
+          "name": "士電",
+          "point": "股價同步跟進，漲幅約3%",
+          "limitUp": false
+        },
+        {
+          "symbol": "1519",
+          "name": "華城",
+          "point": "股價力守400元整數關卡",
+          "limitUp": false
+        }
+      ],
+      "background": "機電族群受惠於台電強韌電網計畫、半導體建廠及AI資料中心等需求，訂單能見度高，營運表現亮眼。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
+    {
       "gid": "CBMiWkFVX3lxTE9EVXkweGZRbThWZWhuUVRZSDFaOC1fRFRmWC01MC12Mm56RHRVLTJUY0hDZ0JTd1cwV1JtTWlHTkNkRVVmakRvMmxsM3F6TFRlZENVWnBzRlUxZw",
       "tkey": "熱門族群科技股愁雲慘霧成衣三雄逆勢抗跌-尋夢新聞",
       "title": "熱門族群》科技股愁雲慘霧成衣三雄逆勢抗跌- 尋夢新聞 - 尋夢園聊天室",
@@ -311,65 +350,6 @@
         }
       ],
       "background": "航空客運受熱門航線帶動，貨運因AI等電子產品需求暢旺，燃油價格預期走低，有助於成本壓力緩解，整體營運可望小幅成長。",
-      "themeTags": [
-        "需求驅動",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxPaHh4UG5VOG94ZTgwY2FtNVM5ck1IZGp2SVJPQkE4Q2g2d3R1WlR1MTAySjF3X21DR1haSFdNMHNWdzJFcDVxRnZzbWs5WkloUnZiSlpRb2MyWUlKc1lQMzVoOTdLakVwVWRKZDV4cVlIeTJrZ1RCN2oyTnNoSVY2cGN0TVcxTEVI",
-      "tkey": "熱門族群雙引擎點火啟碁、昇達科有戲",
-      "title": "《熱門族群》雙引擎點火 啟碁、昇達科有戲 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6366500001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Fri, 20 Nov 2026 00:12:00 GMT",
-      "stocks": [
-        {
-          "symbol": "6285",
-          "name": "啟碁",
-          "point": "衛星終端、Wi-Fi 7及800G交換器放量",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/18"
-          ]
-        },
-        {
-          "symbol": "3491",
-          "name": "昇達科",
-          "point": "低軌衛星產品組合升級",
-          "limitUp": false
-        }
-      ],
-      "background": "低軌衛星及AI網通升級帶旺台廠營運，啟碁受惠衛星終端、Wi-Fi 7及800G交換器放量，昇達科則獲看好低軌衛星產品組合升級。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNb1BmMU9NUlViMTRGZUFVR1p6NzY3RmpXZnBhY2ZTc01iYzlYaWhIUDFWVUZpN0hLaExyaXlucHV2RjZuMldobEFXSzJyeTh5bnktVXBTeW51R3FJR05oNmlyWVJyYTMxV1lNUmJNTUUxcGphbDlzckJLcUxJa19La2Q5Z3Fkbm9X",
-      "tkey": "熱門族群航空雙雄翱翔內外資按讚",
-      "title": "《熱門族群》航空雙雄翱翔 內外資按讚 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6366490001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Fri, 20 Nov 2026 00:12:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2618",
-          "name": "長榮航",
-          "point": "客貨運需求強勁搭配油價回落",
-          "status": "逼近新高",
-          "dist": -8.2,
-          "limitUp": false
-        },
-        {
-          "symbol": "2610",
-          "name": "華航",
-          "point": "客貨運需求強勁搭配油價回落",
-          "limitUp": false
-        }
-      ],
-      "background": "航空雙雄受惠於強勁的出國旅遊需求、AI與科技相關貨運暢旺，以及燃油成本回落，獲利成長可期。",
       "themeTags": [
         "需求驅動",
         "循環位置"
