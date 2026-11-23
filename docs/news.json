@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-23T13:04:28.007+08:00",
-  "generatedAt": "2026-11-23T05:04:28.007Z",
+  "asOf": "2026-11-23T14:08:32.679+08:00",
+  "generatedAt": "2026-11-23T06:08:32.679Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -21,6 +21,42 @@
       "luwd": [
         "11/18"
       ]
+    },
+    {
+      "symbol": "5274",
+      "name": "信驊",
+      "days": 3,
+      "dates": [
+        "11/23",
+        "11/19",
+        "11/17"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2059",
+      "name": "川湖",
+      "days": 3,
+      "dates": [
+        "11/23",
+        "11/19",
+        "11/17"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "3443",
+      "name": "創意",
+      "days": 3,
+      "dates": [
+        "11/23",
+        "11/19",
+        "11/17"
+      ],
+      "mentions": 3,
+      "limitUp": false
     },
     {
       "symbol": "3491",
@@ -93,6 +129,30 @@
       ],
       "mentions": 3,
       "limitUp": false
+    },
+    {
+      "symbol": "2383",
+      "name": "台光電",
+      "days": 2,
+      "dates": [
+        "11/23",
+        "11/18"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 10
+    },
+    {
+      "symbol": "2308",
+      "name": "台達電",
+      "days": 2,
+      "dates": [
+        "11/23",
+        "11/17"
+      ],
+      "mentions": 2,
+      "limitUp": true,
+      "pct": 10
     },
     {
       "symbol": "2337",
@@ -180,41 +240,8 @@
       "limitUp": false
     },
     {
-      "symbol": "3443",
-      "name": "創意",
-      "days": 2,
-      "dates": [
-        "11/19",
-        "11/17"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "5274",
-      "name": "信驊",
-      "days": 2,
-      "dates": [
-        "11/19",
-        "11/17"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
       "symbol": "3653",
       "name": "健策",
-      "days": 2,
-      "dates": [
-        "11/19",
-        "11/17"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "2059",
-      "name": "川湖",
       "days": 2,
       "dates": [
         "11/19",
@@ -225,6 +252,95 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNTmxNQlpkcEZHYndNMkRmdTRUd3JLQTl2QWhwTl8xeU1adGkxNzhRX0xEbm5RQ01mMFFsb093VFQ1Wm92T0Y2X1p2UXZ0cHE1b1gzSlAtNG1OaTU3ZHhfWEJkZmpKMVlQRGZFQ1hMS2ZJSVp0RmxkaVRxNDZ1d0M0THFUNFhXLWFr",
+      "tkey": "熱門族群台股破底翻千金股拚出聯發科等6檔紅燈",
+      "title": "《熱門族群》台股破底翻 千金股拚出聯發科等6檔紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6369111001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Mon, 23 Nov 2026 05:48:00 GMT",
+      "stocks": [
+        {
+          "symbol": "5274",
+          "name": "信驊",
+          "point": "同步大漲收高半根漲停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "2059",
+          "name": "川湖",
+          "point": "同步大漲收高半根漲停板",
+          "limitUp": false
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "亮燈漲停股價最高",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "3661",
+          "name": "世芯-KY",
+          "point": "亮燈漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "亮燈漲停",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "8299",
+          "name": "群聯",
+          "point": "亮燈漲停",
+          "limitUp": true,
+          "pct": 9.8
+        },
+        {
+          "symbol": "3665",
+          "name": "貿聯-KY",
+          "point": "亮燈漲停",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "2345",
+          "name": "智邦",
+          "point": "亮燈漲停",
+          "limitUp": true,
+          "pct": 9.8
+        },
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "point": "盤中亮燈漲停強勢反彈",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "point": "連續三日跌停後急拉",
+          "limitUp": false
+        }
+      ],
+      "background": "台股受政府護盤及買盤進場帶動，千金股展開反攻。聯發科受惠於AI伺服器需求，摩根士丹利看好其半導體族群首選地位。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxQTjJ4YjJlWlI2MmgxaUdiQXRVNlZSUTdqTEVGbkRuTUxyaVFnbDBQcXZ1Q2ZTbmo1UXktRHlaaVRTbWswV2tvdlVuVzJPVUNSdDFXQlRKYjBVQkNaaG5CSWd5TEVweGxlNENjc2NnamlqOXZkbnY3YXg4X25rM1JDVEh3WlRBZW9w",
       "tkey": "熱門族群無懼美光重挫台系記憶體四雄逆勢走揚",
