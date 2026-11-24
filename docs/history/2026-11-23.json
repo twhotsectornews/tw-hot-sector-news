@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updatedAt": "2026-11-24T06:02:59.713Z",
+  "updatedAt": "2026-11-24T09:42:16.960Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQalNhZWc0OXpEX3RXUVVwV25GSnFxTXFkRF85NUJyYWhpMzVBZVpzTW1lS2M0bDRpZnZkM042ZHl4eVJ2N0hkRGJGckF3VjV4c3ZvNm81dWxDOS1MR3NSZnZhN09LdkoxSmpzaFJqVUNuY2g3dmVDMVFfTm9WbzVDbTg0eTUtNklj",
@@ -55,7 +55,15 @@
           "symbol": "3491",
           "name": "昇達科",
           "point": "通過Starlink、Amazon Kuiper認證，低軌衛星營收占比逾八成",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18",
+            "11/17"
+          ]
         },
         {
           "symbol": "6285",
@@ -89,13 +97,29 @@
           "symbol": "3105",
           "name": "穩懋",
           "point": "SpaceX重要零組件供應商",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18",
+            "11/17"
+          ]
         },
         {
           "symbol": "6568",
           "name": "宏觀",
           "point": "SpaceX重要零組件供應商",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18",
+            "11/17"
+          ]
         },
         {
           "symbol": "2312",
@@ -142,7 +166,15 @@
           "symbol": "5274",
           "name": "信驊",
           "point": "同步大漲收高半根漲停板",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18",
+            "11/17"
+          ]
         },
         {
           "symbol": "2059",

@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-24T14:02:59.716+08:00",
-  "generatedAt": "2026-11-24T06:02:59.716Z",
+  "asOf": "2026-11-24T17:42:16.962+08:00",
+  "generatedAt": "2026-11-24T09:42:16.962Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -50,7 +50,15 @@
         "11/18"
       ],
       "mentions": 4,
-      "limitUp": false
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "11/23",
+        "11/20",
+        "11/19",
+        "11/18",
+        "11/17"
+      ]
     },
     {
       "symbol": "4916",
@@ -86,6 +94,32 @@
       ]
     },
     {
+      "symbol": "2886",
+      "name": "兆豐金",
+      "days": 2,
+      "dates": [
+        "11/24",
+        "11/19"
+      ],
+      "mentions": 3,
+      "status": "逼近新高",
+      "dist": -2.7,
+      "limitUp": true,
+      "pct": 10
+    },
+    {
+      "symbol": "2887",
+      "name": "台新新光金",
+      "days": 2,
+      "dates": [
+        "11/24",
+        "11/19"
+      ],
+      "mentions": 3,
+      "limitUp": true,
+      "pct": 10
+    },
+    {
       "symbol": "7717",
       "name": "萊德光電-KY",
       "days": 2,
@@ -94,6 +128,59 @@
         "11/18"
       ],
       "mentions": 3,
+      "limitUp": false
+    },
+    {
+      "symbol": "2881",
+      "name": "富邦金",
+      "days": 2,
+      "dates": [
+        "11/24",
+        "11/19"
+      ],
+      "mentions": 2,
+      "status": "高檔修正",
+      "dist": -12.8,
+      "limitUp": true,
+      "pct": 10
+    },
+    {
+      "symbol": "2882",
+      "name": "國泰金",
+      "days": 2,
+      "dates": [
+        "11/24",
+        "11/19"
+      ],
+      "mentions": 2,
+      "status": "高檔修正",
+      "dist": -11.4,
+      "limitUp": true,
+      "pct": 10
+    },
+    {
+      "symbol": "2891",
+      "name": "中信金",
+      "days": 2,
+      "dates": [
+        "11/24",
+        "11/19"
+      ],
+      "mentions": 2,
+      "status": "高檔修正",
+      "dist": -13.3,
+      "limitUp": true,
+      "pct": 9.6
+    },
+    {
+      "symbol": "2883",
+      "name": "凱基金",
+      "days": 2,
+      "dates": [
+        "11/24",
+        "11/19"
+      ],
+      "mentions": 2,
       "limitUp": false
     },
     {
@@ -121,7 +208,16 @@
         "11/18"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.8,
+      "luw": 5,
+      "luwd": [
+        "11/23",
+        "11/20",
+        "11/19",
+        "11/18",
+        "11/17"
+      ]
     },
     {
       "symbol": "8358",
@@ -132,7 +228,16 @@
         "11/18"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9,
+      "luw": 5,
+      "luwd": [
+        "11/23",
+        "11/20",
+        "11/19",
+        "11/18",
+        "11/17"
+      ]
     },
     {
       "symbol": "6672",
@@ -212,7 +317,15 @@
         "11/19"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "11/23",
+        "11/20",
+        "11/19",
+        "11/18",
+        "11/17"
+      ]
     },
     {
       "symbol": "5274",
@@ -223,7 +336,15 @@
         "11/19"
       ],
       "mentions": 2,
-      "limitUp": false
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "11/23",
+        "11/20",
+        "11/19",
+        "11/18",
+        "11/17"
+      ]
     },
     {
       "symbol": "2059",
@@ -285,6 +406,83 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxOdUM0anphZUJlQjVETFRrdWxJTi1wbjlGcmpNVmNEOVRzbFc3Rl8zdWhCcUVGR0h4RTJkRlJvT1VmQ3NpNDRZSHpmcDJUM2RpNGh5M0U1XzRocVNkM2RMM0lWbkh5aUJtbW04czBiY0JVYmhkZkt4MWd5eGxVdFk1UjRuSldnMEp2",
+      "tkey": "熱門族群非AI熱區照漲！金控股同步噴出6檔亮燈、13檔全收紅",
+      "title": "《熱門族群》非AI熱區照漲！金控股同步噴出 6檔亮燈、13檔全收紅 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6370337001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 24 Nov 2026 05:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2881",
+          "name": "富邦金",
+          "point": "攻上漲停",
+          "status": "高檔修正",
+          "dist": -12.8,
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "2882",
+          "name": "國泰金",
+          "point": "攻上漲停",
+          "status": "高檔修正",
+          "dist": -11.4,
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "2885",
+          "name": "元大金",
+          "point": "接力亮燈",
+          "status": "高檔修正",
+          "dist": -13.5,
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "2886",
+          "name": "兆豐金",
+          "point": "接力亮燈",
+          "status": "逼近新高",
+          "dist": -2.7,
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "2887",
+          "name": "台新新光金",
+          "point": "接力亮燈",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "2890",
+          "name": "永豐金",
+          "point": "接力亮燈",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "2891",
+          "name": "中信金",
+          "point": "漲幅達8%至9%",
+          "status": "高檔修正",
+          "dist": -13.3,
+          "limitUp": true,
+          "pct": 9.6
+        },
+        {
+          "symbol": "2883",
+          "name": "凱基金",
+          "point": "漲幅達8%至9%",
+          "limitUp": false
+        }
+      ],
+      "background": "金控股在市場氣氛轉強及資金回流下同步走揚，具備龐大資產規模與內需金融業務，在市場波動時具防禦色彩，獲利表現受關注。",
+      "themeTags": []
+    },
+    {
       "gid": "CBMiiAFBVV95cUxPcUpMWG1LSUp6dGNqV3dObG1HSnAwX2ZTNDktUlc4ODVvOXJYLWlHT0xRYzJ4aE8zSUxaT0lONFhWQll3Ynl5Z1NpV01rVGJfV2ZxUmlHVVNDNFBIamFOWHdHWWpUNTVHYnBMX3lFOFE4TTJOU2lQc01rRmF6MTRvNVhTOW1fWnNN",
       "tkey": "熱門族群輝達帶飛、買氣排山倒海！特化軍團狂刷紅燈",
       "title": "《熱門族群》輝達帶飛、買氣排山倒海！ 特化軍團狂刷紅燈 - 富聯網",
@@ -324,7 +522,16 @@
           "symbol": "4772",
           "name": "台特化",
           "point": "亮燈漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18",
+            "11/17"
+          ]
         },
         {
           "symbol": "4770",
@@ -351,7 +558,16 @@
           "symbol": "4768",
           "name": "晶呈科技",
           "point": "亮燈漲停，TGV技術貢獻營收",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 5,
+          "luwd": [
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18",
+            "11/17"
+          ]
         },
         {
           "symbol": "1773",
@@ -364,7 +580,16 @@
           "symbol": "3430",
           "name": "奇鈦科",
           "point": "亮燈漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18",
+            "11/17"
+          ]
         }
       ],
       "background": "特用化學品族群受輝達帶動費半狂漲激勵，AI相關需求推升半導體材料需求，上品、晶呈科技等業者訂單與產能擴張。",
@@ -463,25 +688,61 @@
           "symbol": "1815",
           "name": "富喬",
           "point": "玻纖布指標三強攻上漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 5,
+          "luwd": [
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18",
+            "11/17"
+          ]
         },
         {
           "symbol": "8358",
           "name": "金居",
           "point": "同步強攻",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18",
+            "11/17"
+          ]
         },
         {
           "symbol": "5475",
           "name": "德宏",
           "point": "相關玻纖布及銅箔廠同步亮燈",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18",
+            "11/17"
+          ]
         },
         {
           "symbol": "5340",
           "name": "建榮",
           "point": "相關玻纖布及銅箔廠同步亮燈",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18",
+            "11/17"
+          ]
         },
         {
           "symbol": "2383",
@@ -499,7 +760,7 @@
           "name": "台燿",
           "point": "CCL概念股聯袂強彈",
           "limitUp": true,
-          "pct": 10,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "11/23",
@@ -666,7 +927,15 @@
           "symbol": "3491",
           "name": "昇達科",
           "point": "通過Starlink、Amazon Kuiper認證，低軌衛星營收占比逾八成",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18",
+            "11/17"
+          ]
         },
         {
           "symbol": "6285",
@@ -700,13 +969,29 @@
           "symbol": "3105",
           "name": "穩懋",
           "point": "SpaceX重要零組件供應商",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18",
+            "11/17"
+          ]
         },
         {
           "symbol": "6568",
           "name": "宏觀",
           "point": "SpaceX重要零組件供應商",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18",
+            "11/17"
+          ]
         },
         {
           "symbol": "2312",
@@ -753,7 +1038,15 @@
           "symbol": "5274",
           "name": "信驊",
           "point": "同步大漲收高半根漲停板",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18",
+            "11/17"
+          ]
         },
         {
           "symbol": "2059",
