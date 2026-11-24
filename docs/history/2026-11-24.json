@@ -1,0 +1,557 @@
+{
+  "date": "2026-11-24",
+  "updatedAt": "2026-11-24T20:06:11.325Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOdUM0anphZUJlQjVETFRrdWxJTi1wbjlGcmpNVmNEOVRzbFc3Rl8zdWhCcUVGR0h4RTJkRlJvT1VmQ3NpNDRZSHpmcDJUM2RpNGh5M0U1XzRocVNkM2RMM0lWbkh5aUJtbW04czBiY0JVYmhkZkt4MWd5eGxVdFk1UjRuSldnMEp2",
+      "tkey": "熱門族群非AI熱區照漲！金控股同步噴出6檔亮燈、13檔全收紅",
+      "title": "《熱門族群》非AI熱區照漲！金控股同步噴出 6檔亮燈、13檔全收紅 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6370337001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 24 Nov 2026 05:59:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2881",
+          "name": "富邦金",
+          "point": "攻上漲停",
+          "status": "高檔修正",
+          "dist": -12.8,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2882",
+          "name": "國泰金",
+          "point": "攻上漲停",
+          "status": "高檔修正",
+          "dist": -11.4,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2885",
+          "name": "元大金",
+          "point": "接力亮燈",
+          "status": "高檔修正",
+          "dist": -13.5,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2886",
+          "name": "兆豐金",
+          "point": "接力亮燈",
+          "status": "逼近新高",
+          "dist": -2.7,
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2887",
+          "name": "台新新光金",
+          "point": "接力亮燈",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2890",
+          "name": "永豐金",
+          "point": "接力亮燈",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2891",
+          "name": "中信金",
+          "point": "漲幅達8%至9%",
+          "status": "高檔修正",
+          "dist": -13.3,
+          "limitUp": true,
+          "pct": 9.6,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2883",
+          "name": "凱基金",
+          "point": "漲幅達8%至9%",
+          "limitUp": false
+        }
+      ],
+      "background": "金控股在市場氣氛轉強及資金回流下同步走揚，具備龐大資產規模與內需金融業務，在市場波動時具防禦色彩，獲利表現受關注。",
+      "themeTags": []
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPcUpMWG1LSUp6dGNqV3dObG1HSnAwX2ZTNDktUlc4ODVvOXJYLWlHT0xRYzJ4aE8zSUxaT0lONFhWQll3Ynl5Z1NpV01rVGJfV2ZxUmlHVVNDNFBIamFOWHdHWWpUNTVHYnBMX3lFOFE4TTJOU2lQc01rRmF6MTRvNVhTOW1fWnNN",
+      "tkey": "熱門族群輝達帶飛、買氣排山倒海！特化軍團狂刷紅燈",
+      "title": "《熱門族群》輝達帶飛、買氣排山倒海！ 特化軍團狂刷紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6370210001&PU=0033",
+      "source": "富聯網",
+      "pubDate": "Tue, 24 Nov 2026 04:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1717",
+          "name": "長興",
+          "point": "亮燈漲停",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "4722",
+          "name": "國精化",
+          "point": "亮燈漲停",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "4764",
+          "name": "雙鍵",
+          "point": "亮燈漲停",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "1711",
+          "name": "永光",
+          "point": "亮燈漲停",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "4772",
+          "name": "台特化",
+          "point": "亮燈漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "4770",
+          "name": "上品",
+          "point": "亮燈漲停，受惠晶圓廠擴建訂單增",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "1727",
+          "name": "中華化",
+          "point": "亮燈漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "4755",
+          "name": "三福化",
+          "point": "亮燈漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "4768",
+          "name": "晶呈科技",
+          "point": "亮燈漲停，TGV技術貢獻營收",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 5,
+          "luwd": [
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "1773",
+          "name": "勝一",
+          "point": "亮燈漲停",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "3430",
+          "name": "奇鈦科",
+          "point": "亮燈漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18"
+          ]
+        }
+      ],
+      "background": "特用化學品族群受輝達帶動費半狂漲激勵，AI相關需求推升半導體材料需求，上品、晶呈科技等業者訂單與產能擴張。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOM3Mtc0o0Z29KOTVqNW1kOTZCbF9DMTJGMmxhN29JRGh0UHNuQ19oc1hFTjJlSFo1YUpVLTVjaXFLY1JUNG13enZXaTBFYVZxS0tvaHlVVDZBdTY0MG4zY05qcXVDRFM5Wnl5eVJmZl9XZzJhcUstSzBiRGFYTDdtemozV0szeG1X",
+      "tkey": "熱門族群輝黃再現！興櫃AI股熱度飆升",
+      "title": "《熱門族群》輝黃再現！興櫃AI股熱度飆升 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6370173001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 24 Nov 2026 03:31:00 GMT",
+      "stocks": [
+        {
+          "symbol": "7415",
+          "name": "元澄半導體",
+          "point": "矽光子積體電路設計，股價大漲逾5成",
+          "limitUp": false
+        },
+        {
+          "symbol": "6820",
+          "name": "連訊",
+          "point": "矽光子技術，股價大漲逾5成",
+          "limitUp": false
+        },
+        {
+          "symbol": "3585",
+          "name": "聯致",
+          "point": "銅箔基板等電子材料，漲幅逾4成",
+          "limitUp": false
+        },
+        {
+          "symbol": "3595",
+          "name": "山太士",
+          "point": "半導體製程材料，漲幅逾4成",
+          "limitUp": false
+        },
+        {
+          "symbol": "7861",
+          "name": "貝爾威勒",
+          "point": "AI伺服器高階連接產品，漲幅逾4成",
+          "limitUp": false
+        }
+      ],
+      "background": "輝達執行長黃仁勳回歸，AI產業不確定性降溫，激勵興櫃AI相關個股。矽光子、AI伺服器連接器及半導體材料受惠於AI運算需求。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNWlN4X01OcGtLTDZVbE0wY256SG9iNVRLakxhR3M5UWJCdi1iWWpXdVJMSGJtbGtTTGNzZ0pzWmh1NlZ4ejBzMDFTMldYSGNsaVpWenRRc2VwYzJIdlI5c1VXbTQydjhCY0FHSGw0YXdqcmJFb2xhQmsycUJYNXppbzNzRmFGbWtW",
+      "tkey": "熱門族群台股PCB復活大爆噴！散戶小心這檔無漲幅限制溢價飆高",
+      "title": "《熱門族群》台股PCB復活大爆噴！散戶小心這檔無漲幅限制 溢價飆高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6370164001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 24 Nov 2026 03:18:00 GMT",
+      "stocks": [],
+      "background": "輝達執行長黃仁勳回歸，AI發展趨勢有望延續，帶動台股PCB族群反彈。台灣廠商在AI硬體供應鏈中扮演關鍵角色。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNX21HcFpCb0V6bnJ0b0o2bzRSbjQyT011SGhnaGJhUzFnT3M4c0hhYVlQYk9aaERkZGdPdVhpcWRyb3VqR2NHallqZnlBcnBaakYzUUc5VFdoamlmN2pmRTVJNWVReDZEODJONE1wcnptYWduM09MUndja0FIa0VwYk82QnJFMW1h",
+      "tkey": "熱門族群AI供應鏈反攻！玻纖布三雄同步漲停",
+      "title": "《熱門族群》AI供應鏈反攻！玻纖布三雄同步漲停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6370124001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 24 Nov 2026 02:47:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "玻纖布指標三強攻上漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "玻纖布指標三強攻上漲停",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "玻纖布指標三強攻上漲停",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 5,
+          "luwd": [
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "8358",
+          "name": "金居",
+          "point": "同步強攻",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "5475",
+          "name": "德宏",
+          "point": "相關玻纖布及銅箔廠同步亮燈",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "5340",
+          "name": "建榮",
+          "point": "相關玻纖布及銅箔廠同步亮燈",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "CCL概念股聯袂強彈",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "CCL概念股聯袂強彈",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "6213",
+          "name": "聯茂",
+          "point": "CCL概念股聯袂強彈",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "6672",
+          "name": "騰輝電子-KY",
+          "point": "CCL概念股聯袂強彈",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        }
+      ],
+      "background": "黃仁勳重返輝達執行長職位，費半指數暴漲，帶動台系AI供應鏈強彈。AI伺服器與先進封裝升級推升高階玻纖布需求。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNVlQ0VllOZUs5LUhBTFZNM0NIbkxDMlZQc21FY2JxdXl3cUR6U1hIUW1KTktjN1oxOFpRSi1FY0hpTXNlTFFQZU5aYlhGRTlpQVltZFhzOC1ZX21IQ0g3V0pYdGdhZUhldDVRMXFfUlZMMzVSN2wtaFBPV2ZVYmtjeFoyd1lNVllU",
+      "tkey": "熱門族群台股史詩級反攻千金股一長串亮燈、家數升至33檔",
+      "title": "《熱門族群》台股史詩級反攻 千金股一長串亮燈、家數升至33檔 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6370104001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 24 Nov 2026 02:29:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "point": "強勢重返千元股行列",
+          "limitUp": true,
+          "pct": 9.6,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "2360",
+          "name": "致茂",
+          "point": "強勢重返千元股行列",
+          "limitUp": true,
+          "pct": 9.5
+        },
+        {
+          "symbol": "1590",
+          "name": "亞德客-KY",
+          "point": "盤中一度站回千元",
+          "limitUp": true,
+          "pct": 9.6,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "3529",
+          "name": "力旺",
+          "point": "盤中漲停打開",
+          "limitUp": false
+        },
+        {
+          "symbol": "5269",
+          "name": "祥碩",
+          "point": "盤中漲停打開",
+          "limitUp": true,
+          "pct": 9.7,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "point": "上漲約5%未跟進亮燈",
+          "limitUp": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "權值股同步強攻",
+          "status": "高檔修正",
+          "dist": -13.9,
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "權值股同步強攻",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        }
+      ],
+      "background": "輝達執行長黃仁勳重返領軍，激勵全球AI投資信心，帶動台股AI供應鏈與高價股全面噴發，千金股家數回升。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    }
+  ]
+}
