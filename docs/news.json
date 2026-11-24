@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-24T11:04:18.603+08:00",
-  "generatedAt": "2026-11-24T03:04:18.603Z",
+  "asOf": "2026-11-24T12:05:11.150+08:00",
+  "generatedAt": "2026-11-24T04:05:11.150Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -278,6 +278,63 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxOM3Mtc0o0Z29KOTVqNW1kOTZCbF9DMTJGMmxhN29JRGh0UHNuQ19oc1hFTjJlSFo1YUpVLTVjaXFLY1JUNG13enZXaTBFYVZxS0tvaHlVVDZBdTY0MG4zY05qcXVDRFM5Wnl5eVJmZl9XZzJhcUstSzBiRGFYTDdtemozV0szeG1X",
+      "tkey": "熱門族群輝黃再現！興櫃AI股熱度飆升",
+      "title": "《熱門族群》輝黃再現！興櫃AI股熱度飆升 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6370173001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Tue, 24 Nov 2026 03:31:00 GMT",
+      "stocks": [
+        {
+          "symbol": "7415",
+          "name": "元澄半導體",
+          "point": "矽光子積體電路設計，股價大漲逾5成",
+          "limitUp": false
+        },
+        {
+          "symbol": "6820",
+          "name": "連訊",
+          "point": "矽光子技術，股價大漲逾5成",
+          "limitUp": false
+        },
+        {
+          "symbol": "3585",
+          "name": "聯致",
+          "point": "銅箔基板等電子材料，漲幅逾4成",
+          "limitUp": false
+        },
+        {
+          "symbol": "3595",
+          "name": "山太士",
+          "point": "半導體製程材料，漲幅逾4成",
+          "limitUp": false
+        },
+        {
+          "symbol": "7861",
+          "name": "貝爾威勒",
+          "point": "AI伺服器高階連接產品，漲幅逾4成",
+          "limitUp": false
+        }
+      ],
+      "background": "輝達執行長黃仁勳回歸，AI產業不確定性降溫，激勵興櫃AI相關個股。矽光子、AI伺服器連接器及半導體材料受惠於AI運算需求。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNWlN4X01OcGtLTDZVbE0wY256SG9iNVRLakxhR3M5UWJCdi1iWWpXdVJMSGJtbGtTTGNzZ0pzWmh1NlZ4ejBzMDFTMldYSGNsaVpWenRRc2VwYzJIdlI5c1VXbTQydjhCY0FHSGw0YXdqcmJFb2xhQmsycUJYNXppbzNzRmFGbWtW",
+      "tkey": "熱門族群台股PCB復活大爆噴！散戶小心這檔無漲幅限制溢價飆高",
+      "title": "《熱門族群》台股PCB復活大爆噴！散戶小心這檔無漲幅限制 溢價飆高 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6370164001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Tue, 24 Nov 2026 03:18:00 GMT",
+      "stocks": [],
+      "background": "輝達執行長黃仁勳回歸，AI發展趨勢有望延續，帶動台股PCB族群反彈。台灣廠商在AI硬體供應鏈中扮演關鍵角色。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNX21HcFpCb0V6bnJ0b0o2bzRSbjQyT011SGhnaGJhUzFnT3M4c0hhYVlQYk9aaERkZGdPdVhpcWRyb3VqR2NHallqZnlBcnBaakYzUUc5VFdoamlmN2pmRTVJNWVReDZEODJONE1wcnptYWduM09MUndja0FIa0VwYk82QnJFMW1h",
       "tkey": "熱門族群AI供應鏈反攻！玻纖布三雄同步漲停",
       "title": "《熱門族群》AI供應鏈反攻！玻纖布三雄同步漲停 - 富聯網",
@@ -327,8 +384,7 @@
           "symbol": "5340",
           "name": "建榮",
           "point": "相關玻纖布及銅箔廠同步亮燈",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "2383",
@@ -344,15 +400,7 @@
           "symbol": "6274",
           "name": "台燿",
           "point": "CCL概念股聯袂強彈",
-          "limitUp": false,
-          "luw": 5,
-          "luwd": [
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18",
-            "11/17"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "6213",
@@ -637,15 +685,7 @@
           "name": "群聯",
           "point": "亮燈漲停",
           "limitUp": true,
-          "pct": 9.8,
-          "luw": 5,
-          "luwd": [
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18",
-            "11/17"
-          ]
+          "pct": 9.8
         },
         {
           "symbol": "3665",
