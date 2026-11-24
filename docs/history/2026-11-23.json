@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updatedAt": "2026-11-24T04:05:11.146Z",
+  "updatedAt": "2026-11-24T05:03:45.697Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQalNhZWc0OXpEX3RXUVVwV25GSnFxTXFkRF85NUJyYWhpMzVBZVpzTW1lS2M0bDRpZnZkM042ZHl4eVJ2N0hkRGJGckF3VjV4c3ZvNm81dWxDOS1MR3NSZnZhN09LdkoxSmpzaFJqVUNuY2g3dmVDMVFfTm9WbzVDbTg0eTUtNklj",
@@ -189,7 +189,15 @@
           "name": "群聯",
           "point": "亮燈漲停",
           "limitUp": true,
-          "pct": 9.8
+          "pct": 9.8,
+          "luw": 5,
+          "luwd": [
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18",
+            "11/17"
+          ]
         },
         {
           "symbol": "3665",

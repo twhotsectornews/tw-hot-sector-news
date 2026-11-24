@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-24T12:05:11.150+08:00",
-  "generatedAt": "2026-11-24T04:05:11.150Z",
+  "asOf": "2026-11-24T13:03:45.701+08:00",
+  "generatedAt": "2026-11-24T05:03:45.701Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -168,7 +168,8 @@
       "mentions": 2,
       "status": "高檔修正",
       "dist": -13.9,
-      "limitUp": false
+      "limitUp": true,
+      "pct": 9.9
     },
     {
       "symbol": "2454",
@@ -278,6 +279,86 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxPcUpMWG1LSUp6dGNqV3dObG1HSnAwX2ZTNDktUlc4ODVvOXJYLWlHT0xRYzJ4aE8zSUxaT0lONFhWQll3Ynl5Z1NpV01rVGJfV2ZxUmlHVVNDNFBIamFOWHdHWWpUNTVHYnBMX3lFOFE4TTJOU2lQc01rRmF6MTRvNVhTOW1fWnNN",
+      "tkey": "熱門族群輝達帶飛、買氣排山倒海！特化軍團狂刷紅燈",
+      "title": "《熱門族群》輝達帶飛、買氣排山倒海！ 特化軍團狂刷紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6370210001&PU=0033",
+      "source": "富聯網",
+      "pubDate": "Tue, 24 Nov 2026 04:02:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1717",
+          "name": "長興",
+          "point": "亮燈漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "4722",
+          "name": "國精化",
+          "point": "亮燈漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "4764",
+          "name": "雙鍵",
+          "point": "亮燈漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "1711",
+          "name": "永光",
+          "point": "亮燈漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "4772",
+          "name": "台特化",
+          "point": "亮燈漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "4770",
+          "name": "上品",
+          "point": "亮燈漲停，受惠晶圓廠擴建訂單增",
+          "limitUp": false
+        },
+        {
+          "symbol": "1727",
+          "name": "中華化",
+          "point": "亮燈漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "4755",
+          "name": "三福化",
+          "point": "亮燈漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "4768",
+          "name": "晶呈科技",
+          "point": "亮燈漲停，TGV技術貢獻營收",
+          "limitUp": false
+        },
+        {
+          "symbol": "1773",
+          "name": "勝一",
+          "point": "亮燈漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "3430",
+          "name": "奇鈦科",
+          "point": "亮燈漲停",
+          "limitUp": false
+        }
+      ],
+      "background": "特用化學品族群受輝達帶動費半狂漲激勵，AI相關需求推升半導體材料需求，上品、晶呈科技等業者訂單與產能擴張。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxOM3Mtc0o0Z29KOTVqNW1kOTZCbF9DMTJGMmxhN29JRGh0UHNuQ19oc1hFTjJlSFo1YUpVLTVjaXFLY1JUNG13enZXaTBFYVZxS0tvaHlVVDZBdTY0MG4zY05qcXVDRFM5Wnl5eVJmZl9XZzJhcUstSzBiRGFYTDdtemozV0szeG1X",
       "tkey": "熱門族群輝黃再現！興櫃AI股熱度飆升",
       "title": "《熱門族群》輝黃再現！興櫃AI股熱度飆升 - 富聯網",
@@ -378,13 +459,15 @@
           "symbol": "5475",
           "name": "德宏",
           "point": "相關玻纖布及銅箔廠同步亮燈",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "5340",
           "name": "建榮",
           "point": "相關玻纖布及銅箔廠同步亮燈",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 10
         },
         {
           "symbol": "2383",
@@ -400,7 +483,15 @@
           "symbol": "6274",
           "name": "台燿",
           "point": "CCL概念股聯袂強彈",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18",
+            "11/17"
+          ]
         },
         {
           "symbol": "6213",
@@ -479,7 +570,8 @@
           "point": "權值股同步強攻",
           "status": "高檔修正",
           "dist": -13.9,
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "2454",
@@ -685,7 +777,15 @@
           "name": "群聯",
           "point": "亮燈漲停",
           "limitUp": true,
-          "pct": 9.8
+          "pct": 9.8,
+          "luw": 5,
+          "luwd": [
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18",
+            "11/17"
+          ]
         },
         {
           "symbol": "3665",
