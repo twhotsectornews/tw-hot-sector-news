@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updatedAt": "2026-11-25T06:03:30.243Z",
+  "updatedAt": "2026-11-25T09:41:55.482Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOdUM0anphZUJlQjVETFRrdWxJTi1wbjlGcmpNVmNEOVRzbFc3Rl8zdWhCcUVGR0h4RTJkRlJvT1VmQ3NpNDRZSHpmcDJUM2RpNGh5M0U1XzRocVNkM2RMM0lWbkh5aUJtbW04czBiY0JVYmhkZkt4MWd5eGxVdFk1UjRuSldnMEp2",
@@ -164,15 +164,7 @@
           "name": "台特化",
           "point": "亮燈漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "4770",
@@ -212,15 +204,7 @@
           "name": "晶呈科技",
           "point": "亮燈漲停，TGV技術貢獻營收",
           "limitUp": true,
-          "pct": 9.8,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "pct": 9.8
         },
         {
           "symbol": "1773",
@@ -238,15 +222,7 @@
           "name": "奇鈦科",
           "point": "亮燈漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "pct": 9.9
         }
       ],
       "background": "特用化學品族群受輝達帶動費半狂漲激勵，AI相關需求推升半導體材料需求，上品、晶呈科技等業者訂單與產能擴張。",
@@ -348,60 +324,28 @@
           "name": "富喬",
           "point": "玻纖布指標三強攻上漲停",
           "limitUp": true,
-          "pct": 9.8,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "pct": 9.8
         },
         {
           "symbol": "8358",
           "name": "金居",
           "point": "同步強攻",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "5475",
           "name": "德宏",
           "point": "相關玻纖布及銅箔廠同步亮燈",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "5340",
           "name": "建榮",
           "point": "相關玻纖布及銅箔廠同步亮燈",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "pct": 10
         },
         {
           "symbol": "2383",
@@ -420,15 +364,7 @@
           "name": "台燿",
           "point": "CCL概念股聯袂強彈",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6213",

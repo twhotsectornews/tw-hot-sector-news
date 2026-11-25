@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-25T14:03:30.247+08:00",
-  "generatedAt": "2026-11-25T06:03:30.247Z",
+  "asOf": "2026-11-25T17:41:55.485+08:00",
+  "generatedAt": "2026-11-25T09:41:55.485Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -25,6 +25,67 @@
       ]
     },
     {
+      "symbol": "2454",
+      "name": "聯發科",
+      "days": 3,
+      "dates": [
+        "11/25",
+        "11/24",
+        "11/23"
+      ],
+      "mentions": 4,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "11/24",
+        "11/23"
+      ]
+    },
+    {
+      "symbol": "2059",
+      "name": "川湖",
+      "days": 3,
+      "dates": [
+        "11/25",
+        "11/23",
+        "11/19"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/24"
+      ]
+    },
+    {
+      "symbol": "3443",
+      "name": "創意",
+      "days": 3,
+      "dates": [
+        "11/25",
+        "11/23",
+        "11/19"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/24"
+      ]
+    },
+    {
+      "symbol": "5274",
+      "name": "信驊",
+      "days": 3,
+      "dates": [
+        "11/25",
+        "11/23",
+        "11/19"
+      ],
+      "mentions": 3,
+      "limitUp": false
+    },
+    {
       "symbol": "3491",
       "name": "昇達科",
       "days": 3,
@@ -34,33 +95,7 @@
         "11/20"
       ],
       "mentions": 3,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 5,
-      "luwd": [
-        "11/24",
-        "11/23",
-        "11/20",
-        "11/19",
-        "11/18"
-      ]
-    },
-    {
-      "symbol": "2454",
-      "name": "聯發科",
-      "days": 3,
-      "dates": [
-        "11/25",
-        "11/24",
-        "11/23"
-      ],
-      "mentions": 3,
-      "limitUp": false,
-      "luw": 2,
-      "luwd": [
-        "11/24",
-        "11/23"
-      ]
+      "limitUp": false
     },
     {
       "symbol": "3105",
@@ -72,16 +107,7 @@
         "11/19"
       ],
       "mentions": 3,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 5,
-      "luwd": [
-        "11/24",
-        "11/23",
-        "11/20",
-        "11/19",
-        "11/18"
-      ]
+      "limitUp": false
     },
     {
       "symbol": "4916",
@@ -152,6 +178,36 @@
       ]
     },
     {
+      "symbol": "3653",
+      "name": "健策",
+      "days": 2,
+      "dates": [
+        "11/25",
+        "11/19"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/24"
+      ]
+    },
+    {
+      "symbol": "3008",
+      "name": "大立光",
+      "days": 2,
+      "dates": [
+        "11/25",
+        "11/19"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/24"
+      ]
+    },
+    {
       "symbol": "7717",
       "name": "萊德光電-KY",
       "days": 2,
@@ -160,16 +216,7 @@
         "11/19"
       ],
       "mentions": 2,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 5,
-      "luwd": [
-        "11/24",
-        "11/23",
-        "11/20",
-        "11/19",
-        "11/18"
-      ]
+      "limitUp": false
     },
     {
       "symbol": "6443",
@@ -335,52 +382,6 @@
       ]
     },
     {
-      "symbol": "5274",
-      "name": "信驊",
-      "days": 2,
-      "dates": [
-        "11/23",
-        "11/19"
-      ],
-      "mentions": 2,
-      "luw": 5,
-      "luwd": [
-        "11/24",
-        "11/23",
-        "11/20",
-        "11/19",
-        "11/18"
-      ]
-    },
-    {
-      "symbol": "2059",
-      "name": "川湖",
-      "days": 2,
-      "dates": [
-        "11/23",
-        "11/19"
-      ],
-      "mentions": 2,
-      "luw": 1,
-      "luwd": [
-        "11/24"
-      ]
-    },
-    {
-      "symbol": "3443",
-      "name": "創意",
-      "days": 2,
-      "dates": [
-        "11/23",
-        "11/19"
-      ],
-      "mentions": 2,
-      "luw": 1,
-      "luwd": [
-        "11/24"
-      ]
-    },
-    {
       "symbol": "2337",
       "name": "旺宏",
       "days": 2,
@@ -421,6 +422,95 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNYVozUHkxSGlLWDNKUjhpUXFPYlRMRlpzZ0JiMDVsRkZxeUpMVGZweVV4MG1XS2NuUWMtcnN0M3ZadG9BZWgxOWtGUXVpVUo2UFVyQm9GSjVGdEZSQUl6UE50VkZRMjQwUGNZaHNxdVltYlJrd29RR3ZJRmNIVmFueWxVclBPdENp",
+      "tkey": "熱門族群TOP5高價股3紅2黑作收創意摔跌停、股后逆勢穩盤",
+      "title": "《熱門族群》TOP5高價股3紅2黑作收 創意摔跌停、股后逆勢穩盤 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6371500001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 25 Nov 2026 06:20:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2059",
+          "name": "川湖",
+          "point": "逆勢大漲，股后逆勢穩盤",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "同步收紅，展現抗跌力道",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "同步收紅，展現抗跌力道",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "3443",
+          "name": "創意",
+          "point": "遭空方狙擊，盤中鎖死跌停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "5274",
+          "name": "信驊",
+          "point": "下跌逾3%，險些失守8500元",
+          "limitUp": false
+        },
+        {
+          "symbol": "6223",
+          "name": "旺矽",
+          "point": "收在跌停最低點",
+          "limitUp": false
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "收在跌停最低點",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "7856",
+          "name": "漢測",
+          "point": "收在跌停最低點",
+          "limitUp": false
+        },
+        {
+          "symbol": "7828",
+          "name": "創新服務",
+          "point": "收在跌停最低點",
+          "limitUp": false
+        }
+      ],
+      "background": "美國最新關稅政策引發市場恐慌，台股大盤重挫，高價股表現分歧，部分個股因AI類股殺盤與獲利不如預期而重跌。",
+      "themeTags": [
+        "政策關稅"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxONFlyd0NxMmRMb2tId1EyU1FFc3EzeEctTHA3Z1QyaDY5U0h4OUhyR1dWb2NYZENJUjhDeW5Icm0xbm4tTmxxRUFsRTA3b3hMYXdqY1VFSGNxMnQtczlOaXNxMURNRXJLZmplaUhhVWpyenEybE1lNFhWd1ZDNy15Q3ZiVG1RR1pC",
       "tkey": "熱門族群輝黃稍縱即逝AI代工大廠股價今慘綠",
@@ -526,31 +616,13 @@
           "symbol": "7717",
           "name": "萊德光電-KY",
           "point": "解禁出關也跌停躺平",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3491",
           "name": "昇達科",
           "point": "獲看好產品升級卻跌停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "2454",
@@ -567,46 +639,19 @@
           "symbol": "5457",
           "name": "宣德",
           "point": "低軌衛星概念股也下跌",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "6190",
           "name": "萬泰科",
           "point": "低軌衛星概念股也下跌",
-          "limitUp": true,
-          "pct": 9.8,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "3105",
           "name": "穩懋",
           "point": "低軌衛星概念股也下跌",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "6285",
@@ -686,7 +731,16 @@
           "symbol": "7767",
           "name": "仁大資訊",
           "point": "陸續亮燈漲停",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18"
+          ]
         },
         {
           "symbol": "6590",
@@ -700,16 +754,7 @@
           "symbol": "6163",
           "name": "華電網",
           "point": "同步走高，展現抗跌力道",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "limitUp": false
         },
         {
           "symbol": "6148",
@@ -912,15 +957,7 @@
           "name": "台特化",
           "point": "亮燈漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "4770",
@@ -960,15 +997,7 @@
           "name": "晶呈科技",
           "point": "亮燈漲停，TGV技術貢獻營收",
           "limitUp": true,
-          "pct": 9.8,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "pct": 9.8
         },
         {
           "symbol": "1773",
@@ -986,15 +1015,7 @@
           "name": "奇鈦科",
           "point": "亮燈漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "pct": 9.9
         }
       ],
       "background": "特用化學品族群受輝達帶動費半狂漲激勵，AI相關需求推升半導體材料需求，上品、晶呈科技等業者訂單與產能擴張。",
@@ -1096,60 +1117,28 @@
           "name": "富喬",
           "point": "玻纖布指標三強攻上漲停",
           "limitUp": true,
-          "pct": 9.8,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "pct": 9.8
         },
         {
           "symbol": "8358",
           "name": "金居",
           "point": "同步強攻",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "5475",
           "name": "德宏",
           "point": "相關玻纖布及銅箔廠同步亮燈",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "5340",
           "name": "建榮",
           "point": "相關玻纖布及銅箔廠同步亮燈",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "pct": 10
         },
         {
           "symbol": "2383",
@@ -1168,15 +1157,7 @@
           "name": "台燿",
           "point": "CCL概念股聯袂強彈",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6213",
