@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-25T11:04:24.308+08:00",
-  "generatedAt": "2026-11-25T03:04:24.308Z",
+  "asOf": "2026-11-25T12:07:06.599+08:00",
+  "generatedAt": "2026-11-25T04:07:06.599Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -9,10 +9,85 @@
     {
       "symbol": "6285",
       "name": "啟碁",
-      "days": 3,
+      "days": 4,
       "dates": [
+        "11/25",
         "11/23",
         "11/20",
+        "11/19"
+      ],
+      "mentions": 4,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "11/24",
+        "11/18"
+      ]
+    },
+    {
+      "symbol": "3491",
+      "name": "昇達科",
+      "days": 3,
+      "dates": [
+        "11/25",
+        "11/23",
+        "11/20"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "11/24",
+        "11/23",
+        "11/20",
+        "11/19",
+        "11/18"
+      ]
+    },
+    {
+      "symbol": "2454",
+      "name": "聯發科",
+      "days": 3,
+      "dates": [
+        "11/25",
+        "11/24",
+        "11/23"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "11/24",
+        "11/23"
+      ]
+    },
+    {
+      "symbol": "3105",
+      "name": "穩懋",
+      "days": 3,
+      "dates": [
+        "11/25",
+        "11/23",
+        "11/19"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "11/24",
+        "11/23",
+        "11/20",
+        "11/19",
+        "11/18"
+      ]
+    },
+    {
+      "symbol": "4916",
+      "name": "事欣科",
+      "days": 3,
+      "dates": [
+        "11/25",
+        "11/23",
         "11/19"
       ],
       "mentions": 3,
@@ -72,6 +147,41 @@
       "luwd": [
         "11/24",
         "11/23"
+      ]
+    },
+    {
+      "symbol": "7717",
+      "name": "萊德光電-KY",
+      "days": 2,
+      "dates": [
+        "11/25",
+        "11/19"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 5,
+      "luwd": [
+        "11/24",
+        "11/23",
+        "11/20",
+        "11/19",
+        "11/18"
+      ]
+    },
+    {
+      "symbol": "6443",
+      "name": "元晶",
+      "days": 2,
+      "dates": [
+        "11/25",
+        "11/19"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "11/24",
+        "11/18"
       ]
     },
     {
@@ -208,23 +318,6 @@
       ]
     },
     {
-      "symbol": "2454",
-      "name": "聯發科",
-      "days": 2,
-      "dates": [
-        "11/24",
-        "11/23"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 2,
-      "luwd": [
-        "11/24",
-        "11/23"
-      ]
-    },
-    {
       "symbol": "2313",
       "name": "華通",
       "days": 2,
@@ -233,64 +326,9 @@
         "11/19"
       ],
       "mentions": 2,
-      "limitUp": false,
       "luw": 1,
       "luwd": [
         "11/24"
-      ]
-    },
-    {
-      "symbol": "3491",
-      "name": "昇達科",
-      "days": 2,
-      "dates": [
-        "11/23",
-        "11/20"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 5,
-      "luwd": [
-        "11/24",
-        "11/23",
-        "11/20",
-        "11/19",
-        "11/18"
-      ]
-    },
-    {
-      "symbol": "3105",
-      "name": "穩懋",
-      "days": 2,
-      "dates": [
-        "11/23",
-        "11/19"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 5,
-      "luwd": [
-        "11/24",
-        "11/23",
-        "11/20",
-        "11/19",
-        "11/18"
-      ]
-    },
-    {
-      "symbol": "4916",
-      "name": "事欣科",
-      "days": 2,
-      "dates": [
-        "11/23",
-        "11/19"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 2,
-      "luwd": [
-        "11/24",
-        "11/18"
       ]
     },
     {
@@ -302,7 +340,6 @@
         "11/19"
       ],
       "mentions": 2,
-      "limitUp": false,
       "luw": 5,
       "luwd": [
         "11/24",
@@ -321,7 +358,6 @@
         "11/19"
       ],
       "mentions": 2,
-      "limitUp": false,
       "luw": 1,
       "luwd": [
         "11/24"
@@ -336,7 +372,6 @@
         "11/19"
       ],
       "mentions": 2,
-      "limitUp": false,
       "luw": 1,
       "luwd": [
         "11/24"
@@ -383,6 +418,135 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxOV252MkJENEF5NTNrX0FoeFlnUkNVcUlLMC1YZWpQVm9VbW9ManF2WWd5cnZWNFNuRHpyVUF3YnRlRVdydHdsVUZHU205UEp2RUszdGdqZDd6dHB5d2VReEtVSWQ3UnZhQUNDRHk1c19CaDd3WlY3ZGFTbS13bnFXV1h6NUc4WTc0",
+      "tkey": "熱門族群台股閃崩3000點！低軌衛星墜綠海逾10檔躺平倒地",
+      "title": "《熱門族群》台股閃崩3000點！低軌衛星墜綠海 逾10檔躺平倒地 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealTimeNews/NewsContent.aspx?SN=6371276001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Wed, 25 Nov 2026 02:55:00 GMT",
+      "stocks": [
+        {
+          "symbol": "7717",
+          "name": "萊德光電-KY",
+          "point": "解禁出關也跌停躺平",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "3491",
+          "name": "昇達科",
+          "point": "獲看好產品升級卻跌停",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "低軌衛星概念股也下跌",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "5457",
+          "name": "宣德",
+          "point": "低軌衛星概念股也下跌",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "6190",
+          "name": "萬泰科",
+          "point": "低軌衛星概念股也下跌",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "低軌衛星概念股也下跌",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "6285",
+          "name": "啟碁",
+          "point": "低軌衛星概念股也下跌",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "6443",
+          "name": "元晶",
+          "point": "低軌衛星概念股也下跌",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "4916",
+          "name": "事欣科",
+          "point": "看好營運卻遭摜至跌停",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/18"
+          ]
+        }
+      ],
+      "background": "SpaceX合併傳聞與馬斯克AI失利衝擊，台股低軌衛星概念股補跌，但長線AI、生技、太空經濟等新興商機仍受關注。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxNSklQMkY4NVpJazJkMGpBdFYtTWhqRE91aVc3TzZTWTNldnZ6cnYwS244SVhtQVpRMnlOVGdHaXpZaW5fdXA5RC13N1dqQ2Nkb2g4U25OVURHRDh1THdaZDFQMDc1Z1l6cV85eGhWbXEwSmJLSFJ1eVhmWVBvNmxTeWVlQi0yclZK",
       "tkey": "熱門族群資安股成盤面紅星安瑞-KY、中華資安4檔亮燈",

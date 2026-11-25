@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updatedAt": "2026-11-25T03:04:24.305Z",
+  "updatedAt": "2026-11-25T04:07:06.596Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQalNhZWc0OXpEX3RXUVVwV25GSnFxTXFkRF85NUJyYWhpMzVBZVpzTW1lS2M0bDRpZnZkM042ZHl4eVJ2N0hkRGJGckF3VjV4c3ZvNm81dWxDOS1MR3NSZnZhN09LdkoxSmpzaFJqVUNuY2g3dmVDMVFfTm9WbzVDbTg0eTUtNklj",
@@ -10,9 +10,10 @@
       "source": "富聯網",
       "pubDate": "Mon, 23 Nov 2026 06:29:00 GMT",
       "stocks": [],
-      "background": "PCB產業受AI硬體供應鏈修正影響，但法人認為基本面未惡化，高階AI產品訂單穩定，材料升級與製程複雜度提高，技術門檻與附加價值提升。",
+      "background": "AI硬體供應鏈修正，PCB族群股價殺聲隆隆，但法人認為基本面未惡化，長約鎖定產能，技術門檻提高。",
       "themeTags": [
-        "需求驅動"
+        "需求驅動",
+        "循環位置"
       ]
     },
     {
@@ -24,34 +25,9 @@
       "pubDate": "Mon, 23 Nov 2026 06:06:00 GMT",
       "stocks": [
         {
-          "symbol": "2355",
-          "name": "敬鵬",
-          "point": "股價一度攻上漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 2,
-          "luwd": [
-            "11/24",
-            "11/23"
-          ]
-        },
-        {
-          "symbol": "2383",
-          "name": "台光電",
-          "point": "股價一度攻上漲停",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 2,
-          "luwd": [
-            "11/24",
-            "11/23"
-          ]
-        },
-        {
           "symbol": "2313",
           "name": "華通",
-          "point": "SpaceX合作逾十年，低軌衛星PCB市占近九成",
-          "limitUp": false,
+          "point": "SpaceX台鏈沾光翻紅",
           "luw": 1,
           "luwd": [
             "11/24"
@@ -60,8 +36,7 @@
         {
           "symbol": "3491",
           "name": "昇達科",
-          "point": "通過Starlink、Amazon Kuiper認證，低軌衛星營收占比逾八成",
-          "limitUp": false,
+          "point": "SpaceX台鏈沾光翻紅",
           "luw": 5,
           "luwd": [
             "11/24",
@@ -74,8 +49,7 @@
         {
           "symbol": "6285",
           "name": "啟碁",
-          "point": "SpaceX重要零組件供應商",
-          "limitUp": false,
+          "point": "SpaceX台鏈沾光翻紅",
           "luw": 2,
           "luwd": [
             "11/24",
@@ -85,8 +59,7 @@
         {
           "symbol": "6271",
           "name": "同欣電",
-          "point": "SpaceX重要零組件供應商",
-          "limitUp": false,
+          "point": "SpaceX台鏈沾光翻紅",
           "luw": 1,
           "luwd": [
             "11/24"
@@ -95,24 +68,41 @@
         {
           "symbol": "3481",
           "name": "群創",
-          "point": "SpaceX重要零組件供應商",
-          "limitUp": false,
+          "point": "SpaceX台鏈沾光翻紅",
           "luw": 1,
           "luwd": [
             "11/24"
           ]
         },
         {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "SpaceX台鏈沾光攻漲停",
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
           "symbol": "2367",
           "name": "燿華",
-          "point": "SpaceX重要零組件供應商",
-          "limitUp": false
+          "point": "SpaceX台鏈沾光翻紅"
+        },
+        {
+          "symbol": "2355",
+          "name": "敬鵬",
+          "point": "SpaceX台鏈沾光攻漲停",
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
         },
         {
           "symbol": "3105",
           "name": "穩懋",
-          "point": "SpaceX重要零組件供應商",
-          "limitUp": false,
+          "point": "SpaceX台鏈沾光翻紅",
           "luw": 5,
           "luwd": [
             "11/24",
@@ -125,8 +115,7 @@
         {
           "symbol": "6568",
           "name": "宏觀",
-          "point": "SpaceX重要零組件供應商",
-          "limitUp": false,
+          "point": "SpaceX台鏈沾光翻紅",
           "luw": 5,
           "luwd": [
             "11/24",
@@ -139,8 +128,7 @@
         {
           "symbol": "2312",
           "name": "金寶",
-          "point": "SpaceX重要零組件供應商",
-          "limitUp": false,
+          "point": "SpaceX台鏈沾光翻紅",
           "luw": 1,
           "luwd": [
             "11/24"
@@ -149,8 +137,7 @@
         {
           "symbol": "3138",
           "name": "耀登",
-          "point": "SpaceX重要零組件供應商",
-          "limitUp": false,
+          "point": "SpaceX台鏈沾光翻紅",
           "luw": 2,
           "luwd": [
             "11/24",
@@ -160,8 +147,7 @@
         {
           "symbol": "4916",
           "name": "事欣科",
-          "point": "SpaceX重要零組件供應商",
-          "limitUp": false,
+          "point": "SpaceX台鏈沾光翻紅",
           "luw": 2,
           "luwd": [
             "11/24",
@@ -169,7 +155,7 @@
           ]
         }
       ],
-      "background": "SpaceX星艦試飛成功，大幅降低衛星發射成本，並收購美國800MHz頻譜，雙利多帶動低軌衛星台鏈需求，相關零組件供應商受惠。",
+      "background": "SpaceX星艦回收技術突破與頻譜計畫審查，大幅降低衛星發射成本，帶動台鏈零組件需求放大。",
       "themeTags": [
         "需求驅動",
         "國際大廠"
@@ -186,8 +172,7 @@
         {
           "symbol": "5274",
           "name": "信驊",
-          "point": "同步大漲收高半根漲停板",
-          "limitUp": false,
+          "point": "股價大漲收半根漲停",
           "luw": 5,
           "luwd": [
             "11/24",
@@ -200,8 +185,7 @@
         {
           "symbol": "2059",
           "name": "川湖",
-          "point": "同步大漲收高半根漲停板",
-          "limitUp": false,
+          "point": "股價大漲收半根漲停",
           "luw": 1,
           "luwd": [
             "11/24"
@@ -210,9 +194,7 @@
         {
           "symbol": "2454",
           "name": "聯發科",
-          "point": "亮燈漲停股價最高",
-          "limitUp": true,
-          "pct": 10,
+          "point": "股價亮燈漲停",
           "luw": 2,
           "luwd": [
             "11/24",
@@ -222,9 +204,7 @@
         {
           "symbol": "3661",
           "name": "世芯-KY",
-          "point": "亮燈漲停",
-          "limitUp": true,
-          "pct": 9.9,
+          "point": "股價亮燈漲停",
           "luw": 3,
           "luwd": [
             "11/24",
@@ -235,9 +215,7 @@
         {
           "symbol": "2383",
           "name": "台光電",
-          "point": "亮燈漲停",
-          "limitUp": true,
-          "pct": 10,
+          "point": "股價亮燈漲停",
           "luw": 2,
           "luwd": [
             "11/24",
@@ -247,9 +225,7 @@
         {
           "symbol": "8299",
           "name": "群聯",
-          "point": "亮燈漲停",
-          "limitUp": true,
-          "pct": 9.8,
+          "point": "股價亮燈漲停",
           "luw": 5,
           "luwd": [
             "11/24",
@@ -262,9 +238,7 @@
         {
           "symbol": "3665",
           "name": "貿聯-KY",
-          "point": "亮燈漲停",
-          "limitUp": true,
-          "pct": 10,
+          "point": "股價亮燈漲停",
           "luw": 3,
           "luwd": [
             "11/24",
@@ -275,9 +249,7 @@
         {
           "symbol": "2345",
           "name": "智邦",
-          "point": "亮燈漲停",
-          "limitUp": true,
-          "pct": 9.8,
+          "point": "股價亮燈漲停",
           "luw": 2,
           "luwd": [
             "11/24",
@@ -287,9 +259,7 @@
         {
           "symbol": "2308",
           "name": "台達電",
-          "point": "盤中亮燈漲停強勢反彈",
-          "limitUp": true,
-          "pct": 10,
+          "point": "股價強彈亮燈漲停",
           "luw": 2,
           "luwd": [
             "11/24",
@@ -299,15 +269,14 @@
         {
           "symbol": "3443",
           "name": "創意",
-          "point": "連續三日跌停後急拉",
-          "limitUp": false,
+          "point": "連續跌停後急拉",
           "luw": 1,
           "luwd": [
             "11/24"
           ]
         }
       ],
-      "background": "台股受政府護盤及買盤進場帶動，千金股展開反攻。聯發科受惠於AI伺服器需求，摩根士丹利看好其半導體族群首選地位。",
+      "background": "台股政府護盤與買盤進場，指數強彈，千金股聯發科、世芯-KY等反攻漲停，反映AI伺服器需求強勁。",
       "themeTags": [
         "需求驅動"
       ]
