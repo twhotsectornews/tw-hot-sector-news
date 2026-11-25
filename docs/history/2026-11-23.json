@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updatedAt": "2026-11-25T05:07:59.252Z",
+  "updatedAt": "2026-11-25T06:03:30.244Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxQalNhZWc0OXpEX3RXUVVwV25GSnFxTXFkRF85NUJyYWhpMzVBZVpzTW1lS2M0bDRpZnZkM042ZHl4eVJ2N0hkRGJGckF3VjV4c3ZvNm81dWxDOS1MR3NSZnZhN09LdkoxSmpzaFJqVUNuY2g3dmVDMVFfTm9WbzVDbTg0eTUtNklj",
@@ -10,7 +10,7 @@
       "source": "富聯網",
       "pubDate": "Mon, 23 Nov 2026 06:29:00 GMT",
       "stocks": [],
-      "background": "PCB族群股價受市場情緒影響走弱，但法人認為產業基本面未惡化，高階AI產品開發週期長，客戶透過長約鎖定產能，中長線展望樂觀。",
+      "background": "PCB族群股價受AI產業不確定性影響修正，但法人認為基本面未惡化，長約鎖定產能及材料升級趨勢，有利於技術領先的龍頭廠商，中長線展望樂觀。",
       "themeTags": [
         "需求驅動"
       ]
@@ -24,9 +24,29 @@
       "pubDate": "Mon, 23 Nov 2026 06:06:00 GMT",
       "stocks": [
         {
+          "symbol": "2355",
+          "name": "敬鵬",
+          "point": "一度攻上漲停",
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "一度攻上漲停",
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
           "symbol": "2313",
           "name": "華通",
-          "point": "SpaceX重要零組件供應商，低軌衛星PCB市占近九成",
+          "point": "盤中順利翻紅",
           "luw": 1,
           "luwd": [
             "11/24"
@@ -35,7 +55,7 @@
         {
           "symbol": "3491",
           "name": "昇達科",
-          "point": "SpaceX重要零組件供應商，低軌衛星營收占比逾八成",
+          "point": "盤中順利翻紅",
           "luw": 5,
           "luwd": [
             "11/24",
@@ -48,7 +68,7 @@
         {
           "symbol": "6285",
           "name": "啟碁",
-          "point": "SpaceX重要零組件供應商",
+          "point": "盤中順利翻紅",
           "luw": 2,
           "luwd": [
             "11/24",
@@ -58,7 +78,7 @@
         {
           "symbol": "6271",
           "name": "同欣電",
-          "point": "SpaceX重要零組件供應商",
+          "point": "盤中順利翻紅",
           "luw": 1,
           "luwd": [
             "11/24"
@@ -67,41 +87,21 @@
         {
           "symbol": "3481",
           "name": "群創",
-          "point": "SpaceX重要零組件供應商",
+          "point": "盤中順利翻紅",
           "luw": 1,
           "luwd": [
             "11/24"
           ]
         },
         {
-          "symbol": "2383",
-          "name": "台光電",
-          "point": "SpaceX重要零組件供應商，一度攻上漲停",
-          "luw": 2,
-          "luwd": [
-            "11/24",
-            "11/23"
-          ]
-        },
-        {
           "symbol": "2367",
           "name": "燿華",
-          "point": "SpaceX重要零組件供應商"
-        },
-        {
-          "symbol": "2355",
-          "name": "敬鵬",
-          "point": "SpaceX重要零組件供應商，一度攻上漲停",
-          "luw": 2,
-          "luwd": [
-            "11/24",
-            "11/23"
-          ]
+          "point": "盤中順利翻紅"
         },
         {
           "symbol": "3105",
           "name": "穩懋",
-          "point": "SpaceX重要零組件供應商",
+          "point": "盤中順利翻紅",
           "luw": 5,
           "luwd": [
             "11/24",
@@ -114,7 +114,7 @@
         {
           "symbol": "6568",
           "name": "宏觀",
-          "point": "SpaceX重要零組件供應商",
+          "point": "盤中順利翻紅",
           "luw": 5,
           "luwd": [
             "11/24",
@@ -127,7 +127,7 @@
         {
           "symbol": "2312",
           "name": "金寶",
-          "point": "SpaceX重要零組件供應商",
+          "point": "盤中順利翻紅",
           "luw": 1,
           "luwd": [
             "11/24"
@@ -136,7 +136,7 @@
         {
           "symbol": "3138",
           "name": "耀登",
-          "point": "SpaceX重要零組件供應商",
+          "point": "盤中順利翻紅",
           "luw": 2,
           "luwd": [
             "11/24",
@@ -146,7 +146,7 @@
         {
           "symbol": "4916",
           "name": "事欣科",
-          "point": "SpaceX重要零組件供應商",
+          "point": "盤中順利翻紅",
           "luw": 2,
           "luwd": [
             "11/24",
@@ -154,7 +154,7 @@
           ]
         }
       ],
-      "background": "全球低軌衛星龍頭SpaceX星艦試飛任務成功，大幅降低衛星發射成本，並收購美國800MHz頻譜，雙利多帶動台鏈供應商營運成長。",
+      "background": "SpaceX星艦回收技術突破及收購頻譜計畫獲准，預期將降低衛星發射成本並擴大衛星通訊網路，帶動相關台廠零組件需求成長。",
       "themeTags": [
         "需求驅動",
         "國際大廠"

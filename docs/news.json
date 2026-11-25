@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-25T13:07:59.255+08:00",
-  "generatedAt": "2026-11-25T05:07:59.255Z",
+  "asOf": "2026-11-25T14:03:30.247+08:00",
+  "generatedAt": "2026-11-25T06:03:30.247Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -34,7 +34,8 @@
         "11/20"
       ],
       "mentions": 3,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 5,
       "luwd": [
         "11/24",
@@ -71,7 +72,8 @@
         "11/19"
       ],
       "mentions": 3,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 5,
       "luwd": [
         "11/24",
@@ -158,7 +160,8 @@
         "11/19"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 5,
       "luwd": [
         "11/24",
@@ -419,6 +422,99 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxONFlyd0NxMmRMb2tId1EyU1FFc3EzeEctTHA3Z1QyaDY5U0h4OUhyR1dWb2NYZENJUjhDeW5Icm0xbm4tTmxxRUFsRTA3b3hMYXdqY1VFSGNxMnQtczlOaXNxMURNRXJLZmplaUhhVWpyenEybE1lNFhWd1ZDNy15Q3ZiVG1RR1pC",
+      "tkey": "熱門族群輝黃稍縱即逝AI代工大廠股價今慘綠",
+      "title": "《熱門族群》「輝黃」稍縱即逝 AI代工大廠股價今慘綠 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6371422001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 25 Nov 2026 05:08:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2382",
+          "name": "廣達",
+          "point": "股價跌破五日線創11個月新低",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2356",
+          "name": "英業達",
+          "point": "盤中亮燈跌停",
+          "limitUp": false
+        },
+        {
+          "symbol": "2324",
+          "name": "仁寶",
+          "point": "盤中亮燈跌停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "6669",
+          "name": "緯穎",
+          "point": "盤中股價殺至跌停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "8210",
+          "name": "勤誠",
+          "point": "股價跌回起漲點亮燈跌停",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2376",
+          "name": "技嘉",
+          "point": "盤中掛綠燈",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2377",
+          "name": "微星",
+          "point": "盤中掛綠燈",
+          "limitUp": false
+        },
+        {
+          "symbol": "2357",
+          "name": "華碩",
+          "point": "股價重挫逾6%",
+          "limitUp": false
+        }
+      ],
+      "background": "AI教父黃仁勳相關消息引發股價劇烈波動，儘管公司營運表現亮眼，但市場擔憂AI投資過熱、晶片管制及關稅等因素，導致AI代工廠股價修正。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE1FODNoOWJWT2hHQlhCNUFxUW5OcUstVVd4LXNnMENIc0xjb2hfXzJ0dTlGM283cE11OC10TTg0bEZIa3NQcWt0d01NNVZULTlramtsczdJUS0",
+      "tkey": "熱門族群油價跌利多無路用航空股跌成一片",
+      "title": "熱門族群》油價跌利多無路用 航空股跌成一片 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/vjhujvbantrx",
+      "source": "自由時報",
+      "pubDate": "Wed, 25 Nov 2026 03:41:27 GMT",
+      "stocks": [],
+      "background": "油價下跌通常有利於航空業降低營運成本，但此新聞指出即使油價下跌，航空股仍普遍下跌，顯示市場對航空業前景的擔憂蓋過油價利多。",
+      "themeTags": []
+    },
+    {
       "gid": "CBMiiAFBVV95cUxOV252MkJENEF5NTNrX0FoeFlnUkNVcUlLMC1YZWpQVm9VbW9ManF2WWd5cnZWNFNuRHpyVUF3YnRlRVdydHdsVUZHU205UEp2RUszdGdqZDd6dHB5d2VReEtVSWQ3UnZhQUNDRHk1c19CaDd3WlY3ZGFTbS13bnFXV1h6NUc4WTc0",
       "tkey": "熱門族群台股閃崩3000點！低軌衛星墜綠海逾10檔躺平倒地",
       "title": "《熱門族群》台股閃崩3000點！低軌衛星墜綠海 逾10檔躺平倒地 - 富聯網",
@@ -430,7 +526,8 @@
           "symbol": "7717",
           "name": "萊德光電-KY",
           "point": "解禁出關也跌停躺平",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "11/24",
@@ -444,7 +541,8 @@
           "symbol": "3491",
           "name": "昇達科",
           "point": "獲看好產品升級卻跌停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "11/24",
@@ -469,7 +567,8 @@
           "symbol": "5457",
           "name": "宣德",
           "point": "低軌衛星概念股也下跌",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "11/24",
@@ -483,7 +582,8 @@
           "symbol": "6190",
           "name": "萬泰科",
           "point": "低軌衛星概念股也下跌",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.8,
           "luw": 5,
           "luwd": [
             "11/24",
@@ -497,7 +597,8 @@
           "symbol": "3105",
           "name": "穩懋",
           "point": "低軌衛星概念股也下跌",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "11/24",
@@ -574,7 +675,8 @@
           "symbol": "7765",
           "name": "中華資安",
           "point": "盤中攻上漲停，專案待驗收",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "11/20"
@@ -598,7 +700,8 @@
           "symbol": "6163",
           "name": "華電網",
           "point": "同步走高，展現抗跌力道",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "11/24",
