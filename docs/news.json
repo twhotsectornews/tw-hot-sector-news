@@ -1,29 +1,11 @@
 {
-  "asOf": "2026-11-25T19:52:15.964+08:00",
-  "generatedAt": "2026-11-25T11:52:15.964Z",
+  "asOf": "2026-11-26T03:08:22.675+08:00",
+  "generatedAt": "2026-11-25T19:08:22.675Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
   "aiSource": "gemini",
   "hot7": [
-    {
-      "symbol": "6285",
-      "name": "啟碁",
-      "days": 4,
-      "dates": [
-        "11/25",
-        "11/23",
-        "11/20",
-        "11/19"
-      ],
-      "mentions": 4,
-      "limitUp": false,
-      "luw": 2,
-      "luwd": [
-        "11/24",
-        "11/18"
-      ]
-    },
     {
       "symbol": "2454",
       "name": "聯發科",
@@ -42,50 +24,6 @@
       ]
     },
     {
-      "symbol": "2059",
-      "name": "川湖",
-      "days": 3,
-      "dates": [
-        "11/25",
-        "11/23",
-        "11/19"
-      ],
-      "mentions": 3,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "11/24"
-      ]
-    },
-    {
-      "symbol": "3443",
-      "name": "創意",
-      "days": 3,
-      "dates": [
-        "11/25",
-        "11/23",
-        "11/19"
-      ],
-      "mentions": 3,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "11/24"
-      ]
-    },
-    {
-      "symbol": "5274",
-      "name": "信驊",
-      "days": 3,
-      "dates": [
-        "11/25",
-        "11/23",
-        "11/19"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
       "symbol": "3491",
       "name": "昇達科",
       "days": 3,
@@ -98,63 +36,16 @@
       "limitUp": false
     },
     {
-      "symbol": "3105",
-      "name": "穩懋",
+      "symbol": "6285",
+      "name": "啟碁",
       "days": 3,
       "dates": [
         "11/25",
         "11/23",
-        "11/19"
-      ],
-      "mentions": 3,
-      "limitUp": false
-    },
-    {
-      "symbol": "4916",
-      "name": "事欣科",
-      "days": 3,
-      "dates": [
-        "11/25",
-        "11/23",
-        "11/19"
+        "11/20"
       ],
       "mentions": 3,
       "limitUp": false,
-      "luw": 2,
-      "luwd": [
-        "11/24",
-        "11/18"
-      ]
-    },
-    {
-      "symbol": "2886",
-      "name": "兆豐金",
-      "days": 2,
-      "dates": [
-        "11/24",
-        "11/19"
-      ],
-      "mentions": 3,
-      "status": "逼近新高",
-      "dist": -2.7,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 1,
-      "luwd": [
-        "11/24"
-      ]
-    },
-    {
-      "symbol": "2887",
-      "name": "台新新光金",
-      "days": 2,
-      "dates": [
-        "11/24",
-        "11/19"
-      ],
-      "mentions": 3,
-      "limitUp": true,
-      "pct": 10,
       "luw": 1,
       "luwd": [
         "11/24"
@@ -178,155 +69,67 @@
       ]
     },
     {
-      "symbol": "3653",
-      "name": "健策",
+      "symbol": "2059",
+      "name": "川湖",
       "days": 2,
       "dates": [
         "11/25",
-        "11/19"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "11/24"
-      ]
-    },
-    {
-      "symbol": "3008",
-      "name": "大立光",
-      "days": 2,
-      "dates": [
-        "11/25",
-        "11/19"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "11/24"
-      ]
-    },
-    {
-      "symbol": "7717",
-      "name": "萊德光電-KY",
-      "days": 2,
-      "dates": [
-        "11/25",
-        "11/19"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "6443",
-      "name": "元晶",
-      "days": 2,
-      "dates": [
-        "11/25",
-        "11/19"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 2,
-      "luwd": [
-        "11/24",
-        "11/18"
-      ]
-    },
-    {
-      "symbol": "2881",
-      "name": "富邦金",
-      "days": 2,
-      "dates": [
-        "11/24",
-        "11/19"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -12.8,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 1,
-      "luwd": [
-        "11/24"
-      ]
-    },
-    {
-      "symbol": "2882",
-      "name": "國泰金",
-      "days": 2,
-      "dates": [
-        "11/24",
-        "11/19"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -11.4,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 1,
-      "luwd": [
-        "11/24"
-      ]
-    },
-    {
-      "symbol": "2891",
-      "name": "中信金",
-      "days": 2,
-      "dates": [
-        "11/24",
-        "11/19"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -13.3,
-      "limitUp": true,
-      "pct": 9.6,
-      "luw": 1,
-      "luwd": [
-        "11/24"
-      ]
-    },
-    {
-      "symbol": "2883",
-      "name": "凱基金",
-      "days": 2,
-      "dates": [
-        "11/24",
-        "11/19"
-      ],
-      "mentions": 2,
-      "limitUp": false
-    },
-    {
-      "symbol": "1802",
-      "name": "台玻",
-      "days": 2,
-      "dates": [
-        "11/24",
-        "11/19"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 2,
-      "luwd": [
-        "11/24",
         "11/23"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/24"
       ]
     },
     {
-      "symbol": "6672",
-      "name": "騰輝電子-KY",
+      "symbol": "3443",
+      "name": "創意",
       "days": 2,
       "dates": [
-        "11/24",
-        "11/19"
+        "11/25",
+        "11/23"
       ],
       "mentions": 2,
-      "limitUp": true,
-      "pct": 10,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/24"
+      ]
+    },
+    {
+      "symbol": "5274",
+      "name": "信驊",
+      "days": 2,
+      "dates": [
+        "11/25",
+        "11/23"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "3105",
+      "name": "穩懋",
+      "days": 2,
+      "dates": [
+        "11/25",
+        "11/23"
+      ],
+      "mentions": 2,
+      "limitUp": false
+    },
+    {
+      "symbol": "4916",
+      "name": "事欣科",
+      "days": 2,
+      "dates": [
+        "11/25",
+        "11/23"
+      ],
+      "mentions": 2,
+      "limitUp": false,
       "luw": 1,
       "luwd": [
         "11/24"
@@ -347,53 +150,6 @@
       "luwd": [
         "11/24",
         "11/23"
-      ]
-    },
-    {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 2,
-      "dates": [
-        "11/24",
-        "11/19"
-      ],
-      "mentions": 2,
-      "status": "高檔修正",
-      "dist": -13.9,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 1,
-      "luwd": [
-        "11/24"
-      ]
-    },
-    {
-      "symbol": "2313",
-      "name": "華通",
-      "days": 2,
-      "dates": [
-        "11/23",
-        "11/19"
-      ],
-      "mentions": 2,
-      "luw": 1,
-      "luwd": [
-        "11/24"
-      ]
-    },
-    {
-      "symbol": "2337",
-      "name": "旺宏",
-      "days": 2,
-      "dates": [
-        "11/23",
-        "11/19"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "11/24"
       ]
     },
     {
@@ -658,10 +414,9 @@
           "name": "啟碁",
           "point": "低軌衛星概念股也下跌",
           "limitUp": false,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "11/24",
-            "11/18"
+            "11/24"
           ]
         },
         {
@@ -669,10 +424,9 @@
           "name": "元晶",
           "point": "低軌衛星概念股也下跌",
           "limitUp": false,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "11/24",
-            "11/18"
+            "11/24"
           ]
         },
         {
@@ -680,10 +434,9 @@
           "name": "事欣科",
           "point": "看好營運卻遭摜至跌停",
           "limitUp": false,
-          "luw": 2,
+          "luw": 1,
           "luwd": [
-            "11/24",
-            "11/18"
+            "11/24"
           ]
         }
       ],
@@ -709,11 +462,11 @@
           "pct": 9.9,
           "luw": 5,
           "luwd": [
+            "11/25",
             "11/24",
             "11/23",
             "11/20",
-            "11/19",
-            "11/18"
+            "11/19"
           ]
         },
         {
@@ -722,8 +475,9 @@
           "point": "盤中攻上漲停，專案待驗收",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "11/25",
             "11/20"
           ]
         },
@@ -735,11 +489,11 @@
           "pct": 9.9,
           "luw": 5,
           "luwd": [
+            "11/25",
             "11/24",
             "11/23",
             "11/20",
-            "11/19",
-            "11/18"
+            "11/19"
           ]
         },
         {
