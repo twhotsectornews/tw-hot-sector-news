@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-25T04:52:10.601+08:00",
-  "generatedAt": "2026-11-24T20:52:10.601Z",
+  "asOf": "2026-11-25T11:04:24.308+08:00",
+  "generatedAt": "2026-11-25T03:04:24.308Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -383,6 +383,106 @@
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNSklQMkY4NVpJazJkMGpBdFYtTWhqRE91aVc3TzZTWTNldnZ6cnYwS244SVhtQVpRMnlOVGdHaXpZaW5fdXA5RC13N1dqQ2Nkb2g4U25OVURHRDh1THdaZDFQMDc1Z1l6cV85eGhWbXEwSmJLSFJ1eVhmWVBvNmxTeWVlQi0yclZK",
+      "tkey": "熱門族群資安股成盤面紅星安瑞-KY、中華資安4檔亮燈",
+      "title": "《熱門族群》資安股成盤面紅星 安瑞-KY、中華資安4檔亮燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6371235001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Wed, 25 Nov 2026 02:16:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3664",
+          "name": "安瑞-KY",
+          "point": "開盤率先攻上漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "7765",
+          "name": "中華資安",
+          "point": "盤中攻上漲停，專案待驗收",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/20"
+          ]
+        },
+        {
+          "symbol": "7767",
+          "name": "仁大資訊",
+          "point": "陸續亮燈漲停",
+          "limitUp": false
+        },
+        {
+          "symbol": "6590",
+          "name": "普鴻",
+          "point": "陸續亮燈漲停",
+          "status": "高檔修正",
+          "dist": -10.4,
+          "limitUp": false
+        },
+        {
+          "symbol": "6163",
+          "name": "華電網",
+          "point": "同步走高，展現抗跌力道",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19",
+            "11/18"
+          ]
+        },
+        {
+          "symbol": "6148",
+          "name": "驊宏資",
+          "point": "同步走高，展現抗跌力道",
+          "limitUp": false
+        },
+        {
+          "symbol": "6112",
+          "name": "邁達特",
+          "point": "同步走高，展現抗跌力道",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2468",
+          "name": "華經",
+          "point": "同步走高，展現抗跌力道",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/20"
+          ]
+        },
+        {
+          "symbol": "8272",
+          "name": "全景軟體",
+          "point": "同步走高，展現抗跌力道",
+          "limitUp": false
+        }
+      ],
+      "background": "資安股受電商資料外洩事件與政府機關資安預算核銷採購旺季雙重因素帶動，加上金融監理與資安法規趨嚴，需求持續成長。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxOdUM0anphZUJlQjVETFRrdWxJTi1wbjlGcmpNVmNEOVRzbFc3Rl8zdWhCcUVGR0h4RTJkRlJvT1VmQ3NpNDRZSHpmcDJUM2RpNGh5M0U1XzRocVNkM2RMM0lWbkh5aUJtbW04czBiY0JVYmhkZkt4MWd5eGxVdFk1UjRuSldnMEp2",
       "tkey": "熱門族群非AI熱區照漲！金控股同步噴出6檔亮燈、13檔全收紅",
@@ -932,424 +1032,6 @@
       "themeTags": [
         "需求驅動",
         "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxQalNhZWc0OXpEX3RXUVVwV25GSnFxTXFkRF85NUJyYWhpMzVBZVpzTW1lS2M0bDRpZnZkM042ZHl4eVJ2N0hkRGJGckF3VjV4c3ZvNm81dWxDOS1MR3NSZnZhN09LdkoxSmpzaFJqVUNuY2g3dmVDMVFfTm9WbzVDbTg0eTUtNklj",
-      "tkey": "熱門族群PCB股價殺聲隆隆法人喊免驚原因曝",
-      "title": "《熱門族群》PCB股價殺聲隆隆 法人喊免驚原因曝 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6369173001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Mon, 23 Nov 2026 06:29:00 GMT",
-      "stocks": [],
-      "background": "PCB產業受AI硬體供應鏈修正影響，但法人認為基本面未惡化，高階AI產品訂單穩定，材料升級與製程複雜度提高，技術門檻與附加價值提升。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxObjhET21DMGlNdV9NYlVVMkdrMWsxSUVGbEg5bVdPVlhpY3luempTOHoyTnZaQm5JVlhOQkZZRkZ3WGt0dkdWZ3ZUTzV5Ui12Tk5Nd2FnYnlXeFJJdW9BSEhldHoyUkt1YlRrR3I2MkJ1MDU5TFpINEJBd1pwTXVBOUFNZ1JqNTdt",
-      "tkey": "熱門族群SpaceX起飛台鏈也沾光敬鵬、台光電亮燈跟漲",
-      "title": "《熱門族群》SpaceX起飛台鏈也沾光 敬鵬、台光電亮燈跟漲 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6369127001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Mon, 23 Nov 2026 06:06:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2355",
-          "name": "敬鵬",
-          "point": "股價一度攻上漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 2,
-          "luwd": [
-            "11/24",
-            "11/23"
-          ]
-        },
-        {
-          "symbol": "2383",
-          "name": "台光電",
-          "point": "股價一度攻上漲停",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 2,
-          "luwd": [
-            "11/24",
-            "11/23"
-          ]
-        },
-        {
-          "symbol": "2313",
-          "name": "華通",
-          "point": "SpaceX合作逾十年，低軌衛星PCB市占近九成",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "3491",
-          "name": "昇達科",
-          "point": "通過Starlink、Amazon Kuiper認證，低軌衛星營收占比逾八成",
-          "limitUp": false,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
-        },
-        {
-          "symbol": "6285",
-          "name": "啟碁",
-          "point": "SpaceX重要零組件供應商",
-          "limitUp": false,
-          "luw": 2,
-          "luwd": [
-            "11/24",
-            "11/18"
-          ]
-        },
-        {
-          "symbol": "6271",
-          "name": "同欣電",
-          "point": "SpaceX重要零組件供應商",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "3481",
-          "name": "群創",
-          "point": "SpaceX重要零組件供應商",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "2367",
-          "name": "燿華",
-          "point": "SpaceX重要零組件供應商",
-          "limitUp": false
-        },
-        {
-          "symbol": "3105",
-          "name": "穩懋",
-          "point": "SpaceX重要零組件供應商",
-          "limitUp": false,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
-        },
-        {
-          "symbol": "6568",
-          "name": "宏觀",
-          "point": "SpaceX重要零組件供應商",
-          "limitUp": false,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
-        },
-        {
-          "symbol": "2312",
-          "name": "金寶",
-          "point": "SpaceX重要零組件供應商",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "3138",
-          "name": "耀登",
-          "point": "SpaceX重要零組件供應商",
-          "limitUp": false,
-          "luw": 2,
-          "luwd": [
-            "11/24",
-            "11/18"
-          ]
-        },
-        {
-          "symbol": "4916",
-          "name": "事欣科",
-          "point": "SpaceX重要零組件供應商",
-          "limitUp": false,
-          "luw": 2,
-          "luwd": [
-            "11/24",
-            "11/18"
-          ]
-        }
-      ],
-      "background": "SpaceX星艦試飛成功，大幅降低衛星發射成本，並收購美國800MHz頻譜，雙利多帶動低軌衛星台鏈需求，相關零組件供應商受惠。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNTmxNQlpkcEZHYndNMkRmdTRUd3JLQTl2QWhwTl8xeU1adGkxNzhRX0xEbm5RQ01mMFFsb093VFQ1Wm92T0Y2X1p2UXZ0cHE1b1gzSlAtNG1OaTU3ZHhfWEJkZmpKMVlQRGZFQ1hMS2ZJSVp0RmxkaVRxNDZ1d0M0THFUNFhXLWFr",
-      "tkey": "熱門族群台股破底翻千金股拚出聯發科等6檔紅燈",
-      "title": "《熱門族群》台股破底翻 千金股拚出聯發科等6檔紅燈 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6369111001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Mon, 23 Nov 2026 05:48:00 GMT",
-      "stocks": [
-        {
-          "symbol": "5274",
-          "name": "信驊",
-          "point": "同步大漲收高半根漲停板",
-          "limitUp": false,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
-        },
-        {
-          "symbol": "2059",
-          "name": "川湖",
-          "point": "同步大漲收高半根漲停板",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "2454",
-          "name": "聯發科",
-          "point": "亮燈漲停股價最高",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 2,
-          "luwd": [
-            "11/24",
-            "11/23"
-          ]
-        },
-        {
-          "symbol": "3661",
-          "name": "世芯-KY",
-          "point": "亮燈漲停",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 3,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/18"
-          ]
-        },
-        {
-          "symbol": "2383",
-          "name": "台光電",
-          "point": "亮燈漲停",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 2,
-          "luwd": [
-            "11/24",
-            "11/23"
-          ]
-        },
-        {
-          "symbol": "8299",
-          "name": "群聯",
-          "point": "亮燈漲停",
-          "limitUp": true,
-          "pct": 9.8,
-          "luw": 5,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19",
-            "11/18"
-          ]
-        },
-        {
-          "symbol": "3665",
-          "name": "貿聯-KY",
-          "point": "亮燈漲停",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 3,
-          "luwd": [
-            "11/24",
-            "11/23",
-            "11/18"
-          ]
-        },
-        {
-          "symbol": "2345",
-          "name": "智邦",
-          "point": "亮燈漲停",
-          "limitUp": true,
-          "pct": 9.8,
-          "luw": 2,
-          "luwd": [
-            "11/24",
-            "11/23"
-          ]
-        },
-        {
-          "symbol": "2308",
-          "name": "台達電",
-          "point": "盤中亮燈漲停強勢反彈",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 2,
-          "luwd": [
-            "11/24",
-            "11/23"
-          ]
-        },
-        {
-          "symbol": "3443",
-          "name": "創意",
-          "point": "連續三日跌停後急拉",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/24"
-          ]
-        }
-      ],
-      "background": "台股受政府護盤及買盤進場帶動，千金股展開反攻。聯發科受惠於AI伺服器需求，摩根士丹利看好其半導體族群首選地位。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxQTjJ4YjJlWlI2MmgxaUdiQXRVNlZSUTdqTEVGbkRuTUxyaVFnbDBQcXZ1Q2ZTbmo1UXktRHlaaVRTbWswV2tvdlVuVzJPVUNSdDFXQlRKYjBVQkNaaG5CSWd5TEVweGxlNENjc2NnamlqOXZkbnY3YXg4X25rM1JDVEh3WlRBZW9w",
-      "tkey": "熱門族群無懼美光重挫台系記憶體四雄逆勢走揚",
-      "title": "《熱門族群》無懼美光重挫 台系記憶體四雄逆勢走揚 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6368985001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Mon, 23 Nov 2026 03:12:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2408",
-          "name": "南亞科",
-          "point": "早盤股價震盪向上",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "2344",
-          "name": "華邦電",
-          "point": "早盤股價震盪向上，增量上攻",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "6770",
-          "name": "力積電",
-          "point": "早盤股價震盪向上，增量上攻",
-          "limitUp": true,
-          "pct": 10,
-          "luw": 2,
-          "luwd": [
-            "11/24",
-            "11/23"
-          ]
-        },
-        {
-          "symbol": "2337",
-          "name": "旺宏",
-          "point": "早盤股價震盪向上",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/24"
-          ]
-        }
-      ],
-      "background": "台系記憶體廠無懼美光重挫逆勢走揚，受惠國安基金護盤及政府救市措施，市場對AI股信心穩定，產業有望谷底翻揚。",
-      "themeTags": [
-        "政策關稅",
-        "循環位置"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxQRDlNRlJLcm5UcmprYzlwY203ckdSdkV5VVg4ZzdoMkpSTmxmLWwzTVR4X2RDNFI3bTFkQ0oxYzY3Sm8zQWRZcXVSN2g1XzFFTUJ1U3pXYmlENGtwUThOSVdzRWpJQzEtUzFvZlFkdWQydHRrYWxRa1Vpc1puU2RsMmZsVFZjQzlq",
-      "tkey": "熱門族群電力撐腰！機電四雄發功中興電領漲半根",
-      "title": "《熱門族群》電力撐腰！機電四雄發功 中興電領漲半根 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6368919001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Mon, 23 Nov 2026 02:19:00 GMT",
-      "stocks": [
-        {
-          "symbol": "1513",
-          "name": "中興電",
-          "point": "領漲機電族群，漲幅達半根漲停板",
-          "limitUp": false
-        },
-        {
-          "symbol": "1514",
-          "name": "亞力",
-          "point": "股價同步跟進，漲幅約3%",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "1503",
-          "name": "士電",
-          "point": "股價同步跟進，漲幅約3%",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "1519",
-          "name": "華城",
-          "point": "股價力守400元整數關卡",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/24"
-          ]
-        }
-      ],
-      "background": "機電族群受惠於台電強韌電網計畫、半導體建廠及AI資料中心等需求，訂單能見度高，營運表現亮眼。",
-      "themeTags": [
-        "需求驅動",
-        "政策關稅"
       ]
     }
   ]
