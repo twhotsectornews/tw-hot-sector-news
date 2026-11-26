@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updatedAt": "2026-11-26T06:03:58.796Z",
+  "updatedAt": "2026-11-26T09:41:59.227Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNYVozUHkxSGlLWDNKUjhpUXFPYlRMRlpzZ0JiMDVsRkZxeUpMVGZweVV4MG1XS2NuUWMtcnN0M3ZadG9BZWgxOWtGUXVpVUo2UFVyQm9GSjVGdEZSQUl6UE50VkZRMjQwUGNZaHNxdVltYlJrd29RR3ZJRmNIVmFueWxVclBPdENp",
@@ -196,13 +196,29 @@
           "symbol": "7717",
           "name": "萊德光電-KY",
           "point": "解禁出關也跌停躺平",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/25",
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19"
+          ]
         },
         {
           "symbol": "3491",
           "name": "昇達科",
           "point": "獲看好產品升級卻跌停",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/25",
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19"
+          ]
         },
         {
           "symbol": "2454",
@@ -219,19 +235,43 @@
           "symbol": "5457",
           "name": "宣德",
           "point": "低軌衛星概念股也下跌",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/25",
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19"
+          ]
         },
         {
           "symbol": "6190",
           "name": "萬泰科",
           "point": "低軌衛星概念股也下跌",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/25",
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19"
+          ]
         },
         {
           "symbol": "3105",
           "name": "穩懋",
           "point": "低軌衛星概念股也下跌",
-          "limitUp": false
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/25",
+            "11/24",
+            "11/23",
+            "11/20",
+            "11/19"
+          ]
         },
         {
           "symbol": "6285",
@@ -283,15 +323,7 @@
           "name": "安瑞-KY",
           "point": "開盤率先攻上漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/25",
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "7765",
@@ -310,15 +342,7 @@
           "name": "仁大資訊",
           "point": "陸續亮燈漲停",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/25",
-            "11/24",
-            "11/23",
-            "11/20",
-            "11/19"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6590",
