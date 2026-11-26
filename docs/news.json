@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-26T13:07:34.164+08:00",
-  "generatedAt": "2026-11-26T05:07:34.164Z",
+  "asOf": "2026-11-26T14:03:58.799+08:00",
+  "generatedAt": "2026-11-26T06:03:58.799Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -48,7 +48,8 @@
         "11/20"
       ],
       "mentions": 4,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 1,
       "luwd": [
         "11/24"
@@ -81,8 +82,7 @@
         "11/23"
       ],
       "mentions": 4,
-      "limitUp": true,
-      "pct": 9.9
+      "limitUp": false
     },
     {
       "symbol": "2308",
@@ -111,11 +111,23 @@
         "11/23"
       ],
       "mentions": 3,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 1,
       "luwd": [
         "11/24"
       ]
+    },
+    {
+      "symbol": "6446",
+      "name": "藥華藥",
+      "days": 2,
+      "dates": [
+        "11/26",
+        "11/24"
+      ],
+      "mentions": 2,
+      "limitUp": false
     },
     {
       "symbol": "3008",
@@ -126,7 +138,8 @@
         "11/25"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 1,
       "luwd": [
         "11/24"
@@ -141,7 +154,8 @@
         "11/23"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.8,
       "luw": 2,
       "luwd": [
         "11/24",
@@ -303,7 +317,8 @@
         "11/23"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.8,
       "luw": 1,
       "luwd": [
         "11/24"
@@ -410,6 +425,50 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxPUWpMR25qUktaWURoeGtjUzFlZURwaEFCUU10bTJ1QXlPVzFYSVBOd0NteEJNQ2xMQ1VfVEZ4MHFIRU94MWVCLXJMMGExbXhpUkZPRWdVNE85aDI2S0MwVGVfM0dYb2lSWUNvY19makw2cVlET3hKaTBVelBoRGVncmFwMTB1QnRK",
+      "tkey": "熱門族群藥華藥亮燈攻1180元！生醫族群狂飆逾4.5%",
+      "title": "《熱門族群》藥華藥亮燈攻1180元！生醫族群狂飆逾4.5% - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6372590001&PU=0031",
+      "source": "富聯網",
+      "pubDate": "Thu, 26 Nov 2026 05:38:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "point": "亮燈攻1180元，新藥銷售成長",
+          "limitUp": false
+        },
+        {
+          "symbol": "6782",
+          "name": "視陽",
+          "point": "狂飆7%以上，獲利創新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "6934",
+          "name": "心誠鎂",
+          "point": "漲幅落在4.7%以上",
+          "limitUp": false
+        },
+        {
+          "symbol": "4106",
+          "name": "雃博",
+          "point": "漲幅落在3.5%以上",
+          "limitUp": false
+        },
+        {
+          "symbol": "6472",
+          "name": "保瑞",
+          "point": "漲幅落在3.5%以上",
+          "limitUp": false
+        }
+      ],
+      "background": "生醫族群受惠於新藥銷售成長與隱形眼鏡市場需求強勁，帶動相關個股營收與獲利表現亮眼，產業前景樂觀。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxNczhYdmlsb21iUFdUUmZuZFVOZUptZFk2TDFfc3RYT1lrQ0poTDVyNEVISmoyWUtIdGtuLWxiM0c0aXRJdm5FVENBZXRqdjVDRVlUX1BaZnA5NVRuSU1aOURJQ19raVVTcXEycjdkRTh3bGp5SFlHRUpaNEJaUjlBWjJGNHM3Yk5H",
       "tkey": "熱門族群黃袍加身！CPO買盤回籠大立光、穩懋等鎖紅燈",
       "title": "《熱門族群》「黃」袍加身！CPO買盤回籠 大立光、穩懋等鎖紅燈 - 富聯網",
@@ -421,7 +480,8 @@
           "symbol": "3008",
           "name": "大立光",
           "point": "領頭鎖紅燈",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "11/24"
@@ -437,14 +497,14 @@
           "symbol": "3105",
           "name": "穩懋",
           "point": "跟風觸頂",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "2345",
           "name": "智邦",
           "point": "跟風觸頂",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.8,
           "luw": 2,
           "luwd": [
             "11/24",
@@ -455,7 +515,8 @@
           "symbol": "3701",
           "name": "大眾控",
           "point": "跟風觸頂",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 1,
           "luwd": [
             "11/24"
@@ -570,7 +631,8 @@
           "symbol": "3037",
           "name": "欣興",
           "point": "載板三雄，觸及漲停價",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "11/24"
@@ -580,7 +642,8 @@
           "symbol": "8046",
           "name": "南電",
           "point": "載板三雄，強攻漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "11/24"
@@ -688,7 +751,8 @@
           "symbol": "2313",
           "name": "華通",
           "point": "深耕低軌衛星多年，股價亮燈漲停",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.8,
           "luw": 1,
           "luwd": [
             "11/24"
@@ -698,7 +762,8 @@
           "symbol": "4916",
           "name": "事欣科",
           "point": "低軌衛星族群，紅燈海再現",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "11/24"
@@ -720,14 +785,14 @@
           "symbol": "3105",
           "name": "穩懋",
           "point": "低軌衛星族群，紅燈海再現",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "6285",
           "name": "啟碁",
           "point": "低軌衛星族群，紅燈海再現",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 1,
           "luwd": [
             "11/24"
@@ -737,7 +802,8 @@
           "symbol": "2485",
           "name": "兆赫",
           "point": "低軌衛星族群，紅燈海再現",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.8,
           "luw": 1,
           "luwd": [
             "11/24"
@@ -758,7 +824,8 @@
           "symbol": "3701",
           "name": "大眾控",
           "point": "低軌衛星族群，紅燈海再現",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 1,
           "luwd": [
             "11/24"
