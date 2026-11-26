@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updatedAt": "2026-11-26T11:40:35.715Z",
+  "updatedAt": "2026-11-26T18:57:43.338Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNYVozUHkxSGlLWDNKUjhpUXFPYlRMRlpzZ0JiMDVsRkZxeUpMVGZweVV4MG1XS2NuUWMtcnN0M3ZadG9BZWgxOWtGUXVpVUo2UFVyQm9GSjVGdEZSQUl6UE50VkZRMjQwUGNZaHNxdVltYlJrd29RR3ZJRmNIVmFueWxVclBPdENp",
@@ -15,8 +15,9 @@
           "name": "川湖",
           "point": "逆勢大漲，股后逆勢穩盤",
           "limitUp": false,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "11/26",
             "11/24"
           ]
         },
@@ -25,8 +26,9 @@
           "name": "健策",
           "point": "同步收紅，展現抗跌力道",
           "limitUp": false,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "11/26",
             "11/24"
           ]
         },
@@ -35,8 +37,9 @@
           "name": "大立光",
           "point": "同步收紅，展現抗跌力道",
           "limitUp": false,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "11/26",
             "11/24"
           ]
         },
@@ -130,8 +133,9 @@
           "name": "緯穎",
           "point": "盤中股價殺至跌停",
           "limitUp": false,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "11/26",
             "11/24"
           ]
         },
@@ -140,8 +144,9 @@
           "name": "勤誠",
           "point": "股價跌回起漲點亮燈跌停",
           "limitUp": false,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "11/26",
             "11/24"
           ]
         },
@@ -199,11 +204,11 @@
           "limitUp": false,
           "luw": 5,
           "luwd": [
+            "11/26",
             "11/25",
             "11/24",
             "11/23",
-            "11/20",
-            "11/19"
+            "11/20"
           ]
         },
         {
@@ -213,11 +218,11 @@
           "limitUp": false,
           "luw": 5,
           "luwd": [
+            "11/26",
             "11/25",
             "11/24",
             "11/23",
-            "11/20",
-            "11/19"
+            "11/20"
           ]
         },
         {
@@ -238,11 +243,11 @@
           "limitUp": false,
           "luw": 5,
           "luwd": [
+            "11/26",
             "11/25",
             "11/24",
             "11/23",
-            "11/20",
-            "11/19"
+            "11/20"
           ]
         },
         {
@@ -252,11 +257,11 @@
           "limitUp": false,
           "luw": 5,
           "luwd": [
+            "11/26",
             "11/25",
             "11/24",
             "11/23",
-            "11/20",
-            "11/19"
+            "11/20"
           ]
         },
         {
@@ -266,11 +271,11 @@
           "limitUp": false,
           "luw": 5,
           "luwd": [
+            "11/26",
             "11/25",
             "11/24",
             "11/23",
-            "11/20",
-            "11/19"
+            "11/20"
           ]
         },
         {
@@ -278,8 +283,9 @@
           "name": "啟碁",
           "point": "低軌衛星概念股也下跌",
           "limitUp": false,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "11/26",
             "11/24"
           ]
         },
@@ -298,8 +304,9 @@
           "name": "事欣科",
           "point": "看好營運卻遭摜至跌停",
           "limitUp": false,
-          "luw": 1,
+          "luw": 2,
           "luwd": [
+            "11/26",
             "11/24"
           ]
         }

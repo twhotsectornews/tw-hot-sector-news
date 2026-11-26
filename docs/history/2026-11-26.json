@@ -1,0 +1,531 @@
+{
+  "date": "2026-11-26",
+  "updatedAt": "2026-11-26T18:57:43.333Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxPUWpMR25qUktaWURoeGtjUzFlZURwaEFCUU10bTJ1QXlPVzFYSVBOd0NteEJNQ2xMQ1VfVEZ4MHFIRU94MWVCLXJMMGExbXhpUkZPRWdVNE85aDI2S0MwVGVfM0dYb2lSWUNvY19makw2cVlET3hKaTBVelBoRGVncmFwMTB1QnRK",
+      "tkey": "熱門族群藥華藥亮燈攻1180元！生醫族群狂飆逾4.5%",
+      "title": "《熱門族群》藥華藥亮燈攻1180元！生醫族群狂飆逾4.5% - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6372590001&PU=0031",
+      "source": "富聯網",
+      "pubDate": "Thu, 26 Nov 2026 05:38:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "point": "亮燈攻1180元，新藥銷售成長",
+          "limitUp": false
+        },
+        {
+          "symbol": "6782",
+          "name": "視陽",
+          "point": "狂飆7%以上，獲利創新高",
+          "limitUp": false
+        },
+        {
+          "symbol": "6934",
+          "name": "心誠鎂",
+          "point": "漲幅落在4.7%以上",
+          "limitUp": false
+        },
+        {
+          "symbol": "4106",
+          "name": "雃博",
+          "point": "漲幅落在3.5%以上",
+          "limitUp": false
+        },
+        {
+          "symbol": "6472",
+          "name": "保瑞",
+          "point": "漲幅落在3.5%以上",
+          "limitUp": false
+        }
+      ],
+      "background": "生醫族群受惠於新藥銷售成長與隱形眼鏡市場需求強勁，帶動相關個股營收與獲利表現亮眼，產業前景樂觀。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNczhYdmlsb21iUFdUUmZuZFVOZUptZFk2TDFfc3RYT1lrQ0poTDVyNEVISmoyWUtIdGtuLWxiM0c0aXRJdm5FVENBZXRqdjVDRVlUX1BaZnA5NVRuSU1aOURJQ19raVVTcXEycjdkRTh3bGp5SFlHRUpaNEJaUjlBWjJGNHM3Yk5H",
+      "tkey": "熱門族群黃袍加身！CPO買盤回籠大立光、穩懋等鎖紅燈",
+      "title": "《熱門族群》「黃」袍加身！CPO買盤回籠 大立光、穩懋等鎖紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6372473001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 26 Nov 2026 03:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "領頭鎖紅燈",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "11/26",
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "7728",
+          "name": "光焱科技",
+          "point": "跟風觸頂",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/26",
+            "11/25",
+            "11/24",
+            "11/23",
+            "11/20"
+          ]
+        },
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "跟風觸頂",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/26",
+            "11/25",
+            "11/24",
+            "11/23",
+            "11/20"
+          ]
+        },
+        {
+          "symbol": "2345",
+          "name": "智邦",
+          "point": "跟風觸頂",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 3,
+          "luwd": [
+            "11/26",
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "3701",
+          "name": "大眾控",
+          "point": "跟風觸頂",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 2,
+          "luwd": [
+            "11/26",
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2360",
+          "name": "致茂",
+          "point": "跟風觸頂",
+          "limitUp": false
+        },
+        {
+          "symbol": "3363",
+          "name": "上詮",
+          "point": "跟風觸頂",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/26",
+            "11/25",
+            "11/24",
+            "11/23",
+            "11/20"
+          ]
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "強彈半根停板",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "3661",
+          "name": "世芯-KY",
+          "point": "股價同步走強",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "6147",
+          "name": "頎邦",
+          "point": "可望受惠",
+          "limitUp": false
+        }
+      ],
+      "background": "CPO族群受惠輝達黃仁勳回歸，AI相關概念股信心回籠，資料中心電力架構轉向800V、Scale-up網路架構導入CPO技術，帶動光通訊升級需求。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxOVlo2V1BXblhFdUdjUU84WkFEU0RhUHA3bERIQnphSUJMUGVrOFNoYmFqaWhaN1djWWxDQ0p5NV9WVGhwb2I4UzVHSXdpMm03SV93ZGFkaWFRa3hLZDlEc2tkbE1iZDlSRUY5ck4xb1Fuc3NGdFpkUkFtQnE0Tm1nRXZHelNqOWlH",
+      "tkey": "熱門族群PCB跌深反彈CCL、載板三雄強攻台玻掉隊",
+      "title": "《熱門族群》PCB跌深反彈 CCL、載板三雄強攻 台玻掉隊 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6372431001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 26 Nov 2026 03:22:00 GMT",
+      "stocks": [
+        {
+          "symbol": "1802",
+          "name": "台玻",
+          "point": "開高走低，與台股不同調",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "1303",
+          "name": "南亞",
+          "point": "本業轉好加上南亞科大賺助利",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "PCB股王，一度攻上漲停",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "6274",
+          "name": "台燿",
+          "point": "CCL概念股，全面大漲",
+          "limitUp": false
+        },
+        {
+          "symbol": "6213",
+          "name": "聯茂",
+          "point": "CCL概念股，全面大漲",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 3,
+          "luwd": [
+            "11/26",
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "3037",
+          "name": "欣興",
+          "point": "載板三雄，觸及漲停價",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "11/26",
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "8046",
+          "name": "南電",
+          "point": "載板三雄，強攻漲停",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "11/26",
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "3189",
+          "name": "景碩",
+          "point": "載板三雄，跌深反彈有勁",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "1815",
+          "name": "富喬",
+          "point": "與南亞同步上攻，站回5日線",
+          "limitUp": false
+        },
+        {
+          "symbol": "5475",
+          "name": "德宏",
+          "point": "玻纖布及銅箔廠同步走高",
+          "limitUp": false
+        },
+        {
+          "symbol": "5340",
+          "name": "建榮",
+          "point": "玻纖布及銅箔廠同步走高",
+          "limitUp": false
+        }
+      ],
+      "background": "PCB族群受美股大逆轉及301調查稅率利多激勵跌深反彈，AI伺服器與先進封裝升級推升高階玻纖布需求，帶動相關供應鏈業績成長。",
+      "themeTags": [
+        "需求驅動",
+        "政策關稅",
+        "循環位置"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPVFdOSzBTRFJpZnVfanNib053d2prYkFlUmtPLXRodVRfVkk4WjdEWDhHNm13OWJOQ3FDNFZobW1mdEQyUkxfX2xuY2FxUlFuSDA4VmRBODRnbzVLM1lBNTFpdWNjaU1qOUtHUmZxRXIwX0NZS2dlOUFtb1JiMkdjMUp2VWlhVUtE",
+      "tkey": "熱門族群SpaceX大利多！低軌衛星樂開趴大紅燈籠刷一排",
+      "title": "《熱門族群》SpaceX大利多！低軌衛星樂開趴 大紅燈籠刷一排 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6372403001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Thu, 26 Nov 2026 03:00:00 GMT",
+      "stocks": [
+        {
+          "symbol": "2308",
+          "name": "台達電",
+          "point": "聯袂吹起反攻號角",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "聯袂吹起反攻號角",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "2382",
+          "name": "廣達",
+          "point": "聯袂吹起反攻號角",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "聯袂吹起反攻號角",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "3491",
+          "name": "昇達科",
+          "point": "低軌衛星族群，紅燈海再現",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/26",
+            "11/25",
+            "11/24",
+            "11/23",
+            "11/20"
+          ]
+        },
+        {
+          "symbol": "7717",
+          "name": "萊德光電-KY",
+          "point": "低軌衛星族群，紅燈海再現",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/26",
+            "11/25",
+            "11/24",
+            "11/23",
+            "11/20"
+          ]
+        },
+        {
+          "symbol": "2313",
+          "name": "華通",
+          "point": "深耕低軌衛星多年，股價亮燈漲停",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 2,
+          "luwd": [
+            "11/26",
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "4916",
+          "name": "事欣科",
+          "point": "低軌衛星族群，紅燈海再現",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "11/26",
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "5457",
+          "name": "宣德",
+          "point": "低軌衛星族群，紅燈海再現",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/26",
+            "11/25",
+            "11/24",
+            "11/23",
+            "11/20"
+          ]
+        },
+        {
+          "symbol": "6190",
+          "name": "萬泰科",
+          "point": "低軌衛星族群，紅燈海再現",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/26",
+            "11/25",
+            "11/24",
+            "11/23",
+            "11/20"
+          ]
+        },
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "低軌衛星族群，紅燈海再現",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/26",
+            "11/25",
+            "11/24",
+            "11/23",
+            "11/20"
+          ]
+        },
+        {
+          "symbol": "6285",
+          "name": "啟碁",
+          "point": "低軌衛星族群，紅燈海再現",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 2,
+          "luwd": [
+            "11/26",
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2485",
+          "name": "兆赫",
+          "point": "低軌衛星族群，紅燈海再現",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 2,
+          "luwd": [
+            "11/26",
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2413",
+          "name": "環科",
+          "point": "低軌衛星族群，紅燈海再現",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 2,
+          "luwd": [
+            "11/26",
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "3701",
+          "name": "大眾控",
+          "point": "低軌衛星族群，紅燈海再現",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 2,
+          "luwd": [
+            "11/26",
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2383",
+          "name": "台光電",
+          "point": "低軌衛星族群，紅燈海再現",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "8358",
+          "name": "金居",
+          "point": "獲SpaceX指定採用的銅箔廠",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 5,
+          "luwd": [
+            "11/26",
+            "11/25",
+            "11/24",
+            "11/23",
+            "11/20"
+          ]
+        }
+      ],
+      "background": "SpaceX獲美聯邦傳播委員會批准部署百萬顆衛星建置太空資料中心，激勵低軌衛星族群全面升空，帶動高階PCB、低損耗材料及射頻、光通訊元件需求。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠",
+        "政策關稅"
+      ]
+    }
+  ]
+}
