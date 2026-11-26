@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updatedAt": "2026-11-26T04:06:34.075Z",
+  "updatedAt": "2026-11-26T05:07:34.162Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxOdUM0anphZUJlQjVETFRrdWxJTi1wbjlGcmpNVmNEOVRzbFc3Rl8zdWhCcUVGR0h4RTJkRlJvT1VmQ3NpNDRZSHpmcDJUM2RpNGh5M0U1XzRocVNkM2RMM0lWbkh5aUJtbW04czBiY0JVYmhkZkt4MWd5eGxVdFk1UjRuSldnMEp2",
@@ -14,10 +14,6 @@
           "symbol": "2881",
           "name": "富邦金",
           "point": "攻上漲停",
-          "status": "高檔修正",
-          "dist": -12.8,
-          "limitUp": true,
-          "pct": 10,
           "luw": 1,
           "luwd": [
             "11/24"
@@ -28,9 +24,7 @@
           "name": "國泰金",
           "point": "攻上漲停",
           "status": "高檔修正",
-          "dist": -11.4,
-          "limitUp": true,
-          "pct": 10,
+          "dist": -12.7,
           "luw": 1,
           "luwd": [
             "11/24"
@@ -41,9 +35,7 @@
           "name": "元大金",
           "point": "接力亮燈",
           "status": "高檔修正",
-          "dist": -13.5,
-          "limitUp": true,
-          "pct": 9.9,
+          "dist": -14.3,
           "luw": 1,
           "luwd": [
             "11/24"
@@ -53,10 +45,8 @@
           "symbol": "2886",
           "name": "兆豐金",
           "point": "接力亮燈",
-          "status": "逼近新高",
-          "dist": -2.7,
-          "limitUp": true,
-          "pct": 10,
+          "status": "高檔修正",
+          "dist": -12.9,
           "luw": 1,
           "luwd": [
             "11/24"
@@ -64,10 +54,8 @@
         },
         {
           "symbol": "2887",
-          "name": "台新新光金",
+          "name": "新光金",
           "point": "接力亮燈",
-          "limitUp": true,
-          "pct": 10,
           "luw": 1,
           "luwd": [
             "11/24"
@@ -77,8 +65,6 @@
           "symbol": "2890",
           "name": "永豐金",
           "point": "接力亮燈",
-          "limitUp": true,
-          "pct": 9.9,
           "luw": 1,
           "luwd": [
             "11/24"
@@ -88,10 +74,6 @@
           "symbol": "2891",
           "name": "中信金",
           "point": "漲幅達8%至9%",
-          "status": "高檔修正",
-          "dist": -13.3,
-          "limitUp": true,
-          "pct": 9.6,
           "luw": 1,
           "luwd": [
             "11/24"
@@ -99,13 +81,14 @@
         },
         {
           "symbol": "2883",
-          "name": "凱基金",
-          "point": "漲幅達8%至9%",
-          "limitUp": false
+          "name": "開發金",
+          "point": "漲幅達8%至9%"
         }
       ],
-      "background": "金控股在市場氣氛轉強及資金回流下同步走揚，具備龐大資產規模與內需金融業務，在市場波動時具防禦色彩，獲利表現受關注。",
-      "themeTags": []
+      "background": "金控股在台股強勢反攻下展現補漲力道，反映資金回流不再侷限於AI電子族群，金融股也成為這波多頭行情的受惠者。",
+      "themeTags": [
+        "需求驅動"
+      ]
     },
     {
       "gid": "CBMiiAFBVV95cUxPcUpMWG1LSUp6dGNqV3dObG1HSnAwX2ZTNDktUlc4ODVvOXJYLWlHT0xRYzJ4aE8zSUxaT0lONFhWQll3Ynl5Z1NpV01rVGJfV2ZxUmlHVVNDNFBIamFOWHdHWWpUNTVHYnBMX3lFOFE4TTJOU2lQc01rRmF6MTRvNVhTOW1fWnNN",

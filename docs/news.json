@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-26T12:06:34.077+08:00",
-  "generatedAt": "2026-11-26T04:06:34.077Z",
+  "asOf": "2026-11-26T13:07:34.164+08:00",
+  "generatedAt": "2026-11-26T05:07:34.164Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -72,6 +72,19 @@
       ]
     },
     {
+      "symbol": "3105",
+      "name": "穩懋",
+      "days": 3,
+      "dates": [
+        "11/26",
+        "11/25",
+        "11/23"
+      ],
+      "mentions": 4,
+      "limitUp": true,
+      "pct": 9.9
+    },
+    {
       "symbol": "2308",
       "name": "台達電",
       "days": 3,
@@ -98,24 +111,69 @@
         "11/23"
       ],
       "mentions": 3,
-      "limitUp": true,
-      "pct": 9.9,
+      "limitUp": false,
       "luw": 1,
       "luwd": [
         "11/24"
       ]
     },
     {
-      "symbol": "3105",
-      "name": "穩懋",
-      "days": 3,
+      "symbol": "3008",
+      "name": "大立光",
+      "days": 2,
       "dates": [
         "11/26",
-        "11/25",
+        "11/25"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/24"
+      ]
+    },
+    {
+      "symbol": "2345",
+      "name": "智邦",
+      "days": 2,
+      "dates": [
+        "11/26",
         "11/23"
       ],
-      "mentions": 3,
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "11/24",
+        "11/23"
+      ]
+    },
+    {
+      "symbol": "2360",
+      "name": "致茂",
+      "days": 2,
+      "dates": [
+        "11/26",
+        "11/24"
+      ],
+      "mentions": 2,
       "limitUp": false
+    },
+    {
+      "symbol": "3661",
+      "name": "世芯-KY",
+      "days": 2,
+      "dates": [
+        "11/26",
+        "11/23"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "11/24",
+        "11/23"
+      ]
     },
     {
       "symbol": "1802",
@@ -169,7 +227,8 @@
         "11/24"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 2,
       "luwd": [
         "11/24",
@@ -259,8 +318,7 @@
         "11/25"
       ],
       "mentions": 2,
-      "limitUp": true,
-      "pct": 9.9
+      "limitUp": false
     },
     {
       "symbol": "6190",
@@ -352,6 +410,104 @@
   ],
   "news": [
     {
+      "gid": "CBMiiAFBVV95cUxNczhYdmlsb21iUFdUUmZuZFVOZUptZFk2TDFfc3RYT1lrQ0poTDVyNEVISmoyWUtIdGtuLWxiM0c0aXRJdm5FVENBZXRqdjVDRVlUX1BaZnA5NVRuSU1aOURJQ19raVVTcXEycjdkRTh3bGp5SFlHRUpaNEJaUjlBWjJGNHM3Yk5H",
+      "tkey": "熱門族群黃袍加身！CPO買盤回籠大立光、穩懋等鎖紅燈",
+      "title": "《熱門族群》「黃」袍加身！CPO買盤回籠 大立光、穩懋等鎖紅燈 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6372473001&PU=0010",
+      "source": "富聯網",
+      "pubDate": "Thu, 26 Nov 2026 03:56:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3008",
+          "name": "大立光",
+          "point": "領頭鎖紅燈",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "7728",
+          "name": "光焱科技",
+          "point": "跟風觸頂",
+          "limitUp": false
+        },
+        {
+          "symbol": "3105",
+          "name": "穩懋",
+          "point": "跟風觸頂",
+          "limitUp": true,
+          "pct": 9.9
+        },
+        {
+          "symbol": "2345",
+          "name": "智邦",
+          "point": "跟風觸頂",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "3701",
+          "name": "大眾控",
+          "point": "跟風觸頂",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2360",
+          "name": "致茂",
+          "point": "跟風觸頂",
+          "limitUp": false
+        },
+        {
+          "symbol": "3363",
+          "name": "上詮",
+          "point": "跟風觸頂",
+          "limitUp": false
+        },
+        {
+          "symbol": "3406",
+          "name": "玉晶光",
+          "point": "強彈半根停板",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "3661",
+          "name": "世芯-KY",
+          "point": "股價同步走強",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "6147",
+          "name": "頎邦",
+          "point": "可望受惠",
+          "limitUp": false
+        }
+      ],
+      "background": "CPO族群受惠輝達黃仁勳回歸，AI相關概念股信心回籠，資料中心電力架構轉向800V、Scale-up網路架構導入CPO技術，帶動光通訊升級需求。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
       "gid": "CBMiiAFBVV95cUxOVlo2V1BXblhFdUdjUU84WkFEU0RhUHA3bERIQnphSUJMUGVrOFNoYmFqaWhaN1djWWxDQ0p5NV9WVGhwb2I4UzVHSXdpMm03SV93ZGFkaWFRa3hLZDlEc2tkbE1iZDlSRUY5ck4xb1Fuc3NGdFpkUkFtQnE0Tm1nRXZHelNqOWlH",
       "tkey": "熱門族群PCB跌深反彈CCL、載板三雄強攻台玻掉隊",
       "title": "《熱門族群》PCB跌深反彈 CCL、載板三雄強攻 台玻掉隊 - 富聯網",
@@ -402,7 +558,8 @@
           "symbol": "6213",
           "name": "聯茂",
           "point": "CCL概念股，全面大漲",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 2,
           "luwd": [
             "11/24",
@@ -541,8 +698,7 @@
           "symbol": "4916",
           "name": "事欣科",
           "point": "低軌衛星族群，紅燈海再現",
-          "limitUp": true,
-          "pct": 9.9,
+          "limitUp": false,
           "luw": 1,
           "luwd": [
             "11/24"
@@ -552,8 +708,7 @@
           "symbol": "5457",
           "name": "宣德",
           "point": "低軌衛星族群，紅燈海再現",
-          "limitUp": true,
-          "pct": 9.9
+          "limitUp": false
         },
         {
           "symbol": "6190",
@@ -565,7 +720,8 @@
           "symbol": "3105",
           "name": "穩懋",
           "point": "低軌衛星族群，紅燈海再現",
-          "limitUp": false
+          "limitUp": true,
+          "pct": 9.9
         },
         {
           "symbol": "6285",
@@ -591,7 +747,8 @@
           "symbol": "2413",
           "name": "環科",
           "point": "低軌衛星族群，紅燈海再現",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 1,
           "luwd": [
             "11/24"
