@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updatedAt": "2026-11-27T04:07:24.369Z",
+  "updatedAt": "2026-11-27T05:07:22.602Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNYVozUHkxSGlLWDNKUjhpUXFPYlRMRlpzZ0JiMDVsRkZxeUpMVGZweVV4MG1XS2NuUWMtcnN0M3ZadG9BZWgxOWtGUXVpVUo2UFVyQm9GSjVGdEZSQUl6UE50VkZRMjQwUGNZaHNxdVltYlJrd29RR3ZJRmNIVmFueWxVclBPdENp",
@@ -13,8 +13,7 @@
         {
           "symbol": "2059",
           "name": "川湖",
-          "point": "逆勢大漲，股后逆勢穩盤",
-          "limitUp": false,
+          "point": "股后逆勢大漲",
           "luw": 2,
           "luwd": [
             "11/26",
@@ -24,8 +23,7 @@
         {
           "symbol": "3653",
           "name": "健策",
-          "point": "同步收紅，展現抗跌力道",
-          "limitUp": false,
+          "point": "同步收紅抗跌",
           "luw": 2,
           "luwd": [
             "11/26",
@@ -35,8 +33,7 @@
         {
           "symbol": "3008",
           "name": "大立光",
-          "point": "同步收紅，展現抗跌力道",
-          "limitUp": false,
+          "point": "同步收紅抗跌",
           "luw": 2,
           "luwd": [
             "11/26",
@@ -46,8 +43,7 @@
         {
           "symbol": "3443",
           "name": "創意",
-          "point": "遭空方狙擊，盤中鎖死跌停",
-          "limitUp": false,
+          "point": "摔跌停",
           "luw": 1,
           "luwd": [
             "11/24"
@@ -56,20 +52,17 @@
         {
           "symbol": "5274",
           "name": "信驊",
-          "point": "下跌逾3%，險些失守8500元",
-          "limitUp": false
+          "point": "股王下跌逾3%"
         },
         {
           "symbol": "6223",
           "name": "旺矽",
-          "point": "收在跌停最低點",
-          "limitUp": false
+          "point": "收在跌停最低點"
         },
         {
           "symbol": "2454",
           "name": "聯發科",
           "point": "收在跌停最低點",
-          "limitUp": false,
           "luw": 2,
           "luwd": [
             "11/24",
@@ -79,17 +72,24 @@
         {
           "symbol": "7856",
           "name": "漢測",
-          "point": "收在跌停最低點",
-          "limitUp": false
+          "point": "收在跌停最低點"
         },
         {
           "symbol": "7828",
           "name": "創新服務",
-          "point": "收在跌停最低點",
-          "limitUp": false
+          "point": "收在跌停最低點"
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "盤中下跌210元",
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
         }
       ],
-      "background": "美國最新關稅政策引發市場恐慌，台股大盤重挫，高價股表現分歧，部分個股因AI類股殺盤與獲利不如預期而重跌。",
+      "background": "美國新關稅政策引發市場恐慌，台股大盤重挫，高價股表現分歧，部分AI類股因獲利不如預期或市場疑慮而下跌。",
       "themeTags": [
         "政策關稅"
       ]
@@ -105,8 +105,7 @@
         {
           "symbol": "2382",
           "name": "廣達",
-          "point": "股價跌破五日線創11個月新低",
-          "limitUp": false,
+          "point": "AI代工股價慘綠",
           "luw": 1,
           "luwd": [
             "11/24"
@@ -115,14 +114,12 @@
         {
           "symbol": "2356",
           "name": "英業達",
-          "point": "盤中亮燈跌停",
-          "limitUp": false
+          "point": "AI代工股價慘綠"
         },
         {
           "symbol": "2324",
           "name": "仁寶",
-          "point": "盤中亮燈跌停",
-          "limitUp": false,
+          "point": "AI代工股價慘綠",
           "luw": 1,
           "luwd": [
             "11/24"
@@ -131,8 +128,7 @@
         {
           "symbol": "6669",
           "name": "緯穎",
-          "point": "盤中股價殺至跌停",
-          "limitUp": false,
+          "point": "AI代工股價慘綠",
           "luw": 2,
           "luwd": [
             "11/26",
@@ -142,8 +138,7 @@
         {
           "symbol": "8210",
           "name": "勤誠",
-          "point": "股價跌回起漲點亮燈跌停",
-          "limitUp": false,
+          "point": "AI代工股價慘綠",
           "luw": 2,
           "luwd": [
             "11/26",
@@ -153,8 +148,7 @@
         {
           "symbol": "2376",
           "name": "技嘉",
-          "point": "盤中掛綠燈",
-          "limitUp": false,
+          "point": "AI代工股價跳水",
           "luw": 1,
           "luwd": [
             "11/24"
@@ -163,19 +157,17 @@
         {
           "symbol": "2377",
           "name": "微星",
-          "point": "盤中掛綠燈",
-          "limitUp": false
+          "point": "AI代工股價跳水"
         },
         {
           "symbol": "2357",
           "name": "華碩",
-          "point": "股價重挫逾6%",
-          "limitUp": false
+          "point": "AI代工股價重挫"
         }
       ],
-      "background": "AI教父黃仁勳相關消息引發股價劇烈波動，儘管公司營運表現亮眼，但市場擔憂AI投資過熱、晶片管制及關稅等因素，導致AI代工廠股價修正。",
+      "background": "AI伺服器代工大廠受黃仁勳事件與美國晶片管制、關稅政策影響，市場對AI產業過度投資的憂慮加劇，股價普遍下跌。",
       "themeTags": [
-        "需求驅動"
+        "政策關稅"
       ]
     },
     {
