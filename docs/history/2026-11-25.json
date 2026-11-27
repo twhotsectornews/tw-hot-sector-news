@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updatedAt": "2026-11-27T05:07:22.602Z",
+  "updatedAt": "2026-11-27T06:02:26.154Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxNYVozUHkxSGlLWDNKUjhpUXFPYlRMRlpzZ0JiMDVsRkZxeUpMVGZweVV4MG1XS2NuUWMtcnN0M3ZadG9BZWgxOWtGUXVpVUo2UFVyQm9GSjVGdEZSQUl6UE50VkZRMjQwUGNZaHNxdVltYlJrd29RR3ZJRmNIVmFueWxVclBPdENp",
@@ -13,7 +13,7 @@
         {
           "symbol": "2059",
           "name": "川湖",
-          "point": "股后逆勢大漲",
+          "point": "逆勢大漲半根漲停，穩住股后寶座",
           "luw": 2,
           "luwd": [
             "11/26",
@@ -23,7 +23,7 @@
         {
           "symbol": "3653",
           "name": "健策",
-          "point": "同步收紅抗跌",
+          "point": "同步收紅，展現抗跌力道",
           "luw": 2,
           "luwd": [
             "11/26",
@@ -33,7 +33,7 @@
         {
           "symbol": "3008",
           "name": "大立光",
-          "point": "同步收紅抗跌",
+          "point": "同步收紅，展現抗跌力道",
           "luw": 2,
           "luwd": [
             "11/26",
@@ -43,7 +43,7 @@
         {
           "symbol": "3443",
           "name": "創意",
-          "point": "摔跌停",
+          "point": "遭空方狙擊，盤中鎖死跌停",
           "luw": 1,
           "luwd": [
             "11/24"
@@ -52,7 +52,7 @@
         {
           "symbol": "5274",
           "name": "信驊",
-          "point": "股王下跌逾3%"
+          "point": "下跌逾3%，險些失守8500元"
         },
         {
           "symbol": "6223",
@@ -78,18 +78,9 @@
           "symbol": "7828",
           "name": "創新服務",
           "point": "收在跌停最低點"
-        },
-        {
-          "symbol": "2330",
-          "name": "台積電",
-          "point": "盤中下跌210元",
-          "luw": 1,
-          "luwd": [
-            "11/24"
-          ]
         }
       ],
-      "background": "美國新關稅政策引發市場恐慌，台股大盤重挫，高價股表現分歧，部分AI類股因獲利不如預期或市場疑慮而下跌。",
+      "background": "美國新關稅政策引發市場恐慌，台股大盤重挫，高價股表現分歧。AI類股近期遭遇殺盤，部分個股獲利不如預期。關稅政策不確定性使資金轉趨保守。",
       "themeTags": [
         "政策關稅"
       ]

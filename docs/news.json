@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-27T13:07:22.604+08:00",
-  "generatedAt": "2026-11-27T05:07:22.604Z",
+  "asOf": "2026-11-27T14:02:26.157+08:00",
+  "generatedAt": "2026-11-27T06:02:26.157Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -36,7 +36,8 @@
         "11/23"
       ],
       "mentions": 5,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 2,
       "luwd": [
         "11/26",
@@ -54,7 +55,8 @@
         "11/23"
       ],
       "mentions": 4,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 5,
       "luwd": [
         "11/26",
@@ -91,26 +93,11 @@
         "11/23"
       ],
       "mentions": 4,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.8,
       "luw": 2,
       "luwd": [
         "11/26",
-        "11/24"
-      ]
-    },
-    {
-      "symbol": "2330",
-      "name": "台積電",
-      "days": 3,
-      "dates": [
-        "11/27",
-        "11/25",
-        "11/24"
-      ],
-      "mentions": 4,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
         "11/24"
       ]
     },
@@ -145,7 +132,8 @@
         "11/25"
       ],
       "mentions": 3,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 10,
       "luw": 5,
       "luwd": [
         "11/26",
@@ -165,7 +153,8 @@
         "11/25"
       ],
       "mentions": 3,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 5,
       "luwd": [
         "11/26",
@@ -211,6 +200,21 @@
       ]
     },
     {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 2,
+      "dates": [
+        "11/27",
+        "11/24"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/24"
+      ]
+    },
+    {
       "symbol": "2485",
       "name": "兆赫",
       "days": 2,
@@ -219,7 +223,8 @@
         "11/26"
       ],
       "mentions": 2,
-      "limitUp": false,
+      "limitUp": true,
+      "pct": 9.9,
       "luw": 2,
       "luwd": [
         "11/26",
@@ -507,7 +512,8 @@
           "symbol": "3491",
           "name": "昇達科",
           "point": "低軌衛星股亮燈",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "11/26",
@@ -521,7 +527,8 @@
           "symbol": "2313",
           "name": "華通",
           "point": "低軌衛星股亮燈",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.8,
           "luw": 2,
           "luwd": [
             "11/26",
@@ -532,7 +539,8 @@
           "symbol": "4916",
           "name": "事欣科",
           "point": "低軌衛星股亮燈",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 2,
           "luwd": [
             "11/26",
@@ -579,7 +587,8 @@
           "symbol": "7717",
           "name": "萊德光電-KY",
           "point": "低軌衛星雷射通訊營收增",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 10,
           "luw": 5,
           "luwd": [
             "11/26",
@@ -593,7 +602,8 @@
           "symbol": "2313",
           "name": "華通",
           "point": "受惠衛星業務營收成長",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.8,
           "luw": 2,
           "luwd": [
             "11/26",
@@ -604,7 +614,8 @@
           "symbol": "4916",
           "name": "事欣科",
           "point": "低軌衛星概念股",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 2,
           "luwd": [
             "11/26",
@@ -615,7 +626,8 @@
           "symbol": "6190",
           "name": "萬泰科",
           "point": "低軌衛星概念股",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "11/26",
@@ -629,7 +641,8 @@
           "symbol": "2485",
           "name": "兆赫",
           "point": "低軌衛星概念股",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.9,
           "luw": 2,
           "luwd": [
             "11/26",
@@ -640,8 +653,7 @@
           "symbol": "6517",
           "name": "保勝光學",
           "point": "低軌衛星概念股",
-          "limitUp": true,
-          "pct": 10
+          "limitUp": false
         },
         {
           "symbol": "6152",
@@ -658,7 +670,8 @@
           "symbol": "4909",
           "name": "新復興",
           "point": "低軌衛星概念股",
-          "limitUp": false,
+          "limitUp": true,
+          "pct": 9.8,
           "luw": 5,
           "luwd": [
             "11/26",
@@ -673,7 +686,7 @@
           "name": "碩禾",
           "point": "太陽能族群漲停",
           "limitUp": true,
-          "pct": 9.6,
+          "pct": 9.9,
           "luw": 5,
           "luwd": [
             "11/26",
