@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updatedAt": "2026-11-27T06:02:26.153Z",
+  "updatedAt": "2026-11-27T09:43:44.244Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPUWpMR25qUktaWURoeGtjUzFlZURwaEFCUU10bTJ1QXlPVzFYSVBOd0NteEJNQ2xMQ1VfVEZ4MHFIRU94MWVCLXJMMGExbXhpUkZPRWdVNE85aDI2S0MwVGVfM0dYb2lSWUNvY19makw2cVlET3hKaTBVelBoRGVncmFwMTB1QnRK",
@@ -71,30 +71,14 @@
           "name": "光焱科技",
           "point": "跟風觸頂",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "11/26",
-            "11/25",
-            "11/24",
-            "11/23",
-            "11/20"
-          ]
+          "pct": 10
         },
         {
           "symbol": "3105",
           "name": "穩懋",
           "point": "跟風觸頂",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/26",
-            "11/25",
-            "11/24",
-            "11/23",
-            "11/20"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "2345",
@@ -132,15 +116,7 @@
           "name": "上詮",
           "point": "跟風觸頂",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "11/26",
-            "11/25",
-            "11/24",
-            "11/23",
-            "11/20"
-          ]
+          "pct": 10
         },
         {
           "symbol": "3406",
@@ -351,15 +327,7 @@
           "name": "昇達科",
           "point": "低軌衛星族群，紅燈海再現",
           "limitUp": true,
-          "pct": 10,
-          "luw": 5,
-          "luwd": [
-            "11/26",
-            "11/25",
-            "11/24",
-            "11/23",
-            "11/20"
-          ]
+          "pct": 10
         },
         {
           "symbol": "7717",
@@ -405,15 +373,7 @@
           "name": "宣德",
           "point": "低軌衛星族群，紅燈海再現",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/26",
-            "11/25",
-            "11/24",
-            "11/23",
-            "11/20"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6190",
@@ -435,15 +395,7 @@
           "name": "穩懋",
           "point": "低軌衛星族群，紅燈海再現",
           "limitUp": true,
-          "pct": 9.9,
-          "luw": 5,
-          "luwd": [
-            "11/26",
-            "11/25",
-            "11/24",
-            "11/23",
-            "11/20"
-          ]
+          "pct": 9.9
         },
         {
           "symbol": "6285",
@@ -509,15 +461,7 @@
           "name": "金居",
           "point": "獲SpaceX指定採用的銅箔廠",
           "limitUp": true,
-          "pct": 9.8,
-          "luw": 5,
-          "luwd": [
-            "11/26",
-            "11/25",
-            "11/24",
-            "11/23",
-            "11/20"
-          ]
+          "pct": 9.8
         }
       ],
       "background": "SpaceX獲美聯邦傳播委員會批准部署百萬顆衛星建置太空資料中心，激勵低軌衛星族群全面升空，帶動高階PCB、低損耗材料及射頻、光通訊元件需求。",
