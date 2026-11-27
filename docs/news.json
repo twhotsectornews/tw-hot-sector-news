@@ -1,6 +1,6 @@
 {
-  "asOf": "2026-11-27T11:02:00.937+08:00",
-  "generatedAt": "2026-11-27T03:02:00.937Z",
+  "asOf": "2026-11-27T12:07:24.372+08:00",
+  "generatedAt": "2026-11-27T04:07:24.372Z",
   "keyword": "熱門族群",
   "filter": "熱門族群新聞（今天＋前一發布日）＋ 題材背景；個股標月K型態、今日漲停與近一週漲停",
   "note": "族群背景由 AI（Gemini）整理，含產業常識補充，僅供參考、非投資建議。",
@@ -22,6 +22,25 @@
       "luwd": [
         "11/24",
         "11/23"
+      ]
+    },
+    {
+      "symbol": "4916",
+      "name": "事欣科",
+      "days": 4,
+      "dates": [
+        "11/27",
+        "11/26",
+        "11/25",
+        "11/23"
+      ],
+      "mentions": 4,
+      "limitUp": true,
+      "pct": 9.9,
+      "luw": 2,
+      "luwd": [
+        "11/26",
+        "11/24"
       ]
     },
     {
@@ -51,6 +70,65 @@
         "11/23"
       ],
       "mentions": 4,
+      "limitUp": true,
+      "pct": 9.9,
+      "luw": 5,
+      "luwd": [
+        "11/26",
+        "11/25",
+        "11/24",
+        "11/23",
+        "11/20"
+      ]
+    },
+    {
+      "symbol": "7717",
+      "name": "萊德光電-KY",
+      "days": 3,
+      "dates": [
+        "11/27",
+        "11/26",
+        "11/25"
+      ],
+      "mentions": 3,
+      "limitUp": true,
+      "pct": 9.9,
+      "luw": 5,
+      "luwd": [
+        "11/26",
+        "11/25",
+        "11/24",
+        "11/23",
+        "11/20"
+      ]
+    },
+    {
+      "symbol": "2313",
+      "name": "華通",
+      "days": 3,
+      "dates": [
+        "11/27",
+        "11/26",
+        "11/23"
+      ],
+      "mentions": 3,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "11/26",
+        "11/24"
+      ]
+    },
+    {
+      "symbol": "6190",
+      "name": "萬泰科",
+      "days": 3,
+      "dates": [
+        "11/27",
+        "11/26",
+        "11/25"
+      ],
+      "mentions": 3,
       "limitUp": true,
       "pct": 9.9,
       "luw": 5,
@@ -101,24 +179,6 @@
       ]
     },
     {
-      "symbol": "4916",
-      "name": "事欣科",
-      "days": 3,
-      "dates": [
-        "11/26",
-        "11/25",
-        "11/23"
-      ],
-      "mentions": 3,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 2,
-      "luwd": [
-        "11/26",
-        "11/24"
-      ]
-    },
-    {
       "symbol": "6285",
       "name": "啟碁",
       "days": 3,
@@ -133,6 +193,67 @@
       "luw": 2,
       "luwd": [
         "11/26",
+        "11/24"
+      ]
+    },
+    {
+      "symbol": "2485",
+      "name": "兆赫",
+      "days": 2,
+      "dates": [
+        "11/27",
+        "11/26"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 2,
+      "luwd": [
+        "11/26",
+        "11/24"
+      ]
+    },
+    {
+      "symbol": "6443",
+      "name": "元晶",
+      "days": 2,
+      "dates": [
+        "11/27",
+        "11/25"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/24"
+      ]
+    },
+    {
+      "symbol": "2330",
+      "name": "台積電",
+      "days": 2,
+      "dates": [
+        "11/27",
+        "11/24"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
+        "11/24"
+      ]
+    },
+    {
+      "symbol": "2317",
+      "name": "鴻海",
+      "days": 2,
+      "dates": [
+        "11/27",
+        "11/26"
+      ],
+      "mentions": 2,
+      "limitUp": false,
+      "luw": 1,
+      "luwd": [
         "11/24"
       ]
     },
@@ -319,65 +440,8 @@
       ]
     },
     {
-      "symbol": "7717",
-      "name": "萊德光電-KY",
-      "days": 2,
-      "dates": [
-        "11/26",
-        "11/25"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 10,
-      "luw": 5,
-      "luwd": [
-        "11/26",
-        "11/25",
-        "11/24",
-        "11/23",
-        "11/20"
-      ]
-    },
-    {
-      "symbol": "2313",
-      "name": "華通",
-      "days": 2,
-      "dates": [
-        "11/26",
-        "11/23"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 9.8,
-      "luw": 2,
-      "luwd": [
-        "11/26",
-        "11/24"
-      ]
-    },
-    {
       "symbol": "5457",
       "name": "宣德",
-      "days": 2,
-      "dates": [
-        "11/26",
-        "11/25"
-      ],
-      "mentions": 2,
-      "limitUp": true,
-      "pct": 9.9,
-      "luw": 5,
-      "luwd": [
-        "11/26",
-        "11/25",
-        "11/24",
-        "11/23",
-        "11/20"
-      ]
-    },
-    {
-      "symbol": "6190",
-      "name": "萬泰科",
       "days": 2,
       "dates": [
         "11/26",
@@ -430,35 +494,182 @@
         "11/26",
         "11/24"
       ]
-    },
-    {
-      "symbol": "3443",
-      "name": "創意",
-      "days": 2,
-      "dates": [
-        "11/25",
-        "11/23"
-      ],
-      "mentions": 2,
-      "limitUp": false,
-      "luw": 1,
-      "luwd": [
-        "11/24"
-      ]
-    },
-    {
-      "symbol": "5274",
-      "name": "信驊",
-      "days": 2,
-      "dates": [
-        "11/25",
-        "11/23"
-      ],
-      "mentions": 2,
-      "limitUp": false
     }
   ],
   "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNal84dFBSVU50TUZDaDlOQ1pjQjRxeDliZ2YzX3VfLS1oMVlJdjZvM2RmS0VpWmppZWdGRVF0UTgzaXR2NDdYdmxSNm9BN0FSSEhqcmIxaHVUVWlRUGV0MDkyVDFSbFhueWdXV0FGd1F0bDhzR01yYWZ3blBGR3FPOEVpQmlRTlk5",
+      "tkey": "熱門族群太空夢起飛！低軌衛星連刷紅燈搶C位太陽能喊燒",
+      "title": "《熱門族群》太空夢起飛！低軌衛星連刷紅燈搶C位 太陽能喊燒 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6373567001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 27 Nov 2026 03:15:00 GMT",
+      "stocks": [
+        {
+          "symbol": "7717",
+          "name": "萊德光電-KY",
+          "point": "低軌衛星雷射通訊營收增",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/26",
+            "11/25",
+            "11/24",
+            "11/23",
+            "11/20"
+          ]
+        },
+        {
+          "symbol": "2313",
+          "name": "華通",
+          "point": "受惠衛星業務營收成長",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/26",
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "4916",
+          "name": "事欣科",
+          "point": "低軌衛星概念股",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "11/26",
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "6190",
+          "name": "萬泰科",
+          "point": "低軌衛星概念股",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/26",
+            "11/25",
+            "11/24",
+            "11/23",
+            "11/20"
+          ]
+        },
+        {
+          "symbol": "2485",
+          "name": "兆赫",
+          "point": "低軌衛星概念股",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/26",
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "6517",
+          "name": "保勝光學",
+          "point": "低軌衛星概念股",
+          "limitUp": true,
+          "pct": 10
+        },
+        {
+          "symbol": "6152",
+          "name": "百一",
+          "point": "低軌衛星概念股",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 1,
+          "luwd": [
+            "11/26"
+          ]
+        },
+        {
+          "symbol": "4909",
+          "name": "新復興",
+          "point": "低軌衛星概念股",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/26",
+            "11/25",
+            "11/24",
+            "11/23",
+            "11/20"
+          ]
+        },
+        {
+          "symbol": "3691",
+          "name": "碩禾",
+          "point": "太陽能族群漲停",
+          "limitUp": false,
+          "luw": 5,
+          "luwd": [
+            "11/26",
+            "11/25",
+            "11/24",
+            "11/23",
+            "11/20"
+          ]
+        },
+        {
+          "symbol": "6443",
+          "name": "元晶",
+          "point": "太陽能族群受惠",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "3576",
+          "name": "聯合再生",
+          "point": "太陽能族群受惠",
+          "limitUp": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "盤中聯手拉抬",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "盤中聯手拉抬",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "3388",
+          "name": "台光電",
+          "point": "受惠衛星及終端設備升級",
+          "limitUp": false
+        },
+        {
+          "symbol": "3698",
+          "name": "昇達科",
+          "point": "受惠衛星及終端設備升級",
+          "limitUp": false
+        }
+      ],
+      "background": "SpaceX獲准發射百萬顆衛星，Google攜手藍色起源發展太空AI運算，帶動低軌衛星產業成長。太陽能族群也因政策與需求受關注。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
     {
       "gid": "CBMiiAFBVV95cUxPUWpMR25qUktaWURoeGtjUzFlZURwaEFCUU10bTJ1QXlPVzFYSVBOd0NteEJNQ2xMQ1VfVEZ4MHFIRU94MWVCLXJMMGExbXhpUkZPRWdVNE85aDI2S0MwVGVfM0dYb2lSWUNvY19makw2cVlET3hKaTBVelBoRGVncmFwMTB1QnRK",
       "tkey": "熱門族群藥華藥亮燈攻1180元！生醫族群狂飆逾4.5%",
@@ -981,408 +1192,6 @@
       "themeTags": [
         "需求驅動",
         "國際大廠",
-        "政策關稅"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNYVozUHkxSGlLWDNKUjhpUXFPYlRMRlpzZ0JiMDVsRkZxeUpMVGZweVV4MG1XS2NuUWMtcnN0M3ZadG9BZWgxOWtGUXVpVUo2UFVyQm9GSjVGdEZSQUl6UE50VkZRMjQwUGNZaHNxdVltYlJrd29RR3ZJRmNIVmFueWxVclBPdENp",
-      "tkey": "熱門族群TOP5高價股3紅2黑作收創意摔跌停、股后逆勢穩盤",
-      "title": "《熱門族群》TOP5高價股3紅2黑作收 創意摔跌停、股后逆勢穩盤 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6371500001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Wed, 25 Nov 2026 06:20:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2059",
-          "name": "川湖",
-          "point": "逆勢大漲，股后逆勢穩盤",
-          "limitUp": false,
-          "luw": 2,
-          "luwd": [
-            "11/26",
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "3653",
-          "name": "健策",
-          "point": "同步收紅，展現抗跌力道",
-          "limitUp": false,
-          "luw": 2,
-          "luwd": [
-            "11/26",
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "3008",
-          "name": "大立光",
-          "point": "同步收紅，展現抗跌力道",
-          "limitUp": false,
-          "luw": 2,
-          "luwd": [
-            "11/26",
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "3443",
-          "name": "創意",
-          "point": "遭空方狙擊，盤中鎖死跌停",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "5274",
-          "name": "信驊",
-          "point": "下跌逾3%，險些失守8500元",
-          "limitUp": false
-        },
-        {
-          "symbol": "6223",
-          "name": "旺矽",
-          "point": "收在跌停最低點",
-          "limitUp": false
-        },
-        {
-          "symbol": "2454",
-          "name": "聯發科",
-          "point": "收在跌停最低點",
-          "limitUp": false,
-          "luw": 2,
-          "luwd": [
-            "11/24",
-            "11/23"
-          ]
-        },
-        {
-          "symbol": "7856",
-          "name": "漢測",
-          "point": "收在跌停最低點",
-          "limitUp": false
-        },
-        {
-          "symbol": "7828",
-          "name": "創新服務",
-          "point": "收在跌停最低點",
-          "limitUp": false
-        }
-      ],
-      "background": "美國最新關稅政策引發市場恐慌，台股大盤重挫，高價股表現分歧，部分個股因AI類股殺盤與獲利不如預期而重跌。",
-      "themeTags": [
-        "政策關稅"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxONFlyd0NxMmRMb2tId1EyU1FFc3EzeEctTHA3Z1QyaDY5U0h4OUhyR1dWb2NYZENJUjhDeW5Icm0xbm4tTmxxRUFsRTA3b3hMYXdqY1VFSGNxMnQtczlOaXNxMURNRXJLZmplaUhhVWpyenEybE1lNFhWd1ZDNy15Q3ZiVG1RR1pC",
-      "tkey": "熱門族群輝黃稍縱即逝AI代工大廠股價今慘綠",
-      "title": "《熱門族群》「輝黃」稍縱即逝 AI代工大廠股價今慘綠 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6371422001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Wed, 25 Nov 2026 05:08:00 GMT",
-      "stocks": [
-        {
-          "symbol": "2382",
-          "name": "廣達",
-          "point": "股價跌破五日線創11個月新低",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "2356",
-          "name": "英業達",
-          "point": "盤中亮燈跌停",
-          "limitUp": false
-        },
-        {
-          "symbol": "2324",
-          "name": "仁寶",
-          "point": "盤中亮燈跌停",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "6669",
-          "name": "緯穎",
-          "point": "盤中股價殺至跌停",
-          "limitUp": false,
-          "luw": 2,
-          "luwd": [
-            "11/26",
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "8210",
-          "name": "勤誠",
-          "point": "股價跌回起漲點亮燈跌停",
-          "limitUp": false,
-          "luw": 2,
-          "luwd": [
-            "11/26",
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "2376",
-          "name": "技嘉",
-          "point": "盤中掛綠燈",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "2377",
-          "name": "微星",
-          "point": "盤中掛綠燈",
-          "limitUp": false
-        },
-        {
-          "symbol": "2357",
-          "name": "華碩",
-          "point": "股價重挫逾6%",
-          "limitUp": false
-        }
-      ],
-      "background": "AI教父黃仁勳相關消息引發股價劇烈波動，儘管公司營運表現亮眼，但市場擔憂AI投資過熱、晶片管制及關稅等因素，導致AI代工廠股價修正。",
-      "themeTags": [
-        "需求驅動"
-      ]
-    },
-    {
-      "gid": "CBMiWEFVX3lxTE1FODNoOWJWT2hHQlhCNUFxUW5OcUstVVd4LXNnMENIc0xjb2hfXzJ0dTlGM283cE11OC10TTg0bEZIa3NQcWt0d01NNVZULTlramtsczdJUS0",
-      "tkey": "熱門族群油價跌利多無路用航空股跌成一片",
-      "title": "熱門族群》油價跌利多無路用 航空股跌成一片 - 自由時報",
-      "url": "https://stock.ltn.com.tw/article/vjhujvbantrx",
-      "source": "自由時報",
-      "pubDate": "Wed, 25 Nov 2026 03:41:27 GMT",
-      "stocks": [],
-      "background": "油價下跌通常有利於航空業降低營運成本，但此新聞指出即使油價下跌，航空股仍普遍下跌，顯示市場對航空業前景的擔憂蓋過油價利多。",
-      "themeTags": []
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxOV252MkJENEF5NTNrX0FoeFlnUkNVcUlLMC1YZWpQVm9VbW9ManF2WWd5cnZWNFNuRHpyVUF3YnRlRVdydHdsVUZHU205UEp2RUszdGdqZDd6dHB5d2VReEtVSWQ3UnZhQUNDRHk1c19CaDd3WlY3ZGFTbS13bnFXV1h6NUc4WTc0",
-      "tkey": "熱門族群台股閃崩3000點！低軌衛星墜綠海逾10檔躺平倒地",
-      "title": "《熱門族群》台股閃崩3000點！低軌衛星墜綠海 逾10檔躺平倒地 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/RealTimeNews/NewsContent.aspx?SN=6371276001&PU=0010",
-      "source": "富聯網",
-      "pubDate": "Wed, 25 Nov 2026 02:55:00 GMT",
-      "stocks": [
-        {
-          "symbol": "7717",
-          "name": "萊德光電-KY",
-          "point": "解禁出關也跌停躺平",
-          "limitUp": false,
-          "luw": 5,
-          "luwd": [
-            "11/26",
-            "11/25",
-            "11/24",
-            "11/23",
-            "11/20"
-          ]
-        },
-        {
-          "symbol": "3491",
-          "name": "昇達科",
-          "point": "獲看好產品升級卻跌停",
-          "limitUp": false,
-          "luw": 5,
-          "luwd": [
-            "11/26",
-            "11/25",
-            "11/24",
-            "11/23",
-            "11/20"
-          ]
-        },
-        {
-          "symbol": "2454",
-          "name": "聯發科",
-          "point": "低軌衛星概念股也下跌",
-          "limitUp": false,
-          "luw": 2,
-          "luwd": [
-            "11/24",
-            "11/23"
-          ]
-        },
-        {
-          "symbol": "5457",
-          "name": "宣德",
-          "point": "低軌衛星概念股也下跌",
-          "limitUp": false,
-          "luw": 5,
-          "luwd": [
-            "11/26",
-            "11/25",
-            "11/24",
-            "11/23",
-            "11/20"
-          ]
-        },
-        {
-          "symbol": "6190",
-          "name": "萬泰科",
-          "point": "低軌衛星概念股也下跌",
-          "limitUp": false,
-          "luw": 5,
-          "luwd": [
-            "11/26",
-            "11/25",
-            "11/24",
-            "11/23",
-            "11/20"
-          ]
-        },
-        {
-          "symbol": "3105",
-          "name": "穩懋",
-          "point": "低軌衛星概念股也下跌",
-          "limitUp": false,
-          "luw": 5,
-          "luwd": [
-            "11/26",
-            "11/25",
-            "11/24",
-            "11/23",
-            "11/20"
-          ]
-        },
-        {
-          "symbol": "6285",
-          "name": "啟碁",
-          "point": "低軌衛星概念股也下跌",
-          "limitUp": false,
-          "luw": 2,
-          "luwd": [
-            "11/26",
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "6443",
-          "name": "元晶",
-          "point": "低軌衛星概念股也下跌",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "4916",
-          "name": "事欣科",
-          "point": "看好營運卻遭摜至跌停",
-          "limitUp": false,
-          "luw": 2,
-          "luwd": [
-            "11/26",
-            "11/24"
-          ]
-        }
-      ],
-      "background": "SpaceX合併傳聞與馬斯克AI失利衝擊，台股低軌衛星概念股補跌，但長線AI、生技、太空經濟等新興商機仍受關注。",
-      "themeTags": [
-        "需求驅動",
-        "國際大廠"
-      ]
-    },
-    {
-      "gid": "CBMiiAFBVV95cUxNSklQMkY4NVpJazJkMGpBdFYtTWhqRE91aVc3TzZTWTNldnZ6cnYwS244SVhtQVpRMnlOVGdHaXpZaW5fdXA5RC13N1dqQ2Nkb2g4U25OVURHRDh1THdaZDFQMDc1Z1l6cV85eGhWbXEwSmJLSFJ1eVhmWVBvNmxTeWVlQi0yclZK",
-      "tkey": "熱門族群資安股成盤面紅星安瑞-KY、中華資安4檔亮燈",
-      "title": "《熱門族群》資安股成盤面紅星 安瑞-KY、中華資安4檔亮燈 - 富聯網",
-      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6371235001&PU=1002",
-      "source": "富聯網",
-      "pubDate": "Wed, 25 Nov 2026 02:16:00 GMT",
-      "stocks": [
-        {
-          "symbol": "3664",
-          "name": "安瑞-KY",
-          "point": "開盤率先攻上漲停",
-          "limitUp": true,
-          "pct": 9.9
-        },
-        {
-          "symbol": "7765",
-          "name": "中華資安",
-          "point": "盤中攻上漲停，專案待驗收",
-          "limitUp": true,
-          "pct": 9.9,
-          "luw": 2,
-          "luwd": [
-            "11/25",
-            "11/20"
-          ]
-        },
-        {
-          "symbol": "7767",
-          "name": "仁大資訊",
-          "point": "陸續亮燈漲停",
-          "limitUp": true,
-          "pct": 9.9
-        },
-        {
-          "symbol": "6590",
-          "name": "普鴻",
-          "point": "陸續亮燈漲停",
-          "status": "高檔修正",
-          "dist": -10.4,
-          "limitUp": false
-        },
-        {
-          "symbol": "6163",
-          "name": "華電網",
-          "point": "同步走高，展現抗跌力道",
-          "limitUp": false
-        },
-        {
-          "symbol": "6148",
-          "name": "驊宏資",
-          "point": "同步走高，展現抗跌力道",
-          "limitUp": false
-        },
-        {
-          "symbol": "6112",
-          "name": "邁達特",
-          "point": "同步走高，展現抗跌力道",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/24"
-          ]
-        },
-        {
-          "symbol": "2468",
-          "name": "華經",
-          "point": "同步走高，展現抗跌力道",
-          "limitUp": false,
-          "luw": 1,
-          "luwd": [
-            "11/20"
-          ]
-        },
-        {
-          "symbol": "8272",
-          "name": "全景軟體",
-          "point": "同步走高，展現抗跌力道",
-          "limitUp": false
-        }
-      ],
-      "background": "資安股受電商資料外洩事件與政府機關資安預算核銷採購旺季雙重因素帶動，加上金融監理與資安法規趨嚴，需求持續成長。",
-      "themeTags": [
-        "需求驅動",
         "政策關稅"
       ]
     }
