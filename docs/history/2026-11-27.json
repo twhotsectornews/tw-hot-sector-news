@@ -1,0 +1,263 @@
+{
+  "date": "2026-11-27",
+  "updatedAt": "2026-11-27T18:51:11.150Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxQWHZOXzd0OEh1WTBUZld1SE4xaW9kTmVjdGI4NW9kZzkxdVpla3kxNU9sUDRkdURLdzR1WlNGSHJ5bWFjWFZlY2dHbXJtWEc4SktxOXNEa2JmWXVUNHBQdzJJbDhGQzNvQUtsdUJacHZqUDJHREtqdFc2UW0yZnozWXNtU1JESG9K",
+      "tkey": "熱門族群資金轉向太空！低軌衛星領頭衝3檔亮燈漲停",
+      "title": "《熱門族群》資金轉向太空！低軌衛星領頭衝 3檔亮燈漲停 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6373643001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 27 Nov 2026 04:27:00 GMT",
+      "stocks": [
+        {
+          "symbol": "3491",
+          "name": "昇達科",
+          "point": "低軌衛星股亮燈",
+          "limitUp": false
+        },
+        {
+          "symbol": "2313",
+          "name": "華通",
+          "point": "低軌衛星股亮燈",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 3,
+          "luwd": [
+            "11/27",
+            "11/26",
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "4916",
+          "name": "事欣科",
+          "point": "低軌衛星股亮燈",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 3,
+          "luwd": [
+            "11/27",
+            "11/26",
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "權值股小跌",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2454",
+          "name": "聯發科",
+          "point": "權值股下跌",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/24",
+            "11/23"
+          ]
+        }
+      ],
+      "background": "低軌衛星產業受惠於全球通訊需求增長，SpaceX 等國際大廠積極佈局，帶動台灣相關供應鏈發展，市場資金轉向太空概念股。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxNal84dFBSVU50TUZDaDlOQ1pjQjRxeDliZ2YzX3VfLS1oMVlJdjZvM2RmS0VpWmppZWdGRVF0UTgzaXR2NDdYdmxSNm9BN0FSSEhqcmIxaHVUVWlRUGV0MDkyVDFSbFhueWdXV0FGd1F0bDhzR01yYWZ3blBGR3FPOEVpQmlRTlk5",
+      "tkey": "熱門族群太空夢起飛！低軌衛星連刷紅燈搶C位太陽能喊燒",
+      "title": "《熱門族群》太空夢起飛！低軌衛星連刷紅燈搶C位 太陽能喊燒 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6373567001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Fri, 27 Nov 2026 03:15:00 GMT",
+      "stocks": [
+        {
+          "symbol": "7717",
+          "name": "萊德光電-KY",
+          "point": "低軌衛星雷射通訊營收增",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/27",
+            "11/26",
+            "11/25",
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "2313",
+          "name": "華通",
+          "point": "受惠衛星業務營收成長",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 3,
+          "luwd": [
+            "11/27",
+            "11/26",
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "4916",
+          "name": "事欣科",
+          "point": "低軌衛星概念股",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 3,
+          "luwd": [
+            "11/27",
+            "11/26",
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "6190",
+          "name": "萬泰科",
+          "point": "低軌衛星概念股",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/27",
+            "11/26",
+            "11/25",
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "2485",
+          "name": "兆赫",
+          "point": "低軌衛星概念股",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 3,
+          "luwd": [
+            "11/27",
+            "11/26",
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "6517",
+          "name": "保勝光學",
+          "point": "低軌衛星概念股",
+          "limitUp": true,
+          "pct": 10,
+          "luw": 5,
+          "luwd": [
+            "11/27",
+            "11/26",
+            "11/25",
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "6152",
+          "name": "百一",
+          "point": "低軌衛星概念股",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 2,
+          "luwd": [
+            "11/27",
+            "11/26"
+          ]
+        },
+        {
+          "symbol": "4909",
+          "name": "新復興",
+          "point": "低軌衛星概念股",
+          "limitUp": true,
+          "pct": 9.9,
+          "luw": 5,
+          "luwd": [
+            "11/27",
+            "11/26",
+            "11/25",
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "3691",
+          "name": "碩禾",
+          "point": "太陽能族群漲停",
+          "limitUp": true,
+          "pct": 9.6,
+          "luw": 5,
+          "luwd": [
+            "11/27",
+            "11/26",
+            "11/25",
+            "11/24",
+            "11/23"
+          ]
+        },
+        {
+          "symbol": "6443",
+          "name": "元晶",
+          "point": "太陽能族群受惠",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "3576",
+          "name": "聯合再生",
+          "point": "太陽能族群受惠",
+          "limitUp": false
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "盤中聯手拉抬",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "盤中聯手拉抬",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "3388",
+          "name": "台光電",
+          "point": "受惠衛星及終端設備升級",
+          "limitUp": false
+        },
+        {
+          "symbol": "3698",
+          "name": "昇達科",
+          "point": "受惠衛星及終端設備升級",
+          "limitUp": false
+        }
+      ],
+      "background": "SpaceX獲准發射百萬顆衛星，Google攜手藍色起源發展太空AI運算，帶動低軌衛星產業成長。太陽能族群也因政策與需求受關注。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    }
+  ]
+}

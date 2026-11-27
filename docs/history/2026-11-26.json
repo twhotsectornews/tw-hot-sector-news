@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updatedAt": "2026-11-27T11:33:50.778Z",
+  "updatedAt": "2026-11-27T18:51:11.151Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPUWpMR25qUktaWURoeGtjUzFlZURwaEFCUU10bTJ1QXlPVzFYSVBOd0NteEJNQ2xMQ1VfVEZ4MHFIRU94MWVCLXJMMGExbXhpUkZPRWdVNE85aDI2S0MwVGVfM0dYb2lSWUNvY19makw2cVlET3hKaTBVelBoRGVncmFwMTB1QnRK",
@@ -99,8 +99,9 @@
           "point": "跟風觸頂",
           "limitUp": true,
           "pct": 10,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "11/27",
             "11/26",
             "11/24"
           ]
@@ -337,11 +338,11 @@
           "pct": 10,
           "luw": 5,
           "luwd": [
+            "11/27",
             "11/26",
             "11/25",
             "11/24",
-            "11/23",
-            "11/20"
+            "11/23"
           ]
         },
         {
@@ -350,8 +351,9 @@
           "point": "深耕低軌衛星多年，股價亮燈漲停",
           "limitUp": true,
           "pct": 9.8,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "11/27",
             "11/26",
             "11/24"
           ]
@@ -362,8 +364,9 @@
           "point": "低軌衛星族群，紅燈海再現",
           "limitUp": true,
           "pct": 9.9,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "11/27",
             "11/26",
             "11/24"
           ]
@@ -383,11 +386,11 @@
           "pct": 9.9,
           "luw": 5,
           "luwd": [
+            "11/27",
             "11/26",
             "11/25",
             "11/24",
-            "11/23",
-            "11/20"
+            "11/23"
           ]
         },
         {
@@ -415,8 +418,9 @@
           "point": "低軌衛星族群，紅燈海再現",
           "limitUp": true,
           "pct": 9.8,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "11/27",
             "11/26",
             "11/24"
           ]
@@ -427,8 +431,9 @@
           "point": "低軌衛星族群，紅燈海再現",
           "limitUp": true,
           "pct": 10,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "11/27",
             "11/26",
             "11/24"
           ]
@@ -439,8 +444,9 @@
           "point": "低軌衛星族群，紅燈海再現",
           "limitUp": true,
           "pct": 10,
-          "luw": 2,
+          "luw": 3,
           "luwd": [
+            "11/27",
             "11/26",
             "11/24"
           ]
