@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-28",
+  "updatedAt": "2026-11-28T17:29:20.913Z",
+  "news": [
+    {
+      "gid": "CBMiiAFBVV95cUxNRV9WandrTEpBcUFEYy1uN0ZLNjNoYzJBZzBmZWNOY3E0djdRQ0NtcWlLeHNmOHNwNjNZelgxZWo1NzlRYmxnN1ppOVpBQS1sSWpWVnRlMlp4WnF0R0NaYUhMdHpMclZSa2lpUS1MS2tlcnJPNFhYTGxtaUVtYm9DSTNnVHlxRjky",
+      "tkey": "熱門族群GTA6夯爆PS5概念股狂飆",
+      "title": "《熱門族群》GTA 6夯爆 PS5概念股狂飆 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6374424001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sat, 28 Nov 2026 08:23:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6908",
+          "name": "宏碁遊戲-創",
+          "point": "PS5代理權受惠買氣升溫",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/27"
+          ]
+        },
+        {
+          "symbol": "2317",
+          "name": "鴻海",
+          "point": "PS5概念股股價亮麗",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2385",
+          "name": "群光",
+          "point": "PS5概念股鎖住漲停",
+          "limitUp": true,
+          "pct": 9.8,
+          "luw": 1,
+          "luwd": [
+            "11/27"
+          ]
+        },
+        {
+          "symbol": "2330",
+          "name": "台積電",
+          "point": "PS5概念股股價亮麗",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "3653",
+          "name": "健策",
+          "point": "PS5概念股股價亮麗",
+          "limitUp": false,
+          "luw": 2,
+          "luwd": [
+            "11/26",
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "2379",
+          "name": "瑞昱",
+          "point": "PS5概念股股價亮麗",
+          "limitUp": false
+        }
+      ],
+      "background": "遊戲大作《俠盜獵車手6》熱銷帶動PS5主機買氣，相關供應鏈及代理商受惠，預期遊戲產業將持續成長。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMiiAFBVV95cUxPY25OczJxLVZpOFZmaXNYT3h6MHc5UTg0d21IMlZ0VTR6V3Q5em8xNnFpMG5qNmYtNTZIMkNPUm0yMEM2OElsSWpvVlEzNjhGdXhHak4wT214bnNHUkdod1BjSXZRd05JaEFiVlYyUjg3bGw0T1YwWEx2b0Fqd2NBR2N0OEFFb1hw",
+      "tkey": "熱門族群太空AI星系部屬獲准SpaceX新商機太陽能爆富機會來了",
+      "title": "《熱門族群》太空AI星系部屬獲准 SpaceX新商機 太陽能爆富機會來了 - 富聯網",
+      "url": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6374411001&PU=1002",
+      "source": "富聯網",
+      "pubDate": "Sat, 28 Nov 2026 07:30:00 GMT",
+      "stocks": [
+        {
+          "symbol": "5483",
+          "name": "中美晶",
+          "point": "太空太陽能PERC產品出貨",
+          "limitUp": false
+        },
+        {
+          "symbol": "2464",
+          "name": "盟立",
+          "point": "切入太空太陽能市場",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "6443",
+          "name": "元晶",
+          "point": "太空太陽能概念股漲幅逾4%",
+          "limitUp": false,
+          "luw": 1,
+          "luwd": [
+            "11/24"
+          ]
+        },
+        {
+          "symbol": "3576",
+          "name": "聯合再生",
+          "point": "太空太陽能概念股漲幅逾4%",
+          "limitUp": false
+        },
+        {
+          "symbol": "6244",
+          "name": "茂迪",
+          "point": "太空太陽能概念股漲幅逾4%",
+          "limitUp": false
+        },
+        {
+          "symbol": "3508",
+          "name": "位速",
+          "point": "投入第三代太陽能材料研發",
+          "limitUp": false
+        },
+        {
+          "symbol": "4934",
+          "name": "太極",
+          "point": "太空太陽能概念股漲幅逾4%",
+          "limitUp": true,
+          "pct": 9.6,
+          "luw": 2,
+          "luwd": [
+            "11/27",
+            "11/24"
+          ]
+        }
+      ],
+      "background": "SpaceX獲准部署太空AI星系，帶動太空太陽能商機，台廠積極布局鈣鈦礦太陽能電池技術，搶攻新市場。",
+      "themeTags": [
+        "需求驅動",
+        "國際大廠"
+      ]
+    },
+    {
+      "gid": "CBMiWEFVX3lxTE92Sk9ySkc1Z0N0cTVqZmdqdWNvR0RQRGRwRFFtZEVQSnFWOXlkNUJQRzF6WllNQVk1Vm5qeXZJbjZSY2VNY2lyVmE5N2FVM2c2Y0Q5SEh2VjU",
+      "tkey": "熱門族群算力拚到外太空連結元件股大漲",
+      "title": "熱門族群》算力拚到外太空 連結元件股大漲 - 自由時報",
+      "url": "https://stock.ltn.com.tw/article/tmuuk2jbp0cy",
+      "source": "自由時報",
+      "pubDate": "Sat, 28 Nov 2026 00:13:51 GMT",
+      "stocks": [],
+      "background": "連結元件受惠於太空通訊與算力需求提升，為高速傳輸關鍵零組件，產業前景看好。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    }
+  ]
+}
