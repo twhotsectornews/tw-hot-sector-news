@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updatedAt": "2026-11-28T04:01:54.795Z",
+  "updatedAt": "2026-11-28T05:02:27.916Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPUWpMR25qUktaWURoeGtjUzFlZURwaEFCUU10bTJ1QXlPVzFYSVBOd0NteEJNQ2xMQ1VfVEZ4MHFIRU94MWVCLXJMMGExbXhpUkZPRWdVNE85aDI2S0MwVGVfM0dYb2lSWUNvY19makw2cVlET3hKaTBVelBoRGVncmFwMTB1QnRK",
@@ -13,35 +13,30 @@
         {
           "symbol": "6446",
           "name": "藥華藥",
-          "point": "亮燈攻1180元，新藥銷售成長",
-          "limitUp": false
+          "point": "亮燈攻漲停1180元，新藥銷售成長"
         },
         {
           "symbol": "6782",
           "name": "視陽",
-          "point": "狂飆7%以上，獲利創新高",
-          "limitUp": false
+          "point": "狂飆逾7%，EPS改寫歷史新高"
         },
         {
           "symbol": "6934",
           "name": "心誠鎂",
-          "point": "漲幅落在4.7%以上",
-          "limitUp": false
+          "point": "漲幅落在4.7~3.5%不等"
         },
         {
           "symbol": "4106",
           "name": "雃博",
-          "point": "漲幅落在3.5%以上",
-          "limitUp": false
+          "point": "漲幅落在4.7~3.5%不等"
         },
         {
           "symbol": "6472",
           "name": "保瑞",
-          "point": "漲幅落在3.5%以上",
-          "limitUp": false
+          "point": "漲幅落在4.7~3.5%不等"
         }
       ],
-      "background": "生醫族群受惠於新藥銷售成長與隱形眼鏡市場需求強勁，帶動相關個股營收與獲利表現亮眼，產業前景樂觀。",
+      "background": "生醫族群受惠於新藥銷售成長與隱形眼鏡市場需求強勁，帶動獲利進入爆發期，產業前景樂觀。",
       "themeTags": [
         "需求驅動"
       ]
