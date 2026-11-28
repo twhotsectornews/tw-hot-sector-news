@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updatedAt": "2026-11-28T03:01:44.849Z",
+  "updatedAt": "2026-11-28T04:01:54.795Z",
   "news": [
     {
       "gid": "CBMiiAFBVV95cUxPUWpMR25qUktaWURoeGtjUzFlZURwaEFCUU10bTJ1QXlPVzFYSVBOd0NteEJNQ2xMQ1VfVEZ4MHFIRU94MWVCLXJMMGExbXhpUkZPRWdVNE85aDI2S0MwVGVfM0dYb2lSWUNvY19makw2cVlET3hKaTBVelBoRGVncmFwMTB1QnRK",
@@ -42,6 +42,45 @@
         }
       ],
       "background": "生醫族群受惠於新藥銷售成長與隱形眼鏡市場需求強勁，帶動相關個股營收與獲利表現亮眼，產業前景樂觀。",
+      "themeTags": [
+        "需求驅動"
+      ]
+    },
+    {
+      "gid": "CBMijwFBVV95cUxNTDBoUWpOd2NuQ3B6ZHhUVjQ3cDFGUFJORzVIelBMTjVfR0xPdFlnN0F4SGRlNGI4TWxlYlFsQjV6WXhadFRrdENYdlVHWTFmN1J1NkVQR1hZRzdJMURHX0FNeF9nb2dWNFpVcTRTZ3dKc2dEcDBXZTFUSGZSYjd0dFIzLWhIbF8ybjlIdVNyWQ",
+      "tkey": "熱門族群藥華藥亮燈攻1180元！生醫族群狂飆逾4.5%",
+      "title": "《熱門族群》藥華藥亮燈攻1180元！生醫族群狂飆逾4.5% - 富聯網",
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6372590001&pu=News_0031",
+      "source": "富聯網",
+      "pubDate": "Thu, 26 Nov 2026 05:38:00 GMT",
+      "stocks": [
+        {
+          "symbol": "6446",
+          "name": "藥華藥",
+          "point": "亮燈漲停攻1180元"
+        },
+        {
+          "symbol": "6782",
+          "name": "視陽",
+          "point": "狂飆7%以上"
+        },
+        {
+          "symbol": "6934",
+          "name": "心誠鎂",
+          "point": "漲幅4.7%"
+        },
+        {
+          "symbol": "4106",
+          "name": "雃博",
+          "point": "漲幅3.5%"
+        },
+        {
+          "symbol": "6472",
+          "name": "保瑞",
+          "point": "漲幅4.7%"
+        }
+      ],
+      "background": "藥華藥新藥全球銷售成長，獲利進入爆發期。視陽隱形眼鏡需求強勁，營運逐季創高。",
       "themeTags": [
         "需求驅動"
       ]
